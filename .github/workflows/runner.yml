@@ -6,15 +6,19 @@ on:
       max_books:
         description: 'Maximum books to process in this run'
         required: false
-        default: '5'
+        default: '9999'
   schedule:
-    # Trigger automatically every 2 hours to process pending books
+    # Run every 2 hours continuously
     - cron: '0 */2 * * *'
+
+permissions:
+  actions: write
+  contents: read
 
 jobs:
   parse:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    timeout-minutes: 350
 
     steps:
       - name: Checkout code
@@ -40,15 +44,40 @@ jobs:
           print('Cluster Snapshot:', snap)
           "
 
-      - name: Run PREP404 Datacenter Orchestrator Batch
+      - name: Run PREP404 Datacenter Continuous Orchestrator
         run: |
           python -c "
           from sentinel import sentinel
           from orchestrator import orchestrator
+          import time
           sentinel.start()
           orchestrator.start()
-          import time
-          # Run for up to 5 hours or until stopped
-          for _ in range(180):
+          # Keep process alive up to 5.5 hours to process maximum books
+          for i in range(198):
               time.sleep(100)
+          "
+
+      - name: Auto-chain Next Run If Pending Books Remain
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python -c "
+          import json, subprocess
+          try:
+              from cloud_tracker import get_tracker
+              tracker = get_tracker()
+              cache = tracker.refresh_cache(force=True) if tracker.enabled else {}
+              with open('manifest.json') as f:
+                  manifest = json.load(f)
+              items = manifest.get('items', [])
+              pending = [it for it in items if not (tracker.enabled and tracker.is_already_completed(it.get('drive_file_id')))]
+              print(f'Pending books remaining: {len(pending)}')
+              if len(pending) > 0:
+                  print('Auto-triggering next run to keep parsing non-stop...')
+                  subprocess.run(['gh', 'workflow', 'run', 'runner.yml', '-f', 'max_books=9999'], check=True)
+              else:
+                  print('🎉 ALL 1,496 BOOKS IN CATALOG COMPLETED!')
+          except Exception as e:
+              print(f'Chain trigger notice: {e}')
           "

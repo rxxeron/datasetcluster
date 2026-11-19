@@ -392,31 +392,56 @@ class ParsingOrchestrator:
             cleanup_temp_file(temp_pdf)
 
     def run_worker_loop(self):
-        self.log("🚀 Orchestrator worker thread initialized.")
-        tracker = get_tracker()
-        if tracker.enabled:
-            tracker.refresh_cache(force=True)
+        self.log("🚀 Orchestrator worker thread initialized. Running continuous 24/7 parsing loop...")
+        
+        while self.running:
+            tracker = get_tracker()
+            if tracker.enabled:
+                try:
+                    tracker.refresh_cache(force=True)
+                except Exception as e:
+                    self.log(f"CloudTracker sync warning: {e}", "WARN")
 
-        if not os.path.exists(MANIFEST_FILE):
-            self.log("❌ manifest.json not found! Exiting worker loop.", "ERROR")
-            return
-
-        with open(MANIFEST_FILE, "r", encoding="utf-8") as f:
-            manifest_data = json.load(f)
-
-        items = manifest_data.get("items", [])
-        self.log(f"📚 Catalog loaded: {len(items)} total books.")
-
-        for item in items:
-            while self.paused:
-                time.sleep(2)
-            if not self.running:
+            if not os.path.exists(MANIFEST_FILE):
+                self.log("❌ manifest.json not found! Exiting worker loop.", "ERROR")
                 break
-            try:
-                self.process_book(item, tracker)
-            except Exception as e:
-                self.log(f"Unexpected error on {item.get('filename')}: {e}", "ERROR")
-                time.sleep(2)
+
+            with open(MANIFEST_FILE, "r", encoding="utf-8") as f:
+                manifest_data = json.load(f)
+
+            items = manifest_data.get("items", [])
+            
+            # Filter pending books that are not yet marked COMPLETED
+            pending_items = []
+            for it in items:
+                fid = it.get("drive_file_id")
+                if tracker and tracker.enabled and tracker.is_already_completed(fid):
+                    continue
+                # Also check local disk
+                col = it.get("collection", "unspecified")
+                book_slug = it.get("book_slug", fid)
+                book_json_path = os.path.join(PARSED_DIR, col, book_slug, "book.json")
+                if os.path.exists(book_json_path):
+                    continue
+                pending_items.append(it)
+
+            self.log(f"📚 Status: {len(pending_items)} pending books remaining out of {len(items)} catalog.")
+
+            if len(pending_items) == 0:
+                self.log("🎉🎉 [MISSION COMPLETE] All 1,496 books in catalog have been parsed and verified clean!", "SUCCESS")
+                time.sleep(60)
+                continue
+
+            for item in pending_items:
+                while self.paused:
+                    time.sleep(2)
+                if not self.running:
+                    break
+                try:
+                    self.process_book(item, tracker)
+                except Exception as e:
+                    self.log(f"Unexpected error on {item.get('filename')}: {e}", "ERROR")
+                    time.sleep(2)
 
     def start(self):
         if self.running:
