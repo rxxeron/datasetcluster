@@ -47,6 +47,9 @@ jobs:
           "
 
       - name: Run PREP404 Datacenter Continuous Orchestrator
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          GDRIVE_CREDENTIALS: ${{ secrets.GDRIVE_CREDENTIALS }}
         run: |
           python -c "
           from sentinel import sentinel
@@ -58,27 +61,6 @@ jobs:
           for i in range(198):
               time.sleep(100)
           "
-
-      - name: Save Parsed Books to GitHub Artifacts
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: prep404_parsed_books
-          path: parsed_output/
-          if-no-files-found: ignore
-          retention-days: 90
-
-      - name: Commit and Push Verified book.json to GitHub
-        if: always()
-        run: |
-          git config --global user.name "PREP404 Datacenter Bot"
-          git config --global user.email "bot@prep404.com"
-          git pull --rebase origin main || true
-          if [ -d "parsed_output" ]; then
-            git add parsed_output/
-            git commit -m "chore: save verified book.json from cloud runner [skip ci]" || true
-            git push origin main || true
-          fi
 
       - name: Auto-chain Next Run If Pending Books Remain
         if: always()

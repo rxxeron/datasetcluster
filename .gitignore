@@ -8,8 +8,9 @@ _tmp/
 *.tmp
 *.pdf
 
-# Only ignore intermediate granular page slices, KEEP verified book.json!
-parsed_output/**/pages/
+# Output directories & datasets - NEVER commit to git!
+parsed_output/
+output/
 *.zip
 
 # OS artifacts
