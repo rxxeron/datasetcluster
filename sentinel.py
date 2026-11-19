@@ -1,7 +1,10 @@
 """
-AAPathshala Sentinel: Self-Healing Cluster Health & Slot Orchestrator.
-Continuously monitors all remote GPU nodes, auto-heals downed endpoints,
-and dynamically manages worker slot allocation without deadlocks or crashes.
+PREP404 Sentinel: Real-Time Dynamic Cluster Monitor & Elastic Slot Orchestrator.
+
+Continuously probes all 18 remote GPU cluster nodes every 10 seconds.
+Dynamically scales the worker pool from current healthy nodes (e.g. 11 slots)
+up to MAXIMUM CAPACITY (57 concurrent workers) whenever nodes come online,
+and automatically quarantines downed nodes (HTTP 530/502) with zero deadlocks.
 """
 
 import concurrent.futures
@@ -11,50 +14,61 @@ import os
 import queue
 import threading
 import time
+import urllib.error
 import urllib.request
 from typing import Any, Dict, List, Optional
 
 logger = logging.getLogger("sentinel")
 logger.setLevel(logging.INFO)
 
-ENDPOINTS_FILE = os.path.join(os.path.dirname(__file__), "endpoints.json")
+# All 18 Benchly Cluster Machines
+ALL_18_NODES = [
+    {"name": "labpc", "replicas": 2, "workers": 4, "role": "dual_a4000"},
+    {"name": "labpc1", "replicas": 1, "workers": 3, "role": "single_a4000"},
+    {"name": "labpc2", "replicas": 1, "workers": 3, "role": "single_a4000"},
+    {"name": "labpc4", "replicas": 2, "workers": 4, "role": "dual_a4000"},
+    {"name": "labpc5", "replicas": 1, "workers": 3, "role": "single_a4000"},
+    {"name": "labpc6", "replicas": 1, "workers": 3, "role": "single_a4000"},
+    {"name": "labpc7", "replicas": 2, "workers": 4, "role": "dual_a4000"},
+    {"name": "labpc8", "replicas": 1, "workers": 3, "role": "single_a4000"},
+    {"name": "labpc10", "replicas": 1, "workers": 3, "role": "single_a4000"},
+    {"name": "labpc11", "replicas": 1, "workers": 3, "role": "single_a4000"},
+    {"name": "labpc21", "replicas": 1, "workers": 3, "role": "single_a4000"},
+    {"name": "labpc22", "replicas": 1, "workers": 3, "role": "single_a4000"},
+    {"name": "labpc23", "replicas": 1, "workers": 3, "role": "single_a4000"},
+    {"name": "labpc26", "replicas": 1, "workers": 3, "role": "single_a4000"},
+    {"name": "labpc27", "replicas": 1, "workers": 3, "role": "single_a4000"},
+    {"name": "labpc28", "replicas": 1, "workers": 3, "role": "single_a4000"},
+    {"name": "labpc30", "replicas": 1, "workers": 3, "role": "single_a4000"},
+    {"name": "labpc31", "replicas": 1, "workers": 3, "role": "single_a4000"},
+]
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Sentinel-Watcher/3.0",
+    "Content-Type": "application/json",
+}
 
 
-class ClusterSentinel:
-    def __init__(self, endpoints_path: str = ENDPOINTS_FILE, check_interval_sec: int = 10):
-        self.endpoints_path = endpoints_path
+class DynamicClusterSentinel:
+    def __init__(self, check_interval_sec: int = 10):
         self.check_interval_sec = check_interval_sec
         self.lock = threading.Lock()
         
-        # Raw endpoint configurations
-        self.endpoint_configs: List[Dict[str, Any]] = self._load_configs()
-        
-        # Live node status: name -> {status, ping_ms, workers, models, error, last_seen}
+        # Node status map: hostname -> {status, ping_ms, workers, models, error, last_seen}
         self.node_status: Dict[str, Dict[str, Any]] = {}
         
         # Active FIFO slots queue for workers
         self.slot_queue: queue.Queue = queue.Queue()
-        self._current_slot_endpoints: List[Dict[str, Any]] = []
+        self.active_slots_count: int = 0
         
-        # Callback for event streaming (to dashboard SSE)
+        # Callbacks for event broadcasting (SSE dashboard & terminal)
         self.event_callbacks: List[Any] = []
         
         self._running = False
         self._thread: Optional[threading.Thread] = None
-
-    def _load_configs(self) -> List[Dict[str, Any]]:
-        if os.path.exists(self.endpoints_path):
-            try:
-                with open(self.endpoints_path, "r", encoding="utf-8") as f:
-                    return json.load(f)
-            except Exception as e:
-                logger.error(f"Error loading endpoints.json: {e}")
-        return []
-
-    def save_configs(self):
-        with self.lock:
-            with open(self.endpoints_path, "w", encoding="utf-8") as f:
-                json.dump(self.endpoint_configs, f, indent=2, ensure_ascii=False)
+        
+        # Initial probe to populate immediately
+        self.probe_all_nodes(first_run=True)
 
     def register_callback(self, cb):
         self.event_callbacks.append(cb)
@@ -66,169 +80,187 @@ class ClusterSentinel:
             except Exception:
                 pass
 
-    def probe_node(self, ep: Dict[str, Any]) -> Dict[str, Any]:
-        """Send a lightweight ping to Ollama /api/tags."""
-        name = ep["name"]
-        base_url = ep["base_url"].rstrip("/")
-        model = ep.get("model", "qwen2.5vl:7b")
-        workers = int(ep.get("workers", 3))
-        enabled = ep.get("enabled", True)
-
-        if not enabled:
-            return {
-                "name": name,
-                "status": "DISABLED",
-                "ping_ms": None,
-                "workers": 0,
-                "models": [],
-                "error": "Disabled by user",
-                "last_seen": None,
-            }
-
+    def probe_single_node(self, node_meta: Dict[str, Any]) -> Dict[str, Any]:
+        """Probes a single node for HTTP 200 OK and qwen2.5vl model."""
+        name = node_meta["name"]
+        base_url = f"https://{name}.benchly.live"
+        model = "qwen2.5vl:7b"
+        workers = int(node_meta.get("workers", 3))
+        
         url = f"{base_url}/api/tags"
-        headers = {"User-Agent": "Mozilla/5.0 Sentinel/2.0"}
-        req = urllib.request.Request(url, headers=headers)
+        req = urllib.request.Request(url, headers=HEADERS)
         
         t0 = time.time()
         try:
-            with urllib.request.urlopen(req, timeout=4) as resp:
+            with urllib.request.urlopen(req, timeout=3.5) as resp:
                 elapsed_ms = round((time.time() - t0) * 1000)
                 if resp.status == 200:
                     data = json.loads(resp.read().decode("utf-8", errors="ignore"))
                     models = [m.get("name", "") for m in data.get("models", [])]
-                    return {
-                        "name": name,
-                        "base_url": base_url,
-                        "model": model,
-                        "status": "ONLINE",
-                        "ping_ms": elapsed_ms,
-                        "workers": workers,
-                        "models": models,
-                        "error": None,
-                        "last_seen": time.time(),
-                        "timeout_sec": int(ep.get("timeout_sec", 180)),
-                    }
-                else:
-                    return {
-                        "name": name,
-                        "base_url": base_url,
-                        "status": "ERROR",
-                        "ping_ms": elapsed_ms,
-                        "workers": 0,
-                        "models": [],
-                        "error": f"HTTP {resp.status}",
-                        "last_seen": None,
-                    }
-        except Exception as e:
+                    has_vl = any("qwen2.5vl" in m.lower() for m in models)
+                    
+                    if has_vl:
+                        return {
+                            "name": f"benchly_{name}",
+                            "host": name,
+                            "base_url": base_url,
+                            "model": model,
+                            "status": "ONLINE",
+                            "ping_ms": elapsed_ms,
+                            "workers": workers,
+                            "models": models,
+                            "error": None,
+                            "last_seen": time.time(),
+                            "timeout_sec": 180,
+                        }
+                    else:
+                        return {
+                            "name": f"benchly_{name}",
+                            "host": name,
+                            "base_url": base_url,
+                            "status": "NO_VL_MODEL",
+                            "ping_ms": elapsed_ms,
+                            "workers": 0,
+                            "models": models,
+                            "error": "qwen2.5vl not installed",
+                            "last_seen": time.time(),
+                        }
+        except urllib.error.HTTPError as e:
             elapsed_ms = round((time.time() - t0) * 1000)
-            err_str = str(e)
-            if "530" in err_str:
-                err_clean = "HTTP 530 (Tunnel Offline)"
-            elif "timed out" in err_str:
-                err_clean = "Timeout (>4s)"
-            else:
-                err_clean = err_str[:35]
+            err_str = f"HTTP {e.code}"
+            if e.code == 530:
+                err_str = "HTTP 530 (Tunnel Offline)"
+            elif e.code == 502:
+                err_str = "HTTP 502 (Ollama Starting)"
             return {
-                "name": name,
+                "name": f"benchly_{name}",
+                "host": name,
                 "base_url": base_url,
                 "status": "OFFLINE",
                 "ping_ms": elapsed_ms,
                 "workers": 0,
                 "models": [],
-                "error": err_clean,
+                "error": err_str,
+                "last_seen": None,
+            }
+        except Exception as e:
+            elapsed_ms = round((time.time() - t0) * 1000)
+            return {
+                "name": f"benchly_{name}",
+                "host": name,
+                "base_url": base_url,
+                "status": "OFFLINE",
+                "ping_ms": elapsed_ms,
+                "workers": 0,
+                "models": [],
+                "error": str(e)[:30],
                 "last_seen": None,
             }
 
-    def check_all_nodes(self):
-        """Probes all configured nodes concurrently and updates the slot pool."""
+    def probe_all_nodes(self, first_run: bool = False):
+        """Concurrently probes all 18 machines and dynamically adapts the slot queue."""
         results = {}
-        with concurrent.futures.ThreadPoolExecutor(max_workers=len(self.endpoint_configs) or 1) as ex:
-            futs = {ex.submit(self.probe_node, ep): ep["name"] for ep in self.endpoint_configs}
+        with concurrent.futures.ThreadPoolExecutor(max_workers=len(ALL_18_NODES)) as ex:
+            futs = {ex.submit(self.probe_single_node, node): node["name"] for node in ALL_18_NODES}
             for fut in concurrent.futures.as_completed(futs):
                 res = fut.result()
-                results[res["name"]] = res
+                results[res["host"]] = res
 
         with self.lock:
             old_online = {k for k, v in self.node_status.items() if v.get("status") == "ONLINE"}
             new_online = {k for k, v in results.items() if v.get("status") == "ONLINE"}
             
-            # Detect recovered or downed nodes
             recovered = new_online - old_online
             downed = old_online - new_online
             
             self.node_status = results
             
-            if recovered or downed or not self._current_slot_endpoints:
-                self._rebuild_slot_pool()
+            if recovered or downed or first_run or self.active_slots_count == 0:
+                self._rebuild_slots_queue()
 
-            if recovered:
-                self._broadcast("node_recovered", {"nodes": list(recovered)})
-            if downed:
-                self._broadcast("node_downed", {"nodes": list(downed)})
+            if recovered and not first_run:
+                rec_list = list(recovered)
+                new_slots = sum(results[k].get("workers", 3) for k in rec_list)
+                print(f"\n🟢 [SENTINEL SCALE-UP] Node(s) came ONLINE: {rec_list}! +{new_slots} slots added! (Active Pool: {self.active_slots_count} slots)\n", flush=True)
+                self._broadcast("node_recovered", {"nodes": rec_list, "total_slots": self.active_slots_count})
 
-        self._broadcast("cluster_update", self.get_cluster_snapshot())
+            if downed and not first_run:
+                down_list = list(downed)
+                lost_slots = sum(ALL_18_NODES[i]["workers"] for i, n in enumerate(ALL_18_NODES) if n["name"] in down_list)
+                print(f"\n🔴 [SENTINEL AUTONOMIC RECOVERY] Node(s) went DOWN: {down_list}! -{lost_slots} slots quarantined. (Active Pool: {self.active_slots_count} slots)\n", flush=True)
+                self._broadcast("node_downed", {"nodes": down_list, "total_slots": self.active_slots_count})
 
-    def _rebuild_slot_pool(self):
-        """Reconstructs the active worker slot queue based strictly on healthy ONLINE nodes."""
+    def _rebuild_slots_queue(self):
+        """Reconstructs the active worker queue strictly from currently healthy nodes."""
         healthy_endpoints = []
-        for ep in self.endpoint_configs:
-            name = ep["name"]
-            st = self.node_status.get(name, {})
+        for n_meta in ALL_18_NODES:
+            host = n_meta["name"]
+            st = self.node_status.get(host, {})
             if st.get("status") == "ONLINE":
-                w = int(ep.get("workers", 3))
-                healthy_ep = dict(ep)
-                healthy_ep["workers"] = w
-                healthy_ep["timeout_sec"] = int(ep.get("timeout_sec", 180))
+                w = int(st.get("workers", n_meta.get("workers", 3)))
+                ep = {
+                    "name": f"benchly_{host}",
+                    "host": host,
+                    "base_url": f"https://{host}.benchly.live",
+                    "model": "qwen2.5vl:7b",
+                    "workers": w,
+                    "timeout_sec": 180,
+                    "user_agent": HEADERS["User-Agent"],
+                }
                 for _ in range(w):
-                    healthy_endpoints.append(healthy_ep)
+                    healthy_endpoints.append(ep)
 
-        # Clear and refill queue
         new_q = queue.Queue()
-        for item in healthy_endpoints:
-            new_q.put(item)
-            
-        self.slot_queue = new_q
-        self._current_slot_endpoints = healthy_endpoints
+        for ep in healthy_endpoints:
+            new_q.put(ep)
 
-    def acquire_slot(self, timeout: float = 25.0) -> Optional[Dict[str, Any]]:
-        """Safely acquire a slot from the healthy queue."""
+        self.slot_queue = new_q
+        self.active_slots_count = len(healthy_endpoints)
+
+    def acquire_slot(self, timeout: float = 15.0) -> Optional[Dict[str, Any]]:
+        """Safely acquires a healthy worker slot from the dynamic pool."""
         try:
             return self.slot_queue.get(timeout=timeout)
         except queue.Empty:
+            # If empty, wait briefly for any page to finish or for a node to recover
             return None
 
     def release_slot(self, ep: Dict[str, Any], cooldown: float = 0.0):
-        """Return slot to queue, optionally with cooldown if a temporary network hiccup occurred."""
+        """Returns slot to active pool, ensuring only still-healthy nodes re-enter queue."""
         if cooldown > 0:
             time.sleep(cooldown)
-        self.slot_queue.put(ep)
+        host = ep.get("host")
+        with self.lock:
+            # Only put back if this node is still considered healthy
+            st = self.node_status.get(host, {})
+            if st.get("status") == "ONLINE":
+                self.slot_queue.put(ep)
 
     def get_cluster_snapshot(self) -> Dict[str, Any]:
         with self.lock:
             nodes_list = list(self.node_status.values())
-            online_count = sum(1 for n in nodes_list if n.get("status") == "ONLINE")
-            total_slots = sum(n.get("workers", 0) for n in nodes_list if n.get("status") == "ONLINE")
+            online_nodes = [n for n in nodes_list if n.get("status") == "ONLINE"]
             return {
                 "nodes": nodes_list,
-                "online_count": online_count,
-                "total_nodes": len(nodes_list),
-                "total_active_slots": total_slots,
+                "online_count": len(online_nodes),
+                "total_nodes": len(ALL_18_NODES),
+                "total_active_slots": self.active_slots_count,
+                "max_possible_slots": sum(n["workers"] for n in ALL_18_NODES),
                 "timestamp": time.time(),
             }
 
     def start(self):
-        """Starts the background monitoring loop."""
+        """Starts the 24/7 background monitor heartbeat."""
         if self._running:
             return
         self._running = True
-        
+
         def run_loop():
-            logger.info("Sentinel watchdog loop started.")
             while self._running:
                 try:
-                    self.check_all_nodes()
+                    self.probe_all_nodes()
                 except Exception as e:
-                    logger.error(f"Sentinel check error: {e}")
+                    logger.error(f"Sentinel probe loop error: {e}")
                 time.sleep(self.check_interval_sec)
 
         self._thread = threading.Thread(target=run_loop, daemon=True)
@@ -238,5 +270,5 @@ class ClusterSentinel:
         self._running = False
 
 
-# Global Sentinel instance
-sentinel = ClusterSentinel()
+# Global singleton instance
+sentinel = DynamicClusterSentinel(check_interval_sec=10)
