@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary downloads and working files
+_tmp/
+*.tmp
+*.pdf
+
+# Output directory (stored in cloud/drive, created dynamically)
+parsed_output/
+*.zip
+
+# OS artifacts
+.DS_Store
+Thumbs.db

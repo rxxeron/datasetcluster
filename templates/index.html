@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🛰️ PREP404 Datacenter | 24/7 Vision OCR & Cluster Orchestrator</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: { 500: '#06b6d4', 600: '#0891b2' },
+            darkbg: '#0b0f19',
+            darkcard: '#111827',
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body { background-color: #0b0f19; color: #f3f4f6; font-family: ui-sans-serif, system-ui, sans-serif; }
+    .glass { background: rgba(17, 24, 39, 0.75); backdrop-filter: blur(12px); border: 1px solid rgba(255, 255, 255, 0.08); }
+    .terminal-scroll::-webkit-scrollbar { width: 6px; }
+    .terminal-scroll::-webkit-scrollbar-thumb { background: #374151; border-radius: 4px; }
+  </style>
+</head>
+<body class="min-h-screen p-4 md:p-8 flex flex-col justify-between">
+
+  <!-- Header Section -->
+  <header class="max-w-7xl mx-auto w-full mb-6 flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+    <div>
+      <div class="flex items-center gap-3">
+        <span class="text-3xl">🛰️</span>
+        <h1 class="text-2xl md:text-3xl font-extrabold tracking-tight bg-gradient-to-r from-cyan-400 via-teal-300 to-indigo-400 bg-clip-text text-transparent">
+          PREP404 Datacenter
+        </h1>
+        <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 flex items-center gap-1.5">
+          <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span> 24/7 CLOUD ACTIVE
+        </span>
+      </div>
+      <p class="text-sm text-gray-400 mt-1">Autonomous Self-Healing Vision OCR Cluster & Bangladeshi Academic Pipeline</p>
+    </div>
+
+    <!-- Global Controls -->
+    <div class="flex items-center gap-3">
+      <button id="pauseBtn" onclick="togglePause()" class="px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 text-sm font-medium border border-gray-700 transition flex items-center gap-2">
+        <i id="pauseIcon" class="fa-solid fa-pause text-amber-400"></i>
+        <span id="pauseText">Pause</span>
+      </button>
+      <a href="/api/download_zip" class="px-4 py-2 rounded-lg bg-cyan-600 hover:bg-cyan-500 text-white text-sm font-medium transition shadow-lg shadow-cyan-600/30 flex items-center gap-2">
+        <i class="fa-solid fa-cloud-arrow-down"></i>
+        <span>Download Books (.zip)</span>
+      </a>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="max-w-7xl mx-auto w-full grid grid-cols-1 lg:grid-cols-3 gap-6">
+
+    <!-- Left Column (2 Cols on LG): Stats, Active Book, Nodes Grid -->
+    <div class="lg:col-span-2 space-y-6">
+
+      <!-- Metrics Cards Grid -->
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-4">
+        <div class="glass p-4 rounded-xl">
+          <div class="text-gray-400 text-xs font-medium uppercase tracking-wider">Completed Books</div>
+          <div id="statCompletedBooks" class="text-2xl font-bold text-cyan-400 mt-1">--</div>
+          <div id="statCatalogTotal" class="text-xs text-gray-500 mt-0.5">out of -- catalog</div>
+        </div>
+        <div class="glass p-4 rounded-xl">
+          <div class="text-gray-400 text-xs font-medium uppercase tracking-wider">Total Pages Parsed</div>
+          <div id="statPagesParsed" class="text-2xl font-bold text-emerald-400 mt-1">--</div>
+          <div class="text-xs text-gray-500 mt-0.5">100% verified clean</div>
+        </div>
+        <div class="glass p-4 rounded-xl">
+          <div class="text-gray-400 text-xs font-medium uppercase tracking-wider">Active Workers</div>
+          <div id="statActiveSlots" class="text-2xl font-bold text-indigo-400 mt-1">--</div>
+          <div class="text-xs text-gray-500 mt-0.5">dynamic parallel slots</div>
+        </div>
+        <div class="glass p-4 rounded-xl">
+          <div class="text-gray-400 text-xs font-medium uppercase tracking-wider">Cluster Online</div>
+          <div id="statNodesOnline" class="text-2xl font-bold text-amber-400 mt-1">--</div>
+          <div id="statNodesTotal" class="text-xs text-gray-500 mt-0.5">out of -- nodes</div>
+        </div>
+      </div>
+
+      <!-- Active Book In-Flight Card -->
+      <div class="glass p-5 rounded-xl border border-cyan-500/20 shadow-xl">
+        <div class="flex justify-between items-center mb-3">
+          <div class="flex items-center gap-2">
+            <span class="p-2 rounded-lg bg-cyan-500/10 text-cyan-400">
+              <i class="fa-solid fa-book-open"></i>
+            </span>
+            <div>
+              <div class="text-xs text-cyan-400 font-semibold uppercase tracking-wider">Current Processing Book</div>
+              <h3 id="currentBookTitle" class="text-base font-bold text-white truncate max-w-md">Initializing runner...</h3>
+            </div>
+          </div>
+          <span id="pageProgressBadge" class="text-xs font-mono px-2.5 py-1 rounded bg-gray-800 text-gray-300 border border-gray-700">
+            0 / 0 pages
+          </span>
+        </div>
+        
+        <!-- Animated Progress Bar -->
+        <div class="w-full bg-gray-800/80 rounded-full h-3 overflow-hidden p-0.5">
+          <div id="progressBar" class="bg-gradient-to-r from-cyan-500 to-emerald-400 h-full rounded-full transition-all duration-300" style="width: 0%"></div>
+        </div>
+      </div>
+
+      <!-- Cluster Fleet Grid -->
+      <div class="glass p-5 rounded-xl">
+        <div class="flex justify-between items-center mb-4">
+          <h2 class="text-sm font-semibold uppercase tracking-wider text-gray-300 flex items-center gap-2">
+            <i class="fa-solid fa-server text-cyan-400"></i> GPU Nodes Health & Sentinel Watchdog
+          </h2>
+          <span class="text-xs text-gray-400">Auto-heals every 10s</span>
+        </div>
+
+        <div id="nodesGrid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
+          <!-- Populated dynamically -->
+          <div class="p-3 bg-gray-800/50 rounded-lg animate-pulse text-xs text-gray-400">Checking nodes...</div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Right Column: Live Terminal Log Stream -->
+    <div class="glass p-5 rounded-xl flex flex-col h-[640px]">
+      <div class="flex justify-between items-center mb-3 pb-2 border-b border-gray-800">
+        <h2 class="text-sm font-semibold uppercase tracking-wider text-gray-300 flex items-center gap-2">
+          <i class="fa-solid fa-terminal text-emerald-400"></i> Live Cluster Terminal
+        </h2>
+        <div class="flex items-center gap-2">
+          <button onclick="clearTerminal()" class="text-xs text-gray-400 hover:text-gray-200">Clear</button>
+        </div>
+      </div>
+
+      <div id="terminal" class="flex-1 bg-black/60 rounded-lg p-3 font-mono text-xs overflow-y-auto terminal-scroll space-y-1">
+        <div class="text-gray-500">[System] Connecting to live SSE event stream...</div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="max-w-7xl mx-auto w-full mt-6 text-center text-xs text-gray-500">
+    PREP404 Datacenter • Autonomous 24/7 Vision OCR Pipeline • Powered by Qwen2.5-VL & Benchly RTX A4000 GPU Cluster
+  </footer>
+
+  <!-- Script for Real-Time SSE & Controls -->
+  <script>
+    let isPaused = false;
+
+    async function fetchStatus() {
+      try {
+        const res = await fetch('/api/status');
+        const data = await res.json();
+        updateUI(data);
+      } catch (err) {
+        console.error("Failed fetching status:", err);
+      }
+    }
+
+    function updateUI(data) {
+      if (!data) return;
+      
+      // Update Top Metrics
+      const completed = data.stats.completed_books || 0;
+      const total = data.stats.total_books_catalog || 1496;
+      document.getElementById('statCompletedBooks').innerText = completed;
+      document.getElementById('statCatalogTotal').innerText = `out of ${total} catalog`;
+      document.getElementById('statPagesParsed').innerText = (data.stats.total_pages_parsed || 0).toLocaleString();
+      
+      const cluster = data.cluster || {};
+      document.getElementById('statActiveSlots').innerText = cluster.total_active_slots || 0;
+      document.getElementById('statNodesOnline').innerText = cluster.online_count || 0;
+      document.getElementById('statNodesTotal').innerText = `out of ${cluster.total_nodes || 0} nodes`;
+
+      // Update Current Book Card
+      if (data.current_book) {
+        document.getElementById('currentBookTitle').innerText = data.current_book;
+        const cp = data.book_progress.completed_pages || 0;
+        const tp = data.book_progress.total_pages || 1;
+        document.getElementById('pageProgressBadge').innerText = `${cp} / ${tp} pages`;
+        const pct = Math.min(100, Math.round((cp / tp) * 100));
+        document.getElementById('progressBar').style.width = `${pct}%`;
+      }
+
+      // Update Pause button state
+      isPaused = data.paused;
+      const pauseText = document.getElementById('pauseText');
+      const pauseIcon = document.getElementById('pauseIcon');
+      if (isPaused) {
+        pauseText.innerText = "Resume";
+        pauseIcon.className = "fa-solid fa-play text-emerald-400";
+      } else {
+        pauseText.innerText = "Pause";
+        pauseIcon.className = "fa-solid fa-pause text-amber-400";
+      }
+
+      // Render Nodes Grid
+      renderNodes(cluster.nodes || []);
+    }
+
+    function renderNodes(nodes) {
+      const grid = document.getElementById('nodesGrid');
+      grid.innerHTML = '';
+      
+      nodes.forEach(n => {
+        const isOnline = n.status === "ONLINE";
+        const statusColor = isOnline ? "bg-emerald-500/20 text-emerald-400 border-emerald-500/30" : "bg-red-500/20 text-red-400 border-red-500/30";
+        const dotColor = isOnline ? "bg-emerald-400" : "bg-red-400";
+        
+        const card = document.createElement('div');
+        card.className = "p-3 rounded-lg bg-gray-800/40 border border-gray-700/50 flex flex-col justify-between";
+        card.innerHTML = `
+          <div>
+            <div class="flex justify-between items-start">
+              <span class="font-bold text-xs text-white truncate max-w-[120px]">${n.name}</span>
+              <span class="px-1.5 py-0.5 rounded text-[10px] font-semibold flex items-center gap-1 border ${statusColor}">
+                <span class="w-1.5 h-1.5 rounded-full ${dotColor}"></span> ${n.status}
+              </span>
+            </div>
+            <div class="mt-2 text-[11px] text-gray-400 flex items-center justify-between">
+              <span>Ping:</span>
+              <span class="font-mono text-gray-200">${n.ping_ms ? n.ping_ms + 'ms' : 'N/A'}</span>
+            </div>
+            <div class="text-[11px] text-gray-400 flex items-center justify-between mt-1">
+              <span>Workers:</span>
+              <span class="font-mono text-cyan-400 font-bold">${n.workers || 0} slots</span>
+            </div>
+          </div>
+          ${n.error ? `<div class="mt-2 text-[10px] text-red-400 truncate" title="${n.error}">${n.error}</div>` : ''}
+        `;
+        grid.appendChild(card);
+      });
+    }
+
+    function appendTerminalLog(entry) {
+      const term = document.getElementById('terminal');
+      const line = document.createElement('div');
+      
+      let colorClass = "text-gray-300";
+      if (entry.level === "SUCCESS" || entry.message.includes("SUCCESS") || entry.message.includes("COMPLETED")) {
+        colorClass = "text-emerald-400";
+      } else if (entry.level === "ERROR" || entry.message.includes("FAIL") || entry.message.includes("ERROR")) {
+        colorClass = "text-red-400";
+      } else if (entry.level === "WARN" || entry.message.includes("WARNING") || entry.message.includes("DENSE SLICE")) {
+        colorClass = "text-amber-300";
+      } else if (entry.message.includes("DISPATCH") || entry.message.includes("RETRY")) {
+        colorClass = "text-cyan-400";
+      }
+
+      line.className = `flex gap-2 ${colorClass}`;
+      line.innerHTML = `<span class="text-gray-500 select-none">[${entry.time || ''}]</span><span>${entry.message || ''}</span>`;
+      term.appendChild(line);
+      term.scrollTop = term.scrollHeight;
+    }
+
+    function clearTerminal() {
+      document.getElementById('terminal').innerHTML = '';
+    }
+
+    async function togglePause() {
+      const action = isPaused ? "resume" : "pause";
+      try {
+        await fetch(`/api/control/${action}`, { method: 'POST' });
+        fetchStatus();
+      } catch (e) {
+        console.error("Control error:", e);
+      }
+    }
+
+    // Connect to Server-Sent Events (SSE) Stream
+    function connectSSE() {
+      const es = new EventSource('/api/stream');
+      
+      es.addEventListener('log', (e) => {
+        const data = JSON.parse(e.data);
+        appendTerminalLog(data);
+      });
+
+      es.addEventListener('cluster_update', (e) => {
+        fetchStatus();
+      });
+
+      es.addEventListener('node_recovered', (e) => {
+        const data = JSON.parse(e.data);
+        appendTerminalLog({ time: new Date().toLocaleTimeString(), message: `🟢 [SENTINEL RECOVERED] Nodes auto-admitted: ${data.nodes.join(', ')}`, level: 'SUCCESS' });
+        fetchStatus();
+      });
+
+      es.addEventListener('node_downed', (e) => {
+        const data = JSON.parse(e.data);
+        appendTerminalLog({ time: new Date().toLocaleTimeString(), message: `🔴 [SENTINEL QUARANTINE] Nodes offline: ${data.nodes.join(', ')}`, level: 'WARN' });
+        fetchStatus();
+      });
+
+      es.onerror = () => {
+        console.log("SSE stream disconnected. Reconnecting in 3s...");
+        es.close();
+        setTimeout(connectSSE, 3000);
+      };
+    }
+
+    // Initial load & Polling fallback
+    fetchStatus();
+    connectSSE();
+    setInterval(fetchStatus, 5000);
+  </script>
+</body>
+</html>

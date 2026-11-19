@@ -1,0 +1,7 @@
+{
+  "google_sheet_webhook_url": "https://script.google.com/macros/s/AKfycbyCfy3uARDlX1PD13369W0uFzJPOcHbgq31uRGIrKLj8Evbv0csdsftfevhWjCUDVc/exec",
+  "worker_name": "Laptop-1-Nika",
+  "enabled": true,
+  "cache_ttl_sec": 60,
+  "notes": "Configured Google Apps Script Web App for real-time parsing coordination across laptops."
+}

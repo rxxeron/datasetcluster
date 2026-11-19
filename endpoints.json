@@ -1,0 +1,66 @@
+[
+  {
+    "name": "benchly_labpc",
+    "base_url": "https://labpc.benchly.live",
+    "model": "qwen2.5vl:7B",
+    "workers": 3,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc26",
+    "base_url": "https://labpc26.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 3,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc30",
+    "base_url": "https://labpc30.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 3,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc4",
+    "base_url": "https://labpc4.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 3,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc7",
+    "base_url": "https://labpc7.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 3,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc5",
+    "base_url": "https://labpc5.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 2,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc10",
+    "base_url": "https://labpc10.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 2,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc28",
+    "base_url": "https://labpc28.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 2,
+    "timeout_sec": 180,
+    "enabled": true
+  }
+]
