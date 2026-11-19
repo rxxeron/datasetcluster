@@ -8,8 +8,8 @@ _tmp/
 *.tmp
 *.pdf
 
-# Output directory (stored in cloud/drive, created dynamically)
-parsed_output/
+# Only ignore intermediate granular page slices, KEEP verified book.json!
+parsed_output/**/pages/
 *.zip
 
 # OS artifacts
