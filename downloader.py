@@ -12,7 +12,13 @@ import urllib.request
 
 socket.setdefaulttimeout(90.0)
 
-from config import TMP_DIR, ensure_dirs
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+TMP_DIR = os.path.join(BASE_DIR, "_tmp")
+
+
+def ensure_dirs() -> None:
+    os.makedirs(TMP_DIR, exist_ok=True)
+
 
 
 def _build_opener() -> urllib.request.OpenerDirector:
