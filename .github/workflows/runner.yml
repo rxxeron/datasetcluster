@@ -6,10 +6,12 @@ on:
       max_books:
         description: 'Maximum books to process in this run'
         required: false
-        default: '9999'
-  schedule:
-    # Run every 2 hours continuously
-    - cron: '0 */2 * * *'
+        default: '5'
+      auto_chain:
+        description: 'Loop continuously by auto-triggering next run (true/false)'
+        type: boolean
+        required: false
+        default: false
 
 permissions:
   actions: write
@@ -46,24 +48,22 @@ jobs:
           print('Cluster Snapshot:', snap)
           "
 
-      - name: Run PREP404 Datacenter Continuous Orchestrator
-        env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          GDRIVE_CREDENTIALS: ${{ secrets.GDRIVE_CREDENTIALS }}
+      - name: Run PREP404 Datacenter Orchestrator
         run: |
           python -c "
           from sentinel import sentinel
           from orchestrator import orchestrator
-          import time
+          import time, sys
+
+          max_books = int('${{ inputs.max_books }}' or 5)
+          print(f'Starting run with max_books={max_books}...')
           sentinel.start()
-          orchestrator.start()
-          # Keep process alive up to 5.5 hours to process maximum books
-          for i in range(198):
-              time.sleep(100)
+          orchestrator.run_batch(max_books=max_books)
+          print('Batch execution completed successfully!')
           "
 
-      - name: Auto-chain Next Run If Pending Books Remain
-        if: always()
+      - name: Optional Auto-chain Next Run (Only If Explicitly Enabled)
+        if: success() && inputs.auto_chain == true
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -79,8 +79,8 @@ jobs:
               pending = [it for it in items if not (tracker.enabled and tracker.is_already_completed(it.get('drive_file_id')))]
               print(f'Pending books remaining: {len(pending)}')
               if len(pending) > 0:
-                  print('Auto-triggering next run to keep parsing non-stop...')
-                  subprocess.run(['gh', 'workflow', 'run', 'runner.yml', '-f', 'max_books=9999'], check=True)
+                  print('Auto-triggering next run because auto_chain=true was explicitly set...')
+                  subprocess.run(['gh', 'workflow', 'run', 'runner.yml', '-f', 'max_books=${{ inputs.max_books }}', '-f', 'auto_chain=true'], check=True)
               else:
                   print('🎉 ALL 1,496 BOOKS IN CATALOG COMPLETED!')
           except Exception as e:

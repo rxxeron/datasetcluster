@@ -458,6 +458,54 @@ class ParsingOrchestrator:
                     self.log(f"Unexpected error on {item.get('filename')}: {e}", "ERROR")
                     time.sleep(2)
 
+    def run_batch(self, max_books: int = 5):
+        """Processes up to max_books then terminates cleanly (giving the user total control to break the loop)."""
+        self.running = True
+        tracker = get_tracker()
+        if tracker.enabled:
+            try:
+                tracker.refresh_cache(force=True)
+            except Exception as e:
+                self.log(f"CloudTracker sync warning: {e}", "WARN")
+
+        if not os.path.exists(MANIFEST_FILE):
+            self.log("❌ manifest.json not found!", "ERROR")
+            return
+
+        with open(MANIFEST_FILE, "r", encoding="utf-8") as f:
+            manifest_data = json.load(f)
+
+        items = manifest_data.get("items", [])
+        pending_items = []
+        for it in items:
+            fid = it.get("drive_file_id")
+            if tracker and tracker.enabled and tracker.is_already_completed(fid):
+                continue
+            col = it.get("collection", "unspecified")
+            book_slug = it.get("book_slug", fid)
+            book_json_path = os.path.join(PARSED_DIR, col, book_slug, "book.json")
+            if os.path.exists(book_json_path):
+                continue
+            pending_items.append(it)
+
+        self.log(f"📚 Batch runner: Found {len(pending_items)} pending books. Will process up to {max_books} books.")
+        processed = 0
+        for item in pending_items:
+            if processed >= max_books:
+                self.log(f"🛑 [CONTROL BREAK] Reached max_books limit ({max_books}). Stopping batch as requested.")
+                break
+            if not self.running:
+                break
+            try:
+                ok = self.process_book(item, tracker)
+                if ok:
+                    processed += 1
+            except Exception as e:
+                self.log(f"Error on {item.get('filename')}: {e}", "ERROR")
+
+        self.running = False
+        self.log(f"🏁 Batch complete. Processed {processed} books in this run.")
+
     def start(self):
         if self.running:
             return
