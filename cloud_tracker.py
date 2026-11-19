@@ -115,7 +115,7 @@ class CloudTracker:
             return True, worker
         return False, ""
 
-    def claim(self, drive_file_id: str) -> bool:
+    def claim(self, drive_file_id: str, book_title: str = "", collection: str = "") -> bool:
         """Atomically claims the file on the Google Sheet.
         Returns True if claim succeeded, False if already completed or locked by another machine.
         """
@@ -126,6 +126,8 @@ class CloudTracker:
             "action": "claim",
             "id": drive_file_id,
             "worker": self.worker_name,
+            "title": book_title,
+            "collection": collection,
         }, timeout=15)
 
         if resp.get("success"):

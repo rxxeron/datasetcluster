@@ -42,8 +42,8 @@ def _extract_confirm_url(html_text: str, file_id: str) -> str:
     return f"{action}?{urllib.parse.urlencode(params)}"
 
 
-def download_drive_pdf(file_id: str, retries: int = 3, timeout_sec: int = 90) -> tuple[str, str, int]:
-    """Download a Drive PDF to TMP_DIR/<file_id>.pdf; returns (local_path, sha256, size_bytes)."""
+def download_drive_pdf(file_id: str, filename: str = "", retries: int = 3, timeout_sec: int = 90) -> str:
+    """Download a Drive PDF to TMP_DIR/<file_id>.pdf; returns local_path string."""
     ensure_dirs()
     final_path = os.path.join(TMP_DIR, f"{file_id}.pdf")
     part_path = final_path + ".part"
@@ -62,10 +62,12 @@ def download_drive_pdf(file_id: str, retries: int = 3, timeout_sec: int = 90) ->
                     if "download-form" in page_html or "uc-download-link" in page_html:
                         confirm_url = _extract_confirm_url(page_html, file_id)
                         req2 = urllib.request.Request(confirm_url, headers={"User-Agent": "Mozilla/5.0"})
-                        return _stream_to_file(opener, req2, part_path, final_path, timeout_sec)
+                        path, _, _ = _stream_to_file(opener, req2, part_path, final_path, timeout_sec)
+                        return path
                     raise ValueError(f"Drive returned non-PDF response for {file_id}: {page_html[:180]!r}")
 
-                return _write_stream(resp, first_chunk, part_path, final_path)
+                path, _, _ = _write_stream(resp, first_chunk, part_path, final_path)
+                return path
         except Exception as exc:
             last_err = exc
             if os.path.exists(part_path):

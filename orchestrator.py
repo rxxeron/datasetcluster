@@ -78,6 +78,7 @@ class ParsingOrchestrator:
     def log(self, msg: str, level: str = "INFO"):
         ts = datetime.datetime.now().strftime("%H:%M:%S")
         entry = {"time": ts, "message": msg, "level": level}
+        print(f"[{ts}] [{level}] {msg}", flush=True)
         self.stats["recent_logs"].append(entry)
         if len(self.stats["recent_logs"]) > 200:
             self.stats["recent_logs"].pop(0)
@@ -292,9 +293,9 @@ class ParsingOrchestrator:
             return True
 
         if tracker and tracker.enabled:
-            claimed, claimant = tracker.claim(fid, book_title=filename, collection=col)
-            if not claimed and claimant != tracker.worker_name:
-                self.log(f"[CLAIM DENIED] Could not claim '{filename}' (Holder: {claimant}). Skipping.")
+            claimed = tracker.claim(fid, book_title=filename, collection=col)
+            if not claimed:
+                self.log(f"[CLAIM DENIED] Could not claim '{filename}' on Google Sheet. Skipping.")
                 return False
 
         self.log(f"📥 [DOWNLOAD] {filename} (id={fid})...")
