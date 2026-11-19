@@ -143,6 +143,36 @@ class CloudTracker:
             logger.warning(f"[CLAIM DENIED] Could not claim '{drive_file_id}': {reason} (Holder: {other_worker})")
             return False
 
+    def upload_book_to_gdrive(self, drive_file_id: str, collection: str, book_slug: str, content: str, total_pages: int = 0, completed_pages: int = 0) -> dict:
+        """Uploads book.json directly to Google Drive folder hierarchy via Apps Script."""
+        if not self.enabled:
+            return {"success": False, "reason": "disabled"}
+
+        resp = self._call_api(
+            params={"action": "upload_book"},
+            payload={
+                "action": "upload_book",
+                "id": drive_file_id,
+                "collection": collection,
+                "book_slug": book_slug,
+                "content": content,
+                "total_pages": total_pages,
+                "completed_pages": completed_pages,
+                "worker": self.worker_name,
+            },
+            timeout=90,
+        )
+        if resp.get("success"):
+            self._cache[drive_file_id] = {
+                "status": "COMPLETED",
+                "worker": self.worker_name,
+                "total_pages": total_pages,
+                "completed_pages": completed_pages,
+                "drive_url": resp.get("drive_file_url"),
+            }
+            logger.info(f"[GDRIVE UPLOAD SUCCESS] {book_slug} -> {resp.get('drive_file_url')}")
+        return resp
+
     def mark_completed(self, drive_file_id: str, total_pages: int = 0, completed_pages: int = 0, output_json: str = "") -> bool:
         """Reports completion to Google Sheet."""
         if not self.enabled:

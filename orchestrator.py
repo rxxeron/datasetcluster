@@ -380,8 +380,23 @@ class ParsingOrchestrator:
                 json.dump(book_json_data, f, ensure_ascii=False, indent=2)
             os.replace(tmp_book, book_json_path)
 
+            drive_url = ""
             if tracker and tracker.enabled:
-                tracker.mark_completed(fid, total_pages=total_pages, completed_pages=total_pages, output_json=book_json_path)
+                self.log(f"☁️ [GDRIVE UPLOAD] Uploading {filename} to Google Drive folder: {col}/{book_slug}...")
+                upload_res = tracker.upload_book_to_gdrive(
+                    drive_file_id=fid,
+                    collection=col,
+                    book_slug=book_slug,
+                    content=json.dumps(book_json_data, ensure_ascii=False),
+                    total_pages=total_pages,
+                    completed_pages=total_pages,
+                )
+                if upload_res.get("success"):
+                    drive_url = upload_res.get("drive_file_url", "")
+                    self.log(f"✅ [GDRIVE SUCCESS] {filename} saved in Google Drive: {drive_url}", "SUCCESS")
+                else:
+                    self.log(f"⚠️ [GDRIVE FALLBACK] Direct upload warning ({upload_res.get('error')}), updating sheet status...", "WARN")
+                    tracker.mark_completed(fid, total_pages=total_pages, completed_pages=total_pages, output_json=book_json_path)
 
             self.stats["completed_books"] += 1
             self.stats["total_pages_parsed"] += total_pages
