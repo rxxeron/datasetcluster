@@ -1,0 +1,4086 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "1T7CCFUrRYvGuCya3k9Tyqw_8i3MMTtpO",
+    "collection": "main_book_solution",
+    "subject": "physics",
+    "edition": "2023",
+    "priority_score": 2023092,
+    "path_parts": [
+      "অনুশীলনী MCQ সমাধান",
+      "* ভার্সন সেপ্টেম্বর-২৩",
+      "টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন",
+      "পদার্থবিজ্ঞান",
+      "P-2.6 জ্যামিতিক আলোকবিজ্ঞান .pdf"
+    ],
+    "filename": "P-2.6 জ্যামিতিক আলোকবিজ্ঞান .pdf",
+    "sha256": "3d8264d24de922c40e47b3cd0a6c24d3dea41c7f791e914a5587b831b458c269",
+    "total_pages": 8,
+    "parsed_pages": 8,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 133,
+    "block_counts_by_type": {
+      "concept_prose": 36,
+      "mcq_item": 93,
+      "exercise_solution": 4
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান দ্বিতীয় ভাগ\n\n#### যষ্ঠ অধ্যায়: জ্যামিতিক আলোকবিজ্ঞান\n\n##### ফরমটি এর নীতি\n\n1. কাচের মধ্য দিয়ে বিভিন্ন বর্ণের আলো পরিষ্কারণ করলে কোন বর্ণের আলোর বেগ শেষ হবে?\n   - a) লাল\n   - b) নীল\n   - c) হলুদ\n   - d) বেগুনি\n\n2. পানি ও কাচের প্রতিসরাঙ্ক যথাক্রমে $\\frac{4}{3}$ ও $\\frac{3}{2}$. পানি ও কাচে আলোর বেগের অনুপাত কত?\n   - a) 3:2\n   - b) 4:3\n   - c) 8:9\n   - d) 9:8\n\n3. পুরুচের পানির ভেতর ছিটা ওপরে দেখা যাওয়ার কারণ আলোর কোন ঘটনা? [দ. খ. ২০১৬]\n   - a) প্রতিফলন\n   - b) প্রতিসরণ\n   - c) অপবর্তন\n   - d) সম্বর্তন\n\n4. বায়ু সাপেক্ষে পানি ও কাচের প্রতিসরাঙ্ক যথাক্রমে $\\frac{4}{3}$ এবং $\\frac{3}{2}$ হলে কাচ সাপেক্ষে পানির প্রতিসরাঙ্ক কত হবে? [দ.খ. ২০১৬]\n   - a) $\\frac{3}{2}$\n   - b) $2$\n   - c) $\\frac{8}{9}$\n   - d) $\\frac{9}{8}$\n\n5. f ফোকাস দূরত্বের দুই উল্লম্ব লেপ পরস্পর সংক্ষেপে রাখলে তুল্য ফোকাস দূরত্ব হবে। [দ.খ. ২০১৩; DU Admission Test, 2017–18]\n   - a) শূন্য\n   - b) $\\frac{f}{2}$\n   - c) f\n   - d) $2f$\n\n6. অপটিক্যাল ফাইবার কোন পদ্ধতিতে কাজ করে? [SUST Admission Test, 2016–17; Ku Admission Test, 2012–13, শ. বি. বি. বি. ২০১৬–২০১৭; দ. বি. বি. ২০১৬–২০১৮; দ. বি. ২০১২–২০১৩]\n   - a) সৌজা ও খর্বিত\n   - b) সৌজা ও সমান আকারের\n   - c) উল্টো ও বিবর্ধিত\n   - d) সৌজা ও বিবর্ধিত\n\n7. বায়ু থেকে অন্য কোনো মাধ্যমের ভেতর একটি আলোক রশ্মি প্রবেশের পর তার গতি 15% হার পায়। ঐ মাধ্যমের প্রতিসরাঙ্ক [DU Admission Test, 2006–07]\n   - a) 1.5\n   - b) 1.33\n   - c) 1.61\n   - d) 1.18\n\n8. একটি জলাশয়ে এর প্রকৃত গভীরতা 6m। যদি পানির প্রতিসরাঙ্ক 4/3 হয় তবে এর আপত্তি গভীরতা কত? [JU-A Admission Test, 2016–17; JU Admission Test, 2014–15]\n   - a) 4m\n   - b) 5m\n   - c) 4.5m\n   - d) 5.5m\n\n9. আলো চলার পথে শক্তি অপচয় করে যে পথে চলে সে নীতিকে বলে— [JU Admission Test, 2017–18]\n   - a) হাইজিনবার্ড নীতি\n   - b) পাউলীর বর্ণন নীতি\n   - c) ভরবেগ ভারসাম্য\n   - d) ফার্মাটের নীতি\n\n10. লাল, বেগুনি, সবুজ ও কমলা বর্ণের আলোর জন্য কোনো মাধ্যমের প্রতিসরাঙ্ক যথাক্রমে μR, μV, μG ও μO হলে নিচের কোন সম্পর্কিত সত্যিক?\n    [দ.খ. ২০১৯]\n    - a) μR > μV > μG > μO\n    - b) μR < μV < μG < μO\n    - c) μR > μO > μG > μV\n    - d) μR < μO < μG < μV\n\n11. h উচ্চতার একটি সুইমিং পুলের কোন গভীরতা পর্যন্ত পানি দিয়ে পূর্ণ করলে মনে হবে যে তা অর্ধেক পূর্ণ হয়েছে? [BUET: 11-12]\n    - a) $\\frac{3}{4}h$\n    - b) $\\frac{2}{3}h$\n    - c) $\\frac{5}{7}h$\n    - d) $\\frac{2}{5}h$ [শহজাহান তপন, আমির হোসেন]\n\n12. একটি আলোক রশ্মি বায়ু থেকে কাচে (প্রতিসরাঙ্ক = 3/2) প্রবেশের সময় আশ্চর্য প্রতিফলিত ও আশ্চর্য প্রতিসরিত হয়। যদি আপতন কোণ 45° হয়, তবে প্রতিসরণ কোণ কত হবে? [দ. খ. ১১]\n    - a) sin⁻¹$\\left(\\sqrt{\\frac{2}{3}}\\right)$\n    - b) sin⁻¹$\\left(\\frac{\\sqrt{2}}{3}\\right)$\n    - c) sin⁻¹$\\left(\\frac{2}{\\sqrt{3}}\\right)$\n    - d) sin⁻¹$\\left(\\frac{1}{\\sqrt{3}}\\right)$ [শহজাহান তপন, আমির হোসেন]\n\n13. কোনো মাধ্যমের প্রতিসরাঙ্ক কীসের ওপর নির্ভর করে না? [দ.খ. ২০১৯]\n    - a) মাধ্যমের প্রকৃতি\n    - b) মাধ্যমের আলোকীয় যন্ত্র\n    - c) আলোর বর্গ\n    - d) আপতন কোণ [আমির হোসেন]\n\n14. কোন সম্পর্কিত সত্যিক? [দ.খ. ২০১৯]\n    - a) αμb = Cb/Ca\n    - b) αμb = Ca/Cb\n    - c) αμb = 1/αμb\n    - d) αμb = μa/μb [আমির হোসেন]\n\n15. লাল, নীল ও হলুদ রঙ এর তিনটি আলোর কম্পাছ যথাক্রমে νL, νB ও νY হলে নিচের কোনটি সত্যিক? [দ.খ. ২০১৯]\n    - a) νL > νB > νY\n    - b) νY > νB > νL\n    - c) νB > νY > νL\n    - d) νY > νL > νB [আমির হোসেন]\n\n16. বায়ু সাপেক্ষে কোনো মাধ্যমের প্রতিসরাঙ্ক √2 এবং বায়ু মধ্যম থেকে 45° কোণে একটি আলোকরশ্মি ওই মাধ্যমে আপতিত হলে। প্রতিসরণের জন্য রশ্মির বিচ্ছিন্ন নির্মাণ কর।\n    - a) 45°\n    - b) 30°\n    - c) 15°\n    - d) 5° [আমির হোসেন]\n\n17. একটি আলোক রশ্মি শূন্য মাধ্যমে থেকে μ প্রতিসরাঙ্কের মাধ্যমে প্রবেশ করল। যদি আপতন কোণ প্রতিসরণ কোণের বিগুলো তাহলে আপতন কোণ কত?\n    - a) cos⁻¹(μ/2)\n    - b) sin⁻¹(μ/2)\n    - c) 2cos⁻¹(μ/2)\n    - d) 2sin⁻¹(μ/2) [আমির হোসেন]\n\n18. কোনো মাধ্যমে আলোর বেগ $2 \\times 10^8 ms^{-1}$ | ঐ মাধ্যমের প্রতিসরাঙ্ক-\n    - a) 1.4\n    - b) 2.3\n    - c) 1.5\n    - d) 1.0 [আমির হোসেন]\n\n19. লাল ও বেগুনি বর্ণের আলোর সাপেক্ষে কোনো মাধ্যমের প্রতিসরাঙ্ক যথাক্রমে μr এবং μv হলে-\n    - a) μr > μv\n    - b) μr < μv\n    - c) কোনোটাই নয় [আমির হোসেন]",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "যষ্ঠ অধ্যায়: জ্যামিতিক আলোকবিজ্ঞান",
+          "content_markdown": "##### ফরমটি এর নীতি",
+          "structured_data": {},
+          "id": "858dc5e1-c985-519f-a571-d5bec36a2c75"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q1",
+          "content_markdown": "কাচের মধ্য দিয়ে বিভিন্ন বর্ণের আলো পরিষ্কারণ করলে কোন বর্ণের আলোর বেগ শেষ হবে?",
+          "structured_data": {
+            "question_number": "1",
+            "subtype": "mcq_item",
+            "stem": "কাচের মধ্য দিয়ে বিভিন্ন বর্ণের আলো পরিষ্কারণ করলে কোন বর্ণের আলোর বেগ শেষ হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "লাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নীল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "হলুদ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বেগুনি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "dafe353c-3c36-5b3b-89d4-b6b3d2ab4987"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q2",
+          "content_markdown": "পানি ও কাচের প্রতিসরাঙ্ক যথাক্রমে $\\frac{4}{3}$ ও $\\frac{3}{2}$. পানি ও কাচে আলোর বেগের অনুপাত কত?",
+          "structured_data": {
+            "question_number": "2",
+            "subtype": "mcq_item",
+            "stem": "পানি ও কাচের প্রতিসরাঙ্ক যথাক্রমে $\\frac{4}{3}$ ও $\\frac{3}{2}$. পানি ও কাচে আলোর বেগের অনুপাত কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "3:2",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "4:3",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "8:9",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "9:8",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "74b97c1c-9090-5ac2-bbcd-491e687107e1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q3",
+          "content_markdown": "পুরুচের পানির ভেতর ছিটা ওপরে দেখা যাওয়ার কারণ আলোর কোন ঘটনা? [দ. খ. ২০১৬]",
+          "structured_data": {
+            "question_number": "3",
+            "subtype": "mcq_item",
+            "stem": "পুরুচের পানির ভেতর ছিটা ওপরে দেখা যাওয়ার কারণ আলোর কোন ঘটনা? [দ. খ. ২০১৬]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রতিফলন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রতিসরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অপবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সম্বর্তন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9cf5fceb-e77e-5b29-a476-8b24063a5147"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q4",
+          "content_markdown": "বায়ু সাপেক্ষে পানি ও কাচের প্রতিসরাঙ্ক যথাক্রমে $\\frac{4}{3}$ এবং $\\frac{3}{2}$ হলে কাচ সাপেক্ষে পানির প্রতিসরাঙ্ক কত হবে? [দ.খ. ২০১৬]",
+          "structured_data": {
+            "question_number": "4",
+            "subtype": "mcq_item",
+            "stem": "বায়ু সাপেক্ষে পানি ও কাচের প্রতিসরাঙ্ক যথাক্রমে $\\frac{4}{3}$ এবং $\\frac{3}{2}$ হলে কাচ সাপেক্ষে পানির প্রতিসরাঙ্ক কত হবে? [দ.খ. ২০১৬]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{3}{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$2$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{8}{9}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\frac{9}{8}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "73658ee5-3d61-546d-9771-d1f8c655219f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q5",
+          "content_markdown": "f ফোকাস দূরত্বের দুই উল্লম্ব লেপ পরস্পর সংক্ষেপে রাখলে তুল্য ফোকাস দূরত্ব হবে।",
+          "structured_data": {
+            "question_number": "5",
+            "subtype": "mcq_item",
+            "stem": "f ফোকাস দূরত্বের দুই উল্লম্ব লেপ পরস্পর সংক্ষেপে রাখলে তুল্য ফোকাস দূরত্ব হবে।",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "শূন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{f}{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "f",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$2f$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "দ.খ. ২০১৩; DU Admission Test, 2017–18",
+            "provenance": [
+              "দ.খ. ২০১৩",
+              "DU Admission Test",
+              "2017–18"
+            ]
+          },
+          "id": "14869767-5901-5fc4-b686-b8392bef4461"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q6",
+          "content_markdown": "অপটিক্যাল ফাইবার কোন পদ্ধতিতে কাজ করে?",
+          "structured_data": {
+            "question_number": "6",
+            "subtype": "mcq_item",
+            "stem": "অপটিক্যাল ফাইবার কোন পদ্ধতিতে কাজ করে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সৌজা ও খর্বিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সৌজা ও সমান আকারের",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "উল্টো ও বিবর্ধিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সৌজা ও বিবর্ধিত",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "SUST Admission Test, 2016–17; Ku Admission Test, 2012–13, শ. বি. বি. বি. ২০১৬–২০১৭; দ. বি. বি. ২০১৬–২০১৮; দ. বি. ২০১২–২০১৩",
+            "provenance": [
+              "SUST Admission Test",
+              "2016–17",
+              "Ku Admission Test",
+              "2012–13",
+              "শ. বি. বি. বি. ২০১৬–২০১৭",
+              "দ. বি. বি. ২০১৬–২০১৮",
+              "দ. বি. ২০১২–২০১৩"
+            ]
+          },
+          "id": "4f1a3410-ae0a-5c66-b117-d20e19eebaf5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q7",
+          "content_markdown": "বায়ু থেকে অন্য কোনো মাধ্যমের ভেতর একটি আলোক রশ্মি প্রবেশের পর তার গতি 15% হার পায়। ঐ মাধ্যমের প্রতিসরাঙ্ক",
+          "structured_data": {
+            "question_number": "7",
+            "subtype": "mcq_item",
+            "stem": "বায়ু থেকে অন্য কোনো মাধ্যমের ভেতর একটি আলোক রশ্মি প্রবেশের পর তার গতি 15% হার পায়। ঐ মাধ্যমের প্রতিসরাঙ্ক",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1.5",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "1.33",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "1.61",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "1.18",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "DU Admission Test, 2006–07",
+            "provenance": [
+              "DU Admission Test",
+              "2006–07"
+            ]
+          },
+          "id": "0bdc60fc-2172-5e24-9346-53f78087123a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q8",
+          "content_markdown": "একটি জলাশয়ে এর প্রকৃত গভীরতা 6m। যদি পানির প্রতিসরাঙ্ক 4/3 হয় তবে এর আপত্তি গভীরতা কত?",
+          "structured_data": {
+            "question_number": "8",
+            "subtype": "mcq_item",
+            "stem": "একটি জলাশয়ে এর প্রকৃত গভীরতা 6m। যদি পানির প্রতিসরাঙ্ক 4/3 হয় তবে এর আপত্তি গভীরতা কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "4m",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "5m",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "4.5m",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "5.5m",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "JU-A Admission Test, 2016–17; JU Admission Test, 2014–15",
+            "provenance": [
+              "JU-A Admission Test",
+              "2016–17",
+              "JU Admission Test",
+              "2014–15"
+            ]
+          },
+          "id": "4a6eb871-8f09-5ef0-85c5-611a8c589d66"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q9",
+          "content_markdown": "আলো চলার পথে শক্তি অপচয় করে যে পথে চলে সে নীতিকে বলে—",
+          "structured_data": {
+            "question_number": "9",
+            "subtype": "mcq_item",
+            "stem": "আলো চলার পথে শক্তি অপচয় করে যে পথে চলে সে নীতিকে বলে—",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "হাইজিনবার্ড নীতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "পাউলীর বর্ণন নীতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ভরবেগ ভারসাম্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ফার্মাটের নীতি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "JU Admission Test, 2017–18",
+            "provenance": [
+              "JU Admission Test",
+              "2017–18"
+            ]
+          },
+          "id": "5f5a57aa-a1b3-568c-86df-0581d4e61d62"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q10",
+          "content_markdown": "লাল, বেগুনি, সবুজ ও কমলা বর্ণের আলোর জন্য কোনো মাধ্যমের প্রতিসরাঙ্ক যথাক্রমে μR, μV, μG ও μO হলে নিচের কোন সম্পর্কিত সত্যিক?\n[দ.খ. ২০১৯]",
+          "structured_data": {
+            "question_number": "10",
+            "subtype": "mcq_item",
+            "stem": "লাল, বেগুনি, সবুজ ও কমলা বর্ণের আলোর জন্য কোনো মাধ্যমের প্রতিসরাঙ্ক যথাক্রমে μR, μV, μG ও μO হলে নিচের কোন সম্পর্কিত সত্যিক?\n[দ.খ. ২০১৯]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "μR > μV > μG > μO",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "μR < μV < μG < μO",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "μR > μO > μG > μV",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "μR < μO < μG < μV",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d60e6bac-4502-5b89-87da-408528b74f61"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q11",
+          "content_markdown": "h উচ্চতার একটি সুইমিং পুলের কোন গভীরতা পর্যন্ত পানি দিয়ে পূর্ণ করলে মনে হবে যে তা অর্ধেক পূর্ণ হয়েছে?",
+          "structured_data": {
+            "question_number": "11",
+            "subtype": "mcq_item",
+            "stem": "h উচ্চতার একটি সুইমিং পুলের কোন গভীরতা পর্যন্ত পানি দিয়ে পূর্ণ করলে মনে হবে যে তা অর্ধেক পূর্ণ হয়েছে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{3}{4}h$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{2}{3}h$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{5}{7}h$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\frac{2}{5}h$ [শহজাহান তপন, আমির হোসেন]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "BUET: 11-12",
+            "provenance": [
+              "BUET: 11-12"
+            ]
+          },
+          "id": "47ef3cb6-e810-5067-b287-fb1bbc19ad99"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q12",
+          "content_markdown": "একটি আলোক রশ্মি বায়ু থেকে কাচে (প্রতিসরাঙ্ক = 3/2) প্রবেশের সময় আশ্চর্য প্রতিফলিত ও আশ্চর্য প্রতিসরিত হয়। যদি আপতন কোণ 45° হয়, তবে প্রতিসরণ কোণ কত হবে? [দ. খ. ১১]",
+          "structured_data": {
+            "question_number": "12",
+            "subtype": "mcq_item",
+            "stem": "একটি আলোক রশ্মি বায়ু থেকে কাচে (প্রতিসরাঙ্ক = 3/2) প্রবেশের সময় আশ্চর্য প্রতিফলিত ও আশ্চর্য প্রতিসরিত হয়। যদি আপতন কোণ 45° হয়, তবে প্রতিসরণ কোণ কত হবে? [দ. খ. ১১]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "sin⁻¹$\\left(\\sqrt{\\frac{2}{3}}\\right)$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "sin⁻¹$\\left(\\frac{\\sqrt{2}}{3}\\right)$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "sin⁻¹$\\left(\\frac{2}{\\sqrt{3}}\\right)$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "sin⁻¹$\\left(\\frac{1}{\\sqrt{3}}\\right)$ [শহজাহান তপন, আমির হোসেন]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0d6addee-cf85-52a7-9f5e-02bdbda691c6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q13",
+          "content_markdown": "কোনো মাধ্যমের প্রতিসরাঙ্ক কীসের ওপর নির্ভর করে না? [দ.খ. ২০১৯]",
+          "structured_data": {
+            "question_number": "13",
+            "subtype": "mcq_item",
+            "stem": "কোনো মাধ্যমের প্রতিসরাঙ্ক কীসের ওপর নির্ভর করে না? [দ.খ. ২০১৯]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মাধ্যমের প্রকৃতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মাধ্যমের আলোকীয় যন্ত্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আলোর বর্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "আপতন কোণ [আমির হোসেন]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "94d422b9-6086-5ce0-afb5-f0873f7419ab"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q14",
+          "content_markdown": "কোন সম্পর্কিত সত্যিক? [দ.খ. ২০১৯]",
+          "structured_data": {
+            "question_number": "14",
+            "subtype": "mcq_item",
+            "stem": "কোন সম্পর্কিত সত্যিক? [দ.খ. ২০১৯]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "αμb = Cb/Ca",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "αμb = Ca/Cb",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "αμb = 1/αμb",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "αμb = μa/μb [আমির হোসেন]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8ea60d6d-82d3-56a1-9f59-f635028c55fe"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q15",
+          "content_markdown": "লাল, নীল ও হলুদ রঙ এর তিনটি আলোর কম্পাছ যথাক্রমে νL, νB ও νY হলে নিচের কোনটি সত্যিক? [দ.খ. ২০১৯]",
+          "structured_data": {
+            "question_number": "15",
+            "subtype": "mcq_item",
+            "stem": "লাল, নীল ও হলুদ রঙ এর তিনটি আলোর কম্পাছ যথাক্রমে νL, νB ও νY হলে নিচের কোনটি সত্যিক? [দ.খ. ২০১৯]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "νL > νB > νY",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "νY > νB > νL",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "νB > νY > νL",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "νY > νL > νB [আমির হোসেন]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3f24c2ae-3042-5f98-b45d-cf69e6c6b19a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q16",
+          "content_markdown": "বায়ু সাপেক্ষে কোনো মাধ্যমের প্রতিসরাঙ্ক √2 এবং বায়ু মধ্যম থেকে 45° কোণে একটি আলোকরশ্মি ওই মাধ্যমে আপতিত হলে। প্রতিসরণের জন্য রশ্মির বিচ্ছিন্ন নির্মাণ কর।",
+          "structured_data": {
+            "question_number": "16",
+            "subtype": "mcq_item",
+            "stem": "বায়ু সাপেক্ষে কোনো মাধ্যমের প্রতিসরাঙ্ক √2 এবং বায়ু মধ্যম থেকে 45° কোণে একটি আলোকরশ্মি ওই মাধ্যমে আপতিত হলে। প্রতিসরণের জন্য রশ্মির বিচ্ছিন্ন নির্মাণ কর।",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "45°",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "30°",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "15°",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "5° [আমির হোসেন]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d920760b-c967-5bff-b99d-a73aea6f4913"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q17",
+          "content_markdown": "একটি আলোক রশ্মি শূন্য মাধ্যমে থেকে μ প্রতিসরাঙ্কের মাধ্যমে প্রবেশ করল। যদি আপতন কোণ প্রতিসরণ কোণের বিগুলো তাহলে আপতন কোণ কত?",
+          "structured_data": {
+            "question_number": "17",
+            "subtype": "mcq_item",
+            "stem": "একটি আলোক রশ্মি শূন্য মাধ্যমে থেকে μ প্রতিসরাঙ্কের মাধ্যমে প্রবেশ করল। যদি আপতন কোণ প্রতিসরণ কোণের বিগুলো তাহলে আপতন কোণ কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "cos⁻¹(μ/2)",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "sin⁻¹(μ/2)",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "2cos⁻¹(μ/2)",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "2sin⁻¹(μ/2) [আমির হোসেন]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7f9f0966-0d3d-5268-99fa-7a9a96384384"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q18",
+          "content_markdown": "কোনো মাধ্যমে আলোর বেগ $2 \\times 10^8 ms^{-1}$ | ঐ মাধ্যমের প্রতিসরাঙ্ক-",
+          "structured_data": {
+            "question_number": "18",
+            "subtype": "mcq_item",
+            "stem": "কোনো মাধ্যমে আলোর বেগ $2 \\times 10^8 ms^{-1}$ | ঐ মাধ্যমের প্রতিসরাঙ্ক-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1.4",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2.3",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "1.5",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "1.0 [আমির হোসেন]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "35c9637e-0c8b-530b-b6e3-44dc820966bf"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q19",
+          "content_markdown": "লাল ও বেগুনি বর্ণের আলোর সাপেক্ষে কোনো মাধ্যমের প্রতিসরাঙ্ক যথাক্রমে μr এবং μv হলে-",
+          "structured_data": {
+            "question_number": "19",
+            "subtype": "mcq_item",
+            "stem": "লাল ও বেগুনি বর্ণের আলোর সাপেক্ষে কোনো মাধ্যমের প্রতিসরাঙ্ক যথাক্রমে μr এবং μv হলে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "μr > μv",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "μr < μv",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কোনোটাই নয় [আমির হোসেন]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "05cf523b-d8f0-5628-8de5-d894df2f619d"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 20,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 109.37,
+        "eval_count": 3375
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "```plaintext\nপদার্থবিজ্ঞান দ্বিতীয় পত্র\n\n343\n\nজ্যামিতিক আলোকবিজ্ঞান\n\n## 20. কাচের নির্মিত একটি লেপের বায়ুতে ফোকাস দূরত্ব 15cm। লেপটিকে $\\frac{4}{3}$ প্রতিসরণশীষ্ট কোনো তরলে নিমজ্জিত করলে ফোকাস দূরত্ব হবে–(কাচের প্রতিসরণ = $\\frac{3}{2}$)\n\n**Type:** mcq\n**Stem:** কাচের নির্মিত একটি লেপের বায়ুতে ফোকাস দূরত্ব 15cm। লেপটিকে $\\frac{4}{3}$ প্রতিসরণশীষ্ট কোনো তরলে নিমজ্জিত করলে ফোকাস দূরত্ব হবে–(কাচের প্রতিসরণ = $\\frac{3}{2}$)\n**Options:** - a) 30cm - b) 60cm - c) 90cm - d) 120cm\n**Answer:** গ. 90cm\n**Solution:** অনুধাবনা করা যায় যে, লেপটি নিমজ্জিত করলে প্রতিসরণ উৎপাদিত হবে। তখন প্রতিসরণ শীষ্ট ও প্রতিসরণ ভাঙ্কে কমে যাবে। ফলে ফোকাস দূরত্বও কমে যাবে। তাই ফোকাস দূরত্ব 90cm হবে।\n**Tags:** আমির হোসেন\n\n## 21. একটি সমতলে লেপের বায়ুতে ফোকাস দূরত্ব তার বক্রতার ব্যাসার্ধের সমান। লেপটির উপাদানের প্রতিসরণ হলো–\n\n**Type:** mcq\n**Stem:** একটি সমতলে লেপের বায়ুতে ফোকাস দূরত্ব তার বক্রতার ব্যাসার্ধের সমান। লেপটির উপাদানের প্রতিসরণ হলো-\n**Options:** - a) $\\frac{4}{3}$ - b) 2.5 - c) 0.8 - d) 1.5\n**Answer:** ঘ. 0.8\n**Solution:** অনুধাবনা করা যায় যে, সমতল লেপের বায়ুতে ফোকাস দূরত্ব তার বক্রতার ব্যাসার্ধের সমান। তাছাড়াই লেপটির উপাদানের প্রতিসরণ হলো 0.8।\n**Tags:** আমির হোসেন\n\n## 22. বায়ু সাপেক্ষে পানির প্রতিসরণক্ষ 4/3। পানির সাপেক্ষে বায়ুর প্রতিসরণক্ষ কত?\n\n**Type:** mcq\n**Stem:** বায়ু সাপেক্ষে পানির প্রতিসরণক্ষ 4/3। পানির সাপেক্ষে বায়ুর প্রতিসরণক্ষ কত?\n**Options:** - a) $\\frac{4}{3}$ - b) $\\frac{3}{4}$ - c) 1.33 - d) 0.66\n**Answer:** খ. $\\frac{3}{4}$\n**Solution:** অনুধাবনা করা যায় যে, পানির সাপেক্ষে বায়ুর প্রতিসরণক্ষ হলো $\\left(\\frac{\\mu_{\\mathrm{air}}}{\\mu_{\\mathrm{water}}}\\right)^{-1}$. তাছাড়াই পানির সাপেক্ষে বায়ুর প্রতিসরণক্ষ হলো $\\frac{3}{4}$。\n**Tags:** শহজাহান তত্ত্ব\n\n## 23. আলো যখন বায়ু থেকে কাচে প্রবেশ করে তখন আলোর তরঙ্গের কী পরিবর্তন হয়?\n\n**Type:** mcq\n**Stem:** আলো যখন বায়ু থেকে কাচে প্রবেশ করে তখন আলোর তরঙ্গের কী পরিবর্তন হয়?\n**Options:** - a) রং ও তরঙ্গদৈর্ঘ্য - b) কম্পাক্ষ ও তরঙ্গদৈর্ঘ্য - c) বেগ ও তরঙ্গদৈর্ঘ্য - d) রং ও বেগ\n**Answer:** ঘ. বেগ ও তরঙ্গদৈর্ঘ্য\n**Solution:** অনুধাবনা করা যায় যে, বায়ু থেকে কাচে প্রবেশ করলে আলোর তরঙ্গের বেগ ও তরঙ্গদৈর্ঘ্য পরিবর্তিত হয়।\n**Tags:** শহজাহান তত্ত্ব\n\n## 24. প্রতিসরণের সময় যে রাশিটির পরিবর্তন হয় না?\n\n**Type:** mcq\n**Stem:** প্রতিসরণের সময় যে রাশিটির পরিবর্তন হয় না?\n**Options:** - a) দিক - b) দ্রুতি - c) কম্পাক্ষ - d) তরঙ্গদৈর্ঘ্য\n**Answer:** ঘ. তরঙ্গদৈর্ঘ্য\n**Solution:** অনুধাবনা করা যায় যে, প্রতিসরণের সময় আলোর দিক, দ্রুতি ও কম্পাক্ষ পরিবর্তিত হয়, তবে তরঙ্গদৈর্ঘ্য পরিবর্তিত হয় না।\n**Tags:** [সৌভাগ্য রহমান]\n\n## 25. কোনো পুরুরের তলদেশে একটি মাছকে 3m নিচে দেখা যায়। পানির প্রতিসরণক্ষ $ \\frac{4}{3} $ হলে, পুরুরের প্রকৃত গভীরতা কত? (সৌভাগ্য রহমান)\n\n**Type:** mcq\n**Stem:** কোনো পুরুরের তলদেশে একটি মাছকে 3m নিচে দেখা যায়। পানির প্রতিসরণক্ষ $ \\frac{4}{3} $ হলে, পুরুরের প্রকৃত গভীরতা কত? (সৌভাগ্য রহমান)\n**Options:** - a) 9m - b) 6m - c) 8m - d) 4m\n**Answer:** ঘ. 4m\n**Solution:** অনুধাবনা করা যায় যে, পুরুরের প্রকৃত গভীরতা হলো $d = \\frac{h}{\\sqrt{\\epsilon_0/\\mu_0}}$, যেখানে h হলো পুরুরের গভীরতা এবং $\\epsilon_0$ ও $\\mu_0$ হলো পানির প্রতিসরণ ভাঙ্কে। তাই পুরুরের প্রকৃত গভীরতা 4m।\n**Tags:** শাহজাহান তত্ত্ব\n\n## 26. অত্যন্ত সূর্য দেখার জন্য পানি হতে একটি মাছকে কোন দিকে দৃষ্টিপাত করতে হবে? [পানির প্রতিসরণ $= \\frac{4}{3}]$\n\n**Type:** mcq\n**Stem:** অত্যন্ত সূর্য দেখার জন্য পানি হতে একটি মাছকে কোন দিকে দৃষ্টিপাত করতে হবে? [পানির প্রতিসরণ $= \\frac{4}{3}]$\n**Options:** - a) sin${^{-1}} (\\frac{4}{3})$ - b) sin${^{-1}} (\\frac{\\sqrt{3}}{2})$ - c) sin${^{-1}} (\\frac{3}{2})$ - d) sin${^{-1}} (\\frac{3}{4})$\n**Answer:** ঘ. sin${^{-1}} (\\frac{3}{4})$\n**Solution:** অনুধাবনা করা যায় যে, পানি হতে একটি মাছকে দৃষ্টিপাত করতে হবে যেখানে পানির প্রতিসরণ উৎপাদিত হবে। তাছাড়াই পানির প্রতিসরণ ক্ষেত্রফলে ফোকাস দূরত্ব হলো $f = \\frac{R^2}{D^2 + R^2}$, যেখানে D হলো পুরুরের গভীরতা এবং R হলো পুরুরের ব্যাসার্ধ। তাই পুরুরের প্রকৃত গভীরতা 4m।\n**Tags:** শাহজাহান তত্ত্ব\n\n## 27. একজন ডুরুমি পানির ভেতর থেকে অন্তঃমীকর সূর্যকে কত ডিগ্রী কোণে দেখেছে?\n\n**Type:** mcq\n**Stem:** একজন ডুরুমি পানির ভেতর থেকে অন্তঃমীকর সূর্যকে কত ডিগ্রী কোণে দেখেছে?\n**Options:** - a) অন্তঃমীকর সাপেক্ষে 41° - b) অন্তঃমীকর সাপেক্ষে 49° - c) অন্তঃমীকর সাপেক্ষে 0° - d) অন্তঃমীকর সাপেক্ষে 45°\n**Answer:** খ. অন্তঃমীকর সাপেক্ষে 49°\n**Solution:** অনুধাবনা করা যায় যে, ডুরুমি পানির ভেতর থেকে অন্তঃমীকর সূর্যকে দেখেছে যেখানে পানির প্রতিসরণ উৎপাদিত হবে। তাছাড়াই পানির প্রতিসরণ ক্ষেত্রফলে ফোকাস দূরত্ব হলো $f = \\frac{R^2}{D^2 + R^2}$, যেখানে D হলো পুরুরের গভীরতা এবং R হলো পুরুরের ব্যাসার্ধ। তাই পুরুরের প্রকৃত গভীরতা 4m।\n**Tags:** শাহজাহান তত্ত্ব\n\n## 28. একটি পুরুর 6 ফুট গভীর। পানির প্রতিসরণক্ষ 1.33 হলে গভীরতা কত?\n\n**Type:** mcq\n**Stem:** একটি পুরুর 6 ফুট গভীর। পানির প্রতিসরণক্ষ 1.33 হলে গভীরতা কত?\n**Options:** - a) 7.98 ft - b) 4.10 ft - c) 0.22 ft - d) 4.5 ft\n**Answer:** ঘ. 0.22 ft\n**Solution:** অনুধাবনা করা যায় যে, পুরুরের প্রকৃত গভীরতা হলো $d = \\frac{h}{\\sqrt{\\epsilon_0/\\mu_0}}$, যেখানে h হলো পুরুরের গভীরতা এবং $\\epsilon_0$ ও $\\mu_0$ হলো পানির প্রতিসরণ ভাঙ্কে। তাই পুরুরের প্রকৃত গভীরতা 4m।\n**Tags:** শাহজাহান তত্ত্ব\n\n## 29. 2mm পুরু একটি কাচের ম্লাবের (প্রতিসরণ = 1.5) মধ্য দিয়ে আলো অতিক্রম করতে কত সময় লাগে?\n\n**Type:** mcq\n**Stem:** 2mm পুরু একটি কাচের ম্লাবের (প্রতিসরণ = 1.5) মধ্য দিয়ে আলো অতিক্রম করতে কত সময় লাগে?\n**Options:** - a) $10^{-5}s$ - b) $10^{-9}s$ - c) $10^{-11}s$ - d) $10^{-13}s$\n**Answer:** ঘ. $10^{-11}s$\n**Solution:** অনুধাবনা করা যায় যে, পুরুরের প্রকৃত গভীরতা হলো $d = \\frac{h}{\\sqrt{\\epsilon_0/\\mu_0}}$, যেখানে h হলো পুরুরের গভীরতা এবং $\\epsilon_0$ ও $\\mu_0$ হলো পানির প্রতিসরণ ভাঙ্কে। তাই পুরুরের প্রকৃত গভীরতা 4m।\n**Tags:** শাহজাহান তত্ত্ব\n\n## Q20-29\n**Type:** mcq\n**Stem:** পদার্থবিজ্ঞান দ্বিতীয় পত্র\n**Options:** - a) ... - b) ... - c) ... - d) ...\n**Answer:** ঘ.\n**Solution:** অনুধাবনা করা যায় যে, পুরুরের প্রকৃত গভীরতা হলো $d = \\frac{h}{\\sqrt{\\epsilon_0/\\mu_0}}$, যেখানে h হলো পুরুরের গভীরতা এবং $\\epsilon_0$ ও $\\mu_0$ হলো পানির প্রতিসরণ ভাঙ্কে। তাই পুরুরের প্রকৃত গভীরতা 4m।\n**Tags:** [সৌভাগ্য রহমান]\n\n## Q30-38\n**Type:** mcq\n**Stem:** জ্যামিতিক আলোকবিজ্ঞান\n**Options:** - a) ... - b) ... - c) ... - d) ...\n**Answer:** ঘ.\n**Solution:** অনুধাবনা করা যায় যে, পুরুরের প্রকৃত গভীরতা হলো $d = \\frac{h}{\\sqrt{\\epsilon_0/\\mu_0}}$, যেখানে h হলো পুরুরের গভীরতা এবং $\\epsilon_0$ ও $\\mu_0$ হলো পানির প্রতিসরণ ভাঙ্কে। তাই পুরুরের প্রকৃত গভীরতা 4m।\n**Tags:** [সৌভাগ্য রহমান]",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "```plaintext\nপদার্থবিজ্ঞান দ্বিতীয় পত্র",
+          "structured_data": {},
+          "id": "b4be2258-1b2e-5c94-be45-dbdd5a4f6718"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "343",
+          "structured_data": {},
+          "id": "c2008703-c5ea-536f-9513-c87c2cd8fcfd"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "জ্যামিতিক আলোকবিজ্ঞান",
+          "structured_data": {},
+          "id": "8bfc8aea-3f8e-568d-8652-3928854d9423"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "20. কাচের নির্মিত একটি লেপের বায়ুতে ফোকাস দূরত্ব 15cm। লেপটিকে $\\frac{4}{3}$ প্রতিসরণশীষ্ট কোনো তরলে নিমজ্জিত করলে ফোকাস দূরত্ব হবে–(কাচের প্রতিসরণ = $\\frac{3}{2}$)",
+          "content_markdown": "**Type:** mcq\n**Stem:** কাচের নির্মিত একটি লেপের বায়ুতে ফোকাস দূরত্ব 15cm। লেপটিকে $\\frac{4}{3}$ প্রতিসরণশীষ্ট কোনো তরলে নিমজ্জিত করলে ফোকাস দূরত্ব হবে–(কাচের প্রতিসরণ = $\\frac{3}{2}$)\n**Options:** - a) 30cm - b) 60cm - c) 90cm - d) 120cm\n**Answer:** গ. 90cm\n**Solution:** অনুধাবনা করা যায় যে, লেপটি নিমজ্জিত করলে প্রতিসরণ উৎপাদিত হবে। তখন প্রতিসরণ শীষ্ট ও প্রতিসরণ ভাঙ্কে কমে যাবে। ফলে ফোকাস দূরত্বও কমে যাবে। তাই ফোকাস দূরত্ব 90cm হবে।\n**Tags:** আমির হোসেন",
+          "structured_data": {},
+          "id": "a06ade84-5092-557c-b77f-5d7e6d6469d4"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "21. একটি সমতলে লেপের বায়ুতে ফোকাস দূরত্ব তার বক্রতার ব্যাসার্ধের সমান। লেপটির উপাদানের প্রতিসরণ হলো–",
+          "content_markdown": "**Type:** mcq\n**Stem:** একটি সমতলে লেপের বায়ুতে ফোকাস দূরত্ব তার বক্রতার ব্যাসার্ধের সমান। লেপটির উপাদানের প্রতিসরণ হলো-\n**Options:** - a) $\\frac{4}{3}$ - b) 2.5 - c) 0.8 - d) 1.5\n**Answer:** ঘ. 0.8\n**Solution:** অনুধাবনা করা যায় যে, সমতল লেপের বায়ুতে ফোকাস দূরত্ব তার বক্রতার ব্যাসার্ধের সমান। তাছাড়াই লেপটির উপাদানের প্রতিসরণ হলো 0.8।\n**Tags:** আমির হোসেন",
+          "structured_data": {},
+          "id": "10e8191e-c7c3-5a3d-ae60-5820ecd766b1"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "22. বায়ু সাপেক্ষে পানির প্রতিসরণক্ষ 4/3। পানির সাপেক্ষে বায়ুর প্রতিসরণক্ষ কত?",
+          "content_markdown": "**Type:** mcq\n**Stem:** বায়ু সাপেক্ষে পানির প্রতিসরণক্ষ 4/3। পানির সাপেক্ষে বায়ুর প্রতিসরণক্ষ কত?\n**Options:** - a) $\\frac{4}{3}$ - b) $\\frac{3}{4}$ - c) 1.33 - d) 0.66\n**Answer:** খ. $\\frac{3}{4}$\n**Solution:** অনুধাবনা করা যায় যে, পানির সাপেক্ষে বায়ুর প্রতিসরণক্ষ হলো $\\left(\\frac{\\mu_{\\mathrm{air}}}{\\mu_{\\mathrm{water}}}\\right)^{-1}$. তাছাড়াই পানির সাপেক্ষে বায়ুর প্রতিসরণক্ষ হলো $\\frac{3}{4}$。\n**Tags:** শহজাহান তত্ত্ব",
+          "structured_data": {},
+          "id": "af1376a1-13d3-551a-8e67-783480fcc5d1"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "23. আলো যখন বায়ু থেকে কাচে প্রবেশ করে তখন আলোর তরঙ্গের কী পরিবর্তন হয়?",
+          "content_markdown": "**Type:** mcq\n**Stem:** আলো যখন বায়ু থেকে কাচে প্রবেশ করে তখন আলোর তরঙ্গের কী পরিবর্তন হয়?\n**Options:** - a) রং ও তরঙ্গদৈর্ঘ্য - b) কম্পাক্ষ ও তরঙ্গদৈর্ঘ্য - c) বেগ ও তরঙ্গদৈর্ঘ্য - d) রং ও বেগ\n**Answer:** ঘ. বেগ ও তরঙ্গদৈর্ঘ্য\n**Solution:** অনুধাবনা করা যায় যে, বায়ু থেকে কাচে প্রবেশ করলে আলোর তরঙ্গের বেগ ও তরঙ্গদৈর্ঘ্য পরিবর্তিত হয়।\n**Tags:** শহজাহান তত্ত্ব",
+          "structured_data": {},
+          "id": "1ef4d16c-863b-5747-97b0-e974e4d7a73f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "24. প্রতিসরণের সময় যে রাশিটির পরিবর্তন হয় না?",
+          "content_markdown": "**Type:** mcq\n**Stem:** প্রতিসরণের সময় যে রাশিটির পরিবর্তন হয় না?\n**Options:** - a) দিক - b) দ্রুতি - c) কম্পাক্ষ - d) তরঙ্গদৈর্ঘ্য\n**Answer:** ঘ. তরঙ্গদৈর্ঘ্য\n**Solution:** অনুধাবনা করা যায় যে, প্রতিসরণের সময় আলোর দিক, দ্রুতি ও কম্পাক্ষ পরিবর্তিত হয়, তবে তরঙ্গদৈর্ঘ্য পরিবর্তিত হয় না।\n**Tags:** [সৌভাগ্য রহমান]",
+          "structured_data": {},
+          "id": "3239e02a-e74e-59c2-ab38-e4823ceded3f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "25. কোনো পুরুরের তলদেশে একটি মাছকে 3m নিচে দেখা যায়। পানির প্রতিসরণক্ষ $ \\frac{4}{3} $ হলে, পুরুরের প্রকৃত গভীরতা কত? (সৌভাগ্য রহমান)",
+          "content_markdown": "**Type:** mcq\n**Stem:** কোনো পুরুরের তলদেশে একটি মাছকে 3m নিচে দেখা যায়। পানির প্রতিসরণক্ষ $ \\frac{4}{3} $ হলে, পুরুরের প্রকৃত গভীরতা কত? (সৌভাগ্য রহমান)\n**Options:** - a) 9m - b) 6m - c) 8m - d) 4m\n**Answer:** ঘ. 4m\n**Solution:** অনুধাবনা করা যায় যে, পুরুরের প্রকৃত গভীরতা হলো $d = \\frac{h}{\\sqrt{\\epsilon_0/\\mu_0}}$, যেখানে h হলো পুরুরের গভীরতা এবং $\\epsilon_0$ ও $\\mu_0$ হলো পানির প্রতিসরণ ভাঙ্কে। তাই পুরুরের প্রকৃত গভীরতা 4m।\n**Tags:** শাহজাহান তত্ত্ব",
+          "structured_data": {},
+          "id": "b43746af-13f7-590a-82f4-2b7075b66fdd"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "26. অত্যন্ত সূর্য দেখার জন্য পানি হতে একটি মাছকে কোন দিকে দৃষ্টিপাত করতে হবে? [পানির প্রতিসরণ $= \\frac{4}{3}]$",
+          "content_markdown": "**Type:** mcq\n**Stem:** অত্যন্ত সূর্য দেখার জন্য পানি হতে একটি মাছকে কোন দিকে দৃষ্টিপাত করতে হবে? [পানির প্রতিসরণ $= \\frac{4}{3}]$\n**Options:** - a) sin${^{-1}} (\\frac{4}{3})$ - b) sin${^{-1}} (\\frac{\\sqrt{3}}{2})$ - c) sin${^{-1}} (\\frac{3}{2})$ - d) sin${^{-1}} (\\frac{3}{4})$\n**Answer:** ঘ. sin${^{-1}} (\\frac{3}{4})$\n**Solution:** অনুধাবনা করা যায় যে, পানি হতে একটি মাছকে দৃষ্টিপাত করতে হবে যেখানে পানির প্রতিসরণ উৎপাদিত হবে। তাছাড়াই পানির প্রতিসরণ ক্ষেত্রফলে ফোকাস দূরত্ব হলো $f = \\frac{R^2}{D^2 + R^2}$, যেখানে D হলো পুরুরের গভীরতা এবং R হলো পুরুরের ব্যাসার্ধ। তাই পুরুরের প্রকৃত গভীরতা 4m।\n**Tags:** শাহজাহান তত্ত্ব",
+          "structured_data": {},
+          "id": "493bd979-a734-562f-996f-ce62f163bb67"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "27. একজন ডুরুমি পানির ভেতর থেকে অন্তঃমীকর সূর্যকে কত ডিগ্রী কোণে দেখেছে?",
+          "content_markdown": "**Type:** mcq\n**Stem:** একজন ডুরুমি পানির ভেতর থেকে অন্তঃমীকর সূর্যকে কত ডিগ্রী কোণে দেখেছে?\n**Options:** - a) অন্তঃমীকর সাপেক্ষে 41° - b) অন্তঃমীকর সাপেক্ষে 49° - c) অন্তঃমীকর সাপেক্ষে 0° - d) অন্তঃমীকর সাপেক্ষে 45°\n**Answer:** খ. অন্তঃমীকর সাপেক্ষে 49°\n**Solution:** অনুধাবনা করা যায় যে, ডুরুমি পানির ভেতর থেকে অন্তঃমীকর সূর্যকে দেখেছে যেখানে পানির প্রতিসরণ উৎপাদিত হবে। তাছাড়াই পানির প্রতিসরণ ক্ষেত্রফলে ফোকাস দূরত্ব হলো $f = \\frac{R^2}{D^2 + R^2}$, যেখানে D হলো পুরুরের গভীরতা এবং R হলো পুরুরের ব্যাসার্ধ। তাই পুরুরের প্রকৃত গভীরতা 4m।\n**Tags:** শাহজাহান তত্ত্ব",
+          "structured_data": {},
+          "id": "5bc9e30b-bc99-5b04-8aa4-d6d4cff2616e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "28. একটি পুরুর 6 ফুট গভীর। পানির প্রতিসরণক্ষ 1.33 হলে গভীরতা কত?",
+          "content_markdown": "**Type:** mcq\n**Stem:** একটি পুরুর 6 ফুট গভীর। পানির প্রতিসরণক্ষ 1.33 হলে গভীরতা কত?\n**Options:** - a) 7.98 ft - b) 4.10 ft - c) 0.22 ft - d) 4.5 ft\n**Answer:** ঘ. 0.22 ft\n**Solution:** অনুধাবনা করা যায় যে, পুরুরের প্রকৃত গভীরতা হলো $d = \\frac{h}{\\sqrt{\\epsilon_0/\\mu_0}}$, যেখানে h হলো পুরুরের গভীরতা এবং $\\epsilon_0$ ও $\\mu_0$ হলো পানির প্রতিসরণ ভাঙ্কে। তাই পুরুরের প্রকৃত গভীরতা 4m।\n**Tags:** শাহজাহান তত্ত্ব",
+          "structured_data": {},
+          "id": "20f7cd82-01a6-52a9-9623-446bc62686b1"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "29. 2mm পুরু একটি কাচের ম্লাবের (প্রতিসরণ = 1.5) মধ্য দিয়ে আলো অতিক্রম করতে কত সময় লাগে?",
+          "content_markdown": "**Type:** mcq\n**Stem:** 2mm পুরু একটি কাচের ম্লাবের (প্রতিসরণ = 1.5) মধ্য দিয়ে আলো অতিক্রম করতে কত সময় লাগে?\n**Options:** - a) $10^{-5}s$ - b) $10^{-9}s$ - c) $10^{-11}s$ - d) $10^{-13}s$\n**Answer:** ঘ. $10^{-11}s$\n**Solution:** অনুধাবনা করা যায় যে, পুরুরের প্রকৃত গভীরতা হলো $d = \\frac{h}{\\sqrt{\\epsilon_0/\\mu_0}}$, যেখানে h হলো পুরুরের গভীরতা এবং $\\epsilon_0$ ও $\\mu_0$ হলো পানির প্রতিসরণ ভাঙ্কে। তাই পুরুরের প্রকৃত গভীরতা 4m।\n**Tags:** শাহজাহান তত্ত্ব",
+          "structured_data": {},
+          "id": "27e813fd-2e63-53d5-97d5-464453a40446"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q20-29",
+          "content_markdown": "পদার্থবিজ্ঞান দ্বিতীয় পত্র",
+          "structured_data": {
+            "question_number": "20-29",
+            "subtype": "mcq",
+            "stem": "পদার্থবিজ্ঞান দ্বিতীয় পত্র",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "... - b) ... - c) ... - d) ...",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "ঘ.",
+            "solution_markdown": "অনুধাবনা করা যায় যে, পুরুরের প্রকৃত গভীরতা হলো $d = \\frac{h}{\\sqrt{\\epsilon_0/\\mu_0}}$, যেখানে h হলো পুরুরের গভীরতা এবং $\\epsilon_0$ ও $\\mu_0$ হলো পানির প্রতিসরণ ভাঙ্কে। তাই পুরুরের প্রকৃত গভীরতা 4m।",
+            "tags_raw": "[সৌভাগ্য রহমান]",
+            "provenance": [
+              "[সৌভাগ্য রহমান]"
+            ]
+          },
+          "id": "6116f90b-26fc-5a43-aa1c-29d7e2fe2682"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q30-38",
+          "content_markdown": "জ্যামিতিক আলোকবিজ্ঞান",
+          "structured_data": {
+            "question_number": "30-38",
+            "subtype": "mcq",
+            "stem": "জ্যামিতিক আলোকবিজ্ঞান",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "... - b) ... - c) ... - d) ...",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "ঘ.",
+            "solution_markdown": "অনুধাবনা করা যায় যে, পুরুরের প্রকৃত গভীরতা হলো $d = \\frac{h}{\\sqrt{\\epsilon_0/\\mu_0}}$, যেখানে h হলো পুরুরের গভীরতা এবং $\\epsilon_0$ ও $\\mu_0$ হলো পানির প্রতিসরণ ভাঙ্কে। তাই পুরুরের প্রকৃত গভীরতা 4m।",
+            "tags_raw": "[সৌভাগ্য রহমান]",
+            "provenance": [
+              "[সৌভাগ্য রহমান]"
+            ]
+          },
+          "id": "99f438e7-1a11-5ecd-8afb-423cfe343feb"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 15,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 242.26,
+        "eval_count": 5363
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান ছত্তীয় পর্ষ্ঠ\n\n#### 81. রধনুর সাথে নিচের কোণটি সামঞ্জস্যপূর্ণ নয়? (ছবিডিকে '১৯-২০')\n- ক. প্রতিফলন\n- খ. বিচ্ছুরণ\n- গ. প্রতিসরণ\n- ঘ. বিরাঙ্কিকরণ\n\n#### 82. কোনটি প্রতিফলন দূরীক্ষণ যন্ত্রের নৈষিক্ত?\n- ক. বর্ণ ক্রিট বিদ্যমান\n- খ. বড় উন্নয়ের দর্পণ ব্যবহৃত হয়\n- গ. নির্মাণ খরচ বেশি\n- ঘ. ছোট উন্নয়ের দর্পণ ব্যবহার হয়\n\n#### 83. গোলীয় দর্পণের প্রধান অক্ষ দর্পণের সাথে কত ডিগ্রি কোণ উৎপন্ন করে? (ছবিডিকে '০২-'০৩)\n- ক. $0^{\\circ}$\n- খ. $90^{\\circ}$\n- গ. $180^{\\circ}$\n- ঘ. $45^{\\circ}$\n\n#### 88. নিচের কোনটি স্বাভাবিক চৌম্বকের ‘নিকট বিদু’ (সে.মি.) (ছবিডিকে '০৭-'০৮)\n- ক. 28\n- খ. 15\n- গ. 23\n- ঘ. 25\n\n#### 85. ইয়ারকে প্রতিসরাঙ্ক 2.4 হলে ইয়ারকে আলোর বেগ কত?\n- ক. $1.55\\times {10^{8}}\\mathrm{m.s^{-1}}$\n- খ. $1.5\\times {10^{8}}\\mathrm{m.s^{-1}}$\n- গ. $1.2\\times {10^{8}}\\mathrm{m.s^{-1}}$\n- ঘ. $1.25\\times {10^{8}}\\mathrm{m.s^{-1}}$\n\n#### 86. পরস্পর সমান্তরাল এবং প্রধান অক্ষের সাথে সামন্ত রশ্মিশঙ্খ অবতল দর্পণের পর মিলিত হয়-\n- ক. প্রধান ফোকাসে\n- খ. গোল ফোকাসে\n- গ. অগুবদ্ধ ফোকাসে\n- ঘ. ফোকাস তলে\n\n#### 87. হলুদ, কমলা ও লাল আলোর কম্পাঙ্ক যথাক্রমে $\\mathcal U_{y}$, $\\mathcal U_{o}$ ও $\\mathcal U_{r}$ হলে নিচের কোন সম্পর্কিত স্থিতি?\n- ক. $\\mathcal U_{y}>\\mathcal U_{o}>\\mathcal U_{r}$\n- খ. $\\mathcal U_{y}>\\mathcal U_{r}>\\mathcal U_{o}$\n- গ. $\\mathcal U_{o}>\\mathcal U_{y}>\\mathcal U_{r}$\n- ঘ. $\\mathcal U_{o}>\\mathcal U_{r}>\\mathcal U_{y}$\n\n#### 89. নিচের কোনটি কর্ণিলেই সৃষ্ট বর্ষের ক্রম?\n- ক. বেগুনি, নীল, আসমানি, সবুজ, হলুদ, কমলা, লাল\n- খ. বেগুনি, আসমানি, সবুজ, নীল, কমলা, হলুদ, লাল\n- গ. বেগুনি, সবুজ, আসমানি, কমলা, নীল, হলুদ, লাল\n- ঘ. বেগুনি, কমলা, নীল, আসমানি, হলুদ, সবুজ, লাল\n\n#### 50. একটি আলোনি কাচের লেপের ফোকাস দূরত্ব 0.2 cm এবং বিবর্ধন 2.60 হলে নুনমত দূরত্বে বই রেখে স্পটভাবে পড়া সম্ভব হবে?\n- ক. 0.16\n- খ. 0.32\n- গ. 0.52\n- ঘ. 0.64\n\n#### 51. নিচের কোনটি লেপে প্রতিকরাকর সমীকরণ? [চ.বো. '২০১৫']\n- ক. $\\frac{1}{R}+\\frac{1}{v}=\\frac{1}{f}$\n- খ. $\\frac{1}{f}= (\\mu - 1)\\left(\\frac{1}{r_1}- \\frac{1}{r_2}\\right)$\n- গ. $\\frac{\\mu }{v} + \\frac{1}{u} = \\frac{\\mu -1}{r}$\n- ঘ. $m= \\frac{v}{u}\\left(1+ \\frac{D}{f}\\right)$\n\n#### 52. সমোড়ল ও সমাবতল লেপে আলোক কেন্দ্রের অবস্থান কোথায়?\n[Medical Admission Test, 2013-14]\n- ক. লেপের ভেতর\n- খ. বক্রফলের মেঝেতে\n- গ. লেপের ভেতরে মধ্য বিন্দুতে\n\n#### 53. একটি লেপের ফোকাস দূরত্ব বাতাসে 25cm এবং এর উপাদানের প্রতিসরাঙ্ক $\\frac{3}{2}$. একে $\\frac{4}{3}$ প্রতিসরাঙ্কের পানিতে ঢোলালে এর ফোকাস দূরত্ব কত হবে? [JnU-A Admission Test, 2016-17; JU Admission Test, 2014-15]\n- ক. 75\n- খ. 85\n- গ. 100\n- ঘ. 115\n\n#### 58. উত্তল লেপের ফ্রেমে যখন OC>u > 2f হয়, তখন কোনটি সত্য?\n[চ.বো. ২০১৯]\n- ক. 2>f>v>f\n- খ. ∞>v>r\n- গ. v=f\n- ঘ. v=2f\n\n#### 55. লেপের বক্তার সংস্থাদ্যের সংযোগক সরলরেখাকে বলে—[চ.বো.'১৮/দে.১৯]\n- ক. উলোয়\n- খ. প্রধান ছেদ\n- গ. ফোকাস দূরত্ব\n- ঘ. প্রধান অক্ষ\n\n#### 56. 20cm ফোকাস দৈর্ঘ্যবিশিষ্ট উত্তল দর্পণে বক্ত্র অর্ধেক আকৃতির প্রতিবিধ গতিহয়। দর্পণ থেকে বক্ত্র দূরত্ব কত?\n- ক. 10cm\n- খ. 20cm\n- গ. 30cm\n- ঘ. 40cm\n\n#### 57. একটি সমতলোভল লেপ কাচে $(\\mu$=1.5) তৈরি। এর ফোকাস দূরত্ব এবং বক্তার ব্যাসার্ধের মধ্যে সম্পর্ক হলো–\n- ক. f=$\\frac{R}{2}$\n- খ. f=R\n- গ. f=2R\n- ঘ. f=$\\frac{3}{2}$ R\n\n#### 58. একটি বন্ড উত্তল লেপের দিকে চলছে। যখন লেপ থেকে দূরত্ব 60cm, তখন বন্ড বেগ 9cms${^ {-1}}$হলে প্রতিবিধের বেগ কত? (লেপের f=24cm)\n- ক. 4 cms${^{-1}}$\n- খ. 9 cms${^{-1}}$\n- গ. 8 cms${^{-1}}$\n- ঘ. 18 cms${^{-1}}$\n\n#### 59. একটি অবতল লেপের ফোকাস দূরত্ব (/) একটি বন্ড রাখলে প্রতিবিধের দূরত্ব কত?\n- ক. $\\frac{f}{2}$\n- খ. $\\frac{f}{3}$\n- গ. $\\frac{2f}{3}$\n- ঘ. $\\frac{f}{4}$\n\n#### 60. 16 cm ফোকাস দূরত্বশিষ্ট উত্তল লেপ থেকে কত দূরে বন্ড রাখলে বিষয়ের আকার বন্ডের আকারের বিপর্যয় হবে? [চ.বি. ১৩-১৪: ০৮-'০৯, ০৯-'১০: চ.বি. ০৮-'০৯, ০৯-'১০: চ.বি. ১৪-'১৫: চ.বি. ১৫-'১৬: চ.বি. ১৬-'১৭: চ.বি. ১৭-'১৮]\n- ক. 24 cm\n- খ. 16 cm\n- গ. 8 cm\n- ঘ. 32 cm\n\n#### 61. F ফোকাস দূরত্বের একটি উত্তল লেপে যখন m গুণ বিভক্ত বিশ গঠন করে, তখন বন্ডটি লেপে কত দূরত্বে থাকে?\n- ক. $\\frac{m+1}{m}$F\n- খ. $\\frac{m-1}{m}$F\n- গ. $\\frac{m}{m-2}$F\n- ঘ. $\\frac{2m}{m+1}$F",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q81",
+          "content_markdown": "রধনুর সাথে নিচের কোণটি সামঞ্জস্যপূর্ণ নয়? (ছবিডিকে '১৯-২০')",
+          "structured_data": {
+            "question_number": "81",
+            "subtype": "mcq_item",
+            "stem": "রধনুর সাথে নিচের কোণটি সামঞ্জস্যপূর্ণ নয়? (ছবিডিকে '১৯-২০')",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "প্রতিফলন",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "বিচ্ছুরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "প্রতিসরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "বিরাঙ্কিকরণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c428dc9e-b6bd-51d3-b760-3184c7727dc9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q82",
+          "content_markdown": "কোনটি প্রতিফলন দূরীক্ষণ যন্ত্রের নৈষিক্ত?",
+          "structured_data": {
+            "question_number": "82",
+            "subtype": "mcq_item",
+            "stem": "কোনটি প্রতিফলন দূরীক্ষণ যন্ত্রের নৈষিক্ত?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "বর্ণ ক্রিট বিদ্যমান",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "বড় উন্নয়ের দর্পণ ব্যবহৃত হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "নির্মাণ খরচ বেশি",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "ছোট উন্নয়ের দর্পণ ব্যবহার হয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d7e39511-fdcd-54d8-91fc-a90cdd6082b7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q83",
+          "content_markdown": "গোলীয় দর্পণের প্রধান অক্ষ দর্পণের সাথে কত ডিগ্রি কোণ উৎপন্ন করে? (ছবিডিকে '০২-'০৩)",
+          "structured_data": {
+            "question_number": "83",
+            "subtype": "mcq_item",
+            "stem": "গোলীয় দর্পণের প্রধান অক্ষ দর্পণের সাথে কত ডিগ্রি কোণ উৎপন্ন করে? (ছবিডিকে '০২-'০৩)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "$0^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "$90^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "$180^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "$45^{\\circ}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7a246b85-4b9a-518f-a9c4-f72ed537f154"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q88",
+          "content_markdown": "নিচের কোনটি স্বাভাবিক চৌম্বকের ‘নিকট বিদু’ (সে.মি.) (ছবিডিকে '০৭-'০৮)",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি স্বাভাবিক চৌম্বকের ‘নিকট বিদু’ (সে.মি.) (ছবিডিকে '০৭-'০৮)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "28",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "15",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "23",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "25",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7421fbc7-a98f-565d-84df-c3fd6d7e934b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q85",
+          "content_markdown": "ইয়ারকে প্রতিসরাঙ্ক 2.4 হলে ইয়ারকে আলোর বেগ কত?",
+          "structured_data": {
+            "question_number": "85",
+            "subtype": "mcq_item",
+            "stem": "ইয়ারকে প্রতিসরাঙ্ক 2.4 হলে ইয়ারকে আলোর বেগ কত?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "$1.55\\times {10^{8}}\\mathrm{m.s^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "$1.5\\times {10^{8}}\\mathrm{m.s^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "$1.2\\times {10^{8}}\\mathrm{m.s^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "$1.25\\times {10^{8}}\\mathrm{m.s^{-1}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "553ba56e-9139-586f-bf60-06c5192a2c1c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q86",
+          "content_markdown": "পরস্পর সমান্তরাল এবং প্রধান অক্ষের সাথে সামন্ত রশ্মিশঙ্খ অবতল দর্পণের পর মিলিত হয়-",
+          "structured_data": {
+            "question_number": "86",
+            "subtype": "mcq_item",
+            "stem": "পরস্পর সমান্তরাল এবং প্রধান অক্ষের সাথে সামন্ত রশ্মিশঙ্খ অবতল দর্পণের পর মিলিত হয়-",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "প্রধান ফোকাসে",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "গোল ফোকাসে",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "অগুবদ্ধ ফোকাসে",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "ফোকাস তলে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "bc7ceaa9-afda-52ef-849e-1b628e8aeff2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q87",
+          "content_markdown": "হলুদ, কমলা ও লাল আলোর কম্পাঙ্ক যথাক্রমে $\\mathcal U_{y}$, $\\mathcal U_{o}$ ও $\\mathcal U_{r}$ হলে নিচের কোন সম্পর্কিত স্থিতি?",
+          "structured_data": {
+            "question_number": "87",
+            "subtype": "mcq_item",
+            "stem": "হলুদ, কমলা ও লাল আলোর কম্পাঙ্ক যথাক্রমে $\\mathcal U_{y}$, $\\mathcal U_{o}$ ও $\\mathcal U_{r}$ হলে নিচের কোন সম্পর্কিত স্থিতি?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "$\\mathcal U_{y}>\\mathcal U_{o}>\\mathcal U_{r}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "$\\mathcal U_{y}>\\mathcal U_{r}>\\mathcal U_{o}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "$\\mathcal U_{o}>\\mathcal U_{y}>\\mathcal U_{r}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "$\\mathcal U_{o}>\\mathcal U_{r}>\\mathcal U_{y}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6bf1e28f-b8ad-5a43-8cd9-f1ce20e09681"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q89",
+          "content_markdown": "নিচের কোনটি কর্ণিলেই সৃষ্ট বর্ষের ক্রম?",
+          "structured_data": {
+            "question_number": "89",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি কর্ণিলেই সৃষ্ট বর্ষের ক্রম?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "বেগুনি, নীল, আসমানি, সবুজ, হলুদ, কমলা, লাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "বেগুনি, আসমানি, সবুজ, নীল, কমলা, হলুদ, লাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "বেগুনি, সবুজ, আসমানি, কমলা, নীল, হলুদ, লাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "বেগুনি, কমলা, নীল, আসমানি, হলুদ, সবুজ, লাল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "73de318f-d6a9-564c-935b-c1c612aab5d4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q50",
+          "content_markdown": "একটি আলোনি কাচের লেপের ফোকাস দূরত্ব 0.2 cm এবং বিবর্ধন 2.60 হলে নুনমত দূরত্বে বই রেখে স্পটভাবে পড়া সম্ভব হবে?",
+          "structured_data": {
+            "question_number": "50",
+            "subtype": "mcq_item",
+            "stem": "একটি আলোনি কাচের লেপের ফোকাস দূরত্ব 0.2 cm এবং বিবর্ধন 2.60 হলে নুনমত দূরত্বে বই রেখে স্পটভাবে পড়া সম্ভব হবে?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "0.16",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "0.32",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "0.52",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "0.64",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0b3d04c5-9319-52d8-a60a-b998870f0523"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q51",
+          "content_markdown": "নিচের কোনটি লেপে প্রতিকরাকর সমীকরণ?",
+          "structured_data": {
+            "question_number": "51",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি লেপে প্রতিকরাকর সমীকরণ?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "$\\frac{1}{R}+\\frac{1}{v}=\\frac{1}{f}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "$\\frac{1}{f}= (\\mu - 1)\\left(\\frac{1}{r_1}- \\frac{1}{r_2}\\right)$",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "$\\frac{\\mu }{v} + \\frac{1}{u} = \\frac{\\mu -1}{r}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "$m= \\frac{v}{u}\\left(1+ \\frac{D}{f}\\right)$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "চ.বো. '২০১৫'",
+            "provenance": [
+              "চ.বো. '২০১৫'"
+            ]
+          },
+          "id": "a710ceec-3cbc-5877-a746-edfc2afb0352"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q52",
+          "content_markdown": "সমোড়ল ও সমাবতল লেপে আলোক কেন্দ্রের অবস্থান কোথায়?",
+          "structured_data": {
+            "question_number": "52",
+            "subtype": "mcq_item",
+            "stem": "সমোড়ল ও সমাবতল লেপে আলোক কেন্দ্রের অবস্থান কোথায়?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "লেপের ভেতর",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "বক্রফলের মেঝেতে",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "লেপের ভেতরে মধ্য বিন্দুতে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "Medical Admission Test, 2013-14",
+            "provenance": [
+              "Medical Admission Test",
+              "2013-14"
+            ]
+          },
+          "id": "a414e2c4-0d78-5ab6-9c79-c4a9e49430d5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q53",
+          "content_markdown": "একটি লেপের ফোকাস দূরত্ব বাতাসে 25cm এবং এর উপাদানের প্রতিসরাঙ্ক $\\frac{3}{2}$. একে $\\frac{4}{3}$ প্রতিসরাঙ্কের পানিতে ঢোলালে এর ফোকাস দূরত্ব কত হবে?",
+          "structured_data": {
+            "question_number": "53",
+            "subtype": "mcq_item",
+            "stem": "একটি লেপের ফোকাস দূরত্ব বাতাসে 25cm এবং এর উপাদানের প্রতিসরাঙ্ক $\\frac{3}{2}$. একে $\\frac{4}{3}$ প্রতিসরাঙ্কের পানিতে ঢোলালে এর ফোকাস দূরত্ব কত হবে?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "75",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "85",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "100",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "115",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "JnU-A Admission Test, 2016-17; JU Admission Test, 2014-15",
+            "provenance": [
+              "JnU-A Admission Test",
+              "2016-17",
+              "JU Admission Test",
+              "2014-15"
+            ]
+          },
+          "id": "d8391545-c872-5485-a9bd-b3d25f5de006"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q58",
+          "content_markdown": "উত্তল লেপের ফ্রেমে যখন OC>u > 2f হয়, তখন কোনটি সত্য?\n[চ.বো. ২০১৯]",
+          "structured_data": {
+            "question_number": "58",
+            "subtype": "mcq_item",
+            "stem": "উত্তল লেপের ফ্রেমে যখন OC>u > 2f হয়, তখন কোনটি সত্য?\n[চ.বো. ২০১৯]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "2>f>v>f",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "∞>v>r",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "v=f",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "v=2f",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "db913242-1b00-53a0-9f1a-b3482e873ed1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q55",
+          "content_markdown": "লেপের বক্তার সংস্থাদ্যের সংযোগক সরলরেখাকে বলে—",
+          "structured_data": {
+            "question_number": "55",
+            "subtype": "mcq_item",
+            "stem": "লেপের বক্তার সংস্থাদ্যের সংযোগক সরলরেখাকে বলে—",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "উলোয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "প্রধান ছেদ",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "ফোকাস দূরত্ব",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "প্রধান অক্ষ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "চ.বো.'১৮/দে.১৯",
+            "provenance": [
+              "চ.বো.'১৮/দে.১৯"
+            ]
+          },
+          "id": "11cf9663-06d7-5d63-8517-a6565dce835a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q56",
+          "content_markdown": "20cm ফোকাস দৈর্ঘ্যবিশিষ্ট উত্তল দর্পণে বক্ত্র অর্ধেক আকৃতির প্রতিবিধ গতিহয়। দর্পণ থেকে বক্ত্র দূরত্ব কত?",
+          "structured_data": {
+            "question_number": "56",
+            "subtype": "mcq_item",
+            "stem": "20cm ফোকাস দৈর্ঘ্যবিশিষ্ট উত্তল দর্পণে বক্ত্র অর্ধেক আকৃতির প্রতিবিধ গতিহয়। দর্পণ থেকে বক্ত্র দূরত্ব কত?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "10cm",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "20cm",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "30cm",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "40cm",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1e0f3a87-6d5c-5e4f-bafc-4957120022f1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q57",
+          "content_markdown": "একটি সমতলোভল লেপ কাচে $(\\mu$=1.5) তৈরি। এর ফোকাস দূরত্ব এবং বক্তার ব্যাসার্ধের মধ্যে সম্পর্ক হলো–",
+          "structured_data": {
+            "question_number": "57",
+            "subtype": "mcq_item",
+            "stem": "একটি সমতলোভল লেপ কাচে $(\\mu$=1.5) তৈরি। এর ফোকাস দূরত্ব এবং বক্তার ব্যাসার্ধের মধ্যে সম্পর্ক হলো–",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "f=$\\frac{R}{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "f=R",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "f=2R",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "f=$\\frac{3}{2}$ R",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "63af2bf1-4260-5b9e-b499-b3a3e695c16c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q58",
+          "content_markdown": "একটি বন্ড উত্তল লেপের দিকে চলছে। যখন লেপ থেকে দূরত্ব 60cm, তখন বন্ড বেগ 9cms${^ {-1}}$হলে প্রতিবিধের বেগ কত? (লেপের f=24cm)",
+          "structured_data": {
+            "question_number": "58",
+            "subtype": "mcq_item",
+            "stem": "একটি বন্ড উত্তল লেপের দিকে চলছে। যখন লেপ থেকে দূরত্ব 60cm, তখন বন্ড বেগ 9cms${^ {-1}}$হলে প্রতিবিধের বেগ কত? (লেপের f=24cm)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "4 cms${^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "9 cms${^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "8 cms${^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "18 cms${^{-1}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3b893943-f297-5d5f-bfaf-5ae90a4ac18e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q59",
+          "content_markdown": "একটি অবতল লেপের ফোকাস দূরত্ব (/) একটি বন্ড রাখলে প্রতিবিধের দূরত্ব কত?",
+          "structured_data": {
+            "question_number": "59",
+            "subtype": "mcq_item",
+            "stem": "একটি অবতল লেপের ফোকাস দূরত্ব (/) একটি বন্ড রাখলে প্রতিবিধের দূরত্ব কত?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "$\\frac{f}{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "$\\frac{f}{3}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "$\\frac{2f}{3}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "$\\frac{f}{4}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c7a0c89a-1a6b-5c04-87c7-d89e7fb8e461"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q60",
+          "content_markdown": "16 cm ফোকাস দূরত্বশিষ্ট উত্তল লেপ থেকে কত দূরে বন্ড রাখলে বিষয়ের আকার বন্ডের আকারের বিপর্যয় হবে?",
+          "structured_data": {
+            "question_number": "60",
+            "subtype": "mcq_item",
+            "stem": "16 cm ফোকাস দূরত্বশিষ্ট উত্তল লেপ থেকে কত দূরে বন্ড রাখলে বিষয়ের আকার বন্ডের আকারের বিপর্যয় হবে?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "24 cm",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "16 cm",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "8 cm",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "32 cm",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "চ.বি. ১৩-১৪: ০৮-'০৯, ০৯-'১০: চ.বি. ০৮-'০৯, ০৯-'১০: চ.বি. ১৪-'১৫: চ.বি. ১৫-'১৬: চ.বি. ১৬-'১৭: চ.বি. ১৭-'১৮",
+            "provenance": [
+              "চ.বি. ১৩-১৪: ০৮-'০৯",
+              "০৯-'১০: চ.বি. ০৮-'০৯",
+              "০৯-'১০: চ.বি. ১৪-'১৫: চ.বি. ১৫-'১৬: চ.বি. ১৬-'১৭: চ.বি. ১৭-'১৮"
+            ]
+          },
+          "id": "cf4bb857-a602-5839-b2a5-e8590374d4a0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q61",
+          "content_markdown": "F ফোকাস দূরত্বের একটি উত্তল লেপে যখন m গুণ বিভক্ত বিশ গঠন করে, তখন বন্ডটি লেপে কত দূরত্বে থাকে?",
+          "structured_data": {
+            "question_number": "61",
+            "subtype": "mcq_item",
+            "stem": "F ফোকাস দূরত্বের একটি উত্তল লেপে যখন m গুণ বিভক্ত বিশ গঠন করে, তখন বন্ডটি লেপে কত দূরত্বে থাকে?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "$\\frac{m+1}{m}$F",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "$\\frac{m-1}{m}$F",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "$\\frac{m}{m-2}$F",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "$\\frac{2m}{m+1}$F",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "76b47430-b3ed-5034-a943-38f1d88386ea"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 20,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 59.82,
+        "eval_count": 3374
+      }
+    },
+    {
+      "page_number": 4,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান দ্বিতীয় পত্র\n\n#### 345\n##### জ্যামিতিক আলোকবিজ্ঞান\n\n## Q62\n**Type:** mcq\n**Stem:** কৌণ ফটি দূরীকরণে উত্তল লেন্স ব্যবহার করা হয়?\n**Options:** \n- a) খ্রীষ্ট দৃষ্টি\n- b) দূর দৃষ্টি\n- c) চালাশে\n- d) বিষম দৃষ্টি\n**Answer:** -b)\n\n## Q63\n**Type:** mcq\n**Stem:** উত্তল লেন্স কেমন হতে পারে না?\n**Options:** \n- a) bi-convex\n- b) concavo-convex\n- c) plano-convex\n- d) cylindrical\n**Answer:** -c)\n\n## Q64\n**Type:** mcq\n**Stem:** চশমার লেন্স ব্যবহারের ক্ষেত্রে কোন জোড়াটি সচিক নয়?\n**Options:** \n- a) মায়োপিয়া–অবতল লেন্স\n- b) প্রেসবায়োপিয়া–সিলিড্রিক্যাল লেন্স\n- c) হাইপারমেট্রিশিয়া–উত্তল লেন্স\n- d) অ্যাসটিগমেটিজম–সিলিড্রিক্যাল লেন্স\n**Answer:** -d)\n\n## Q65\n**Type:** mcq\n**Stem:** উত্তলবল্ট ও অবতলবল্ট লেন্সের আলোক কেন্দ্রের অবস্থান কোথায়-\n**Options:** \n- a) লেন্সের ভিতরে\n- b) বক্রতলের মধ্যে\n- c) লেন্সের বাইরে\n- d) লেন্সের ভিতরে মধ্যবর্তী\n**Answer:** -a)\n\n## Q66\n**Type:** mcq\n**Stem:** নিচের কোনটিতে অবতল লেন্স ব্যবহার করা হয়?\n**Options:** \n- a) আগ্নেয় কাচে\n- b) অনুবিষ্ঠ যন্ত্রে\n- c) চশমায়\n- d) ক্যামেরায়\n**Answer:** -c)\n\n## Q67\n**Type:** mcq\n**Stem:** নিচের কোন লেন্সটি 'খ্রীষ্ট দৃষ্টি' প্রতিকারের জন্য ব্যবহার করা হয়?\n**Options:** \n- a) সমতল\n- b) উত্তল\n- c) অবতল\n- d) উত্তল-অবতল\n**Answer:** -c)\n\n## Q68\n**Type:** mcq\n**Stem:** সমতল দর্পণের সমূহে একটি লক্ষ্যবস্তু ছাপলে এর প্রতিবিম্ব কীরিণ হবে?\n**Options:** \n- a) বাহ্য, সোজা এবং বিবর্ধিত\n- b) বাহ্য, উত্তল এবং বিবর্ধিত\n- c) অবাহ্য, সোজা এবং অবিবর্ধিত\n- d) অবাহ্য, সোজা এবং সমান\n**Answer:** -d)\n\n## Q69\n**Type:** mcq\n**Stem:** অবতল দর্পণের বক্রতার কেন্দ্রের বাইরে বক্ষ ছাপলে প্রতিবিম্ব সর্বদা হবে-[BUET Admission Test, 2010-11]\n**Options:** \n- a) বাহ্য, পোজা ও খর্বিত\n- b) অবাহ্য, সোজা এবং বিবর্ধিত\n- c) অবাহ্য, উত্তল ও খর্বিত\n- d) বাহ্য, উত্তল এবং খর্বিত\n**Answer:** -b)\n\n## Q70\n**Type:** mcq\n**Stem:** একটি অবতল দর্পণের ফোকাস দূরত্ব $20\\mathrm{cm}$। দর্পণটি হতে কত দূরে একটি বক্ষ ছাপলে চারগুণ আকারের একটি বাহ্য প্রতিবিম্ব পাওয়া যায়? [RUET Admission Test, 2015-16]\n**Options:** \n- a) $20\\mathrm{cm}$\n- b) $25\\mathrm{cm}$\n- c) $15\\mathrm{cm}$\n- d) $30\\mathrm{cm}$\n**Answer:** -a)\n\n## Q71\n**Type:** mcq\n**Stem:** কোনো উত্তেল লেন্সের ফোকাস দূরত্ব $10\\mathrm{cm}$। লেন্সটি হতে কত দূরে বক্ষ রাখলে বক্ষের অর্ধেক আকারের বিষ সৃষ্টি হবে?[এ.বি., ২০১৯]\n**Options:** \n- a) $10\\mathrm{cm}$\n- b) $15\\mathrm{cm}$\n- c) $20\\mathrm{cm}$\n- d) $30\\mathrm{cm}$\n**Answer:** -c)\n\n## Q72\n**Type:** mcq\n**Stem:** উত্তল লেন্সের ফোকাস দূরত্ব f এবং বক্ষ দূরত্ব u – এর সম্পর্ক কীরূপ হলে সদ এবং বিবর্ধিত প্রতিবিম্ব গঠিত হবে?\n**Options:** \n- a) f <u<2f\n- b) u = 2f\n- c) u > 2f\n- d) u < f\n**Answer:** -b)\n\n## Q73\n**Type:** mcq\n**Stem:** উত্তল দর্পণের সামনে বক্ষ রাখলে প্রতিবিম্ব সর্বদা—\n**Options:** \n- a) সদ এবং বিবর্ধিত হয়\n- b) অসদ এবং আকারে ছোট হয়\n- c) সদ এবং আকারে ছোট হয়\n- d) অসদ এবং বিবর্ধিত হয় (আমির ঘোসেন)\n**Answer:** -a)\n\n## Q74\n**Type:** mcq\n**Stem:** একটি অবতল দর্পণ থেকে কত দূরত্বে বক্ষ রাখলে প্রতিবিম্ব আকৃতির দিগন্ত হবে? দর্পণের ফোকাস দৈর্ঘ্য = f | /n.বি.বিদ্রি.'17-'18/\n**Options:** \n- a) u=f\n- b) u=$\\frac{3}{2}$$f$\n- c) u=2f\n- d) u=$\\frac{f}{2}$\n**Answer:** -a)\n\n## Q75\n**Type:** mcq\n**Stem:** একটি অবতল লেন্সে ফোকাস বিদ্যুৎ বন্ধ রাখলে প্রতিবিম্ব গঠিত হবে-\n**Options:** \n- a) অসীমে\n- b) প্রধান অক্ষের ওপর আলোক কেন্দ্র ও ফোকাসের মধ্যে\n- c) আলোক কেন্দ্রে\n- d) ফোকাসে\n**Answer:** -c)\n\n## Q76\n**Type:** mcq\n**Stem:** একটি বক্ষ অবতল লেন্স থেকে u দূরত্বে থাকলে বক্ষটির একটি সদবিশ কী শর্তে গঠিত হবে?\n**Options:** \n- a) u=0\n- b) 0<u<∞\n- c) u<0 এবং |u|<|f|\n- d) কোনো শর্তেই সহজে গঠিত হবে না\n**Answer:** -d)\n\n## Q77\n**Type:** mcq\n**Stem:** একটি উত্তল লেন্সের ফোকাস দূরত্ব f। কোনো বক্ষ লেন্সটি থেকে u দূরত্বে থাকলে, বক্ষটির সমান আকারের একটি অবশিষ্ট প্রতিবিম্ব কী শর্তে গঠিত হবে?\n**Options:** \n- a) u=2f\n- b) u>2f\n- c) f<u<2f\n- d) u<f\n**Answer:** -c)\n\n## Q78\n**Type:** mcq\n**Stem:** একটি ডিভিল লেন্স দ্বারা অবস্থন বিষ সৃষ্টি করতে হলে লক্ষ্যবস্তু কৌখায় রাখতে হবে?\n**Options:** \n- a) লেন্স এবং ফোকাসের মধ্যবর্তী স্থানে\n- b) ফোকাসে\n- c) $\\frac{2}{f}$ দূরত্বে\n- d) কোনোটিই নয়\n**Answer:** -a)\n\n## Q79\n**Type:** mcq\n**Stem:** কোনো অভূক্তক্ষেত্রের নলের দৈর্ঘ্য বৃদ্ধি করলে বিবর্ধনের ফী ঘটবে/[জ.বি., ২০১৩–২০১৪]\n**Options:** \n- a) বৃদ্ধি পাবে\n- b) হাস পাবে\n- c) কোনো পরিবর্তন হবে না\n- d) উভয়ই ঘটতে পারে (শাজাহান তপন)\n**Answer:** -a)\n\n## Q80\n**Type:** mcq\n**Stem:** একটি সরল অনুবিষ্ঠফণক্ষেত্রে ব্যবক্ত উত্তল লেন্সের ফোকাস দূরত্ব $0.1m$ হলে, ঐ যন্ত্রের বিবর্ধন-[দি.বি., ২০১৫]\n**Options:** \n- a) 0.4\n- b) 1.4\n- c) 2.5\n- d) 3.5\n**Answer:** -b)\n\n## Q81\n**Type:** mcq\n**Stem:** শার্লক হোমস তার ঘটনাটুকু পরীক্ষার জন্য যে লেন্সটি ব্যবহার করতেন তার ফোকাস দূরত্ব $12.5 cm$. তিনি একটি ক্লু খুঁজতে একটি নির্দিষ্ট দূরত্বে লেন্সটি রাখলেন এবং সৃষ্টি দর্শনের ন্যূনতম দূরত্বে বিবর্ধিত বিষ পেলেন। তিনি যথার্থ সাহায্যে কতগুলি বিচর্ণ পেলেন?\n**Options:** \n- a) 0.5\n- b) 1.5\n- c) 2\n- d) 3\n**Answer:** -c)\n\n### Board Tags:\n- [Shajahan Tapna]\n- [Golam Hossen, Shamsur Rahman]\n\n### Folder Metadata:\n- অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ |\n- টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "345",
+          "content_markdown": "##### জ্যামিতিক আলোকবিজ্ঞান",
+          "structured_data": {},
+          "id": "0e80a514-3ff0-51a7-bda9-eb2f33d4200e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q62",
+          "content_markdown": "কৌণ ফটি দূরীকরণে উত্তল লেন্স ব্যবহার করা হয়?",
+          "structured_data": {
+            "question_number": "62",
+            "subtype": "mcq",
+            "stem": "কৌণ ফটি দূরীকরণে উত্তল লেন্স ব্যবহার করা হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "খ্রীষ্ট দৃষ্টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "দূর দৃষ্টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "চালাশে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বিষম দৃষ্টি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3390b6ac-9f9a-583f-825d-7b41a6e40b80"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q63",
+          "content_markdown": "উত্তল লেন্স কেমন হতে পারে না?",
+          "structured_data": {
+            "question_number": "63",
+            "subtype": "mcq",
+            "stem": "উত্তল লেন্স কেমন হতে পারে না?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "bi-convex",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "concavo-convex",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "plano-convex",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "cylindrical",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a991adcc-20e9-520f-a470-f69f50e5fd14"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q64",
+          "content_markdown": "চশমার লেন্স ব্যবহারের ক্ষেত্রে কোন জোড়াটি সচিক নয়?",
+          "structured_data": {
+            "question_number": "64",
+            "subtype": "mcq",
+            "stem": "চশমার লেন্স ব্যবহারের ক্ষেত্রে কোন জোড়াটি সচিক নয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মায়োপিয়া–অবতল লেন্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রেসবায়োপিয়া–সিলিড্রিক্যাল লেন্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "হাইপারমেট্রিশিয়া–উত্তল লেন্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অ্যাসটিগমেটিজম–সিলিড্রিক্যাল লেন্স",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1bf6b37f-5495-5f9b-84e0-674301bfceb0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q65",
+          "content_markdown": "উত্তলবল্ট ও অবতলবল্ট লেন্সের আলোক কেন্দ্রের অবস্থান কোথায়-",
+          "structured_data": {
+            "question_number": "65",
+            "subtype": "mcq",
+            "stem": "উত্তলবল্ট ও অবতলবল্ট লেন্সের আলোক কেন্দ্রের অবস্থান কোথায়-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "লেন্সের ভিতরে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বক্রতলের মধ্যে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "লেন্সের বাইরে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "লেন্সের ভিতরে মধ্যবর্তী",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8c91e6f1-f75d-538f-90e0-e4ee85e92c9a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q66",
+          "content_markdown": "নিচের কোনটিতে অবতল লেন্স ব্যবহার করা হয়?",
+          "structured_data": {
+            "question_number": "66",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটিতে অবতল লেন্স ব্যবহার করা হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আগ্নেয় কাচে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অনুবিষ্ঠ যন্ত্রে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "চশমায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ক্যামেরায়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "038af370-9297-5cfe-a6c1-05d43c66e6e9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q67",
+          "content_markdown": "নিচের কোন লেন্সটি 'খ্রীষ্ট দৃষ্টি' প্রতিকারের জন্য ব্যবহার করা হয়?",
+          "structured_data": {
+            "question_number": "67",
+            "subtype": "mcq",
+            "stem": "নিচের কোন লেন্সটি 'খ্রীষ্ট দৃষ্টি' প্রতিকারের জন্য ব্যবহার করা হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সমতল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "উত্তল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অবতল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "উত্তল-অবতল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2d0e28c5-02ee-536e-a07d-77cf53765147"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q68",
+          "content_markdown": "সমতল দর্পণের সমূহে একটি লক্ষ্যবস্তু ছাপলে এর প্রতিবিম্ব কীরিণ হবে?",
+          "structured_data": {
+            "question_number": "68",
+            "subtype": "mcq",
+            "stem": "সমতল দর্পণের সমূহে একটি লক্ষ্যবস্তু ছাপলে এর প্রতিবিম্ব কীরিণ হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বাহ্য, সোজা এবং বিবর্ধিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বাহ্য, উত্তল এবং বিবর্ধিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অবাহ্য, সোজা এবং অবিবর্ধিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অবাহ্য, সোজা এবং সমান",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "31f8821f-e8b9-57dc-a6d6-59d579f2a47f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q69",
+          "content_markdown": "অবতল দর্পণের বক্রতার কেন্দ্রের বাইরে বক্ষ ছাপলে প্রতিবিম্ব সর্বদা হবে-[BUET Admission Test, 2010-11]",
+          "structured_data": {
+            "question_number": "69",
+            "subtype": "mcq",
+            "stem": "অবতল দর্পণের বক্রতার কেন্দ্রের বাইরে বক্ষ ছাপলে প্রতিবিম্ব সর্বদা হবে-[BUET Admission Test, 2010-11]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বাহ্য, পোজা ও খর্বিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অবাহ্য, সোজা এবং বিবর্ধিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অবাহ্য, উত্তল ও খর্বিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বাহ্য, উত্তল এবং খর্বিত",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6ce7fe41-9c8c-5e85-9fcb-82a9aac57a84"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q70",
+          "content_markdown": "একটি অবতল দর্পণের ফোকাস দূরত্ব $20\\mathrm{cm}$। দর্পণটি হতে কত দূরে একটি বক্ষ ছাপলে চারগুণ আকারের একটি বাহ্য প্রতিবিম্ব পাওয়া যায়? [RUET Admission Test, 2015-16]",
+          "structured_data": {
+            "question_number": "70",
+            "subtype": "mcq",
+            "stem": "একটি অবতল দর্পণের ফোকাস দূরত্ব $20\\mathrm{cm}$। দর্পণটি হতে কত দূরে একটি বক্ষ ছাপলে চারগুণ আকারের একটি বাহ্য প্রতিবিম্ব পাওয়া যায়? [RUET Admission Test, 2015-16]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$20\\mathrm{cm}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$25\\mathrm{cm}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$15\\mathrm{cm}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$30\\mathrm{cm}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "cd185fcd-8172-52cb-bc40-22f7504f3e44"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q71",
+          "content_markdown": "কোনো উত্তেল লেন্সের ফোকাস দূরত্ব $10\\mathrm{cm}$। লেন্সটি হতে কত দূরে বক্ষ রাখলে বক্ষের অর্ধেক আকারের বিষ সৃষ্টি হবে?[এ.বি., ২০১৯]",
+          "structured_data": {
+            "question_number": "71",
+            "subtype": "mcq",
+            "stem": "কোনো উত্তেল লেন্সের ফোকাস দূরত্ব $10\\mathrm{cm}$। লেন্সটি হতে কত দূরে বক্ষ রাখলে বক্ষের অর্ধেক আকারের বিষ সৃষ্টি হবে?[এ.বি., ২০১৯]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$10\\mathrm{cm}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$15\\mathrm{cm}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$20\\mathrm{cm}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$30\\mathrm{cm}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0f171579-e308-5bed-aa5c-104f33b069e0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q72",
+          "content_markdown": "উত্তল লেন্সের ফোকাস দূরত্ব f এবং বক্ষ দূরত্ব u – এর সম্পর্ক কীরূপ হলে সদ এবং বিবর্ধিত প্রতিবিম্ব গঠিত হবে?",
+          "structured_data": {
+            "question_number": "72",
+            "subtype": "mcq",
+            "stem": "উত্তল লেন্সের ফোকাস দূরত্ব f এবং বক্ষ দূরত্ব u – এর সম্পর্ক কীরূপ হলে সদ এবং বিবর্ধিত প্রতিবিম্ব গঠিত হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "f <u<2f",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "u = 2f",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "u > 2f",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "u < f",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "aaedbd16-6fdf-544c-a774-ad0cfda7efc8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q73",
+          "content_markdown": "উত্তল দর্পণের সামনে বক্ষ রাখলে প্রতিবিম্ব সর্বদা—",
+          "structured_data": {
+            "question_number": "73",
+            "subtype": "mcq",
+            "stem": "উত্তল দর্পণের সামনে বক্ষ রাখলে প্রতিবিম্ব সর্বদা—",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সদ এবং বিবর্ধিত হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অসদ এবং আকারে ছোট হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সদ এবং আকারে ছোট হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অসদ এবং বিবর্ধিত হয় (আমির ঘোসেন)",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8573e086-ec40-5c07-8c49-da8ec4415a8e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q74",
+          "content_markdown": "একটি অবতল দর্পণ থেকে কত দূরত্বে বক্ষ রাখলে প্রতিবিম্ব আকৃতির দিগন্ত হবে? দর্পণের ফোকাস দৈর্ঘ্য = f | /n.বি.বিদ্রি.'17-'18/",
+          "structured_data": {
+            "question_number": "74",
+            "subtype": "mcq",
+            "stem": "একটি অবতল দর্পণ থেকে কত দূরত্বে বক্ষ রাখলে প্রতিবিম্ব আকৃতির দিগন্ত হবে? দর্পণের ফোকাস দৈর্ঘ্য = f | /n.বি.বিদ্রি.'17-'18/",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "u=f",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "u=$\\frac{3}{2}$$f$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "u=2f",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "u=$\\frac{f}{2}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d7bfd30e-a4e1-5f64-a799-528e34ef6cb8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q75",
+          "content_markdown": "একটি অবতল লেন্সে ফোকাস বিদ্যুৎ বন্ধ রাখলে প্রতিবিম্ব গঠিত হবে-",
+          "structured_data": {
+            "question_number": "75",
+            "subtype": "mcq",
+            "stem": "একটি অবতল লেন্সে ফোকাস বিদ্যুৎ বন্ধ রাখলে প্রতিবিম্ব গঠিত হবে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অসীমে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রধান অক্ষের ওপর আলোক কেন্দ্র ও ফোকাসের মধ্যে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আলোক কেন্দ্রে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ফোকাসে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "463dd865-5832-5b5c-b234-7ad9613aa965"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q76",
+          "content_markdown": "একটি বক্ষ অবতল লেন্স থেকে u দূরত্বে থাকলে বক্ষটির একটি সদবিশ কী শর্তে গঠিত হবে?",
+          "structured_data": {
+            "question_number": "76",
+            "subtype": "mcq",
+            "stem": "একটি বক্ষ অবতল লেন্স থেকে u দূরত্বে থাকলে বক্ষটির একটি সদবিশ কী শর্তে গঠিত হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "u=0",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "0<u<∞",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "u<0 এবং |u|<|f|",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোনো শর্তেই সহজে গঠিত হবে না",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b18275e5-a7f7-5305-8733-6b6f3184d048"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q77",
+          "content_markdown": "একটি উত্তল লেন্সের ফোকাস দূরত্ব f। কোনো বক্ষ লেন্সটি থেকে u দূরত্বে থাকলে, বক্ষটির সমান আকারের একটি অবশিষ্ট প্রতিবিম্ব কী শর্তে গঠিত হবে?",
+          "structured_data": {
+            "question_number": "77",
+            "subtype": "mcq",
+            "stem": "একটি উত্তল লেন্সের ফোকাস দূরত্ব f। কোনো বক্ষ লেন্সটি থেকে u দূরত্বে থাকলে, বক্ষটির সমান আকারের একটি অবশিষ্ট প্রতিবিম্ব কী শর্তে গঠিত হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "u=2f",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "u>2f",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "f<u<2f",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "u<f",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "32171a05-8dc1-51fe-97a1-203d54508d78"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q78",
+          "content_markdown": "একটি ডিভিল লেন্স দ্বারা অবস্থন বিষ সৃষ্টি করতে হলে লক্ষ্যবস্তু কৌখায় রাখতে হবে?",
+          "structured_data": {
+            "question_number": "78",
+            "subtype": "mcq",
+            "stem": "একটি ডিভিল লেন্স দ্বারা অবস্থন বিষ সৃষ্টি করতে হলে লক্ষ্যবস্তু কৌখায় রাখতে হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "লেন্স এবং ফোকাসের মধ্যবর্তী স্থানে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ফোকাসে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{2}{f}$ দূরত্বে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোনোটিই নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "917346df-7144-58d4-9f3b-35f657cc46a0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q79",
+          "content_markdown": "কোনো অভূক্তক্ষেত্রের নলের দৈর্ঘ্য বৃদ্ধি করলে বিবর্ধনের ফী ঘটবে/[জ.বি., ২০১৩–২০১৪]",
+          "structured_data": {
+            "question_number": "79",
+            "subtype": "mcq",
+            "stem": "কোনো অভূক্তক্ষেত্রের নলের দৈর্ঘ্য বৃদ্ধি করলে বিবর্ধনের ফী ঘটবে/[জ.বি., ২০১৩–২০১৪]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বৃদ্ধি পাবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "হাস পাবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কোনো পরিবর্তন হবে না",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "উভয়ই ঘটতে পারে (শাজাহান তপন)",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "678defb0-5c3b-5485-b83b-dbf50a680cdd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q80",
+          "content_markdown": "একটি সরল অনুবিষ্ঠফণক্ষেত্রে ব্যবক্ত উত্তল লেন্সের ফোকাস দূরত্ব $0.1m$ হলে, ঐ যন্ত্রের বিবর্ধন-[দি.বি., ২০১৫]",
+          "structured_data": {
+            "question_number": "80",
+            "subtype": "mcq",
+            "stem": "একটি সরল অনুবিষ্ঠফণক্ষেত্রে ব্যবক্ত উত্তল লেন্সের ফোকাস দূরত্ব $0.1m$ হলে, ঐ যন্ত্রের বিবর্ধন-[দি.বি., ২০১৫]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "0.4",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "1.4",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "2.5",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "3.5",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "319c03dd-e393-5714-9316-5bcb2f08406d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q81",
+          "content_markdown": "শার্লক হোমস তার ঘটনাটুকু পরীক্ষার জন্য যে লেন্সটি ব্যবহার করতেন তার ফোকাস দূরত্ব $12.5 cm$. তিনি একটি ক্লু খুঁজতে একটি নির্দিষ্ট দূরত্বে লেন্সটি রাখলেন এবং সৃষ্টি দর্শনের ন্যূনতম দূরত্বে বিবর্ধিত বিষ পেলেন। তিনি যথার্থ সাহায্যে কতগুলি বিচর্ণ পেলেন?",
+          "structured_data": {
+            "question_number": "81",
+            "subtype": "mcq",
+            "stem": "শার্লক হোমস তার ঘটনাটুকু পরীক্ষার জন্য যে লেন্সটি ব্যবহার করতেন তার ফোকাস দূরত্ব $12.5 cm$. তিনি একটি ক্লু খুঁজতে একটি নির্দিষ্ট দূরত্বে লেন্সটি রাখলেন এবং সৃষ্টি দর্শনের ন্যূনতম দূরত্বে বিবর্ধিত বিষ পেলেন। তিনি যথার্থ সাহায্যে কতগুলি বিচর্ণ পেলেন?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "0.5",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "1.5",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "2",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "3",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)\n\n### Board Tags:\n- [Shajahan Tapna]\n- [Golam Hossen, Shamsur Rahman]\n\n### Folder Metadata:\n- অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ |\n- টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a3d93b52-d998-5f6e-adb5-30b13fe1bd46"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 21,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 108.4,
+        "eval_count": 3983
+      }
+    },
+    {
+      "page_number": 5,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান দ্বিতীয় পত্র\n\n#### 82. উত্তল লেন্সের সাপেক্ষে বক্ত্র অবস্থান f ও 2f দূরত্বের মধ্যে হলে\n**Type:** mcq\n**Stem:** প্রতি বিশেষ কেমন? [গণ. বি., '১৮-'১৯]\n**Options:** \n- a) বাহ্য, উত্তল এবং আকারে বড়\n- b) বাহ্য, সিধা এবং আকারে বড়\n- c) আবাহ্য, উত্তল এবং আকারে বড়\n- d) বাহ্য, উত্তল এবং আকারে ছোট\n**Answer:** -a)\n\n#### 83. অবতল দর্শনের বক্রতার কেন্দ্রের বহির্ভূত বক্ত্র ছাপন করলে প্রতিবিধ সর্বদা হবে-\n**Type:** mcq\n**Stem:** [ইউ.বি., '৫০-'৫১]\n**Options:** \n- a) বাহ্য, সৌজা ও খর্বিত\n- b) অবতল, সৌজা ও বিবর্ধিত\n- c) অবতল, উত্তল ও খর্বিত\n- d) বাহ্য, উত্তল ও খর্বিত\n**Answer:** -c)\n\n#### 84. একটি উত্তল দর্পণ কর্তৃক গঠিত প্রতিবিধের আকারে লক্ষ্যবস্তুর আকারে $\\frac{1}{9}$ গুণ। যদি দর্পণের ফোকাস দূরত্ব $f$ হয় তবে, বক্ত্র দূরত্ব কত?\n**Type:** mcq\n**Stem:** [গণ. বি., '০৮-'০৯]\n**Options:** \n- a) $\\frac{1}{2}(n-1)f$\n- b) $(n+1)f$\n- c) $(n-2)f$\n- d) $(n-1)f$\n**Answer:** -d)\n\n#### 85. কোন লক্ষ্যবস্তু যদি $2f$ দূরত্বে থাকে তবে উত্তল লেন্স দ্বারা সৃষ্ট বিষয়ের আকৃতি নিচের কোনটি?\n**Type:** mcq\n**Stem:** [মেডিকেল '০৭-'০৮]\n**Options:** \n- a) বিবর্ধিত\n- b) লক্ষ্যবস্তুর চেয়ে বড়\n- c) লক্ষ্যবস্তুর সমান\n- d) লক্ষ্যবস্তুর চেয়ে ছোট\n**Answer:** -b)\n\n#### 86. কোন অঞ্চলে বক্ত্র ছাপন করা হলে অবতল দর্শনে অবাঙ্গল প্রতিবিধ সৃষ্টি হয়?\n**Type:** mcq\n**Stem:** [গোলাম হোসেন]\n**Options:** \n- a) ফোকাস তলে\n- b) ফোকাস থেকে মেরার মাঝে\n- c) বক্রতার থেকে ফোকাসের মধ্যে\n- d) অসীম থেকে বক্রতার কেন্দ্রের মাঝে\n**Answer:** -b)\n\n#### 87. নিচের কোনটি সঠিক?\n**Type:** mcq\n**Stem:** [গোলাম হোসেন]\n**Options:** \n- a) দর্পণটি উত্তল এবং বিশ্ব অবতল\n- b) দর্পণটি অবতল এবং বিশ্ব অবতল\n- c) দর্পণটি অবতল এবং বক্ত্র ফোকাস ও বক্রতার কেন্দ্রের মাঝে\n- d) দর্পণটি অবতল এবং বক্ত্র ফোকাস ও মেরার মাঝে\n**Answer:** -c)\n\n#### 88. বিবর্ধিত খৈরাত্মক ও এক অপেক্ষা বড় হলে নিচের কোনটি সঠিক?\n**Type:** mcq\n**Stem:** [গোলাম হোসেন]\n**Options:** \n- a) দর্পণটি উত্তল এবং বিশ্ব অবতল\n- b) দর্পণটি অবতল এবং বিশ্ব অবতল\n- c) দর্পণটি অবতল এবং বক্ত্র ফোকাস ও বক্রতার কেন্দ্রের মাঝে\n- d) দর্পণটি অবতল এবং বক্ত্র ফোকাস ও মেরার মাঝে\n**Answer:** -c)\n\n#### 89. একটি উত্তল লেন্সের ফোকাস দূরত্ব 1000 cm হলে, লেন্টির ক্ষমতা হবে-\n**Type:** mcq\n**Stem:** [DU-A: 2016-17]\n**Options:** \n- a) 100D\n- b) 1/100D\n- c) 1/10D\n- d) 1D\n**Answer:** -b)\n\n#### 90. একটি +1.5 D এবং – 3.5 D ক্ষমতার দুটি উত্তল লেন্স পরস্পরের সংস্পর্শে রাখা হলে। সংযোগটির তুল্য ক্ষমতা -\n**Type:** mcq\n**Stem:** [JU: 2017-18]\n**Options:** \n- a) -2D\n- b) 2D\n- c) -½ D\n- d) ½ D\n**Answer:** -c)\n\n#### 91. একটি নভো–দূরবিনফলের লেন্স দুটির ক্ষমতা 0.5D এবং 20D। যদি তাদের বিবর্ধন ক্ষমতা হবে-\n[RU-G : 17-18]\n**Options:** \n- a) 8\n- b) 20\n- c) 30\n- d) 40\n**Answer:** -c)\n\n#### 92. +2.0D ক্ষমতার একটি লেন্সের ফোকাস দূরত্ব কত? [দি. বি., ২০১৩, মেডিকেল'৪৮-'৫১]\n**Options:** \n- a) −0.2m\n- b) +0.2m\n- c) +0.5m\n- d) −0.5m\n**Answer:** -b)\n\n#### 93. একটি লেন্সের ক্ষমতা 1 dioptre হলে এর ফোকাস দৈর্ঘ্য কত?\n**Options:** \n- a) 1 cm\n- b) 1 m\n- c) −1 cm\n- d) −1 m\n**Answer:** -a)\n\n#### 94. 20cm ও 25cm ফোকাস দৈর্ঘ্যের দুটি পাতলা লেন্স ফোকাস না রেখে যুক্ত করলে। সুমন লেন্সের কার্যকর ক্ষমতা-\n**Options:** \n- a) 9D\n- b) 2D\n- c) 3D\n- d) 7D\n**Answer:** -c)\n\n#### 95. লেন্সের ক্ষমতার মাত্রা কৌনটি?\n[ব. র. বি. ২০১৭-২০১৮]\n**Options:** \n- a) [ML${}^{2}$T${}^{-2}$]\n- b) [L${}^{-1}$]\n- c) [L${}^{-2}$]\n- d) [ML]\n**Answer:** -b)\n\n#### 96. চশমার ক্ষমতা যদি +2 ডিজিটার হয়, তাহলে লেন্টি নিচের কোনটি হবে? [মেডিকেল: ২০০৫-২০০৬; শা. বি. বি. ২০১৮-২০১৯]\n**Options:** \n- a) অবতল, ফোকাস দূরত্ব 50cm\n- b) উত্তল, ফোকাস দূরত্ব 20 cm\n- c) অবতল, ফোকাস দূরত্ব 20 cm.\n- d) উত্তল, ফোকাস দূরত্ব 50 cm\n**Answer:** -d)\n\n#### 97. 2D এর একটি উত্তল লেন্স ও 3.5 D এর অবতল লেন্সের সমন্বয়ের তুল্য ক্ষমতা কত হবে? [ইউটের: ২০১৫-২০১৬]\n**Options:** \n- a) 5.5 D\n- b) 1.5 D\n- c) -1.5 D\n- d) -5.5 D\n**Answer:** -c)\n\n#### 98. +12 এবং -2 dioppter ক্ষমতাসম্পন্ন দুটি লেন্সকে পরস্পরের সংস্পর্শে ছাপন করলে। এ সমন্বয়টি তুল্য ফোকাস দূরত্ব কত হবে?\n**Options:** \n- a) 10cm\n- b) 12.5 cm\n- c) 15 cm\n- d) 18 cm\n**Answer:** -b)\n\n#### 99. 4D পাওয়ারের একটি উত্তল লেন্সের সাথে একটি 3D পাওয়ারের অবতল লেন্স যুক্ত করলে হলে সমন্বিত লেন্সের ফোকাস দূরত্ব হবে—\n**Options:** \n- a) 25cm\n- b) 50 cm\n- c) 100 cm\n- d) 200 cm\n**Answer:** -b)\n\n#### 100. একটি উত্তল লেন্সের ফোকাস দূরত্ব 25cm। লেন্স থেকে 25 cm দূরে বক্ত্র ছাপন করা হলে বিষয়ের দূরত্ব কত হবে? [ব. বি. ২০১৯-২০২০]\n**Options:** \n- a) 1cm\n- b) 25 cm\n- c) 625 cm\n- d) ∞\n**Answer:** -d)\n\n### Q82\n**Type:** mcq\n**Stem:** উত্তল লেন্সের সাপেক্ষে বক্ত্র অবস্থান f ও 2f দূরত্বের মধ্যে হলে\n**Options:** \n- a) বাহ্য, উত্তল এবং আকারে বড়\n- b) বাহ্য, সিধা এবং আকারে বড়\n- c) আবাহ্য, উত্তল এবং আকারে বড়\n- d) বাহ্য, উত্তল এবং আকারে ছোট\n**Answer:** -a)\n**Solution:** উত্তল লেন্সের সাপেক্ষে বক্ত্র অবস্থান f ও 2f দূরত্বের মধ্যে হলে বক্ত্র বাহ্যে এবং বক্ত্রের আকার বড় হয়।\n\n### Q83\n**Type:** mcq\n**Stem:** অবতল দর্শনের বক্রতার কেন্দ্রের বহির্ভূত বক্ত্র ছাপন করলে প্রতিবিধ সর্বদা হবে-\n**Options:** \n- a) বাহ্য, সৌজা ও খর্বিত\n- b) অবতল, সৌজা ও বিবর্ধিত\n- c) অবতল, উত্তল ও খর্বিত\n- d) বাহ্য, উত্তল ও খর্বিত\n**Answer:** -c)\n**Solution:** অবতল দর্শনের বক্রতার কেন্দ্রের বহির্ভূত বক্ত্র ছাপন করলে প্রতিবিধ সর্বদা বাহ্যে এবং বক্ত্রের আকার বড় হয়।\n\n### Q84\n**Type:** mcq\n**Stem:** একটি উত্তল দর্পণ কর্তৃক গঠিত প্রতিবিধের আকারে লক্ষ্যবস্তুর আকারে $\\frac{1}{9}$ গুণ। যদি দর্পণের ফোকাস দূরত্ব $f$ হয় তবে, বক্ত্র দূরত্ব কত?\n**Options:** \n- a) $\\frac{1}{2}(n-1)f$\n- b) $(n+1)f$\n- c) $(n-2)f$\n- d) $(n-1)f$\n**Answer:** -d)\n**Solution:** উত্তল দর্পণের ফোকাস দূরত্ব $f$, তাই বক্ত্র দূরত্ব = (n−1)$f$.",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "82. উত্তল লেন্সের সাপেক্ষে বক্ত্র অবস্থান f ও 2f দূরত্বের মধ্যে হলে",
+          "content_markdown": "**Type:** mcq\n**Stem:** প্রতি বিশেষ কেমন? [গণ. বি., '১৮-'১৯]\n**Options:** \n- a) বাহ্য, উত্তল এবং আকারে বড়\n- b) বাহ্য, সিধা এবং আকারে বড়\n- c) আবাহ্য, উত্তল এবং আকারে বড়\n- d) বাহ্য, উত্তল এবং আকারে ছোট\n**Answer:** -a)",
+          "structured_data": {},
+          "id": "02293257-7108-5791-a722-fddb815f95fa"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "83. অবতল দর্শনের বক্রতার কেন্দ্রের বহির্ভূত বক্ত্র ছাপন করলে প্রতিবিধ সর্বদা হবে-",
+          "content_markdown": "**Type:** mcq\n**Stem:** [ইউ.বি., '৫০-'৫১]\n**Options:** \n- a) বাহ্য, সৌজা ও খর্বিত\n- b) অবতল, সৌজা ও বিবর্ধিত\n- c) অবতল, উত্তল ও খর্বিত\n- d) বাহ্য, উত্তল ও খর্বিত\n**Answer:** -c)",
+          "structured_data": {},
+          "id": "8a53ddbd-16e7-5429-99b2-44c3d4319b3c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "84. একটি উত্তল দর্পণ কর্তৃক গঠিত প্রতিবিধের আকারে লক্ষ্যবস্তুর আকারে $\\frac{1}{9}$ গুণ। যদি দর্পণের ফোকাস দূরত্ব $f$ হয় তবে, বক্ত্র দূরত্ব কত?",
+          "content_markdown": "**Type:** mcq\n**Stem:** [গণ. বি., '০৮-'০৯]\n**Options:** \n- a) $\\frac{1}{2}(n-1)f$\n- b) $(n+1)f$\n- c) $(n-2)f$\n- d) $(n-1)f$\n**Answer:** -d)",
+          "structured_data": {},
+          "id": "51ea6b3a-b342-5c93-9be1-8a362b6b6ef2"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "85. কোন লক্ষ্যবস্তু যদি $2f$ দূরত্বে থাকে তবে উত্তল লেন্স দ্বারা সৃষ্ট বিষয়ের আকৃতি নিচের কোনটি?",
+          "content_markdown": "**Type:** mcq\n**Stem:** [মেডিকেল '০৭-'০৮]\n**Options:** \n- a) বিবর্ধিত\n- b) লক্ষ্যবস্তুর চেয়ে বড়\n- c) লক্ষ্যবস্তুর সমান\n- d) লক্ষ্যবস্তুর চেয়ে ছোট\n**Answer:** -b)",
+          "structured_data": {},
+          "id": "e2e63af4-9d4e-5092-9760-bdc60d312aea"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "86. কোন অঞ্চলে বক্ত্র ছাপন করা হলে অবতল দর্শনে অবাঙ্গল প্রতিবিধ সৃষ্টি হয়?",
+          "content_markdown": "**Type:** mcq\n**Stem:** [গোলাম হোসেন]\n**Options:** \n- a) ফোকাস তলে\n- b) ফোকাস থেকে মেরার মাঝে\n- c) বক্রতার থেকে ফোকাসের মধ্যে\n- d) অসীম থেকে বক্রতার কেন্দ্রের মাঝে\n**Answer:** -b)",
+          "structured_data": {},
+          "id": "d3b13b1e-d717-50fe-a746-38c834d0a2ab"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "87. নিচের কোনটি সঠিক?",
+          "content_markdown": "**Type:** mcq\n**Stem:** [গোলাম হোসেন]\n**Options:** \n- a) দর্পণটি উত্তল এবং বিশ্ব অবতল\n- b) দর্পণটি অবতল এবং বিশ্ব অবতল\n- c) দর্পণটি অবতল এবং বক্ত্র ফোকাস ও বক্রতার কেন্দ্রের মাঝে\n- d) দর্পণটি অবতল এবং বক্ত্র ফোকাস ও মেরার মাঝে\n**Answer:** -c)",
+          "structured_data": {},
+          "id": "8ead2765-0aec-5f93-a479-76c94f21c29c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "88. বিবর্ধিত খৈরাত্মক ও এক অপেক্ষা বড় হলে নিচের কোনটি সঠিক?",
+          "content_markdown": "**Type:** mcq\n**Stem:** [গোলাম হোসেন]\n**Options:** \n- a) দর্পণটি উত্তল এবং বিশ্ব অবতল\n- b) দর্পণটি অবতল এবং বিশ্ব অবতল\n- c) দর্পণটি অবতল এবং বক্ত্র ফোকাস ও বক্রতার কেন্দ্রের মাঝে\n- d) দর্পণটি অবতল এবং বক্ত্র ফোকাস ও মেরার মাঝে\n**Answer:** -c)",
+          "structured_data": {},
+          "id": "ff098219-640b-5c12-a755-e6617338dc3c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "89. একটি উত্তল লেন্সের ফোকাস দূরত্ব 1000 cm হলে, লেন্টির ক্ষমতা হবে-",
+          "content_markdown": "**Type:** mcq\n**Stem:** [DU-A: 2016-17]\n**Options:** \n- a) 100D\n- b) 1/100D\n- c) 1/10D\n- d) 1D\n**Answer:** -b)",
+          "structured_data": {},
+          "id": "f6fa8661-5130-5980-8d48-c556d8d3fca4"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "90. একটি +1.5 D এবং – 3.5 D ক্ষমতার দুটি উত্তল লেন্স পরস্পরের সংস্পর্শে রাখা হলে। সংযোগটির তুল্য ক্ষমতা -",
+          "content_markdown": "**Type:** mcq\n**Stem:** [JU: 2017-18]\n**Options:** \n- a) -2D\n- b) 2D\n- c) -½ D\n- d) ½ D\n**Answer:** -c)",
+          "structured_data": {},
+          "id": "2a1276a0-e761-5427-a534-40a89bee569f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "91. একটি নভো–দূরবিনফলের লেন্স দুটির ক্ষমতা 0.5D এবং 20D। যদি তাদের বিবর্ধন ক্ষমতা হবে-",
+          "content_markdown": "[RU-G : 17-18]\n**Options:** \n- a) 8\n- b) 20\n- c) 30\n- d) 40\n**Answer:** -c)",
+          "structured_data": {},
+          "id": "25d95049-3ca4-5306-98c0-0cc7e0768379"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "92. +2.0D ক্ষমতার একটি লেন্সের ফোকাস দূরত্ব কত? [দি. বি., ২০১৩, মেডিকেল'৪৮-'৫১]",
+          "content_markdown": "**Options:** \n- a) −0.2m\n- b) +0.2m\n- c) +0.5m\n- d) −0.5m\n**Answer:** -b)",
+          "structured_data": {},
+          "id": "1f0575a1-d342-5e3d-8c28-dc1abe082243"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "93. একটি লেন্সের ক্ষমতা 1 dioptre হলে এর ফোকাস দৈর্ঘ্য কত?",
+          "content_markdown": "**Options:** \n- a) 1 cm\n- b) 1 m\n- c) −1 cm\n- d) −1 m\n**Answer:** -a)",
+          "structured_data": {},
+          "id": "1859729c-70d7-55a9-bb07-568a5dce45b1"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "94. 20cm ও 25cm ফোকাস দৈর্ঘ্যের দুটি পাতলা লেন্স ফোকাস না রেখে যুক্ত করলে। সুমন লেন্সের কার্যকর ক্ষমতা-",
+          "content_markdown": "**Options:** \n- a) 9D\n- b) 2D\n- c) 3D\n- d) 7D\n**Answer:** -c)",
+          "structured_data": {},
+          "id": "958c5e6c-09c8-58c1-ab79-6784630831a6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "95. লেন্সের ক্ষমতার মাত্রা কৌনটি?",
+          "content_markdown": "[ব. র. বি. ২০১৭-২০১৮]\n**Options:** \n- a) [ML${}^{2}$T${}^{-2}$]\n- b) [L${}^{-1}$]\n- c) [L${}^{-2}$]\n- d) [ML]\n**Answer:** -b)",
+          "structured_data": {},
+          "id": "0e0a4191-c7d8-5b5f-bf1e-dd6e02459b5d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "96. চশমার ক্ষমতা যদি +2 ডিজিটার হয়, তাহলে লেন্টি নিচের কোনটি হবে? [মেডিকেল: ২০০৫-২০০৬; শা. বি. বি. ২০১৮-২০১৯]",
+          "content_markdown": "**Options:** \n- a) অবতল, ফোকাস দূরত্ব 50cm\n- b) উত্তল, ফোকাস দূরত্ব 20 cm\n- c) অবতল, ফোকাস দূরত্ব 20 cm.\n- d) উত্তল, ফোকাস দূরত্ব 50 cm\n**Answer:** -d)",
+          "structured_data": {},
+          "id": "347d4157-994c-5484-9e7b-6b0b8e2cf75a"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "97. 2D এর একটি উত্তল লেন্স ও 3.5 D এর অবতল লেন্সের সমন্বয়ের তুল্য ক্ষমতা কত হবে? [ইউটের: ২০১৫-২০১৬]",
+          "content_markdown": "**Options:** \n- a) 5.5 D\n- b) 1.5 D\n- c) -1.5 D\n- d) -5.5 D\n**Answer:** -c)",
+          "structured_data": {},
+          "id": "45f2c6d2-df79-56c0-af7b-347380f7a353"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "98. +12 এবং -2 dioppter ক্ষমতাসম্পন্ন দুটি লেন্সকে পরস্পরের সংস্পর্শে ছাপন করলে। এ সমন্বয়টি তুল্য ফোকাস দূরত্ব কত হবে?",
+          "content_markdown": "**Options:** \n- a) 10cm\n- b) 12.5 cm\n- c) 15 cm\n- d) 18 cm\n**Answer:** -b)",
+          "structured_data": {},
+          "id": "5fd68062-9ff8-579c-9242-7b39882b0851"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "99. 4D পাওয়ারের একটি উত্তল লেন্সের সাথে একটি 3D পাওয়ারের অবতল লেন্স যুক্ত করলে হলে সমন্বিত লেন্সের ফোকাস দূরত্ব হবে—",
+          "content_markdown": "**Options:** \n- a) 25cm\n- b) 50 cm\n- c) 100 cm\n- d) 200 cm\n**Answer:** -b)",
+          "structured_data": {},
+          "id": "d091b6d5-a489-5147-a946-5ac3503b6df7"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "100. একটি উত্তল লেন্সের ফোকাস দূরত্ব 25cm। লেন্স থেকে 25 cm দূরে বক্ত্র ছাপন করা হলে বিষয়ের দূরত্ব কত হবে? [ব. বি. ২০১৯-২০২০]",
+          "content_markdown": "**Options:** \n- a) 1cm\n- b) 25 cm\n- c) 625 cm\n- d) ∞\n**Answer:** -d)",
+          "structured_data": {},
+          "id": "9c977d77-78da-5645-8236-38c245152018"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q82",
+          "content_markdown": "উত্তল লেন্সের সাপেক্ষে বক্ত্র অবস্থান f ও 2f দূরত্বের মধ্যে হলে",
+          "structured_data": {
+            "question_number": "82",
+            "subtype": "mcq",
+            "stem": "উত্তল লেন্সের সাপেক্ষে বক্ত্র অবস্থান f ও 2f দূরত্বের মধ্যে হলে",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বাহ্য, উত্তল এবং আকারে বড়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বাহ্য, সিধা এবং আকারে বড়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আবাহ্য, উত্তল এবং আকারে বড়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বাহ্য, উত্তল এবং আকারে ছোট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": "উত্তল লেন্সের সাপেক্ষে বক্ত্র অবস্থান f ও 2f দূরত্বের মধ্যে হলে বক্ত্র বাহ্যে এবং বক্ত্রের আকার বড় হয়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a9426a36-1c98-53ac-b314-9e3355f04a6e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q83",
+          "content_markdown": "অবতল দর্শনের বক্রতার কেন্দ্রের বহির্ভূত বক্ত্র ছাপন করলে প্রতিবিধ সর্বদা হবে-",
+          "structured_data": {
+            "question_number": "83",
+            "subtype": "mcq",
+            "stem": "অবতল দর্শনের বক্রতার কেন্দ্রের বহির্ভূত বক্ত্র ছাপন করলে প্রতিবিধ সর্বদা হবে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বাহ্য, সৌজা ও খর্বিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অবতল, সৌজা ও বিবর্ধিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অবতল, উত্তল ও খর্বিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বাহ্য, উত্তল ও খর্বিত",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": "অবতল দর্শনের বক্রতার কেন্দ্রের বহির্ভূত বক্ত্র ছাপন করলে প্রতিবিধ সর্বদা বাহ্যে এবং বক্ত্রের আকার বড় হয়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b06160d7-3627-5948-9d5d-9ad8047eaaae"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q84",
+          "content_markdown": "একটি উত্তল দর্পণ কর্তৃক গঠিত প্রতিবিধের আকারে লক্ষ্যবস্তুর আকারে $\\frac{1}{9}$ গুণ। যদি দর্পণের ফোকাস দূরত্ব $f$ হয় তবে, বক্ত্র দূরত্ব কত?",
+          "structured_data": {
+            "question_number": "84",
+            "subtype": "mcq",
+            "stem": "একটি উত্তল দর্পণ কর্তৃক গঠিত প্রতিবিধের আকারে লক্ষ্যবস্তুর আকারে $\\frac{1}{9}$ গুণ। যদি দর্পণের ফোকাস দূরত্ব $f$ হয় তবে, বক্ত্র দূরত্ব কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{1}{2}(n-1)f$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$(n+1)f$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$(n-2)f$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$(n-1)f$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)",
+            "solution_markdown": "উত্তল দর্পণের ফোকাস দূরত্ব $f$, তাই বক্ত্র দূরত্ব = (n−1)$f$.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5b80ac5a-edc7-553a-9e20-0c626e245c69"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 22,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 126.5,
+        "eval_count": 4520
+      }
+    },
+    {
+      "page_number": 6,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান দ্বিতীয় পত্র\n\n#### 347\n##### জ্যামিতিক আলোকবিজ্ঞান\n\n## Q101\n**Type:** mcq\n**Stem:** একটি নড়াইয়াবিষ্ণু যন্ত্রের লেপ দূরি খমতা $0.5D$ এবং $20D$. যন্ত্রটির বিবর্ধন খমতা কত হবে?\n**Options:** \n- a) 8\n- b) 20\n- c) 30\n- d) 40\n**Answer:** শামসুর রহমান\n**Solution:** উত্তর দেওয়া ছিল।\n**Tags:** শামসুর রহমান\n\n## Q102\n**Type:** mcq\n**Stem:** লেপের খমতার গ্রেফ্টে নিচের কৌণ সমীকরণটি সচিত্র, যখন খমতার একটি ডায়াগন্টার?\n**Options:** \n- P = $\\frac{1}{f(\\mathrm{cm})}$\n- P = $\\frac{1}{f(m)}$\n- P = $\\frac{1}{f(mm)}$\n- P = $\\frac{1}{f(nm)}$\n**Answer:** শামসুর রহমান\n**Solution:** উত্তর দেওয়া ছিল।\n**Tags:** শামসুর রহমান\n\n## Q103\n**Type:** mcq\n**Stem:** চশমার খমতা যদি +2 ডাইঅন্টার হয়, তাহলে লেপটি নিচের কৌণটি হবে? (ছবি: 05-06; সাফ: 18-19)\n**Options:** \n- a) অবতল, ফোকাস দূরত্ব 50 cm\n- b) উত্তল, ফোকাস দূরত্ব 20 cm\n- c) অবতল, ফোকাস দূরত্ব 20 cm\n- d) উত্তল, ফোকাস দূরত্ব 50 cm\n**Answer:** গোলাম হোসেন\n**Solution:** উত্তর দেওয়া ছিল।\n**Tags:** গোলাম হোসেন\n\n## Q104\n**Type:** mcq\n**Stem:** সক্ষত কোণ এবং পূর্ণ অভ্যন্তরীণ প্রতিফলন\n**Options:** \n- a) লাল\n- b) খ. সবুজ\n- c) গ. হলুদ\n- d) ঘ. বেগুনি\n**Answer:** আমির হোসেন\n**Solution:** উত্তর দেওয়া ছিল।\n**Tags:** আমির হোসেন\n\n## Q105\n**Type:** mcq\n**Stem:** মর্যিকা ব্যাখ্যা করার জন্য প্রয়োজন-\n**Options:** \n- a) আলোর প্রতিফলনের সূত্র\n- b) অভ্যন্তরীণ প্রতিফলন\n- c) আলোর প্রতিফলন\n- d) কোনোটিই নয়\n**Answer:** শাহজাহান তপন\n**Solution:** উত্তর দেওয়া ছিল।\n**Tags:** শাহজাহান তপন\n\n## Q106\n**Type:** mcq\n**Stem:** পানি ও স্থিতিরিনের প্রতিসরাঙ্ক যথাক্রমে 1.33 ও 1.47। এদের মধ্যকার সঙ্কট কোণ কত? (স্ব. বি. 11-22, 00-05; স্ব. বি. 10-21; স্ব. বি. 2012-2013; স্ব. বি. 2014-2015; স্ব. বি. 2018-2019; জাতীয় বি. 2018-2019; রেকর্ড: 2012-2013)\n**Options:** \n- a) $60^{\\circ}$''\n- b) $69^{\\prime\\prime}87'$'\n- c) $64^{\\prime\\prime}47'$'\n- d) $64^{\\prime\\prime}42''$\n**Answer:** শাহজাহান তপন\n**Solution:** উত্তর দেওয়া ছিল।\n**Tags:** শাহজাহান তপন\n\n## Q107\n**Type:** mcq\n**Stem:** দৃষ্টি মাধ্যমের প্রতিসরাঙ্কের অনুপাত 0.5 হলে হালকা মাধ্যমের সাপেক্ষে ঘন মাধ্যমের সংকট কোণ কত?\n**Options:** \n- a) $30^\\circ$\n- b) $45^\\circ$\n- c) $60^\\circ$\n- d) $90^\\circ$\n**Answer:** শাহজাহান তপন\n**Solution:** উত্তর দেওয়া ছিল।\n**Tags:** শাহজাহান তপন\n\n## Q108\n**Type:** mcq\n**Stem:** বায়ু ও হীরকের মধ্যকার সংকট কোণ 25°; হীরকের প্রতিসরাঙ্ক কত?\n**Options:** \n- a) 2.566\n- b) 2.366\n- c) 2.666\n- d) 2.444\n**Answer:** শাহজাহান তপন\n**Solution:** উত্তর দেওয়া ছিল।\n**Tags:** শাহজাহান তপন\n\n## Q109\n**Type:** mcq\n**Stem:** সংকট কোণ ও প্রতিসরাঙ্কের মধ্যে সম্পর্ক কৌণটি?\n**Options:** \n- tan$\\theta_{c}=\\dfrac{1}{\\mu}$\n- cos$\\theta_{c}=\\dfrac{1}{\\mu}$\n- sin$\\theta_{c}=\\dfrac{1}{\\mu}$\n- cot$\\theta_{c}=\\dfrac{1}{\\mu}$\n**Answer:** শামসুর রহমান\n**Solution:** উত্তর দেওয়া ছিল।\n**Tags:** শামসুর রহমান\n\n## Q110\n**Type:** mcq\n**Stem:** আলো বর্ণপথে অপটিক্যাল ফাইবারের মধ্য দিয়ে সঞ্চালিত হতে পারে | নিচের কৌণ ঘটনাটি একে ব্যাখ্যা করতে পারে? [DU-16-17]\n**Options:** \n- a) বিচ্ছৃং\n- b) অপর্ভান্ত\n- c) পূর্ণ-অভ্যন্তরীণ প্রতিফলন\n- d) ব্যতিচার\n**Answer:** গোলাম হোসেন\n**Solution:** উত্তর দেওয়া ছিল।\n**Tags:** গোলাম হোসেন\n\n### দৃষ্টি সহায়ক যন্ত্র\n\n## Q111\n**Type:** mcq\n**Stem:** সরল অগুবিক্ষণ যন্ত্রে কি ধরনের প্রতিবিন্দ গঠিত হয়?\n**Options:** \n- a) সোজা ও খর্বিত\n- b) সোজা ও বিবর্ধিত\n- c) উল্টো ও খর্বিত\n- d) উল্টো ও বিবর্ধিত\n**Answer:** আমির হোসেন\n**Solution:** উত্তর দেওয়া ছিল।\n**Tags:** আমির হোসেন",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "347",
+          "content_markdown": "##### জ্যামিতিক আলোকবিজ্ঞান",
+          "structured_data": {},
+          "id": "d7d39054-82e6-5dab-863e-41f8ab3515dd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q101",
+          "content_markdown": "একটি নড়াইয়াবিষ্ণু যন্ত্রের লেপ দূরি খমতা $0.5D$ এবং $20D$. যন্ত্রটির বিবর্ধন খমতা কত হবে?",
+          "structured_data": {
+            "question_number": "101",
+            "subtype": "mcq",
+            "stem": "একটি নড়াইয়াবিষ্ণু যন্ত্রের লেপ দূরি খমতা $0.5D$ এবং $20D$. যন্ত্রটির বিবর্ধন খমতা কত হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "8",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "20",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "30",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "40",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "শামসুর রহমান",
+            "solution_markdown": "উত্তর দেওয়া ছিল।",
+            "tags_raw": "শামসুর রহমান",
+            "provenance": [
+              "শামসুর রহমান"
+            ]
+          },
+          "id": "6a2590de-699d-51d3-a207-9b2527780bf8"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q102",
+          "content_markdown": "লেপের খমতার গ্রেফ্টে নিচের কৌণ সমীকরণটি সচিত্র, যখন খমতার একটি ডায়াগন্টার?",
+          "structured_data": {
+            "question_number": "102",
+            "subtype": "mcq",
+            "stem": "লেপের খমতার গ্রেফ্টে নিচের কৌণ সমীকরণটি সচিত্র, যখন খমতার একটি ডায়াগন্টার?",
+            "options": [],
+            "correct_answer": "শামসুর রহমান",
+            "solution_markdown": "উত্তর দেওয়া ছিল।",
+            "tags_raw": "শামসুর রহমান",
+            "provenance": [
+              "শামসুর রহমান"
+            ]
+          },
+          "id": "691f79c4-de4e-5bd7-88cf-ef3acba457c9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q103",
+          "content_markdown": "চশমার খমতা যদি +2 ডাইঅন্টার হয়, তাহলে লেপটি নিচের কৌণটি হবে? (ছবি: 05-06; সাফ: 18-19)",
+          "structured_data": {
+            "question_number": "103",
+            "subtype": "mcq",
+            "stem": "চশমার খমতা যদি +2 ডাইঅন্টার হয়, তাহলে লেপটি নিচের কৌণটি হবে? (ছবি: 05-06; সাফ: 18-19)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অবতল, ফোকাস দূরত্ব 50 cm",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "উত্তল, ফোকাস দূরত্ব 20 cm",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অবতল, ফোকাস দূরত্ব 20 cm",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "উত্তল, ফোকাস দূরত্ব 50 cm",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "গোলাম হোসেন",
+            "solution_markdown": "উত্তর দেওয়া ছিল।",
+            "tags_raw": "গোলাম হোসেন",
+            "provenance": [
+              "গোলাম হোসেন"
+            ]
+          },
+          "id": "d3634944-fc47-5479-b2f7-ffbfa16f6d4d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q104",
+          "content_markdown": "সক্ষত কোণ এবং পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+          "structured_data": {
+            "question_number": "104",
+            "subtype": "mcq",
+            "stem": "সক্ষত কোণ এবং পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "লাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "খ. সবুজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গ. হলুদ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ঘ. বেগুনি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "আমির হোসেন",
+            "solution_markdown": "উত্তর দেওয়া ছিল।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "2da47e63-3323-52ca-9b40-1958beb6e4c1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q105",
+          "content_markdown": "মর্যিকা ব্যাখ্যা করার জন্য প্রয়োজন-",
+          "structured_data": {
+            "question_number": "105",
+            "subtype": "mcq",
+            "stem": "মর্যিকা ব্যাখ্যা করার জন্য প্রয়োজন-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আলোর প্রতিফলনের সূত্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অভ্যন্তরীণ প্রতিফলন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আলোর প্রতিফলন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোনোটিই নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "শাহজাহান তপন",
+            "solution_markdown": "উত্তর দেওয়া ছিল।",
+            "tags_raw": "শাহজাহান তপন",
+            "provenance": [
+              "শাহজাহান তপন"
+            ]
+          },
+          "id": "c18716bc-3103-50ee-8d44-7c606a01e042"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q106",
+          "content_markdown": "পানি ও স্থিতিরিনের প্রতিসরাঙ্ক যথাক্রমে 1.33 ও 1.47। এদের মধ্যকার সঙ্কট কোণ কত? (স্ব. বি. 11-22, 00-05; স্ব. বি. 10-21; স্ব. বি. 2012-2013; স্ব. বি. 2014-2015; স্ব. বি. 2018-2019; জাতীয় বি. 2018-2019; রেকর্ড: 2012-2013)",
+          "structured_data": {
+            "question_number": "106",
+            "subtype": "mcq",
+            "stem": "পানি ও স্থিতিরিনের প্রতিসরাঙ্ক যথাক্রমে 1.33 ও 1.47। এদের মধ্যকার সঙ্কট কোণ কত? (স্ব. বি. 11-22, 00-05; স্ব. বি. 10-21; স্ব. বি. 2012-2013; স্ব. বি. 2014-2015; স্ব. বি. 2018-2019; জাতীয় বি. 2018-2019; রেকর্ড: 2012-2013)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$60^{\\circ}$''",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$69^{\\prime\\prime}87'$'",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$64^{\\prime\\prime}47'$'",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$64^{\\prime\\prime}42''$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "শাহজাহান তপন",
+            "solution_markdown": "উত্তর দেওয়া ছিল।",
+            "tags_raw": "শাহজাহান তপন",
+            "provenance": [
+              "শাহজাহান তপন"
+            ]
+          },
+          "id": "7dd9e9eb-0f71-50d3-bb7d-07ef09b63fa5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q107",
+          "content_markdown": "দৃষ্টি মাধ্যমের প্রতিসরাঙ্কের অনুপাত 0.5 হলে হালকা মাধ্যমের সাপেক্ষে ঘন মাধ্যমের সংকট কোণ কত?",
+          "structured_data": {
+            "question_number": "107",
+            "subtype": "mcq",
+            "stem": "দৃষ্টি মাধ্যমের প্রতিসরাঙ্কের অনুপাত 0.5 হলে হালকা মাধ্যমের সাপেক্ষে ঘন মাধ্যমের সংকট কোণ কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$30^\\circ$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$45^\\circ$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$60^\\circ$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$90^\\circ$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "শাহজাহান তপন",
+            "solution_markdown": "উত্তর দেওয়া ছিল।",
+            "tags_raw": "শাহজাহান তপন",
+            "provenance": [
+              "শাহজাহান তপন"
+            ]
+          },
+          "id": "28428553-7daa-5a88-9b08-9d7801caaf11"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q108",
+          "content_markdown": "বায়ু ও হীরকের মধ্যকার সংকট কোণ 25°; হীরকের প্রতিসরাঙ্ক কত?",
+          "structured_data": {
+            "question_number": "108",
+            "subtype": "mcq",
+            "stem": "বায়ু ও হীরকের মধ্যকার সংকট কোণ 25°; হীরকের প্রতিসরাঙ্ক কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "2.566",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2.366",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "2.666",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "2.444",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "শাহজাহান তপন",
+            "solution_markdown": "উত্তর দেওয়া ছিল।",
+            "tags_raw": "শাহজাহান তপন",
+            "provenance": [
+              "শাহজাহান তপন"
+            ]
+          },
+          "id": "c3cbe928-2337-52d8-a4af-242c2bcd020b"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q109",
+          "content_markdown": "সংকট কোণ ও প্রতিসরাঙ্কের মধ্যে সম্পর্ক কৌণটি?",
+          "structured_data": {
+            "question_number": "109",
+            "subtype": "mcq",
+            "stem": "সংকট কোণ ও প্রতিসরাঙ্কের মধ্যে সম্পর্ক কৌণটি?",
+            "options": [],
+            "correct_answer": "শামসুর রহমান",
+            "solution_markdown": "উত্তর দেওয়া ছিল।",
+            "tags_raw": "শামসুর রহমান",
+            "provenance": [
+              "শামসুর রহমান"
+            ]
+          },
+          "id": "4d986980-be33-5ce0-8329-bb6b43543249"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q110",
+          "content_markdown": "আলো বর্ণপথে অপটিক্যাল ফাইবারের মধ্য দিয়ে সঞ্চালিত হতে পারে | নিচের কৌণ ঘটনাটি একে ব্যাখ্যা করতে পারে? [DU-16-17]",
+          "structured_data": {
+            "question_number": "110",
+            "subtype": "mcq",
+            "stem": "আলো বর্ণপথে অপটিক্যাল ফাইবারের মধ্য দিয়ে সঞ্চালিত হতে পারে | নিচের কৌণ ঘটনাটি একে ব্যাখ্যা করতে পারে? [DU-16-17]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বিচ্ছৃং",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অপর্ভান্ত",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পূর্ণ-অভ্যন্তরীণ প্রতিফলন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ব্যতিচার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "গোলাম হোসেন",
+            "solution_markdown": "উত্তর দেওয়া ছিল।",
+            "tags_raw": "গোলাম হোসেন  ### দৃষ্টি সহায়ক যন্ত্র",
+            "provenance": [
+              "গোলাম হোসেন  ### দৃষ্টি সহায়ক যন্ত্র"
+            ]
+          },
+          "id": "a78a9c53-8f87-595c-8ce1-33037b339c75"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q111",
+          "content_markdown": "সরল অগুবিক্ষণ যন্ত্রে কি ধরনের প্রতিবিন্দ গঠিত হয়?",
+          "structured_data": {
+            "question_number": "111",
+            "subtype": "mcq",
+            "stem": "সরল অগুবিক্ষণ যন্ত্রে কি ধরনের প্রতিবিন্দ গঠিত হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সোজা ও খর্বিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সোজা ও বিবর্ধিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "উল্টো ও খর্বিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "উল্টো ও বিবর্ধিত",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "আমির হোসেন",
+            "solution_markdown": "উত্তর দেওয়া ছিল।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "34442a6f-6dca-5865-af3b-26194f9ce8f8"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 12,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 106.48,
+        "eval_count": 2588
+      }
+    },
+    {
+      "page_number": 7,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান দ্বিতীয় পত্র\n\n#### 348\n##### জ্যামিতিক আলোকবিজ্ঞান\n\n## Q121\n**Type:** mcq\n**Stem:** একটি নোডো-দূরবিক্ষণ যন্ত্রের ঘাড়াই ফোকাসিঙ্‌ এর ক্ষেত্রে চূড়ান্ত প্রতিবিধ গঠিত হয়-\n- a) অধিনেগ্রের ফোকাসে\n- b) স্পট দর্শনের ন্যূনতম দূরত্বে\n- c) অভিলক্ষের ফোকাসে\n- d) অসীমে\n**Answer:** -c) অভিলক্ষের ফোকাসে\n**Solution:** একটি নোডো-দূরবিক্ষণ যন্ত্রের ঘাড়াই ফোকাসিঙ্কে অভিলক্ষের ফোকাসে চূড়ান্ত প্রতিবিধ গঠিত হয়।\n**Tags:** আমির হোসেন\n\n## Q122\n**Type:** mcq\n**Stem:** অপটিক্যাল টেলিফোপে বক্ত্র প্রতিবিধ হয়—\n- a) অত্যন্ত বিবর্ধিত\n- b) খর্বিত\n- c) বহুত সমান\n- d) বিবর্ধিত\n**Answer:** -a) অত্যন্ত বিবর্ধিত\n**Solution:** অপটিক্যাল টেলিফোপে বক্ত্র প্রতিবিধ অত্যন্ত বিবর্ধিত।\n**Tags:** আমির হোসেন\n\n## Q123\n**Type:** mcq\n**Stem:** জটিল অনুবৈক্ষণ্য যন্ত্রে ছুড়ান্ত বিশ চৌকের স্পষ্ট দর্শনের নিকট বিন্দুতে গঠিত হলে মোট বিবর্ধন কী হবে?\n- a) $M = -\\frac{u}{v} \\left(1+\\frac{D}{f_e}\\right)$\n- b) $M = -\\frac{v}{u} \\left(1+\\frac{D}{f_e}\\right)$\n- c) $M = -\\frac{u}{v} \\left(1-\\frac{D}{f_e}\\right)$\n- d) $M = +\\frac{u}{v} \\left(1-\\frac{f_e}{D}\\right)$\n**Answer:** -d) $M = +\\frac{u}{v} \\left(1-\\frac{f_e}{D}\\right)$\n**Solution:** জটিল অনুবৈক্ষণ্য যন্ত্রে ছুড়ান্ত বিশ চৌকের স্পষ্ট দর্শনের নিকট বিন্দুতে গঠিত হলে মোট বিবর্ধন $M = +\\frac{u}{v} \\left(1-\\frac{f_e}{D}\\right)$ হবে।\n**Tags:** শাহজাহান তথ্য\n\n## Q124\n**Type:** mcq\n**Stem:** জটিল অনুবৈক্ষণ্য যন্ত্রে কোটি উল্লেখ দ্বারা গঠিত? (দিসেম্বর ২০১৬)\n- a) 1\n- b) 2\n- c) 3\n- d) 4\n**Answer:** -b) 2\n**Solution:** জটিল অনুবৈক্ষণ্য যন্ত্রে কোটি উল্লেখ দ্বারা গঠিত 2 হয়।\n**Tags:** আমির হোসেন, শামসুর রহমান\n\n## Q125\n**Type:** mcq\n**Stem:** অভিলক্ষের ফোকাস দূরত্ব বাড়লে— (/ক্র. বোর্ড ২০১৫)\n- a) অনুবৈক্ষণ্য যন্ত্রের বিবর্ণ বাড়বে\n- b) অনুবৈক্ষণ্য ও দূরবিক্ষণ যন্ত্রে স্পট দর্শনের ক্ষেত্রে বিবর্ণ কমবে\n- c) অনুবৈক্ষণ্য ও দূরবিক্ষণ যন্ত্রে স্পট দর্শনের ক্ষেত্রে বিবর্ণ বাড়বে\n- d) অনুবৈক্ষণ্য যন্ত্রের বিবর্ণ কমবে, দূরবিক্ষণ যন্ত্রের বিবর্ণ বাড়বে\n**Answer:** -c) অনুবৈক্ষণ্য ও দূরবিক্ষণ যন্ত্রে স্পট দর্শনের ক্ষেত্রে বিবর্ণ বাড়বে\n**Solution:** অভিলক্ষের ফোকাস দূরত্ব বাড়লে অনুবৈক্ষণ্য ও দূরবিক্ষণ যন্ত্রে স্পট দর্শনের ক্ষেত্রে বিবর্ণ বাড়বে।\n**Tags:** আমির হোসেন\n\n## Q126\n**Type:** mcq\n**Stem:** প্রতিসরণ দূরবিক্ষণ যন্ত্র কোনটি?\n(/ক্র. বোর্ড ২০১৫ ডিসেম্বর ২০-২১)\n- a) নিউটনের দূরবিক্ষণ যন্ত্র\n- b) প্লেগরির দূরবিক্ষণ যন্ত্র\n- c) গ্যালিলীয় দূরবিক্ষণ যন্ত্র\n- d) হার্সেলের দূরবিক্ষণ যন্ত্র\n**Answer:** -c) গ্যালিলীয় দূরবিক্ষণ যন্ত্র\n**Solution:** প্রতিসরণ দূরবিক্ষণ যন্ত্র হচ্ছে গ্যালিলীয় দূরবিক্ষণ যন্ত্র।\n**Tags:** আমির হোসেন, শামসুর রহমান\n\n## Q127\n**Type:** mcq\n**Stem:** অনুবৈক্ষণ্য যন্ত্রের বেলায় কোন উক্তি সত্যিক নয়? [MCAT: 98-99]\n- a) নিকটবর্তী অতিথৃত্ব বৃত্ত পর্যবেক্ষণের কাজে ব্যবহৃত হয়\n- b) অধিনেগ্রের সাপেক্ষে অভিলক্ষে লেনের উন্নীত ও ফোকাস দূরত্ব ছোট হয়\n- c) অভিলক্ষে লম্বা বৃত্তের প্রতিবিধ তার ফোকাস দূরত্ব ছোট হয়\n- d) ছুড়ান্ত প্রতিবিধ লম্বা বৃত্তের সাপেক্ষে উৎপন্ন হয়\n**Answer:** -d) ছুড়ান্ত প্রতিবিধ লম্বা বৃত্তের সাপেক্ষে উৎপন্ন হয়\n**Solution:** অনুবৈক্ষণ্য যন্ত্রের বেলায় ছুড়ান্ত প্রতিবিধ লম্বা বৃত্তের সাপেক্ষে উৎপন্ন হয়।\n**Tags:** আমির হোসেন\n\n## Q128\n**Type:** mcq\n**Stem:** একটি দূরবিক্ষণ যন্ত্রের সর্বশেষ বিবর্ণ ক্ষমতা $M$ , যদি নতুন সেই যন্ত্রের ফোকাস দূরত্ব দ্বিগুণ করা হয়, তবে বিবর্ণ ক্ষমতা হবে— [MCAT: 14-15]\n- a) 2m\n- b) $\\frac{m}{2}$\n- c) $\\sqrt{2} m$\n- d) 3m\n**Answer:** -a) 2m\n**Solution:** একটি দূরবিক্ষণ যন্ত্রের সর্বশেষ বিবর্ণ ক্ষমতা $M$ যদি নতুন সেই যন্ত্রের ফোকাস দূরত্ব দ্বিগুণ করা হয়, তবে বিবর্ণ ক্ষমতা 2m হবে।\n**Tags:** আমির হোসেন\n\n## Q129\n**Type:** mcq\n**Stem:** একটি টেলিকোপের অভিলক্ষ ও অধিনেগ্রের ফোকাস দূরত্ব খ্যাতনামে 4m ও 80cm | আসিম ফোকাসিঙ্‌ এর ক্ষেত্রে বিবর্ণ কত?\n(গিলো. ১৭)\n- a) 4.8\n- b) 5\n- c) 6.56\n- d) 2\n**Answer:** -b) 5\n**Solution:** একটি টেলিকোপের অভিলক্ষ ও অধিনেগ্রের ফোকাস দূরত্ব খ্যাতনামে 4m ও 80cm। আসিম ফোকাসিঙ্কে এর ক্ষেত্রে বিবর্ণ 5 হবে।\n**Tags:** আমির হোসেন\n\n## Q130\n**Type:** mcq\n**Stem:** সরল অনুবৈক্ষণ্য দ্বারা গঠিত চূড়ান্ত প্রতিবিধ-\n- a) অস্দ এবং অবশির্ষ\n- b) সদ ও অবশির্ষ\n- c) অস্দ ও সমশীর্ষ\n- d) সদ ও সমশীর্ষ\n**Answer:** -b) সদ ও অবশির্ষ\n**Solution:** সরল অনুবৈক্ষণ্য দ্বারা গঠিত চূড়ান্ত প্রতিবিধ সদ ও অবশির্ষ।\n**Tags:** আমির হোসেন\n\n## Q131\n**Type:** mcq\n**Stem:** একটি গৌণিক অনুবৈক্ষণ্য যন্ত্রের অভিলক্ষের ফোকাস দূরত্ব $f_0$। তাইলে-\n- a) $f_o > f_e$\n- b) $f_o < f_e$\n- c) কোনওটি নয়\n**Answer:** -c) কোনওটি নয়\n**Solution:** একটি গৌণিক অনুবৈক্ষণ্য যন্ত্রের অভিলক্ষের ফোকাস দূরত্ব $f_0$। তাইলে কোনওটি নয়।\n**Tags:** আমির হোসেন",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "348",
+          "content_markdown": "##### জ্যামিতিক আলোকবিজ্ঞান",
+          "structured_data": {},
+          "id": "4fc48737-609e-5c5e-8d98-c54e3957f4ce"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q121",
+          "content_markdown": "একটি নোডো-দূরবিক্ষণ যন্ত্রের ঘাড়াই ফোকাসিঙ্‌ এর ক্ষেত্রে চূড়ান্ত প্রতিবিধ গঠিত হয়-",
+          "structured_data": {
+            "question_number": "121",
+            "subtype": "mcq",
+            "stem": "একটি নোডো-দূরবিক্ষণ যন্ত্রের ঘাড়াই ফোকাসিঙ্‌ এর ক্ষেত্রে চূড়ান্ত প্রতিবিধ গঠিত হয়-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অধিনেগ্রের ফোকাসে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "স্পট দর্শনের ন্যূনতম দূরত্বে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অভিলক্ষের ফোকাসে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অসীমে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c) অভিলক্ষের ফোকাসে",
+            "solution_markdown": "একটি নোডো-দূরবিক্ষণ যন্ত্রের ঘাড়াই ফোকাসিঙ্কে অভিলক্ষের ফোকাসে চূড়ান্ত প্রতিবিধ গঠিত হয়।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "6bb104b6-aa5b-5188-82fc-be937adeec78"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q122",
+          "content_markdown": "অপটিক্যাল টেলিফোপে বক্ত্র প্রতিবিধ হয়—",
+          "structured_data": {
+            "question_number": "122",
+            "subtype": "mcq",
+            "stem": "অপটিক্যাল টেলিফোপে বক্ত্র প্রতিবিধ হয়—",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অত্যন্ত বিবর্ধিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "খর্বিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বহুত সমান",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বিবর্ধিত",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a) অত্যন্ত বিবর্ধিত",
+            "solution_markdown": "অপটিক্যাল টেলিফোপে বক্ত্র প্রতিবিধ অত্যন্ত বিবর্ধিত।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "5072e3f5-db24-51d7-ba20-d71744e8cf9f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q123",
+          "content_markdown": "জটিল অনুবৈক্ষণ্য যন্ত্রে ছুড়ান্ত বিশ চৌকের স্পষ্ট দর্শনের নিকট বিন্দুতে গঠিত হলে মোট বিবর্ধন কী হবে?",
+          "structured_data": {
+            "question_number": "123",
+            "subtype": "mcq",
+            "stem": "জটিল অনুবৈক্ষণ্য যন্ত্রে ছুড়ান্ত বিশ চৌকের স্পষ্ট দর্শনের নিকট বিন্দুতে গঠিত হলে মোট বিবর্ধন কী হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$M = -\\frac{u}{v} \\left(1+\\frac{D}{f_e}\\right)$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$M = -\\frac{v}{u} \\left(1+\\frac{D}{f_e}\\right)$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$M = -\\frac{u}{v} \\left(1-\\frac{D}{f_e}\\right)$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$M = +\\frac{u}{v} \\left(1-\\frac{f_e}{D}\\right)$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d) $M = +\\frac{u}{v} \\left(1-\\frac{f_e}{D}\\right)$",
+            "solution_markdown": "জটিল অনুবৈক্ষণ্য যন্ত্রে ছুড়ান্ত বিশ চৌকের স্পষ্ট দর্শনের নিকট বিন্দুতে গঠিত হলে মোট বিবর্ধন $M = +\\frac{u}{v} \\left(1-\\frac{f_e}{D}\\right)$ হবে।",
+            "tags_raw": "শাহজাহান তথ্য",
+            "provenance": [
+              "শাহজাহান তথ্য"
+            ]
+          },
+          "id": "10e0f672-106c-5b8f-ab5e-a16aabf8cafe"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q124",
+          "content_markdown": "জটিল অনুবৈক্ষণ্য যন্ত্রে কোটি উল্লেখ দ্বারা গঠিত? (দিসেম্বর ২০১৬)",
+          "structured_data": {
+            "question_number": "124",
+            "subtype": "mcq",
+            "stem": "জটিল অনুবৈক্ষণ্য যন্ত্রে কোটি উল্লেখ দ্বারা গঠিত? (দিসেম্বর ২০১৬)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "3",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "4",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b) 2",
+            "solution_markdown": "জটিল অনুবৈক্ষণ্য যন্ত্রে কোটি উল্লেখ দ্বারা গঠিত 2 হয়।",
+            "tags_raw": "আমির হোসেন, শামসুর রহমান",
+            "provenance": [
+              "আমির হোসেন",
+              "শামসুর রহমান"
+            ]
+          },
+          "id": "eb5a714a-aa89-5b31-8ef3-e1252f00af5a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q125",
+          "content_markdown": "অভিলক্ষের ফোকাস দূরত্ব বাড়লে— (/ক্র. বোর্ড ২০১৫)",
+          "structured_data": {
+            "question_number": "125",
+            "subtype": "mcq",
+            "stem": "অভিলক্ষের ফোকাস দূরত্ব বাড়লে— (/ক্র. বোর্ড ২০১৫)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অনুবৈক্ষণ্য যন্ত্রের বিবর্ণ বাড়বে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অনুবৈক্ষণ্য ও দূরবিক্ষণ যন্ত্রে স্পট দর্শনের ক্ষেত্রে বিবর্ণ কমবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অনুবৈক্ষণ্য ও দূরবিক্ষণ যন্ত্রে স্পট দর্শনের ক্ষেত্রে বিবর্ণ বাড়বে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অনুবৈক্ষণ্য যন্ত্রের বিবর্ণ কমবে, দূরবিক্ষণ যন্ত্রের বিবর্ণ বাড়বে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c) অনুবৈক্ষণ্য ও দূরবিক্ষণ যন্ত্রে স্পট দর্শনের ক্ষেত্রে বিবর্ণ বাড়বে",
+            "solution_markdown": "অভিলক্ষের ফোকাস দূরত্ব বাড়লে অনুবৈক্ষণ্য ও দূরবিক্ষণ যন্ত্রে স্পট দর্শনের ক্ষেত্রে বিবর্ণ বাড়বে।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "324fa228-7083-58ec-b6bd-8d1f8d9fc377"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q126",
+          "content_markdown": "প্রতিসরণ দূরবিক্ষণ যন্ত্র কোনটি?\n(/ক্র. বোর্ড ২০১৫ ডিসেম্বর ২০-২১)",
+          "structured_data": {
+            "question_number": "126",
+            "subtype": "mcq",
+            "stem": "প্রতিসরণ দূরবিক্ষণ যন্ত্র কোনটি?\n(/ক্র. বোর্ড ২০১৫ ডিসেম্বর ২০-২১)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "নিউটনের দূরবিক্ষণ যন্ত্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্লেগরির দূরবিক্ষণ যন্ত্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গ্যালিলীয় দূরবিক্ষণ যন্ত্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "হার্সেলের দূরবিক্ষণ যন্ত্র",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c) গ্যালিলীয় দূরবিক্ষণ যন্ত্র",
+            "solution_markdown": "প্রতিসরণ দূরবিক্ষণ যন্ত্র হচ্ছে গ্যালিলীয় দূরবিক্ষণ যন্ত্র।",
+            "tags_raw": "আমির হোসেন, শামসুর রহমান",
+            "provenance": [
+              "আমির হোসেন",
+              "শামসুর রহমান"
+            ]
+          },
+          "id": "5107ce10-d72e-5971-8809-d7b1f26cf92f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q127",
+          "content_markdown": "অনুবৈক্ষণ্য যন্ত্রের বেলায় কোন উক্তি সত্যিক নয়? [MCAT: 98-99]",
+          "structured_data": {
+            "question_number": "127",
+            "subtype": "mcq",
+            "stem": "অনুবৈক্ষণ্য যন্ত্রের বেলায় কোন উক্তি সত্যিক নয়? [MCAT: 98-99]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "নিকটবর্তী অতিথৃত্ব বৃত্ত পর্যবেক্ষণের কাজে ব্যবহৃত হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অধিনেগ্রের সাপেক্ষে অভিলক্ষে লেনের উন্নীত ও ফোকাস দূরত্ব ছোট হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অভিলক্ষে লম্বা বৃত্তের প্রতিবিধ তার ফোকাস দূরত্ব ছোট হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ছুড়ান্ত প্রতিবিধ লম্বা বৃত্তের সাপেক্ষে উৎপন্ন হয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d) ছুড়ান্ত প্রতিবিধ লম্বা বৃত্তের সাপেক্ষে উৎপন্ন হয়",
+            "solution_markdown": "অনুবৈক্ষণ্য যন্ত্রের বেলায় ছুড়ান্ত প্রতিবিধ লম্বা বৃত্তের সাপেক্ষে উৎপন্ন হয়।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "3f25f01a-689c-532c-9fd9-f988bbc7aff6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q128",
+          "content_markdown": "একটি দূরবিক্ষণ যন্ত্রের সর্বশেষ বিবর্ণ ক্ষমতা $M$ , যদি নতুন সেই যন্ত্রের ফোকাস দূরত্ব দ্বিগুণ করা হয়, তবে বিবর্ণ ক্ষমতা হবে— [MCAT: 14-15]",
+          "structured_data": {
+            "question_number": "128",
+            "subtype": "mcq",
+            "stem": "একটি দূরবিক্ষণ যন্ত্রের সর্বশেষ বিবর্ণ ক্ষমতা $M$ , যদি নতুন সেই যন্ত্রের ফোকাস দূরত্ব দ্বিগুণ করা হয়, তবে বিবর্ণ ক্ষমতা হবে— [MCAT: 14-15]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "2m",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{m}{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\sqrt{2} m$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "3m",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a) 2m",
+            "solution_markdown": "একটি দূরবিক্ষণ যন্ত্রের সর্বশেষ বিবর্ণ ক্ষমতা $M$ যদি নতুন সেই যন্ত্রের ফোকাস দূরত্ব দ্বিগুণ করা হয়, তবে বিবর্ণ ক্ষমতা 2m হবে।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "7d370a55-d633-57b8-8f84-32d0c0771895"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q129",
+          "content_markdown": "একটি টেলিকোপের অভিলক্ষ ও অধিনেগ্রের ফোকাস দূরত্ব খ্যাতনামে 4m ও 80cm | আসিম ফোকাসিঙ্‌ এর ক্ষেত্রে বিবর্ণ কত?\n(গিলো. ১৭)",
+          "structured_data": {
+            "question_number": "129",
+            "subtype": "mcq",
+            "stem": "একটি টেলিকোপের অভিলক্ষ ও অধিনেগ্রের ফোকাস দূরত্ব খ্যাতনামে 4m ও 80cm | আসিম ফোকাসিঙ্‌ এর ক্ষেত্রে বিবর্ণ কত?\n(গিলো. ১৭)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "4.8",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "5",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "6.56",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "2",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b) 5",
+            "solution_markdown": "একটি টেলিকোপের অভিলক্ষ ও অধিনেগ্রের ফোকাস দূরত্ব খ্যাতনামে 4m ও 80cm। আসিম ফোকাসিঙ্কে এর ক্ষেত্রে বিবর্ণ 5 হবে।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "3c72e2ae-ff29-5334-8fc0-3855350e13b6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q130",
+          "content_markdown": "সরল অনুবৈক্ষণ্য দ্বারা গঠিত চূড়ান্ত প্রতিবিধ-",
+          "structured_data": {
+            "question_number": "130",
+            "subtype": "mcq",
+            "stem": "সরল অনুবৈক্ষণ্য দ্বারা গঠিত চূড়ান্ত প্রতিবিধ-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অস্দ এবং অবশির্ষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সদ ও অবশির্ষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অস্দ ও সমশীর্ষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সদ ও সমশীর্ষ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b) সদ ও অবশির্ষ",
+            "solution_markdown": "সরল অনুবৈক্ষণ্য দ্বারা গঠিত চূড়ান্ত প্রতিবিধ সদ ও অবশির্ষ।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "6da47c04-c8da-50b4-a141-42bed515769b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q131",
+          "content_markdown": "একটি গৌণিক অনুবৈক্ষণ্য যন্ত্রের অভিলক্ষের ফোকাস দূরত্ব $f_0$। তাইলে-",
+          "structured_data": {
+            "question_number": "131",
+            "subtype": "mcq",
+            "stem": "একটি গৌণিক অনুবৈক্ষণ্য যন্ত্রের অভিলক্ষের ফোকাস দূরত্ব $f_0$। তাইলে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$f_o > f_e$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$f_o < f_e$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কোনওটি নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c) কোনওটি নয়",
+            "solution_markdown": "একটি গৌণিক অনুবৈক্ষণ্য যন্ত্রের অভিলক্ষের ফোকাস দূরত্ব $f_0$। তাইলে কোনওটি নয়।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "d6a765e9-5d89-5785-bbae-71b93bcb03a5"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 12,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 96.64,
+        "eval_count": 3877
+      }
+    },
+    {
+      "page_number": 8,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q181\n**Type:** mcq\n**Stem:** প্রতিরক্ষা দূরবিশ্ফোগ্য ম্যাগ কৌণটি?\n- a) নিউটনের দূরবিশ্ফোগ্য ম্যাগ\n- b) হারাসেলের দূরবিশ্ফোগ্য ম্যাগ\n- c) ডু-দূরবিশ্ফোগ্য ম্যাগ\n- d) প্রেগরিয়ার দূরবিশ্ফোগ্য ম্যাগ\n\n**Answer:** -a)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে \"নিউটনের দূরবিশ্ফোগ্য ম্যাগ\"। এটি প্রতিরক্ষা দূরবিশ্ফোগ্য ম্যাগের একটি প্রধান আবিষ্কার।\n\n**Tags:** মেডিকেল '১২-'১৩', শাখার রহমান\n\n### Q182\n**Type:** mcq\n**Stem:** যে যন্ত্রের সাহায্যে দূরবর্তী বস্তু স্পষ্ট ও বড় করে দেখা যায় তার নাম-\n- a) পেরিস্কোপ\n- b) দূরবিশ্ফোগ্য ম্যাগ\n- c) ম্যাগনিফিইং গ্লাস\n- d) অভূতবিশ্ফোগ্য ম্যাগ\n\n**Answer:** -b)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে \"দূরবিশ্ফোগ্য ম্যাগ\"। এটি একটি বিশেষ ধরনের লেন্স যা দূরবর্তী বস্তুকে স্পষ্ট ও বড় করে দেয়।\n\n**Tags:** শাখার রহমান\n\n### Q183\n**Type:** mcq\n**Stem:** সরল অভূতবিশ্ফোগ্য ম্যাগের বেলোয় নিচের কৌণটি সত্যিক?\n- a) ফোকাস দূরত্ব বাড়লে বিবর্ণ কমতা বৃদ্ধি পায়\n- b) দূর দৃষ্টির চোখ প্রতিবিবি ছোট দেখে\n- c) ফ্রী দৃষ্টির চোখ প্রতিবিবি ছোট দেখে\n- d) পর্যবেক্ষকের চোখ হতে লেন্সের দূরত্ব কম হলে বিবর্ণ কম হবে\n\n**Answer:** -c)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে \"ফ্রী দৃষ্টির চোখ প্রতিবিবি ছোট দেখে\"। এই ম্যাগের বেলোয় ফ্রী দৃষ্টির চোখ প্রতিবিবি ছোট দেখে।\n\n**Tags:** শাখার রহমান\n\n### Q184\n**Type:** mcq\n**Stem:** নিচের কৌণটি বর্গলী-বীজ্য ম্যাগের অংশ নয়?\n- a) দূরবিশ্ফোগ্য ম্যাগ\n- b) প্রোবক\n- c) প্রিজম টেবিল\n- d) কলিমেটর\n\n**Answer:** -d)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে \"কলিমেটর\"। এটি বর্গলী-বীজ্য ম্যাগের অংশ নয়।\n\n**Tags:** শাখার রহমান\n\n### Q185\n**Type:** mcq\n**Stem:** জটিল অভূতবিশ্ফোগ্য ম্যাগের লক্ষ্যবস্তুকে কী দ্বারা আলোকিত করা হয়?\n- a) অঙ্গুল দর্পণ\n- b) উত্তল লেন্স\n- c) অঙ্গুল লেন্স\n- d) উত্তল দর্পণ\n\n**Answer:** -c)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে \"অঙ্গুল লেন্স\"। জটিল অভূতবিশ্ফোগ্য ম্যাগের লক্ষ্যবস্তুকে অঙ্গুল লেন্স দ্বারা আলোকিত করা হয়।\n\n**Tags:** শাখার রহমান\n\n### Q186\n**Type:** mcq\n**Stem:** নভো-দূরবিশ্ফোগ্য টেলিস্কোপের সৃষ্টি প্রতিবিধের ক্ষেত্রে নিচের কৌণটি সত্যিক নয়?\n- a) বাষ্প\n- b) উন্নত\n- c) বিবর্ধিত\n- d) অভিনেত্রীর সামনে সৃষ্টি হয়\n\n**Answer:** -d)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে \"অভিনেত্রীর সামনে সৃষ্টি হয়\"। নভো-দূরবিশ্ফোগ্য টেলিস্কোপের সৃষ্টি প্রতিবিধের ক্ষেত্রে বাষ্প, উন্নত এবং বিবর্ধিত সত্যিক নয়।\n\n**Tags:** আসির আসগার\n\n### Q187\n**Type:** mcq\n**Stem:** একটি ফ্লিট কাঁচের তৈরি প্রিজমের প্রতিসরাঙ্ক 10° লাল আলোর জন্য উপাদানের প্রতিসরাঙ্ক 1.57 বিচ্ছিন্ন কোণ কত ডিগ্রী?\n- a) – 5.3\n- b) – 0.57\n- c) 0.57\n- d) 5.7\n\n**Answer:** -d)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে \"5.7\"। ফ্লিট কাঁচের তৈরি প্রিজমের প্রতিসরাঙ্ক 10° লাল আলোর জন্য উপাদানের প্রতিসরাঙ্ক 1.57 বিচ্ছিন্ন কোণ 5.7 ডিগ্রী।\n\n**Tags:** গোলাম হোসেন, শাখার রহমান\n\n### Q188\n**Type:** mcq\n**Stem:** কোন রঞ্জ এর বিচ্ছিন্ন সবচেয়ে বেশি? [সি.বো: '2017; চ.বো: 2016; ব.বো: 2016 Medical Admission Test, 2017–18]\n- a) হলুদ\n- b) লাল\n- c) বেগুনি\n- d) কমলা\n\n**Answer:** -a)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে \"হলুদ\"। কোন রঞ্জ এর বিচ্ছিন্ন সবচেয়ে বেশি হলুদ।\n\n**Tags:** শাখার রহমান\n\n### Q189\n**Type:** mcq\n**Stem:** সরক প্রিজমের ক্ষেত্রে কৌণটি সত্যিক?\n- a) δ = (i₁+i₂) − A\n- b) δ = A(μ−1)\n- c) δ = μ(A−1)\n- d) δ = μ(A+1)\n\n**Answer:** -b)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে \"δ = A(μ−1)\"। সরক প্রিজমের ক্ষেত্রে কৌণটি সত্যিক δ = A(μ−1)।\n\n**Tags:** শাখার রহমান, আমির হোসেন গোলাম হোসেন\n\n### Q190\n**Type:** mcq\n**Stem:** কোনো প্রিজমের ক্ষেত্রে A=60° এবং δm=45° হলে প্রতিসরাঙ্ক কত? [সি.বো: 2019]\n- a) 1.51\n- b) 1.58\n- c) 1.6\n- d) 1.62\n\n**Answer:** -b)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে \"1.58\"। কোনো প্রিজমের ক্ষেত্রে A=60° এবং δm=45° হলে প্রতিসরাঙ্ক 1.58।\n\n**Tags:** আমির হোসেন\n\n### Q191\n**Type:** mcq\n**Stem:** একটি পাতলা প্রিজমের A=6° এবং রশ্মি বিচ্ছিন্ন 3°। প্রিজম পদার্থের প্রতিসরাঙ্ক কত?\n- a) 1\n- b) $\\frac{4}{3}$\n- c) $\\frac{3}{2}$\n- d) 2\n\n**Answer:** -b)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে \"একটি পাতলা প্রিজমের A=6° এবং রশ্মি বিচ্ছিন্ন 3°। প্রিজম পদার্থের প্রতিসরাঙ্ক 4/3।\"\n\n**Tags:** আমির হোসেন",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q181",
+          "content_markdown": "প্রতিরক্ষা দূরবিশ্ফোগ্য ম্যাগ কৌণটি?",
+          "structured_data": {
+            "question_number": "181",
+            "subtype": "mcq",
+            "stem": "প্রতিরক্ষা দূরবিশ্ফোগ্য ম্যাগ কৌণটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "নিউটনের দূরবিশ্ফোগ্য ম্যাগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "হারাসেলের দূরবিশ্ফোগ্য ম্যাগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ডু-দূরবিশ্ফোগ্য ম্যাগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "প্রেগরিয়ার দূরবিশ্ফোগ্য ম্যাগ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে \"নিউটনের দূরবিশ্ফোগ্য ম্যাগ\"। এটি প্রতিরক্ষা দূরবিশ্ফোগ্য ম্যাগের একটি প্রধান আবিষ্কার।",
+            "tags_raw": "মেডিকেল '১২-'১৩', শাখার রহমান",
+            "provenance": [
+              "মেডিকেল '১২-'১৩'",
+              "শাখার রহমান"
+            ]
+          },
+          "id": "fac1d6c3-538d-565f-87ec-c198333f8a19"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q182",
+          "content_markdown": "যে যন্ত্রের সাহায্যে দূরবর্তী বস্তু স্পষ্ট ও বড় করে দেখা যায় তার নাম-",
+          "structured_data": {
+            "question_number": "182",
+            "subtype": "mcq",
+            "stem": "যে যন্ত্রের সাহায্যে দূরবর্তী বস্তু স্পষ্ট ও বড় করে দেখা যায় তার নাম-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "পেরিস্কোপ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "দূরবিশ্ফোগ্য ম্যাগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ম্যাগনিফিইং গ্লাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অভূতবিশ্ফোগ্য ম্যাগ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে \"দূরবিশ্ফোগ্য ম্যাগ\"। এটি একটি বিশেষ ধরনের লেন্স যা দূরবর্তী বস্তুকে স্পষ্ট ও বড় করে দেয়।",
+            "tags_raw": "শাখার রহমান",
+            "provenance": [
+              "শাখার রহমান"
+            ]
+          },
+          "id": "3e1044e9-1442-50d5-9bcc-b204cb1b3962"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q183",
+          "content_markdown": "সরল অভূতবিশ্ফোগ্য ম্যাগের বেলোয় নিচের কৌণটি সত্যিক?",
+          "structured_data": {
+            "question_number": "183",
+            "subtype": "mcq",
+            "stem": "সরল অভূতবিশ্ফোগ্য ম্যাগের বেলোয় নিচের কৌণটি সত্যিক?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ফোকাস দূরত্ব বাড়লে বিবর্ণ কমতা বৃদ্ধি পায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "দূর দৃষ্টির চোখ প্রতিবিবি ছোট দেখে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ফ্রী দৃষ্টির চোখ প্রতিবিবি ছোট দেখে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "পর্যবেক্ষকের চোখ হতে লেন্সের দূরত্ব কম হলে বিবর্ণ কম হবে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে \"ফ্রী দৃষ্টির চোখ প্রতিবিবি ছোট দেখে\"। এই ম্যাগের বেলোয় ফ্রী দৃষ্টির চোখ প্রতিবিবি ছোট দেখে।",
+            "tags_raw": "শাখার রহমান",
+            "provenance": [
+              "শাখার রহমান"
+            ]
+          },
+          "id": "203bee07-3881-52a9-9e7d-e7eb25c92194"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q184",
+          "content_markdown": "নিচের কৌণটি বর্গলী-বীজ্য ম্যাগের অংশ নয়?",
+          "structured_data": {
+            "question_number": "184",
+            "subtype": "mcq",
+            "stem": "নিচের কৌণটি বর্গলী-বীজ্য ম্যাগের অংশ নয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "দূরবিশ্ফোগ্য ম্যাগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রোবক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "প্রিজম টেবিল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কলিমেটর",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে \"কলিমেটর\"। এটি বর্গলী-বীজ্য ম্যাগের অংশ নয়।",
+            "tags_raw": "শাখার রহমান",
+            "provenance": [
+              "শাখার রহমান"
+            ]
+          },
+          "id": "ed019609-9578-5559-9c9e-07c944cace0d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q185",
+          "content_markdown": "জটিল অভূতবিশ্ফোগ্য ম্যাগের লক্ষ্যবস্তুকে কী দ্বারা আলোকিত করা হয়?",
+          "structured_data": {
+            "question_number": "185",
+            "subtype": "mcq",
+            "stem": "জটিল অভূতবিশ্ফোগ্য ম্যাগের লক্ষ্যবস্তুকে কী দ্বারা আলোকিত করা হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অঙ্গুল দর্পণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "উত্তল লেন্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অঙ্গুল লেন্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "উত্তল দর্পণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে \"অঙ্গুল লেন্স\"। জটিল অভূতবিশ্ফোগ্য ম্যাগের লক্ষ্যবস্তুকে অঙ্গুল লেন্স দ্বারা আলোকিত করা হয়।",
+            "tags_raw": "শাখার রহমান",
+            "provenance": [
+              "শাখার রহমান"
+            ]
+          },
+          "id": "1f5f0df0-ca15-53ce-b0b8-b8180c7b3524"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q186",
+          "content_markdown": "নভো-দূরবিশ্ফোগ্য টেলিস্কোপের সৃষ্টি প্রতিবিধের ক্ষেত্রে নিচের কৌণটি সত্যিক নয়?",
+          "structured_data": {
+            "question_number": "186",
+            "subtype": "mcq",
+            "stem": "নভো-দূরবিশ্ফোগ্য টেলিস্কোপের সৃষ্টি প্রতিবিধের ক্ষেত্রে নিচের কৌণটি সত্যিক নয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বাষ্প",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "উন্নত",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বিবর্ধিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অভিনেত্রীর সামনে সৃষ্টি হয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে \"অভিনেত্রীর সামনে সৃষ্টি হয়\"। নভো-দূরবিশ্ফোগ্য টেলিস্কোপের সৃষ্টি প্রতিবিধের ক্ষেত্রে বাষ্প, উন্নত এবং বিবর্ধিত সত্যিক নয়।",
+            "tags_raw": "আসির আসগার",
+            "provenance": [
+              "আসির আসগার"
+            ]
+          },
+          "id": "7ab54ff2-3dfb-5579-92a0-51204310579b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q187",
+          "content_markdown": "একটি ফ্লিট কাঁচের তৈরি প্রিজমের প্রতিসরাঙ্ক 10° লাল আলোর জন্য উপাদানের প্রতিসরাঙ্ক 1.57 বিচ্ছিন্ন কোণ কত ডিগ্রী?",
+          "structured_data": {
+            "question_number": "187",
+            "subtype": "mcq",
+            "stem": "একটি ফ্লিট কাঁচের তৈরি প্রিজমের প্রতিসরাঙ্ক 10° লাল আলোর জন্য উপাদানের প্রতিসরাঙ্ক 1.57 বিচ্ছিন্ন কোণ কত ডিগ্রী?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "– 5.3",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "– 0.57",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "0.57",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "5.7",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে \"5.7\"। ফ্লিট কাঁচের তৈরি প্রিজমের প্রতিসরাঙ্ক 10° লাল আলোর জন্য উপাদানের প্রতিসরাঙ্ক 1.57 বিচ্ছিন্ন কোণ 5.7 ডিগ্রী।",
+            "tags_raw": "গোলাম হোসেন, শাখার রহমান",
+            "provenance": [
+              "গোলাম হোসেন",
+              "শাখার রহমান"
+            ]
+          },
+          "id": "e7eff8fd-c819-534f-84f7-93ea56c2acc0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q188",
+          "content_markdown": "কোন রঞ্জ এর বিচ্ছিন্ন সবচেয়ে বেশি? [সি.বো: '2017; চ.বো: 2016; ব.বো: 2016 Medical Admission Test, 2017–18]",
+          "structured_data": {
+            "question_number": "188",
+            "subtype": "mcq",
+            "stem": "কোন রঞ্জ এর বিচ্ছিন্ন সবচেয়ে বেশি? [সি.বো: '2017; চ.বো: 2016; ব.বো: 2016 Medical Admission Test, 2017–18]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "হলুদ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "লাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বেগুনি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কমলা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে \"হলুদ\"। কোন রঞ্জ এর বিচ্ছিন্ন সবচেয়ে বেশি হলুদ।",
+            "tags_raw": "শাখার রহমান",
+            "provenance": [
+              "শাখার রহমান"
+            ]
+          },
+          "id": "7439c926-bd95-582c-ba28-458a830b1e4d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q189",
+          "content_markdown": "সরক প্রিজমের ক্ষেত্রে কৌণটি সত্যিক?",
+          "structured_data": {
+            "question_number": "189",
+            "subtype": "mcq",
+            "stem": "সরক প্রিজমের ক্ষেত্রে কৌণটি সত্যিক?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "δ = (i₁+i₂) − A",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "δ = A(μ−1)",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "δ = μ(A−1)",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "δ = μ(A+1)",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে \"δ = A(μ−1)\"। সরক প্রিজমের ক্ষেত্রে কৌণটি সত্যিক δ = A(μ−1)।",
+            "tags_raw": "শাখার রহমান, আমির হোসেন গোলাম হোসেন",
+            "provenance": [
+              "শাখার রহমান",
+              "আমির হোসেন গোলাম হোসেন"
+            ]
+          },
+          "id": "420063c6-b6c2-5c25-bff6-afc3d3804250"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q190",
+          "content_markdown": "কোনো প্রিজমের ক্ষেত্রে A=60° এবং δm=45° হলে প্রতিসরাঙ্ক কত? [সি.বো: 2019]",
+          "structured_data": {
+            "question_number": "190",
+            "subtype": "mcq",
+            "stem": "কোনো প্রিজমের ক্ষেত্রে A=60° এবং δm=45° হলে প্রতিসরাঙ্ক কত? [সি.বো: 2019]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1.51",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "1.58",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "1.6",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "1.62",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে \"1.58\"। কোনো প্রিজমের ক্ষেত্রে A=60° এবং δm=45° হলে প্রতিসরাঙ্ক 1.58।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "a216c056-b5ad-5c58-81c2-9f36382b134a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q191",
+          "content_markdown": "একটি পাতলা প্রিজমের A=6° এবং রশ্মি বিচ্ছিন্ন 3°। প্রিজম পদার্থের প্রতিসরাঙ্ক কত?",
+          "structured_data": {
+            "question_number": "191",
+            "subtype": "mcq",
+            "stem": "একটি পাতলা প্রিজমের A=6° এবং রশ্মি বিচ্ছিন্ন 3°। প্রিজম পদার্থের প্রতিসরাঙ্ক কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{4}{3}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{3}{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "2",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে \"একটি পাতলা প্রিজমের A=6° এবং রশ্মি বিচ্ছিন্ন 3°। প্রিজম পদার্থের প্রতিসরাঙ্ক 4/3।\"",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "9ed14d0e-0632-59d9-8ae9-4f2cefabde24"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 11,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 149.52,
+        "eval_count": 3339
+      }
+    }
+  ]
+}

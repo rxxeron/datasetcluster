@@ -1,0 +1,1760 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "1F8XHjXQxOLflhaAVwNztzrb-ROj3oyux",
+    "collection": "main_book_solution",
+    "subject": "biology",
+    "edition": "2023",
+    "priority_score": 2023092,
+    "path_parts": [
+      "অনুশীলনী MCQ সমাধান",
+      "* ভার্সন সেপ্টেম্বর-২৩",
+      "টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন",
+      "জীববিজ্ঞান",
+      "B-2.12 প্রাণীর আচরণ.pdf"
+    ],
+    "filename": "B-2.12 প্রাণীর আচরণ.pdf",
+    "sha256": "e0c56e8156f63bf9a7527b119048c0ce0c8fe448ef590a6afdc71371926a5509",
+    "total_pages": 3,
+    "parsed_pages": 3,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 49,
+    "block_counts_by_type": {
+      "concept_prose": 4,
+      "mcq_item": 41,
+      "table": 3,
+      "exercise_solution": 1
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "```plaintext\nঝিবজ্ঞান ২য় পর\n\nদ্বাদশ অধ্যায়: প্রাণীর আচরণ\n\nতথ্যমূলক\n\n01. ইথেলোজির জনক কে?\n- ক. কোনরাড লরেঙ্গ\n- খ. নিকো টিনবার্নেন\n- গ. আই.পি. প্যাভলভ\n- ঘ. কার্ল ফন ফ্রিস\n\n02. প্রাণীর আচরণ সম্পর্কে জ্ঞান লাভ করাকে কি বলা হয়?\n- ক. Ethology\n- খ. Taxonomy\n- গ. Ecology\n- ঘ. Embryology\n\n03. কৌটি প্রাণীর আচরণ বিদ্যা?\n- ক. Animal behaviour\n- খ. Ethnozoology\n- গ. Ethology\n- ঘ. Ecology\n\n04. প্রাণী আচরণবিদ্যাকে বলে—\n- ক. মাইখোলজি\n- খ. ইথোলজি\n- গ. ম্যামালোলজি\n- ঘ. সাইকোলজি\n\n05. প্রাণী আচরণের নির্ধারিত ফিশা ধারা নির্ধারিত হয়-\n- ক. পরিবেশ ধারা\n- খ. জিন ধারা\n- গ. লিঙ্গ ধারা\n\nউদ্ধুক্ষ আচরণগত পরিবর্তন\n\n06. রিলিওজ উদ্ধুক্ষের ক্ষেত্রে কৌটি সিঠিক?\n- ক. প্রাণী চলন ঘটায়\n- খ. অভ্যন্তরীণ বা বহিঃব্য হতে পারে\n- গ. সাধারণ উদ্ধুক্ষ\n- ঘ. আচরণগত সাধারণ সমাপ্ত ঘটায়\n\n07. ভরপোষ না থাকা পর্যন্ত খাওয়া, পাকফুলি পূর্ণ হলে খাওয়া বন্ধ করা—\n- ক. প্রেরণাদায়ক উদ্ধুক্ষ\n- খ. সামঞ্জস্যকর উদ্ধুক্ষ\n- গ. নির্মিত উদ্ধুক্ষ\n- ঘ. সাংকেতিক উদ্ধুক্ষ\n\n08. তড়ানো বা লক্ষ সরবরাহ করে নিচের কৌন উদ্ধুক্ষ?\n- ক. টারমিনেটিং\n- খ. রিলিওজিং\n- গ. অঅজ্ঞ উদ্ধুক্ষ\n- ঘ. অজ্ঞ উদ্ধুক্ষ\n\n09. উদ্ধুক্ষের কোট ভাগে ভাগ করা যায়?\n- ক. দুই\n- খ. তিন\n- গ. চার\n- ঘ. পাঁচ\n\n10. এক বিজ্ঞানী ২০১২ সালে জিন ও আচরণগত সম্পর্ক নিয়ে পরীক্ষা করেন?\n- ক. Andreas Vesalius\n- খ. Charles Robert Darwin\n- গ. Robert Polomin\n\n11. সহজত আচরণের সাথে নিচের কৌটির সম্পর্কিত রয়েছে?\n- ক. জিন\n- খ. অভ্যন্তরীণ উদ্ধুক্ষ\n- গ. বহিঃব্য উদ্ধুক্ষ\n- ঘ. সামঞ্জস্য পরিবেশ\n\nট্যাক্সিস\n\n12. শর্দের প্রতি সাড়া দেয়া—\n- ক. Rheotaxis\n- খ. Aerotaxis\n- গ. Phonotaxis\n- ঘ. Geotaxis\n\n13. সূর্যের প্রতি সাড়া দিয়ে পিপড়ার চলন নিম্নোক্ত কৌন ধরনের? (চ. বো., ১৫।)\n- ক. ট্রোপট্যাক্সিস\n- খ. টেলোট্যাক্সিস\n- গ. মেনোট্যাক্সিস\n\n14. অনুজীবের আচরণে ফ্রিড্রিচ টিস্যুর দিকে ফ্যাগোসাইটের গমনকে কী বলে?\n(ঈ. বো.-২০১৯)\n- ক. নেমোট্যাক্সিস\n- খ. মেনোট্যাক্সিস\n- গ. কেমোট্যাক্সিস\n- ঘ. ক্লাইনোট্যাক্সিস\n\n15. ফোনোট্যাক্সিসের সঙ্গে নিচের কৌটি জড়িত?\n(ঈ. বো., ২০১৮)\n- ক. আলো\n- খ. শব্দ\n- গ. শ্রোত\n- ঘ. অভিকর্ষ\n\n### ছাই বিজ্ঞান ২য় পর\n\n### প্রাণীর বিভিন্ন ও স্রোতিবিদ্যা\n\n### দ্বাদশ অধ্যায়: প্রাণীর আচরণ\n\n### তথ্যমূলক\n\n| Q | Answer |\n|---|--------|\n| 01 | c ) |\n| 02 | d ) |\n| 03 | a ) |\n| 04 | a ) |\n| 05 | b ) |\n\n### উদ্ধুক্ষ আচরণগত পরিবর্তন\n\n| Q | Answer |\n|---|--------|\n| 06 | b ) |\n| 07 | a ) |\n| 08 | a ) |\n| 09 | d ) |\n| 10 | b ) |\n| 11 | g ) |\n\n### ট্যাক্সিস\n\n| Q | Answer |\n|---|--------|\n| 12 | b ) |\n| 13 | b ) |\n| 14 | c ) |\n| 15 | a ) |",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "```plaintext\nঝিবজ্ঞান ২য় পর",
+          "structured_data": {},
+          "id": "8bedfae5-a465-5b9f-8426-d07ad71c88a6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "দ্বাদশ অধ্যায়: প্রাণীর আচরণ",
+          "structured_data": {},
+          "id": "5cc20628-494e-5f27-b974-52b384bb6b0c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "তথ্যমূলক",
+          "structured_data": {},
+          "id": "386a3a18-aa38-5ca5-b054-4da2e973c578"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q01",
+          "content_markdown": "ইথেলোজির জনক কে?",
+          "structured_data": {
+            "question_number": "01",
+            "subtype": "mcq_item",
+            "stem": "ইথেলোজির জনক কে?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "কোনরাড লরেঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "নিকো টিনবার্নেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "আই.পি. প্যাভলভ",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "কার্ল ফন ফ্রিস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a00f7f63-fb09-5a65-8b8a-ec82617788df"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q02",
+          "content_markdown": "প্রাণীর আচরণ সম্পর্কে জ্ঞান লাভ করাকে কি বলা হয়?",
+          "structured_data": {
+            "question_number": "02",
+            "subtype": "mcq_item",
+            "stem": "প্রাণীর আচরণ সম্পর্কে জ্ঞান লাভ করাকে কি বলা হয়?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Ethology",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Taxonomy",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Ecology",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Embryology",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "38c5e3b8-f017-59ba-8971-52375f833312"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q03",
+          "content_markdown": "কৌটি প্রাণীর আচরণ বিদ্যা?",
+          "structured_data": {
+            "question_number": "03",
+            "subtype": "mcq_item",
+            "stem": "কৌটি প্রাণীর আচরণ বিদ্যা?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Animal behaviour",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Ethnozoology",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Ethology",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Ecology",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2503c83c-cf07-5e32-9c49-1ab0cfe0e0bd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q04",
+          "content_markdown": "প্রাণী আচরণবিদ্যাকে বলে—",
+          "structured_data": {
+            "question_number": "04",
+            "subtype": "mcq_item",
+            "stem": "প্রাণী আচরণবিদ্যাকে বলে—",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "মাইখোলজি",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "ইথোলজি",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "ম্যামালোলজি",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "সাইকোলজি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "73b4ddf7-6041-5ea7-a84d-5f26ba292ea2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q05",
+          "content_markdown": "প্রাণী আচরণের নির্ধারিত ফিশা ধারা নির্ধারিত হয়-\nউদ্ধুক্ষ আচরণগত পরিবর্তন",
+          "structured_data": {
+            "question_number": "05",
+            "subtype": "mcq_item",
+            "stem": "প্রাণী আচরণের নির্ধারিত ফিশা ধারা নির্ধারিত হয়-\nউদ্ধুক্ষ আচরণগত পরিবর্তন",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "পরিবেশ ধারা",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "জিন ধারা",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "লিঙ্গ ধারা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c70faa91-a045-584c-ae0c-24daa84689cb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q06",
+          "content_markdown": "রিলিওজ উদ্ধুক্ষের ক্ষেত্রে কৌটি সিঠিক?",
+          "structured_data": {
+            "question_number": "06",
+            "subtype": "mcq_item",
+            "stem": "রিলিওজ উদ্ধুক্ষের ক্ষেত্রে কৌটি সিঠিক?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "প্রাণী চলন ঘটায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "অভ্যন্তরীণ বা বহিঃব্য হতে পারে",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "সাধারণ উদ্ধুক্ষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "আচরণগত সাধারণ সমাপ্ত ঘটায়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a2322513-1238-56e7-af08-c26c3e2da0bc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q07",
+          "content_markdown": "ভরপোষ না থাকা পর্যন্ত খাওয়া, পাকফুলি পূর্ণ হলে খাওয়া বন্ধ করা—",
+          "structured_data": {
+            "question_number": "07",
+            "subtype": "mcq_item",
+            "stem": "ভরপোষ না থাকা পর্যন্ত খাওয়া, পাকফুলি পূর্ণ হলে খাওয়া বন্ধ করা—",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "প্রেরণাদায়ক উদ্ধুক্ষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "সামঞ্জস্যকর উদ্ধুক্ষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "নির্মিত উদ্ধুক্ষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "সাংকেতিক উদ্ধুক্ষ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "98b179df-674b-5ed9-8034-046a2ce6c203"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q08",
+          "content_markdown": "তড়ানো বা লক্ষ সরবরাহ করে নিচের কৌন উদ্ধুক্ষ?",
+          "structured_data": {
+            "question_number": "08",
+            "subtype": "mcq_item",
+            "stem": "তড়ানো বা লক্ষ সরবরাহ করে নিচের কৌন উদ্ধুক্ষ?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "টারমিনেটিং",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "রিলিওজিং",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "অঅজ্ঞ উদ্ধুক্ষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "অজ্ঞ উদ্ধুক্ষ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "36542847-fe01-5a97-93b1-04cdda576fd6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q09",
+          "content_markdown": "উদ্ধুক্ষের কোট ভাগে ভাগ করা যায়?",
+          "structured_data": {
+            "question_number": "09",
+            "subtype": "mcq_item",
+            "stem": "উদ্ধুক্ষের কোট ভাগে ভাগ করা যায়?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "দুই",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "তিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "চার",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "পাঁচ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1dc67b06-f26f-511a-ac82-05878f5361a5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q10",
+          "content_markdown": "এক বিজ্ঞানী ২০১২ সালে জিন ও আচরণগত সম্পর্ক নিয়ে পরীক্ষা করেন?",
+          "structured_data": {
+            "question_number": "10",
+            "subtype": "mcq_item",
+            "stem": "এক বিজ্ঞানী ২০১২ সালে জিন ও আচরণগত সম্পর্ক নিয়ে পরীক্ষা করেন?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Andreas Vesalius",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Charles Robert Darwin",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Robert Polomin",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0aa1af44-6977-5a3f-b339-bbb18cffa71d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q11",
+          "content_markdown": "সহজত আচরণের সাথে নিচের কৌটির সম্পর্কিত রয়েছে?\nট্যাক্সিস",
+          "structured_data": {
+            "question_number": "11",
+            "subtype": "mcq_item",
+            "stem": "সহজত আচরণের সাথে নিচের কৌটির সম্পর্কিত রয়েছে?\nট্যাক্সিস",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "জিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "অভ্যন্তরীণ উদ্ধুক্ষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "বহিঃব্য উদ্ধুক্ষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "সামঞ্জস্য পরিবেশ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "82b7c073-3e74-532d-ab6e-ce8361e87fb6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q12",
+          "content_markdown": "শর্দের প্রতি সাড়া দেয়া—",
+          "structured_data": {
+            "question_number": "12",
+            "subtype": "mcq_item",
+            "stem": "শর্দের প্রতি সাড়া দেয়া—",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Rheotaxis",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Aerotaxis",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Phonotaxis",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Geotaxis",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "27e407c9-7032-5003-9e79-25e12e013f51"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q13",
+          "content_markdown": "সূর্যের প্রতি সাড়া দিয়ে পিপড়ার চলন নিম্নোক্ত কৌন ধরনের? (চ. বো., ১৫।)",
+          "structured_data": {
+            "question_number": "13",
+            "subtype": "mcq_item",
+            "stem": "সূর্যের প্রতি সাড়া দিয়ে পিপড়ার চলন নিম্নোক্ত কৌন ধরনের? (চ. বো., ১৫।)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "ট্রোপট্যাক্সিস",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "টেলোট্যাক্সিস",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "মেনোট্যাক্সিস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "09ef0153-7846-537f-af8b-c43a0f9aa654"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q14",
+          "content_markdown": "অনুজীবের আচরণে ফ্রিড্রিচ টিস্যুর দিকে ফ্যাগোসাইটের গমনকে কী বলে?\n(ঈ. বো.-২০১৯)",
+          "structured_data": {
+            "question_number": "14",
+            "subtype": "mcq_item",
+            "stem": "অনুজীবের আচরণে ফ্রিড্রিচ টিস্যুর দিকে ফ্যাগোসাইটের গমনকে কী বলে?\n(ঈ. বো.-২০১৯)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "নেমোট্যাক্সিস",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "মেনোট্যাক্সিস",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "কেমোট্যাক্সিস",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "ক্লাইনোট্যাক্সিস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8c1dbfd4-8f0a-53ee-9440-735046c04e6c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q15",
+          "content_markdown": "ফোনোট্যাক্সিসের সঙ্গে নিচের কৌটি জড়িত?\n(ঈ. বো., ২০১৮)",
+          "structured_data": {
+            "question_number": "15",
+            "subtype": "mcq_item",
+            "stem": "ফোনোট্যাক্সিসের সঙ্গে নিচের কৌটি জড়িত?\n(ঈ. বো., ২০১৮)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "আলো",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "শব্দ",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "শ্রোত",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "অভিকর্ষ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0b808970-dd9d-58bd-a807-378e83d4ebee"
+        },
+        {
+          "block_type": "table",
+          "title": "তথ্যমূলক",
+          "content_markdown": "| Q | Answer |\n|---|--------|\n| 01 | c ) |\n| 02 | d ) |\n| 03 | a ) |\n| 04 | a ) |\n| 05 | b ) |",
+          "structured_data": {
+            "headers": [
+              "Q",
+              "Answer"
+            ],
+            "rows": [
+              [
+                "01",
+                "c )"
+              ],
+              [
+                "02",
+                "d )"
+              ],
+              [
+                "03",
+                "a )"
+              ],
+              [
+                "04",
+                "a )"
+              ],
+              [
+                "05",
+                "b )"
+              ]
+            ]
+          },
+          "id": "d62f07d0-196d-5a2d-89ed-6d2f28df2dc2"
+        },
+        {
+          "block_type": "table",
+          "title": "উদ্ধুক্ষ আচরণগত পরিবর্তন",
+          "content_markdown": "| Q | Answer |\n|---|--------|\n| 06 | b ) |\n| 07 | a ) |\n| 08 | a ) |\n| 09 | d ) |\n| 10 | b ) |\n| 11 | g ) |",
+          "structured_data": {
+            "headers": [
+              "Q",
+              "Answer"
+            ],
+            "rows": [
+              [
+                "06",
+                "b )"
+              ],
+              [
+                "07",
+                "a )"
+              ],
+              [
+                "08",
+                "a )"
+              ],
+              [
+                "09",
+                "d )"
+              ],
+              [
+                "10",
+                "b )"
+              ],
+              [
+                "11",
+                "g )"
+              ]
+            ]
+          },
+          "id": "142e9933-a186-5c18-9ba2-dc79471da4eb"
+        },
+        {
+          "block_type": "table",
+          "title": "ট্যাক্সিস",
+          "content_markdown": "| Q | Answer |\n|---|--------|\n| 12 | b ) |\n| 13 | b ) |\n| 14 | c ) |\n| 15 | a ) |",
+          "structured_data": {
+            "headers": [
+              "Q",
+              "Answer"
+            ],
+            "rows": [
+              [
+                "12",
+                "b )"
+              ],
+              [
+                "13",
+                "b )"
+              ],
+              [
+                "14",
+                "c )"
+              ],
+              [
+                "15",
+                "a )"
+              ]
+            ]
+          },
+          "id": "54752ad4-ccae-5bf1-8c97-dea155d5ebdc"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 21,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc7",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 42.42,
+        "eval_count": 2095
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "```plaintext\nঝিববিজ্ঞান ২য় পত্র\n\n30. পাখির খাদ্য অধ্যেতের জন্ত ভদ্ধুড় পথ যায়, কিছু সম্মান তারা ঠিক\nপথ চেনে বাসায় ফেরে - এটি তাদের কোন ধরনের আচরণ?\nক. ওরিয়েন্টেশন\nখ. ট্যাক্সিস\nগ. সহজাত আবেগ\nঘ. শিক্ষণ\n\n31. কোন অঙ্গ থেকে সবচেয়ে নেশি পাখি শীতকালে বাংলাদেশে আসে?\nক. অস্ট্রেলিয়া\nখ. ইন্ডোনেশিয়া\nগ. ভিয়েতনাম\nঘ. হিমালয়ের পাদদেশ\n\n32. শিক্ষা জন্যের সঙ্গে সঙ্গে জনপ্রিয় কোন ধরনের আচরণ(ছ. বো. ২০১৮)?\nক. FAP\nখ. Reflex\nগ. Taxis\nঘ. Learning\n\n33. প্রতিবর্ত ক্রিয়ার বৈশিষ্ট্য কৌনটি?\n\nক. জন্মগত, শিক্ষালক্ষ নয়\nখ. সাধা দান করে\nগ. আচরণ সবসময় একই হবে\nঘ. অনুকরণজনিত\n\n34. নাকের অভাবে মশা কামড়ানোর ফলে সৃষ্ট অনুভূতি ও প্রতিক্রিয়া\nব্যক্তিকরণের ক্ষেত্রে কোনটি সত্যি?\n\nক. অলফাকিরি স্লাউর মাধ্যমে সৃষ্ট অনুভূতি মতিকে পৌছায়\nখ. তুর্কীয় স্লাউর মাধ্যমে মতিকের নির্দেশ নাকে পৌছায়\nগ. পেশিষ্ঠান ক্রিয়ার ফলে অনুভূতি মতিকে পৌছায়\n\n35. টাক্সি পাখির বাসা নির্বাচন—\n\nক. Taxis\nখ. Instincts\nগ. Migration\nঘ. Reflexes\n\n36. সহজাত আচরণের বৈশিষ্ট্য কৌনটি?\n\nক. বৃদ্ধির সাথে সম্পর্কিত\nখ. প্রজাতি নির্দিষ্ট নয়\nগ. বংশবৃদ্ধিতে একইভাবে প্রদর্শিত\nঘ. অনুনিমন দ্বারা অর্জিত\n\n37. প্রতিবর্ত ক্রিয়ার বৈশিষ্ট্য কৌনটি?\n\nক. জন্মগত, শিক্ষালক্ষ নয়\nখ. সাধা দান করে\nগ. আচরণ সবসময় একই হবে\nঘ. অনুকরণজনিত\n\nসহজাত আচরণ যাচাই\n\n38. অতিজাতি ও অপরিবর্তনীয় আচরণগত প্যাটার্নের ফস্ক্রিপ্টি-\nক. সহজাত আচরণ\nখ. শিক্ষণ আচরণ\nগ. অনুকরণ\nঘ. প্রতিবর্ত ক্রিয়া\n\n39. নিচের কোনটি সহজাত আচরণ?\n\nক. অভ্যাসগত\nখ. সাপেক্ষক্রিয়া\nগ. অনুকরণ\nঘ. অপত্য লালন\n\n40. প্রাণীর আচরণের নির্ধারিত ক্রিয়া ধারা নির্ধারিত হয়-\nক. পরিবেশ ধারা\nখ. জিন ধারা\nগ. লিঙ্গ ধারা\n\n41. নিচের কোনটি সমগ্রীয় পাখির উদাহরণ নয়? [ডেটাল: ১৮-১৯]\nক. চড়ুই\nখ. চামচট্টো কাদাখো\nঘ. হিমালয়ান পাখি\n\n42. নিচের কোনটি হ্যাভিচায়েশন আচরণ?\nক. মাকড়সার জাল বোনা\nখ. ডিম ফুটে বের হওয়ার পর হাসের ছানা মাকে অনুসরণ করা\nগ. পিপড়ার খাদ্য মজুদ করা\nঘ. কারখানার শহদময় পরিবেশে শ্রমিকদের কাজ করা\n\n43. শীতের পাখির অভিপ্রায় (পরিবার) কোন ধরনের আচরণ? [ছ. বো. ১৭-১৮]\nক. অভ্যাসগত\nখ. সহজাত\nগ. শিক্ষণ\nঘ. অনুকরণ\n\n44. অতি জটিল ও অপরিবর্তনীয় আচরণগত প্যাটার্নের ফস্ক্রিপ্টি-\nক. সহজাত আচরণ\nখ. শিক্ষণ আচরণ\nঘ. অনুকরণ\n\nপ্রতিবর্ত চক্র\n\n45. কোন ধরনের প্রতিবর্ত যন্ত্রিক্যা?\nক. অর্থিত প্রতিবর্ত\nখ. ডিপ প্রতিবর্ত\nগ. সুপারফিসিয়াল প্রতিবর্ত\nঘ. ভিসেরাল প্রতিবর্ত\n\n46. আপনের কারো হাত পড়লে সঙ্গে সঙ্গে সে তার হাত সরিয়ে নিবে।\nএটা কোন ধরনের আচরণ? [বো. বো. ১৩]\n\n47. ক্ষুধার্থ প্রাণী অন্যকে খাবার থেকে দেখে তার লালা ক্রম হয়, এটি—[বো. বো. ১৩]\nক. সহজাত আচরণ\nখ. সাপেক্ষ প্রতিবর্ত ক্রিয়া\nগ. অনুকরণ প্রতিবর্ত ক্রিয়া\nঘ. শিক্ষণ আচরণ\n\nপ্রতিবর্ত ক্রিয়া নিয়ন্ত্রিত হয় কোন অঙ্গ দ্বারা?\nক. মন্ত্রিক\nখ. বৃদ্ধি করার অঙ্গ দ্বারা\nগ. জিন\nঘ. সুযুক্তাকাঞ্চ\n\nমাকড়সার জাল বুনন\n\n49. Apis indica এর আকৃতি প্রায় কত মি.মি.?\nক. ১৫ মি.মি.\nখ. ৪৫ মি.মি.\nগ. ৫৫ মি.মি.\nঘ. ৩৫ মি.মি.\n\n50. সর্বথাং কোন বিজ্ঞানী মাকড়সার জাল বোনার ধাপ পরবর্তে করেন? [পিছে-২০১৭]\nক. হ্যাপ পিটার্স\nখ. লরেঞ্জ\nগ. টিনবারগোন\nঘ. প্যাভলভ\n\n51. মাকড়সার সিক্সট্রি থেকে কি নিষ্কৃত হয়? [পিছে-২০১৬]\nক. সেরাটোনিন\nখ. হিস্টামিন\nগ. ক্লেরোপ্রোটিন\nঘ. অ্যালুমিনিন\n\n52. কোন এষ্টি থেকে মাকড়সা প্রোটিনের ফাঁদ তৈরি করে?\n[পিছে-২০১৫]\nক. প্যারোটিড\nখ. সিক্ষ\nগ. সোয়েট\nঘ. সিবেসাস\n\nঅনুশীলনীর প্রশ্ন\n\nchase your dream to be a doctor...",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "```plaintext\nঝিববিজ্ঞান ২য় পত্র",
+          "structured_data": {},
+          "id": "e70e3dd8-9ef2-57e1-87e9-2bea3f515224"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q30",
+          "content_markdown": "পাখির খাদ্য অধ্যেতের জন্ত ভদ্ধুড় পথ যায়, কিছু সম্মান তারা ঠিক\nপথ চেনে বাসায় ফেরে - এটি তাদের কোন ধরনের আচরণ?",
+          "structured_data": {
+            "question_number": "30",
+            "subtype": "mcq_item",
+            "stem": "পাখির খাদ্য অধ্যেতের জন্ত ভদ্ধুড় পথ যায়, কিছু সম্মান তারা ঠিক\nপথ চেনে বাসায় ফেরে - এটি তাদের কোন ধরনের আচরণ?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "ওরিয়েন্টেশন",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "ট্যাক্সিস",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "সহজাত আবেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "শিক্ষণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4f16320a-7433-53b5-aa8e-b9c05ab082f7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q31",
+          "content_markdown": "কোন অঙ্গ থেকে সবচেয়ে নেশি পাখি শীতকালে বাংলাদেশে আসে?",
+          "structured_data": {
+            "question_number": "31",
+            "subtype": "mcq_item",
+            "stem": "কোন অঙ্গ থেকে সবচেয়ে নেশি পাখি শীতকালে বাংলাদেশে আসে?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "অস্ট্রেলিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "ইন্ডোনেশিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "ভিয়েতনাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "হিমালয়ের পাদদেশ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ec514988-1f56-5e77-8acc-bcdedd544956"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q32",
+          "content_markdown": "শিক্ষা জন্যের সঙ্গে সঙ্গে জনপ্রিয় কোন ধরনের আচরণ(ছ. বো. ২০১৮)?",
+          "structured_data": {
+            "question_number": "32",
+            "subtype": "mcq_item",
+            "stem": "শিক্ষা জন্যের সঙ্গে সঙ্গে জনপ্রিয় কোন ধরনের আচরণ(ছ. বো. ২০১৮)?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "FAP",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Reflex",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Taxis",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Learning",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "da807983-9060-5f8e-b14b-f52ea3002669"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q33",
+          "content_markdown": "প্রতিবর্ত ক্রিয়ার বৈশিষ্ট্য কৌনটি?",
+          "structured_data": {
+            "question_number": "33",
+            "subtype": "mcq_item",
+            "stem": "প্রতিবর্ত ক্রিয়ার বৈশিষ্ট্য কৌনটি?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "জন্মগত, শিক্ষালক্ষ নয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "সাধা দান করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "আচরণ সবসময় একই হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "অনুকরণজনিত",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "91088a19-ddae-5b46-b456-f01fc3121036"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q34",
+          "content_markdown": "নাকের অভাবে মশা কামড়ানোর ফলে সৃষ্ট অনুভূতি ও প্রতিক্রিয়া\nব্যক্তিকরণের ক্ষেত্রে কোনটি সত্যি?",
+          "structured_data": {
+            "question_number": "34",
+            "subtype": "mcq_item",
+            "stem": "নাকের অভাবে মশা কামড়ানোর ফলে সৃষ্ট অনুভূতি ও প্রতিক্রিয়া\nব্যক্তিকরণের ক্ষেত্রে কোনটি সত্যি?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "অলফাকিরি স্লাউর মাধ্যমে সৃষ্ট অনুভূতি মতিকে পৌছায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "তুর্কীয় স্লাউর মাধ্যমে মতিকের নির্দেশ নাকে পৌছায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "পেশিষ্ঠান ক্রিয়ার ফলে অনুভূতি মতিকে পৌছায়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f7d473df-b458-5d15-8ca8-18df88d3a9a8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q35",
+          "content_markdown": "টাক্সি পাখির বাসা নির্বাচন—",
+          "structured_data": {
+            "question_number": "35",
+            "subtype": "mcq_item",
+            "stem": "টাক্সি পাখির বাসা নির্বাচন—",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Taxis",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Instincts",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Migration",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Reflexes",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9a270311-93c3-5f6c-8627-ab8630c12352"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q36",
+          "content_markdown": "সহজাত আচরণের বৈশিষ্ট্য কৌনটি?",
+          "structured_data": {
+            "question_number": "36",
+            "subtype": "mcq_item",
+            "stem": "সহজাত আচরণের বৈশিষ্ট্য কৌনটি?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "বৃদ্ধির সাথে সম্পর্কিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "প্রজাতি নির্দিষ্ট নয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "বংশবৃদ্ধিতে একইভাবে প্রদর্শিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "অনুনিমন দ্বারা অর্জিত",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e8585afd-9d58-5da0-a29f-99b97a70901e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q37",
+          "content_markdown": "প্রতিবর্ত ক্রিয়ার বৈশিষ্ট্য কৌনটি?\nসহজাত আচরণ যাচাই",
+          "structured_data": {
+            "question_number": "37",
+            "subtype": "mcq_item",
+            "stem": "প্রতিবর্ত ক্রিয়ার বৈশিষ্ট্য কৌনটি?\nসহজাত আচরণ যাচাই",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "জন্মগত, শিক্ষালক্ষ নয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "সাধা দান করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "আচরণ সবসময় একই হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "অনুকরণজনিত",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "27485470-c82a-57b2-9aa3-5974eb4a234b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q38",
+          "content_markdown": "অতিজাতি ও অপরিবর্তনীয় আচরণগত প্যাটার্নের ফস্ক্রিপ্টি-",
+          "structured_data": {
+            "question_number": "38",
+            "subtype": "mcq_item",
+            "stem": "অতিজাতি ও অপরিবর্তনীয় আচরণগত প্যাটার্নের ফস্ক্রিপ্টি-",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "সহজাত আচরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "শিক্ষণ আচরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "অনুকরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "প্রতিবর্ত ক্রিয়া",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2cec5610-9ee2-538c-9968-ed390251d0fd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q39",
+          "content_markdown": "নিচের কোনটি সহজাত আচরণ?",
+          "structured_data": {
+            "question_number": "39",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি সহজাত আচরণ?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "অভ্যাসগত",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "সাপেক্ষক্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "অনুকরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "অপত্য লালন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "bba232d9-6ede-561c-b3c5-73f9ad7bbb83"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q40",
+          "content_markdown": "প্রাণীর আচরণের নির্ধারিত ক্রিয়া ধারা নির্ধারিত হয়-",
+          "structured_data": {
+            "question_number": "40",
+            "subtype": "mcq_item",
+            "stem": "প্রাণীর আচরণের নির্ধারিত ক্রিয়া ধারা নির্ধারিত হয়-",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "পরিবেশ ধারা",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "জিন ধারা",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "লিঙ্গ ধারা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "064ec8ce-8c86-5781-b480-2973263e29c1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q41",
+          "content_markdown": "নিচের কোনটি সমগ্রীয় পাখির উদাহরণ নয়?",
+          "structured_data": {
+            "question_number": "41",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি সমগ্রীয় পাখির উদাহরণ নয়?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "চড়ুই",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "চামচট্টো কাদাখো",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "হিমালয়ান পাখি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "ডেটাল: ১৮-১৯",
+            "provenance": [
+              "ডেটাল: ১৮-১৯"
+            ]
+          },
+          "id": "f2170482-ae4d-5568-a9d5-8f0abaafe500"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q42",
+          "content_markdown": "নিচের কোনটি হ্যাভিচায়েশন আচরণ?",
+          "structured_data": {
+            "question_number": "42",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি হ্যাভিচায়েশন আচরণ?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "মাকড়সার জাল বোনা",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "ডিম ফুটে বের হওয়ার পর হাসের ছানা মাকে অনুসরণ করা",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "পিপড়ার খাদ্য মজুদ করা",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "কারখানার শহদময় পরিবেশে শ্রমিকদের কাজ করা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "66b7035a-2161-548e-b526-9c87ba25ffb9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q43",
+          "content_markdown": "শীতের পাখির অভিপ্রায় (পরিবার) কোন ধরনের আচরণ?",
+          "structured_data": {
+            "question_number": "43",
+            "subtype": "mcq_item",
+            "stem": "শীতের পাখির অভিপ্রায় (পরিবার) কোন ধরনের আচরণ?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "অভ্যাসগত",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "সহজাত",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "শিক্ষণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "অনুকরণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "ছ. বো. ১৭-১৮",
+            "provenance": [
+              "ছ. বো. ১৭-১৮"
+            ]
+          },
+          "id": "30785655-d331-5068-a3d8-86437013d614"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q44",
+          "content_markdown": "অতি জটিল ও অপরিবর্তনীয় আচরণগত প্যাটার্নের ফস্ক্রিপ্টি-\nপ্রতিবর্ত চক্র",
+          "structured_data": {
+            "question_number": "44",
+            "subtype": "mcq_item",
+            "stem": "অতি জটিল ও অপরিবর্তনীয় আচরণগত প্যাটার্নের ফস্ক্রিপ্টি-\nপ্রতিবর্ত চক্র",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "সহজাত আচরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "শিক্ষণ আচরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "অনুকরণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ae23aa71-9604-52b1-97ff-e659009d8be1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q45",
+          "content_markdown": "কোন ধরনের প্রতিবর্ত যন্ত্রিক্যা?",
+          "structured_data": {
+            "question_number": "45",
+            "subtype": "mcq_item",
+            "stem": "কোন ধরনের প্রতিবর্ত যন্ত্রিক্যা?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "অর্থিত প্রতিবর্ত",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "ডিপ প্রতিবর্ত",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "সুপারফিসিয়াল প্রতিবর্ত",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "ভিসেরাল প্রতিবর্ত",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f3cd5653-7692-579e-815f-967888f53462"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q46",
+          "content_markdown": "আপনের কারো হাত পড়লে সঙ্গে সঙ্গে সে তার হাত সরিয়ে নিবে।\nএটা কোন ধরনের আচরণ? [বো. বো. ১৩]",
+          "structured_data": {
+            "question_number": "46",
+            "subtype": "exercise_solution",
+            "stem": "আপনের কারো হাত পড়লে সঙ্গে সঙ্গে সে তার হাত সরিয়ে নিবে।\nএটা কোন ধরনের আচরণ? [বো. বো. ১৩]",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5ee92b69-2b2f-58e1-ac68-276545b8c20d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q47",
+          "content_markdown": "ক্ষুধার্থ প্রাণী অন্যকে খাবার থেকে দেখে তার লালা ক্রম হয়, এটি—[বো. বো. ১৩]\nপ্রতিবর্ত ক্রিয়া নিয়ন্ত্রিত হয় কোন অঙ্গ দ্বারা?\nমাকড়সার জাল বুনন",
+          "structured_data": {
+            "question_number": "47",
+            "subtype": "mcq_item",
+            "stem": "ক্ষুধার্থ প্রাণী অন্যকে খাবার থেকে দেখে তার লালা ক্রম হয়, এটি—[বো. বো. ১৩]\nপ্রতিবর্ত ক্রিয়া নিয়ন্ত্রিত হয় কোন অঙ্গ দ্বারা?\nমাকড়সার জাল বুনন",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "সহজাত আচরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "সাপেক্ষ প্রতিবর্ত ক্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "অনুকরণ প্রতিবর্ত ক্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "শিক্ষণ আচরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "ক",
+                "text": "মন্ত্রিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "বৃদ্ধি করার অঙ্গ দ্বারা",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "জিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "সুযুক্তাকাঞ্চ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f5e5c02d-177d-5c41-b3e3-6dafd3fc7e28"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q49",
+          "content_markdown": "Apis indica এর আকৃতি প্রায় কত মি.মি.?",
+          "structured_data": {
+            "question_number": "49",
+            "subtype": "mcq_item",
+            "stem": "Apis indica এর আকৃতি প্রায় কত মি.মি.?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "১৫ মি.মি.",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "৪৫ মি.মি.",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "৫৫ মি.মি.",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "৩৫ মি.মি.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5fb8ba01-f620-5b8a-8373-ce779a5ff862"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q50",
+          "content_markdown": "সর্বথাং কোন বিজ্ঞানী মাকড়সার জাল বোনার ধাপ পরবর্তে করেন?",
+          "structured_data": {
+            "question_number": "50",
+            "subtype": "mcq_item",
+            "stem": "সর্বথাং কোন বিজ্ঞানী মাকড়সার জাল বোনার ধাপ পরবর্তে করেন?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "হ্যাপ পিটার্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "লরেঞ্জ",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "টিনবারগোন",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "প্যাভলভ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "পিছে-২০১৭",
+            "provenance": [
+              "পিছে-২০১৭"
+            ]
+          },
+          "id": "922f8b63-5880-5d02-af82-996964730d2d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q51",
+          "content_markdown": "মাকড়সার সিক্সট্রি থেকে কি নিষ্কৃত হয়?",
+          "structured_data": {
+            "question_number": "51",
+            "subtype": "mcq_item",
+            "stem": "মাকড়সার সিক্সট্রি থেকে কি নিষ্কৃত হয়?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "সেরাটোনিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "হিস্টামিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "ক্লেরোপ্রোটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "অ্যালুমিনিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "পিছে-২০১৬",
+            "provenance": [
+              "পিছে-২০১৬"
+            ]
+          },
+          "id": "bce189b3-01cc-59c9-b66c-a46e0d2b17dd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q52",
+          "content_markdown": "কোন এষ্টি থেকে মাকড়সা প্রোটিনের ফাঁদ তৈরি করে?\nঅনুশীলনীর প্রশ্ন\nchase your dream to be a doctor...",
+          "structured_data": {
+            "question_number": "52",
+            "subtype": "mcq_item",
+            "stem": "কোন এষ্টি থেকে মাকড়সা প্রোটিনের ফাঁদ তৈরি করে?\nঅনুশীলনীর প্রশ্ন\nchase your dream to be a doctor...",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "প্যারোটিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "সিক্ষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "সোয়েট",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "সিবেসাস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "পিছে-২০১৫",
+            "provenance": [
+              "পিছে-২০১৫"
+            ]
+          },
+          "id": "63d15ac2-cd62-5d5f-8453-d716076b233e"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 23,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 56.24,
+        "eval_count": 3054
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### 53. মাকড়সার জাল তৈরিতে সিংহ এছি থেকে কোন প্রোটিন ফরিত হয়?\n**Type:** mcq\n**Stem:** মাকড়সার জাল তৈরিতে সিংহ এছি থেকে কোন প্রোটিন ফরিত হয়? (গ্যা. বি. ১৮-১৯)\n**Options:** \n- a) অরীয় স্পোক\n- b) ক্রেরোগ্রোটিন\n- c) আমিনো এসিড\n- d) লিপিড\n\n**Answer:** - b) ক্রেরোগ্রোটিন\n**Solution:** মাকড়সার জাল তৈরিতে সিংহ এছি থেকে ক্রেরোগ্রোটিন ফরিত হয়। এই প্রোটিন দ্বারা মাকড়সার জালের গঠন ঘটে।\n**Tags:** জীববিজ্ঞান ২য় পত্র, প্রণাণীর বিভিন্নতা ও শ্রেণিবিন্যাস\n\n### 54. জিগ-জ্যাঙ্গ নৃত্য প্রদর্শন করে কোন প্রাণী?\n**Type:** mcq\n**Stem:** জিগ-জ্যাঙ্গ নৃত্য প্রদর্শন করে কোন প্রাণী? (গ্যা. বৌ. ১৭)\n**Options:** \n- a) ব্যাঙ\n- b) মৌমাছি\n- c) স্টিকলব্যাক\n- d) টুনটুনি\n\n**Answer:** - a) ব্যাঙ\n**Solution:** জিগ-জ্যাঙ্গ নৃত্য প্রদর্শন করে ব্যাঙ। এই প্রাণীর চুল দিয়ে এই নৃত্য প্রদর্শন করা হয়।\n**Tags:** জীববিজ্ঞান ২য় পত্র, প্রণাণীর বিভিন্নতা ও শ্রেণিবিন্যাস\n\n### 55. অপত্য লালন কোন ধরনের আচরণ?\n**Type:** mcq\n**Stem:** অপত্য লালন কোন ধরনের আচরণ? (থ্যু.বৌ.-২০১৭)\n**Options:** \n- a) সহজাত\n- b) সামাজিক\n- c) প্রতিবর্তী\n- d) শিখন\n\n**Answer:** - c) প্রতিবর্তী\n**Solution:** অপত্য লালন প্রতিবর্তী আচরণ। এই আচরণ প্রাণী বা মানুষের উৎপত্তি ও বৃদ্ধির প্রক্রিয়ায় অন্য প্রাণী বা মানুষের সাহায্যে হয়।\n**Tags:** জীববিজ্ঞান ২য় পত্র, প্রণাণীর বিভিন্নতা ও শ্রেণিবিন্যাস\n\n### 56. প্রজনন খণ্ডে কোন জীবের ঘর্ষণি ফুলে যায়?\n**Type:** mcq\n**Stem:** প্রজনন খণ্ডে কোন জীবের ঘর্ষণি ফুলে যায়? (নব-ই-পার্শ্বীন)\n**Options:** \n- a) পুরুষ কোলা ব্যাঙ\n- b) স্ত্রী কোলা ব্যাঙ\n- c) পুরুষ সাপ\n- d) স্ত্রী সাপ\n\n**Answer:** - a) পুরুষ কোলা ব্যাঙ\n**Solution:** প্রজনন খণ্ডে পুরুষ কোলা ব্যাঙের ঘর্ষণি ফুলে যায়। এই প্রাণীর ঘর্ষণি ফুলে প্রজনন ক্রিয়া ঘটে।\n**Tags:** জীববিজ্ঞান ২য় পত্র, প্রণাণীর বিভিন্নতা ও শ্রেণিবিন্যাস\n\n### 57. শিক্ষা জন্য লাভ ও তাদের ঘনির্ভূত হওয়া পর্যন্ত পিতামাতা কর্তৃক পরিচালিত নেমাকে কী বলে?\n**Type:** mcq\n**Stem:** শিক্ষা জন্য লাভ ও তাদের ঘনির্ভূত হওয়া পর্যন্ত পিতামাতা কর্তৃক পরিচালিত নেমাকে কী বলে? (নব-ই-পার্শ্বীন)\n**Options:** \n- a) প্যাডেটল কেয়ার\n- b) শিখন আচরণ\n- c) সামাজিক আচরণ\n- d) সহযোগিতা\n\n**Answer:** - b) শিখন আচরণ\n**Solution:** শিক্ষা জন্য লাভ ও তাদের ঘনির্ভূত হওয়া পর্যন্ত পিতামাতা কর্তৃক পরিচালিত নেমাকে শিখন আচরণ বলে। এই আচরণ প্রাণী বা মানুষের শিক্ষার জন্য প্রধান ভূমিকা পালন করে।\n**Tags:** জীববিজ্ঞান ২য় পত্র, প্রণাণীর বিভিন্নতা ও শ্রেণিবিন্যাস",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q53",
+          "content_markdown": "মাকড়সার জাল তৈরিতে সিংহ এছি থেকে কোন প্রোটিন ফরিত হয়?\n**Type:** mcq\n**Stem:** মাকড়সার জাল তৈরিতে সিংহ এছি থেকে কোন প্রোটিন ফরিত হয়? (গ্যা. বি. ১৮-১৯)\n**Options:**",
+          "structured_data": {
+            "question_number": "53",
+            "subtype": "mcq_item",
+            "stem": "মাকড়সার জাল তৈরিতে সিংহ এছি থেকে কোন প্রোটিন ফরিত হয়?\n**Type:** mcq\n**Stem:** মাকড়সার জাল তৈরিতে সিংহ এছি থেকে কোন প্রোটিন ফরিত হয়? (গ্যা. বি. ১৮-১৯)\n**Options:**",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অরীয় স্পোক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ক্রেরোগ্রোটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আমিনো এসিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "লিপিড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** - b) ক্রেরোগ্রোটিন",
+            "solution_markdown": "মাকড়সার জাল তৈরিতে সিংহ এছি থেকে ক্রেরোগ্রোটিন ফরিত হয়। এই প্রোটিন দ্বারা মাকড়সার জালের গঠন ঘটে।\n**Tags:** জীববিজ্ঞান ২য় পত্র, প্রণাণীর বিভিন্নতা ও শ্রেণিবিন্যাস",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f6fa3f68-4d29-570a-8a9e-4fe6a92e4823"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q54",
+          "content_markdown": "জিগ-জ্যাঙ্গ নৃত্য প্রদর্শন করে কোন প্রাণী?\n**Type:** mcq\n**Stem:** জিগ-জ্যাঙ্গ নৃত্য প্রদর্শন করে কোন প্রাণী? (গ্যা. বৌ. ১৭)\n**Options:**",
+          "structured_data": {
+            "question_number": "54",
+            "subtype": "mcq_item",
+            "stem": "জিগ-জ্যাঙ্গ নৃত্য প্রদর্শন করে কোন প্রাণী?\n**Type:** mcq\n**Stem:** জিগ-জ্যাঙ্গ নৃত্য প্রদর্শন করে কোন প্রাণী? (গ্যা. বৌ. ১৭)\n**Options:**",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ব্যাঙ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মৌমাছি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "স্টিকলব্যাক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "টুনটুনি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** - a) ব্যাঙ",
+            "solution_markdown": "জিগ-জ্যাঙ্গ নৃত্য প্রদর্শন করে ব্যাঙ। এই প্রাণীর চুল দিয়ে এই নৃত্য প্রদর্শন করা হয়।\n**Tags:** জীববিজ্ঞান ২য় পত্র, প্রণাণীর বিভিন্নতা ও শ্রেণিবিন্যাস",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "870892aa-8ea8-5344-a5b2-885d71a59b55"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q55",
+          "content_markdown": "অপত্য লালন কোন ধরনের আচরণ?\n**Type:** mcq\n**Stem:** অপত্য লালন কোন ধরনের আচরণ? (থ্যু.বৌ.-২০১৭)\n**Options:**",
+          "structured_data": {
+            "question_number": "55",
+            "subtype": "mcq_item",
+            "stem": "অপত্য লালন কোন ধরনের আচরণ?\n**Type:** mcq\n**Stem:** অপত্য লালন কোন ধরনের আচরণ? (থ্যু.বৌ.-২০১৭)\n**Options:**",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সহজাত",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সামাজিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "প্রতিবর্তী",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "শিখন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** - c) প্রতিবর্তী",
+            "solution_markdown": "অপত্য লালন প্রতিবর্তী আচরণ। এই আচরণ প্রাণী বা মানুষের উৎপত্তি ও বৃদ্ধির প্রক্রিয়ায় অন্য প্রাণী বা মানুষের সাহায্যে হয়।\n**Tags:** জীববিজ্ঞান ২য় পত্র, প্রণাণীর বিভিন্নতা ও শ্রেণিবিন্যাস",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3d152f43-3f3c-54cf-864c-41a54b560273"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q56",
+          "content_markdown": "প্রজনন খণ্ডে কোন জীবের ঘর্ষণি ফুলে যায়?\n**Type:** mcq\n**Stem:** প্রজনন খণ্ডে কোন জীবের ঘর্ষণি ফুলে যায়? (নব-ই-পার্শ্বীন)\n**Options:**",
+          "structured_data": {
+            "question_number": "56",
+            "subtype": "mcq_item",
+            "stem": "প্রজনন খণ্ডে কোন জীবের ঘর্ষণি ফুলে যায়?\n**Type:** mcq\n**Stem:** প্রজনন খণ্ডে কোন জীবের ঘর্ষণি ফুলে যায়? (নব-ই-পার্শ্বীন)\n**Options:**",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "পুরুষ কোলা ব্যাঙ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "স্ত্রী কোলা ব্যাঙ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পুরুষ সাপ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "স্ত্রী সাপ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** - a) পুরুষ কোলা ব্যাঙ",
+            "solution_markdown": "প্রজনন খণ্ডে পুরুষ কোলা ব্যাঙের ঘর্ষণি ফুলে যায়। এই প্রাণীর ঘর্ষণি ফুলে প্রজনন ক্রিয়া ঘটে।\n**Tags:** জীববিজ্ঞান ২য় পত্র, প্রণাণীর বিভিন্নতা ও শ্রেণিবিন্যাস",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7720bdcd-1102-5538-b603-85d0b6ca1290"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q57",
+          "content_markdown": "শিক্ষা জন্য লাভ ও তাদের ঘনির্ভূত হওয়া পর্যন্ত পিতামাতা কর্তৃক পরিচালিত নেমাকে কী বলে?\n**Type:** mcq\n**Stem:** শিক্ষা জন্য লাভ ও তাদের ঘনির্ভূত হওয়া পর্যন্ত পিতামাতা কর্তৃক পরিচালিত নেমাকে কী বলে? (নব-ই-পার্শ্বীন)\n**Options:**",
+          "structured_data": {
+            "question_number": "57",
+            "subtype": "mcq_item",
+            "stem": "শিক্ষা জন্য লাভ ও তাদের ঘনির্ভূত হওয়া পর্যন্ত পিতামাতা কর্তৃক পরিচালিত নেমাকে কী বলে?\n**Type:** mcq\n**Stem:** শিক্ষা জন্য লাভ ও তাদের ঘনির্ভূত হওয়া পর্যন্ত পিতামাতা কর্তৃক পরিচালিত নেমাকে কী বলে? (নব-ই-পার্শ্বীন)\n**Options:**",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্যাডেটল কেয়ার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "শিখন আচরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সামাজিক আচরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সহযোগিতা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** - b) শিখন আচরণ",
+            "solution_markdown": "শিক্ষা জন্য লাভ ও তাদের ঘনির্ভূত হওয়া পর্যন্ত পিতামাতা কর্তৃক পরিচালিত নেমাকে শিখন আচরণ বলে। এই আচরণ প্রাণী বা মানুষের শিক্ষার জন্য প্রধান ভূমিকা পালন করে।\n**Tags:** জীববিজ্ঞান ২য় পত্র, প্রণাণীর বিভিন্নতা ও শ্রেণিবিন্যাস",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fc95382f-c1c6-5a67-a407-3e346362f11d"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 5,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 40.26,
+        "eval_count": 2073
+      }
+    }
+  ]
+}

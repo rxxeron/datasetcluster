@@ -1,0 +1,3378 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "1otD6SmwIOUVfSc9_xi-MJRtSo3MwALZO",
+    "collection": "main_book_solution",
+    "subject": "physics",
+    "edition": "2023",
+    "priority_score": 2023092,
+    "path_parts": [
+      "অনুশীলনী MCQ সমাধান",
+      "* ভার্সন সেপ্টেম্বর-২৩",
+      "টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন",
+      "পদার্থবিজ্ঞান",
+      "P-2.4 তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব.pdf"
+    ],
+    "filename": "P-2.4 তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব.pdf",
+    "sha256": "59dc0b230f7e7eb3ab543b6404d10ba1fb583e1882bff774781e3ad6e06c4a65",
+    "total_pages": 8,
+    "parsed_pages": 8,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 117,
+    "block_counts_by_type": {
+      "concept_prose": 23,
+      "mcq_item": 62,
+      "exercise_solution": 13,
+      "table": 19
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থ ২য় পত্র\n\n#### চতুর্থ অধ্যায়: তড়িৎ প্রভাবের সৌষ্ঠব ক্রিয়া ও চূমকত্ব\n\n#### টোপিক ফেছা\n\n1. $2\\mathrm{T}$ সুম চৌম্বক ক্ষেত্রের সাথে $30^{\\circ}$ কোণে একটি আলফা কণা $10^{4}\\,\\mathrm{ms}^{-1}$ বেগে চলতে থাকলে কোণটির ওপর ক্রিয়াশীল বল কত?\n   - a) $0$\n   - b) $1.6\\times10^{-15}\\,\\mathrm{N}$\n   - c) $3.2\\times10^{-15}\\,\\mathrm{N}$\n   - d) $6.4\\times10^{-15}\\,\\mathrm{N}$\n\n2. তড়িৎবাহী তার ভুলুলীতে শক্তি সহিষ্ণুতা থাকে?\n   - a) তড়িং ক্ষেত্রে\n   - b) চৌম্বক ক্ষেত্রে\n   - c) তাপসঞ্জি হিসেবে\n   - d) যান্ড্রিক শক্তি হিসেবে\n\n3. একটি লখা তাড়িৎ সরবরাহ লাইনে $440\\,\\mathrm{V}-60\\,\\mathrm{A}$ চিহ্নিত করা আছে। উক্ত লাইন থেকে খাদ্য $1.2\\,\\mathrm{m}$ নিচে কোনো বিন্দুতে চৌম্বকক্ষেত্রে মান কত?\n   - a) $10^{-3}\\,\\mathrm{T}$\n   - b) $10^{-4}\\,\\mathrm{T}$\n   - c) $10^{-5}\\,\\mathrm{T}$\n   - d) $10^{-6}\\,\\mathrm{T}$\n\n8. চৌম্বক সম্পর্কিত নিচের কোন একটি সত্যিক?\n   - a) চৌম্বক ফ্লাক্স -ওয়েইবেস্ট\n   - b) চৌম্বক প্রেশাত্ত-ওয়েয়ের\n   - c) চৌম্বক ক্ষেত্র-টেসলা\n   - d) চৌম্বক আম্রক-ওয়েনরি\n\n5. একটি চৌম্বক ক্ষেত্রে লখা তাড়িৎ একটি প্রোটিন $(\\mathrm{Charge e})$ একটি চৌম্বক ক্ষেত্রে লখা তাড়িৎ চলমান একটি আলফা কণার $(\\mathrm{charge~2e})$ সমান বল অনুভব করে। তাদের ধ্রুব অনুপাত $\\frac{V_{\\mathrm{proton}}}{V_{\\alpha}}$ হলো?\n   - a) $0.5$\n   - b) $2$\n   - c) $4$\n   - d) $8$\n\n6. একটি চূমকত্বের B-এর মধ্যে একটি চার্জ V বেগে চললে চার্জটির উপর চূমকত্বের বল কোন ক্ষেত্রে শূন্য হবে?\n   - a) V ও B এর মধ্যে কোণ $90^{\\circ}$ হলে\n   - b) V ও B এর মধ্যে কোণ $180^{\\circ}$ হলে\n   - c) কখনই শূন্য হবে না\n\n7. চৌম্বক দিকের সাথে কোন কোণে একটি চার্জিত কণা গতিশীল হলে সর্বোচ্চ বল অনুভব করবে?\n   - a) $0^{\\circ}$\n   - b) $45^{\\circ}$\n   - c) $90^{\\circ}$\n   - d) $180^{\\circ}$\n\n8. একটি ইলেক্ট্রন $1\\,\\mathrm{V}$ এ তুলনা প্রাপ্ত হলে এর গতিশক্তি কত?\n   - a) $0.54\\,\\mathrm{eV}$\n   - b) $1\\,\\mathrm{eV}$\n   - c) $13\\,\\mathrm{eV}$\n   - d) $184\\,\\mathrm{eV}$\n\n9. তড়িৎবাহী একটি লখা তাড়িৎ এর a লখদূরত্বে কোনো বিন্দুতে চৌম্বক ক্ষেত্রের মান কত? [সো. নো. ২০১৬]\n   - a) $B=\\dfrac{\\mu_0ia}{2\\pi}$\n   - b) $B=\\dfrac{\\mu_0a}{2\\pi i}$\n   - c) $B=\\dfrac{\\mu_0i}{2\\pi a}$\n   - d) $B=\\dfrac{\\mu_0\\pi}{2ia}$\n\n10. নিচের কোনটি চৌম্বক ফ্লাক্সের একক? [সো. নো. ২০১৬; সো. নো. ২০১৬]\n    - a) টেসলা\n    - b) ওয়েবার\n    - c) ডেভিট\n    - d) আল্মিশ্যার\n\n11. একটি পরিবহনী ভেতর দিয়ে I তড়িৎ প্রভাবের জন্য পরিবহনীর নিকটে কোনো বিন্দুতে সৃষ্ট চৌম্বক ফ্লাক্স— [সো. নো. ২০১৫; সো. ২০১১-২০১২]\n     - a) $B \\propto l^2$\n     - b) $B \\propto I$\n     - c) $B \\propto \\dfrac{1}{l}$\n     - d) $B \\propto \\dfrac{1}{I^2}$\n\n[গোলাম হোসেন, আমির হোসেন]\n\n### Q11\n**Type:** mcq (use one of: mcq, mathematical, board_cq, analytical)\n**Stem:** একটি পরিবহনী ভেতর দিয়ে I তড়িৎ প্রভাবের জন্য পরিবহনীর নিকটে কোনো বিন্দুতে সৃষ্ট চৌম্বক ফ্লাক্স— [সো. নো. ২০১৫; সো. ২০১১-২০১২]\n**Options:** \n- a) $B \\propto l^2$\n- b) $B \\propto I$\n- c) $B \\propto \\dfrac{1}{l}$\n- d) $B \\propto \\dfrac{1}{I^2}$\n**Answer:** b) $B \\propto I$\n**Solution:** পরিবহনীর ভেতর দিয়ে তড়িৎ প্রভাবের জন্য পরিবহনীর নিকটে কোনো বিন্দুতে সৃষ্ট চৌম্বক ফ্লাক্স পরিবহনীর তড়িৎ প্রভাবের সাথে সমান হয়। তাছাড়া, চৌম্বক ফ্লাক্স পরিবহনীর তড়িৎ প্রভাবের সাথে সমান হয়। তাছাড়া, চৌম্বক ফ্লাক্স পরিবহনীর তড়িৎ প্রভাবের সাথে সমান হয়।\n**Tags:** গোলাম হোসেন, আমির হোসেন",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "টোপিক ফেছা",
+          "content_markdown": "1. $2\\mathrm{T}$ সুম চৌম্বক ক্ষেত্রের সাথে $30^{\\circ}$ কোণে একটি আলফা কণা $10^{4}\\,\\mathrm{ms}^{-1}$ বেগে চলতে থাকলে কোণটির ওপর ক্রিয়াশীল বল কত?\n   - a) $0$\n   - b) $1.6\\times10^{-15}\\,\\mathrm{N}$\n   - c) $3.2\\times10^{-15}\\,\\mathrm{N}$\n   - d) $6.4\\times10^{-15}\\,\\mathrm{N}$",
+          "structured_data": {},
+          "id": "71c29a3b-109d-5fb4-976f-b92a86436737"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "টোপিক ফেছা",
+          "content_markdown": "2. তড়িৎবাহী তার ভুলুলীতে শক্তি সহিষ্ণুতা থাকে?\n   - a) তড়িং ক্ষেত্রে\n   - b) চৌম্বক ক্ষেত্রে\n   - c) তাপসঞ্জি হিসেবে\n   - d) যান্ড্রিক শক্তি হিসেবে",
+          "structured_data": {},
+          "id": "89aa0673-d858-5cf5-b62d-7ad0f1c96cdc"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "টোপিক ফেছা",
+          "content_markdown": "3. একটি লখা তাড়িৎ সরবরাহ লাইনে $440\\,\\mathrm{V}-60\\,\\mathrm{A}$ চিহ্নিত করা আছে। উক্ত লাইন থেকে খাদ্য $1.2\\,\\mathrm{m}$ নিচে কোনো বিন্দুতে চৌম্বকক্ষেত্রে মান কত?\n   - a) $10^{-3}\\,\\mathrm{T}$\n   - b) $10^{-4}\\,\\mathrm{T}$\n   - c) $10^{-5}\\,\\mathrm{T}$\n   - d) $10^{-6}\\,\\mathrm{T}$",
+          "structured_data": {},
+          "id": "fd669da6-c781-5b42-9111-c9b729661886"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "টোপিক ফেছা",
+          "content_markdown": "8. চৌম্বক সম্পর্কিত নিচের কোন একটি সত্যিক?\n   - a) চৌম্বক ফ্লাক্স -ওয়েইবেস্ট\n   - b) চৌম্বক প্রেশাত্ত-ওয়েয়ের\n   - c) চৌম্বক ক্ষেত্র-টেসলা\n   - d) চৌম্বক আম্রক-ওয়েনরি",
+          "structured_data": {},
+          "id": "99bb4377-1c42-5255-913d-7588347e5db7"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "টোপিক ফেছা",
+          "content_markdown": "5. একটি চৌম্বক ক্ষেত্রে লখা তাড়িৎ একটি প্রোটিন $(\\mathrm{Charge e})$ একটি চৌম্বক ক্ষেত্রে লখা তাড়িৎ চলমান একটি আলফা কণার $(\\mathrm{charge~2e})$ সমান বল অনুভব করে। তাদের ধ্রুব অনুপাত $\\frac{V_{\\mathrm{proton}}}{V_{\\alpha}}$ হলো?\n   - a) $0.5$\n   - b) $2$\n   - c) $4$\n   - d) $8$",
+          "structured_data": {},
+          "id": "7d3b6bac-5d05-5c53-a75c-13ce4c998ba6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "টোপিক ফেছা",
+          "content_markdown": "6. একটি চূমকত্বের B-এর মধ্যে একটি চার্জ V বেগে চললে চার্জটির উপর চূমকত্বের বল কোন ক্ষেত্রে শূন্য হবে?\n   - a) V ও B এর মধ্যে কোণ $90^{\\circ}$ হলে\n   - b) V ও B এর মধ্যে কোণ $180^{\\circ}$ হলে\n   - c) কখনই শূন্য হবে না",
+          "structured_data": {},
+          "id": "703665fc-ebb4-52cd-bfa6-5fef7ee9c069"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "টোপিক ফেছা",
+          "content_markdown": "7. চৌম্বক দিকের সাথে কোন কোণে একটি চার্জিত কণা গতিশীল হলে সর্বোচ্চ বল অনুভব করবে?\n   - a) $0^{\\circ}$\n   - b) $45^{\\circ}$\n   - c) $90^{\\circ}$\n   - d) $180^{\\circ}$",
+          "structured_data": {},
+          "id": "26798535-3453-568c-ab74-545afd828690"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "টোপিক ফেছা",
+          "content_markdown": "8. একটি ইলেক্ট্রন $1\\,\\mathrm{V}$ এ তুলনা প্রাপ্ত হলে এর গতিশক্তি কত?\n   - a) $0.54\\,\\mathrm{eV}$\n   - b) $1\\,\\mathrm{eV}$\n   - c) $13\\,\\mathrm{eV}$\n   - d) $184\\,\\mathrm{eV}$",
+          "structured_data": {},
+          "id": "10d32d3d-8ccd-504f-8a4c-a6018a27340a"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "টোপিক ফেছা",
+          "content_markdown": "9. তড়িৎবাহী একটি লখা তাড়িৎ এর a লখদূরত্বে কোনো বিন্দুতে চৌম্বক ক্ষেত্রের মান কত? [সো. নো. ২০১৬]\n   - a) $B=\\dfrac{\\mu_0ia}{2\\pi}$\n   - b) $B=\\dfrac{\\mu_0a}{2\\pi i}$\n   - c) $B=\\dfrac{\\mu_0i}{2\\pi a}$\n   - d) $B=\\dfrac{\\mu_0\\pi}{2ia}$",
+          "structured_data": {},
+          "id": "9cdc8abc-6dbe-5c1a-816e-d57a5fbd05d5"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "টোপিক ফেছা",
+          "content_markdown": "10. নিচের কোনটি চৌম্বক ফ্লাক্সের একক? [সো. নো. ২০১৬; সো. নো. ২০১৬]\n    - a) টেসলা\n    - b) ওয়েবার\n    - c) ডেভিট\n    - d) আল্মিশ্যার",
+          "structured_data": {},
+          "id": "ab5a4f8b-29ba-5f9c-ba5e-c987c0bb8ec4"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "টোপিক ফেছা",
+          "content_markdown": "11. একটি পরিবহনী ভেতর দিয়ে I তড়িৎ প্রভাবের জন্য পরিবহনীর নিকটে কোনো বিন্দুতে সৃষ্ট চৌম্বক ফ্লাক্স— [সো. নো. ২০১৫; সো. ২০১১-২০১২]\n     - a) $B \\propto l^2$\n     - b) $B \\propto I$\n     - c) $B \\propto \\dfrac{1}{l}$\n     - d) $B \\propto \\dfrac{1}{I^2}$",
+          "structured_data": {},
+          "id": "9d419c0a-949f-5989-951a-f3783bde0b52"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "টোপিক ফেছা",
+          "content_markdown": "[গোলাম হোসেন, আমির হোসেন]",
+          "structured_data": {},
+          "id": "0b42bc70-4275-5fc3-afa4-e5f4e487d1f4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q11",
+          "content_markdown": "একটি পরিবহনী ভেতর দিয়ে I তড়িৎ প্রভাবের জন্য পরিবহনীর নিকটে কোনো বিন্দুতে সৃষ্ট চৌম্বক ফ্লাক্স— [সো. নো. ২০১৫; সো. ২০১১-২০১২]",
+          "structured_data": {
+            "question_number": "11",
+            "subtype": "mcq (use one of: mcq, mathematical, board_cq, analytical)",
+            "stem": "একটি পরিবহনী ভেতর দিয়ে I তড়িৎ প্রভাবের জন্য পরিবহনীর নিকটে কোনো বিন্দুতে সৃষ্ট চৌম্বক ফ্লাক্স— [সো. নো. ২০১৫; সো. ২০১১-২০১২]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$B \\propto l^2$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$B \\propto I$",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "$B \\propto \\dfrac{1}{l}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$B \\propto \\dfrac{1}{I^2}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b) $B \\propto I$",
+            "solution_markdown": "পরিবহনীর ভেতর দিয়ে তড়িৎ প্রভাবের জন্য পরিবহনীর নিকটে কোনো বিন্দুতে সৃষ্ট চৌম্বক ফ্লাক্স পরিবহনীর তড়িৎ প্রভাবের সাথে সমান হয়। তাছাড়া, চৌম্বক ফ্লাক্স পরিবহনীর তড়িৎ প্রভাবের সাথে সমান হয়। তাছাড়া, চৌম্বক ফ্লাক্স পরিবহনীর তড়িৎ প্রভাবের সাথে সমান হয়।",
+            "tags_raw": "গোলাম হোসেন, আমির হোসেন",
+            "provenance": [
+              "গোলাম হোসেন",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "5da677b4-cd92-5d1b-a994-72ff0ba734d5"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 13,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 115.83,
+        "eval_count": 2614
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q20\n**Type:** mcq\n**Stem:** ক. 1 gauss  \nখ. 1 weber  \nগ. 1 weber-m  \nঘ. 1 Wb·m<sup>-1</sup>  \nঙ. 1 Wb·m<sup>-2</sup>  \n**Answer:** গ. 1 weber-m\n**Tags:** ICU Admission Test, 2015-16\n\n### Q21\n**Type:** mcq\n**Stem:** সুষম চৌম্বক ক্ষেত্রের দিকের সাথে সমকোণে গতিরূপী গভীর কোনো বিন্দু চার্জের বেলয়া কোনটি সত্য?\n**Options:** \n- ক. প্রযুক্ত চৌম্বক বল সর্বনিম্ন  \n- খ. চৌম্বক বল দ্বারা কৃত কাজ ধনাত্বক  \n- গ. চার্জের গতির দিক অপরিবর্তিত  \n- ঘ. চৌম্বক বল দ্বারা কৃত কাজ খণ্ডাত্বক  \n- ঙ. চৌম্বক বল দ্বারা কৃত কাজ শূন্য  \n**Answer:** ঘ. চৌম্বক বল দ্বারা কৃত কাজ খণ্ডাত্বক\n**Tags:** SUST Admission Test, 2017-18\n\n### Q22\n**Type:** mcq\n**Stem:** দুটি সমানচাল তারের মধ্যে একই মানের তড়িৎ প্রবাহিত হয় এবং তার দুটি প্রতি একদৈর্ঘ্য F বল দ্বারা একে অপরকে বিক্রিয়া করে। যদি প্রবাহিত তড়িৎ ছিম্পণ এবং তারধর্মের মধ্যে দূরত্বকে তিনগুণ করা হয় তবে প্রতি একদৈর্ঘ্য বলেন মান হবে-\n**Options:** \n- ক. 2F/3  \n- খ. 4F/3  \n- গ. 2F/9  \n- ঘ. 4F/9  \n**Answer:** ঘ. 4F/9\n**Tags:** DU Ad Test, 2018-19\n\n### Q23\n**Type:** mcq\n**Stem:** তড়িত্বাভী বৃত্তাকার কুবলীর কেন্দ্রে সৃষ্ট চৌম্বক ক্ষেত্র - [ছ. বো. 2019]\n**Options:** \n- ক. B = $\\frac{\\mu_0 i N}{2r}$  \n- খ. B = $\\frac{\\mu_0 N}{2r}$  \n- গ. B = $\\frac{\\mu_0 i}{2\\pi a}$  \n- ঘ. B = $\\frac{\\mu_0 iN}{2\\pi}$  \n**Answer:** ঘ. B = $\\frac{\\mu_0 iN}{2\\pi}$\n**Tags:** আমির হোসেন\n\n### Q24\n**Type:** mcq\n**Stem:** আপেক্ষিক ভোদ্যতা এবং চৌম্বক প্রবণতার মধ্যে সম্পর্ক-\n**Options:** \n- ক. μ<sub>r</sub> = 1 − χ<sub>m</sub>  \n- খ. μ<sub>r</sub> = 1 + χ<sub>m</sub>  \n- গ. μ<sub>r</sub> = 3(1 + χ<sub>m</sub>)  \n- ঘ. μ<sub>r</sub> = 1 − 2χ<sub>m</sub>  \n**Answer:** গ. μ<sub>r</sub> = 3(1 + χ<sub>m</sub>)\n**Tags:** আমির হোসেন\n\n### Q25\n**Type:** mcq\n**Stem:** চৌম্বক মেরিতে বিন্দু কোণ কত?  \n**Options:** \n- ক. 45°  \n- খ. 30°  \n- গ. 0°  \n- ঘ. 90°  \n**Answer:** ঘ. 90°\n**Tags:** আমির হোসেন\n\n### Q26\n**Type:** mcq\n**Stem:** 10 cm দীর্ঘ এবং 0.3 g ভরের একটি তার অনভূমিকভাবে আছে একঃ\n**Options:** \n- ক. কোনও উত্তর নেই  \n- খ. তার ওপরে চৌম্বক ফেলা হয়েছে  \n- গ. তার ওপরে চৌম্বক ফেলা হয়নি  \n- ঘ. তার ওপরে চৌম্বক ফেলা হয়েছে এবং তার মধ্যে একটি চৌম্বক ক্ষেত্র সৃষ্টি হয়েছে  \n**Answer:** ঘ. তার ওপরে চৌম্বক ফেলা হয়েছে এবং তার মধ্যে একটি চৌম্বক ক্ষেত্র সৃষ্টি হয়েছে\n**Tags:** আমির হোসেন\n\n### Q30\n**Type:** mcq\n**Stem:** গাউস সমান কত টেস্লা?\n**Options:** \n- a) $10^{-2}$\n- b) $10^{-3}$\n- c) $10^{-4}$\n- d) $10^{-6}$\n\n**Answer:** ঘ. $10^{-6}$\n**Tags:** ব.রো.বি. 2017–18; র.বো. 2016; য.বো. 2015\n\n### Q31\n**Type:** mcq\n**Stem:** নিচের কৌণটি লরেঞ্জ বলের রাশিমালা?\n**Options:** \n- a) $\\vec{F}= q\\overrightarrow{E}+q\\overrightarrow{V}\\times\\overrightarrow{B}$\n- b) $\\vec{F}= q\\overrightarrow{E}$\n- c) $\\vec{F}= q\\overrightarrow{V}\\times\\overrightarrow{B}$\n- d) $\\vec{F}= q V B \\sin{\\theta n}$\n\n**Answer:** ঘ. $\\vec{F}= q V B \\sin{\\theta n}$\n**Tags:** র.বো. 2017\n\n### Q32\n**Type:** mcq\n**Stem:** ছির চার্জের ওপর চৌম্বক বল-\n**Options:** \n- a) শূন্য\n- b) অত্যন্ত বেশি\n- c) অত্যন্ত কম\n- d) কৌণটিই নয়\n\n**Answer:** খ. অত্যন্ত বেশি\n**Tags:** জ.বি. 2015–2016\n\n### Q33\n**Type:** mcq\n**Stem:** চৌম্বকক্ষেত্রের দিকের সমান্তরালে গতিশীল কোনো আধানের ওপর চৌম্বক বলের মান-\n**Options:** \n- a) 1\n- b) 0\n- c) -1\n- d) 0.1\n\n**Answer:** ঘ. 0.1\n**Tags:** পোলাম হোসেন, শাহজাহান তপন\n\n### Q34\n**Type:** mcq\n**Stem:** একটি তারের মধ্যে 3 A বিদ্যুৎ প্রবাহিত হচ্ছে। তারটি থেকে 0.05m দূরে চৌম্বক প্রভাব কত? (ছয়টে : 2012–13)\n**Options:** \n- a) 0.12 Gauss\n- b) 0.24 Gauss\n- c) 0.36 Gauss\n- d) None\n\n**Answer:** ঘ. None\n**Tags:** শাহজাহান তপন\n\n### Q35\n**Type:** mcq\n**Stem:** εoμo এর একক নিচের কৌণটির এককের সমান?\n**Options:** \n- a) $(Velocity)^2$\n- b) Velocity\n- c) $\\frac{1}{Velocity}$\n- d) $\\frac{1}{(Velocity)^2}$\n\n**Answer:** ঘ. $\\frac{1}{(Velocity)^2}$\n**Tags:** গোলাম হোসেন, শাহজাহান তপন\n\n### Q36\n**Type:** mcq\n**Stem:** 200 π ব্যাসের বৃত্তাকার কুললীতে 10A বিদ্যুৎ প্রবাহ হলে, কেন্দ্রে 400µT চৌম্বক প্রভাব তৈরির জন্য কুললীর পাকের সংখ্যা কত হবে? (চ.বি. 2019–20)\n\n**Tags:** চ.বি. 2019–20\n\nগ. Velocity\n\nঘ. $\\frac{1}{(Velocity)^2}$\n\n[গোলাম হেসেন, শহজাহান তপন]\n\n36. $200\\pi$ ব্যাসের বৃত্তকার কুবলীতে 10A বিদ্যুৎ প্রবাহ হলে, কেন্দ্রে 400μT চৌম্বক প্রভাব তৈরির জন্য কুবলীর পাখের সংখ্যা কত হবে? (চ.বি. ২০১৯–২০২০)\n\nক. 4  \nখ. 40   \nগ. 400    \nঘ. কোনোটিই নয়  \n\n[শহজাহান তপন] \n\n37. তড়িৎপ্রবাহের সাথে চৌম্বকক্ষেত্রের সম্পর্ক নির্ণয় করে— (চ.বি. ২০১৯–২০২০)\n\nক. অ্যাস্পিয়ারের সূত্র \nখ. পরিবাহিতার সূত্র \nগ. ফেরোচুষ্ক \nঘ. কোনোটিই নয়   \n\n[শহজাহান তপন] \n\n38. পূর্ব-পশ্চিম বরাবর একটি বৈদ্যুতিক তার বিদ্যুৎ বহন করে এবং 10−4T ভূ-চৌম্বকক্ষেত্রের জন্য প্রতি মিটার তারের ওপর 10−3N কল প্রযুক্ত হয়। তারটি কি পরিমাণ বিদ্যুৎ বহন করে? (মেরিল একাডেমি: ২০১৬–২০১৭)\n\nক. 5 A  \nখ. 15A  \nগ. 10 A  \nঘ. 20 A  \n\n[শহজাহান তপন] \n\n39. 10 NC−1 বৈদ্যুতিক ও 5T চৌম্বক ক্ষেত্রে গতিশীল একটি আধান বাহকের তাঢ়নবেগ কোনটি? (চ.বো.'17)\n\nক. 0.5 ms−1  \nখ. 2.0 ms−1  \nগ. 5.0 ms−1  \nঘ. 10.0 ms−1  \n\n[শামসুর রহমান] \n\n80. পরিবর্তিত তড়িৎ ও চৌম্বক ক্ষেত্রের অনুপাত হলো— (চ.বো.’17)\n\nক. মাধ্যমের তড়িৎ প্রবেশ্যতা  \nখ. মাধ্যমের চৌম্বক প্রবেশ্যতা  \nগ. আধান বাহকের তাঢ়নবেগ  \nঘ. মাধ্যমে আলোর বেগ  \n\n[শামসুর রহমান] \n\n| 20.এ | 21.এ | 22.এ | 23.ক | 24.খ | 25.ঘ |\n| --- | --- | --- | --- | --- | --- |\n| 26.খ | 27.ঘ | 28.ক | 29.য | 30.গ | 31.ক |\n| 32.ক | 33.খ | 34.ক | 35.ঘ | 36.ঘ | 37.ক |\n| 38.গ | 39.খ | 40.ঘ |\n\nChase your dream to be a doctor...",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q20",
+          "content_markdown": "",
+          "structured_data": {
+            "question_number": "20",
+            "subtype": "mcq",
+            "stem": "",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "1 gauss",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "1 weber",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "1 weber-m",
+                "is_correct": true
+              },
+              {
+                "key_original": "ঘ",
+                "text": "1 Wb·m<sup>-1</sup>",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঙ",
+                "text": "1 Wb·m<sup>-2</sup>",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "গ. 1 weber-m",
+            "solution_markdown": null,
+            "tags_raw": "ICU Admission Test, 2015-16",
+            "provenance": [
+              "ICU Admission Test",
+              "2015-16"
+            ]
+          },
+          "id": "57a17ade-95ed-5264-8d71-fc29b2ce7792"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q21",
+          "content_markdown": "সুষম চৌম্বক ক্ষেত্রের দিকের সাথে সমকোণে গতিরূপী গভীর কোনো বিন্দু চার্জের বেলয়া কোনটি সত্য?",
+          "structured_data": {
+            "question_number": "21",
+            "subtype": "mcq",
+            "stem": "সুষম চৌম্বক ক্ষেত্রের দিকের সাথে সমকোণে গতিরূপী গভীর কোনো বিন্দু চার্জের বেলয়া কোনটি সত্য?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "প্রযুক্ত চৌম্বক বল সর্বনিম্ন",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "চৌম্বক বল দ্বারা কৃত কাজ ধনাত্বক",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "চার্জের গতির দিক অপরিবর্তিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "চৌম্বক বল দ্বারা কৃত কাজ খণ্ডাত্বক",
+                "is_correct": true
+              },
+              {
+                "key_original": "ঙ",
+                "text": "চৌম্বক বল দ্বারা কৃত কাজ শূন্য",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "ঘ. চৌম্বক বল দ্বারা কৃত কাজ খণ্ডাত্বক",
+            "solution_markdown": null,
+            "tags_raw": "SUST Admission Test, 2017-18",
+            "provenance": [
+              "SUST Admission Test",
+              "2017-18"
+            ]
+          },
+          "id": "9618bbcc-4e54-5df3-9a20-880d9cc51502"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q22",
+          "content_markdown": "দুটি সমানচাল তারের মধ্যে একই মানের তড়িৎ প্রবাহিত হয় এবং তার দুটি প্রতি একদৈর্ঘ্য F বল দ্বারা একে অপরকে বিক্রিয়া করে। যদি প্রবাহিত তড়িৎ ছিম্পণ এবং তারধর্মের মধ্যে দূরত্বকে তিনগুণ করা হয় তবে প্রতি একদৈর্ঘ্য বলেন মান হবে-",
+          "structured_data": {
+            "question_number": "22",
+            "subtype": "mcq",
+            "stem": "দুটি সমানচাল তারের মধ্যে একই মানের তড়িৎ প্রবাহিত হয় এবং তার দুটি প্রতি একদৈর্ঘ্য F বল দ্বারা একে অপরকে বিক্রিয়া করে। যদি প্রবাহিত তড়িৎ ছিম্পণ এবং তারধর্মের মধ্যে দূরত্বকে তিনগুণ করা হয় তবে প্রতি একদৈর্ঘ্য বলেন মান হবে-",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "2F/3",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "4F/3",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "2F/9",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "4F/9",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "ঘ. 4F/9",
+            "solution_markdown": null,
+            "tags_raw": "DU Ad Test, 2018-19",
+            "provenance": [
+              "DU Ad Test",
+              "2018-19"
+            ]
+          },
+          "id": "e1685120-8e8d-5734-823f-a9a0ae44aec9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q23",
+          "content_markdown": "তড়িত্বাভী বৃত্তাকার কুবলীর কেন্দ্রে সৃষ্ট চৌম্বক ক্ষেত্র - [ছ. বো. 2019]",
+          "structured_data": {
+            "question_number": "23",
+            "subtype": "mcq",
+            "stem": "তড়িত্বাভী বৃত্তাকার কুবলীর কেন্দ্রে সৃষ্ট চৌম্বক ক্ষেত্র - [ছ. বো. 2019]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "B = $\\frac{\\mu_0 i N}{2r}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "B = $\\frac{\\mu_0 N}{2r}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "B = $\\frac{\\mu_0 i}{2\\pi a}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "B = $\\frac{\\mu_0 iN}{2\\pi}$",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "ঘ. B = $\\frac{\\mu_0 iN}{2\\pi}$",
+            "solution_markdown": null,
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "f0f1b896-c678-57ee-9956-209567d87ac8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q24",
+          "content_markdown": "আপেক্ষিক ভোদ্যতা এবং চৌম্বক প্রবণতার মধ্যে সম্পর্ক-",
+          "structured_data": {
+            "question_number": "24",
+            "subtype": "mcq",
+            "stem": "আপেক্ষিক ভোদ্যতা এবং চৌম্বক প্রবণতার মধ্যে সম্পর্ক-",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "μ<sub>r</sub> = 1 − χ<sub>m</sub>",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "μ<sub>r</sub> = 1 + χ<sub>m</sub>",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "μ<sub>r</sub> = 3(1 + χ<sub>m</sub>)",
+                "is_correct": true
+              },
+              {
+                "key_original": "ঘ",
+                "text": "μ<sub>r</sub> = 1 − 2χ<sub>m</sub>",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "গ. μ<sub>r</sub> = 3(1 + χ<sub>m</sub>)",
+            "solution_markdown": null,
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "a551c42c-7eb8-5f3e-bf54-21b534deb9d4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q25",
+          "content_markdown": "চৌম্বক মেরিতে বিন্দু কোণ কত?",
+          "structured_data": {
+            "question_number": "25",
+            "subtype": "mcq",
+            "stem": "চৌম্বক মেরিতে বিন্দু কোণ কত?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "45°",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "30°",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "0°",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "90°",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "ঘ. 90°",
+            "solution_markdown": null,
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "95993b4b-a83c-50bf-9017-0cc88c3b2ec8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q26",
+          "content_markdown": "10 cm দীর্ঘ এবং 0.3 g ভরের একটি তার অনভূমিকভাবে আছে একঃ",
+          "structured_data": {
+            "question_number": "26",
+            "subtype": "mcq",
+            "stem": "10 cm দীর্ঘ এবং 0.3 g ভরের একটি তার অনভূমিকভাবে আছে একঃ",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "কোনও উত্তর নেই",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "তার ওপরে চৌম্বক ফেলা হয়েছে",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "তার ওপরে চৌম্বক ফেলা হয়নি",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "তার ওপরে চৌম্বক ফেলা হয়েছে এবং তার মধ্যে একটি চৌম্বক ক্ষেত্র সৃষ্টি হয়েছে",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "ঘ. তার ওপরে চৌম্বক ফেলা হয়েছে এবং তার মধ্যে একটি চৌম্বক ক্ষেত্র সৃষ্টি হয়েছে",
+            "solution_markdown": null,
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "2b7b43f8-997d-5050-b42a-4d0a88c4098f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q30",
+          "content_markdown": "গাউস সমান কত টেস্লা?",
+          "structured_data": {
+            "question_number": "30",
+            "subtype": "mcq",
+            "stem": "গাউস সমান কত টেস্লা?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$10^{-2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$10^{-3}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$10^{-4}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$10^{-6}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "ঘ. $10^{-6}$",
+            "solution_markdown": null,
+            "tags_raw": "ব.রো.বি. 2017–18; র.বো. 2016; য.বো. 2015",
+            "provenance": [
+              "ব.রো.বি. 2017–18",
+              "র.বো. 2016",
+              "য.বো. 2015"
+            ]
+          },
+          "id": "006fd1df-0181-5e47-b26f-d43e572acf94"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q31",
+          "content_markdown": "নিচের কৌণটি লরেঞ্জ বলের রাশিমালা?",
+          "structured_data": {
+            "question_number": "31",
+            "subtype": "mcq",
+            "stem": "নিচের কৌণটি লরেঞ্জ বলের রাশিমালা?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\vec{F}= q\\overrightarrow{E}+q\\overrightarrow{V}\\times\\overrightarrow{B}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\vec{F}= q\\overrightarrow{E}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\vec{F}= q\\overrightarrow{V}\\times\\overrightarrow{B}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\vec{F}= q V B \\sin{\\theta n}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "ঘ. $\\vec{F}= q V B \\sin{\\theta n}$",
+            "solution_markdown": null,
+            "tags_raw": "র.বো. 2017",
+            "provenance": [
+              "র.বো. 2017"
+            ]
+          },
+          "id": "dbfb870d-bd49-5516-a684-874ca835262a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q32",
+          "content_markdown": "ছির চার্জের ওপর চৌম্বক বল-",
+          "structured_data": {
+            "question_number": "32",
+            "subtype": "mcq",
+            "stem": "ছির চার্জের ওপর চৌম্বক বল-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "শূন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অত্যন্ত বেশি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অত্যন্ত কম",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কৌণটিই নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "খ. অত্যন্ত বেশি",
+            "solution_markdown": null,
+            "tags_raw": "জ.বি. 2015–2016",
+            "provenance": [
+              "জ.বি. 2015–2016"
+            ]
+          },
+          "id": "30f33b99-6dfd-58a6-9e85-4bea8ab087b3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q33",
+          "content_markdown": "চৌম্বকক্ষেত্রের দিকের সমান্তরালে গতিশীল কোনো আধানের ওপর চৌম্বক বলের মান-",
+          "structured_data": {
+            "question_number": "33",
+            "subtype": "mcq",
+            "stem": "চৌম্বকক্ষেত্রের দিকের সমান্তরালে গতিশীল কোনো আধানের ওপর চৌম্বক বলের মান-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "0",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "-1",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "0.1",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "ঘ. 0.1",
+            "solution_markdown": null,
+            "tags_raw": "পোলাম হোসেন, শাহজাহান তপন",
+            "provenance": [
+              "পোলাম হোসেন",
+              "শাহজাহান তপন"
+            ]
+          },
+          "id": "88877ef8-31d2-57c0-b3b0-2dda5885ab8a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q34",
+          "content_markdown": "একটি তারের মধ্যে 3 A বিদ্যুৎ প্রবাহিত হচ্ছে। তারটি থেকে 0.05m দূরে চৌম্বক প্রভাব কত? (ছয়টে : 2012–13)",
+          "structured_data": {
+            "question_number": "34",
+            "subtype": "mcq",
+            "stem": "একটি তারের মধ্যে 3 A বিদ্যুৎ প্রবাহিত হচ্ছে। তারটি থেকে 0.05m দূরে চৌম্বক প্রভাব কত? (ছয়টে : 2012–13)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "0.12 Gauss",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "0.24 Gauss",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "0.36 Gauss",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "None",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "ঘ. None",
+            "solution_markdown": null,
+            "tags_raw": "শাহজাহান তপন",
+            "provenance": [
+              "শাহজাহান তপন"
+            ]
+          },
+          "id": "8772f002-3ba5-5246-abc8-30776482bf58"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q35",
+          "content_markdown": "εoμo এর একক নিচের কৌণটির এককের সমান?",
+          "structured_data": {
+            "question_number": "35",
+            "subtype": "mcq",
+            "stem": "εoμo এর একক নিচের কৌণটির এককের সমান?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$(Velocity)^2$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Velocity",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{1}{Velocity}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\frac{1}{(Velocity)^2}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "ঘ. $\\frac{1}{(Velocity)^2}$",
+            "solution_markdown": null,
+            "tags_raw": "গোলাম হোসেন, শাহজাহান তপন",
+            "provenance": [
+              "গোলাম হোসেন",
+              "শাহজাহান তপন"
+            ]
+          },
+          "id": "a84b71a0-e9d5-5e59-9d02-300807597b1b"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q36",
+          "content_markdown": "200 π ব্যাসের বৃত্তাকার কুললীতে 10A বিদ্যুৎ প্রবাহ হলে, কেন্দ্রে 400µT চৌম্বক প্রভাব তৈরির জন্য কুললীর পাকের সংখ্যা কত হবে? (চ.বি. 2019–20)",
+          "structured_data": {
+            "question_number": "36",
+            "subtype": "mcq",
+            "stem": "200 π ব্যাসের বৃত্তাকার কুললীতে 10A বিদ্যুৎ প্রবাহ হলে, কেন্দ্রে 400µT চৌম্বক প্রভাব তৈরির জন্য কুললীর পাকের সংখ্যা কত হবে? (চ.বি. 2019–20)",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "চ.বি. 2019–20  গ. Velocity  ঘ. $\\frac{1}{(Velocity)^2}$  [গোলাম হেসেন, শহজাহান তপন]  36. $200\\pi$ ব্যাসের বৃত্তকার কুবলীতে 10A বিদ্যুৎ প্রবাহ হলে, কেন্দ্রে 400μT চৌম্বক প্রভাব তৈরির জন্য কুবলীর পাখের সংখ্যা কত হবে? (চ.বি. ২০১৯–২০২০)  ক. 4   খ. 40    গ. 400     ঘ. কোনোটিই নয়    [শহজাহান তপন]   37. তড়িৎপ্রবাহের সাথে চৌম্বকক্ষেত্রের সম্পর্ক নির্ণয় করে— (চ.বি. ২০১৯–২০২০)  ক. অ্যাস্পিয়ারের সূত্র  খ. পরিবাহিতার সূত্র  গ. ফেরোচুষ্ক  ঘ. কোনোটিই নয়     [শহজাহান তপন]   38. পূর্ব-পশ্চিম বরাবর একটি বৈদ্যুতিক তার বিদ্যুৎ বহন করে এবং 10−4T ভূ-চৌম্বকক্ষেত্রের জন্য প্রতি মিটার তারের ওপর 10−3N কল প্রযুক্ত হয়। তারটি কি পরিমাণ বিদ্যুৎ বহন করে? (মেরিল একাডেমি: ২০১৬–২০১৭)  ক. 5 A   খ. 15A   গ. 10 A   ঘ. 20 A    [শহজাহান তপন]   39. 10 NC−1 বৈদ্যুতিক ও 5T চৌম্বক ক্ষেত্রে গতিশীল একটি আধান বাহকের তাঢ়নবেগ কোনটি? (চ.বো.'17)  ক. 0.5 ms−1   খ. 2.0 ms−1   গ. 5.0 ms−1   ঘ. 10.0 ms−1    [শামসুর রহমান]   80. পরিবর্তিত তড়িৎ ও চৌম্বক ক্ষেত্রের অনুপাত হলো— (চ.বো.’17)  ক. মাধ্যমের তড়িৎ প্রবেশ্যতা   খ. মাধ্যমের চৌম্বক প্রবেশ্যতা   গ. আধান বাহকের তাঢ়নবেগ   ঘ. মাধ্যমে আলোর বেগ    [শামসুর রহমান]   | 20.এ | 21.এ | 22.এ | 23.ক | 24.খ | 25.ঘ | | --- | --- | --- | --- | --- | --- | | 26.খ | 27.ঘ | 28.ক | 29.য | 30.গ | 31.ক | | 32.ক | 33.খ | 34.ক | 35.ঘ | 36.ঘ | 37.ক | | 38.গ | 39.খ | 40.ঘ |  Chase your dream to be a doctor...",
+            "provenance": [
+              "চ.বি. 2019–20  গ. Velocity  ঘ. $\\frac{1}{(Velocity)^2}$  [গোলাম হেসেন",
+              "শহজাহান তপন]  36. $200\\pi$ ব্যাসের বৃত্তকার কুবলীতে 10A বিদ্যুৎ প্রবাহ হলে",
+              "কেন্দ্রে 400μT চৌম্বক প্রভাব তৈরির জন্য কুবলীর পাখের সংখ্যা কত হবে? (চ.বি. ২০১৯–২০২০)  ক. 4   খ. 40    গ. 400     ঘ. কোনোটিই নয়    [শহজাহান তপন]   37. তড়িৎপ্রবাহের সাথে চৌম্বকক্ষেত্রের সম্পর্ক নির্ণয় করে— (চ.বি. ২০১৯–২০২০)  ক. অ্যাস্পিয়ারের সূত্র  খ. পরিবাহিতার সূত্র  গ. ফেরোচুষ্ক  ঘ. কোনোটিই নয়     [শহজাহান তপন]   38. পূর্ব-পশ্চিম বরাবর একটি বৈদ্যুতিক তার বিদ্যুৎ বহন করে এবং 10−4T ভূ-চৌম্বকক্ষেত্রের জন্য প্রতি মিটার তারের ওপর 10−3N কল প্রযুক্ত হয়। তারটি কি পরিমাণ বিদ্যুৎ বহন করে? (মেরিল একাডেমি: ২০১৬–২০১৭)  ক. 5 A   খ. 15A   গ. 10 A   ঘ. 20 A    [শহজাহান তপন]   39. 10 NC−1 বৈদ্যুতিক ও 5T চৌম্বক ক্ষেত্রে গতিশীল একটি আধান বাহকের তাঢ়নবেগ কোনটি? (চ.বো.'17)  ক. 0.5 ms−1   খ. 2.0 ms−1   গ. 5.0 ms−1   ঘ. 10.0 ms−1    [শামসুর রহমান]   80. পরিবর্তিত তড়িৎ ও চৌম্বক ক্ষেত্রের অনুপাত হলো— (চ.বো.’17)  ক. মাধ্যমের তড়িৎ প্রবেশ্যতা   খ. মাধ্যমের চৌম্বক প্রবেশ্যতা   গ. আধান বাহকের তাঢ়নবেগ   ঘ. মাধ্যমে আলোর বেগ    [শামসুর রহমান]   | 20.এ | 21.এ | 22.এ | 23.ক | 24.খ | 25.ঘ | | --- | --- | --- | --- | --- | --- | | 26.খ | 27.ঘ | 28.ক | 29.য | 30.গ | 31.ক | | 32.ক | 33.খ | 34.ক | 35.ঘ | 36.ঘ | 37.ক | | 38.গ | 39.খ | 40.ঘ |  Chase your dream to be a doctor..."
+            ]
+          },
+          "id": "9a1f3ffc-6993-5b9e-9c9f-3a49f4f47a1c"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 14,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 229.75,
+        "eval_count": 4033
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থ ২য় পত্র\n\n#### চড়িয়া ও চূড়ান্ত\n\n81. $1\\mathrm{~m}$ ব্যাসার্ধের বৃত্তাকার পরিবাহকের মধ্য দিয়ে $2A$ তড়িৎ প্রবাহ চললে বৃত্তের কেন্দ্রে চৌক ক্ষেত্রের মান কত? [চ. বি. '15; ঢ. ছ. '17]\n   - a) $\\mu_{0}$\n   - b) $\\frac{\\mu_{0}}{2}$\n   - c) $\\pi$\n   - d) $\\frac{\\mu_{0}}{2\\pi}$\n\n82. তড়িৎফেট্রের দিক নির্ণয়ে ব্যবহৃত হয়— [দি. বো.'17]\n   - a) বিন্দু চার্জ\n   - b) পরখ চার্জ\n   - c) বদ্ধ চার্জ\n   - d) মুষ্ঠাচার্জ\n\n83. একটি ইলেকট্রন r ব্যাসার্ধের বৃত্তাকার কক্ষপথে প্রতি সেকেন্ড n সংখ্যক আবর্তন সম্পন্ন করে। কেন্দ্রে সৃষ্ট চৌক ক্ষেত্রের মান কত? [ইস. বি. '18-'20]\n   - a) Zero\n   - b) $\\frac{\\mu_0ne}{2\\pi r}$\n   - c) $\\frac{\\mu_0n^2e}{2r}$\n   - d) $\\frac{\\mu_0n^2e}{4\\pi vr}$\n\n88. e মানের একটি চার্জ, r ব্যাসার্ধের একটি বৃত্তাকার পথে v ফ্রগতে ঘুরছে। বৃত্তের কেন্দ্রে চৌকক্ষেত্রের মান হবে— [দি. বি. 2018–'19]\n   - a) $\\mu_0ev/(4\\pi r^2)$\n   - b) $\\mu_0ev/(2\\pi r)$\n   - c) $\\mu_0ev/(\\pi r^2)$\n   - d) $\\mu_0ev/(4\\pi rv)$\n\n85. P কেন্দ্র বিশিষ্ট R ব্যাসার্ধের একপাখি তার কুক্তীলী মধ্য দিয়ে I বিদ্যুৎ প্রবাহিত হচ্ছে। যদি কুক্তীলী ব্যাসার্ধে অর্ধেক ও প্রবাহমাত্রা বিশৃঙ্খল করা হয়, তবে কেন্দ্রে চৌকক্ষেত্রের মান কত গুণ হবে? [ঈ. বি. '18-'19]\n   - a) 2\n   - b) 4\n   - c) 8\n   - d) অপরিবর্তিত থাকবে\n\n86. চৌক বলরেখার ধর্মবিলির কোলের নিচের যেটি সত্য নয়—[দিকে \"১১-১২]\n   - a) একটি কাল্লানিক, বিচ্ছিন্ন মুক্ত উপরে মেক বলরেখা বাবার পরিবর্তন করে\n   - b) চৌক বলরেখা বন্ধ করেখানা\n   - c) এরা পরস্পরের উপর আড়াআড়িভাবে পার্শ্চাপ প্রয়োগ করে\n\n87. দুইটি চৌক মেরুর মধ্যবর্তী দূরত্ব তিন গুণ বৃদ্ধি করা হলে বল কৈরীপ হবে? [মেসিডিকে '৯৮-'৯৭; '৮৯-'৯০]\n   - a) বল তিন গুণ বৃদ্ধি পাবে\n   - b) বল নয় গুণ বৃদ্ধি পাবে\n   - c) বল প্রথমিক মানের এক-তৃতীয়াংশ হবে\n   - d) বল প্রথমিক মানের এক-নবমাংশ হবে\n\n88. কোনো বিক্ষেপ চুক্তকমান যারের চুক্ত শালাকার কেন্দ্র হতে 40cm দূরে একটি মুদ্রা চুক্তকে টাঙ্গজেট A বা প্রাথমিক অবস্থানে ছাপন করলে 45° বিশেষ দেয় যদি চুক্তক মোমেন্ট 5760 unit হয় তবে ঐ ছানে চু-চুক্তক ক্ষেত্রে আন্তঃক্লাসিক প্রবল্য হবে— [মেসিডিকে '৯৮-'৯৬]\n   - a) 0.22 ওয়েরেস্টেড\n   - b) 0.18 ওয়েরেস্টেড\n   - c) 0.27 ওয়েরেস্টেড\n   - d) 0.37 ওয়েরেস্টেড\n\n89. ওয়েবার (Wb) নিচের কোনটির একক? [দি. বি. 2017]\n   - a) চৌক ক্ষেত্র\n   - b) চৌক ফ্লাক্স\n   - c) চৌক প্রবেশ্যাতা\n   - d) চৌক আর্মক\n\n90. একটি চুক্তকফেট্রে B এর একটি চার্জ V বেগে চালু চাজটির ওপর চুক্তকক্ষেত্রের বল কোন ক্ষেত্রে শূন্য হবে? [ঈ. বি. 2017-'18]\n   - a) V ও B এর মধ্যবর্তী কোণ 90° হলে\n   - b) V ও B এর মধ্যে কোণ শূন্য বা 180° হলে\n   - c) V ও B এর মধ্যবর্তী কোণ শূন্য বা 180° ছাড়া অন্য যেকোনো মান হলে\n   - d) কখনই শূন্য হবে না\n\n### Q81\n**Type:** mcq\n**Stem:** $1\\mathrm{~m}$ ব্যাসার্ধের বৃত্তাকার পরিবাহকের মধ্য দিয়ে $2A$ তড়িৎ প্রবাহ চললে বৃত্তের কেন্দ্রে চৌক ক্ষেত্রের মান কত?\n**Options:**\n- a) $\\mu_{0}$\n- b) $\\frac{\\mu_{0}}{2}$\n- c) $\\pi$\n- d) $\\frac{\\mu_{0}}{2\\pi}$\n**Answer:** b)\n**Solution:** The magnetic field at the center of a circular current loop is given by $\\text{B}_{\\text{center}} = \\frac{\\mu_0 I}{2R}$. Here, $I = 2A$ and $R = 1m$, so substituting these values we get:\n\n$$\n\\text{B}_{\\text{center}} = \\frac{\\mu_0 \\cdot 2A}{2 \\times 1m} = \\frac{\\mu_0}{1} = \\mu_0 / 2\n$$\n\n### Q82\n**Type:** mcq\n**Stem:** তড়িৎফেট্রের দিক নির্ণয়ে ব্যবহৃত হয়—\n**Options:**\n- a) বিন্দু চার্জ\n- b) পরখ চার্জ\n- c) বদ্ধ চার্জ\n- d) মুষ্ঠাচার্জ\n**Answer:** b)\n\n### Q83\n**Type:** mcq\n**Stem:** একটি ইলেকট্রন r ব্যাসার্ধের বৃত্তাকার কক্ষপথে প্রতি সেকেন্ড n সংখ্যক আবর্তন সম্পন্ন করে। কেন্দ্রে সৃষ্ট চৌক ক্ষেত্রের মান কত?\n\n### Q88\n**Type:** mcq\n**Stem:** e মানের একটি চার্জ, r ব্যাসার্ধের একটি বৃত্তাকার পথে v ফ্রগতে ঘুরছে। বৃত্তের কেন্দ্রে চৌকক্ষেত্রের মান হবে—\n\n### Q85\n**Type:** mcq\n**Stem:** P কেন্দ্র বিশিষ্ট R ব্যাসার্ধের একপাখি তার কুক্তীলী মধ্য দিয়ে I বিদ্যুৎ প্রবাহিত হচ্ছে। যদি কুক্তীলী ব্যাসার্ধে অর্ধেক ও প্রবাহমাত্রা বিশৃঙ্খল করা হয়, তবে কেন্দ্রে চৌকক্ষেত্রের মান কত গুণ হবে?\n\n### Q86\n**Type:** mcq\n**Stem:** চৌক বলরেখার ধর্মবিলির কোলের নিচের যেটি সত্য নয়—\n\n### Q87\n**Type:** mcq\n**Stem:** দুইটি চৌক মেরুর মধ্যবর্তী দূরত্ব তিন গুণ বৃদ্ধি করা হলে বল কৈরীপ হবে?\n\n### Q88\n**Type:** mcq\n**Stem:** e মানের একটি চার্জ, r ব্যাসার্ধের একটি বৃত্তাকার পথে v ফ্রগতে ঘুরছে। বৃত্তের কেন্দ্রে চৌকক্ষেত্রের মান হবে—\n\n### Q85\n**Type:** mcq\n**Stem:** P কেন্দ্র বিশিষ্ট R ব্যাসার্ধের একপাখি তার কুক্তীলী মধ্য দিয়ে I বিদ্যুৎ প্রবাহিত হচ্ছে। যদি কুক্তীলী ব্যাসার্ধে অর্ধেক ও প্রবাহমাত্রা বিশৃঙ্খল করা হয়, তবে কেন্দ্রে চৌকক্ষেত্রের মান কত গুণ হবে?\n\n### Q86\n**Type:** mcq\n**Stem:** চৌক বলরেখার ধর্মবিলির কোলের নিচের যেটি সত্য নয়—\n\n### Q87\n**Type:** mcq\n**Stem:** দুইটি চৌক মেরুর মধ্যবর্তী দূরত্ব তিন গুণ বৃদ্ধি করা হলে বল কৈরীপ হবে?\n\n### Q88\n**Type:** mcq\n**Stem:** e মানের একটি চার্জ, r ব্যাসার্ধের একটি বৃত্তাকার পথে v ফ্রগতে ঘুরছে। বৃত্তের কেন্দ্রে চৌকক্ষেত্রের মান হবে—\n\n### Q85\n**Type:** mcq\n**Stem:** P কেন্দ্র বিশিষ্ট R ব্যাসার্ধের একপাখি তার কুক্তীলী মধ্য দিয়ে I বিদ্যুৎ প্রবাহিত হচ্ছে। যদি কুক্তীলী ব্যাসার্ধে অর্ধেক ও প্রবাহমাত্রা বিশৃঙ্খল করা হয়, তবে কেন্দ্রে চৌকক্ষেত্রের মান কত গুণ হবে?",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "চড়িয়া ও চূড়ান্ত",
+          "content_markdown": "81. $1\\mathrm{~m}$ ব্যাসার্ধের বৃত্তাকার পরিবাহকের মধ্য দিয়ে $2A$ তড়িৎ প্রবাহ চললে বৃত্তের কেন্দ্রে চৌক ক্ষেত্রের মান কত? [চ. বি. '15; ঢ. ছ. '17]\n   - a) $\\mu_{0}$\n   - b) $\\frac{\\mu_{0}}{2}$\n   - c) $\\pi$\n   - d) $\\frac{\\mu_{0}}{2\\pi}$",
+          "structured_data": {},
+          "id": "426d7a29-1249-5d13-8cb4-f334cb33eb18"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "চড়িয়া ও চূড়ান্ত",
+          "content_markdown": "82. তড়িৎফেট্রের দিক নির্ণয়ে ব্যবহৃত হয়— [দি. বো.'17]\n   - a) বিন্দু চার্জ\n   - b) পরখ চার্জ\n   - c) বদ্ধ চার্জ\n   - d) মুষ্ঠাচার্জ",
+          "structured_data": {},
+          "id": "bb7ce29e-49db-5a8a-88c4-20d82e4a7143"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "চড়িয়া ও চূড়ান্ত",
+          "content_markdown": "83. একটি ইলেকট্রন r ব্যাসার্ধের বৃত্তাকার কক্ষপথে প্রতি সেকেন্ড n সংখ্যক আবর্তন সম্পন্ন করে। কেন্দ্রে সৃষ্ট চৌক ক্ষেত্রের মান কত? [ইস. বি. '18-'20]\n   - a) Zero\n   - b) $\\frac{\\mu_0ne}{2\\pi r}$\n   - c) $\\frac{\\mu_0n^2e}{2r}$\n   - d) $\\frac{\\mu_0n^2e}{4\\pi vr}$",
+          "structured_data": {},
+          "id": "e10b45bd-3c61-5d95-9450-f78cef3d9904"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "চড়িয়া ও চূড়ান্ত",
+          "content_markdown": "88. e মানের একটি চার্জ, r ব্যাসার্ধের একটি বৃত্তাকার পথে v ফ্রগতে ঘুরছে। বৃত্তের কেন্দ্রে চৌকক্ষেত্রের মান হবে— [দি. বি. 2018–'19]\n   - a) $\\mu_0ev/(4\\pi r^2)$\n   - b) $\\mu_0ev/(2\\pi r)$\n   - c) $\\mu_0ev/(\\pi r^2)$\n   - d) $\\mu_0ev/(4\\pi rv)$",
+          "structured_data": {},
+          "id": "a287c5db-9996-5f06-996d-d4880be41e73"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "চড়িয়া ও চূড়ান্ত",
+          "content_markdown": "85. P কেন্দ্র বিশিষ্ট R ব্যাসার্ধের একপাখি তার কুক্তীলী মধ্য দিয়ে I বিদ্যুৎ প্রবাহিত হচ্ছে। যদি কুক্তীলী ব্যাসার্ধে অর্ধেক ও প্রবাহমাত্রা বিশৃঙ্খল করা হয়, তবে কেন্দ্রে চৌকক্ষেত্রের মান কত গুণ হবে? [ঈ. বি. '18-'19]\n   - a) 2\n   - b) 4\n   - c) 8\n   - d) অপরিবর্তিত থাকবে",
+          "structured_data": {},
+          "id": "335138a7-3bee-5066-8d08-e1aea8764c73"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "চড়িয়া ও চূড়ান্ত",
+          "content_markdown": "86. চৌক বলরেখার ধর্মবিলির কোলের নিচের যেটি সত্য নয়—[দিকে \"১১-১২]\n   - a) একটি কাল্লানিক, বিচ্ছিন্ন মুক্ত উপরে মেক বলরেখা বাবার পরিবর্তন করে\n   - b) চৌক বলরেখা বন্ধ করেখানা\n   - c) এরা পরস্পরের উপর আড়াআড়িভাবে পার্শ্চাপ প্রয়োগ করে",
+          "structured_data": {},
+          "id": "17af0755-7928-5da3-97ad-520c6528b713"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "চড়িয়া ও চূড়ান্ত",
+          "content_markdown": "87. দুইটি চৌক মেরুর মধ্যবর্তী দূরত্ব তিন গুণ বৃদ্ধি করা হলে বল কৈরীপ হবে? [মেসিডিকে '৯৮-'৯৭; '৮৯-'৯০]\n   - a) বল তিন গুণ বৃদ্ধি পাবে\n   - b) বল নয় গুণ বৃদ্ধি পাবে\n   - c) বল প্রথমিক মানের এক-তৃতীয়াংশ হবে\n   - d) বল প্রথমিক মানের এক-নবমাংশ হবে",
+          "structured_data": {},
+          "id": "58b863f3-bd47-5b75-a05c-684c95716782"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "চড়িয়া ও চূড়ান্ত",
+          "content_markdown": "88. কোনো বিক্ষেপ চুক্তকমান যারের চুক্ত শালাকার কেন্দ্র হতে 40cm দূরে একটি মুদ্রা চুক্তকে টাঙ্গজেট A বা প্রাথমিক অবস্থানে ছাপন করলে 45° বিশেষ দেয় যদি চুক্তক মোমেন্ট 5760 unit হয় তবে ঐ ছানে চু-চুক্তক ক্ষেত্রে আন্তঃক্লাসিক প্রবল্য হবে— [মেসিডিকে '৯৮-'৯৬]\n   - a) 0.22 ওয়েরেস্টেড\n   - b) 0.18 ওয়েরেস্টেড\n   - c) 0.27 ওয়েরেস্টেড\n   - d) 0.37 ওয়েরেস্টেড",
+          "structured_data": {},
+          "id": "161fecf8-8cf7-50eb-bfb2-bed6eb7fdc64"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "চড়িয়া ও চূড়ান্ত",
+          "content_markdown": "89. ওয়েবার (Wb) নিচের কোনটির একক? [দি. বি. 2017]\n   - a) চৌক ক্ষেত্র\n   - b) চৌক ফ্লাক্স\n   - c) চৌক প্রবেশ্যাতা\n   - d) চৌক আর্মক",
+          "structured_data": {},
+          "id": "f689742c-78a7-503e-8b59-0af6065419d7"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "চড়িয়া ও চূড়ান্ত",
+          "content_markdown": "90. একটি চুক্তকফেট্রে B এর একটি চার্জ V বেগে চালু চাজটির ওপর চুক্তকক্ষেত্রের বল কোন ক্ষেত্রে শূন্য হবে? [ঈ. বি. 2017-'18]\n   - a) V ও B এর মধ্যবর্তী কোণ 90° হলে\n   - b) V ও B এর মধ্যে কোণ শূন্য বা 180° হলে\n   - c) V ও B এর মধ্যবর্তী কোণ শূন্য বা 180° ছাড়া অন্য যেকোনো মান হলে\n   - d) কখনই শূন্য হবে না",
+          "structured_data": {},
+          "id": "95503f59-0343-522e-9dd4-0f8b8e84a4c4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q81",
+          "content_markdown": "$1\\mathrm{~m}$ ব্যাসার্ধের বৃত্তাকার পরিবাহকের মধ্য দিয়ে $2A$ তড়িৎ প্রবাহ চললে বৃত্তের কেন্দ্রে চৌক ক্ষেত্রের মান কত?",
+          "structured_data": {
+            "question_number": "81",
+            "subtype": "mcq",
+            "stem": "$1\\mathrm{~m}$ ব্যাসার্ধের বৃত্তাকার পরিবাহকের মধ্য দিয়ে $2A$ তড়িৎ প্রবাহ চললে বৃত্তের কেন্দ্রে চৌক ক্ষেত্রের মান কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\mu_{0}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{\\mu_{0}}{2}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "$\\pi$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\frac{\\mu_{0}}{2\\pi}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b)",
+            "solution_markdown": "The magnetic field at the center of a circular current loop is given by $\\text{B}_{\\text{center}} = \\frac{\\mu_0 I}{2R}$. Here, $I = 2A$ and $R = 1m$, so substituting these values we get:\n\n$$\n\\text{B}_{\\text{center}} = \\frac{\\mu_0 \\cdot 2A}{2 \\times 1m} = \\frac{\\mu_0}{1} = \\mu_0 / 2\n$$",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a6d31dc9-6662-52fe-bcf4-7eaee6fcc30c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q82",
+          "content_markdown": "তড়িৎফেট্রের দিক নির্ণয়ে ব্যবহৃত হয়—",
+          "structured_data": {
+            "question_number": "82",
+            "subtype": "mcq",
+            "stem": "তড়িৎফেট্রের দিক নির্ণয়ে ব্যবহৃত হয়—",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বিন্দু চার্জ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "পরখ চার্জ",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "বদ্ধ চার্জ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "মুষ্ঠাচার্জ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "462bf9e9-a349-55c7-8593-f1b802a94a96"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q83",
+          "content_markdown": "একটি ইলেকট্রন r ব্যাসার্ধের বৃত্তাকার কক্ষপথে প্রতি সেকেন্ড n সংখ্যক আবর্তন সম্পন্ন করে। কেন্দ্রে সৃষ্ট চৌক ক্ষেত্রের মান কত?",
+          "structured_data": {
+            "question_number": "83",
+            "subtype": "mcq",
+            "stem": "একটি ইলেকট্রন r ব্যাসার্ধের বৃত্তাকার কক্ষপথে প্রতি সেকেন্ড n সংখ্যক আবর্তন সম্পন্ন করে। কেন্দ্রে সৃষ্ট চৌক ক্ষেত্রের মান কত?",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "827953e6-9181-5b65-92fe-53e5cff43277"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q88",
+          "content_markdown": "e মানের একটি চার্জ, r ব্যাসার্ধের একটি বৃত্তাকার পথে v ফ্রগতে ঘুরছে। বৃত্তের কেন্দ্রে চৌকক্ষেত্রের মান হবে—",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "mcq",
+            "stem": "e মানের একটি চার্জ, r ব্যাসার্ধের একটি বৃত্তাকার পথে v ফ্রগতে ঘুরছে। বৃত্তের কেন্দ্রে চৌকক্ষেত্রের মান হবে—",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4ade600d-b35c-5091-8799-f476d22ab8dc"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q85",
+          "content_markdown": "P কেন্দ্র বিশিষ্ট R ব্যাসার্ধের একপাখি তার কুক্তীলী মধ্য দিয়ে I বিদ্যুৎ প্রবাহিত হচ্ছে। যদি কুক্তীলী ব্যাসার্ধে অর্ধেক ও প্রবাহমাত্রা বিশৃঙ্খল করা হয়, তবে কেন্দ্রে চৌকক্ষেত্রের মান কত গুণ হবে?",
+          "structured_data": {
+            "question_number": "85",
+            "subtype": "mcq",
+            "stem": "P কেন্দ্র বিশিষ্ট R ব্যাসার্ধের একপাখি তার কুক্তীলী মধ্য দিয়ে I বিদ্যুৎ প্রবাহিত হচ্ছে। যদি কুক্তীলী ব্যাসার্ধে অর্ধেক ও প্রবাহমাত্রা বিশৃঙ্খল করা হয়, তবে কেন্দ্রে চৌকক্ষেত্রের মান কত গুণ হবে?",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "bd66803d-23ab-5312-96c7-3fd510485de6"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q86",
+          "content_markdown": "চৌক বলরেখার ধর্মবিলির কোলের নিচের যেটি সত্য নয়—",
+          "structured_data": {
+            "question_number": "86",
+            "subtype": "mcq",
+            "stem": "চৌক বলরেখার ধর্মবিলির কোলের নিচের যেটি সত্য নয়—",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9cbff3cf-6637-57e6-a4df-2a0404ebb685"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q87",
+          "content_markdown": "দুইটি চৌক মেরুর মধ্যবর্তী দূরত্ব তিন গুণ বৃদ্ধি করা হলে বল কৈরীপ হবে?",
+          "structured_data": {
+            "question_number": "87",
+            "subtype": "mcq",
+            "stem": "দুইটি চৌক মেরুর মধ্যবর্তী দূরত্ব তিন গুণ বৃদ্ধি করা হলে বল কৈরীপ হবে?",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9bf8a429-cb0c-5afe-9364-34133cc85d4a"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q88",
+          "content_markdown": "e মানের একটি চার্জ, r ব্যাসার্ধের একটি বৃত্তাকার পথে v ফ্রগতে ঘুরছে। বৃত্তের কেন্দ্রে চৌকক্ষেত্রের মান হবে—",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "mcq",
+            "stem": "e মানের একটি চার্জ, r ব্যাসার্ধের একটি বৃত্তাকার পথে v ফ্রগতে ঘুরছে। বৃত্তের কেন্দ্রে চৌকক্ষেত্রের মান হবে—",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c4a6d1d5-8d31-5b54-bed4-153d1b4b4803"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q85",
+          "content_markdown": "P কেন্দ্র বিশিষ্ট R ব্যাসার্ধের একপাখি তার কুক্তীলী মধ্য দিয়ে I বিদ্যুৎ প্রবাহিত হচ্ছে। যদি কুক্তীলী ব্যাসার্ধে অর্ধেক ও প্রবাহমাত্রা বিশৃঙ্খল করা হয়, তবে কেন্দ্রে চৌকক্ষেত্রের মান কত গুণ হবে?",
+          "structured_data": {
+            "question_number": "85",
+            "subtype": "mcq",
+            "stem": "P কেন্দ্র বিশিষ্ট R ব্যাসার্ধের একপাখি তার কুক্তীলী মধ্য দিয়ে I বিদ্যুৎ প্রবাহিত হচ্ছে। যদি কুক্তীলী ব্যাসার্ধে অর্ধেক ও প্রবাহমাত্রা বিশৃঙ্খল করা হয়, তবে কেন্দ্রে চৌকক্ষেত্রের মান কত গুণ হবে?",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4743ed79-9bd3-57ec-ad78-e7129c2bf648"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q86",
+          "content_markdown": "চৌক বলরেখার ধর্মবিলির কোলের নিচের যেটি সত্য নয়—",
+          "structured_data": {
+            "question_number": "86",
+            "subtype": "mcq",
+            "stem": "চৌক বলরেখার ধর্মবিলির কোলের নিচের যেটি সত্য নয়—",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f5b6e3a9-7fc7-5be6-8af4-d4be73962e3d"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q87",
+          "content_markdown": "দুইটি চৌক মেরুর মধ্যবর্তী দূরত্ব তিন গুণ বৃদ্ধি করা হলে বল কৈরীপ হবে?",
+          "structured_data": {
+            "question_number": "87",
+            "subtype": "mcq",
+            "stem": "দুইটি চৌক মেরুর মধ্যবর্তী দূরত্ব তিন গুণ বৃদ্ধি করা হলে বল কৈরীপ হবে?",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f4e176c6-b151-560f-beef-32d7d8a50c07"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q88",
+          "content_markdown": "e মানের একটি চার্জ, r ব্যাসার্ধের একটি বৃত্তাকার পথে v ফ্রগতে ঘুরছে। বৃত্তের কেন্দ্রে চৌকক্ষেত্রের মান হবে—",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "mcq",
+            "stem": "e মানের একটি চার্জ, r ব্যাসার্ধের একটি বৃত্তাকার পথে v ফ্রগতে ঘুরছে। বৃত্তের কেন্দ্রে চৌকক্ষেত্রের মান হবে—",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "de1e0010-39fc-5177-80f9-06519bf4d335"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q85",
+          "content_markdown": "P কেন্দ্র বিশিষ্ট R ব্যাসার্ধের একপাখি তার কুক্তীলী মধ্য দিয়ে I বিদ্যুৎ প্রবাহিত হচ্ছে। যদি কুক্তীলী ব্যাসার্ধে অর্ধেক ও প্রবাহমাত্রা বিশৃঙ্খল করা হয়, তবে কেন্দ্রে চৌকক্ষেত্রের মান কত গুণ হবে?",
+          "structured_data": {
+            "question_number": "85",
+            "subtype": "mcq",
+            "stem": "P কেন্দ্র বিশিষ্ট R ব্যাসার্ধের একপাখি তার কুক্তীলী মধ্য দিয়ে I বিদ্যুৎ প্রবাহিত হচ্ছে। যদি কুক্তীলী ব্যাসার্ধে অর্ধেক ও প্রবাহমাত্রা বিশৃঙ্খল করা হয়, তবে কেন্দ্রে চৌকক্ষেত্রের মান কত গুণ হবে?",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "570261fe-41ce-5764-b013-5c4f8a8f385b"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 23,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 160.09,
+        "eval_count": 4224
+      }
+    },
+    {
+      "page_number": 4,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থ ২য় পত্র\n\n#### 330\n##### তড়িৎ প্রভাবের চৌম্বক ক্রিয়া ও চূড়কগতি\n\n| 62. কোণো মধ্যমের চৌম্বক প্রবেশতার একটি কী? [রা. বো. ২০১৯] |\n| --- | --- |\n| - a) T | - b) TmA<sup>-1</sup> |\n| - c) Am<sup>-1</sup> | - d) Am<sup>2</sup> |\n\n| 63. ফ্রেমিং-এর 'বাহুহৃত নিয়মনুষারে' বৃদ্ধাগুলি নিচের কোনটি নির্দেশ করে? [ডেক্ডা : ২০১৮-১৯] |\n| --- | --- |\n| - a) চৌম্বক ভ্রমক | - b) পরিবাহীর বিশ্ষেপ |\n| - c) চৌম্বক আবেশ ক্ষেত্র | - d) বিদ্যুৎ প্রভাব |\n\n| 64. ফ্রেমিংয়ের বাম হন্ত নিয়মে চৌম্বক ক্ষেত্র, তড়িৎ প্রবাহ ও চৌম্বক বল নির্ণয় করা যায় যথাক্রমে— |\n| --- | --- |\n| - a) মধ্যমা, তজনী ও বৃদ্ধাঙ্গুলী | - b) তজনী, মধ্যমা ও বৃদ্ধাঙ্গুলী |\n| - c) তজনী, বৃদ্ধাঙ্গুলী ও মধ্যমা | - d) মধ্যমা, বৃদ্ধাঙ্গুলী ও তজনী |\n\n| 65. চৌম্বক ক্ষেত্র (ফেক্টের সাথে সমাতৃত্বাল নয়) গতিশীল একটি ইলেক্ট্রনের উপর ক্রিয়াশীল বলের দিক কোন দিকে হবে? |\n| --- | --- |\n| - a) $\\vec v$ এর দিকে | - b) $\\overrightarrow B$ এর দিকে |\n| - c) $\\vec v\\times\\overrightarrow B$ এর দিকে | - d) $\\vec v\\times\\overrightarrow B$ এর বিপরীত দিকে |\n\n| 66. নিচের কোনটি বিরোধ স্যাবার সূত্রের গণিতিক প্রকাশ? |\n| --- | --- |\n| - a) dB = $\\frac{\\mu_0}{4\\pi}\\frac{Idl\\sin\\theta}{r^2}$ | - b) dB = $\\frac{\\mu_0 Idl\\sin\\theta}{r^2}$ |\n| - c) dB = $\\frac{\\mu_0 r^2}{4\\pi I dl\\sin\\theta}$ | - d) dB = $\\frac{4\\pi Idl\\sin\\theta}{\\mu_0}$ |\n\n| 67. তড়িৎবাহী একটি সরল তার থেকে $a$ দূরত্বে কোনো বিন্দুতে তড়িৎপ্রভাবের দরুন চৌম্বকফ্রেঞ্চের মান কত হবে? [ল.ক. ক। নই. ২০১৭-২০১৮; যোগ. ২০১৬; রূটকঠ. ২০১৬-২০১৭] |\n| --- | --- |\n| - a) B=$\\frac{\\mu_0I}{2\\pi a}$ | - b) B=$\\frac{\\mu_0I}{4\\pi a}$ |\n| - c) B=$\\frac{\\mu_0a}{2\\pi I}$ | - d) B=$\\frac{\\mu_0a}{2\\pi I}$ |\n\n| 68. শূন্যছানে চৌম্বক প্রবেশতার মান কত? [স্নো. ২০১৬; দিখে. ২০১৬] |\n| --- | --- |\n| - a) $4\\pi\\times10^{-7}TmA^{-1}$ | - b) $4\\times10^{-7}Tm A^{-1}$ |\n| - c) $4\\pi\\times10^{-8}TmA^{-1}$ | - d) $4\\times10^{-8}Tm A^{-1}$ |\n\n| 69. নিচের কোনটি অ্যাসপিয়ারের সূত্র? |\n| --- | --- |\n| - a) $\\oint_{C}\\vec B.\\vec dl=\\mu_0I$ | - b) $\\nabla.\\vec B=0$ |\n| - c) $\\vec B=\\mu\\vec H$ | - d) $\\nabla.B=\\frac{\\partial B}{\\partial t}$ |\n| - e) $\\oint_{S}\\vec B\\times\\mu=\\mu_0I$ |\n\n| 70. একটি বৃত্তাকার কৃত্তলীর চৌম্বক ভ্রমক $0.02Am^{2}$ এর ব্যাসার্ধ $5cm$ এবং পাক সংখ্যা $10$ হলে কৃত্তলীতে প্রবাহমাত্রা কত? |\n| --- | --- |\n| - a) $2.54A$ | - b) $25.4A$ |\n| - c) $0.254A$ | - d) $0.0254A$ |\n\n| 71. হল বিক্রিব পার্থক্য এর সূত্র কোনটি? |\n| --- | --- |\n| - a) V<sub>H</sub>=Bvd | - b) V<sub>H</sub>=$\\frac{B}{vd}$ |\n| - c) V<sub>H</sub>=$\\frac{vd}{B}$ | - d) V<sub>H</sub>=$\\frac{d}{Bv}$ |\n\n| 72. হাইড্রোজেন পরমাণুতে যে একটি ইলেকট্রন আছে, তা নিউক্লিয়াসের চারদিকে একটি বৃত্তাকার পথে অনবরত ঘুরছে। ইলেকট্রনের কোণিক ভরবেগ, L = $\\frac{h}{2\\pi}$। ইলেকট্রনের চৌম্বক ভ্রমক হলো? |\n| --- | --- |\n| - a) $8.20 \\times 10^{-24}Am^{2}$ | - b) $1.09 \\times 10^{-24}Am^{2}$ |\n| - c) $9.26 \\times 10^{-24}Am^{2}$ | - d) None |\n\n| 73. নিচের কোনটি একটি কৃত্তলীর চৌম্বক ভ্রমক নির্দেশ করে? [ব. বো. ২০১৬] |\n| --- | --- |\n| - a) NILb | - b) NIAB |\n| - c) $\\frac{\\mu_0}{4\\pi}$ | - d) $\\frac{1}{4\\pi\\varepsilon_0}$ |\n\n| 74. 1m দীর্ঘ এবং 1cm প্রস্থ 500 পাকবিশিষ্ট একটি আয়তাকার কৃত্তলীর মধ্যে দিয়ে 10V তড়িৎ প্রবাহ চলছে। কৃত্তলীতে 15T-এর সুষম চৌম্বক ক্ষেত্রের সমাতৃত্বে ছাপা করলে এর উপর ক্রিয়াশীল টর্ক কত? [KUET Admission Test, 2016-17] |\n| --- | --- |\n| - a) 10Nm | - b) 15Nm |\n| - c) 500Nm | - d) 75Nm |\n\n| 75. বৈদ্যুতিক পাথর তৈরিতে কোন সূত্র ব্যবহার করা হয়েছে? [ICU-A-I Admission Test, 2016-17] |\n| --- | --- |\n| - a) বোয়েট–স্যাটার্টের সূত্র | - b) গাউসের সূত্র |\n| - c) ও’মের সূত্র | - d) কিশফের সূত্র |\n\n| 76. একটি বৃত্তাকার তারের ব্যাসার্ধ 10 cm এবং প্রবাহমাত্রা 5A হলে চৌম্বক ভ্রমক S.I এককে কত? |\n| --- | --- |\n| - a) 0.5 | - b) 5 |\n| - c) 0.05 | - d) 50 |\n\n| 77. হাইড্রোজেন পরমাণুতে e আধান্যুক্ত একটি ইলেকট্রন r ব্যাসার্ধের বৃত্ত বরাবর ঘুরছে। ইলেকট্রনের কক্ষের চৌম্বক ভ্রমক কত? |\n| --- | --- |\n| - a) erv | - b) $\\frac{1}{2}evr$ |\n| - c) $\\frac{er}{r}$ | - d) $\\frac{1}{2}evr^2$\n\n| 78. একটি সোজা চুম্বকীয় তারের চৌম্বক ভ্রমক M হয়, তাহলে তারটিকে অর্ধবৃত্কারে বাঁকানো হলে তারটির চৌম্বক ভ্রমক কত? |\n| --- | --- |\n| - a) $\\frac{M}{\\pi}$ | - b) Mp |\n| - c) $\\frac{2M}{\\pi}$ | - d) 2Mp\n\n| 79. একটি বৃত্তাকার কৃত্তলীর ব্যাসার্ধ 4 cm এবং পাক সংখ্যা 20, কৃত্তলীর চৌম্বক—\n| --- | --- |\n| - a) 3000 Am<sup>2</sup> | - b) 0.3 Am<sup>2</sup> |\n| - c) 300 Am<sup>2</sup> | - d) 75 Am<sup>2</sup>\n\n| 80. একটি বৃত্তাকার কৃত্তলীর ব্যাসার্ধ 10cm এবং পাক সংখ্যা 50। এতে 0.5A প্রবাহমাত্রা পাঠালে চৌম্বক ভ্রমক কত?\n| --- | --- |\n| - a) 0.25 πAm<sup>2</sup> | - b) 0.25 Am<sup>2</sup> |\n| - c) πAm<sup>2</sup> | - d) 0",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "330",
+          "content_markdown": "##### তড়িৎ প্রভাবের চৌম্বক ক্রিয়া ও চূড়কগতি",
+          "structured_data": {},
+          "id": "78f699c6-8fc9-5351-9524-ab44290e73ba"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 62. কোণো মধ্যমের চৌম্বক প্রবেশতার একটি কী? [রা. বো. ২০১৯] |\n| --- | --- |\n| - a) T | - b) TmA<sup>-1</sup> |\n| - c) Am<sup>-1</sup> | - d) Am<sup>2</sup> |",
+          "structured_data": {
+            "headers": [
+              "62. কোণো মধ্যমের চৌম্বক প্রবেশতার একটি কী? [রা. বো. ২০১৯]"
+            ],
+            "rows": [
+              [
+                "- a) T",
+                "- b) TmA<sup>-1</sup>"
+              ],
+              [
+                "- c) Am<sup>-1</sup>",
+                "- d) Am<sup>2</sup>"
+              ]
+            ]
+          },
+          "id": "6446c54a-8777-55d7-9f7c-ca24dbde012b"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 63. ফ্রেমিং-এর 'বাহুহৃত নিয়মনুষারে' বৃদ্ধাগুলি নিচের কোনটি নির্দেশ করে? [ডেক্ডা : ২০১৮-১৯] |\n| --- | --- |\n| - a) চৌম্বক ভ্রমক | - b) পরিবাহীর বিশ্ষেপ |\n| - c) চৌম্বক আবেশ ক্ষেত্র | - d) বিদ্যুৎ প্রভাব |",
+          "structured_data": {
+            "headers": [
+              "63. ফ্রেমিং-এর 'বাহুহৃত নিয়মনুষারে' বৃদ্ধাগুলি নিচের কোনটি নির্দেশ করে? [ডেক্ডা : ২০১৮-১৯]"
+            ],
+            "rows": [
+              [
+                "- a) চৌম্বক ভ্রমক",
+                "- b) পরিবাহীর বিশ্ষেপ"
+              ],
+              [
+                "- c) চৌম্বক আবেশ ক্ষেত্র",
+                "- d) বিদ্যুৎ প্রভাব"
+              ]
+            ]
+          },
+          "id": "155382ba-be25-53c5-839d-83388be51f06"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 64. ফ্রেমিংয়ের বাম হন্ত নিয়মে চৌম্বক ক্ষেত্র, তড়িৎ প্রবাহ ও চৌম্বক বল নির্ণয় করা যায় যথাক্রমে— |\n| --- | --- |\n| - a) মধ্যমা, তজনী ও বৃদ্ধাঙ্গুলী | - b) তজনী, মধ্যমা ও বৃদ্ধাঙ্গুলী |\n| - c) তজনী, বৃদ্ধাঙ্গুলী ও মধ্যমা | - d) মধ্যমা, বৃদ্ধাঙ্গুলী ও তজনী |",
+          "structured_data": {
+            "headers": [
+              "64. ফ্রেমিংয়ের বাম হন্ত নিয়মে চৌম্বক ক্ষেত্র, তড়িৎ প্রবাহ ও চৌম্বক বল নির্ণয় করা যায় যথাক্রমে—"
+            ],
+            "rows": [
+              [
+                "- a) মধ্যমা, তজনী ও বৃদ্ধাঙ্গুলী",
+                "- b) তজনী, মধ্যমা ও বৃদ্ধাঙ্গুলী"
+              ],
+              [
+                "- c) তজনী, বৃদ্ধাঙ্গুলী ও মধ্যমা",
+                "- d) মধ্যমা, বৃদ্ধাঙ্গুলী ও তজনী"
+              ]
+            ]
+          },
+          "id": "39d1c3b5-3358-570d-a4cd-cbaf1b857ee6"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 65. চৌম্বক ক্ষেত্র (ফেক্টের সাথে সমাতৃত্বাল নয়) গতিশীল একটি ইলেক্ট্রনের উপর ক্রিয়াশীল বলের দিক কোন দিকে হবে? |\n| --- | --- |\n| - a) $\\vec v$ এর দিকে | - b) $\\overrightarrow B$ এর দিকে |\n| - c) $\\vec v\\times\\overrightarrow B$ এর দিকে | - d) $\\vec v\\times\\overrightarrow B$ এর বিপরীত দিকে |",
+          "structured_data": {
+            "headers": [
+              "65. চৌম্বক ক্ষেত্র (ফেক্টের সাথে সমাতৃত্বাল নয়) গতিশীল একটি ইলেক্ট্রনের উপর ক্রিয়াশীল বলের দিক কোন দিকে হবে?"
+            ],
+            "rows": [
+              [
+                "- a) $\\vec v$ এর দিকে",
+                "- b) $\\overrightarrow B$ এর দিকে"
+              ],
+              [
+                "- c) $\\vec v\\times\\overrightarrow B$ এর দিকে",
+                "- d) $\\vec v\\times\\overrightarrow B$ এর বিপরীত দিকে"
+              ]
+            ]
+          },
+          "id": "62a3db71-9c3d-5c35-a795-2948fe3a18ba"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 66. নিচের কোনটি বিরোধ স্যাবার সূত্রের গণিতিক প্রকাশ? |\n| --- | --- |\n| - a) dB = $\\frac{\\mu_0}{4\\pi}\\frac{Idl\\sin\\theta}{r^2}$ | - b) dB = $\\frac{\\mu_0 Idl\\sin\\theta}{r^2}$ |\n| - c) dB = $\\frac{\\mu_0 r^2}{4\\pi I dl\\sin\\theta}$ | - d) dB = $\\frac{4\\pi Idl\\sin\\theta}{\\mu_0}$ |",
+          "structured_data": {
+            "headers": [
+              "66. নিচের কোনটি বিরোধ স্যাবার সূত্রের গণিতিক প্রকাশ?"
+            ],
+            "rows": [
+              [
+                "- a) dB = $\\frac{\\mu_0}{4\\pi}\\frac{Idl\\sin\\theta}{r^2}$",
+                "- b) dB = $\\frac{\\mu_0 Idl\\sin\\theta}{r^2}$"
+              ],
+              [
+                "- c) dB = $\\frac{\\mu_0 r^2}{4\\pi I dl\\sin\\theta}$",
+                "- d) dB = $\\frac{4\\pi Idl\\sin\\theta}{\\mu_0}$"
+              ]
+            ]
+          },
+          "id": "10b9fb96-a9ba-5532-b194-13a8b61e020f"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 67. তড়িৎবাহী একটি সরল তার থেকে $a$ দূরত্বে কোনো বিন্দুতে তড়িৎপ্রভাবের দরুন চৌম্বকফ্রেঞ্চের মান কত হবে? [ল.ক. ক। নই. ২০১৭-২০১৮; যোগ. ২০১৬; রূটকঠ. ২০১৬-২০১৭] |\n| --- | --- |\n| - a) B=$\\frac{\\mu_0I}{2\\pi a}$ | - b) B=$\\frac{\\mu_0I}{4\\pi a}$ |\n| - c) B=$\\frac{\\mu_0a}{2\\pi I}$ | - d) B=$\\frac{\\mu_0a}{2\\pi I}$ |",
+          "structured_data": {
+            "headers": [
+              "67. তড়িৎবাহী একটি সরল তার থেকে $a$ দূরত্বে কোনো বিন্দুতে তড়িৎপ্রভাবের দরুন চৌম্বকফ্রেঞ্চের মান কত হবে? [ল.ক. ক। নই. ২০১৭-২০১৮; যোগ. ২০১৬; রূটকঠ. ২০১৬-২০১৭]"
+            ],
+            "rows": [
+              [
+                "- a) B=$\\frac{\\mu_0I}{2\\pi a}$",
+                "- b) B=$\\frac{\\mu_0I}{4\\pi a}$"
+              ],
+              [
+                "- c) B=$\\frac{\\mu_0a}{2\\pi I}$",
+                "- d) B=$\\frac{\\mu_0a}{2\\pi I}$"
+              ]
+            ]
+          },
+          "id": "4eb219fb-4497-59cf-b99a-b08d23a30954"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 68. শূন্যছানে চৌম্বক প্রবেশতার মান কত? [স্নো. ২০১৬; দিখে. ২০১৬] |\n| --- | --- |\n| - a) $4\\pi\\times10^{-7}TmA^{-1}$ | - b) $4\\times10^{-7}Tm A^{-1}$ |\n| - c) $4\\pi\\times10^{-8}TmA^{-1}$ | - d) $4\\times10^{-8}Tm A^{-1}$ |",
+          "structured_data": {
+            "headers": [
+              "68. শূন্যছানে চৌম্বক প্রবেশতার মান কত? [স্নো. ২০১৬; দিখে. ২০১৬]"
+            ],
+            "rows": [
+              [
+                "- a) $4\\pi\\times10^{-7}TmA^{-1}$",
+                "- b) $4\\times10^{-7}Tm A^{-1}$"
+              ],
+              [
+                "- c) $4\\pi\\times10^{-8}TmA^{-1}$",
+                "- d) $4\\times10^{-8}Tm A^{-1}$"
+              ]
+            ]
+          },
+          "id": "1dd6b61e-1ef5-5058-bbc0-855f0fb2870c"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 69. নিচের কোনটি অ্যাসপিয়ারের সূত্র? |\n| --- | --- |\n| - a) $\\oint_{C}\\vec B.\\vec dl=\\mu_0I$ | - b) $\\nabla.\\vec B=0$ |\n| - c) $\\vec B=\\mu\\vec H$ | - d) $\\nabla.B=\\frac{\\partial B}{\\partial t}$ |\n| - e) $\\oint_{S}\\vec B\\times\\mu=\\mu_0I$ |",
+          "structured_data": {
+            "headers": [
+              "69. নিচের কোনটি অ্যাসপিয়ারের সূত্র?"
+            ],
+            "rows": [
+              [
+                "- a) $\\oint_{C}\\vec B.\\vec dl=\\mu_0I$",
+                "- b) $\\nabla.\\vec B=0$"
+              ],
+              [
+                "- c) $\\vec B=\\mu\\vec H$",
+                "- d) $\\nabla.B=\\frac{\\partial B}{\\partial t}$"
+              ],
+              [
+                "- e) $\\oint_{S}\\vec B\\times\\mu=\\mu_0I$"
+              ]
+            ]
+          },
+          "id": "0901b09e-9fe2-5d4a-93f4-5e6c2629c8b9"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 70. একটি বৃত্তাকার কৃত্তলীর চৌম্বক ভ্রমক $0.02Am^{2}$ এর ব্যাসার্ধ $5cm$ এবং পাক সংখ্যা $10$ হলে কৃত্তলীতে প্রবাহমাত্রা কত? |\n| --- | --- |\n| - a) $2.54A$ | - b) $25.4A$ |\n| - c) $0.254A$ | - d) $0.0254A$ |",
+          "structured_data": {
+            "headers": [
+              "70. একটি বৃত্তাকার কৃত্তলীর চৌম্বক ভ্রমক $0.02Am^{2}$ এর ব্যাসার্ধ $5cm$ এবং পাক সংখ্যা $10$ হলে কৃত্তলীতে প্রবাহমাত্রা কত?"
+            ],
+            "rows": [
+              [
+                "- a) $2.54A$",
+                "- b) $25.4A$"
+              ],
+              [
+                "- c) $0.254A$",
+                "- d) $0.0254A$"
+              ]
+            ]
+          },
+          "id": "37d30873-89d0-5538-ac96-136bbd88a7c9"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 71. হল বিক্রিব পার্থক্য এর সূত্র কোনটি? |\n| --- | --- |\n| - a) V<sub>H</sub>=Bvd | - b) V<sub>H</sub>=$\\frac{B}{vd}$ |\n| - c) V<sub>H</sub>=$\\frac{vd}{B}$ | - d) V<sub>H</sub>=$\\frac{d}{Bv}$ |",
+          "structured_data": {
+            "headers": [
+              "71. হল বিক্রিব পার্থক্য এর সূত্র কোনটি?"
+            ],
+            "rows": [
+              [
+                "- a) V<sub>H</sub>=Bvd",
+                "- b) V<sub>H</sub>=$\\frac{B}{vd}$"
+              ],
+              [
+                "- c) V<sub>H</sub>=$\\frac{vd}{B}$",
+                "- d) V<sub>H</sub>=$\\frac{d}{Bv}$"
+              ]
+            ]
+          },
+          "id": "e5697dbb-3c00-5e90-a74f-d57e8da0242d"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 72. হাইড্রোজেন পরমাণুতে যে একটি ইলেকট্রন আছে, তা নিউক্লিয়াসের চারদিকে একটি বৃত্তাকার পথে অনবরত ঘুরছে। ইলেকট্রনের কোণিক ভরবেগ, L = $\\frac{h}{2\\pi}$। ইলেকট্রনের চৌম্বক ভ্রমক হলো? |\n| --- | --- |\n| - a) $8.20 \\times 10^{-24}Am^{2}$ | - b) $1.09 \\times 10^{-24}Am^{2}$ |\n| - c) $9.26 \\times 10^{-24}Am^{2}$ | - d) None |",
+          "structured_data": {
+            "headers": [
+              "72. হাইড্রোজেন পরমাণুতে যে একটি ইলেকট্রন আছে, তা নিউক্লিয়াসের চারদিকে একটি বৃত্তাকার পথে অনবরত ঘুরছে। ইলেকট্রনের কোণিক ভরবেগ, L = $\\frac{h}{2\\pi}$। ইলেকট্রনের চৌম্বক ভ্রমক হলো?"
+            ],
+            "rows": [
+              [
+                "- a) $8.20 \\times 10^{-24}Am^{2}$",
+                "- b) $1.09 \\times 10^{-24}Am^{2}$"
+              ],
+              [
+                "- c) $9.26 \\times 10^{-24}Am^{2}$",
+                "- d) None"
+              ]
+            ]
+          },
+          "id": "2a10bc7e-76f7-56d6-bfa3-57b6277aeff4"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 73. নিচের কোনটি একটি কৃত্তলীর চৌম্বক ভ্রমক নির্দেশ করে? [ব. বো. ২০১৬] |\n| --- | --- |\n| - a) NILb | - b) NIAB |\n| - c) $\\frac{\\mu_0}{4\\pi}$ | - d) $\\frac{1}{4\\pi\\varepsilon_0}$ |",
+          "structured_data": {
+            "headers": [
+              "73. নিচের কোনটি একটি কৃত্তলীর চৌম্বক ভ্রমক নির্দেশ করে? [ব. বো. ২০১৬]"
+            ],
+            "rows": [
+              [
+                "- a) NILb",
+                "- b) NIAB"
+              ],
+              [
+                "- c) $\\frac{\\mu_0}{4\\pi}$",
+                "- d) $\\frac{1}{4\\pi\\varepsilon_0}$"
+              ]
+            ]
+          },
+          "id": "f9d31d7c-03af-5c96-a4ba-d726144c96ca"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 74. 1m দীর্ঘ এবং 1cm প্রস্থ 500 পাকবিশিষ্ট একটি আয়তাকার কৃত্তলীর মধ্যে দিয়ে 10V তড়িৎ প্রবাহ চলছে। কৃত্তলীতে 15T-এর সুষম চৌম্বক ক্ষেত্রের সমাতৃত্বে ছাপা করলে এর উপর ক্রিয়াশীল টর্ক কত? [KUET Admission Test, 2016-17] |\n| --- | --- |\n| - a) 10Nm | - b) 15Nm |\n| - c) 500Nm | - d) 75Nm |",
+          "structured_data": {
+            "headers": [
+              "74. 1m দীর্ঘ এবং 1cm প্রস্থ 500 পাকবিশিষ্ট একটি আয়তাকার কৃত্তলীর মধ্যে দিয়ে 10V তড়িৎ প্রবাহ চলছে। কৃত্তলীতে 15T-এর সুষম চৌম্বক ক্ষেত্রের সমাতৃত্বে ছাপা করলে এর উপর ক্রিয়াশীল টর্ক কত? [KUET Admission Test, 2016-17]"
+            ],
+            "rows": [
+              [
+                "- a) 10Nm",
+                "- b) 15Nm"
+              ],
+              [
+                "- c) 500Nm",
+                "- d) 75Nm"
+              ]
+            ]
+          },
+          "id": "f9891c99-7744-59e5-9675-efedbfdbe360"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 75. বৈদ্যুতিক পাথর তৈরিতে কোন সূত্র ব্যবহার করা হয়েছে? [ICU-A-I Admission Test, 2016-17] |\n| --- | --- |\n| - a) বোয়েট–স্যাটার্টের সূত্র | - b) গাউসের সূত্র |\n| - c) ও’মের সূত্র | - d) কিশফের সূত্র |",
+          "structured_data": {
+            "headers": [
+              "75. বৈদ্যুতিক পাথর তৈরিতে কোন সূত্র ব্যবহার করা হয়েছে? [ICU-A-I Admission Test, 2016-17]"
+            ],
+            "rows": [
+              [
+                "- a) বোয়েট–স্যাটার্টের সূত্র",
+                "- b) গাউসের সূত্র"
+              ],
+              [
+                "- c) ও’মের সূত্র",
+                "- d) কিশফের সূত্র"
+              ]
+            ]
+          },
+          "id": "eeff5587-ee22-55ca-add0-20019a3e285d"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 76. একটি বৃত্তাকার তারের ব্যাসার্ধ 10 cm এবং প্রবাহমাত্রা 5A হলে চৌম্বক ভ্রমক S.I এককে কত? |\n| --- | --- |\n| - a) 0.5 | - b) 5 |\n| - c) 0.05 | - d) 50 |",
+          "structured_data": {
+            "headers": [
+              "76. একটি বৃত্তাকার তারের ব্যাসার্ধ 10 cm এবং প্রবাহমাত্রা 5A হলে চৌম্বক ভ্রমক S.I এককে কত?"
+            ],
+            "rows": [
+              [
+                "- a) 0.5",
+                "- b) 5"
+              ],
+              [
+                "- c) 0.05",
+                "- d) 50"
+              ]
+            ]
+          },
+          "id": "ec530af5-985a-5d1e-a1e7-80c236a012cc"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 77. হাইড্রোজেন পরমাণুতে e আধান্যুক্ত একটি ইলেকট্রন r ব্যাসার্ধের বৃত্ত বরাবর ঘুরছে। ইলেকট্রনের কক্ষের চৌম্বক ভ্রমক কত? |\n| --- | --- |\n| - a) erv | - b) $\\frac{1}{2}evr$ |\n| - c) $\\frac{er}{r}$ | - d) $\\frac{1}{2}evr^2$",
+          "structured_data": {
+            "headers": [
+              "77. হাইড্রোজেন পরমাণুতে e আধান্যুক্ত একটি ইলেকট্রন r ব্যাসার্ধের বৃত্ত বরাবর ঘুরছে। ইলেকট্রনের কক্ষের চৌম্বক ভ্রমক কত?"
+            ],
+            "rows": [
+              [
+                "- a) erv",
+                "- b) $\\frac{1}{2}evr$"
+              ],
+              [
+                "- c) $\\frac{er}{r}$",
+                "- d) $\\frac{1}{2}evr^2$"
+              ]
+            ]
+          },
+          "id": "1b116b09-ef30-5dcb-9a56-8ad9d7264c68"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 78. একটি সোজা চুম্বকীয় তারের চৌম্বক ভ্রমক M হয়, তাহলে তারটিকে অর্ধবৃত্কারে বাঁকানো হলে তারটির চৌম্বক ভ্রমক কত? |\n| --- | --- |\n| - a) $\\frac{M}{\\pi}$ | - b) Mp |\n| - c) $\\frac{2M}{\\pi}$ | - d) 2Mp",
+          "structured_data": {
+            "headers": [
+              "78. একটি সোজা চুম্বকীয় তারের চৌম্বক ভ্রমক M হয়, তাহলে তারটিকে অর্ধবৃত্কারে বাঁকানো হলে তারটির চৌম্বক ভ্রমক কত?"
+            ],
+            "rows": [
+              [
+                "- a) $\\frac{M}{\\pi}$",
+                "- b) Mp"
+              ],
+              [
+                "- c) $\\frac{2M}{\\pi}$",
+                "- d) 2Mp"
+              ]
+            ]
+          },
+          "id": "2808429c-ada7-50f5-8217-d9f019fb129c"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 79. একটি বৃত্তাকার কৃত্তলীর ব্যাসার্ধ 4 cm এবং পাক সংখ্যা 20, কৃত্তলীর চৌম্বক—\n| --- | --- |\n| - a) 3000 Am<sup>2</sup> | - b) 0.3 Am<sup>2</sup> |\n| - c) 300 Am<sup>2</sup> | - d) 75 Am<sup>2</sup>",
+          "structured_data": {
+            "headers": [
+              "79. একটি বৃত্তাকার কৃত্তলীর ব্যাসার্ধ 4 cm এবং পাক সংখ্যা 20, কৃত্তলীর চৌম্বক—"
+            ],
+            "rows": [
+              [
+                "- a) 3000 Am<sup>2</sup>",
+                "- b) 0.3 Am<sup>2</sup>"
+              ],
+              [
+                "- c) 300 Am<sup>2</sup>",
+                "- d) 75 Am<sup>2</sup>"
+              ]
+            ]
+          },
+          "id": "9bb2ded2-1506-5902-9e31-cbd9d08df417"
+        },
+        {
+          "block_type": "table",
+          "title": "330",
+          "content_markdown": "| 80. একটি বৃত্তাকার কৃত্তলীর ব্যাসার্ধ 10cm এবং পাক সংখ্যা 50। এতে 0.5A প্রবাহমাত্রা পাঠালে চৌম্বক ভ্রমক কত?\n| --- | --- |\n| - a) 0.25 πAm<sup>2</sup> | - b) 0.25 Am<sup>2</sup> |\n| - c) πAm<sup>2</sup> | - d) 0",
+          "structured_data": {
+            "headers": [
+              "80. একটি বৃত্তাকার কৃত্তলীর ব্যাসার্ধ 10cm এবং পাক সংখ্যা 50। এতে 0.5A প্রবাহমাত্রা পাঠালে চৌম্বক ভ্রমক কত?"
+            ],
+            "rows": [
+              [
+                "- a) 0.25 πAm<sup>2</sup>",
+                "- b) 0.25 Am<sup>2</sup>"
+              ],
+              [
+                "- c) πAm<sup>2</sup>",
+                "- d) 0"
+              ]
+            ]
+          },
+          "id": "ce368fa3-5828-5a5a-b5a2-1313e90bcf23"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 20,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 164.58,
+        "eval_count": 3526
+      }
+    },
+    {
+      "page_number": 5,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q81\n**Type:** mcq\n**Stem:** পদার্থ ২য় পত্র\n15 cm × 2cm × 1 cm মাপের একটি চৌম্বক চোষ্কের চৌম্বক ভ্রামক 1.2 Am²। এর চুম্বক মাত্রা কত?\n**Options:** \n- a) $4\\times 10^4\\,\\mathrm{Am}^{-1}$  \n- b) $2\\times 10^4\\,\\mathrm{Am}^{-1}$  \n- c) $10^4\\,\\mathrm{Am}^{-1}$  \n- d) 0\n\n**Answer:** a)\n\n**Solution:** সমাধান:\n\nচৌম্বক ভ্রামক $\\mathcal{B}=1.2\\;\\mathrm{Am}^{2}$ এবং আয়তনের গণিতগত অনুপাত হল,\n\n$$\nV = l \\times w \\times h = 15\\;\\mathrm{cm}\\times 2\\;\\mathrm{cm}\\times 1\\;\\mathrm{cm} = 30\\;\\mathrm{cm}^3 = 30 \\times 10^{-6}\\;\\mathrm{m}^3\n$$\n\nএখন চৌম্বক মাত্রা হল,\n\n$$\nI_{\\mathrm{m}}=\\frac{\\mathcal{B}}{V} = \\frac{1.2}{30 \\times 10^{-6}} = 4 \\times 10^4\\;\\mathrm{A/m}\n$$\n\n**Tags:** আমির হোসেন\n\n### Q82\n**Type:** mcq\n**Stem:** একই দৈর্ঘ্যের দুটি তারের একটি বর্গকার এবং অন্যটিকে বৃত্তাকার বাঁকানো হলো। ওদের মধ্যে একই প্রবাহমাত্রা পাঠানো হলে এদের চৌম্বক ভ্রামকের অনুপাত কত?\n\n**Options:** \n- a) $2:\\pi$\n- b) $\\pi : 2$\n- c) $\\pi : 4$\n- d) $8:4$\n\n**Answer:** b)\n\n**Solution:** সমাধান:\n\nবর্গকার তারের লম্ব ও প্রস্থ উভয়ই সমান হলে তারের জটিল ভ্রামক হল,\n\n$$\nB_1 = \\mu_0 \\cdot nI\n$$\n\nআর বৃত্তাকার তারের ব্যাস এবং প্রস্থ উভয়ই সমান হলে তারের জটিল ভ্রামক হল,\n\n$$\nB_2 = \\mu_0 \\cdot nI\n$$\n\nতাই দুইটি তারের চৌম্বক ভ্রামকের অনুপাত হল,\n\n$$\n\\frac{B_1}{B_2} = \\frac{nI}{nI} = 1\n$$\n\nএবং তারের ডুইটি চৌম্বক ভ্রামকের অনুপাত হল,\n\n$$\n\\frac{B_1}{B_2} = \\frac{\\pi r^2}{r^2} = \\pi : 2\n$$\n\n**Tags:** আমির হোসেন\n\n### Q83\n**Type:** mcq\n**Stem:** B মানের একটি সুষম চৌম্বকক্ষেত্রের চৌম্বক বল রেখার সমান্তরালে অপরিবর্তনীয় বেগ V- তে চলমান একটি চার্জ e- এর ওপর ক্রিয়াশীল বল হলো-\n**Options:** \n- a) Bev\n- b) 0\n- c) eV/B\n- d) e/Bv\n\n**Answer:** a)\n\n**Solution:** সমাধান:\n\nচার্জ e এর ওপর ক্রিয়াশীল বল হল,\n\n$$\nF = qE\n$$\n\nএখন চৌম্বক বল রেখার সমান্তরালে চলমান চার্জের বেগ হলো v এবং চৌম্বক ভ্রামক হলো B। তাছাড়াও চৌম্বক বল রেখার সমান্তরালে চলমান চার্জের বেগ হলো v। তাই চৌম্বক বল রেখার সমান্তরালে চলমান চার্জের ক্রিয়াশীল বল হলো,\n\n$$\nF = q(Bv)\n$$\n\n**Tags:** শহজাহান তপন\n\n### Q84\n**Type:** mcq\n**Stem:** ফোনো ছানে একই সাথে তড়িৎক্ষেত্রে ও চৌম্বকক্ষেত্রে বিদ্যমান থাকলে সেখানে একটি গতিশীল আধান যে বল লাভ করে তাকে কী বলে? [র. বি. ২০১৭-২০১৮]\n**Options:** \n- a) তড়িৎ বল\n- b) লরেঙ্গ বল\n- c) চৌম্বক বল\n- d) তড়িৎ চুম্বক বল\n\n**Answer:** a)\n\n**Solution:** সমাধান:\n\nফোনো ছানে একই সাথে তড়িৎক্ষেত্রে ও চৌম্বকক্ষেত্রে বিদ্যমান থাকলে সেখানে একটি গতিশীল আধান যে বল লাভ করে তাকে তড়িৎ বল বলে।\n**Tags:** শহজাহান তপন\n\n### Q85\n**Type:** mcq\n**Stem:** q পরিমাণ আধান একটি চৌম্বকক্ষেত্রে $\\vec{B}$ এর সাথে সমান্তরালে $\\vec{V}$ বেগে গতিশীল। উত্তর ছানে একটি তড়িৎক্ষেত্রে $\\vec{E}$ থাকলে আধানের ওপর ক্রিয়াশীল বল কত হবে? [টি. বি. ২০১৯-২০২০]\n**Options:** \n- a) q($\\overrightarrow{E} + \\overrightarrow{V} \\times \\overrightarrow{B})$ \n- b) q($\\overrightarrow{E} \\times \\overrightarrow{B})$\n- c) q$\\overrightarrow{E}$\n- d) q($\\overrightarrow{E} + \\overrightarrow{V}. \\overrightarrow{B})$\n\n**Answer:** a)\n\n**Solution:** সমাধান:\n\nq পরিমাণ আধান একটি চৌম্বকক্ষেত্রে $\\vec{B}$ এর সাথে সমান্তরালে $\\vec{V}$ বেগে গতিশীল। উত্তর ছানে একটি তড়িৎক্ষেত্রে $\\vec{E}$ থাকলে আধানের ওপর ক্রিয়াশীল বল হলো,\n\n$$\n\\textbf{F}_{\\text{total}} = q(\\vec{E} + \\vec{V} \\times \\vec{B})\n$$\n\n**Tags:** শহজাহান তপন\n\n```none\nক. q(→E+→V×→B )    খ. q(→E×→B )\nগ. q→E              ঘ. q(→E+→V . →B )[শাহজাহান তপন]\n86. একটি তারের কুবলীয় ফ্লেফল 2×10−4m2 এবং কুবলীয় মধ্য দিয়ে 0.01 A\nবিদ্যুৎ প্রবাহ চললে কুবলীর দ্বিপল মোমেন্ট কত হবে? [ব. কু. বি. 2017–2018]\nক. 2×10−10A m2     খ. 2×10−6A m2\nগ. 2×10−4A m2      ঘ. 2×10−2A m2   [শাহজাহান তপন]\n87. স্পিনের দরুণ ইলেকট্রনের একটি চৌম্বক ভ্রামক উৎপন্ন হয় তাকে কি\nবলে? [ই. বি. 2017–2018]\nক. অক্ষীয় চৌম্বক দ্বিপল ভ্রমক       খ. ইলেকট্রন স্পিন\nগ. ইলেকট্রন ভ্রামক                   ঘ. কোনোটি নয়   [শাহজাহান তপন]\n88. একটি চুম্বকের মধ্যে একটি বৃহদাকার ছড়া করা হলে চৌম্বকের মান-\nক. বৃদ্ধি পাবে                           খ. হ্রাস পাবে\nগ. অপরিবর্তিত থাকবে                  ঘ. শূন্য হবে        [শাহজাহান তপন]\n89. পরস্পর থেকে 1 m দূরত্বে অবস্থিত 1 A তড়িৎ প্রবাহবাহী তারের প্রতি\n1m দৈর্ঘ্যে যে বল ক্রিয়া করে তার মান- [ব. সো. '13]\nক. 2×10−7N                                খ. 4×10−7N\nগ. 2π×10−7N                               ঘ. 4π×10−7N         [শামসুর রহমান]\n90. 1.0 m দূরত্ব একটি সোজা তারের মধ্যে দিয়ে 5.0A বিদ্যুৎ প্রবাহিত হচ্ছে।\nতারটি 0.1 Wb/m2 ফ্লাক্স ঘনত্বের একটি সুষম চৌম্বক ক্ষেত্রের সাথে 30°\nকোণে একই তলে অবস্থান করলে কত মানের বল অনুভব হবে? [শা. বি. '12-'13]\nক. 5.0 N                                  খ. 2.5 N\nগ. 2.0 N                                  ঘ. 0.25 N          [শামসুর রহমান]\n\nঅনুশীলনীর প্রশ্ন\n\n### Q91\n**Type:** mcq\n**Stem:** চৌম্বক ক্ষেত্রের গতিশীল আধানের উপরের বলের মান কোনটি নয়?\n[মেডিকেল '01-02]\n**Options:** \n- a) চৌম্বক ক্ষেত্রের মাধ্যমে মানের ব্যত্তানুপাতিক,\n- b) চৌম্বক ক্ষেত্রের মানের সমানুপাতিক,\n- c) আধানের মানের সমানুপাতিক\n- d) আধানের বেগের সমানুপাতিক.\n**Answer:** -\n**Solution:** -\n**Tags:** শাহবুর রহমান\n\n### Q92\n**Type:** mcq\n**Stem:** $10^{-3}$ Tesla চৌম্বক ক্ষেত্রে সাথে লভভাবে অবচ্ছিন্ন একটি সোজা তার দিয়ে 5A তড়িৎ প্রবাহ হচ্ছে। তারটির একটি দৈর্ঘ্যের ওপর প্রযুক্ত বল নির্ণয় করো। [দ. বি.-11-12]\n**Options:** \n- a) $5\\times10^{-3}N$\n- b) $5N$\n- c) $5\\times10^{3}N$\n- d) $10\\times10^{-3}N$\n**Answer:** -\n**Solution:** -\n**Tags:** -\n\n### Q93\n**Type:** mcq\n**Stem:** অ্যাম্পিয়ারের সূত্র-\n[যা. বি. 2016-17]\n**Options:** \n- a) তড়িৎপ্রবাহ নির্ণয় করে\n- b) তড়িৎপ্রবাহের সাথে চৌম্বকক্ষেত্রের সম্পর্ক নির্ণয় করে\n- c) তড়িৎ চুম্বকীয় আবেষ্ট ব্যাখ্যা করে\n- d) পরিবাহিতার সূত্র\n**Answer:** -\n**Solution:** -\n**Tags:** গোলাম হোসেন\n\n### Q94\n**Type:** mcq\n**Stem:** তড়িৎ চৌম্বকীয় আবেষ্টের ওপর ভিত্তি করে নিচের কোন তড়িৎ যন্ত্র তৈরি করা হয়? [ব. বো.-19]\n**Options:** \n- a) মোটর\n- b) ট্রান্সফরমার\n- c) অ্যাম্পিফিয়ার\n- d) রেকটিফিয়ার\n**Answer:** -\n**Solution:** -\n**Tags:** গোলাম হোসেন\n\n### Q95\n**Type:** mcq\n**Stem:** তড়িৎবাহী একটি কুণ্ডলীকে সুষম চৌম্বকক্ষেত্রে ছাপন করলে নিচের কোনটি সৃষ্ট হবে?\n**Options:** \n- a) টর্ক\n- b) আবিষ্ট emf\n- c) আবিষ্ট তড়িৎপ্রবাহ\n- d) আবিষ্ট চার্জ\n**Answer:** -\n**Solution:** -\n**Tags:** গোলাম হোসেন\n\n### Q96\n**Type:** mcq\n**Stem:** $0.4\\ T$ চৌম্বক্ষেত্র থেকে r দূরত্বে একটি প্রবাহী তারকে ছাপন করা হলো। তারটিকে 2r দূরত্বে ছাপন করলে চৌম্বক্ষেত্র কত হবে? প্রবাহী তারের প্রবাহমাত্রা i |\n**Options:** \n- a) $0.2\\ T$\n- b) $0.4T$\n- c) $0.8\\ T$\n- d) $1.6T$\n**Answer:** -\n**Solution:** -\n**Tags:** গোলাম হোসেন\n\n```none\n96. চৌম্বকের থেকে r দূরত্বে একটি প্রবাহী তারকে স্থাপন করা হলে। তারটিকে 2r দূরত্বে স্থাপন করলে চৌম্বকের কত হবে?\nপ্রবাহী তারের প্রবাহমাত্রা i |\nক. 0.2 T   খ. 0.4T    গ. 0.8 T     ঘ. 1.6T\n\n[গোলাম হোসেন]\n\n97. ফোনো কুণ্ডলীর নিকট একটি দড় চৌম্বকে গতিশীল করলে এতে তড়িচ্ছালিক শক্তি আবিষ্ট হয়। এই প্রক্রিয়ায় কোন শক্তি রূপান্তরিত হয়?\n\n[খ. বো-15]\nক. চৌম্বক শক্তি      খ. তড়িত শক্তি\nগ. যান্ত্রিক শক্তি       ঘ. পারমাণবিক শক্তি\n[গোলাম হোসেন]\n\nপৃথিবীর চৌম্বকত্ব এবং চৌম্বকের উপদান\n\n98. ভূ-চৌম্বকের মৌলিক উপদান কয়টি? {সিকল বোর্ড-2018}\nক. 3        খ. 2         গ. 4          ঘ. 5\n\n[শহজাহান তপন, আমির হোসেন]\n\n99. ভূপৃষ্ঠের যে ছানে ভূ-চৌম্বক প্রভাবের অনুভূমিক ও উল্লম্ব উপাঙ্শ সমান, সেখানে-\nক. বিন্দি কোণ 0°           খ. বিন্দি কোণ 90°\nগ. বিন্দি কোণ 45°            ঘ. বিন্দি কোণ 60°\n[আমির হোসেন]\n\n100. কোনো ছানে H = 40μT এবং δ = 45°। ওই ছানে ভূ-চৌম্বক\nফেরের মান কত? {দি. বো. 2016}\nক. 50.5 μT                খ. 53.3 μT\nগ. 55.5 μT                ঘ. 56.57 μT\n[আমির হোসেন]\n\n| 81.ক | 82.গ | 83.খ | 84.খ | 85.গ | 86.খ |\n|------|------|------|------|------|------|\n| 87.ক | 88.গ | 89.ক | 90.খ | 91.ক | 92.ক |\n| 93.খ | 94.খ | 95.ক | 96.ক | 97.গ | 98.ক |\n| 99.গ | 100.খ |\n\nchase your dream to be a Doctor...",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q81",
+          "content_markdown": "পদার্থ ২য় পত্র\n15 cm × 2cm × 1 cm মাপের একটি চৌম্বক চোষ্কের চৌম্বক ভ্রামক 1.2 Am²। এর চুম্বক মাত্রা কত?",
+          "structured_data": {
+            "question_number": "81",
+            "subtype": "mcq",
+            "stem": "পদার্থ ২য় পত্র\n15 cm × 2cm × 1 cm মাপের একটি চৌম্বক চোষ্কের চৌম্বক ভ্রামক 1.2 Am²। এর চুম্বক মাত্রা কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$4\\times 10^4\\,\\mathrm{Am}^{-1}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "$2\\times 10^4\\,\\mathrm{Am}^{-1}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$10^4\\,\\mathrm{Am}^{-1}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "0",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a)",
+            "solution_markdown": "সমাধান:\n\nচৌম্বক ভ্রামক $\\mathcal{B}=1.2\\;\\mathrm{Am}^{2}$ এবং আয়তনের গণিতগত অনুপাত হল,\n\n$$\nV = l \\times w \\times h = 15\\;\\mathrm{cm}\\times 2\\;\\mathrm{cm}\\times 1\\;\\mathrm{cm} = 30\\;\\mathrm{cm}^3 = 30 \\times 10^{-6}\\;\\mathrm{m}^3\n$$\n\nএখন চৌম্বক মাত্রা হল,\n\n$$\nI_{\\mathrm{m}}=\\frac{\\mathcal{B}}{V} = \\frac{1.2}{30 \\times 10^{-6}} = 4 \\times 10^4\\;\\mathrm{A/m}\n$$",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "089c27e8-b7bf-5314-a5bb-5d2e22a65966"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q82",
+          "content_markdown": "একই দৈর্ঘ্যের দুটি তারের একটি বর্গকার এবং অন্যটিকে বৃত্তাকার বাঁকানো হলো। ওদের মধ্যে একই প্রবাহমাত্রা পাঠানো হলে এদের চৌম্বক ভ্রামকের অনুপাত কত?",
+          "structured_data": {
+            "question_number": "82",
+            "subtype": "mcq",
+            "stem": "একই দৈর্ঘ্যের দুটি তারের একটি বর্গকার এবং অন্যটিকে বৃত্তাকার বাঁকানো হলো। ওদের মধ্যে একই প্রবাহমাত্রা পাঠানো হলে এদের চৌম্বক ভ্রামকের অনুপাত কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$2:\\pi$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\pi : 2$",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "$\\pi : 4$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$8:4$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b)",
+            "solution_markdown": "সমাধান:\n\nবর্গকার তারের লম্ব ও প্রস্থ উভয়ই সমান হলে তারের জটিল ভ্রামক হল,\n\n$$\nB_1 = \\mu_0 \\cdot nI\n$$\n\nআর বৃত্তাকার তারের ব্যাস এবং প্রস্থ উভয়ই সমান হলে তারের জটিল ভ্রামক হল,\n\n$$\nB_2 = \\mu_0 \\cdot nI\n$$\n\nতাই দুইটি তারের চৌম্বক ভ্রামকের অনুপাত হল,\n\n$$\n\\frac{B_1}{B_2} = \\frac{nI}{nI} = 1\n$$\n\nএবং তারের ডুইটি চৌম্বক ভ্রামকের অনুপাত হল,\n\n$$\n\\frac{B_1}{B_2} = \\frac{\\pi r^2}{r^2} = \\pi : 2\n$$",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "7861fecf-d18c-57f2-8672-e3a748f84146"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q83",
+          "content_markdown": "B মানের একটি সুষম চৌম্বকক্ষেত্রের চৌম্বক বল রেখার সমান্তরালে অপরিবর্তনীয় বেগ V- তে চলমান একটি চার্জ e- এর ওপর ক্রিয়াশীল বল হলো-",
+          "structured_data": {
+            "question_number": "83",
+            "subtype": "mcq",
+            "stem": "B মানের একটি সুষম চৌম্বকক্ষেত্রের চৌম্বক বল রেখার সমান্তরালে অপরিবর্তনীয় বেগ V- তে চলমান একটি চার্জ e- এর ওপর ক্রিয়াশীল বল হলো-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Bev",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "0",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "eV/B",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "e/Bv",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a)",
+            "solution_markdown": "সমাধান:\n\nচার্জ e এর ওপর ক্রিয়াশীল বল হল,\n\n$$\nF = qE\n$$\n\nএখন চৌম্বক বল রেখার সমান্তরালে চলমান চার্জের বেগ হলো v এবং চৌম্বক ভ্রামক হলো B। তাছাড়াও চৌম্বক বল রেখার সমান্তরালে চলমান চার্জের বেগ হলো v। তাই চৌম্বক বল রেখার সমান্তরালে চলমান চার্জের ক্রিয়াশীল বল হলো,\n\n$$\nF = q(Bv)\n$$",
+            "tags_raw": "শহজাহান তপন",
+            "provenance": [
+              "শহজাহান তপন"
+            ]
+          },
+          "id": "f3e090e8-e815-5840-a79c-50d875ba2255"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q84",
+          "content_markdown": "ফোনো ছানে একই সাথে তড়িৎক্ষেত্রে ও চৌম্বকক্ষেত্রে বিদ্যমান থাকলে সেখানে একটি গতিশীল আধান যে বল লাভ করে তাকে কী বলে? [র. বি. ২০১৭-২০১৮]",
+          "structured_data": {
+            "question_number": "84",
+            "subtype": "mcq",
+            "stem": "ফোনো ছানে একই সাথে তড়িৎক্ষেত্রে ও চৌম্বকক্ষেত্রে বিদ্যমান থাকলে সেখানে একটি গতিশীল আধান যে বল লাভ করে তাকে কী বলে? [র. বি. ২০১৭-২০১৮]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "তড়িৎ বল",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "লরেঙ্গ বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "চৌম্বক বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "তড়িৎ চুম্বক বল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a)",
+            "solution_markdown": "সমাধান:\n\nফোনো ছানে একই সাথে তড়িৎক্ষেত্রে ও চৌম্বকক্ষেত্রে বিদ্যমান থাকলে সেখানে একটি গতিশীল আধান যে বল লাভ করে তাকে তড়িৎ বল বলে।",
+            "tags_raw": "শহজাহান তপন",
+            "provenance": [
+              "শহজাহান তপন"
+            ]
+          },
+          "id": "a84aaf1f-7bff-58b8-964c-d76c391bdd6f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q85",
+          "content_markdown": "q পরিমাণ আধান একটি চৌম্বকক্ষেত্রে $\\vec{B}$ এর সাথে সমান্তরালে $\\vec{V}$ বেগে গতিশীল। উত্তর ছানে একটি তড়িৎক্ষেত্রে $\\vec{E}$ থাকলে আধানের ওপর ক্রিয়াশীল বল কত হবে? [টি. বি. ২০১৯-২০২০]",
+          "structured_data": {
+            "question_number": "85",
+            "subtype": "mcq",
+            "stem": "q পরিমাণ আধান একটি চৌম্বকক্ষেত্রে $\\vec{B}$ এর সাথে সমান্তরালে $\\vec{V}$ বেগে গতিশীল। উত্তর ছানে একটি তড়িৎক্ষেত্রে $\\vec{E}$ থাকলে আধানের ওপর ক্রিয়াশীল বল কত হবে? [টি. বি. ২০১৯-২০২০]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "q($\\overrightarrow{E} + \\overrightarrow{V} \\times \\overrightarrow{B})$",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "q($\\overrightarrow{E} \\times \\overrightarrow{B})$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "q$\\overrightarrow{E}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "q($\\overrightarrow{E} + \\overrightarrow{V}. \\overrightarrow{B})$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a)",
+            "solution_markdown": "সমাধান:\n\nq পরিমাণ আধান একটি চৌম্বকক্ষেত্রে $\\vec{B}$ এর সাথে সমান্তরালে $\\vec{V}$ বেগে গতিশীল। উত্তর ছানে একটি তড়িৎক্ষেত্রে $\\vec{E}$ থাকলে আধানের ওপর ক্রিয়াশীল বল হলো,\n\n$$\n\\textbf{F}_{\\text{total}} = q(\\vec{E} + \\vec{V} \\times \\vec{B})\n$$",
+            "tags_raw": "শহজাহান তপন  ```none ক. q(→E+→V×→B )    খ. q(→E×→B ) গ. q→E              ঘ. q(→E+→V . →B )[শাহজাহান তপন] 86. একটি তারের কুবলীয় ফ্লেফল 2×10−4m2 এবং কুবলীয় মধ্য দিয়ে 0.01 A বিদ্যুৎ প্রবাহ চললে কুবলীর দ্বিপল মোমেন্ট কত হবে? [ব. কু. বি. 2017–2018] ক. 2×10−10A m2     খ. 2×10−6A m2 গ. 2×10−4A m2      ঘ. 2×10−2A m2   [শাহজাহান তপন] 87. স্পিনের দরুণ ইলেকট্রনের একটি চৌম্বক ভ্রামক উৎপন্ন হয় তাকে কি বলে? [ই. বি. 2017–2018] ক. অক্ষীয় চৌম্বক দ্বিপল ভ্রমক       খ. ইলেকট্রন স্পিন গ. ইলেকট্রন ভ্রামক                   ঘ. কোনোটি নয়   [শাহজাহান তপন] 88. একটি চুম্বকের মধ্যে একটি বৃহদাকার ছড়া করা হলে চৌম্বকের মান- ক. বৃদ্ধি পাবে                           খ. হ্রাস পাবে গ. অপরিবর্তিত থাকবে                  ঘ. শূন্য হবে        [শাহজাহান তপন] 89. পরস্পর থেকে 1 m দূরত্বে অবস্থিত 1 A তড়িৎ প্রবাহবাহী তারের প্রতি 1m দৈর্ঘ্যে যে বল ক্রিয়া করে তার মান- [ব. সো. '13] ক. 2×10−7N                                খ. 4×10−7N গ. 2π×10−7N                               ঘ. 4π×10−7N         [শামসুর রহমান] 90. 1.0 m দূরত্ব একটি সোজা তারের মধ্যে দিয়ে 5.0A বিদ্যুৎ প্রবাহিত হচ্ছে। তারটি 0.1 Wb/m2 ফ্লাক্স ঘনত্বের একটি সুষম চৌম্বক ক্ষেত্রের সাথে 30° কোণে একই তলে অবস্থান করলে কত মানের বল অনুভব হবে? [শা. বি. '12-'13] ক. 5.0 N                                  খ. 2.5 N গ. 2.0 N                                  ঘ. 0.25 N          [শামসুর রহমান]  অনুশীলনীর প্রশ্ন",
+            "provenance": [
+              "শহজাহান তপন  ```none ক. q(→E+→V×→B )    খ. q(→E×→B ) গ. q→E              ঘ. q(→E+→V . →B )[শাহজাহান তপন] 86. একটি তারের কুবলীয় ফ্লেফল 2×10−4m2 এবং কুবলীয় মধ্য দিয়ে 0.01 A বিদ্যুৎ প্রবাহ চললে কুবলীর দ্বিপল মোমেন্ট কত হবে? [ব. কু. বি. 2017–2018] ক. 2×10−10A m2     খ. 2×10−6A m2 গ. 2×10−4A m2      ঘ. 2×10−2A m2   [শাহজাহান তপন] 87. স্পিনের দরুণ ইলেকট্রনের একটি চৌম্বক ভ্রামক উৎপন্ন হয় তাকে কি বলে? [ই. বি. 2017–2018] ক. অক্ষীয় চৌম্বক দ্বিপল ভ্রমক       খ. ইলেকট্রন স্পিন গ. ইলেকট্রন ভ্রামক                   ঘ. কোনোটি নয়   [শাহজাহান তপন] 88. একটি চুম্বকের মধ্যে একটি বৃহদাকার ছড়া করা হলে চৌম্বকের মান- ক. বৃদ্ধি পাবে                           খ. হ্রাস পাবে গ. অপরিবর্তিত থাকবে                  ঘ. শূন্য হবে        [শাহজাহান তপন] 89. পরস্পর থেকে 1 m দূরত্বে অবস্থিত 1 A তড়িৎ প্রবাহবাহী তারের প্রতি 1m দৈর্ঘ্যে যে বল ক্রিয়া করে তার মান- [ব. সো. '13] ক. 2×10−7N                                খ. 4×10−7N গ. 2π×10−7N                               ঘ. 4π×10−7N         [শামসুর রহমান] 90. 1.0 m দূরত্ব একটি সোজা তারের মধ্যে দিয়ে 5.0A বিদ্যুৎ প্রবাহিত হচ্ছে। তারটি 0.1 Wb/m2 ফ্লাক্স ঘনত্বের একটি সুষম চৌম্বক ক্ষেত্রের সাথে 30° কোণে একই তলে অবস্থান করলে কত মানের বল অনুভব হবে? [শা. বি. '12-'13] ক. 5.0 N                                  খ. 2.5 N গ. 2.0 N                                  ঘ. 0.25 N          [শামসুর রহমান]  অনুশীলনীর প্রশ্ন"
+            ]
+          },
+          "id": "83d4de87-efa1-586d-bec6-9a03388f7d69"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q91",
+          "content_markdown": "চৌম্বক ক্ষেত্রের গতিশীল আধানের উপরের বলের মান কোনটি নয়?\n[মেডিকেল '01-02]",
+          "structured_data": {
+            "question_number": "91",
+            "subtype": "mcq",
+            "stem": "চৌম্বক ক্ষেত্রের গতিশীল আধানের উপরের বলের মান কোনটি নয়?\n[মেডিকেল '01-02]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "চৌম্বক ক্ষেত্রের মাধ্যমে মানের ব্যত্তানুপাতিক,",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "চৌম্বক ক্ষেত্রের মানের সমানুপাতিক,",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আধানের মানের সমানুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "আধানের বেগের সমানুপাতিক.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-",
+            "solution_markdown": "-",
+            "tags_raw": "শাহবুর রহমান",
+            "provenance": [
+              "শাহবুর রহমান"
+            ]
+          },
+          "id": "0b06d923-c344-5d07-951f-32637869a5b6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q92",
+          "content_markdown": "$10^{-3}$ Tesla চৌম্বক ক্ষেত্রে সাথে লভভাবে অবচ্ছিন্ন একটি সোজা তার দিয়ে 5A তড়িৎ প্রবাহ হচ্ছে। তারটির একটি দৈর্ঘ্যের ওপর প্রযুক্ত বল নির্ণয় করো। [দ. বি.-11-12]",
+          "structured_data": {
+            "question_number": "92",
+            "subtype": "mcq",
+            "stem": "$10^{-3}$ Tesla চৌম্বক ক্ষেত্রে সাথে লভভাবে অবচ্ছিন্ন একটি সোজা তার দিয়ে 5A তড়িৎ প্রবাহ হচ্ছে। তারটির একটি দৈর্ঘ্যের ওপর প্রযুক্ত বল নির্ণয় করো। [দ. বি.-11-12]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$5\\times10^{-3}N$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$5N$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$5\\times10^{3}N$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$10\\times10^{-3}N$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-",
+            "solution_markdown": "-",
+            "tags_raw": "-",
+            "provenance": [
+              "-"
+            ]
+          },
+          "id": "b61c3eaf-c33f-55d3-beb0-f8d051dee36c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q93",
+          "content_markdown": "অ্যাম্পিয়ারের সূত্র-\n[যা. বি. 2016-17]",
+          "structured_data": {
+            "question_number": "93",
+            "subtype": "mcq",
+            "stem": "অ্যাম্পিয়ারের সূত্র-\n[যা. বি. 2016-17]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "তড়িৎপ্রবাহ নির্ণয় করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তড়িৎপ্রবাহের সাথে চৌম্বকক্ষেত্রের সম্পর্ক নির্ণয় করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "তড়িৎ চুম্বকীয় আবেষ্ট ব্যাখ্যা করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "পরিবাহিতার সূত্র",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-",
+            "solution_markdown": "-",
+            "tags_raw": "গোলাম হোসেন",
+            "provenance": [
+              "গোলাম হোসেন"
+            ]
+          },
+          "id": "60bed184-0b39-53c6-b056-e8aaf136ff9c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q94",
+          "content_markdown": "তড়িৎ চৌম্বকীয় আবেষ্টের ওপর ভিত্তি করে নিচের কোন তড়িৎ যন্ত্র তৈরি করা হয়? [ব. বো.-19]",
+          "structured_data": {
+            "question_number": "94",
+            "subtype": "mcq",
+            "stem": "তড়িৎ চৌম্বকীয় আবেষ্টের ওপর ভিত্তি করে নিচের কোন তড়িৎ যন্ত্র তৈরি করা হয়? [ব. বো.-19]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মোটর",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ট্রান্সফরমার",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অ্যাম্পিফিয়ার",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "রেকটিফিয়ার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-",
+            "solution_markdown": "-",
+            "tags_raw": "গোলাম হোসেন",
+            "provenance": [
+              "গোলাম হোসেন"
+            ]
+          },
+          "id": "cfc01c76-d487-5bbe-bd3c-d57db5106f01"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q95",
+          "content_markdown": "তড়িৎবাহী একটি কুণ্ডলীকে সুষম চৌম্বকক্ষেত্রে ছাপন করলে নিচের কোনটি সৃষ্ট হবে?",
+          "structured_data": {
+            "question_number": "95",
+            "subtype": "mcq",
+            "stem": "তড়িৎবাহী একটি কুণ্ডলীকে সুষম চৌম্বকক্ষেত্রে ছাপন করলে নিচের কোনটি সৃষ্ট হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "টর্ক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "আবিষ্ট emf",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আবিষ্ট তড়িৎপ্রবাহ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "আবিষ্ট চার্জ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-",
+            "solution_markdown": "-",
+            "tags_raw": "গোলাম হোসেন",
+            "provenance": [
+              "গোলাম হোসেন"
+            ]
+          },
+          "id": "1d9b4547-9ad1-598d-b640-7ab2daa062c1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q96",
+          "content_markdown": "$0.4\\ T$ চৌম্বক্ষেত্র থেকে r দূরত্বে একটি প্রবাহী তারকে ছাপন করা হলো। তারটিকে 2r দূরত্বে ছাপন করলে চৌম্বক্ষেত্র কত হবে? প্রবাহী তারের প্রবাহমাত্রা i |",
+          "structured_data": {
+            "question_number": "96",
+            "subtype": "mcq",
+            "stem": "$0.4\\ T$ চৌম্বক্ষেত্র থেকে r দূরত্বে একটি প্রবাহী তারকে ছাপন করা হলো। তারটিকে 2r দূরত্বে ছাপন করলে চৌম্বক্ষেত্র কত হবে? প্রবাহী তারের প্রবাহমাত্রা i |",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$0.2\\ T$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$0.4T$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$0.8\\ T$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$1.6T$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-",
+            "solution_markdown": "-",
+            "tags_raw": "গোলাম হোসেন  ```none 96. চৌম্বকের থেকে r দূরত্বে একটি প্রবাহী তারকে স্থাপন করা হলে। তারটিকে 2r দূরত্বে স্থাপন করলে চৌম্বকের কত হবে? প্রবাহী তারের প্রবাহমাত্রা i | ক. 0.2 T   খ. 0.4T    গ. 0.8 T     ঘ. 1.6T  [গোলাম হোসেন]  97. ফোনো কুণ্ডলীর নিকট একটি দড় চৌম্বকে গতিশীল করলে এতে তড়িচ্ছালিক শক্তি আবিষ্ট হয়। এই প্রক্রিয়ায় কোন শক্তি রূপান্তরিত হয়?  [খ. বো-15] ক. চৌম্বক শক্তি      খ. তড়িত শক্তি গ. যান্ত্রিক শক্তি       ঘ. পারমাণবিক শক্তি [গোলাম হোসেন]  পৃথিবীর চৌম্বকত্ব এবং চৌম্বকের উপদান  98. ভূ-চৌম্বকের মৌলিক উপদান কয়টি? {সিকল বোর্ড-2018} ক. 3        খ. 2         গ. 4          ঘ. 5  [শহজাহান তপন, আমির হোসেন]  99. ভূপৃষ্ঠের যে ছানে ভূ-চৌম্বক প্রভাবের অনুভূমিক ও উল্লম্ব উপাঙ্শ সমান, সেখানে- ক. বিন্দি কোণ 0°           খ. বিন্দি কোণ 90° গ. বিন্দি কোণ 45°            ঘ. বিন্দি কোণ 60° [আমির হোসেন]  100. কোনো ছানে H = 40μT এবং δ = 45°। ওই ছানে ভূ-চৌম্বক ফেরের মান কত? {দি. বো. 2016} ক. 50.5 μT                খ. 53.3 μT গ. 55.5 μT                ঘ. 56.57 μT [আমির হোসেন]  | 81.ক | 82.গ | 83.খ | 84.খ | 85.গ | 86.খ | |------|------|------|------|------|------| | 87.ক | 88.গ | 89.ক | 90.খ | 91.ক | 92.ক | | 93.খ | 94.খ | 95.ক | 96.ক | 97.গ | 98.ক | | 99.গ | 100.খ |  chase your dream to be a Doctor...",
+            "provenance": [
+              "গোলাম হোসেন  ```none 96. চৌম্বকের থেকে r দূরত্বে একটি প্রবাহী তারকে স্থাপন করা হলে। তারটিকে 2r দূরত্বে স্থাপন করলে চৌম্বকের কত হবে? প্রবাহী তারের প্রবাহমাত্রা i | ক. 0.2 T   খ. 0.4T    গ. 0.8 T     ঘ. 1.6T  [গোলাম হোসেন]  97. ফোনো কুণ্ডলীর নিকট একটি দড় চৌম্বকে গতিশীল করলে এতে তড়িচ্ছালিক শক্তি আবিষ্ট হয়। এই প্রক্রিয়ায় কোন শক্তি রূপান্তরিত হয়?  [খ. বো-15] ক. চৌম্বক শক্তি      খ. তড়িত শক্তি গ. যান্ত্রিক শক্তি       ঘ. পারমাণবিক শক্তি [গোলাম হোসেন]  পৃথিবীর চৌম্বকত্ব এবং চৌম্বকের উপদান  98. ভূ-চৌম্বকের মৌলিক উপদান কয়টি? {সিকল বোর্ড-2018} ক. 3        খ. 2         গ. 4          ঘ. 5  [শহজাহান তপন",
+              "আমির হোসেন]  99. ভূপৃষ্ঠের যে ছানে ভূ-চৌম্বক প্রভাবের অনুভূমিক ও উল্লম্ব উপাঙ্শ সমান",
+              "সেখানে- ক. বিন্দি কোণ 0°           খ. বিন্দি কোণ 90° গ. বিন্দি কোণ 45°            ঘ. বিন্দি কোণ 60° [আমির হোসেন]  100. কোনো ছানে H = 40μT এবং δ = 45°। ওই ছানে ভূ-চৌম্বক ফেরের মান কত? {দি. বো. 2016} ক. 50.5 μT                খ. 53.3 μT গ. 55.5 μT                ঘ. 56.57 μT [আমির হোসেন]  | 81.ক | 82.গ | 83.খ | 84.খ | 85.গ | 86.খ | |------|------|------|------|------|------| | 87.ক | 88.গ | 89.ক | 90.খ | 91.ক | 92.ক | | 93.খ | 94.খ | 95.ক | 96.ক | 97.গ | 98.ক | | 99.গ | 100.খ |  chase your dream to be a Doctor..."
+            ]
+          },
+          "id": "285eaa66-568b-599b-97be-c58a0e901252"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 11,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 292.55,
+        "eval_count": 5893
+      }
+    },
+    {
+      "page_number": 6,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q101\n**Type:** mcq\n**Stem:** চাকরি ডু-চূড়াক্ষেত্রের বিচ্ছিন্ন কোণ কত? [Medical Admission Test, 2017-18]\n**Options:** \n- a) $31^{\\circ}N$\n- b) $\\frac{1}{2}E$\n- c) $13^{\\circ}S$\n- d) $\\frac{1}{2}W$\n\n**Answer:** c) $13^{\\circ}S$\n\n**Solution:** The question asks about the angle at which the dipole moment vector splits when it passes through the center of a spherical shell. In such cases, the splitting occurs symmetrically around the axis perpendicular to the plane containing the dipole moment. Given that we need to find the angle where the dipole moment splits, the correct option would be the negative direction since the dipole moment points from south pole to north pole. Therefore, the correct choice is:\n\nc) $13^{\\circ}S$\n\n**Tags:** Medical Admission Test, 2017-18\n\n### Q102\n**Type:** mcq\n**Stem:** ডু-চৌষ্ঠিক ফেয়েটের মৌলিক উপাদান নিচের কোনগুলি?\n**Options:** \n- a) বিনতি, টোগোলিক মধ্যতল ও চৌষ্ঠিক মধ্যতল\n- b) টোগোলিক মধ্যতল, চৌষ্ঠিক মধ্যতল ও বিচ্ছিন্ন\n- c) বিনতি, চৈত্রিণ্ডি এবং ডু-চৌষ্ঠিক ক্ষেত্রের অনুভূমিক উপাশ\n- d) টোগোলিক মধ্যতল, ডু-চৌষ্ঠিক ফেয়েটের উল্লম্ব উপাশ ও বিচ্ছিন্ন\n\n**Answer:** d) টোগোলিক মধ্যতল, ডু-চৌষ্ঠিক ফেয়েটের উল্লম্ব উপাশ ও বিচ্ছিন্ন\n\n**Solution:** The primary components of the doublet field include the tangential component along the equatorial plane (tolelic midplane), radial component along the central axis (doublet midplane), and the vertical component normal to these planes (perpendicular component). Thus, the correct combination includes all three mentioned components.\n\nd) টোগোলিক মধ্যতল, ডু-চৌষ্ঠিক ফেয়েটের উল্লম্ব উপাশ ও বিচ্ছিন্ন\n\n**Tags:** আমির হোসেন\n\n### Q103\n**Type:** mcq\n**Stem:** নিচের কোনটি ডু-চৌষ্ঠিক ক্ষেত্রের উপাদান নয়?\n**Answer:** বিচ্ছিন্ন\n\n**Solution:** Among the given options, \"বিচ্ছিন্ন\" does not represent any fundamental part of the doublet field. Doublet field consists primarily of the tangential and radial components related to the tolelic and doublet midplanes respectively. Therefore,\n\nb) বিচ্ছিন্ন\n\n**Tags:** খ. বো। 2019\n\n### Q104\n**Type:** mcq\n**Stem:** ডু-চৌষ্ঠিক ফেয়েটের অনুভূমিক উপাদানের মান শূন্য হয়-\n**Options:** \n- a) নিরফ্রিঘ অংশে\n- b) মেরু অংশে\n- c) $60^{\\circ}$ অংকণে\n- d) $90^{\\circ}$ অংকণে\n\n**Answer:** d) $90^{\\circ}$ অংকণে\n\n**Solution:** At angles greater than $90^\\circ$, the magnetic field lines become parallel to the surface of the sphere, resulting in zero magnetic flux density within the sphere due to symmetry considerations. Hence,\n\nd) $90^{\\circ}$ অংকণে\n\n**Tags:** আমির হোসেন\n\n### Q105\n**Type:** mcq\n**Stem:** কোনো ছানের ডু-চূড়াক্ষেত্রের অনুভূমিক উপাশের উল্লম্ব উপাশের $\\sqrt{2}$ গুণ -\n**Options:** \n- a) $75^{\\circ}$\n- b) $60^{\\circ}$\n- c) $45^{\\circ}$\n- d) $30^{\\circ}$\n\n**Answer:** c) $45^{\\circ}$\n\n**Solution:** When considering the geometry of the doublet field, the relationship between the azimuthal and polar coordinates can be derived using trigonometric identities. Specifically, the angle whose cosine value equals half of the square root of two corresponds to approximately $45^\\circ$. Hence,\n\nc) $45^{\\circ}$\n\n**Tags:** আমির হোসেন\n\n### Q106\n**Type:** mcq\n**Stem:** পৃথিবীর বিচ্ছিন্ন কোণ শূন্য—\n**Options:** \n- a) চৌষ্ঠিক মেরুতে\n- b) চৌষ্ঠিক নিরক্ষরেখায়\n- c) টোগোলিক মেরুতে\n- d) $90^{\\circ}$ অংকণে\n\n**Answer:** b) চৌষ্ঠিক নিরক্ষরেখায়\n\n**Solution:** The equipotential surfaces of Earth's electric field intersect perpendicularly at right angles ($\\pi/2$ radians = $90^\\circ$) to its meridians and parallels. This means that the potential gradient vanishes exactly halfway between them, i.e., at the equator. Hence,\n\nb) চৌষ্ঠিক নিরক্ষরেখায়\n\n**Tags:** আমির হোসেন\n\n### Q107\n**Type:** mcq\n**Stem:** পূর্ব-পশ্চিমে প্রসারিত একটি তারের প্রবাহমাত্রা $2 \\mathrm{~A}$. ডু-চূড়াক্ষেত্রের অনুভূমিক উপাদানের জন্য $(H=10^{-4}\\text{T})$ তারের একটি দৈর্ঘ্য কত বল ক্রিয়া করবে?\n**Options:** \n- a) $2\\times10^{-3}\\text{N}$\n- b) $5\\times10^{-3}\\text{N}$\n- c) $5\\times10^{-5}\\text{N}$\n- d) শূন্য\n\n**Answer:** a) $2\\times10^{-3}\\text{N}$\n\n**Solution:** According to Ampere’s law for an infinitely long straight wire carrying current $I$ in a uniform magnetic field $B$:\n\n$$\nF = I L B\n$$\n\nHere,\n$I = 2 \\text{ A}, H = 10^{-4} \\text{ T}, L = ?$\n\nThe force on one segment of length $L$ will be:\n\n$$\nF = I L B\n$$\n\nSubstituting values into equation: \n\n$$\nF = 2 \\times L \\times 10^{-4}\n$$\n\nGiven that this force should equal $2 \\times 10^{-3} \\text{ N}$:\n\n$$\n2 \\times L \\times 10^{-4} = 2 \\times 10^{-3}\n$$\n\n$$\nL = \\frac{2 \\times 10^{-3}}{2 \\times 10^{-4}}\n$$\n\n$$\nL = 10 \\text{ m}\n$$\n\nTherefore, the answer is:\na) $2\\times10^{-3}\\text{N}$\n\n**Tags:** আমির হোসেন\n\n### Q108\n**Type:** mcq\n**Stem:** ডু-চূড়াক্ষেত্রের অনুভূমিক উপাদান $H = 0.3 \\text{ Oe}$ | S.I. পদ্ধতিতে এর মান-\n**Options:** \n- a) $0.3 \\text{ Am}^{-1}$\n- b) $300 \\text{ Am}^{-1}$\n- c) $24 \\text{ Am}^{-1}$\n- d) কোনোটিই নয় [Amir Hossein]\n\n**Answer:** a) $0.3 \\text{ Am}^{-1}$\n\n**Solution:** In SI units, the unit conversion from Oersted (Oe) to Amperes per meter ($\\text{Am}^{-1}$) involves multiplying by $10^{4} / M_{r}$.\n\nSince $H = 0.3 \\text{ Oe }$,\n\n$$\nH(\\text{SI}) = 0.3 \\times 10^{4}/M_r \\approx 0.3 \\text{ Am}^{-1}\n$$\n\nThus:\n\na) $0.3 \\text{ Am}^{-1}$\n\n**Tags:** Amir Hossein",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q101",
+          "content_markdown": "চাকরি ডু-চূড়াক্ষেত্রের বিচ্ছিন্ন কোণ কত? [Medical Admission Test, 2017-18]",
+          "structured_data": {
+            "question_number": "101",
+            "subtype": "mcq",
+            "stem": "চাকরি ডু-চূড়াক্ষেত্রের বিচ্ছিন্ন কোণ কত? [Medical Admission Test, 2017-18]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$31^{\\circ}N$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{1}{2}E$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$13^{\\circ}S$",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "$\\frac{1}{2}W$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) $13^{\\circ}S$",
+            "solution_markdown": "The question asks about the angle at which the dipole moment vector splits when it passes through the center of a spherical shell. In such cases, the splitting occurs symmetrically around the axis perpendicular to the plane containing the dipole moment. Given that we need to find the angle where the dipole moment splits, the correct option would be the negative direction since the dipole moment points from south pole to north pole. Therefore, the correct choice is:\n\nc) $13^{\\circ}S$",
+            "tags_raw": "Medical Admission Test, 2017-18",
+            "provenance": [
+              "Medical Admission Test",
+              "2017-18"
+            ]
+          },
+          "id": "4544acbc-99fc-5305-a44b-0ceb37b3c4da"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q102",
+          "content_markdown": "ডু-চৌষ্ঠিক ফেয়েটের মৌলিক উপাদান নিচের কোনগুলি?",
+          "structured_data": {
+            "question_number": "102",
+            "subtype": "mcq",
+            "stem": "ডু-চৌষ্ঠিক ফেয়েটের মৌলিক উপাদান নিচের কোনগুলি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বিনতি, টোগোলিক মধ্যতল ও চৌষ্ঠিক মধ্যতল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "টোগোলিক মধ্যতল, চৌষ্ঠিক মধ্যতল ও বিচ্ছিন্ন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বিনতি, চৈত্রিণ্ডি এবং ডু-চৌষ্ঠিক ক্ষেত্রের অনুভূমিক উপাশ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "টোগোলিক মধ্যতল, ডু-চৌষ্ঠিক ফেয়েটের উল্লম্ব উপাশ ও বিচ্ছিন্ন",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d) টোগোলিক মধ্যতল, ডু-চৌষ্ঠিক ফেয়েটের উল্লম্ব উপাশ ও বিচ্ছিন্ন",
+            "solution_markdown": "The primary components of the doublet field include the tangential component along the equatorial plane (tolelic midplane), radial component along the central axis (doublet midplane), and the vertical component normal to these planes (perpendicular component). Thus, the correct combination includes all three mentioned components.\n\nd) টোগোলিক মধ্যতল, ডু-চৌষ্ঠিক ফেয়েটের উল্লম্ব উপাশ ও বিচ্ছিন্ন",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "c5715224-8459-52ee-ae41-aeac72f1dc26"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q103",
+          "content_markdown": "নিচের কোনটি ডু-চৌষ্ঠিক ক্ষেত্রের উপাদান নয়?",
+          "structured_data": {
+            "question_number": "103",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটি ডু-চৌষ্ঠিক ক্ষেত্রের উপাদান নয়?",
+            "options": [],
+            "correct_answer": "বিচ্ছিন্ন",
+            "solution_markdown": "Among the given options, \"বিচ্ছিন্ন\" does not represent any fundamental part of the doublet field. Doublet field consists primarily of the tangential and radial components related to the tolelic and doublet midplanes respectively. Therefore,\n\nb) বিচ্ছিন্ন",
+            "tags_raw": "খ. বো। 2019",
+            "provenance": [
+              "খ. বো। 2019"
+            ]
+          },
+          "id": "39c56f12-b7a1-5465-b49b-6af4d47cb4b3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q104",
+          "content_markdown": "ডু-চৌষ্ঠিক ফেয়েটের অনুভূমিক উপাদানের মান শূন্য হয়-",
+          "structured_data": {
+            "question_number": "104",
+            "subtype": "mcq",
+            "stem": "ডু-চৌষ্ঠিক ফেয়েটের অনুভূমিক উপাদানের মান শূন্য হয়-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "নিরফ্রিঘ অংশে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মেরু অংশে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$60^{\\circ}$ অংকণে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$90^{\\circ}$ অংকণে",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d) $90^{\\circ}$ অংকণে",
+            "solution_markdown": "At angles greater than $90^\\circ$, the magnetic field lines become parallel to the surface of the sphere, resulting in zero magnetic flux density within the sphere due to symmetry considerations. Hence,\n\nd) $90^{\\circ}$ অংকণে",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "f1423f11-3bbe-5c1e-b43f-8247ba55ec94"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q105",
+          "content_markdown": "কোনো ছানের ডু-চূড়াক্ষেত্রের অনুভূমিক উপাশের উল্লম্ব উপাশের $\\sqrt{2}$ গুণ -",
+          "structured_data": {
+            "question_number": "105",
+            "subtype": "mcq",
+            "stem": "কোনো ছানের ডু-চূড়াক্ষেত্রের অনুভূমিক উপাশের উল্লম্ব উপাশের $\\sqrt{2}$ গুণ -",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$75^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$60^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$45^{\\circ}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "$30^{\\circ}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) $45^{\\circ}$",
+            "solution_markdown": "When considering the geometry of the doublet field, the relationship between the azimuthal and polar coordinates can be derived using trigonometric identities. Specifically, the angle whose cosine value equals half of the square root of two corresponds to approximately $45^\\circ$. Hence,\n\nc) $45^{\\circ}$",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "b2fbdd5b-3f5e-5c33-a745-491c6c4f64c5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q106",
+          "content_markdown": "পৃথিবীর বিচ্ছিন্ন কোণ শূন্য—",
+          "structured_data": {
+            "question_number": "106",
+            "subtype": "mcq",
+            "stem": "পৃথিবীর বিচ্ছিন্ন কোণ শূন্য—",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "চৌষ্ঠিক মেরুতে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "চৌষ্ঠিক নিরক্ষরেখায়",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "টোগোলিক মেরুতে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$90^{\\circ}$ অংকণে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b) চৌষ্ঠিক নিরক্ষরেখায়",
+            "solution_markdown": "The equipotential surfaces of Earth's electric field intersect perpendicularly at right angles ($\\pi/2$ radians = $90^\\circ$) to its meridians and parallels. This means that the potential gradient vanishes exactly halfway between them, i.e., at the equator. Hence,\n\nb) চৌষ্ঠিক নিরক্ষরেখায়",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "86a72dca-413a-5cf8-b92e-466ec1674752"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q107",
+          "content_markdown": "পূর্ব-পশ্চিমে প্রসারিত একটি তারের প্রবাহমাত্রা $2 \\mathrm{~A}$. ডু-চূড়াক্ষেত্রের অনুভূমিক উপাদানের জন্য $(H=10^{-4}\\text{T})$ তারের একটি দৈর্ঘ্য কত বল ক্রিয়া করবে?",
+          "structured_data": {
+            "question_number": "107",
+            "subtype": "mcq",
+            "stem": "পূর্ব-পশ্চিমে প্রসারিত একটি তারের প্রবাহমাত্রা $2 \\mathrm{~A}$. ডু-চূড়াক্ষেত্রের অনুভূমিক উপাদানের জন্য $(H=10^{-4}\\text{T})$ তারের একটি দৈর্ঘ্য কত বল ক্রিয়া করবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$2\\times10^{-3}\\text{N}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "$5\\times10^{-3}\\text{N}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$5\\times10^{-5}\\text{N}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "শূন্য",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) $2\\times10^{-3}\\text{N}$",
+            "solution_markdown": "According to Ampere’s law for an infinitely long straight wire carrying current $I$ in a uniform magnetic field $B$:\n\n$$\nF = I L B\n$$\n\nHere,\n$I = 2 \\text{ A}, H = 10^{-4} \\text{ T}, L = ?$\n\nThe force on one segment of length $L$ will be:\n\n$$\nF = I L B\n$$\n\nSubstituting values into equation: \n\n$$\nF = 2 \\times L \\times 10^{-4}\n$$\n\nGiven that this force should equal $2 \\times 10^{-3} \\text{ N}$:\n\n$$\n2 \\times L \\times 10^{-4} = 2 \\times 10^{-3}\n$$\n\n$$\nL = \\frac{2 \\times 10^{-3}}{2 \\times 10^{-4}}\n$$\n\n$$\nL = 10 \\text{ m}\n$$\n\nTherefore, the answer is:\na) $2\\times10^{-3}\\text{N}$",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "0804577f-2a0c-5951-85d4-b5d1ef390c0e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q108",
+          "content_markdown": "ডু-চূড়াক্ষেত্রের অনুভূমিক উপাদান $H = 0.3 \\text{ Oe}$ | S.I. পদ্ধতিতে এর মান-",
+          "structured_data": {
+            "question_number": "108",
+            "subtype": "mcq",
+            "stem": "ডু-চূড়াক্ষেত্রের অনুভূমিক উপাদান $H = 0.3 \\text{ Oe}$ | S.I. পদ্ধতিতে এর মান-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$0.3 \\text{ Am}^{-1}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "$300 \\text{ Am}^{-1}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$24 \\text{ Am}^{-1}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোনোটিই নয় [Amir Hossein]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) $0.3 \\text{ Am}^{-1}$",
+            "solution_markdown": "In SI units, the unit conversion from Oersted (Oe) to Amperes per meter ($\\text{Am}^{-1}$) involves multiplying by $10^{4} / M_{r}$.\n\nSince $H = 0.3 \\text{ Oe }$,\n\n$$\nH(\\text{SI}) = 0.3 \\times 10^{4}/M_r \\approx 0.3 \\text{ Am}^{-1}\n$$\n\nThus:\n\na) $0.3 \\text{ Am}^{-1}$",
+            "tags_raw": "Amir Hossein",
+            "provenance": [
+              "Amir Hossein"
+            ]
+          },
+          "id": "ae2a4da4-0889-5ed2-8b45-223f4bb42381"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 8,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 130.1,
+        "eval_count": 2531
+      }
+    },
+    {
+      "page_number": 7,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### 128. পৃথিবীর উত্তর চৌম্বক মেরোতে বিনির্দির মান - [ঢ. বি. '03-'04]\n- a) $0^{\\circ}$\n- b) $45^{\\circ}$\n- c) $90^{\\circ}$\n\n**Answer:** গ. $90^{\\circ}$\n\n**Solution:** পৃথিবীর উত্তর চৌম্বক মেরোতে বিনির্দির মান হচ্ছে $90^{\\circ}$।\n\n**Tags:** শহজাহান তপন, শামসূর রহমান\n\n### 125. ডু-চুষ্কের ফেরে নিচের কোন তথ্যটি সত্যিক? [মডিকেল '12-'13]\n- a) দক্ষিণ মেরোকে নীল মের বলে\n- b) ডু-চুষ্কের দক্ষিণ মেরোক কানাডার উত্তরাধিকারের হাওয়ান বে এলাকায় অবস্থিত\n- c) ডু-চুষ্কের প্রাবল্যের মান ও অভিমুখ সর্বদা সমান\n- d) ডোগোলিক অক্ষের সাথে অন্য প্রায় $30^{\\circ}$ কোণ করে আছে\n\n**Answer:** ঘ. ডোগোলিক অক্ষের সাথে অন্য প্রায় $30^{\\circ}$ কোণ করে আছে\n\n**Solution:** ডু-চুষ্কের প্রাবল্যের মান ও অভিমুখ সর্বদা সমান।\n\n**Tags:** শাহজাহান তপন, আমির হোসেন\n\n### 126. ডায়াম্টোইক পদার্থকে কোনো চৌম্বক ফেরে ছাপান করা হলে এর ভিতর চৌম্বক ফেরের মান কীরিপ হবে?\n- a) প্রায় চৌম্বক ফেরের সমান\n- b) প্রায় চৌম্বক ফেরে অপেক্ষা সামান্য কম\n- c) প্রায় চৌম্বক ফেরে অপেক্ষা সামান্য বেশি\n- d) প্রায় চৌম্বক ফেরে অপেক্ষা অনেক বেশি\n\n**Answer:** ঘ. প্রায় চৌম্বক ফেরে অপেক্ষা অনেক বেশি\n\n**Solution:** ডায়াম্টোইক পদার্থকে চৌম্বক ফেরে ছাপান করা হলে এর ভিতর চৌম্বক ফেরের মান প্রায় চৌম্বক ফেরে অপেক্ষা অনেক বেশি।\n\n**Tags:** গোলাম হোসেন\n\n### 127. নিচের কোন পদার্থটি প্যারাইটোইক?\n- a) গ্যাডোলিনিয়াম\n- b) হিলিয়াম\n- c) সোডিয়াম\n- d) সোডিয়াম ক্লোরাইড\n\n**Answer:** গ. সোডিয়াম\n\n**Solution:** নিচের কোন পদার্থটি প্যারাইটোইক?\n\n**Tags:** শামসূর রহমান সেলু, আমির হোসেন\n\n### 128. কোনো হলুদ-চুষ্কের ফেরের অনুমিতক উপাশ এবং উল্লম্ব উপাশ এর মধ্যে নিচের কোন সম্পর্কটি সত্যিক হবে $60^{\\circ}$ [BUET-'13-'14]\n- a) V = H\n- b) V = $\\sqrt{3}$H/2\n- c) V = H/$\\sqrt{3}$\n\n**Answer:** ঘ. V = H/$\\sqrt{3}$\n\n**Solution:** কোনো হলুদ-চুষ্কের ফেরের অনুমিতক উপাশ এবং উল্লম্ব উপাশ এর মধ্যে নিচের কোন সম্পর্কটি সত্যিক হবে $60^{\\circ}$:\n\nV = H/$\\sqrt{3}$\n\n**Tags:** গোলাম হোসেন\n\n### 129. ডায়াম্টোইক পদার্থকে চৌম্বক ফেরে ছাপান করলে-\n- a) পদার্থের অভিস্কারের বলবের সাথে নেড়ে যায়\n- b) পদার্থটিতে নিউ চৌম্বক মোমেন্ট সৃষ্টি হয়\n- c) পদার্থটির তাপমাত্রা বেড়ে যায়\n- d) পদার্থটি শক্তিশালী চূম্বকত্ব লাভ করে\n\n**Answer:** ঘ. পদার্থটি শক্তিশালী চূম্বকত্ব লাভ করে\n\n**Solution:** ডায়াম্টোইক পদার্থকে চৌম্বক ফেরে ছাপান করলে পদার্থটি শক্তিশালী চূম্বকত্ব লাভ করে।\n\n**Tags:** শামসূর রহমান সেলু, আমির হোসেন\n\n### 130. নিচের কোনটি ডায়াম্টোইক পদার্থ?\n- a) অতিপরিবাহী\n- b) ক্রাইয়া ধাতু\n- c) অর্ধপরিবাহী\n- d) ফেরাইট\n\n**Answer:** ঘ. ফেরাইট\n\n**Solution:** নিচের কোনটি ডায়াম্টোইক পদার্থ?\n\n**Tags:** গোলাম হোসেন\n\n### 131. নিচের কোনটি ফেরাইটোইক পদার্থ?\n- a) অতিপরিবাহী\n- b) ক্রাইয়া ধাতু\n- c) পরিবর্তনমূলক ধাতু\n- d) ফেরাইট\n\n**Answer:** ঘ. ফেরাইট\n\n**Solution:** নিচের কোনটি ফেরাইটোইক পদার্থ?\n\n**Tags:** গোলাম হোসেন\n\n### 132. হল বিবরণ নিচের কোনটির সমানুপাতিক?\n- a) তড়িৎ প্রবাহ\n- b) তড়িৎফেরে প্রবাল্য\n- c) চৌম্বক ফ্লাক্স ঘনত্ব\n- d) চৌম্বক ফ্লাক্স ঘনত্ব\n\n**Answer:** ঘ. চৌম্বক ফ্লাক্স ঘনত্ব\n\n**Solution:** হল বিবরণ নিচের কোনটির সমানুপাতিক? চৌম্বক ফ্লাক্স ঘনত্ব\n\n**Tags:** গোলাম হোসেন\n\n### 133. প্যারাইটোইক পদার্থ কোনটি? [দি. বো. '15]\n- a) লিথিয়াম\n- b) হিলিয়াম\n- c) সোডিয়াম\n- d) সোডিয়াম ক্লোরাইড\n\n**Answer:** গ. সোডিয়াম ক্লোরাইড\n\n**Solution:** প্যারাইটোইক পদার্থ কোনটি? সোডিয়াম ক্লোরাইড\n\n**Tags:** গোলাম হোসেন\n\n### 134. নিচের কোন পদার্থটি প্যারাইটোইক? [দি. বো. '15]\n- a) লিথিয়াম\n- b) হিলিয়াম\n- c) সোডিয়াম\n- d) সোডিয়াম ক্লোরাইড\n\n**Answer:** গ. সোডিয়াম ক্লোরাইড\n\n**Solution:** নিচের কোন পদার্থটি প্যারাইটোইক? সোডিয়াম ক্লোরাইড\n\n**Tags:** গোলাম হোসেন\n\n### 135. নিচের কোন পদার্থটি প্যারাইটোইক? [দি. বো. '15]\n- a) লিথিয়াম\n- b) হিলিয়াম\n- c) সোডিয়াম\n- d) সোডিয়াম ক্লোরাইড\n\n**Answer:** গ. সোডিয়াম ক্লোরাইড\n\n**Solution:** নিচের কোন পদার্থটি প্যারাইটোইক? সোডিয়াম ক্লোরাইড\n\n**Tags:** গোলাম হোসেন",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q128",
+          "content_markdown": "পৃথিবীর উত্তর চৌম্বক মেরোতে বিনির্দির মান -",
+          "structured_data": {
+            "question_number": "128",
+            "subtype": "mcq_item",
+            "stem": "পৃথিবীর উত্তর চৌম্বক মেরোতে বিনির্দির মান -",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$0^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$45^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$90^{\\circ}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** গ. $90^{\\circ}$",
+            "solution_markdown": "পৃথিবীর উত্তর চৌম্বক মেরোতে বিনির্দির মান হচ্ছে $90^{\\circ}$।\n\n**Tags:** শহজাহান তপন, শামসূর রহমান",
+            "tags_raw": "ঢ. বি. '03-'04",
+            "provenance": [
+              "ঢ. বি. '03-'04"
+            ]
+          },
+          "id": "8299cadb-d535-5ae4-9221-3cd48790c0c6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q125",
+          "content_markdown": "ডু-চুষ্কের ফেরে নিচের কোন তথ্যটি সত্যিক?",
+          "structured_data": {
+            "question_number": "125",
+            "subtype": "mcq_item",
+            "stem": "ডু-চুষ্কের ফেরে নিচের কোন তথ্যটি সত্যিক?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "দক্ষিণ মেরোকে নীল মের বলে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ডু-চুষ্কের দক্ষিণ মেরোক কানাডার উত্তরাধিকারের হাওয়ান বে এলাকায় অবস্থিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ডু-চুষ্কের প্রাবল্যের মান ও অভিমুখ সর্বদা সমান",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ডোগোলিক অক্ষের সাথে অন্য প্রায় $30^{\\circ}$ কোণ করে আছে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** ঘ. ডোগোলিক অক্ষের সাথে অন্য প্রায় $30^{\\circ}$ কোণ করে আছে",
+            "solution_markdown": "ডু-চুষ্কের প্রাবল্যের মান ও অভিমুখ সর্বদা সমান।\n\n**Tags:** শাহজাহান তপন, আমির হোসেন",
+            "tags_raw": "মডিকেল '12-'13",
+            "provenance": [
+              "মডিকেল '12-'13"
+            ]
+          },
+          "id": "c008eeb0-8cd0-5933-a588-119ae55c6bf4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q126",
+          "content_markdown": "ডায়াম্টোইক পদার্থকে কোনো চৌম্বক ফেরে ছাপান করা হলে এর ভিতর চৌম্বক ফেরের মান কীরিপ হবে?",
+          "structured_data": {
+            "question_number": "126",
+            "subtype": "mcq_item",
+            "stem": "ডায়াম্টোইক পদার্থকে কোনো চৌম্বক ফেরে ছাপান করা হলে এর ভিতর চৌম্বক ফেরের মান কীরিপ হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রায় চৌম্বক ফেরের সমান",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রায় চৌম্বক ফেরে অপেক্ষা সামান্য কম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "প্রায় চৌম্বক ফেরে অপেক্ষা সামান্য বেশি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "প্রায় চৌম্বক ফেরে অপেক্ষা অনেক বেশি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** ঘ. প্রায় চৌম্বক ফেরে অপেক্ষা অনেক বেশি",
+            "solution_markdown": "ডায়াম্টোইক পদার্থকে চৌম্বক ফেরে ছাপান করা হলে এর ভিতর চৌম্বক ফেরের মান প্রায় চৌম্বক ফেরে অপেক্ষা অনেক বেশি।\n\n**Tags:** গোলাম হোসেন",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a8e8f58a-604c-5e15-be98-ca02a9ec4c00"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q127",
+          "content_markdown": "নিচের কোন পদার্থটি প্যারাইটোইক?",
+          "structured_data": {
+            "question_number": "127",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোন পদার্থটি প্যারাইটোইক?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গ্যাডোলিনিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "হিলিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সোডিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সোডিয়াম ক্লোরাইড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** গ. সোডিয়াম",
+            "solution_markdown": "নিচের কোন পদার্থটি প্যারাইটোইক?\n\n**Tags:** শামসূর রহমান সেলু, আমির হোসেন",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5d7ab0e8-9b8f-55bb-918d-a638c7602e11"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q128",
+          "content_markdown": "কোনো হলুদ-চুষ্কের ফেরের অনুমিতক উপাশ এবং উল্লম্ব উপাশ এর মধ্যে নিচের কোন সম্পর্কটি সত্যিক হবে $60^{\\circ}$",
+          "structured_data": {
+            "question_number": "128",
+            "subtype": "mcq_item",
+            "stem": "কোনো হলুদ-চুষ্কের ফেরের অনুমিতক উপাশ এবং উল্লম্ব উপাশ এর মধ্যে নিচের কোন সম্পর্কটি সত্যিক হবে $60^{\\circ}$",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "V = H",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "V = $\\sqrt{3}$H/2",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "V = H/$\\sqrt{3}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** ঘ. V = H/$\\sqrt{3}$",
+            "solution_markdown": "কোনো হলুদ-চুষ্কের ফেরের অনুমিতক উপাশ এবং উল্লম্ব উপাশ এর মধ্যে নিচের কোন সম্পর্কটি সত্যিক হবে $60^{\\circ}$:\n\nV = H/$\\sqrt{3}$\n\n**Tags:** গোলাম হোসেন",
+            "tags_raw": "BUET-'13-'14",
+            "provenance": [
+              "BUET-'13"
+            ]
+          },
+          "id": "84699dd6-35e5-5654-ac31-70648547ad66"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q129",
+          "content_markdown": "ডায়াম্টোইক পদার্থকে চৌম্বক ফেরে ছাপান করলে-",
+          "structured_data": {
+            "question_number": "129",
+            "subtype": "mcq_item",
+            "stem": "ডায়াম্টোইক পদার্থকে চৌম্বক ফেরে ছাপান করলে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "পদার্থের অভিস্কারের বলবের সাথে নেড়ে যায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "পদার্থটিতে নিউ চৌম্বক মোমেন্ট সৃষ্টি হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পদার্থটির তাপমাত্রা বেড়ে যায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "পদার্থটি শক্তিশালী চূম্বকত্ব লাভ করে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** ঘ. পদার্থটি শক্তিশালী চূম্বকত্ব লাভ করে",
+            "solution_markdown": "ডায়াম্টোইক পদার্থকে চৌম্বক ফেরে ছাপান করলে পদার্থটি শক্তিশালী চূম্বকত্ব লাভ করে।\n\n**Tags:** শামসূর রহমান সেলু, আমির হোসেন",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2c04c330-877e-5f40-add5-90936dd22a85"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q130",
+          "content_markdown": "নিচের কোনটি ডায়াম্টোইক পদার্থ?",
+          "structured_data": {
+            "question_number": "130",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি ডায়াম্টোইক পদার্থ?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অতিপরিবাহী",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ক্রাইয়া ধাতু",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অর্ধপরিবাহী",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ফেরাইট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** ঘ. ফেরাইট",
+            "solution_markdown": "নিচের কোনটি ডায়াম্টোইক পদার্থ?\n\n**Tags:** গোলাম হোসেন",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "50485048-8db1-548c-bbe9-69d2de1166c5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q131",
+          "content_markdown": "নিচের কোনটি ফেরাইটোইক পদার্থ?",
+          "structured_data": {
+            "question_number": "131",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি ফেরাইটোইক পদার্থ?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অতিপরিবাহী",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ক্রাইয়া ধাতু",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পরিবর্তনমূলক ধাতু",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ফেরাইট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** ঘ. ফেরাইট",
+            "solution_markdown": "নিচের কোনটি ফেরাইটোইক পদার্থ?\n\n**Tags:** গোলাম হোসেন",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "efee83a3-79b2-53be-b2ac-458e8d484f64"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q132",
+          "content_markdown": "হল বিবরণ নিচের কোনটির সমানুপাতিক?",
+          "structured_data": {
+            "question_number": "132",
+            "subtype": "mcq_item",
+            "stem": "হল বিবরণ নিচের কোনটির সমানুপাতিক?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "তড়িৎ প্রবাহ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তড়িৎফেরে প্রবাল্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "চৌম্বক ফ্লাক্স ঘনত্ব",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "চৌম্বক ফ্লাক্স ঘনত্ব",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** ঘ. চৌম্বক ফ্লাক্স ঘনত্ব",
+            "solution_markdown": "হল বিবরণ নিচের কোনটির সমানুপাতিক? চৌম্বক ফ্লাক্স ঘনত্ব\n\n**Tags:** গোলাম হোসেন",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "59527467-45ff-5e18-be14-e68c342a746c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q133",
+          "content_markdown": "প্যারাইটোইক পদার্থ কোনটি?",
+          "structured_data": {
+            "question_number": "133",
+            "subtype": "mcq_item",
+            "stem": "প্যারাইটোইক পদার্থ কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "লিথিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "হিলিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সোডিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সোডিয়াম ক্লোরাইড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** গ. সোডিয়াম ক্লোরাইড",
+            "solution_markdown": "প্যারাইটোইক পদার্থ কোনটি? সোডিয়াম ক্লোরাইড\n\n**Tags:** গোলাম হোসেন",
+            "tags_raw": "দি. বো. '15",
+            "provenance": [
+              "দি. বো. '15"
+            ]
+          },
+          "id": "535efb4d-b8aa-5930-b566-4064d1e0e1c6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q134",
+          "content_markdown": "নিচের কোন পদার্থটি প্যারাইটোইক?",
+          "structured_data": {
+            "question_number": "134",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোন পদার্থটি প্যারাইটোইক?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "লিথিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "হিলিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সোডিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সোডিয়াম ক্লোরাইড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** গ. সোডিয়াম ক্লোরাইড",
+            "solution_markdown": "নিচের কোন পদার্থটি প্যারাইটোইক? সোডিয়াম ক্লোরাইড\n\n**Tags:** গোলাম হোসেন",
+            "tags_raw": "দি. বো. '15",
+            "provenance": [
+              "দি. বো. '15"
+            ]
+          },
+          "id": "64840393-3114-5c67-bdc2-5edfb159d7f3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q135",
+          "content_markdown": "নিচের কোন পদার্থটি প্যারাইটোইক?",
+          "structured_data": {
+            "question_number": "135",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোন পদার্থটি প্যারাইটোইক?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "লিথিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "হিলিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সোডিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সোডিয়াম ক্লোরাইড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "** গ. সোডিয়াম ক্লোরাইড",
+            "solution_markdown": "নিচের কোন পদার্থটি প্যারাইটোইক? সোডিয়াম ক্লোরাইড\n\n**Tags:** গোলাম হোসেন",
+            "tags_raw": "দি. বো. '15",
+            "provenance": [
+              "দি. বো. '15"
+            ]
+          },
+          "id": "02d65be5-ff29-59eb-b575-25d49cf0e79b"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 12,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 149.43,
+        "eval_count": 3284
+      }
+    },
+    {
+      "page_number": 8,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q149\n**Type:** mcq\n**Stem:** কোণো ছানেত দ্বি চৌধুরি গ্রাহ্যের অনুষ্ঠান উপাশ্ম, উল্লম্ব উপাশ্মের $\\sqrt{3}$ ঘট। ওই ছানেতে বিনিতি কোণ-\n- a) $30^{\\circ}$\n- b) $45^{\\circ}$\n- c) $60^{\\circ}$\n- d) $75^{\\circ}$\n\n**Answer:** c) 60°\n\n**Solution:** The given information states that when two inclined planes meet at right angles, their acute angle between them can be calculated using trigonometric relationships. Here, we have:\n\n$$\n\\tan(\\theta) = \\frac{\\text{opposite}}{\\text{adjacent}}\n$$\n\nGiven that the perpendicular distance $d$ between the planes is equal to half the length of the hypotenuse ($h/2$) where $h$ is the length of the hypotenuse formed by the intersection of these planes. This implies:\n\n$$\n\\sin(\\theta) = \\frac{d}{h}\n$$\n\nSince it's mentioned that the perpendicular distance $d$ equals $\\sqrt{3}/2 h$:\n\n$$\n\\sin(\\theta) = \\frac{\\sqrt{3}/2}{1} = \\frac{\\sqrt{3}}{2}\n$$\n\nThus,\n\n$$\n\\theta = \\arcsin\\left(\\frac{\\sqrt{3}}{2}\\right) = 60^\\circ\n$$\n\nTherefore, the correct option is c) 60°.\n\n**Tags:** শাহজাহান তপন, শামসূর রহমান\n\n### Q150\n**Type:** mcq\n**Stem:** চৌড়া মোমেন্ট M বিষয়ক একটি দড় চুঙ্খকে সমান দুইভাগে ভাগ করা হলে—\n- a) M\n- b) 2M\n- c) M/2\n- d) শূন্য\n\n**Answer:** c) M/2\n\n**Solution:** When a torque $M$ acts on a rigid body and divides it into two equal parts, the moment about any point within those parts will be halved because the force distribution remains symmetrical around the axis passing through both halves. Hence, the new moment becomes $M/2$.\n\nTherefore, the correct option is c) M/2.\n\n### Q151\n**Type:** mcq\n**Stem:** একটি শক্তিশালী চৌড়ক্ষেত্র দুটি চৌড়ক পদার্থ ছাপান করায় উভয় ফেফে আছে যাই কিন্তু প্রথম ক্ষেত্রে চৌড়ক্ষয় মাত্রার দিক প্রযুক্ত চৌড়ক্ষেত্রের দিকে এবং 2য় ক্ষেত্রে বিপরীত দিকে হয়। বন্ধ দুটি হতে পারে?\n- a) ড্যায়াচৌড়ক এবং ফেরোচৌড়ক\n- b) ড্যায়াচৌড়ক এবং প্যারাচৌড়ক\n- c) প্যারাচৌড়ক এবং ড্যায়াচৌড়ক\n- d) ফেরোচৌড়ক এবং ড্যায়াচৌড়ক\n\n**Answer:** b) ড্যায়াচৌড়ক এবং প্যারাচৌড়ক\n\n**Solution:** In such scenarios involving magnetic fields, if the direction of magnetization due to the first field is along the direction of the field itself while the second field has opposite orientation, then the materials involved must exhibit different types of magnetism. \n\nThe material exhibiting parallel alignment would be ferromagnetic (ferrochowder) which aligns with external fields, whereas diamagnetic (diachowder) repels external fields. Similarly, paramagnetic (parachowder) exhibits weak attraction but does not align strongly against external fields unless they are very strong.\n\nHence, the correct combination should involve diamagnetic and paramagnetic properties respectively.\n\nTherefore, the correct option is b) ড্যায়াচৌড়ক এবং প্যারাচৌড়ক.\n\n### Q152\n**Type:** mcq\n**Stem:** নিচের কোন চৌড়ক পদার্থের চৌড়ক মোমেন্ট থাকে না? [স্থ. বি. '2016-'2017]\n- a) প্যারাচৌড়ক\n- b) ড্যায়াচৌড়ক\n- c) ফেরোচৌড়ক\n- d) ফেরোচৌড়ক এবং ড্যায়াচৌড়ক\n\n**Answer:** a) প্যারাচৌড়ক\n\n**Solution:** Among all types of magnetic materials, para-magnetism refers to substances whose atoms possess unpaired electrons leading to a net magnetic dipole moment under certain conditions. However, unlike ferromagnets and diamagnets, para-magnetic substances do not retain permanent magnetization even though they respond slightly to applied magnetic fields. Therefore, para-magnetic materials do not inherently possess a chowder moment since they don't maintain a stable internal magnetic structure.\n\nThus, the correct choice is a) প্যারাচৌড়ক.\n\n### Q153\n**Type:** mcq\n**Stem:** ফেরোচৌড়ক যে তাপমাত্রায় প্যারাচৌড়কের পরিণত হয় তাকে বলা হয়– [স্থ. বি. '2006-'2008; জানীয় বি. '2013-'2014]\n- a) ডিভিডা তাপমাত্রা\n- b) নীল তাপমাত্রা\n- c) কুরি তাপমাত্রা\n- d) এর কোনেটিভ নয়\n\n**Answer:** c) কুরি তাপমাত্রা\n\n**Solution:** At temperatures above Curie temperature in ferromagnetic materials like iron, nickel, cobalt etc., the spins become disordered resulting in loss of spontaneous magnetization characteristic of ferromagnetism turning instead into paramagnetism. This transition occurs specifically beyond this critical temperature known as curie temperature.\n\nSo, the correct answer here is c) কুরি তাপমাত্রা.\n\n### Q154\n**Type:** mcq\n**Stem:** চৌড়ক পদার্থ নয় কোনটি? [ডেটাল: '2018-'19]\n- a) কোবাল্ট\n- b) নিকেল\n- c) বিসমাথ\n- d) লোহা\n\n**Answer:** d) লোহা\n\n**Solution:** Metallic elements like copper, aluminum, zinc, silver, gold among others fall outside the category of magnetic materials or chowders. These metals generally lack intrinsic magnetic moments and thus cannot be classified as chowders.\n\nTherefore, the correct choice for non-chowder material from options provided is d) লোহা.\n\n### Q155\n**Type:** mcq\n**Stem:** কোন পদার্থটি ড্যায়াচৌড়ক?\n[বি. বি. '19]\n- a) সোনা\n- b) কোবাল্ট\n- c) প্ল্যাটিনাম\n- d) তরল অক্সিজেন\n\n**Answer:** c) প্ল্যাটিনাম\n\n**Solution:** Platinum is an example of a diamagnetic substance. Diamagnetic materials have no permanent magnetic moment and tend to repel magnetic fields rather than attract them. They include platinum, palladium, niobium, tantalum, tungsten, and some other rare earth metals.\n\nTherefore, the correct choice is c) প্ল্যাটিনাম.\n\n### Q156\n**Type:** mcq\n**Stem:** নিচের কোনটি প্যারাচৌড়ক পদার্থ?\n[দি. বি. '19]\n- a) বিসমাথ\n- b) নিকেল\n- c) কোবাল্ট\n- d) প্ল্যাটিনাম\n\n**Answer:** a) বিসমাথ\n\n**Solution:** Paramagnetic materials typically consist of elements that contain unpaired electrons capable of aligning themselves when placed near another magnetic field without forming domains. Examples include vanadium, chromium, manganese, and especially bismuth, which falls directly between ferromagnetic and diamagnetic behavior.\n\nThus, the correct choice is a) বিসমাথ.\n\n### Q157\n**Type:** mcq\n**Stem:** $1 \\text{ Bohr}^{\\circ}$ ম্যাগনেটেনের মান কত? [ফোর্ম '19-'20]\n- a) $9.27\\times 10^{-24}\\,\\mathrm{Am^{2}}$\n- b) $9.27\\times 10^{24}\\,\\mathrm{Am^{2}}$\n- c) $9.27\\times 10^{-24}\\,\\mathrm{A^{2}m^{2}}$\n- d) $9.27\\times 10^{24}\\,\\mathrm{A^{2}m^{2}}$\n\n**Answer:** a) $9.27\\times 10^{-24}\\,\\mathrm{Am^{2}}$\n\n**Solution:** The Bohr magneton ($\\mu_{B}$), denoted by $\\mathbf{M}_{B}=e\\hbar/2mc$, where $e$ is elementary charge ($-1.602 \\times 10^{-19} \\, \\text{C}$), $\\hbar$ is reduced Planck's constant ($h/(2\\pi)=1.054 \\times 10^{-34} \\, \\text{J s}$), $m$ is electron mass ($9.109 \\times 10^{-31} \\, \\text{kg}$), and $c$ is speed of light ($3 \\times 10^{8} \\, \\text{m/s}$). Substituting these values gives:\n\n$$\n\\begin{align*}\n\\mu_B &= \\frac{-e}{c} \\\\\n&= \\frac{(1.602 \\times 10^{-19}) \\cdot (-i)}{3 \\times 10^8} \\\\\n&= 9.27 \\times 10^{-24} \\, \\text{Am}^2.\n\\end{align*}\n$$\n\nThis corresponds exactly to option a).\n\nTherefore, the correct choice is a) $9.27\\times 10^{-24}\\,\\mathrm{Am^{2}}$\n\n### Q158\n**Type:** mcq\n**Stem:** এক পাউন্ড সমান— [ডেটাল '20-'21]\n- a) $10^{-6}T(\\text{Tesla})$\n- b) $10^{-4}T(\\text{Tesla})$\n- c) $10^{-3}T(\\text{Tesla})$\n- d) $10^{-2}T(\\text{Tesla})$\n\n**Answer:** b) $10^{-4}T(\\text{Tesla})$\n\n**Solution:** Tesla (T) measures magnetic flux density. One pound-force per square inch (psi) can convert approximately to teslas using conversion factors related to force and area. Given typical conversions involving physics constants such as permeability of free space $(\\mu_0 = 4\\pi \\times 10^{-7} \\, \\text{N/A}^2)$,\n\n$$ B = \\frac{F}{I A}, $$\n\nwhere $F \\approx 1 \\, \\text{lb/in}^2$. Using standard units and approximations yields tesla value close to $10^{-4} T$.\n\nHence, the correct choice is b) $10^{-4}T(\\text{Tesla})$.\n\n### Q159\n**Type:** mcq\n**Stem:** ফেরোচৌড়ক পদার্থ নয় কোনটি? [ডেটাল '18-'19]\n- a) কোবাল্ট\n- b) নিকেল\n- c) বিসমাথ\n- d) লোহা\n\n**Answer:** d) লোহা\n\n**Solution:** Ferromagnetic materials are those with strong magnetic properties due to their atomic structures allowing alignment within external fields. Common examples include iron, nickel, cobalt, gadolinium, dysprosium, and several lanthanides. Metals like lead, tin, mercury, and many others exhibit weak magnetic properties but aren’t considered ferromagnetic.\n\nThe correct choice being d) লোহা fits well because it’s not one of the ferromagnetic materials listed.\n\nTherefore, the correct choice is d) লোহা.\n\n### Q160\n**Type:** mcq\n**Stem:** প্যারা চৌড়ক পদার্থ নয় নিচের কোনটি? [মেডিকেল '16-'17]\n- a) আলুমিনিয়াম\n- b) প্ল্যাটিনাম\n- c) তামা\n- d) সেডিয়াম\n\n**Answer:** c) তামা\n\n**Solution:** Among various metallic substances, platinums, iridium, ruthenium, osmium, rhodium, and palladium are paramagnetic while aluminum, titanium, zirconium, magnesium, calcium, sodium, potassium, rubidium, cesium, barium, strontium, lithium, scandium, yttrium, thorium, uranium, neodymium, samarium, europium, gadolinium, terbium, dysprosium, holmium, erbium, thulium, lutetium, ytterbium, and all lanthanides are also paramagnetic. \n\nHowever, metals like carbon (graphite), silicon, boron, phosphorus, arsenic, antimony, tellurium, selenium, sulfur, iodine, bromine, chlorine, fluorine, oxygen, nitrogen, hydrogen, helium, neon, argon, krypton, xenon, radon, and noble gases do not possess significant magnetic properties.\n\nTherefore, the correct choice is c) তামা.\n\n### Q161\n**Type:** mcq\n**Stem:** পৃষ্ঠীয় চৌড়কক্ষেত্র অক্ষ এবং ভৌগোলিক অক্ষ সমস্যায় তেরি কোণের পরিণাম— [মেডিকেল '13-'14]\n- a) $90^\\circ$\n- b) $23^\\circ$\n- c) $17^\\circ$\n- d) $0^\\circ$\n\n**Answer:** a) $90^\\circ$\n\n**Solution:** In spherical geometry problems concerning angles formed at intersections of planes defined by geographic coordinates, the angle between two great circles on Earth (latitude lines and longitude lines) is always perpendicular unless they coincide completely along a single line. Thus, in most cases, this intersection forms right angles or $90^\\circ$. Hence, the answer here would be straightforwardly $a) 90^\\circ$.\n\nTherefore, the correct choice is a) $90^\\circ$.\n\n### Q162\n**Type:** mcq\n**Stem:** লোহা ও নিকেলের লভরের দ্রবণ একটি / মডেলের '13-'14/\n- a) প্যারাচৌড়ক পদার্থ\n- b) ড্যায়াচৌড়ক পদার্থ\n- c) ফেরোচৌড়ক পদার্থ\n- d) B এবং C\n\n**Answer:** c) ফেরোচৌড়ক পদার্থ\n\n**Solution:** Iron and Nickel both belong under the category of ferromagnetic materials exhibiting strong permanent magnetic properties. Their alloys often show similar characteristics making them suitable for applications requiring high magnetic strength. Therefore, among given options, the correct classification should be ferromagnetic material.\n\nSo, the correct choice is c) ফেরোচৌড়ক পদার্থ.\n\n### Q163\n**Type:** mcq\n**Stem:** কোনটি ড্যায়াচৌড়ক পদার্থের বৈশিষ্ট্য— / মডেলের : '11-'12/\n- a) চৌড়ক দ্বারা প্রভাবিত হওয়া আকর্ষিত হয়\n- b) একে কোন চৌড়ক ক্ষেত্রে ছাপান করা হয়, সামান্য চুৎকাত্ত লাভ করে\n- c) চুৎকাত দ্বারা ক্ষিপিতভাবে বিকর্ষিত হয়\n- d) চুৎকাত দ্বারা ক্ষিপিতভাবে আকর্ষিত হয়\n\n**Answer:** b) একে কোন চৌড়ক ক্ষেত্রে ছাপান করা হয়, সামান্য চুৎকাত্ত লাভ করে\n\n**Solution:** Diamagnetic materials repel an applied magnetic field rather than attract it; hence, they don't align themselves when placed near another magnetized object. Instead, they slightly reduce its intensity around itself. This property makes diamagnetism different from other types where atoms have unpaired electrons leading either towards attraction or no change depending upon conditions.\n\nThus, the correct choice is b) একে কোন চৌড়ক ক্ষেত্রে ছাপান করা হয়, সামান্য চুৎকাত্ত লাভ করে.\n\n### Q164\n**Type:** mcq\n**Stem:** কোনটি ড্যায়াচৌড়ক পদার্থের বৈশিষ্ট্য— / মডেলের: '11-'12/\n- a) চৌড়ক দ্বারা প্রভাবিত হওয়া আকর্ষিত হয়\n- b) একে কোন চৌড়ক ক্ষেত্রে ছাপান করা হয়, সামান্য চুৎকাত্ত লাভ করে\n- c) চুৎকাত দ্বারা ক্ষিপিতভাবে বিকর্ষিত হয়\n- d) চুৎকাত দ্বারা ক্ষিপিতভাবে আকর্ষিত",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q149",
+          "content_markdown": "কোণো ছানেত দ্বি চৌধুরি গ্রাহ্যের অনুষ্ঠান উপাশ্ম, উল্লম্ব উপাশ্মের $\\sqrt{3}$ ঘট। ওই ছানেতে বিনিতি কোণ-",
+          "structured_data": {
+            "question_number": "149",
+            "subtype": "mcq",
+            "stem": "কোণো ছানেত দ্বি চৌধুরি গ্রাহ্যের অনুষ্ঠান উপাশ্ম, উল্লম্ব উপাশ্মের $\\sqrt{3}$ ঘট। ওই ছানেতে বিনিতি কোণ-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$30^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$45^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$60^{\\circ}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "$75^{\\circ}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) 60°",
+            "solution_markdown": "The given information states that when two inclined planes meet at right angles, their acute angle between them can be calculated using trigonometric relationships. Here, we have:\n\n$$\n\\tan(\\theta) = \\frac{\\text{opposite}}{\\text{adjacent}}\n$$\n\nGiven that the perpendicular distance $d$ between the planes is equal to half the length of the hypotenuse ($h/2$) where $h$ is the length of the hypotenuse formed by the intersection of these planes. This implies:\n\n$$\n\\sin(\\theta) = \\frac{d}{h}\n$$\n\nSince it's mentioned that the perpendicular distance $d$ equals $\\sqrt{3}/2 h$:\n\n$$\n\\sin(\\theta) = \\frac{\\sqrt{3}/2}{1} = \\frac{\\sqrt{3}}{2}\n$$\n\nThus,\n\n$$\n\\theta = \\arcsin\\left(\\frac{\\sqrt{3}}{2}\\right) = 60^\\circ\n$$\n\nTherefore, the correct option is c) 60°.",
+            "tags_raw": "শাহজাহান তপন, শামসূর রহমান",
+            "provenance": [
+              "শাহজাহান তপন",
+              "শামসূর রহমান"
+            ]
+          },
+          "id": "d466d256-4ddb-58e2-8d5e-16f828c1d3ca"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q150",
+          "content_markdown": "চৌড়া মোমেন্ট M বিষয়ক একটি দড় চুঙ্খকে সমান দুইভাগে ভাগ করা হলে—",
+          "structured_data": {
+            "question_number": "150",
+            "subtype": "mcq",
+            "stem": "চৌড়া মোমেন্ট M বিষয়ক একটি দড় চুঙ্খকে সমান দুইভাগে ভাগ করা হলে—",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "M",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2M",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "M/2",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "শূন্য",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) M/2",
+            "solution_markdown": "When a torque $M$ acts on a rigid body and divides it into two equal parts, the moment about any point within those parts will be halved because the force distribution remains symmetrical around the axis passing through both halves. Hence, the new moment becomes $M/2$.\n\nTherefore, the correct option is c) M/2.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "63649802-f874-5eab-a4e2-68b8fe569723"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q151",
+          "content_markdown": "একটি শক্তিশালী চৌড়ক্ষেত্র দুটি চৌড়ক পদার্থ ছাপান করায় উভয় ফেফে আছে যাই কিন্তু প্রথম ক্ষেত্রে চৌড়ক্ষয় মাত্রার দিক প্রযুক্ত চৌড়ক্ষেত্রের দিকে এবং 2য় ক্ষেত্রে বিপরীত দিকে হয়। বন্ধ দুটি হতে পারে?",
+          "structured_data": {
+            "question_number": "151",
+            "subtype": "mcq",
+            "stem": "একটি শক্তিশালী চৌড়ক্ষেত্র দুটি চৌড়ক পদার্থ ছাপান করায় উভয় ফেফে আছে যাই কিন্তু প্রথম ক্ষেত্রে চৌড়ক্ষয় মাত্রার দিক প্রযুক্ত চৌড়ক্ষেত্রের দিকে এবং 2য় ক্ষেত্রে বিপরীত দিকে হয়। বন্ধ দুটি হতে পারে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ড্যায়াচৌড়ক এবং ফেরোচৌড়ক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ড্যায়াচৌড়ক এবং প্যারাচৌড়ক",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "প্যারাচৌড়ক এবং ড্যায়াচৌড়ক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ফেরোচৌড়ক এবং ড্যায়াচৌড়ক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b) ড্যায়াচৌড়ক এবং প্যারাচৌড়ক",
+            "solution_markdown": "In such scenarios involving magnetic fields, if the direction of magnetization due to the first field is along the direction of the field itself while the second field has opposite orientation, then the materials involved must exhibit different types of magnetism.\n\nThe material exhibiting parallel alignment would be ferromagnetic (ferrochowder) which aligns with external fields, whereas diamagnetic (diachowder) repels external fields. Similarly, paramagnetic (parachowder) exhibits weak attraction but does not align strongly against external fields unless they are very strong.\n\nHence, the correct combination should involve diamagnetic and paramagnetic properties respectively.\n\nTherefore, the correct option is b) ড্যায়াচৌড়ক এবং প্যারাচৌড়ক.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2ecd052a-2a2c-52fa-bd11-b412edfd1b1f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q152",
+          "content_markdown": "নিচের কোন চৌড়ক পদার্থের চৌড়ক মোমেন্ট থাকে না? [স্থ. বি. '2016-'2017]",
+          "structured_data": {
+            "question_number": "152",
+            "subtype": "mcq",
+            "stem": "নিচের কোন চৌড়ক পদার্থের চৌড়ক মোমেন্ট থাকে না? [স্থ. বি. '2016-'2017]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্যারাচৌড়ক",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "ড্যায়াচৌড়ক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ফেরোচৌড়ক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ফেরোচৌড়ক এবং ড্যায়াচৌড়ক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) প্যারাচৌড়ক",
+            "solution_markdown": "Among all types of magnetic materials, para-magnetism refers to substances whose atoms possess unpaired electrons leading to a net magnetic dipole moment under certain conditions. However, unlike ferromagnets and diamagnets, para-magnetic substances do not retain permanent magnetization even though they respond slightly to applied magnetic fields. Therefore, para-magnetic materials do not inherently possess a chowder moment since they don't maintain a stable internal magnetic structure.\n\nThus, the correct choice is a) প্যারাচৌড়ক.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "94beb97a-b5b2-53c7-bad0-6425ef80bc2d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q153",
+          "content_markdown": "ফেরোচৌড়ক যে তাপমাত্রায় প্যারাচৌড়কের পরিণত হয় তাকে বলা হয়– [স্থ. বি. '2006-'2008; জানীয় বি. '2013-'2014]",
+          "structured_data": {
+            "question_number": "153",
+            "subtype": "mcq",
+            "stem": "ফেরোচৌড়ক যে তাপমাত্রায় প্যারাচৌড়কের পরিণত হয় তাকে বলা হয়– [স্থ. বি. '2006-'2008; জানীয় বি. '2013-'2014]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ডিভিডা তাপমাত্রা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নীল তাপমাত্রা",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কুরি তাপমাত্রা",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "এর কোনেটিভ নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) কুরি তাপমাত্রা",
+            "solution_markdown": "At temperatures above Curie temperature in ferromagnetic materials like iron, nickel, cobalt etc., the spins become disordered resulting in loss of spontaneous magnetization characteristic of ferromagnetism turning instead into paramagnetism. This transition occurs specifically beyond this critical temperature known as curie temperature.\n\nSo, the correct answer here is c) কুরি তাপমাত্রা.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a6de1e89-dbd9-5aae-908e-e55ce48f2692"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q154",
+          "content_markdown": "চৌড়ক পদার্থ নয় কোনটি? [ডেটাল: '2018-'19]",
+          "structured_data": {
+            "question_number": "154",
+            "subtype": "mcq",
+            "stem": "চৌড়ক পদার্থ নয় কোনটি? [ডেটাল: '2018-'19]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কোবাল্ট",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নিকেল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বিসমাথ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "লোহা",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d) লোহা",
+            "solution_markdown": "Metallic elements like copper, aluminum, zinc, silver, gold among others fall outside the category of magnetic materials or chowders. These metals generally lack intrinsic magnetic moments and thus cannot be classified as chowders.\n\nTherefore, the correct choice for non-chowder material from options provided is d) লোহা.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "bd78e00e-b6a5-55b0-8533-d9143ef7a961"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q155",
+          "content_markdown": "কোন পদার্থটি ড্যায়াচৌড়ক?\n[বি. বি. '19]",
+          "structured_data": {
+            "question_number": "155",
+            "subtype": "mcq",
+            "stem": "কোন পদার্থটি ড্যায়াচৌড়ক?\n[বি. বি. '19]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সোনা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কোবাল্ট",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "প্ল্যাটিনাম",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "তরল অক্সিজেন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) প্ল্যাটিনাম",
+            "solution_markdown": "Platinum is an example of a diamagnetic substance. Diamagnetic materials have no permanent magnetic moment and tend to repel magnetic fields rather than attract them. They include platinum, palladium, niobium, tantalum, tungsten, and some other rare earth metals.\n\nTherefore, the correct choice is c) প্ল্যাটিনাম.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f66b2ad4-ee9c-57e8-b88c-5eaba4837363"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q156",
+          "content_markdown": "নিচের কোনটি প্যারাচৌড়ক পদার্থ?\n[দি. বি. '19]",
+          "structured_data": {
+            "question_number": "156",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটি প্যারাচৌড়ক পদার্থ?\n[দি. বি. '19]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বিসমাথ",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "নিকেল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কোবাল্ট",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "প্ল্যাটিনাম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) বিসমাথ",
+            "solution_markdown": "Paramagnetic materials typically consist of elements that contain unpaired electrons capable of aligning themselves when placed near another magnetic field without forming domains. Examples include vanadium, chromium, manganese, and especially bismuth, which falls directly between ferromagnetic and diamagnetic behavior.\n\nThus, the correct choice is a) বিসমাথ.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "977106e2-3113-5aca-a879-8111197b738d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q157",
+          "content_markdown": "$1 \\text{ Bohr}^{\\circ}$ ম্যাগনেটেনের মান কত? [ফোর্ম '19-'20]",
+          "structured_data": {
+            "question_number": "157",
+            "subtype": "mcq",
+            "stem": "$1 \\text{ Bohr}^{\\circ}$ ম্যাগনেটেনের মান কত? [ফোর্ম '19-'20]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$9.27\\times 10^{-24}\\,\\mathrm{Am^{2}}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "$9.27\\times 10^{24}\\,\\mathrm{Am^{2}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$9.27\\times 10^{-24}\\,\\mathrm{A^{2}m^{2}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$9.27\\times 10^{24}\\,\\mathrm{A^{2}m^{2}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) $9.27\\times 10^{-24}\\,\\mathrm{Am^{2}}$",
+            "solution_markdown": "The Bohr magneton ($\\mu_{B}$), denoted by $\\mathbf{M}_{B}=e\\hbar/2mc$, where $e$ is elementary charge ($-1.602 \\times 10^{-19} \\, \\text{C}$), $\\hbar$ is reduced Planck's constant ($h/(2\\pi)=1.054 \\times 10^{-34} \\, \\text{J s}$), $m$ is electron mass ($9.109 \\times 10^{-31} \\, \\text{kg}$), and $c$ is speed of light ($3 \\times 10^{8} \\, \\text{m/s}$). Substituting these values gives:\n\n$$\n\\begin{align*}\n\\mu_B &= \\frac{-e}{c} \\\\\n&= \\frac{(1.602 \\times 10^{-19}) \\cdot (-i)}{3 \\times 10^8} \\\\\n&= 9.27 \\times 10^{-24} \\, \\text{Am}^2.\n\\end{align*}\n$$\n\nThis corresponds exactly to option a).\n\nTherefore, the correct choice is a) $9.27\\times 10^{-24}\\,\\mathrm{Am^{2}}$",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "82a7c5ba-5d59-5d6f-ae65-eda3e1aa91f0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q158",
+          "content_markdown": "এক পাউন্ড সমান— [ডেটাল '20-'21]",
+          "structured_data": {
+            "question_number": "158",
+            "subtype": "mcq",
+            "stem": "এক পাউন্ড সমান— [ডেটাল '20-'21]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$10^{-6}T(\\text{Tesla})$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$10^{-4}T(\\text{Tesla})$",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "$10^{-3}T(\\text{Tesla})$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$10^{-2}T(\\text{Tesla})$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b) $10^{-4}T(\\text{Tesla})$",
+            "solution_markdown": "Tesla (T) measures magnetic flux density. One pound-force per square inch (psi) can convert approximately to teslas using conversion factors related to force and area. Given typical conversions involving physics constants such as permeability of free space $(\\mu_0 = 4\\pi \\times 10^{-7} \\, \\text{N/A}^2)$,\n\n$$ B = \\frac{F}{I A}, $$\n\nwhere $F \\approx 1 \\, \\text{lb/in}^2$. Using standard units and approximations yields tesla value close to $10^{-4} T$.\n\nHence, the correct choice is b) $10^{-4}T(\\text{Tesla})$.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7ba84ae5-c746-57c0-a2b5-8eaae7586669"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q159",
+          "content_markdown": "ফেরোচৌড়ক পদার্থ নয় কোনটি? [ডেটাল '18-'19]",
+          "structured_data": {
+            "question_number": "159",
+            "subtype": "mcq",
+            "stem": "ফেরোচৌড়ক পদার্থ নয় কোনটি? [ডেটাল '18-'19]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কোবাল্ট",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নিকেল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বিসমাথ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "লোহা",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d) লোহা",
+            "solution_markdown": "Ferromagnetic materials are those with strong magnetic properties due to their atomic structures allowing alignment within external fields. Common examples include iron, nickel, cobalt, gadolinium, dysprosium, and several lanthanides. Metals like lead, tin, mercury, and many others exhibit weak magnetic properties but aren’t considered ferromagnetic.\n\nThe correct choice being d) লোহা fits well because it’s not one of the ferromagnetic materials listed.\n\nTherefore, the correct choice is d) লোহা.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4ef8360d-b02c-5055-8594-fe42343c5b39"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q160",
+          "content_markdown": "প্যারা চৌড়ক পদার্থ নয় নিচের কোনটি? [মেডিকেল '16-'17]",
+          "structured_data": {
+            "question_number": "160",
+            "subtype": "mcq",
+            "stem": "প্যারা চৌড়ক পদার্থ নয় নিচের কোনটি? [মেডিকেল '16-'17]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আলুমিনিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্ল্যাটিনাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "তামা",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "সেডিয়াম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) তামা",
+            "solution_markdown": "Among various metallic substances, platinums, iridium, ruthenium, osmium, rhodium, and palladium are paramagnetic while aluminum, titanium, zirconium, magnesium, calcium, sodium, potassium, rubidium, cesium, barium, strontium, lithium, scandium, yttrium, thorium, uranium, neodymium, samarium, europium, gadolinium, terbium, dysprosium, holmium, erbium, thulium, lutetium, ytterbium, and all lanthanides are also paramagnetic.\n\nHowever, metals like carbon (graphite), silicon, boron, phosphorus, arsenic, antimony, tellurium, selenium, sulfur, iodine, bromine, chlorine, fluorine, oxygen, nitrogen, hydrogen, helium, neon, argon, krypton, xenon, radon, and noble gases do not possess significant magnetic properties.\n\nTherefore, the correct choice is c) তামা.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a5e1d802-589d-521b-b1e1-d72c1961d25d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q161",
+          "content_markdown": "পৃষ্ঠীয় চৌড়কক্ষেত্র অক্ষ এবং ভৌগোলিক অক্ষ সমস্যায় তেরি কোণের পরিণাম— [মেডিকেল '13-'14]",
+          "structured_data": {
+            "question_number": "161",
+            "subtype": "mcq",
+            "stem": "পৃষ্ঠীয় চৌড়কক্ষেত্র অক্ষ এবং ভৌগোলিক অক্ষ সমস্যায় তেরি কোণের পরিণাম— [মেডিকেল '13-'14]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$90^\\circ$",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "$23^\\circ$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$17^\\circ$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$0^\\circ$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) $90^\\circ$",
+            "solution_markdown": "In spherical geometry problems concerning angles formed at intersections of planes defined by geographic coordinates, the angle between two great circles on Earth (latitude lines and longitude lines) is always perpendicular unless they coincide completely along a single line. Thus, in most cases, this intersection forms right angles or $90^\\circ$. Hence, the answer here would be straightforwardly $a) 90^\\circ$.\n\nTherefore, the correct choice is a) $90^\\circ$.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e53474eb-02bd-52f8-836b-de1b790f62fd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q162",
+          "content_markdown": "লোহা ও নিকেলের লভরের দ্রবণ একটি / মডেলের '13-'14/",
+          "structured_data": {
+            "question_number": "162",
+            "subtype": "mcq",
+            "stem": "লোহা ও নিকেলের লভরের দ্রবণ একটি / মডেলের '13-'14/",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্যারাচৌড়ক পদার্থ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ড্যায়াচৌড়ক পদার্থ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ফেরোচৌড়ক পদার্থ",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "B এবং C",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) ফেরোচৌড়ক পদার্থ",
+            "solution_markdown": "Iron and Nickel both belong under the category of ferromagnetic materials exhibiting strong permanent magnetic properties. Their alloys often show similar characteristics making them suitable for applications requiring high magnetic strength. Therefore, among given options, the correct classification should be ferromagnetic material.\n\nSo, the correct choice is c) ফেরোচৌড়ক পদার্থ.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e80dbf98-6116-571e-b2fe-c5285faca4a2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q163",
+          "content_markdown": "কোনটি ড্যায়াচৌড়ক পদার্থের বৈশিষ্ট্য— / মডেলের : '11-'12/",
+          "structured_data": {
+            "question_number": "163",
+            "subtype": "mcq",
+            "stem": "কোনটি ড্যায়াচৌড়ক পদার্থের বৈশিষ্ট্য— / মডেলের : '11-'12/",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "চৌড়ক দ্বারা প্রভাবিত হওয়া আকর্ষিত হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "একে কোন চৌড়ক ক্ষেত্রে ছাপান করা হয়, সামান্য চুৎকাত্ত লাভ করে",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "চুৎকাত দ্বারা ক্ষিপিতভাবে বিকর্ষিত হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "চুৎকাত দ্বারা ক্ষিপিতভাবে আকর্ষিত হয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b) একে কোন চৌড়ক ক্ষেত্রে ছাপান করা হয়, সামান্য চুৎকাত্ত লাভ করে",
+            "solution_markdown": "Diamagnetic materials repel an applied magnetic field rather than attract it; hence, they don't align themselves when placed near another magnetized object. Instead, they slightly reduce its intensity around itself. This property makes diamagnetism different from other types where atoms have unpaired electrons leading either towards attraction or no change depending upon conditions.\n\nThus, the correct choice is b) একে কোন চৌড়ক ক্ষেত্রে ছাপান করা হয়, সামান্য চুৎকাত্ত লাভ করে.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "00350d30-8376-5059-9f43-fc69ef023f6e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q164",
+          "content_markdown": "কোনটি ড্যায়াচৌড়ক পদার্থের বৈশিষ্ট্য— / মডেলের: '11-'12/",
+          "structured_data": {
+            "question_number": "164",
+            "subtype": "mcq",
+            "stem": "কোনটি ড্যায়াচৌড়ক পদার্থের বৈশিষ্ট্য— / মডেলের: '11-'12/",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "চৌড়ক দ্বারা প্রভাবিত হওয়া আকর্ষিত হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "একে কোন চৌড়ক ক্ষেত্রে ছাপান করা হয়, সামান্য চুৎকাত্ত লাভ করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "চুৎকাত দ্বারা ক্ষিপিতভাবে বিকর্ষিত হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "চুৎকাত দ্বারা ক্ষিপিতভাবে আকর্ষিত",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b006b858-313d-5602-8209-2f8e0eb0ccd7"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 16,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 97.99,
+        "eval_count": 5172
+      }
+    }
+  ]
+}

@@ -1,0 +1,2804 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "1aIkRO_HBKxLpaBNCtIkJaiDAPdX34Xtd",
+    "collection": "main_book_solution",
+    "subject": "biology",
+    "edition": "2023",
+    "priority_score": 2023092,
+    "path_parts": [
+      "অনুশীলনী MCQ সমাধান",
+      "* ভার্সন সেপ্টেম্বর-২৩",
+      "টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন",
+      "জীববিজ্ঞান",
+      "B-1.3 কোষ রসায়ন.pdf"
+    ],
+    "filename": "B-1.3 কোষ রসায়ন.pdf",
+    "sha256": "0e031aa59889a97c4e09c40761fa7c21b61d42cc4dffe3b279beb729bb849a2d",
+    "total_pages": 3,
+    "parsed_pages": 3,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 88,
+    "block_counts_by_type": {
+      "concept_prose": 19,
+      "mcq_item": 69
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "```none\nতৃতীয় অধ্যায়: কোষ রসায়ন\n\n## 01. কোষের রাসায়িক গঠনের কত শতাংশ পানি?\n- a) 70%\n- b) 90%\n- c) 80%\n- d) 60%\n\n## 02. উদিদগণ্ডের বিভিন্ন তন্ত কোনটি দিয়ে গঠিত?\n- a) থুকোজ\n- b) সেলুলোজ\n- c) গ্লাইকোজেন\n- d) স্টার্চ\n\n## 03. স্যাকরিন ও হেপসরিন কোন ধরনের পদার্থ?\n- a) শরবা\n- b) আমিষ\n- c) খিঞ্জ লবণ\n- d) লিপিড\n\n## 04. কোনটি ইইফু এবং বিটের চিনি নামে পরিচিত?\n- a) মল্টেজ\n- b) সুক্রোজ\n- c) গ্লুকোজ\n- d) ফুস্টোজ\n\n## 05. কোন জৈব যৌগটি জীবমণ্ডলে সর্বাধিক পরিমাণে পাওয়া যায়?\n- a) সেলুলোজ\n- b) স্টার্চ\n- c) গ্লাইকোজেন\n- d) ইউট্রিক অ্যাসিড\n\n## 06. নিচের কোনটি উড়িদের ভার বহন করে?\n- a) সেলুলোজ\n- b) গ্লাইকোজেন\n- c) আমিনো অ্যাসিড\n- d) কোলেস্টেরল\n\n## 07. নিচের কোনটি অভিক্ষেত্রে উড়িদের ইরিওজ-4 ফসফেট হিসেবে বিবার্জিত হয়?\n- a) C₃H₆O₃\n- b) C₄H₈O₄\n- c) C₅H₁₀O₅\n- d) C₆H₁₂O₆\n\n## 08. অথিকাশ উড়িদের তত ওজনের শতকরা কত ভাগ কার্বোহাইড্রেট থাকে?\n- a) 10–20\n- b) 20–50\n- c) 50–80\n- d) 80–90\n\n## 09. হাতের সঙ্ঘটিতে লুক্ট্রিকেট হিসেবে কাজ করে কোনটি?\n- a) কার্বোহাইড্রেট\n- b) প্রোটিন\n- g) লিপিড\n- d) এনজাইম\n\n## 10. বিজ্ঞান ক্ষমতার ভিত্তিতে কার্বোহাইড্রেট কত প্রকার?\n- a) 2\n- b) 3\n- c) 4\n- d) 5\n\n## 11. পাকা আচরে গ্লুকোজের শতকরা পরিমাণ কত?\n- a) 12–30\n- b) 16–35\n- c) 20–42\n- d) 25–50\n\n## 12. 3-কার্বনবিশিষ্ট মনোস্যাকারাইড কোনটি?\n- a) গ্লুকোজ\n- b) ইরিওজেজ\n- c) রাইবোজ\n- d) ডিঅ্যাক্রিবোজ\n\n## 13. নিচের কোনটি দাইস্যাকারাইড?\n- a) গ্লাইকোজেন\n- b) স্টার্চ\n- c) রাইফিনোজ\n- d) সেলোবয়োজ\n\n## 14. উদিদের সবচেয়ে গুরুত্বপূর্ণ দাইস্যাকারাইড সুক্রোজের রাসায়িক সংকেত কোনটি?\n- a) C₆H₁₂O₆\n- b) C₁₂H₂₂O₁₁\n- c) (C₆H₁₀O₅)n\n- d) C₆H₁₀O₅\n\n## 15. সকল প্রকার সালোকস্প্রেখকারী উদিদে কোনটি থাকে?\n- a) সুক্রোজ\n- b) ল্যাকটোজ\n- c) রাইফিনোজ\n- d) মল্টেজ\n\n## 16. কম্পক্ষ কতটি মনোস্যাকারাইড পলিমারভুক্ত হয়ে পলিস্যাকারাইড গঠন করে?\n- a) পাঁচ\n- b) ছয়\n- c) আট\n- d) দশ\n\n## 17. সবচেয়ে বেশি সেলুলোজ কোনটিতে?\n- a) লিঙ্গেন\n- b) তুলা\n- c) কাঠ\n- d) বাঁশ\n\n## 18. কোনটি মনোস্যাকারাইড? (সি. বো. ১৯)\n- a) রাইবোজ\n- b) মল্টেজ\n- c) সেলোবয়োজ\n- d) সুক্রোজ\n\n## 19. কোনটি গ্লুকোজের সাথে সম্পর্কিত মুক্ত হয়ে সুক্রোজ গঠিত হয়? (সি. বো. ৯১)\n- a) ইরিওজেজ\n- b) রাইফিনোজ\n- c) রাইবোজ\n- d) ফুস্টোজ\n\n## 20. গ্লাইকোসাইডিক বন্ধন দেখা যায়-(সি. বো. ২০১৭)\n- a) কার্বোহাইড্রেট\n- b) প্রোটিন\n- c) লিপিড\n- d) এনজাইম\n\n## 21. নিচের কোনটি অধিজারক শর্করা?(সি. বো. ২০৩৬)\n- a) গ্লুকোজ\n- b) ফুস্টোজ\n- c) রাইবোজ\n- d) সুক্রোজ\n\n## 22. মনোস্যাকারাইড কোন বন্ধন দিয়ে পরস্পর যুক্ত হয়ে অলিপ্ট্রিকারাইড গঠন করে?\n- a) ফসফেট\n- b) হাইড্রোগেন\n- c) গ্লাইকোসাইডিক\n- d) কার্বন\n\n## 23. নিচের কোনটি পেটোজ শর্করা নয়?\n- a) রাইবোজ\n- b) রাইইলোজ\n- c) ফুস্টোজ\n- d) ডিঅ্যাক্রিবোজ\n\n## 24. গ্লুকোজের α লিংকে OH থাকে-(সি. বো. ২০১৮)\n- a) 1নং কার্বনের উপরে\n- b) 1নং কার্বনের নিচে\n- c) 2নং কার্বনের উপরে\n- d) 2নং কার্বনের নিচে\n\n## 25. নিচের কোনটি রিউটিসিং শ্বার নয়?\n- a) গ্লুকোজ\n- b) সেলুলোজ\n- c) রাইবোজ\n- d) ফুস্টোজ\n\n## 26. নিচের কোনটি 5 কার্বন বিশিষ্ট মনোস্যাকারাইড?\n- a) অ্যাবিনোজ\n- b) এরিওজেজ\n- c) গ্লুকোজ\n- d) ম্যানোজ\n\n## 27. কর্ন প্রৈপ্প খাগর কোনটি?\n- a) গ্লুকোজ\n- b) সেলুলোজ\n- c) রাইবোজ\n- d) ফুস্টোজ\n\n## 28. ধান, গম ও ভূট্টার কোন ধরনের শর্করা থাকে?\n- a) গ্লুকোজ\n- b) সেলুলোজ\n- c) গ্লাইকোজেন\n- d) স্টার্চ\n\n## 29. গ্লুকোজ শাখা-প্রশাখা বিন্যস্ত থাকে কোনটিতে?\n- a) স্টার্চ\n- b) আমিলোইডজ\n- c) সেলুলোজ\n- d) অ্যামিলোপেক্টিন\n\n## 30. নিচের কোনটি রিউটিসিং শ্বার?\n(মে. প্র. ১৯-১৯)\n- a) গ্লুকোজ\n- b) স্টার্চ\n- c) গ্লাইকোজেন\n- d) কাইটিন\n\n## 31. নিচের কোনটি নিউক্লিক আসিডের উপাদান?\n- a) রাইবোজ\n- b) এরিওজেজ\n- g) গ্লুকোজ\n- m) ম্যানোজ\n\n## 32. স্টার্চের রাসায়নিক সংকেত হলো-\n- a) C₁₂H₂₂O₁₁\n- b) (C₆H₁₀O₆)ₙ\n- c) (C₆H₁₀O₆)ₙ\n- d) (C₈H₁₃O₅)ₙ\n\n## 33. নিচের কোনটি উদিদে উৎপাদিত প্রথম মৌল?\n(প্রাঞ্চালী বর্ষ-২০১৭)\n- a) স্টার্চ\n- b) সেলুলোজ\n- c) গ্লুকোজ\n- d) কাইটিন\n\n## 34. নিচের কোনটি পেশির কাজে শক্তি যোগান দেয়?\n(ছবিত্র বর্ষ: ২০১৬)\n- a) ফুস্টোজ\n- b) গ্যালকটোজ\n- c) গ্লাইকোজেন\n- d) ম্যালটোজ",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "```none\nতৃতীয় অধ্যায়: কোষ রসায়ন",
+          "structured_data": {},
+          "id": "b5c686eb-f1b3-534a-9eb5-2b1a2cd42149"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q01",
+          "content_markdown": "কোষের রাসায়িক গঠনের কত শতাংশ পানি?",
+          "structured_data": {
+            "question_number": "01",
+            "subtype": "mcq_item",
+            "stem": "কোষের রাসায়িক গঠনের কত শতাংশ পানি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "70%",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "90%",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "80%",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "60%",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "30ab4817-2a94-5868-aeaf-69ea13695fdd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q02",
+          "content_markdown": "উদিদগণ্ডের বিভিন্ন তন্ত কোনটি দিয়ে গঠিত?",
+          "structured_data": {
+            "question_number": "02",
+            "subtype": "mcq_item",
+            "stem": "উদিদগণ্ডের বিভিন্ন তন্ত কোনটি দিয়ে গঠিত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "থুকোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সেলুলোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গ্লাইকোজেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "স্টার্চ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fbf1f7d7-c28d-5d61-9670-38d4a311d5ef"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q03",
+          "content_markdown": "স্যাকরিন ও হেপসরিন কোন ধরনের পদার্থ?",
+          "structured_data": {
+            "question_number": "03",
+            "subtype": "mcq_item",
+            "stem": "স্যাকরিন ও হেপসরিন কোন ধরনের পদার্থ?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "শরবা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "আমিষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "খিঞ্জ লবণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "লিপিড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a8c89d6b-b591-5d0b-9296-6f18e352ddc3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q04",
+          "content_markdown": "কোনটি ইইফু এবং বিটের চিনি নামে পরিচিত?",
+          "structured_data": {
+            "question_number": "04",
+            "subtype": "mcq_item",
+            "stem": "কোনটি ইইফু এবং বিটের চিনি নামে পরিচিত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মল্টেজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সুক্রোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গ্লুকোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ফুস্টোজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fd7a7dbb-4bfd-5edd-bd00-67c9b1dafd99"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q05",
+          "content_markdown": "কোন জৈব যৌগটি জীবমণ্ডলে সর্বাধিক পরিমাণে পাওয়া যায়?",
+          "structured_data": {
+            "question_number": "05",
+            "subtype": "mcq_item",
+            "stem": "কোন জৈব যৌগটি জীবমণ্ডলে সর্বাধিক পরিমাণে পাওয়া যায়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সেলুলোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "স্টার্চ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গ্লাইকোজেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ইউট্রিক অ্যাসিড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ea4cdd2b-f698-5bb2-8109-eb3cbab6eb3d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q06",
+          "content_markdown": "নিচের কোনটি উড়িদের ভার বহন করে?",
+          "structured_data": {
+            "question_number": "06",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি উড়িদের ভার বহন করে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সেলুলোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "গ্লাইকোজেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আমিনো অ্যাসিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোলেস্টেরল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8afed3a8-27f7-58e5-ba28-3c9d62dc6643"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q07",
+          "content_markdown": "নিচের কোনটি অভিক্ষেত্রে উড়িদের ইরিওজ-4 ফসফেট হিসেবে বিবার্জিত হয়?",
+          "structured_data": {
+            "question_number": "07",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি অভিক্ষেত্রে উড়িদের ইরিওজ-4 ফসফেট হিসেবে বিবার্জিত হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "C₃H₆O₃",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "C₄H₈O₄",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "C₅H₁₀O₅",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "C₆H₁₂O₆",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4a738cae-e979-52f7-8dcc-0005af5fbe1f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q08",
+          "content_markdown": "অথিকাশ উড়িদের তত ওজনের শতকরা কত ভাগ কার্বোহাইড্রেট থাকে?",
+          "structured_data": {
+            "question_number": "08",
+            "subtype": "mcq_item",
+            "stem": "অথিকাশ উড়িদের তত ওজনের শতকরা কত ভাগ কার্বোহাইড্রেট থাকে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "10–20",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "20–50",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "50–80",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "80–90",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "05bf2626-d608-58fc-ae97-8834958457d4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q09",
+          "content_markdown": "হাতের সঙ্ঘটিতে লুক্ট্রিকেট হিসেবে কাজ করে কোনটি?\n- g) লিপিড",
+          "structured_data": {
+            "question_number": "09",
+            "subtype": "mcq_item",
+            "stem": "হাতের সঙ্ঘটিতে লুক্ট্রিকেট হিসেবে কাজ করে কোনটি?\n- g) লিপিড",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কার্বোহাইড্রেট",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রোটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "এনজাইম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "db3fac75-5fdd-5203-a1bd-586fdfaa1a5f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q10",
+          "content_markdown": "বিজ্ঞান ক্ষমতার ভিত্তিতে কার্বোহাইড্রেট কত প্রকার?",
+          "structured_data": {
+            "question_number": "10",
+            "subtype": "mcq_item",
+            "stem": "বিজ্ঞান ক্ষমতার ভিত্তিতে কার্বোহাইড্রেট কত প্রকার?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "2",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "3",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "4",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "5",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8bfe8d78-7428-5bec-b733-115a9d627bcd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q11",
+          "content_markdown": "পাকা আচরে গ্লুকোজের শতকরা পরিমাণ কত?",
+          "structured_data": {
+            "question_number": "11",
+            "subtype": "mcq_item",
+            "stem": "পাকা আচরে গ্লুকোজের শতকরা পরিমাণ কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "12–30",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "16–35",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "20–42",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "25–50",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3452bc26-db16-5512-b8ff-7b50097baa73"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q12",
+          "content_markdown": "3-কার্বনবিশিষ্ট মনোস্যাকারাইড কোনটি?",
+          "structured_data": {
+            "question_number": "12",
+            "subtype": "mcq_item",
+            "stem": "3-কার্বনবিশিষ্ট মনোস্যাকারাইড কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গ্লুকোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ইরিওজেজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রাইবোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ডিঅ্যাক্রিবোজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "25b5301a-5e5f-5573-95ee-17f0e04e7edc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q13",
+          "content_markdown": "নিচের কোনটি দাইস্যাকারাইড?",
+          "structured_data": {
+            "question_number": "13",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি দাইস্যাকারাইড?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গ্লাইকোজেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "স্টার্চ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রাইফিনোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সেলোবয়োজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0ae9b416-12f9-5927-b9fc-3248351e1056"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q14",
+          "content_markdown": "উদিদের সবচেয়ে গুরুত্বপূর্ণ দাইস্যাকারাইড সুক্রোজের রাসায়িক সংকেত কোনটি?",
+          "structured_data": {
+            "question_number": "14",
+            "subtype": "mcq_item",
+            "stem": "উদিদের সবচেয়ে গুরুত্বপূর্ণ দাইস্যাকারাইড সুক্রোজের রাসায়িক সংকেত কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "C₆H₁₂O₆",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "C₁₂H₂₂O₁₁",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "(C₆H₁₀O₅)n",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "C₆H₁₀O₅",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4b5d1b7c-1c44-5b7d-bd48-db58ad7a48af"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q15",
+          "content_markdown": "সকল প্রকার সালোকস্প্রেখকারী উদিদে কোনটি থাকে?",
+          "structured_data": {
+            "question_number": "15",
+            "subtype": "mcq_item",
+            "stem": "সকল প্রকার সালোকস্প্রেখকারী উদিদে কোনটি থাকে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সুক্রোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ল্যাকটোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রাইফিনোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "মল্টেজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "27fbe550-f1a4-5e99-b661-76adb1543fde"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q16",
+          "content_markdown": "কম্পক্ষ কতটি মনোস্যাকারাইড পলিমারভুক্ত হয়ে পলিস্যাকারাইড গঠন করে?",
+          "structured_data": {
+            "question_number": "16",
+            "subtype": "mcq_item",
+            "stem": "কম্পক্ষ কতটি মনোস্যাকারাইড পলিমারভুক্ত হয়ে পলিস্যাকারাইড গঠন করে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "পাঁচ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ছয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আট",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "দশ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fbd071ba-a02c-51f9-b36d-6d7fd69dbd7d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q17",
+          "content_markdown": "সবচেয়ে বেশি সেলুলোজ কোনটিতে?",
+          "structured_data": {
+            "question_number": "17",
+            "subtype": "mcq_item",
+            "stem": "সবচেয়ে বেশি সেলুলোজ কোনটিতে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "লিঙ্গেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তুলা",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কাঠ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বাঁশ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8a59ed9b-8530-5984-a405-8c852aa6356a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q18",
+          "content_markdown": "কোনটি মনোস্যাকারাইড? (সি. বো. ১৯)",
+          "structured_data": {
+            "question_number": "18",
+            "subtype": "mcq_item",
+            "stem": "কোনটি মনোস্যাকারাইড? (সি. বো. ১৯)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "রাইবোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মল্টেজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সেলোবয়োজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সুক্রোজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ea12f9bc-f00e-536c-a13f-660c63bb3299"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q19",
+          "content_markdown": "কোনটি গ্লুকোজের সাথে সম্পর্কিত মুক্ত হয়ে সুক্রোজ গঠিত হয়? (সি. বো. ৯১)",
+          "structured_data": {
+            "question_number": "19",
+            "subtype": "mcq_item",
+            "stem": "কোনটি গ্লুকোজের সাথে সম্পর্কিত মুক্ত হয়ে সুক্রোজ গঠিত হয়? (সি. বো. ৯১)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ইরিওজেজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "রাইফিনোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রাইবোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ফুস্টোজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f5f217b8-38e5-5269-8706-d5c0c6346706"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q20",
+          "content_markdown": "গ্লাইকোসাইডিক বন্ধন দেখা যায়-(সি. বো. ২০১৭)",
+          "structured_data": {
+            "question_number": "20",
+            "subtype": "mcq_item",
+            "stem": "গ্লাইকোসাইডিক বন্ধন দেখা যায়-(সি. বো. ২০১৭)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কার্বোহাইড্রেট",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রোটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "লিপিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "এনজাইম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f81bc8ee-4622-50b5-a9e4-3d063e322bc0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q21",
+          "content_markdown": "নিচের কোনটি অধিজারক শর্করা?(সি. বো. ২০৩৬)",
+          "structured_data": {
+            "question_number": "21",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি অধিজারক শর্করা?(সি. বো. ২০৩৬)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গ্লুকোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ফুস্টোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রাইবোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সুক্রোজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4e30468a-8d68-541e-ba4c-f7096c8759ec"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q22",
+          "content_markdown": "মনোস্যাকারাইড কোন বন্ধন দিয়ে পরস্পর যুক্ত হয়ে অলিপ্ট্রিকারাইড গঠন করে?",
+          "structured_data": {
+            "question_number": "22",
+            "subtype": "mcq_item",
+            "stem": "মনোস্যাকারাইড কোন বন্ধন দিয়ে পরস্পর যুক্ত হয়ে অলিপ্ট্রিকারাইড গঠন করে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ফসফেট",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "হাইড্রোগেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গ্লাইকোসাইডিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কার্বন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "bc60412f-a5a9-5478-ad07-1984e5198954"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q23",
+          "content_markdown": "নিচের কোনটি পেটোজ শর্করা নয়?",
+          "structured_data": {
+            "question_number": "23",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি পেটোজ শর্করা নয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "রাইবোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "রাইইলোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ফুস্টোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ডিঅ্যাক্রিবোজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "72c798d3-ecfa-57a2-910f-a23d93859721"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q24",
+          "content_markdown": "গ্লুকোজের α লিংকে OH থাকে-(সি. বো. ২০১৮)",
+          "structured_data": {
+            "question_number": "24",
+            "subtype": "mcq_item",
+            "stem": "গ্লুকোজের α লিংকে OH থাকে-(সি. বো. ২০১৮)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1নং কার্বনের উপরে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "1নং কার্বনের নিচে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "2নং কার্বনের উপরে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "2নং কার্বনের নিচে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fb8749c6-e217-598f-b34a-4c60ecc7f714"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q25",
+          "content_markdown": "নিচের কোনটি রিউটিসিং শ্বার নয়?",
+          "structured_data": {
+            "question_number": "25",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি রিউটিসিং শ্বার নয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গ্লুকোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সেলুলোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রাইবোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ফুস্টোজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "79e2602d-9510-5a45-af3e-217cf5655a57"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q26",
+          "content_markdown": "নিচের কোনটি 5 কার্বন বিশিষ্ট মনোস্যাকারাইড?",
+          "structured_data": {
+            "question_number": "26",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি 5 কার্বন বিশিষ্ট মনোস্যাকারাইড?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অ্যাবিনোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "এরিওজেজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গ্লুকোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ম্যানোজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "aa8f8523-2608-5ccc-9313-2da49de13e1f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q27",
+          "content_markdown": "কর্ন প্রৈপ্প খাগর কোনটি?",
+          "structured_data": {
+            "question_number": "27",
+            "subtype": "mcq_item",
+            "stem": "কর্ন প্রৈপ্প খাগর কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গ্লুকোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সেলুলোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রাইবোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ফুস্টোজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1c11d1e8-012c-5385-896a-57e885a243f1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q28",
+          "content_markdown": "ধান, গম ও ভূট্টার কোন ধরনের শর্করা থাকে?",
+          "structured_data": {
+            "question_number": "28",
+            "subtype": "mcq_item",
+            "stem": "ধান, গম ও ভূট্টার কোন ধরনের শর্করা থাকে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গ্লুকোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সেলুলোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গ্লাইকোজেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "স্টার্চ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6a078760-6957-52d9-a97e-1f248972c41f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q29",
+          "content_markdown": "গ্লুকোজ শাখা-প্রশাখা বিন্যস্ত থাকে কোনটিতে?",
+          "structured_data": {
+            "question_number": "29",
+            "subtype": "mcq_item",
+            "stem": "গ্লুকোজ শাখা-প্রশাখা বিন্যস্ত থাকে কোনটিতে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "স্টার্চ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "আমিলোইডজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সেলুলোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অ্যামিলোপেক্টিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1a308995-be0c-5d7f-9423-576f1ab751a5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q30",
+          "content_markdown": "নিচের কোনটি রিউটিসিং শ্বার?\n(মে. প্র. ১৯-১৯)",
+          "structured_data": {
+            "question_number": "30",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি রিউটিসিং শ্বার?\n(মে. প্র. ১৯-১৯)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গ্লুকোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "স্টার্চ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গ্লাইকোজেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কাইটিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9c377516-cdfc-51a4-9ac5-e8fef1c4d922"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q31",
+          "content_markdown": "নিচের কোনটি নিউক্লিক আসিডের উপাদান?\n- g) গ্লুকোজ\n- m) ম্যানোজ",
+          "structured_data": {
+            "question_number": "31",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি নিউক্লিক আসিডের উপাদান?\n- g) গ্লুকোজ\n- m) ম্যানোজ",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "রাইবোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "এরিওজেজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4d3b9033-3187-574e-a0e4-f39a757cfea5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q32",
+          "content_markdown": "স্টার্চের রাসায়নিক সংকেত হলো-",
+          "structured_data": {
+            "question_number": "32",
+            "subtype": "mcq_item",
+            "stem": "স্টার্চের রাসায়নিক সংকেত হলো-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "C₁₂H₂₂O₁₁",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "(C₆H₁₀O₆)ₙ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "(C₆H₁₀O₆)ₙ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "(C₈H₁₃O₅)ₙ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b6b80ab8-bd83-5708-b16f-f8bbc7d4d661"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q33",
+          "content_markdown": "নিচের কোনটি উদিদে উৎপাদিত প্রথম মৌল?\n(প্রাঞ্চালী বর্ষ-২০১৭)",
+          "structured_data": {
+            "question_number": "33",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি উদিদে উৎপাদিত প্রথম মৌল?\n(প্রাঞ্চালী বর্ষ-২০১৭)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "স্টার্চ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সেলুলোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গ্লুকোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কাইটিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "daec8fd8-ac08-5d1a-9b3e-e418c85fc523"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q34",
+          "content_markdown": "নিচের কোনটি পেশির কাজে শক্তি যোগান দেয়?\n(ছবিত্র বর্ষ: ২০১৬)",
+          "structured_data": {
+            "question_number": "34",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি পেশির কাজে শক্তি যোগান দেয়?\n(ছবিত্র বর্ষ: ২০১৬)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ফুস্টোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "গ্যালকটোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গ্লাইকোজেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ম্যালটোজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "73350ac5-27e0-5387-8039-589229fb38ce"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 35,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1_a4000",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 124.26,
+        "eval_count": 3654
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "```none\nঝিববিজ্ঞান প্রথম পত্র\n\n35. ঘুরকোজ সমধে সত্যি নয় কৌনটি?\n- ফ. এটা ভিডিওসিং সুগার\n- খ. এফএ আখাদ্য চিনি বলা হয়\n- গ. গ্লাইকোজেন হিসেবে সহিত থাকে\n- ঘ. ভিটামিন শি তৈরিতে প্রয়োজন হয় না\n\n36. সেলুলোজ কোন বদ্ধনটি বিদ্যমান?\n- ক. α - গ্লাইকোসাইডিক\n- খ. β - গ্লাইকোসাইডিক\n- গ. হাইড্রোজেন\n- ঘ. পেপ্টাইড\n\n37. পলিসাক্রাইড কোনটি?\n- ক. ফ্রুটজি\n- খ. সুভোজ\n- গ. গ্লাইকোজ\n- ঘ. সেলুলোজ\n\n38. গ্লুকোজ কী ধরনের যৌগ?\n- ক. নন-রিউটিসিং মুরার\n- খ. হেয়োজ মনোসাক্রাইড\n- গ. ট্রিয়জ মনোসাক্রাইড\n- ঘ. হেয়েটজ মনোসাক্রাইড\n\n39. গ্লুকোজ অনুষ্ঠে কারণ সংখ্যা কত?\n- ক. পাঁচ\n- খ. চার\n- গ. ছয়\n- ঘ. সাত\n\n40. অবিকাশ মিষ্টি ফলে মুক্ত অবস্থায় নিচের কোন মনোস্যাক্রাইড পাওয়া যায়?\n- ক. ফুটোজি\n- খ. রাইবোজ\n- গ. ডি-অক্সিরাইবোজ\n- ঘ. রাইইরোজ\n\nপ্রোটিন\n\n41. পেপ্টাইড বদ্ধনটি কোন যৌগে দেখা যায়?\n(স. বো. ১৫)\n- ক. কার্বোহাইড্রেট\n- খ. লিপিড\n- গ. প্রোটিন\n- ঘ. টিউটিমিন (আঙ্গিক+মাজেনা+আপিম)\n\n42. কৌনটি পানিতে দ্রুতিয় সরল প্রোটিন?\n- ক. ট্রুটেলিন\n- খ. হিস্টোন\n- গ. প্রোলামিন\n- ঘ. গ্লোবিউলিন\n\n43. খাবার চালে বিদ্যমান প্রোটিন কোনটি?\n- ক. গ্রুটেলিন\n- খ. প্রোটিমিন\n- গ. প্রোলামিন\n- ঘ. অরাইজেনিন\n\n44. হিমোগ্লোবিন কী ধরনের পদার্থ?\n(স. বো. ১৫)\n- ক. যুথ প্রোটিন\n- খ. ফসফেলিপিড\n- গ. এনজাইম\n- ঘ. কোলেস্টেরল\n\n45. কৌন প্রোটিনটি বার্লি থেকে পাওয়া যায়? (স. বো. ২০১৩)\n- ক. হিটিন\n- খ. অরাইজেনিন\n- গ. জেইন\n- ঘ. গ্রিয়াডিন (আঙ্গিক+মাজেনা+আলিম)\n\n46. সবচেয়ে ক্ষুদ্র প্রোটিন কোনটি?\n(স. বো. ২০১৩, মেডিকেল ০৯-১০)\n- ক. প্রোলামিন\n- খ. হিস্টোন\n- গ. প্রোটিমিন\n- ঘ. গ্রুটেলিন (আঙ্গিক+মাজেনা)\n\n47. কৌন প্রোটিন পানিতে অদ্রব্যীয়?\n(মেড.প. ২২-২২; স. বো. ২০১৩)\n- ক. গ্রুটেলিন\n- খ. প্রোটিমিন\n- গ. অ্যাল্যুমিন\n- ঘ. প্রোটিমিন (আঙ্গিক রহমান+মাজেনা)\n\n48. ডিমের সাদা অংশে কোন ধরনের প্রোটিন থাকে?\n(স. বো. ২০১৫)\n- ক. প্রোবিউলিন\n- খ. অ্যাল্যুমিন\n- গ. হিস্টোন\n- ঘ. প্রোটিমিন (আঙ্গিক + মাজেনা)\n\n49. ধানের অরাইজেনিন কোন ধরনের প্রোটিন?\n(স. বো. ২০১৬)\n- ক. প্রোবিউলিন\n- খ. গ্রুটেলিন\n- গ. প্রোটিমিন (আঙ্গিক রহমান + মাজেনা)\n- ঘ. প্রোটিমিন\n\n50. নখে কোন ধরনের প্রোটিন থাকে? (স. বো. ২০১৩)\n- ক. অ্যাল্বুমিন\n- খ. ফ্রেরোপ্রোটিন\n- গ. প্রোবিউলিন\n- ঘ. গ্রুটেলিন [আঙ্গিক+মাজেনা]\n\n## Q51\n**Type:** mcq\n**Stem:** যুথ প্রোটিনের অ্যোপ্টিন অংশ ধাতব পদার্থ হলে তাকে বলে—\n(স. বো. ১৬)\n- ক. কো-ফ্যাস্ট্রি\n- খ. কো-এনজাইম\n- গ. আয়োপ এনজাইম\n- ঘ. সাবওয়েট [আঙ্গিক+মাজেনা]\n\n## Q52\n**Type:** mcq\n**Stem:** প্রোটিন চুল ও নখে কোন ধরনের প্রোটিন থাকে?\n- ক. ফাইব্রিন\n- খ. কোলাভেন\n- গ. কেরাটিন\n- ঘ. সেইন [আঙ্গিক]\n\n## Q53\n**Type:** mcq\n**Stem:** যুথ প্রোটিনের অ্যোপ্টিন অংশ জৈব রাসায়নিক পদার্থ হলে তাকে কলা হয়-\n- ক. অ্যাবিটের\n- খ. কো-ফ্যাস্ট্রি\n- গ. কো-এনজাইম\n- ঘ. আয়োপ-এনজাইম [আঙ্গিক]\n\n## Q54\n**Type:** mcq\n**Stem:** ক্যারিনিয়েড হলো-\n[ভৃত্যা বছর - ২০১৭]\n- ক. মিনারেল\n- খ. কার্বোহাইড্রেট\n- গ. প্রোটিন\n- ঘ. লিপিড [মাজেনা]\n\n## Q55\n**Type:** mcq\n**Stem:** ডিমের কুষুমে কোন ধরনের প্রোটিন থাকে?\n[দেকা বছর: ২০১৩]\n- ক. গ্লুটিউলিন\n- খ. গ্রুটেলিন\n- গ. আল্বিউমিন\n- ঘ. প্রোলামিন\n\n## Q56\n**Type:** mcq\n**Stem:** প্রোটিন সংশ্লেষণে অংশগ্রহণ করে কোন অস্পৃষ্ঠ?\n[ভৃত্যা বছর: ২০১৩]\n- ক. মাইট্রোক্রিয়া\n- খ. রাইবোজোম\n- গ. লাইসোজোম\n- ঘ. সেন্ট্রিওল\n\n## Q57\n**Type:** mcq\n**Stem:** নিচের কৌনটি মানুষের শরীরের অত্যাবধায়ক আয়ামাইনো এসিড নয়?\n[মেডিকেল: ১৭-১৮]\n- ক. গ্লাসিন\n- খ. লাইসিন\n- গ. ফিনাইলঅ্যালানিন\n- ঘ. প্রোপিনিন [মাজেনা]\n\n## Q58\n**Type:** mcq\n**Stem:** বিলার আয়ামিনো এসিড হলো-\n[মেডিকেল: ১২-১৩]\n- ক. গ্লাসিন\n- খ. হাইড্রিপ্রোপিন\n- গ. লাইসিন\n- ঘ. হাইড্রিলাইসিন [মাজেনা]\n\n## Q59\n**Type:** mcq\n**Stem:** নিচের কৌনটি আয়ামিনো এসিডের বৈশিষ্ট্য নয়?\n[মেডিকেল: ০৯-১০]\n- ক. মানবদেহে বিদ্যমান প্রায় সবগুলো আয়ামিনো এসিডই α-\n- আয়ামিনো এসিড\n- খ. পানিতে অদ্রব্যীয়\n- গ. ইউরিয়া সংশ্লেষণে সহায়তা করে\n- ঘ. প্রোটিন গঠনকারী আয়ামিনো এসিডের সংখ্যা ২০ [মাজেনা]\n\n## Q60\n**Type:** mcq\n**Stem:** যেটি আয়োমেটিক আয়ামিনো এসিড নয়-\n[মেডিকেল: ০৩-০২]\n- ক. গ্লাসিন\n- খ. ট্রিস্টাফ্যান\n- গ. ফিনাইল অ্যালানিন\n- ঘ. টাইরোসিন [মাজেনা]\n\n## Q61\n**Type:** mcq\n**Stem:** নিচের কৌনটি সরল প্রোটিনের উদাহরণ নয়?\n- ক. Albumin\n- খ. Globulin\n- গ. Lipoprotein\n- ঘ. Histone [মাজেনা]\n\n## Q62\n**Type:** mcq\n**Stem:** কৌনটি প্রোভিউলার প্রোটিন নয়?\n[মেডিকেল: ১৪-১৫]\n- ক. হিমোগ্লোবিন\n- খ. মায়োগ্লোবিন\n- গ. ইনসুলিন\n- ঘ. এনজাইমসমূহ [মাজেনা]\n\n## Q63\n**Type:** mcq\n**Stem:** প্রোটিন গঠনের প্রকারভেদ নিচের কৌনটি?\n[মেডিকেল: ১৪-১৫]\n- ক. দুই\n- খ. পাঁচ\n- গ. চার\n- ঘ. তিন [মাজেনা]\n\n## Q64\n**Type:** mcq\n**Stem:** নিচের কৌনটি সরল প্রোটিন নয়?\n[তেলাঙ্গ: ০৭-০৮]\n- ক. অ্যাল্বুমিন\n- খ. প্রাইকোপ্রোটিন\n- গ. প্রোবিউলিন [মাজেনা]\n\n### Anushilini Prash\nchase your dream to be a doctor...",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "```none\nঝিববিজ্ঞান প্রথম পত্র",
+          "structured_data": {},
+          "id": "365b3529-5e48-533a-aa8e-10722843c28c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "35. ঘুরকোজ সমধে সত্যি নয় কৌনটি?\n- ফ. এটা ভিডিওসিং সুগার\n- খ. এফএ আখাদ্য চিনি বলা হয়\n- গ. গ্লাইকোজেন হিসেবে সহিত থাকে\n- ঘ. ভিটামিন শি তৈরিতে প্রয়োজন হয় না",
+          "structured_data": {},
+          "id": "a0e6da83-d57b-5893-a7b4-2eaa9f60586f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "36. সেলুলোজ কোন বদ্ধনটি বিদ্যমান?\n- ক. α - গ্লাইকোসাইডিক\n- খ. β - গ্লাইকোসাইডিক\n- গ. হাইড্রোজেন\n- ঘ. পেপ্টাইড",
+          "structured_data": {},
+          "id": "69f22387-a84f-5e8e-9b29-2392dddd8646"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "37. পলিসাক্রাইড কোনটি?\n- ক. ফ্রুটজি\n- খ. সুভোজ\n- গ. গ্লাইকোজ\n- ঘ. সেলুলোজ",
+          "structured_data": {},
+          "id": "78b98bc4-4236-5857-9b8f-4c1aaf7c85ea"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "38. গ্লুকোজ কী ধরনের যৌগ?\n- ক. নন-রিউটিসিং মুরার\n- খ. হেয়োজ মনোসাক্রাইড\n- গ. ট্রিয়জ মনোসাক্রাইড\n- ঘ. হেয়েটজ মনোসাক্রাইড",
+          "structured_data": {},
+          "id": "01739a50-4d0f-544b-bb3a-8c3d7ece147d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "39. গ্লুকোজ অনুষ্ঠে কারণ সংখ্যা কত?\n- ক. পাঁচ\n- খ. চার\n- গ. ছয়\n- ঘ. সাত",
+          "structured_data": {},
+          "id": "b38dbaad-5154-5ccb-99ce-231006e031d3"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "40. অবিকাশ মিষ্টি ফলে মুক্ত অবস্থায় নিচের কোন মনোস্যাক্রাইড পাওয়া যায়?\n- ক. ফুটোজি\n- খ. রাইবোজ\n- গ. ডি-অক্সিরাইবোজ\n- ঘ. রাইইরোজ",
+          "structured_data": {},
+          "id": "3d53aa50-a325-5f13-9d1a-058e44adc42a"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "প্রোটিন",
+          "structured_data": {},
+          "id": "534b78b6-c59a-5768-9c5f-ae67b1ed5c06"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "41. পেপ্টাইড বদ্ধনটি কোন যৌগে দেখা যায়?\n(স. বো. ১৫)\n- ক. কার্বোহাইড্রেট\n- খ. লিপিড\n- গ. প্রোটিন\n- ঘ. টিউটিমিন (আঙ্গিক+মাজেনা+আপিম)",
+          "structured_data": {},
+          "id": "2641feaa-ccf0-5a92-a997-35354aa4b80d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "42. কৌনটি পানিতে দ্রুতিয় সরল প্রোটিন?\n- ক. ট্রুটেলিন\n- খ. হিস্টোন\n- গ. প্রোলামিন\n- ঘ. গ্লোবিউলিন",
+          "structured_data": {},
+          "id": "d997ccdc-af90-5f58-941c-404a183e8967"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "43. খাবার চালে বিদ্যমান প্রোটিন কোনটি?\n- ক. গ্রুটেলিন\n- খ. প্রোটিমিন\n- গ. প্রোলামিন\n- ঘ. অরাইজেনিন",
+          "structured_data": {},
+          "id": "7b13cde7-0fc8-514e-94d8-28f31f626a72"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "44. হিমোগ্লোবিন কী ধরনের পদার্থ?\n(স. বো. ১৫)\n- ক. যুথ প্রোটিন\n- খ. ফসফেলিপিড\n- গ. এনজাইম\n- ঘ. কোলেস্টেরল",
+          "structured_data": {},
+          "id": "1ad8211b-993f-58c8-be82-162e10ffa4a9"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "45. কৌন প্রোটিনটি বার্লি থেকে পাওয়া যায়? (স. বো. ২০১৩)\n- ক. হিটিন\n- খ. অরাইজেনিন\n- গ. জেইন\n- ঘ. গ্রিয়াডিন (আঙ্গিক+মাজেনা+আলিম)",
+          "structured_data": {},
+          "id": "c5eca76f-81ac-5a05-b270-ce3a434d9ebd"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "46. সবচেয়ে ক্ষুদ্র প্রোটিন কোনটি?\n(স. বো. ২০১৩, মেডিকেল ০৯-১০)\n- ক. প্রোলামিন\n- খ. হিস্টোন\n- গ. প্রোটিমিন\n- ঘ. গ্রুটেলিন (আঙ্গিক+মাজেনা)",
+          "structured_data": {},
+          "id": "953cce51-eba8-5089-9046-a7fcf4c44f50"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "47. কৌন প্রোটিন পানিতে অদ্রব্যীয়?\n(মেড.প. ২২-২২; স. বো. ২০১৩)\n- ক. গ্রুটেলিন\n- খ. প্রোটিমিন\n- গ. অ্যাল্যুমিন\n- ঘ. প্রোটিমিন (আঙ্গিক রহমান+মাজেনা)",
+          "structured_data": {},
+          "id": "eee585c2-f1a4-5e07-a9ba-a97e2af8053d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "48. ডিমের সাদা অংশে কোন ধরনের প্রোটিন থাকে?\n(স. বো. ২০১৫)\n- ক. প্রোবিউলিন\n- খ. অ্যাল্যুমিন\n- গ. হিস্টোন\n- ঘ. প্রোটিমিন (আঙ্গিক + মাজেনা)",
+          "structured_data": {},
+          "id": "f677f922-eeac-576a-8bd5-806c17d8eab3"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "49. ধানের অরাইজেনিন কোন ধরনের প্রোটিন?\n(স. বো. ২০১৬)\n- ক. প্রোবিউলিন\n- খ. গ্রুটেলিন\n- গ. প্রোটিমিন (আঙ্গিক রহমান + মাজেনা)\n- ঘ. প্রোটিমিন",
+          "structured_data": {},
+          "id": "8bc58a43-4507-586f-8d1f-f6b167c653e4"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "50. নখে কোন ধরনের প্রোটিন থাকে? (স. বো. ২০১৩)\n- ক. অ্যাল্বুমিন\n- খ. ফ্রেরোপ্রোটিন\n- গ. প্রোবিউলিন\n- ঘ. গ্রুটেলিন [আঙ্গিক+মাজেনা]",
+          "structured_data": {},
+          "id": "0d788c2e-9b98-5e25-a603-68d547ea28d2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q51",
+          "content_markdown": "যুথ প্রোটিনের অ্যোপ্টিন অংশ ধাতব পদার্থ হলে তাকে বলে—\n(স. বো. ১৬)",
+          "structured_data": {
+            "question_number": "51",
+            "subtype": "mcq",
+            "stem": "যুথ প্রোটিনের অ্যোপ্টিন অংশ ধাতব পদার্থ হলে তাকে বলে—\n(স. বো. ১৬)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "কো-ফ্যাস্ট্রি",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "কো-এনজাইম",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "আয়োপ এনজাইম",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "সাবওয়েট [আঙ্গিক+মাজেনা]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3166fb8a-5852-502e-8064-03a20c4ba53d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q52",
+          "content_markdown": "প্রোটিন চুল ও নখে কোন ধরনের প্রোটিন থাকে?",
+          "structured_data": {
+            "question_number": "52",
+            "subtype": "mcq",
+            "stem": "প্রোটিন চুল ও নখে কোন ধরনের প্রোটিন থাকে?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "ফাইব্রিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "কোলাভেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "কেরাটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "সেইন [আঙ্গিক]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f397300c-1a91-543b-b807-7a5906d47270"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q53",
+          "content_markdown": "যুথ প্রোটিনের অ্যোপ্টিন অংশ জৈব রাসায়নিক পদার্থ হলে তাকে কলা হয়-",
+          "structured_data": {
+            "question_number": "53",
+            "subtype": "mcq",
+            "stem": "যুথ প্রোটিনের অ্যোপ্টিন অংশ জৈব রাসায়নিক পদার্থ হলে তাকে কলা হয়-",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "অ্যাবিটের",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "কো-ফ্যাস্ট্রি",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "কো-এনজাইম",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "আয়োপ-এনজাইম [আঙ্গিক]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "67d6dcaa-0bfc-5b3a-8aa0-8785269e18c7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q54",
+          "content_markdown": "ক্যারিনিয়েড হলো-\n[ভৃত্যা বছর - ২০১৭]",
+          "structured_data": {
+            "question_number": "54",
+            "subtype": "mcq",
+            "stem": "ক্যারিনিয়েড হলো-\n[ভৃত্যা বছর - ২০১৭]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "মিনারেল",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "কার্বোহাইড্রেট",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "প্রোটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "লিপিড [মাজেনা]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "aa414c71-6822-5cb4-bf79-25413570b86f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q55",
+          "content_markdown": "ডিমের কুষুমে কোন ধরনের প্রোটিন থাকে?\n[দেকা বছর: ২০১৩]",
+          "structured_data": {
+            "question_number": "55",
+            "subtype": "mcq",
+            "stem": "ডিমের কুষুমে কোন ধরনের প্রোটিন থাকে?\n[দেকা বছর: ২০১৩]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "গ্লুটিউলিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "গ্রুটেলিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "আল্বিউমিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "প্রোলামিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a2135e97-fa28-5536-a222-d06c198ef4c6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q56",
+          "content_markdown": "প্রোটিন সংশ্লেষণে অংশগ্রহণ করে কোন অস্পৃষ্ঠ?\n[ভৃত্যা বছর: ২০১৩]",
+          "structured_data": {
+            "question_number": "56",
+            "subtype": "mcq",
+            "stem": "প্রোটিন সংশ্লেষণে অংশগ্রহণ করে কোন অস্পৃষ্ঠ?\n[ভৃত্যা বছর: ২০১৩]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "মাইট্রোক্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "রাইবোজোম",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "লাইসোজোম",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "সেন্ট্রিওল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "65cba085-1bbf-59b8-81a4-d33155c9978e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q57",
+          "content_markdown": "নিচের কৌনটি মানুষের শরীরের অত্যাবধায়ক আয়ামাইনো এসিড নয়?\n[মেডিকেল: ১৭-১৮]",
+          "structured_data": {
+            "question_number": "57",
+            "subtype": "mcq",
+            "stem": "নিচের কৌনটি মানুষের শরীরের অত্যাবধায়ক আয়ামাইনো এসিড নয়?\n[মেডিকেল: ১৭-১৮]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "গ্লাসিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "লাইসিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "ফিনাইলঅ্যালানিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "প্রোপিনিন [মাজেনা]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1f6259d0-eb9a-5342-ab3e-2bf0d7551586"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q58",
+          "content_markdown": "বিলার আয়ামিনো এসিড হলো-\n[মেডিকেল: ১২-১৩]",
+          "structured_data": {
+            "question_number": "58",
+            "subtype": "mcq",
+            "stem": "বিলার আয়ামিনো এসিড হলো-\n[মেডিকেল: ১২-১৩]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "গ্লাসিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "হাইড্রিপ্রোপিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "লাইসিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "হাইড্রিলাইসিন [মাজেনা]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a92acb56-cac2-5c3c-881d-c656dc85f713"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q59",
+          "content_markdown": "নিচের কৌনটি আয়ামিনো এসিডের বৈশিষ্ট্য নয়?\n[মেডিকেল: ০৯-১০]\n- আয়ামিনো এসিড",
+          "structured_data": {
+            "question_number": "59",
+            "subtype": "mcq",
+            "stem": "নিচের কৌনটি আয়ামিনো এসিডের বৈশিষ্ট্য নয়?\n[মেডিকেল: ০৯-১০]\n- আয়ামিনো এসিড",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "মানবদেহে বিদ্যমান প্রায় সবগুলো আয়ামিনো এসিডই α-",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "পানিতে অদ্রব্যীয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "ইউরিয়া সংশ্লেষণে সহায়তা করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "প্রোটিন গঠনকারী আয়ামিনো এসিডের সংখ্যা ২০ [মাজেনা]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0aab2984-e55a-5b19-923f-825fd9eaaa43"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q60",
+          "content_markdown": "যেটি আয়োমেটিক আয়ামিনো এসিড নয়-\n[মেডিকেল: ০৩-০২]",
+          "structured_data": {
+            "question_number": "60",
+            "subtype": "mcq",
+            "stem": "যেটি আয়োমেটিক আয়ামিনো এসিড নয়-\n[মেডিকেল: ০৩-০২]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "গ্লাসিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "ট্রিস্টাফ্যান",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "ফিনাইল অ্যালানিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "টাইরোসিন [মাজেনা]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a936fbcb-b3a9-5a21-8ee8-591055ef8369"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q61",
+          "content_markdown": "নিচের কৌনটি সরল প্রোটিনের উদাহরণ নয়?",
+          "structured_data": {
+            "question_number": "61",
+            "subtype": "mcq",
+            "stem": "নিচের কৌনটি সরল প্রোটিনের উদাহরণ নয়?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Albumin",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Globulin",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Lipoprotein",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Histone [মাজেনা]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "40f1a605-1f69-50f6-bfd0-0f9f4539f740"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q62",
+          "content_markdown": "কৌনটি প্রোভিউলার প্রোটিন নয়?\n[মেডিকেল: ১৪-১৫]",
+          "structured_data": {
+            "question_number": "62",
+            "subtype": "mcq",
+            "stem": "কৌনটি প্রোভিউলার প্রোটিন নয়?\n[মেডিকেল: ১৪-১৫]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "হিমোগ্লোবিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "মায়োগ্লোবিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "ইনসুলিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "এনজাইমসমূহ [মাজেনা]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f7e78250-3b95-5e5e-b433-3f718314d849"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q63",
+          "content_markdown": "প্রোটিন গঠনের প্রকারভেদ নিচের কৌনটি?\n[মেডিকেল: ১৪-১৫]",
+          "structured_data": {
+            "question_number": "63",
+            "subtype": "mcq",
+            "stem": "প্রোটিন গঠনের প্রকারভেদ নিচের কৌনটি?\n[মেডিকেল: ১৪-১৫]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "দুই",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "পাঁচ",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "চার",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "তিন [মাজেনা]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c33ac793-d0b2-5567-bb88-0de9c5156668"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q64",
+          "content_markdown": "নিচের কৌনটি সরল প্রোটিন নয়?\n[তেলাঙ্গ: ০৭-০৮]\n\n### Anushilini Prash\nchase your dream to be a doctor...",
+          "structured_data": {
+            "question_number": "64",
+            "subtype": "mcq",
+            "stem": "নিচের কৌনটি সরল প্রোটিন নয়?\n[তেলাঙ্গ: ০৭-০৮]\n\n### Anushilini Prash\nchase your dream to be a doctor...",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "অ্যাল্বুমিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "প্রাইকোপ্রোটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "প্রোবিউলিন [মাজেনা]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "11ce3b76-0e01-517c-9321-9b6cb77a5a19"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 32,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1_a4000",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 69.43,
+        "eval_count": 4203
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q65\n**Type:** mcq\n**Stem:** 65. প্রোটিন গঠনে আংশিক এসিডের সংখ্যা কয়টি?\n**Options:** \n- a) 10\n- b) 20\n- c) 30\n- d) 80 (মধ্যে)\n**Answer:** - d) 80 (মধ্যে)\n**Solution:** প্রোটিন গঠনে আংশিক এসিডের সংখ্যা মধ্যে।\n**Tags:** হিসিউ বোর্ড 2015, মেডিকেল-০৪-০২\n\n### Q66\n**Type:** mcq\n**Stem:** 66. শিপিড কত তাপমাত্রায় ফণ্টন থাকলে চর্বি বা ফ্যাট বলে?\n**Options:** \n- a) 10–20° সে.\n- b) 20–30° সে.\n- c) 30–40° সে.\n- d) 40–50° সে.\n**Answer:** - c) 30–40° সে.\n**Solution:** শিপিড কত তাপমাত্রায় ফণ্টন থাকলে চর্বি বা ফ্যাট বলে।\n**Tags:** আগিখুর\n\n### Q67\n**Type:** mcq\n**Stem:** 67. শিপিড অদ্বিতীয় কৌণিকে?\n**Options:** \n- a) ইহার\n- b) অ্যালকোহল\n- c) বেনজিন\n- d) পানি\n**Answer:** - a) ইহার\n**Solution:** শিপিড অদ্বিতীয় কৌণিকে।\n**Tags:** আগিখুর\n\n### Q68\n**Type:** mcq\n**Stem:** 68. মোম কোন ধরনের পদার্থ?\n**Options:** \n- a) প্রোটিন\n- b) লিপিড\n- c) জৈব এসিড\n- d) শকরা\n**Answer:** - b) লিপিড\n**Solution:** মোম কোন ধরনের পদার্থ।\n**Tags:** আগিখুর\n\n### Q69\n**Type:** mcq\n**Stem:** 69. লেপিসিন, সেফাওল, প্রাজ্ঞালোগেন কোন ধরনের লিপিড?\n**Options:** \n- a) নিউট্রাল লিপিড\n- b) ফসফেলিপিড\n- c) গ্লাইকোলিপিড\n- d) টারপিনয়েড\n**Answer:** - c) গ্লাইকোলিপিড\n**Solution:** লেপিসিন, সেফাওল, প্রাজ্ঞালোগেন কোন ধরনের লিপিড।\n**Tags:** আগিখুর\n\n### Q70\n**Type:** mcq\n**Stem:** 70. রক্তে কোনটির পরিমাণ বেশি ঢাকা বলো?\n**Options:** \n- a) LDL\n- b) HDL\n- c) কোলেস্টেরল\n- d) LDH\n**Answer:** - c) কোলেস্টেরল\n**Solution:** রক্তে কোনটির পরিমাণ বেশি ঢাকা বলো।\n**Tags:** আগিখুর\n\n### Q71\n**Type:** mcq\n**Stem:** 71. কোলেস্টেরল কোন জাতীয় পদার্থ?\n**Options:** \n- a) কার্বোইড্রেট\n- b) প্রোটিন\n- c) লিপিড\n- d) ভিটামিন\n**Answer:** - c) লিপিড\n**Solution:** কোলেস্টেরল কোন জাতীয় পদার্থ।\n**Tags:** আগিখুর+আশিম\n\n### Q72\n**Type:** mcq\n**Stem:** 72. কোনটি ফসফেলিপিডের উদাহরণ? (ছেদ বোর্ড, ২১-২২ চ. বো., ২০১৯)\n**Options:** \n- a) লেসিথিন\n- b) সুবেরিন\n- c) কিউটিন\n- d) টারপিন\n**Answer:** - a) লেসিথিন\n**Solution:** কোনটি ফসফেলিপিডের উদাহরণ।\n**Tags:** আগিখুর+আশিম+আশিম\n\n### Q73\n**Type:** mcq\n**Stem:** 73. নিচের কোনটি উদ্বৃত্ত সৃষ্টি সৃষ্টি জন দায়িত্ব? (সি. বো., ২০১৯)\n**Options:** \n- a) স্টেরয়েড\n- b) টারপিনয়েড\n- c) ট্রাইপ্রিসারাইড\n- d) গ্লাইকোলিপিড\n**Answer:** - a) স্টেরয়েড\n**Solution:** নিচের কোনটি উদ্বৃত্ত সৃষ্টি সৃষ্টি জন দায়িত্ব।\n**Tags:** আগিখুর\n\n### Q74\n**Type:** mcq\n**Stem:** 74. তুলসি, পুদিনা ও পাইন উদ্বৃত্ত থেকে কোন লিপিড পাওয়া যায়? (সি. বো., ১৭)\n**Options:** \n- a) টারপিনেল\n- b) টারপিনেল\n- c) ফসফেলিপিড\n- d) প্রিনারয়েড\n**Answer:** - d) প্রিনারয়েড\n**Solution:** তুলসি, পুদিনা ও পাইন উদ্বৃত্ত থেকে কোন লিপিড পাওয়া যায়।\n**Tags:** আগিখুর + মাঝেনা\n\n### Q75\n**Type:** mcq\n**Stem:** 75. মানুষের রক্তে কোলেস্টেরলের ঘাষাবিক মাত্রা হলো—\n**Options:** \n- a) ০.৫–০.১৫%\n- b) ০.১৫–১.৫%\n- c) ০.১৫–১.২০%\n- d) ১.২০–২.৫%\n**Answer:** - b) ০.১৫–১.৫%\n**Solution:** মানুষের রক্তে কোলেস্টেরলের ঘাষাবিক মাত্রা হলো।\n**Tags:** আগিখুর + মাঝেনা\n\n### Q76\n**Type:** mcq\n**Stem:** 76. কোনটি উৎভূত লিপিড?\n**Options:** \n- a) কোল\n- b) চর্বি\n- c) রাবার\n- d) মোম\n**Answer:** - d) মোম\n**Solution:** কোনটি উৎভূত লিপিড।\n**Tags:** আগিখুর + মাঝেনা\n\n### Q77\n**Type:** mcq\n**Stem:** 77. সৃষ্টি প্রসাধন তৈরীতে কোনটি ব্যবহার করা হয়?\n(চোখ-৩৯; ছেদ বোর্ড, ২১-২২ চ. বো., ২০১৯)\n**Options:** \n- a) কাইটিন\n- b) তেল\n- c) টারপিনস\n- d) স্টার্ট\n**Answer:** - a) কাইটিন\n**Solution:** সৃষ্টি প্রসাধন তৈরীতে কোনটি ব্যবহার করা হয়।\n**Tags:** আগিখুর\n\n### Q78\n**Type:** mcq\n**Stem:** 78. নিচের কোনটি তৈল জাতীয় লিপিড নয়?\n**Options:** \n- a) অলিক এসিড\n- b) পামিটোলিক আসিড\n- c) লিনোলেনিক আসিড\n- d) অলিক আসিড\n**Answer:** - b) পামিটোলিক আসিড\n**Solution:** নিচের কোনটি তৈল জাতীয় লিপিড নয়।\n**Tags:** আশিম\n\n### Q79\n**Type:** mcq\n**Stem:** 79. নিচের কোনটি মৃগধির ডিম ও মাছে প্রথম পরিমাণে থাকে?\n**Options:** \n- a) লেসিথিন\n- b) পামিটিক আসিড\n- c) লিনোলেনিক আসিড\n- d) অলিক আসিড\n**Answer:** - a) লেসিথিন\n**Solution:** নিচের কোনটি মৃগধির ডিম ও মাছে প্রথম পরিমাণে থাকে।\n**Tags:** আশিম\n\n### Q80\n**Type:** mcq\n**Stem:** 80. কোনটি মানুষের কর্নারি প্রথমেশিস প্রক্রিয়া করে?\n**Options:** \n- a) HDL\n- b) LDL\n- c) Starch\n- d) Chitin\n**Answer:** - c) Starch\n**Solution:** কোনটি মানুষের কর্নারি প্রথমেশিস প্রক্রিয়া করে।\n**Tags:** আশিম\n\n### Q81\n**Type:** mcq\n**Stem:** 81. LDL কোন জাতীয় জীব রাশায়নিক উপাদান?(ছেদ বোর্ড ২০১৭)\n**Options:** \n- a) টারপিনস\n- b) স্টেরয়েড\n- c) চর্বি\n- d) তেল\n**Answer:** - d) তেল\n**Solution:** LDL কোন জাতীয় জীব রাশায়নিক উপাদান।\n**Tags:** [মাঝেনা]\n\n### Q82\n**Type:** mcq\n**Stem:** 82. নিচের কোনটি লিপিড পরিপাককারী এনজাইম?\n[বর্ণপাঠ বোর্ড ২০১৬]\n**Options:** \n- a) ইনটারটেজ\n- b) সেলোলজ\n- c) লাইইপেজ\n- d) সুক্রেজ\n**Answer:** - c) লাইইপেজ\n**Solution:** নিচের কোনটি লিপিড পরিপাককারী এনজাইম।\n**Tags:** [মাঝেনা]\n\n### Q83\n**Type:** mcq\n**Stem:** 83. কোনটি ফিটো (> C = 0) ক্রোপ থাকে?\n[বর্ণপাঠ: ১০-১৬/]\n**Options:** \n- a) ফুর্তীজ\n- b) রাবিভাঙ্গ\n- g. গ্রুকোজ\n- d) ইরিপ্রোজ\n**Answer:** - b) রাবিভাঙ্গ\n**Solution:** কোনটি ফিটো (> C = 0) ক্রোপ থাকে।\n**Tags:** [মাঝেনা]\n\n### Q84\n**Type:** mcq\n**Stem:** 84. সরল লিপিডের উদাহরণ নয় কোনটি?\n[বর্ণপাঠ: ১০-১৬/]\n**Options:** \n- a) চর্বি\n- b) তেল\n- c) রাবার\n- d) মোম\n**Answer:** - c) রাবার\n**Solution:** সরল লিপিডের উদাহরণ নয় কোনটি।\n**Tags:** [মাঝেনা]\n\n### Q85\n**Type:** mcq\n**Stem:** 85. কাজের দিক থেকে নিচের কোন জোড়ার সঙ্গে সাদৃশ্যপূর্ণ? (বো. ১১)\n**Options:** \n- a) ADP & ATP\n- b) DNA & ATP\n- c) RNA & ADP\n- d) DNA & FAD\n**Answer:** - a) ADP & ATP\n**Solution:** কাজের দিক থেকে নিচের কোন জোড়ার সঙ্গে সাদৃশ্যপূর্ণ।\n**Tags:** আগিখুর",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q65",
+          "content_markdown": "65. প্রোটিন গঠনে আংশিক এসিডের সংখ্যা কয়টি?",
+          "structured_data": {
+            "question_number": "65",
+            "subtype": "mcq",
+            "stem": "65. প্রোটিন গঠনে আংশিক এসিডের সংখ্যা কয়টি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "10",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "20",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "30",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "80 (মধ্যে)",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- d) 80 (মধ্যে)",
+            "solution_markdown": "প্রোটিন গঠনে আংশিক এসিডের সংখ্যা মধ্যে।",
+            "tags_raw": "হিসিউ বোর্ড 2015, মেডিকেল-০৪-০২",
+            "provenance": [
+              "হিসিউ বোর্ড 2015",
+              "মেডিকেল-০৪-০২"
+            ]
+          },
+          "id": "5c87750f-d507-5907-9a9f-beea830574f5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q66",
+          "content_markdown": "66. শিপিড কত তাপমাত্রায় ফণ্টন থাকলে চর্বি বা ফ্যাট বলে?",
+          "structured_data": {
+            "question_number": "66",
+            "subtype": "mcq",
+            "stem": "66. শিপিড কত তাপমাত্রায় ফণ্টন থাকলে চর্বি বা ফ্যাট বলে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "10–20° সে.",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "20–30° সে.",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "30–40° সে.",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "40–50° সে.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) 30–40° সে.",
+            "solution_markdown": "শিপিড কত তাপমাত্রায় ফণ্টন থাকলে চর্বি বা ফ্যাট বলে।",
+            "tags_raw": "আগিখুর",
+            "provenance": [
+              "আগিখুর"
+            ]
+          },
+          "id": "b6bcd5b7-6b8b-5d9f-b335-e14a7de7bfca"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q67",
+          "content_markdown": "67. শিপিড অদ্বিতীয় কৌণিকে?",
+          "structured_data": {
+            "question_number": "67",
+            "subtype": "mcq",
+            "stem": "67. শিপিড অদ্বিতীয় কৌণিকে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ইহার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অ্যালকোহল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বেনজিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "পানি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a) ইহার",
+            "solution_markdown": "শিপিড অদ্বিতীয় কৌণিকে।",
+            "tags_raw": "আগিখুর",
+            "provenance": [
+              "আগিখুর"
+            ]
+          },
+          "id": "e8440dbd-cf62-566c-8cbc-4f91575a88ed"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q68",
+          "content_markdown": "68. মোম কোন ধরনের পদার্থ?",
+          "structured_data": {
+            "question_number": "68",
+            "subtype": "mcq",
+            "stem": "68. মোম কোন ধরনের পদার্থ?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রোটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "লিপিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "জৈব এসিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "শকরা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) লিপিড",
+            "solution_markdown": "মোম কোন ধরনের পদার্থ।",
+            "tags_raw": "আগিখুর",
+            "provenance": [
+              "আগিখুর"
+            ]
+          },
+          "id": "c2656c01-eecf-58b3-958c-394bda6fef0b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q69",
+          "content_markdown": "69. লেপিসিন, সেফাওল, প্রাজ্ঞালোগেন কোন ধরনের লিপিড?",
+          "structured_data": {
+            "question_number": "69",
+            "subtype": "mcq",
+            "stem": "69. লেপিসিন, সেফাওল, প্রাজ্ঞালোগেন কোন ধরনের লিপিড?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "নিউট্রাল লিপিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ফসফেলিপিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গ্লাইকোলিপিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "টারপিনয়েড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) গ্লাইকোলিপিড",
+            "solution_markdown": "লেপিসিন, সেফাওল, প্রাজ্ঞালোগেন কোন ধরনের লিপিড।",
+            "tags_raw": "আগিখুর",
+            "provenance": [
+              "আগিখুর"
+            ]
+          },
+          "id": "c53b1321-ff7c-57ba-a6e1-28dfb2f948ab"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q70",
+          "content_markdown": "70. রক্তে কোনটির পরিমাণ বেশি ঢাকা বলো?",
+          "structured_data": {
+            "question_number": "70",
+            "subtype": "mcq",
+            "stem": "70. রক্তে কোনটির পরিমাণ বেশি ঢাকা বলো?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "LDL",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "HDL",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কোলেস্টেরল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "LDH",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) কোলেস্টেরল",
+            "solution_markdown": "রক্তে কোনটির পরিমাণ বেশি ঢাকা বলো।",
+            "tags_raw": "আগিখুর",
+            "provenance": [
+              "আগিখুর"
+            ]
+          },
+          "id": "07ca9a6d-0039-5815-a958-49eeed3c3439"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q71",
+          "content_markdown": "71. কোলেস্টেরল কোন জাতীয় পদার্থ?",
+          "structured_data": {
+            "question_number": "71",
+            "subtype": "mcq",
+            "stem": "71. কোলেস্টেরল কোন জাতীয় পদার্থ?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কার্বোইড্রেট",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রোটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "লিপিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ভিটামিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) লিপিড",
+            "solution_markdown": "কোলেস্টেরল কোন জাতীয় পদার্থ।",
+            "tags_raw": "আগিখুর+আশিম",
+            "provenance": [
+              "আগিখুর+আশিম"
+            ]
+          },
+          "id": "fbae0e43-818e-5582-a6fc-e0c42d39007c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q72",
+          "content_markdown": "72. কোনটি ফসফেলিপিডের উদাহরণ? (ছেদ বোর্ড, ২১-২২ চ. বো., ২০১৯)",
+          "structured_data": {
+            "question_number": "72",
+            "subtype": "mcq",
+            "stem": "72. কোনটি ফসফেলিপিডের উদাহরণ? (ছেদ বোর্ড, ২১-২২ চ. বো., ২০১৯)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "লেসিথিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সুবেরিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কিউটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "টারপিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a) লেসিথিন",
+            "solution_markdown": "কোনটি ফসফেলিপিডের উদাহরণ।",
+            "tags_raw": "আগিখুর+আশিম+আশিম",
+            "provenance": [
+              "আগিখুর+আশিম+আশিম"
+            ]
+          },
+          "id": "e2d15e4b-5fa5-51db-bdf4-f183043ef081"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q73",
+          "content_markdown": "73. নিচের কোনটি উদ্বৃত্ত সৃষ্টি সৃষ্টি জন দায়িত্ব? (সি. বো., ২০১৯)",
+          "structured_data": {
+            "question_number": "73",
+            "subtype": "mcq",
+            "stem": "73. নিচের কোনটি উদ্বৃত্ত সৃষ্টি সৃষ্টি জন দায়িত্ব? (সি. বো., ২০১৯)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "স্টেরয়েড",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "টারপিনয়েড",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ট্রাইপ্রিসারাইড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "গ্লাইকোলিপিড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a) স্টেরয়েড",
+            "solution_markdown": "নিচের কোনটি উদ্বৃত্ত সৃষ্টি সৃষ্টি জন দায়িত্ব।",
+            "tags_raw": "আগিখুর",
+            "provenance": [
+              "আগিখুর"
+            ]
+          },
+          "id": "e33e0c6a-bb3e-5660-9357-13b5bdfbbc0b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q74",
+          "content_markdown": "74. তুলসি, পুদিনা ও পাইন উদ্বৃত্ত থেকে কোন লিপিড পাওয়া যায়? (সি. বো., ১৭)",
+          "structured_data": {
+            "question_number": "74",
+            "subtype": "mcq",
+            "stem": "74. তুলসি, পুদিনা ও পাইন উদ্বৃত্ত থেকে কোন লিপিড পাওয়া যায়? (সি. বো., ১৭)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "টারপিনেল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "টারপিনেল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ফসফেলিপিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "প্রিনারয়েড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- d) প্রিনারয়েড",
+            "solution_markdown": "তুলসি, পুদিনা ও পাইন উদ্বৃত্ত থেকে কোন লিপিড পাওয়া যায়।",
+            "tags_raw": "আগিখুর + মাঝেনা",
+            "provenance": [
+              "আগিখুর + মাঝেনা"
+            ]
+          },
+          "id": "55fa11d2-1d3d-53dc-b170-9991ad0cd90e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q75",
+          "content_markdown": "75. মানুষের রক্তে কোলেস্টেরলের ঘাষাবিক মাত্রা হলো—",
+          "structured_data": {
+            "question_number": "75",
+            "subtype": "mcq",
+            "stem": "75. মানুষের রক্তে কোলেস্টেরলের ঘাষাবিক মাত্রা হলো—",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "০.৫–০.১৫%",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "০.১৫–১.৫%",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "০.১৫–১.২০%",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "১.২০–২.৫%",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) ০.১৫–১.৫%",
+            "solution_markdown": "মানুষের রক্তে কোলেস্টেরলের ঘাষাবিক মাত্রা হলো।",
+            "tags_raw": "আগিখুর + মাঝেনা",
+            "provenance": [
+              "আগিখুর + মাঝেনা"
+            ]
+          },
+          "id": "82eaacbc-d7c8-553e-a362-517ab9240b15"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q76",
+          "content_markdown": "76. কোনটি উৎভূত লিপিড?",
+          "structured_data": {
+            "question_number": "76",
+            "subtype": "mcq",
+            "stem": "76. কোনটি উৎভূত লিপিড?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কোল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "চর্বি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রাবার",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "মোম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- d) মোম",
+            "solution_markdown": "কোনটি উৎভূত লিপিড।",
+            "tags_raw": "আগিখুর + মাঝেনা",
+            "provenance": [
+              "আগিখুর + মাঝেনা"
+            ]
+          },
+          "id": "067a6435-707b-5575-a65b-b670c7be0c37"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q77",
+          "content_markdown": "77. সৃষ্টি প্রসাধন তৈরীতে কোনটি ব্যবহার করা হয়?\n(চোখ-৩৯; ছেদ বোর্ড, ২১-২২ চ. বো., ২০১৯)",
+          "structured_data": {
+            "question_number": "77",
+            "subtype": "mcq",
+            "stem": "77. সৃষ্টি প্রসাধন তৈরীতে কোনটি ব্যবহার করা হয়?\n(চোখ-৩৯; ছেদ বোর্ড, ২১-২২ চ. বো., ২০১৯)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কাইটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তেল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "টারপিনস",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "স্টার্ট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a) কাইটিন",
+            "solution_markdown": "সৃষ্টি প্রসাধন তৈরীতে কোনটি ব্যবহার করা হয়।",
+            "tags_raw": "আগিখুর",
+            "provenance": [
+              "আগিখুর"
+            ]
+          },
+          "id": "29a714ec-69d4-5ee7-8e26-a560ff245680"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q78",
+          "content_markdown": "78. নিচের কোনটি তৈল জাতীয় লিপিড নয়?",
+          "structured_data": {
+            "question_number": "78",
+            "subtype": "mcq",
+            "stem": "78. নিচের কোনটি তৈল জাতীয় লিপিড নয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অলিক এসিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "পামিটোলিক আসিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "লিনোলেনিক আসিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অলিক আসিড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) পামিটোলিক আসিড",
+            "solution_markdown": "নিচের কোনটি তৈল জাতীয় লিপিড নয়।",
+            "tags_raw": "আশিম",
+            "provenance": [
+              "আশিম"
+            ]
+          },
+          "id": "10f2712f-10ed-5816-a9b7-c433edb86c11"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q79",
+          "content_markdown": "79. নিচের কোনটি মৃগধির ডিম ও মাছে প্রথম পরিমাণে থাকে?",
+          "structured_data": {
+            "question_number": "79",
+            "subtype": "mcq",
+            "stem": "79. নিচের কোনটি মৃগধির ডিম ও মাছে প্রথম পরিমাণে থাকে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "লেসিথিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "পামিটিক আসিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "লিনোলেনিক আসিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অলিক আসিড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a) লেসিথিন",
+            "solution_markdown": "নিচের কোনটি মৃগধির ডিম ও মাছে প্রথম পরিমাণে থাকে।",
+            "tags_raw": "আশিম",
+            "provenance": [
+              "আশিম"
+            ]
+          },
+          "id": "cf3c05e9-d780-5519-84ae-a8e3d2ff4e24"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q80",
+          "content_markdown": "80. কোনটি মানুষের কর্নারি প্রথমেশিস প্রক্রিয়া করে?",
+          "structured_data": {
+            "question_number": "80",
+            "subtype": "mcq",
+            "stem": "80. কোনটি মানুষের কর্নারি প্রথমেশিস প্রক্রিয়া করে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "HDL",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "LDL",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Starch",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Chitin",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) Starch",
+            "solution_markdown": "কোনটি মানুষের কর্নারি প্রথমেশিস প্রক্রিয়া করে।",
+            "tags_raw": "আশিম",
+            "provenance": [
+              "আশিম"
+            ]
+          },
+          "id": "280ec668-e548-5d6c-b7ab-0434ad0a1223"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q81",
+          "content_markdown": "81. LDL কোন জাতীয় জীব রাশায়নিক উপাদান?(ছেদ বোর্ড ২০১৭)",
+          "structured_data": {
+            "question_number": "81",
+            "subtype": "mcq",
+            "stem": "81. LDL কোন জাতীয় জীব রাশায়নিক উপাদান?(ছেদ বোর্ড ২০১৭)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "টারপিনস",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "স্টেরয়েড",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "চর্বি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "তেল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- d) তেল",
+            "solution_markdown": "LDL কোন জাতীয় জীব রাশায়নিক উপাদান।",
+            "tags_raw": "[মাঝেনা]",
+            "provenance": [
+              "[মাঝেনা]"
+            ]
+          },
+          "id": "180336bc-f039-5176-9198-fa3b2f636069"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q82",
+          "content_markdown": "82. নিচের কোনটি লিপিড পরিপাককারী এনজাইম?\n[বর্ণপাঠ বোর্ড ২০১৬]",
+          "structured_data": {
+            "question_number": "82",
+            "subtype": "mcq",
+            "stem": "82. নিচের কোনটি লিপিড পরিপাককারী এনজাইম?\n[বর্ণপাঠ বোর্ড ২০১৬]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ইনটারটেজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সেলোলজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "লাইইপেজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সুক্রেজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) লাইইপেজ",
+            "solution_markdown": "নিচের কোনটি লিপিড পরিপাককারী এনজাইম।",
+            "tags_raw": "[মাঝেনা]",
+            "provenance": [
+              "[মাঝেনা]"
+            ]
+          },
+          "id": "543063a6-7fd6-54d0-b0a5-3a4dc323cf7f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q83",
+          "content_markdown": "83. কোনটি ফিটো (> C = 0) ক্রোপ থাকে?\n[বর্ণপাঠ: ১০-১৬/]",
+          "structured_data": {
+            "question_number": "83",
+            "subtype": "mcq",
+            "stem": "83. কোনটি ফিটো (> C = 0) ক্রোপ থাকে?\n[বর্ণপাঠ: ১০-১৬/]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ফুর্তীজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "রাবিভাঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ইরিপ্রোজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) রাবিভাঙ্গ",
+            "solution_markdown": "কোনটি ফিটো (> C = 0) ক্রোপ থাকে।",
+            "tags_raw": "[মাঝেনা]",
+            "provenance": [
+              "[মাঝেনা]"
+            ]
+          },
+          "id": "7aced91a-ce08-5ce1-83c9-cfa57da4fc52"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q84",
+          "content_markdown": "84. সরল লিপিডের উদাহরণ নয় কোনটি?\n[বর্ণপাঠ: ১০-১৬/]",
+          "structured_data": {
+            "question_number": "84",
+            "subtype": "mcq",
+            "stem": "84. সরল লিপিডের উদাহরণ নয় কোনটি?\n[বর্ণপাঠ: ১০-১৬/]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "চর্বি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তেল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রাবার",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "মোম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) রাবার",
+            "solution_markdown": "সরল লিপিডের উদাহরণ নয় কোনটি।",
+            "tags_raw": "[মাঝেনা]",
+            "provenance": [
+              "[মাঝেনা]"
+            ]
+          },
+          "id": "ce98bb31-c2df-5806-a515-29f482c5bf36"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q85",
+          "content_markdown": "85. কাজের দিক থেকে নিচের কোন জোড়ার সঙ্গে সাদৃশ্যপূর্ণ? (বো. ১১)",
+          "structured_data": {
+            "question_number": "85",
+            "subtype": "mcq",
+            "stem": "85. কাজের দিক থেকে নিচের কোন জোড়ার সঙ্গে সাদৃশ্যপূর্ণ? (বো. ১১)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ADP & ATP",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "DNA & ATP",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "RNA & ADP",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "DNA & FAD",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a) ADP & ATP",
+            "solution_markdown": "কাজের দিক থেকে নিচের কোন জোড়ার সঙ্গে সাদৃশ্যপূর্ণ।",
+            "tags_raw": "আগিখুর",
+            "provenance": [
+              "আগিখুর"
+            ]
+          },
+          "id": "90f856f7-afd0-59e6-8d45-90398412a2ec"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 21,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc4",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 65.42,
+        "eval_count": 4210
+      }
+    }
+  ]
+}

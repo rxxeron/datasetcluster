@@ -1,0 +1,600 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "1QxJLAHHC0EGBNjP-XeYpb7xYz7oBHKXp",
+    "collection": "main_book_solution",
+    "subject": "chemistry",
+    "edition": "2023",
+    "priority_score": 2023092,
+    "path_parts": [
+      "অনুশীলনী MCQ সমাধান",
+      "* ভার্সন সেপ্টেম্বর-২৩",
+      "টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন",
+      "রসায়ন",
+      "C-1.1 ল্যাবরেটরী নিরাপদ ব্যবহার.pdf"
+    ],
+    "filename": "C-1.1 ল্যাবরেটরী নিরাপদ ব্যবহার.pdf",
+    "sha256": "395dc97910cf961203677540a4bbcd2883c973ebe8deb5fee88da6540d21be84",
+    "total_pages": 8,
+    "parsed_pages": 2,
+    "blank_pages": 6,
+    "failed_pages": [],
+    "total_blocks": 58,
+    "block_counts_by_type": {
+      "concept_prose": 57,
+      "exercise_solution": 1
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### প্রথম পত্র: ল্যাবরেটরির নিরাপদ ব্যবহার\n\n#### ল্যাবরেটরির ব্যবহার বিধি: পোশাক, নিরাপদ গ্লাস, মাফ্ট, হ্যাইড গ্লাস\n\n1. সংক্ষিপ্ত $AlCl_{3}+3H_{2}O\\rightarrow Al(OH)_{3}+A$. A থেকে রক্ষা পাওয়ার জন্য ল্যাবরেটরিতে ব্যবহার করা হয়-\n   - a) হ্যাড গ্লাস\n   - b) নিরাপদ চশমা\n   - c) মাফ্ট\n   - d) অ্যাপ্লান\n\n2. গাঢ় এসিড দিয়ে কাজ করার সময় নিচের কৌণ নিরাপত্তা সামগ্রী ব্যবহার করা জরুরি?\n   - a) হ্যাড গ্লাস\n   - b) মাফ্ট\n   - c) অ্যাপ্লান\n   - d) নিরাপদ কাচ\n\n3. নিচের অক্ষরউপলোপের মধ্যে কৌণটি পাইরেক্স গ্লাস তৈরি করতে পারে? [BUET: 12–13]\n   - a) $\\mathrm{Al}_{2}\\mathrm{O}_{3}$ \n   - b) $\\mathrm{SiO}_{2}$\n   - c) Li$\\mathrm{O}_{2}$\n   - d) B$\\mathrm{~B}_{2}\\mathrm{O}_{3}$\n\n4. ল্যাবরেটরিতে নিজের নিরাপত্তা নিশ্চিত করতে নিচের কৌণ প্রাথমিক ব্যবস্থা নিলে ভুল হবে?\n   - a) অ্যাপ্লান পরা\n   - b) নিরাপদ চশমা পকেটে থাকা\n   - c) হাতে গ্লাস পরা\n   - d) পায়ে জুতা পরা \n\n5. কেমিস্ট্রি ল্যাবে খাস-প্রখ্যাসের ক্ষেত্রে নিরাপত্তা থাকার জন্য নিচের কৌণটি ব্যবহার করা হয়? [ব. সে. ২০১৭]\n   - a) নিরাপদ চশমা\n   - b) অ্যাপ্লান\n   - c) গ্লাস\n   - d) মাফ্ট\n\n6. কেমিস্ট্রি ল্যাবে কখন নিরাপত্তা চশমা ব্যবহার করা আবশ্যক? [MCAT: 17–18]\n   - a) দ্রব্য গ্রহণভিত্তি\n   - b) রাসায়নিক বন্ধন ও উচ্চ ওজন নিতে\n   - c) রাসায়নিক পদার্থ উদ্ঘাটন হলে\n   - d) যষ্ট্রাপতি পরিকার করার সময়\n\n7. ল্যাবরেটরিতে নিচের কৌণ কাজটি বেশি পিপজ্ঞানক?\n   - a) নির্গত গ্যাসের গন্ধ ও যাদ নেওয়া\n   - b) খাবার প্রহণ\n   - c) দ্রুত চলাচল\n   - d) লেবেল ছাড়া বোতলের বিক্রিক ব্যবহার\n\n8. বৈদ্যুতিক শক বা ক্ষত থেকে সুরক্ষা জন্য কৌণ গ্লাস উপযোগী? [ব. সে. ১৯]\n   - a) ল্যাটেক্স\n   - b) নিওপ্রিন\n   - c) জিন্টেক্স\n   - d) PVC\n\n9. ল্যাবরেটরিতে তখন এসিড, ক্ষার, বিভিন্ন ধরনের বিধাত পদার্থ যেমন: As, Ag, Pb প্রভৃতি নিয়ে কাজ করা হয় তখন কৌণ ধরনের সাবধানতা অবলম্বন করা হয়? [DAT: 16–17]\n   - a) আগ্রোহী পরা\n   - b) গল্পন ব্যবহার করা\n   - c) গ্লাস ব্যবহার করা\n   - d) গ্লাস ব্যবহার করা\n\n10. ল্যাবরেটরিতে কৌণ ধরনের রাসায়নিক পদার্থ চোখের জন্য সবচেয়ে বেশি ঝুঁকিপূর্ণ?\n   - a) দারকর\n   - b) বিজ্ঞারক\n   - c) দাহ্য\n   - d) উদ্ধারী\n\n11. নীল কাঁচ তৈরিতে ব্যবহৃত হয় -\n   - a) NiO\n   - b) CoO\n   - c) Fe${}_2$O${}_3$\n   - d) Al${}_2$O${}_3$\n\n12. ল্যাব মাফ্ট কীভাবে কাজ করে?\n   - a) গ্যাসীয় পদার্থের শোয়েগের মাধ্যমে\n   - b) গ্যাসীয় পদার্থকে বিকর্ষণ করার মাধ্যমে\n   - c) বিষাক্ত গ্যাস শোয়েগের মাধ্যমে\n   - d) বিষাক্ত গ্যাস ছাঁকনের মাধ্যমে\n\n---\n\n## Q13\n**Type:** mcq (use one of: mcq, mathematical, board_cq, analytical)\n**Stem:** ল্যাবারাটরীয় সিনথেটিক কাপড় ব্যবহার নির্ধারণ কেন?\n**Options:** `- a) দ্রুত পন্থা`\n   - `b) রাসায়নিক প্রতিরোধী নয়`\n   - `c) দাহ্য পদার্থ বলে`\n   - `d) আরামদায়ক নয়`\n\n**Answer:** a)\n\n**Solution:** ল্যাবারাটরীয় সিনথেটিক কাপড় ব্যবহার নির্ধারণ করা হয় কারণ এই কাপড় দ্রুত পন্থা হয়।\n\n**Tags:** NONE",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির ব্যবহার বিধি: পোশাক, নিরাপদ গ্লাস, মাফ্ট, হ্যাইড গ্লাস",
+          "content_markdown": "1. সংক্ষিপ্ত $AlCl_{3}+3H_{2}O\\rightarrow Al(OH)_{3}+A$. A থেকে রক্ষা পাওয়ার জন্য ল্যাবরেটরিতে ব্যবহার করা হয়-\n   - a) হ্যাড গ্লাস\n   - b) নিরাপদ চশমা\n   - c) মাফ্ট\n   - d) অ্যাপ্লান",
+          "structured_data": {},
+          "id": "700a24ef-6e6e-55ef-abcc-a23966dba8ff"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির ব্যবহার বিধি: পোশাক, নিরাপদ গ্লাস, মাফ্ট, হ্যাইড গ্লাস",
+          "content_markdown": "2. গাঢ় এসিড দিয়ে কাজ করার সময় নিচের কৌণ নিরাপত্তা সামগ্রী ব্যবহার করা জরুরি?\n   - a) হ্যাড গ্লাস\n   - b) মাফ্ট\n   - c) অ্যাপ্লান\n   - d) নিরাপদ কাচ",
+          "structured_data": {},
+          "id": "c72f67e8-e9a7-5c2d-8344-d5774c3bb640"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির ব্যবহার বিধি: পোশাক, নিরাপদ গ্লাস, মাফ্ট, হ্যাইড গ্লাস",
+          "content_markdown": "3. নিচের অক্ষরউপলোপের মধ্যে কৌণটি পাইরেক্স গ্লাস তৈরি করতে পারে? [BUET: 12–13]\n   - a) $\\mathrm{Al}_{2}\\mathrm{O}_{3}$ \n   - b) $\\mathrm{SiO}_{2}$\n   - c) Li$\\mathrm{O}_{2}$\n   - d) B$\\mathrm{~B}_{2}\\mathrm{O}_{3}$",
+          "structured_data": {},
+          "id": "fe48a263-b36a-5252-b08b-47dd319f02a9"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির ব্যবহার বিধি: পোশাক, নিরাপদ গ্লাস, মাফ্ট, হ্যাইড গ্লাস",
+          "content_markdown": "4. ল্যাবরেটরিতে নিজের নিরাপত্তা নিশ্চিত করতে নিচের কৌণ প্রাথমিক ব্যবস্থা নিলে ভুল হবে?\n   - a) অ্যাপ্লান পরা\n   - b) নিরাপদ চশমা পকেটে থাকা\n   - c) হাতে গ্লাস পরা\n   - d) পায়ে জুতা পরা",
+          "structured_data": {},
+          "id": "b296b488-3cd9-53e9-8681-44b1ed1c3f4e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির ব্যবহার বিধি: পোশাক, নিরাপদ গ্লাস, মাফ্ট, হ্যাইড গ্লাস",
+          "content_markdown": "5. কেমিস্ট্রি ল্যাবে খাস-প্রখ্যাসের ক্ষেত্রে নিরাপত্তা থাকার জন্য নিচের কৌণটি ব্যবহার করা হয়? [ব. সে. ২০১৭]\n   - a) নিরাপদ চশমা\n   - b) অ্যাপ্লান\n   - c) গ্লাস\n   - d) মাফ্ট",
+          "structured_data": {},
+          "id": "9b339f97-ea43-511a-8566-fe6f0d09d6ae"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির ব্যবহার বিধি: পোশাক, নিরাপদ গ্লাস, মাফ্ট, হ্যাইড গ্লাস",
+          "content_markdown": "6. কেমিস্ট্রি ল্যাবে কখন নিরাপত্তা চশমা ব্যবহার করা আবশ্যক? [MCAT: 17–18]\n   - a) দ্রব্য গ্রহণভিত্তি\n   - b) রাসায়নিক বন্ধন ও উচ্চ ওজন নিতে\n   - c) রাসায়নিক পদার্থ উদ্ঘাটন হলে\n   - d) যষ্ট্রাপতি পরিকার করার সময়",
+          "structured_data": {},
+          "id": "5ad8b7a7-a03a-50b9-9579-6bc9e997a082"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির ব্যবহার বিধি: পোশাক, নিরাপদ গ্লাস, মাফ্ট, হ্যাইড গ্লাস",
+          "content_markdown": "7. ল্যাবরেটরিতে নিচের কৌণ কাজটি বেশি পিপজ্ঞানক?\n   - a) নির্গত গ্যাসের গন্ধ ও যাদ নেওয়া\n   - b) খাবার প্রহণ\n   - c) দ্রুত চলাচল\n   - d) লেবেল ছাড়া বোতলের বিক্রিক ব্যবহার",
+          "structured_data": {},
+          "id": "2759c3e7-580b-5d0c-a455-deb70d2c5b34"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির ব্যবহার বিধি: পোশাক, নিরাপদ গ্লাস, মাফ্ট, হ্যাইড গ্লাস",
+          "content_markdown": "8. বৈদ্যুতিক শক বা ক্ষত থেকে সুরক্ষা জন্য কৌণ গ্লাস উপযোগী? [ব. সে. ১৯]\n   - a) ল্যাটেক্স\n   - b) নিওপ্রিন\n   - c) জিন্টেক্স\n   - d) PVC",
+          "structured_data": {},
+          "id": "621aa0c7-d9e0-5c80-8b0f-ae901417980d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির ব্যবহার বিধি: পোশাক, নিরাপদ গ্লাস, মাফ্ট, হ্যাইড গ্লাস",
+          "content_markdown": "9. ল্যাবরেটরিতে তখন এসিড, ক্ষার, বিভিন্ন ধরনের বিধাত পদার্থ যেমন: As, Ag, Pb প্রভৃতি নিয়ে কাজ করা হয় তখন কৌণ ধরনের সাবধানতা অবলম্বন করা হয়? [DAT: 16–17]\n   - a) আগ্রোহী পরা\n   - b) গল্পন ব্যবহার করা\n   - c) গ্লাস ব্যবহার করা\n   - d) গ্লাস ব্যবহার করা",
+          "structured_data": {},
+          "id": "ebd71d1a-d2e0-5925-b047-4830c11f080b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির ব্যবহার বিধি: পোশাক, নিরাপদ গ্লাস, মাফ্ট, হ্যাইড গ্লাস",
+          "content_markdown": "10. ল্যাবরেটরিতে কৌণ ধরনের রাসায়নিক পদার্থ চোখের জন্য সবচেয়ে বেশি ঝুঁকিপূর্ণ?\n   - a) দারকর\n   - b) বিজ্ঞারক\n   - c) দাহ্য\n   - d) উদ্ধারী",
+          "structured_data": {},
+          "id": "b5344401-3dcf-55dd-ba17-853da96b2a04"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির ব্যবহার বিধি: পোশাক, নিরাপদ গ্লাস, মাফ্ট, হ্যাইড গ্লাস",
+          "content_markdown": "11. নীল কাঁচ তৈরিতে ব্যবহৃত হয় -\n   - a) NiO\n   - b) CoO\n   - c) Fe${}_2$O${}_3$\n   - d) Al${}_2$O${}_3$",
+          "structured_data": {},
+          "id": "abc74ddf-6af2-52cd-9417-39dde4ca80c2"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির ব্যবহার বিধি: পোশাক, নিরাপদ গ্লাস, মাফ্ট, হ্যাইড গ্লাস",
+          "content_markdown": "12. ল্যাব মাফ্ট কীভাবে কাজ করে?\n   - a) গ্যাসীয় পদার্থের শোয়েগের মাধ্যমে\n   - b) গ্যাসীয় পদার্থকে বিকর্ষণ করার মাধ্যমে\n   - c) বিষাক্ত গ্যাস শোয়েগের মাধ্যমে\n   - d) বিষাক্ত গ্যাস ছাঁকনের মাধ্যমে",
+          "structured_data": {},
+          "id": "618d73d0-f867-5c69-a4dc-df518893d858"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির ব্যবহার বিধি: পোশাক, নিরাপদ গ্লাস, মাফ্ট, হ্যাইড গ্লাস",
+          "content_markdown": "---",
+          "structured_data": {},
+          "id": "cf4b568d-1305-5e1b-863c-aba4730f7745"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q13",
+          "content_markdown": "ল্যাবারাটরীয় সিনথেটিক কাপড় ব্যবহার নির্ধারণ কেন?",
+          "structured_data": {
+            "question_number": "13",
+            "subtype": "mcq (use one of: mcq, mathematical, board_cq, analytical)",
+            "stem": "ল্যাবারাটরীয় সিনথেটিক কাপড় ব্যবহার নির্ধারণ কেন?",
+            "options": [],
+            "correct_answer": "a)",
+            "solution_markdown": "ল্যাবারাটরীয় সিনথেটিক কাপড় ব্যবহার নির্ধারণ করা হয় কারণ এই কাপড় দ্রুত পন্থা হয়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ac2b3bc2-391d-5f97-bafd-039ca691fd35"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 14,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 117.54,
+        "eval_count": 2327
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### রাসায়ন ১ম পত্র\n\n#### ল্যাবরেটরির নিরাপদ ব্যবহার\n\n##### ক্ষেপিং ঘটে? (ছ. দ. ২০১৮)\n\n- c) বিজ্ঞান\n- d) প্রতিহারণ\n\n##### নিচের কোনটি ক্রোমিক এসিড মিশ্রণ?\n\n- a) $\\ce{HClO_4}+\\ce{K_2Cr_2O_7}$ \n- b) $\\ce{H_2SO_3}+\\ce{K_2Cr_2O_7}$\n- c) $\\ce{HClO_3}+\\ce{K_2Cr_2O_7}$\n\n##### কাঁচের খয়াপড় ইথানল দিয়ে ছোট করার কারণ কোনটি?\n- a) অগ্নীধাত্রীভূত হয়\n- b) দাগ মুখে যায়\n- c) ময়লা পরিষ্কার হয়\n- d) ফাট ভক্ষ হয়\n\n##### কাঁচের উৎপন্ন নকশা করার কাজে কী ব্যবহৃত হয়?\n(প. দ. '১৩-'১৭)\n\n- a) HI\n- b) HF\n- c) HCL\n- d) HBO₃\n\n##### কৌনিক সংযুক্তিটি রাজ-অম্ব হিসেবে পরিচিত?\n- a) $3\\mathrm{HNO}_3:\\mathrm{HCl}$\n- b) $3\\mathrm{HNO}_3:\\mathrm{HCl}$\n- c) $3\\mathrm{HNO}_3:2\\mathrm{HCl}$\n- d) $2\\mathrm{HNO}_3:3\\mathrm{HCl}$\n\n##### নিচের কোনটি কাও পরিষ্কার এ ব্যবহৃত হয়? (BUTEX: 15-16)\n\n- a) লিকার NH₃ (liquar NH₃)\n- b) কাটিন NH₃(Solid NH₃)\n- c) NH₃ গ্যাস(NH₃ gas)\n- d) NH₄Cl\n\n##### একটি পরীক্ষা ভূগোলে যে প্রয়োগ পরিকল্পনা করা হয় তার প্রয়োজন কারণ-ক্ষয়ক্রমটি নিরাপত্তার জন্য\n- g) ময়লা আপসাঙ্গের জন্য\n- h) নিম্নল ফ্যানফোর্সের জন্য\n\n##### রাসায়নিক ল্যাবে ঝুরেটে পরিষ্কার করা যে কোনটি ঘর?\n(প.দ. '১৩-'১৭)\n\n- k) এস্টিক এসিড\n- l) সোডিয়াম হাইড্রোগ্লাইড\n- m) ক্রোমিক এসিড\n- n) হাইড্রোক্লেরিক এসিড (খন খুমার)\n\n##### ঝুরেটের অভ্যন্তরে ত্রিজ বা তৈলাক পর্দার দূর করার জন্য কি ব্যবহৃত হয়?\n(MCAT: 16-17)\n\n- a) K₂Cr₂O₇ ও গাছ H₂SO₄\n- b) গাছ K₂Cr₂O₇ ও হলকা H₂SO₄\n- c) K₂Cr₂O₇ ও H₂SO₄\n- d) গাছ K₂Cr₂O₇ ও গাছ H₂SO₄\n\n##### নিচের কোনটি প্রাথমিক প্রমাণ দ্রব্য নয়?\n(ব. দ. '১৫-'১৭)\n\n- a) K₂Cr₂O₇\n- b) KMnO₄\n- c) Na₂C₂O₄·2H₂O\n- d) Na₂CO₃\n\n##### নিচের কোনটি বল্কি ব্যবহৃত বিকারক ক্ষয়ক্রমকরক?\n(ছ. দ. '১৫')\n\n- a) CH₃OH\n- b) H₂SO₄\n- c) K₂Cr₂O₇\n- d) H₂S\n\n##### পল-ব্রুই ব্যালেন্সের জন্য নিচের কোনটি প্রয়োজন নয়?\n- a) Pointer\n- b) Tare\n- c) Rider\n- d) Agate plate\n\n##### পল-ব্রুই ব্যালেন্সের ক্ষেত্রে 10 mg রাইডার ব্যবহার করা হলে তখন রাইডার দ্রব্যকে মান নিচের কোনটি?\n(ছ. দ. ১৬; র. দ. ১৬)\n\n- a) 0.0001 g\n- b) 0.001 g\n- c) 0.0002 g\n- d) 0.002 g\n\n##### পল-ব্রুই ব্যালেন্সে 5 mg রাইডার ব্যবহার করা হলে তখন ব্যালেন্সের সৃষ্টিত পরিমাপের ক্ষমতা কত?\n- a) 0.1 g\n- b) 0.005 g\n- c) 0.0001 g\n- d) 0.05 g\n\n##### পল-ব্রুই ব্যালেন্সের সূক্ষ্ম-পরিমাপের ক্ষমতা কত পর্যায়?\n- a) 0.1 g\n- b) 0.01 g\n- c) 0.003 g\n- d) 0.0001g\n\n##### সার্টেরিয়াস ব্যালেন্সের মাঝখানে জন্যদান 50, রাইডার দ্রব্য 5mg। রাইডার দ্রব্যকে মান কত?\n(ছ. দ. ২০১৮)\n\n- a) 0.0001\n- b) 0.0002\n- c) 0.001\n- d) 0.2\n\n##### 4-ডিজিট ব্যালেন্সের সূক্ষ্ম-পর্যায় কত?\n(ছ. দ. ২০১৯)\n\n- a) ± 0.01\n- b) ± 0.001\n- c) ± 0.0001\n- d) ± 0.00001\n\n##### পল-ব্রুই ব্যালেন্সের কত সালে আবিষ্কৃত হয়?\n- a) 1766\n- b) 1860\n- c) 1960\n- d) 1960 লিখনা\n\n##### নিচের কোনটি 4 ডিজিট ব্যালেন্সে পরিমাপ করা বোঝায়গুলি বে.\n- a) 1.024 g\n- b) 10.24 g\n- c) 22.1202 g\n- d) 2212.02 g\n\n##### নিচের কোনটি প্রাথমিক স্ট্যান্ডার্ড পদার্থ?\n- a) $\\ce{KMnO_4}$\n- b) $\\ce{H_2SO_4}$\n- c) $\\ce{Na_2S_2O_3}$\n- d) $\\ce{K_2Cr_2O_7}$\n\n##### কৌনটি প্রাথমিক স্ট্যান্ডার্ড পদার্থ?\n- a) $\\ce{Na_2CO_3}$\n- b) HCl\n- c) NaOH\n- d) KMnO₄\n\n##### নিচের কোনটি সেকেন্ডারি স্ট্যান্ডার্ড পদার্থ?\n- a) Na₂CO₃\n- b) K₂Cr₂O₇\n- c) H₂C₂O₄\n- d) KMnO₄\n\n##### প্রধান দ্রবণ কোনটি?\n\n[অ.বি.-A: 19-20]\n\n- a) $1.0 \\text{ M } \\mathrm{Na}_2\\mathrm{CO}_3$\n- b) $1.0 \\text{ g } \\mathrm{H}_2\\mathrm{SO}_4$\n- c) $1.0 \\text{ mL } \\mathrm{H}_2\\mathrm{SO}_4$\n- d) $1.0 \\text{ mol } \\mathrm{H}_2\\mathrm{SO}_4$\n\n##### কোনটি সেকেন্ডারি স্ট্যান্ডার্ড পদার্থ?\n- a) $\\ce{Na_{2}CO_{3}}$\n- b) $\\ce{K_{2}Cr_{2}O_{7}}$\n- c) $\\ce{H_{2}C_{2}O_{4}}$\n- d) $\\ce{Na_{2}S_{2}O_{3}.5H_{2}O}$\n\n##### নিচের কোনটি প্রাথমিক প্রমাণ দ্রব্য নয়? \n(ব.দ. '১৫-'১৭)\n\n- a) K₂Cr₂O₇\n- b) KMnO₄\n- c) Na₂C₂O₄.2H₂O\n- d) Na₂CO₃\n\n##### কোনটি প্রাথমিক প্রমাণ পদার্থের বীশিষ্ট নয়?  \n(ব.দ.'১৬-'১৭)\n\n- k) এটিকে বিশৃঙ্খল অবস্থায় প্রতিষ্ঠা করা যায়\n- l) এটির ঘনমাত্রা দৈর্ঘ্যদিন অপরিবর্তিত থাকে\n- g) এটি পানিতে দ্রব্যভূত হয় না\n- h) এটি বাতাসের সাথে বিক্রিয়া করে না\n\n##### 100 mL 0.1 M অক্সালিক এসিডের প্রয়োজন করতে কত গ্রাম অক্সালিক এসিড প্রয়োজন (ছ. দ. ২০১৯)?\n\n- a) 0.09\n- b) 0.90\n- c) 9.00\n- d) 90.00\n\n##### 250 mL 0.1 M Na₂CO₃ দ্রব্য তৈরি করতে কী পরিমাণ Na₂CO₃ লাগবে?\n- a) 2.65g\n- b) 5.3 g\n- c) 5.5 g\n- d) 10.6 g",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### ক্ষেপিং ঘটে? (ছ. দ. ২০১৮)",
+          "structured_data": {},
+          "id": "a5e38229-3119-5354-b92a-ba66b1dfc52a"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "- c) বিজ্ঞান\n- d) প্রতিহারণ",
+          "structured_data": {},
+          "id": "9c3e5b28-e540-534a-b9ac-ca11dcc1a783"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### নিচের কোনটি ক্রোমিক এসিড মিশ্রণ?",
+          "structured_data": {},
+          "id": "70442e87-8c1e-53d9-8629-76c4318c7bd7"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "- a) $\\ce{HClO_4}+\\ce{K_2Cr_2O_7}$ \n- b) $\\ce{H_2SO_3}+\\ce{K_2Cr_2O_7}$\n- c) $\\ce{HClO_3}+\\ce{K_2Cr_2O_7}$",
+          "structured_data": {},
+          "id": "1bbe665a-a8ea-561b-9642-5e2974e044e6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### কাঁচের খয়াপড় ইথানল দিয়ে ছোট করার কারণ কোনটি?\n- a) অগ্নীধাত্রীভূত হয়\n- b) দাগ মুখে যায়\n- c) ময়লা পরিষ্কার হয়\n- d) ফাট ভক্ষ হয়",
+          "structured_data": {},
+          "id": "c7f31afd-d89c-51e1-b6b0-110efc22b94c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### কাঁচের উৎপন্ন নকশা করার কাজে কী ব্যবহৃত হয়?\n(প. দ. '১৩-'১৭)",
+          "structured_data": {},
+          "id": "2363b8c7-d480-51f8-82dc-cfd7645c313a"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "- a) HI\n- b) HF\n- c) HCL\n- d) HBO₃",
+          "structured_data": {},
+          "id": "c730a291-e32c-540d-bbb5-1e76e38050b5"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### কৌনিক সংযুক্তিটি রাজ-অম্ব হিসেবে পরিচিত?\n- a) $3\\mathrm{HNO}_3:\\mathrm{HCl}$\n- b) $3\\mathrm{HNO}_3:\\mathrm{HCl}$\n- c) $3\\mathrm{HNO}_3:2\\mathrm{HCl}$\n- d) $2\\mathrm{HNO}_3:3\\mathrm{HCl}$",
+          "structured_data": {},
+          "id": "d6eb1369-52bf-51e5-a3cd-fd868885ffc2"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### নিচের কোনটি কাও পরিষ্কার এ ব্যবহৃত হয়? (BUTEX: 15-16)",
+          "structured_data": {},
+          "id": "90503778-d5f8-5cdc-aab8-bf94c3a739db"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "- a) লিকার NH₃ (liquar NH₃)\n- b) কাটিন NH₃(Solid NH₃)\n- c) NH₃ গ্যাস(NH₃ gas)\n- d) NH₄Cl",
+          "structured_data": {},
+          "id": "eb84e61d-3c6f-55da-bf7a-7c1c6d9de289"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### একটি পরীক্ষা ভূগোলে যে প্রয়োগ পরিকল্পনা করা হয় তার প্রয়োজন কারণ-ক্ষয়ক্রমটি নিরাপত্তার জন্য\n- g) ময়লা আপসাঙ্গের জন্য\n- h) নিম্নল ফ্যানফোর্সের জন্য",
+          "structured_data": {},
+          "id": "b8dbcc51-1f6e-599e-a374-6d8b42af458e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### রাসায়নিক ল্যাবে ঝুরেটে পরিষ্কার করা যে কোনটি ঘর?\n(প.দ. '১৩-'১৭)",
+          "structured_data": {},
+          "id": "ea221e77-9e2f-5cb3-91f4-82feafb97c41"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "- k) এস্টিক এসিড\n- l) সোডিয়াম হাইড্রোগ্লাইড\n- m) ক্রোমিক এসিড\n- n) হাইড্রোক্লেরিক এসিড (খন খুমার)",
+          "structured_data": {},
+          "id": "7deb4fda-fe86-5409-84c9-bf02b2b229df"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### ঝুরেটের অভ্যন্তরে ত্রিজ বা তৈলাক পর্দার দূর করার জন্য কি ব্যবহৃত হয়?\n(MCAT: 16-17)",
+          "structured_data": {},
+          "id": "763955e7-a143-5820-bbca-e1039b1508a5"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "- a) K₂Cr₂O₇ ও গাছ H₂SO₄\n- b) গাছ K₂Cr₂O₇ ও হলকা H₂SO₄\n- c) K₂Cr₂O₇ ও H₂SO₄\n- d) গাছ K₂Cr₂O₇ ও গাছ H₂SO₄",
+          "structured_data": {},
+          "id": "1ad1cbe4-2044-5582-bc56-9a8bc209ea3e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### নিচের কোনটি প্রাথমিক প্রমাণ দ্রব্য নয়?\n(ব. দ. '১৫-'১৭)",
+          "structured_data": {},
+          "id": "dd6d6e55-5f9e-51ea-bbe6-406e56a0d451"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "- a) K₂Cr₂O₇\n- b) KMnO₄\n- c) Na₂C₂O₄·2H₂O\n- d) Na₂CO₃",
+          "structured_data": {},
+          "id": "76ca2464-5d3a-5fc0-b2fe-a2ae6d67c816"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### নিচের কোনটি বল্কি ব্যবহৃত বিকারক ক্ষয়ক্রমকরক?\n(ছ. দ. '১৫')",
+          "structured_data": {},
+          "id": "864cef06-763f-5caa-a506-e585d28a1b2e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "- a) CH₃OH\n- b) H₂SO₄\n- c) K₂Cr₂O₇\n- d) H₂S",
+          "structured_data": {},
+          "id": "cbb9003f-318c-5b4e-a034-131b2ef71986"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### পল-ব্রুই ব্যালেন্সের জন্য নিচের কোনটি প্রয়োজন নয়?\n- a) Pointer\n- b) Tare\n- c) Rider\n- d) Agate plate",
+          "structured_data": {},
+          "id": "c8449dac-8c48-59bc-9189-98f914a8c9f2"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### পল-ব্রুই ব্যালেন্সের ক্ষেত্রে 10 mg রাইডার ব্যবহার করা হলে তখন রাইডার দ্রব্যকে মান নিচের কোনটি?\n(ছ. দ. ১৬; র. দ. ১৬)",
+          "structured_data": {},
+          "id": "512d638a-179e-5751-8ffa-362c578fe71e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "- a) 0.0001 g\n- b) 0.001 g\n- c) 0.0002 g\n- d) 0.002 g",
+          "structured_data": {},
+          "id": "8f43b433-5bfc-59e7-97a7-f59f25359ef6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### পল-ব্রুই ব্যালেন্সে 5 mg রাইডার ব্যবহার করা হলে তখন ব্যালেন্সের সৃষ্টিত পরিমাপের ক্ষমতা কত?\n- a) 0.1 g\n- b) 0.005 g\n- c) 0.0001 g\n- d) 0.05 g",
+          "structured_data": {},
+          "id": "3469cf86-c911-5302-873a-efd310ecab4c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### পল-ব্রুই ব্যালেন্সের সূক্ষ্ম-পরিমাপের ক্ষমতা কত পর্যায়?\n- a) 0.1 g\n- b) 0.01 g\n- c) 0.003 g\n- d) 0.0001g",
+          "structured_data": {},
+          "id": "2c6d529c-870d-5363-a99a-8c5d2c747994"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### সার্টেরিয়াস ব্যালেন্সের মাঝখানে জন্যদান 50, রাইডার দ্রব্য 5mg। রাইডার দ্রব্যকে মান কত?\n(ছ. দ. ২০১৮)",
+          "structured_data": {},
+          "id": "df6f11ef-15c8-5595-9a8b-7edbf8e49fa0"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "- a) 0.0001\n- b) 0.0002\n- c) 0.001\n- d) 0.2",
+          "structured_data": {},
+          "id": "92eab112-9b1a-5a12-b270-109cf964a46a"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### 4-ডিজিট ব্যালেন্সের সূক্ষ্ম-পর্যায় কত?\n(ছ. দ. ২০১৯)",
+          "structured_data": {},
+          "id": "83e42d95-6bad-5a62-86a8-fc910b8571e1"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "- a) ± 0.01\n- b) ± 0.001\n- c) ± 0.0001\n- d) ± 0.00001",
+          "structured_data": {},
+          "id": "269be260-758d-5141-a844-d1bfdb12d170"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### পল-ব্রুই ব্যালেন্সের কত সালে আবিষ্কৃত হয়?\n- a) 1766\n- b) 1860\n- c) 1960\n- d) 1960 লিখনা",
+          "structured_data": {},
+          "id": "d1fe369b-6961-5d5b-a5fa-79713f45b1e3"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### নিচের কোনটি 4 ডিজিট ব্যালেন্সে পরিমাপ করা বোঝায়গুলি বে.\n- a) 1.024 g\n- b) 10.24 g\n- c) 22.1202 g\n- d) 2212.02 g",
+          "structured_data": {},
+          "id": "7800e62b-8ffe-56fb-862a-8c78a458fb35"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### নিচের কোনটি প্রাথমিক স্ট্যান্ডার্ড পদার্থ?\n- a) $\\ce{KMnO_4}$\n- b) $\\ce{H_2SO_4}$\n- c) $\\ce{Na_2S_2O_3}$\n- d) $\\ce{K_2Cr_2O_7}$",
+          "structured_data": {},
+          "id": "84b47d4d-491b-523e-b3e6-53c545f2259f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### কৌনটি প্রাথমিক স্ট্যান্ডার্ড পদার্থ?\n- a) $\\ce{Na_2CO_3}$\n- b) HCl\n- c) NaOH\n- d) KMnO₄",
+          "structured_data": {},
+          "id": "e8f5d3ab-6a2d-5e8b-9ac3-9173e1251886"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### নিচের কোনটি সেকেন্ডারি স্ট্যান্ডার্ড পদার্থ?\n- a) Na₂CO₃\n- b) K₂Cr₂O₇\n- c) H₂C₂O₄\n- d) KMnO₄",
+          "structured_data": {},
+          "id": "50730fa6-c999-512b-8f41-844c59bc7445"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### প্রধান দ্রবণ কোনটি?",
+          "structured_data": {},
+          "id": "c1e2ce8f-f962-536b-87a6-2bd06bd80bce"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "[অ.বি.-A: 19-20]",
+          "structured_data": {},
+          "id": "ddc468a6-74c2-5efd-84e8-5b44a1258d49"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "- a) $1.0 \\text{ M } \\mathrm{Na}_2\\mathrm{CO}_3$\n- b) $1.0 \\text{ g } \\mathrm{H}_2\\mathrm{SO}_4$\n- c) $1.0 \\text{ mL } \\mathrm{H}_2\\mathrm{SO}_4$\n- d) $1.0 \\text{ mol } \\mathrm{H}_2\\mathrm{SO}_4$",
+          "structured_data": {},
+          "id": "fa469ebd-abdf-5365-beae-87ae1f8098c4"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### কোনটি সেকেন্ডারি স্ট্যান্ডার্ড পদার্থ?\n- a) $\\ce{Na_{2}CO_{3}}$\n- b) $\\ce{K_{2}Cr_{2}O_{7}}$\n- c) $\\ce{H_{2}C_{2}O_{4}}$\n- d) $\\ce{Na_{2}S_{2}O_{3}.5H_{2}O}$",
+          "structured_data": {},
+          "id": "361a7f85-b927-52a5-8fa0-d82d51b1214e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### নিচের কোনটি প্রাথমিক প্রমাণ দ্রব্য নয়? \n(ব.দ. '১৫-'১৭)",
+          "structured_data": {},
+          "id": "524d8fe4-0ddf-5087-9a5b-8c978587c04c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "- a) K₂Cr₂O₇\n- b) KMnO₄\n- c) Na₂C₂O₄.2H₂O\n- d) Na₂CO₃",
+          "structured_data": {},
+          "id": "74d0a419-751e-5193-9909-133f3fe01b1c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### কোনটি প্রাথমিক প্রমাণ পদার্থের বীশিষ্ট নয়?  \n(ব.দ.'১৬-'১৭)",
+          "structured_data": {},
+          "id": "3c10f8a0-5691-5993-82bc-316fd873c5dd"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "- k) এটিকে বিশৃঙ্খল অবস্থায় প্রতিষ্ঠা করা যায়\n- l) এটির ঘনমাত্রা দৈর্ঘ্যদিন অপরিবর্তিত থাকে\n- g) এটি পানিতে দ্রব্যভূত হয় না\n- h) এটি বাতাসের সাথে বিক্রিয়া করে না",
+          "structured_data": {},
+          "id": "bb48f65d-a721-559e-ab96-3dea653dd533"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### 100 mL 0.1 M অক্সালিক এসিডের প্রয়োজন করতে কত গ্রাম অক্সালিক এসিড প্রয়োজন (ছ. দ. ২০১৯)?",
+          "structured_data": {},
+          "id": "23c25cb3-9938-50d7-a1ac-e9860d7d1da2"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "- a) 0.09\n- b) 0.90\n- c) 9.00\n- d) 90.00",
+          "structured_data": {},
+          "id": "ca447c01-6861-5854-9c76-a91a3f3873c9"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+          "content_markdown": "##### 250 mL 0.1 M Na₂CO₃ দ্রব্য তৈরি করতে কী পরিমাণ Na₂CO₃ লাগবে?\n- a) 2.65g\n- b) 5.3 g\n- c) 5.5 g\n- d) 10.6 g",
+          "structured_data": {},
+          "id": "7f91724b-059f-5e08-9c19-b21ab6a524dc"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 44,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc30",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 111.28,
+        "eval_count": 3433
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 4,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 5,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 6,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 7,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 8,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    }
+  ]
+}

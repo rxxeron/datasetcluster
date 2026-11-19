@@ -1,0 +1,2657 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "1VZn4VEtp9EV9o1cF-YYuqV5gR9rYXn7V",
+    "collection": "main_book_solution",
+    "subject": "biology",
+    "edition": "2023",
+    "priority_score": 2023092,
+    "path_parts": [
+      "অনুশীলনী MCQ সমাধান",
+      "* ভার্সন সেপ্টেম্বর-২৩",
+      "টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন",
+      "জীববিজ্ঞান",
+      "B-2.8 মানব শারীরতত্ত্ব সমন্বয় ও নিয়ন্ত্রণ.pdf"
+    ],
+    "filename": "B-2.8 মানব শারীরতত্ত্ব সমন্বয় ও নিয়ন্ত্রণ.pdf",
+    "sha256": "09455db685c44fc3ece231651841e2e0e5cf5c02cd70df7c47489b630f110ce5",
+    "total_pages": 8,
+    "parsed_pages": 8,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 111,
+    "block_counts_by_type": {
+      "concept_prose": 52,
+      "mcq_item": 48,
+      "exercise_solution": 10,
+      "table": 1
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "```none\nমানব শরীরতত্ত্ব : সময় ও নিয়ন্ত্রণ\n\n## 01. নিচের কোনটি নিউরাল নালির প্রাচীরে দেখা যায়?\n- a) আবরণি কোষ\n- b) লিগামেন্ট\n- c) ল্যাঙ্কোয়\n- d) পেশী কোষ\n\n## 02. মানবদেহের দীর্ঘমেয়া কোষ কোনটি? \n- a) ইং-18-151\n- b) ন্যুক্ট কোষ\n- c) রক্তকোষ\n- d) পেশী কোষ\n\n## 03. রক্তবাহী নালি অনুপস্থিত কোন কলাতে? \n- a) আবরণি কলা\n- b) যৌগিক কলা\n- c) পেশী কলা\n- d) ল্যাঙ্কোয় কলা\n\n## 04. ল্যুক্সার্ক একটি কোনটি? \n- a) ইং-18-151\n- b) নেফ্রন\n- c) নিউরন\n- d) হেপাটোসাইট\n\n## 05. মেনিজেজ নামক পদা ধারা কি আবৃত্ত থাকে? \n- a) ফ্রুটিভ\n- b) মঙ্গল\n- c) বৃক্ষ\n- d) আচ্ছান\n\n## 06. দুটি ম্যাক্রোথের মিলিডিয়ামে কী বলে? \n- a) অ্যাক্রন\n- b) ড্রেনড্রাইট\n- c) সাইন্যাপস\n- d) কোয়েস্ডেই\n\n## 07. ল্যাঙ্কোয়ের প্রধাণ অংশ কোন প্রকার? \n- a) 8\n- b) 8\n- c) 6\n- d) 2\n\n## 08. নিউরনের প্রধান অংশকে কি বলে? \n- a) কোষদেহ\n- b) নিউরোগ্রিয়া\n- c) নিউরাইট\n- d) নিউরোলেমা\n\n## 09. সংবেদ পরিবহনের দিক অনুসারে নিউরনকে কয় ভাগে ভাগ করা হয়েছে \n- a) 2\n- b) 3\n- c) 5\n- d) 8\n\n## 10. স্পাইনাল কর্ড এ কত জোড়া স্পাইনাল নালি থাকে? \n- a) ইং-18-151\n- b) 30 জোড়া\n- c) 31 জোড়া\n- d) 32 জোড়া\n\n## 11. মায়ারজুভ মায়োলিন আবরণ গঠন করে কোনটি? \n- a) অ্যাট্রেসাইট\n- b) মাইকোপ্রিয়া\n- c) অলিওডেড্রেসাইট\n- d) নিউরন\n\n## 12. ম্যাথুত্রের গঠনগত ও কার্যগত একককে বলা হয়-\n- a) নেফ্রন\n- b) নিউরোগ্রিয়া\n- c) নিউরন\n- d) নিউরোসাইটিন",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "```none\nমানব শরীরতত্ত্ব : সময় ও নিয়ন্ত্রণ",
+          "structured_data": {},
+          "id": "6fb3f59d-37bd-5098-af0d-ea67c4a6f4a4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q01",
+          "content_markdown": "নিচের কোনটি নিউরাল নালির প্রাচীরে দেখা যায়?",
+          "structured_data": {
+            "question_number": "01",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি নিউরাল নালির প্রাচীরে দেখা যায়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আবরণি কোষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "লিগামেন্ট",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ল্যাঙ্কোয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "পেশী কোষ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6d592269-f320-599f-8710-6eac63269258"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q02",
+          "content_markdown": "মানবদেহের দীর্ঘমেয়া কোষ কোনটি?",
+          "structured_data": {
+            "question_number": "02",
+            "subtype": "mcq_item",
+            "stem": "মানবদেহের দীর্ঘমেয়া কোষ কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ইং-18-151",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ন্যুক্ট কোষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রক্তকোষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "পেশী কোষ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "57b26382-8059-5adc-b1a0-716aa5198888"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q03",
+          "content_markdown": "রক্তবাহী নালি অনুপস্থিত কোন কলাতে?",
+          "structured_data": {
+            "question_number": "03",
+            "subtype": "mcq_item",
+            "stem": "রক্তবাহী নালি অনুপস্থিত কোন কলাতে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আবরণি কলা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "যৌগিক কলা",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পেশী কলা",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ল্যাঙ্কোয় কলা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9f3cf8bd-616c-5d20-bb67-c2b36b960007"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q04",
+          "content_markdown": "ল্যুক্সার্ক একটি কোনটি?",
+          "structured_data": {
+            "question_number": "04",
+            "subtype": "mcq_item",
+            "stem": "ল্যুক্সার্ক একটি কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ইং-18-151",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নেফ্রন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "নিউরন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "হেপাটোসাইট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0f86fb25-31e8-5e17-8b9f-9d13bbcbec9d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q05",
+          "content_markdown": "মেনিজেজ নামক পদা ধারা কি আবৃত্ত থাকে?",
+          "structured_data": {
+            "question_number": "05",
+            "subtype": "mcq_item",
+            "stem": "মেনিজেজ নামক পদা ধারা কি আবৃত্ত থাকে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ফ্রুটিভ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মঙ্গল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বৃক্ষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "আচ্ছান",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2cfedf0e-e849-5bc7-9eb2-f3cc3f880931"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q06",
+          "content_markdown": "দুটি ম্যাক্রোথের মিলিডিয়ামে কী বলে?",
+          "structured_data": {
+            "question_number": "06",
+            "subtype": "mcq_item",
+            "stem": "দুটি ম্যাক্রোথের মিলিডিয়ামে কী বলে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অ্যাক্রন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ড্রেনড্রাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সাইন্যাপস",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোয়েস্ডেই",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "681a2263-417b-5e12-b1dc-a9372106b28c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q07",
+          "content_markdown": "ল্যাঙ্কোয়ের প্রধাণ অংশ কোন প্রকার?",
+          "structured_data": {
+            "question_number": "07",
+            "subtype": "mcq_item",
+            "stem": "ল্যাঙ্কোয়ের প্রধাণ অংশ কোন প্রকার?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "8",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "8",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "6",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "2",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6f4cb25c-9270-5f72-994a-2a086161d000"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q08",
+          "content_markdown": "নিউরনের প্রধান অংশকে কি বলে?",
+          "structured_data": {
+            "question_number": "08",
+            "subtype": "mcq_item",
+            "stem": "নিউরনের প্রধান অংশকে কি বলে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কোষদেহ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নিউরোগ্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "নিউরাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "নিউরোলেমা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "504aa74c-398b-5da9-9ccc-068f139a2c76"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q09",
+          "content_markdown": "সংবেদ পরিবহনের দিক অনুসারে নিউরনকে কয় ভাগে ভাগ করা হয়েছে",
+          "structured_data": {
+            "question_number": "09",
+            "subtype": "mcq_item",
+            "stem": "সংবেদ পরিবহনের দিক অনুসারে নিউরনকে কয় ভাগে ভাগ করা হয়েছে",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "2",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "3",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "5",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "8",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "69d3d097-9b30-5fcd-ad60-925f87c4b922"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q10",
+          "content_markdown": "স্পাইনাল কর্ড এ কত জোড়া স্পাইনাল নালি থাকে?",
+          "structured_data": {
+            "question_number": "10",
+            "subtype": "mcq_item",
+            "stem": "স্পাইনাল কর্ড এ কত জোড়া স্পাইনাল নালি থাকে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ইং-18-151",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "30 জোড়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "31 জোড়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "32 জোড়া",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4446cd4e-980e-5732-967f-3fad84704bcc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q11",
+          "content_markdown": "মায়ারজুভ মায়োলিন আবরণ গঠন করে কোনটি?",
+          "structured_data": {
+            "question_number": "11",
+            "subtype": "mcq_item",
+            "stem": "মায়ারজুভ মায়োলিন আবরণ গঠন করে কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অ্যাট্রেসাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মাইকোপ্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অলিওডেড্রেসাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "নিউরন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b3ef3dee-fc13-533d-b3a0-f0b45d1edffc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q12",
+          "content_markdown": "ম্যাথুত্রের গঠনগত ও কার্যগত একককে বলা হয়-",
+          "structured_data": {
+            "question_number": "12",
+            "subtype": "mcq_item",
+            "stem": "ম্যাথুত্রের গঠনগত ও কার্যগত একককে বলা হয়-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "নেফ্রন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নিউরোগ্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "নিউরন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "নিউরোসাইটিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "731e5f8f-e5ed-5e12-ab8d-0605b0b9d3d1"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 13,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc6",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 31.48,
+        "eval_count": 1243
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q13\n**Type:** mcq\n**Stem:** মানবদেহে কোনটি নিউরোগ্রিয়া এর অত্যধিক নয়?\n**Options:** \n- a) নিউরিলেমা\n- b) আখ্টেরোসাইট\n- c) মাইক্রোপ্রিয়া\n- d) এপেন ডাইমা\n\n**Answer:** বি. ১৪-১৫০\n**Tags:** আশরাফ উদ্দীন\n\n### Q14\n**Type:** mcq\n**Stem:** মন্তিকের কোন অংশ দেহের সব ঐচ্ছিক পেশির কার্যকলাপ নিয়ন্ত্রণ করে?\n**Options:** \n- a) সেরেব্রাম\n- b) হাইপোথ্যালামাস\n- c) সেরেভেলাম\n- d) থ্যালামাস\n\n**Answer:** খ. আজমল\n\n### Q15\n**Type:** mcq\n**Stem:** মন্তিকের সবচেয়ে বড় অংশ কোনটি? (দি. বোর্ড - ২০১৭)\n**Options:** \n- a) সেরেভেলাম\n- b) সেরেব্রাম\n- c) থ্যালামাস\n- d) হাইপোথ্যালামাস\n\n**Answer:** গ. আজমল\n\n### Q16\n**Type:** mcq\n**Stem:** মন্তিকের অব্যভ্জরে প্রকৌষ্ঠের সংখ্যা-(দি. বোর্ড - ২০১৭)\n**Options:** \n- a) ৩\n- b) ৪\n- c) ৫\n- d) ৬\n\n**Answer:** ঘ. আজমল\n\nNote: গাজী আজমল স্যারের বইয়ে উল্লেখ চুক্তি দেওয়া আছে।\n\n### Q17\n**Type:** mcq\n**Stem:** মন্তিকের কোন অংশের পরিমাণ সবচেয়ে বেশি? (দি. বোর্ড - ২০১৬)\n**Options:** \n- a) সেরেব্রাম\n- b) সেরেভেলাম\n- c) থ্যালামাস\n- d) হাইপোথ্যালামাস\n\n**Answer:** খ. আজমল\n\n### Q18\n**Type:** mcq\n**Stem:** মন্তিকের কোন অংশ শ্বাস-প্রদাহস, স্পন্দনহার ইত্যাদি শুরুত্তপূর্ণ স্বয়ংক্রিয় কার্যাদি নিয়ন্ত্রণ করে? (দি. বোর্ড - ১৬)\n**Options:** \n- a) সেরেব্রাম\n- b) সেরেভেলাম\n- c) মেডুলা\n- d) পৎস\n\n**Answer:** গ. আজমল\n\n### Q19\n**Type:** mcq\n**Stem:** মানুষের জৈব ঘড়ি নিয়ন্ত্রণ করে মন্তিকের কোন অংশ? (দি. বোর্ড - ২০১৫)\n**Options:** \n- a) সেরেব্রাম\n- b) সেরেভেলাম\n- c) থ্যালামাস\n- d) হাইপোথ্যালামাস\n\n**Answer:** খ. আজমল\n\n### Q20\n**Type:** mcq\n**Stem:** মন্তিকের কোন অংশ পিটুইটারি প্রধান ক্ষরণ নিয়ন্ত্রণ করে? (দি. বোর্ড - ২০১৫)\n**Options:** \n- a) হাইপোথ্যালামাস\n- b) পিনিয়াল বডি\n- c) সেরেব্রাল হেমিস্ফিয়ার\n- d) কর্পাস ক্যালোসাম\n\n**Answer:** গ. আজমল\n\n### Q21\n**Type:** mcq\n**Stem:** মানুষের সুযুক্তাঞ্চলুর সংখ্যা কত জোড়া?\n**Options:** \n- a) ৩০\n- b) ৩১\n- c) ৩২\n- d) ৩৩\n\n**Answer:** ঘ. আজমল\n\n### Q22\n**Type:** mcq\n**Stem:** হাইপোথ্যালামাস মন্তিকের কোন অংশ থাকে?\n**Options:** \n- a) প্রসেনসেফালন\n- b) রঞ্জনসেফালন\n\n### Q30\n**Type:** mcq\n**Stem:** নিম্নের কোনটি দেহের ভারসাম্য রক্ষায় ভূমিকা রাখে। নাপদিকগুলো: 12–13।\n- a) অত্থকর্ণ\n- b) সেরিবেলাম\n\n**Answer:** - b)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে 'ব' আপনার জানা গেছে যে সেরিবেলাম দেহের ভারসাম্য রক্ষায় ভূমিকা রাখে।\n\n**Tags:** 12-13\n\n### Q31\n**Type:** mcq\n**Stem:** মস্তিশ্চের বিকাশের জন্য কোনটি একাঙ্ক প্রয়োজন? [মডিফিলে: 12–13]\n- a) গ্রুকোজ\n- b) গ্যালাকটোজ\n\n**Answer:** - a)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে 'এ' আপনার জানা গেছে যে গ্রুকোজ মস্তিশ্চের বিকাশের জন্য একাঙ্ক প্রয়োজন।\n\n**Tags:** 12-13\n\n### Q32\n**Type:** mcq\n**Stem:** মল-মূত্র ত্যাগ নিয়ন্ত্রণ করে মস্তিশ্চের নিম্নের কৌন অংশ?\n[মডিফিলে: 10–11]\n- a) পৎস\n- b) থ্যালামাস\n\n**Answer:** - b)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে 'ব' আপনার জানা গেছে যে থ্যালামাস মস্তিশ্চের মল-মূত্র ত্যাগ নিয়ন্ত্রণ করে।\n\n**Tags:** 10-11\n\n### Q33\n**Type:** mcq\n**Stem:** মানুষের সেরোব্রাল অ্যাকুইডাইন্ট নিম্নের কোন মি.মি. লম্বা?\n[মডিফিলে: 10–11]\n- a) 20\n- b) 10\n- c) 25\n- d) 15\n\n**Answer:** - c)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে 'স' আপনার জানা গেছে যে মানুষের সেরোব্রাল অ্যাকুইডাইন্ট মি.মি. 25 লম্বা।\n\n**Tags:** 10-11\n\n### Q34\n**Type:** mcq\n**Stem:** নিম্নে উল্লিখিত মস্তিশ্চের কৌন অংশ ঐচ্ছিক চলন নিয়ন্ত্রণ করে?\n[মডিফিলে: 08–09]\n- a) সেরোব্রাম\n- b) সেরিবেলাম\n- c) পৎস\n- d) মেডুলা\n\n**Answer:** - a)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে 'এ' আপনার জানা গেছে যে সেরোব্রাম মস্তিশ্চের ঐচ্ছিক চলন নিয়ন্ত্রণ করে।\n\n**Tags:** 08-09\n\n### Q35\n**Type:** mcq\n**Stem:** নিম্নের কোনটি অথ মস্তিশ্চের অংশ নয়?\n[মডিফিলে: 07–08]\n- a) সেরোব্রাম\n- b) সেরিবেলাম\n- c) থ্যালামাস\n- d) হাইপোথ্যালামাস\n\n**Answer:** - d)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে 'ধ' আপনার জানা গেছে যে হাইপোথ্যালামাস অথ মস্তিশ্চের অংশ নয়।\n\n**Tags:** 07-08\n\n### Q36\n**Type:** mcq\n**Stem:** আবেগ, উদ্ধেগ প্রভৃতির প্রধান কেন্দ্র হিসেবে কাজ করে—[মডিফিলে: 06–07]\n- a) হাইপোথ্যালামাস\n- b) সেরোব্রাম\n- c) কর্পস ট্রায়েটাম\n- d) থ্যালামাস\n\n**Answer:** - b)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে 'খ' আপনার জানা গেছে যে সেরোব্রাম আবেগ, উদ্ধেগ প্রভৃতির প্রধান কেন্দ্র হিসেবে কাজ করে।\n\n**Tags:** 06-07\n\n### Q37\n**Type:** mcq\n**Stem:** হাইপোথ্যালামাসের কোনটি?\n[মডিফিলে: 08–05]\n- a) দেহতাপ নিয়ন্ত্রণ করে\n- b) ঐচ্ছিক চলফেরাকে নিয়ন্ত্রণ করে\n- c) দেহের ভারসাম্য রক্ষা করে\n- d) চলফেরার দিক নির্ধারণ করে\n\n**Answer:** - c)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে 'গ' আপনার জানা গেছে যে হাইপোথ্যালামাস দেহের ভারসাম্য রক্ষা করে।\n\n**Tags:** 08-05\n\n### Q38\n**Type:** mcq\n**Stem:** নিম্নের কোনটি সেরিবেলামের কাজ নয়?\n[মডিফিলে: 02–03]\n- a) ঐচ্ছিক চলফেরাকে নিয়ন্ত্রণ করে\n- b) ঐচ্ছিক পেশির পেশিটান নিয়ন্ত্রণ করে\n- c) চলফেরার দিক নির্ধারণ করে\n- d) স্বাভাবিক খাওয়ার হারকে নিয়ন্ত্রণ করে\n\n**Answer:** - d)\n\n**Solution:** এই প্রশ্নের উত্তর হচ্ছে 'ধ' আপনার জানা গেছে যে সেরিবেলাম স্বাভাবিক খাওয়ার হারকে নিয়ন্ত্রণ করে নয়।\n\n**Tags:** 02-03\n\n```none\n39. মস্তিষ্কের যে অংশ বুদ্ধিমত্তা নির্দেশন করে—(ডেটাল: 02-03)\nক. অগ্র করয়েড প্লেক্সাস   খ. সেরিব্রাল হেমিফ্যাশার\nগ. সেরিবেলাম    ঘ. মেডুলা অবলঙ্গাটা\n\n40. মেডুলা অবলঙ্গাটি মস্তিষ্কের যার অংশ? (ডেটাল: 02-03)\nক. রোধেনসেফালন     খ. ডায়েনসেফালন\nগ. মেনেসেফালন      ঘ. সেরেব্রাল পেডাফল\n\n41. মানুষের সুমুখ স্থায়ী সংখ্যা কতটি?\nক. 60       খ. 62        গ. 64         ঘ. 66 (নূর-ই-পারভীন)\n\n42. মস্তিষ্কের কোন অংশ মানবদেহের ভারসাম্য ও দেহ ভঙ্গি বজায় রাখে?\nক. সেরেবেলাম          খ. সেরেব্রাম\nগ. পৎস            ঘ. মেডুলা অবলঙ্গাটি (নূর-ই-পারভীন)\n\n43. আগ্রহমস্তিষ্কের অংশ হচ্ছে—(চ. বি-17-18)\nক. সেরেব্রাম           খ. সেরেবেলাম\nগ. মেডুলা অবলঙ্গাটি   ঘ. সেরেব্রাল পেডাফল (আশরাফ উদ্ধীন)\n\n48. করোটিক অছিতুলো পরস্পর যার মাধ্যমে যুক্ত থাকে—(ঘ. বি-18-15)\nক. সূচার             খ. ট্রাইপ্তার্স গ. ফাইব্রাস ঘ. কোনটিই নয় (আশরাফ উদ্ধীন)\n\n45. মস্তিষ্কের কোন অংশ হতে আবেগ ও অনুভূতি নির্যাঙ্কিত হয়?\nক. সেরেব্রাম          খ. হাইপোথ্যালামাস\nগ. থ্যালামাস         ঘ. মেডুলা (আশরাফ উদ্ধীন)\n\n\\hline\n13.ক&14.ক&15.খ&16.খ&17.ক&18.গ\\\\\n19.ঘ&20.ক&21.খ&22.ক&23.ঘ&24.গ\\\\\n25.গ&26.গ&27.গ&28.গ&29.খ&30.গ\\\\\n31.গ&32.ঘ&33.গ&34.খ&35.খ&36.ক\\\\\n37.ক&38.ঘ&39.খ&40.ক&41.খ&42.ক\\\\\n43.ক&48.ক&45.গ\n\\end{tabular}\nchase your dream to be a Doctor...",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q13",
+          "content_markdown": "মানবদেহে কোনটি নিউরোগ্রিয়া এর অত্যধিক নয়?",
+          "structured_data": {
+            "question_number": "13",
+            "subtype": "mcq",
+            "stem": "মানবদেহে কোনটি নিউরোগ্রিয়া এর অত্যধিক নয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "নিউরিলেমা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "আখ্টেরোসাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "মাইক্রোপ্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "এপেন ডাইমা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "বি. ১৪-১৫০",
+            "solution_markdown": null,
+            "tags_raw": "আশরাফ উদ্দীন",
+            "provenance": [
+              "আশরাফ উদ্দীন"
+            ]
+          },
+          "id": "cf7e52a5-ebf5-5f30-b6b3-3cef64809135"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q14",
+          "content_markdown": "মন্তিকের কোন অংশ দেহের সব ঐচ্ছিক পেশির কার্যকলাপ নিয়ন্ত্রণ করে?",
+          "structured_data": {
+            "question_number": "14",
+            "subtype": "mcq",
+            "stem": "মন্তিকের কোন অংশ দেহের সব ঐচ্ছিক পেশির কার্যকলাপ নিয়ন্ত্রণ করে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সেরেব্রাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "হাইপোথ্যালামাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সেরেভেলাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "থ্যালামাস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "খ. আজমল",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "608b170e-27c3-5346-8078-8494e353a6af"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q15",
+          "content_markdown": "মন্তিকের সবচেয়ে বড় অংশ কোনটি? (দি. বোর্ড - ২০১৭)",
+          "structured_data": {
+            "question_number": "15",
+            "subtype": "mcq",
+            "stem": "মন্তিকের সবচেয়ে বড় অংশ কোনটি? (দি. বোর্ড - ২০১৭)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সেরেভেলাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সেরেব্রাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "থ্যালামাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "হাইপোথ্যালামাস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "গ. আজমল",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5f9948a9-0a91-5226-bcd6-b627cdb28b12"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q16",
+          "content_markdown": "মন্তিকের অব্যভ্জরে প্রকৌষ্ঠের সংখ্যা-(দি. বোর্ড - ২০১৭)",
+          "structured_data": {
+            "question_number": "16",
+            "subtype": "mcq",
+            "stem": "মন্তিকের অব্যভ্জরে প্রকৌষ্ঠের সংখ্যা-(দি. বোর্ড - ২০১৭)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "৩",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "৪",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "৫",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "৬",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "ঘ. আজমল\n\nNote: গাজী আজমল স্যারের বইয়ে উল্লেখ চুক্তি দেওয়া আছে।",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "46444fe0-abfd-5186-8c29-a781190cb352"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q17",
+          "content_markdown": "মন্তিকের কোন অংশের পরিমাণ সবচেয়ে বেশি? (দি. বোর্ড - ২০১৬)",
+          "structured_data": {
+            "question_number": "17",
+            "subtype": "mcq",
+            "stem": "মন্তিকের কোন অংশের পরিমাণ সবচেয়ে বেশি? (দি. বোর্ড - ২০১৬)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সেরেব্রাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সেরেভেলাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "থ্যালামাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "হাইপোথ্যালামাস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "খ. আজমল",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3fa543c0-a589-5c8e-9ac1-049166130191"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q18",
+          "content_markdown": "মন্তিকের কোন অংশ শ্বাস-প্রদাহস, স্পন্দনহার ইত্যাদি শুরুত্তপূর্ণ স্বয়ংক্রিয় কার্যাদি নিয়ন্ত্রণ করে? (দি. বোর্ড - ১৬)",
+          "structured_data": {
+            "question_number": "18",
+            "subtype": "mcq",
+            "stem": "মন্তিকের কোন অংশ শ্বাস-প্রদাহস, স্পন্দনহার ইত্যাদি শুরুত্তপূর্ণ স্বয়ংক্রিয় কার্যাদি নিয়ন্ত্রণ করে? (দি. বোর্ড - ১৬)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সেরেব্রাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সেরেভেলাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "মেডুলা",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "পৎস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "গ. আজমল",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "633d96c9-526d-5f21-ba0e-4f58ac5ee915"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q19",
+          "content_markdown": "মানুষের জৈব ঘড়ি নিয়ন্ত্রণ করে মন্তিকের কোন অংশ? (দি. বোর্ড - ২০১৫)",
+          "structured_data": {
+            "question_number": "19",
+            "subtype": "mcq",
+            "stem": "মানুষের জৈব ঘড়ি নিয়ন্ত্রণ করে মন্তিকের কোন অংশ? (দি. বোর্ড - ২০১৫)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সেরেব্রাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সেরেভেলাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "থ্যালামাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "হাইপোথ্যালামাস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "খ. আজমল",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a20204cf-6167-58e9-ab66-8937e0afeafd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q20",
+          "content_markdown": "মন্তিকের কোন অংশ পিটুইটারি প্রধান ক্ষরণ নিয়ন্ত্রণ করে? (দি. বোর্ড - ২০১৫)",
+          "structured_data": {
+            "question_number": "20",
+            "subtype": "mcq",
+            "stem": "মন্তিকের কোন অংশ পিটুইটারি প্রধান ক্ষরণ নিয়ন্ত্রণ করে? (দি. বোর্ড - ২০১৫)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "হাইপোথ্যালামাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "পিনিয়াল বডি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সেরেব্রাল হেমিস্ফিয়ার",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কর্পাস ক্যালোসাম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "গ. আজমল",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9376b5f9-3ca7-56b2-81b2-4bfcf284d2ef"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q21",
+          "content_markdown": "মানুষের সুযুক্তাঞ্চলুর সংখ্যা কত জোড়া?",
+          "structured_data": {
+            "question_number": "21",
+            "subtype": "mcq",
+            "stem": "মানুষের সুযুক্তাঞ্চলুর সংখ্যা কত জোড়া?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "৩০",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "৩১",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "৩২",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "৩৩",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "ঘ. আজমল",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e0760c9c-c6b4-54dd-9c37-f0491ce48bf0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q22",
+          "content_markdown": "হাইপোথ্যালামাস মন্তিকের কোন অংশ থাকে?",
+          "structured_data": {
+            "question_number": "22",
+            "subtype": "mcq",
+            "stem": "হাইপোথ্যালামাস মন্তিকের কোন অংশ থাকে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রসেনসেফালন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "রঞ্জনসেফালন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b498257d-b23e-519a-8d38-916bcf2ffdcf"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q30",
+          "content_markdown": "নিম্নের কোনটি দেহের ভারসাম্য রক্ষায় ভূমিকা রাখে। নাপদিকগুলো: 12–13।",
+          "structured_data": {
+            "question_number": "30",
+            "subtype": "mcq",
+            "stem": "নিম্নের কোনটি দেহের ভারসাম্য রক্ষায় ভূমিকা রাখে। নাপদিকগুলো: 12–13।",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অত্থকর্ণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সেরিবেলাম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে 'ব' আপনার জানা গেছে যে সেরিবেলাম দেহের ভারসাম্য রক্ষায় ভূমিকা রাখে।",
+            "tags_raw": "12-13",
+            "provenance": [
+              "12-13"
+            ]
+          },
+          "id": "07cd2398-e5c6-53f1-b6b0-e4466b3df1df"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q31",
+          "content_markdown": "মস্তিশ্চের বিকাশের জন্য কোনটি একাঙ্ক প্রয়োজন? [মডিফিলে: 12–13]",
+          "structured_data": {
+            "question_number": "31",
+            "subtype": "mcq",
+            "stem": "মস্তিশ্চের বিকাশের জন্য কোনটি একাঙ্ক প্রয়োজন? [মডিফিলে: 12–13]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গ্রুকোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "গ্যালাকটোজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে 'এ' আপনার জানা গেছে যে গ্রুকোজ মস্তিশ্চের বিকাশের জন্য একাঙ্ক প্রয়োজন।",
+            "tags_raw": "12-13",
+            "provenance": [
+              "12-13"
+            ]
+          },
+          "id": "8ee0e212-6343-5d0e-98be-4319a3411a2d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q32",
+          "content_markdown": "মল-মূত্র ত্যাগ নিয়ন্ত্রণ করে মস্তিশ্চের নিম্নের কৌন অংশ?\n[মডিফিলে: 10–11]",
+          "structured_data": {
+            "question_number": "32",
+            "subtype": "mcq",
+            "stem": "মল-মূত্র ত্যাগ নিয়ন্ত্রণ করে মস্তিশ্চের নিম্নের কৌন অংশ?\n[মডিফিলে: 10–11]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "পৎস",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "থ্যালামাস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে 'ব' আপনার জানা গেছে যে থ্যালামাস মস্তিশ্চের মল-মূত্র ত্যাগ নিয়ন্ত্রণ করে।",
+            "tags_raw": "10-11",
+            "provenance": [
+              "10-11"
+            ]
+          },
+          "id": "14132b19-dc0b-563f-83a5-5653c68fe48e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q33",
+          "content_markdown": "মানুষের সেরোব্রাল অ্যাকুইডাইন্ট নিম্নের কোন মি.মি. লম্বা?\n[মডিফিলে: 10–11]",
+          "structured_data": {
+            "question_number": "33",
+            "subtype": "mcq",
+            "stem": "মানুষের সেরোব্রাল অ্যাকুইডাইন্ট নিম্নের কোন মি.মি. লম্বা?\n[মডিফিলে: 10–11]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "20",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "10",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "25",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "15",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে 'স' আপনার জানা গেছে যে মানুষের সেরোব্রাল অ্যাকুইডাইন্ট মি.মি. 25 লম্বা।",
+            "tags_raw": "10-11",
+            "provenance": [
+              "10-11"
+            ]
+          },
+          "id": "89f2a8c9-5b04-505b-99c5-bad6d37182eb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q34",
+          "content_markdown": "নিম্নে উল্লিখিত মস্তিশ্চের কৌন অংশ ঐচ্ছিক চলন নিয়ন্ত্রণ করে?\n[মডিফিলে: 08–09]",
+          "structured_data": {
+            "question_number": "34",
+            "subtype": "mcq",
+            "stem": "নিম্নে উল্লিখিত মস্তিশ্চের কৌন অংশ ঐচ্ছিক চলন নিয়ন্ত্রণ করে?\n[মডিফিলে: 08–09]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সেরোব্রাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সেরিবেলাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পৎস",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "মেডুলা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে 'এ' আপনার জানা গেছে যে সেরোব্রাম মস্তিশ্চের ঐচ্ছিক চলন নিয়ন্ত্রণ করে।",
+            "tags_raw": "08-09",
+            "provenance": [
+              "08-09"
+            ]
+          },
+          "id": "61780b42-5d32-5b1b-80b7-0228c322e6b2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q35",
+          "content_markdown": "নিম্নের কোনটি অথ মস্তিশ্চের অংশ নয়?\n[মডিফিলে: 07–08]",
+          "structured_data": {
+            "question_number": "35",
+            "subtype": "mcq",
+            "stem": "নিম্নের কোনটি অথ মস্তিশ্চের অংশ নয়?\n[মডিফিলে: 07–08]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সেরোব্রাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সেরিবেলাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "থ্যালামাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "হাইপোথ্যালামাস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- d)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে 'ধ' আপনার জানা গেছে যে হাইপোথ্যালামাস অথ মস্তিশ্চের অংশ নয়।",
+            "tags_raw": "07-08",
+            "provenance": [
+              "07-08"
+            ]
+          },
+          "id": "ba458170-9d5a-5320-966e-5760cd091fb1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q36",
+          "content_markdown": "আবেগ, উদ্ধেগ প্রভৃতির প্রধান কেন্দ্র হিসেবে কাজ করে—[মডিফিলে: 06–07]",
+          "structured_data": {
+            "question_number": "36",
+            "subtype": "mcq",
+            "stem": "আবেগ, উদ্ধেগ প্রভৃতির প্রধান কেন্দ্র হিসেবে কাজ করে—[মডিফিলে: 06–07]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "হাইপোথ্যালামাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সেরোব্রাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কর্পস ট্রায়েটাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "থ্যালামাস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে 'খ' আপনার জানা গেছে যে সেরোব্রাম আবেগ, উদ্ধেগ প্রভৃতির প্রধান কেন্দ্র হিসেবে কাজ করে।",
+            "tags_raw": "06-07",
+            "provenance": [
+              "06-07"
+            ]
+          },
+          "id": "e7ebb8ce-f1f8-5a40-9775-e8e75f5e17fb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q37",
+          "content_markdown": "হাইপোথ্যালামাসের কোনটি?\n[মডিফিলে: 08–05]",
+          "structured_data": {
+            "question_number": "37",
+            "subtype": "mcq",
+            "stem": "হাইপোথ্যালামাসের কোনটি?\n[মডিফিলে: 08–05]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "দেহতাপ নিয়ন্ত্রণ করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ঐচ্ছিক চলফেরাকে নিয়ন্ত্রণ করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "দেহের ভারসাম্য রক্ষা করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "চলফেরার দিক নির্ধারণ করে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে 'গ' আপনার জানা গেছে যে হাইপোথ্যালামাস দেহের ভারসাম্য রক্ষা করে।",
+            "tags_raw": "08-05",
+            "provenance": [
+              "08-05"
+            ]
+          },
+          "id": "faea482b-3432-5e19-a67b-a262edb2b8a3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q38",
+          "content_markdown": "নিম্নের কোনটি সেরিবেলামের কাজ নয়?\n[মডিফিলে: 02–03]",
+          "structured_data": {
+            "question_number": "38",
+            "subtype": "mcq",
+            "stem": "নিম্নের কোনটি সেরিবেলামের কাজ নয়?\n[মডিফিলে: 02–03]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ঐচ্ছিক চলফেরাকে নিয়ন্ত্রণ করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ঐচ্ছিক পেশির পেশিটান নিয়ন্ত্রণ করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "চলফেরার দিক নির্ধারণ করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "স্বাভাবিক খাওয়ার হারকে নিয়ন্ত্রণ করে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- d)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হচ্ছে 'ধ' আপনার জানা গেছে যে সেরিবেলাম স্বাভাবিক খাওয়ার হারকে নিয়ন্ত্রণ করে নয়।",
+            "tags_raw": "02-03  ```none 39. মস্তিষ্কের যে অংশ বুদ্ধিমত্তা নির্দেশন করে—(ডেটাল: 02-03) ক. অগ্র করয়েড প্লেক্সাস   খ. সেরিব্রাল হেমিফ্যাশার গ. সেরিবেলাম    ঘ. মেডুলা অবলঙ্গাটা  40. মেডুলা অবলঙ্গাটি মস্তিষ্কের যার অংশ? (ডেটাল: 02-03) ক. রোধেনসেফালন     খ. ডায়েনসেফালন গ. মেনেসেফালন      ঘ. সেরেব্রাল পেডাফল  41. মানুষের সুমুখ স্থায়ী সংখ্যা কতটি? ক. 60       খ. 62        গ. 64         ঘ. 66 (নূর-ই-পারভীন)  42. মস্তিষ্কের কোন অংশ মানবদেহের ভারসাম্য ও দেহ ভঙ্গি বজায় রাখে? ক. সেরেবেলাম          খ. সেরেব্রাম গ. পৎস            ঘ. মেডুলা অবলঙ্গাটি (নূর-ই-পারভীন)  43. আগ্রহমস্তিষ্কের অংশ হচ্ছে—(চ. বি-17-18) ক. সেরেব্রাম           খ. সেরেবেলাম গ. মেডুলা অবলঙ্গাটি   ঘ. সেরেব্রাল পেডাফল (আশরাফ উদ্ধীন)  48. করোটিক অছিতুলো পরস্পর যার মাধ্যমে যুক্ত থাকে—(ঘ. বি-18-15) ক. সূচার             খ. ট্রাইপ্তার্স গ. ফাইব্রাস ঘ. কোনটিই নয় (আশরাফ উদ্ধীন)  45. মস্তিষ্কের কোন অংশ হতে আবেগ ও অনুভূতি নির্যাঙ্কিত হয়? ক. সেরেব্রাম          খ. হাইপোথ্যালামাস গ. থ্যালামাস         ঘ. মেডুলা (আশরাফ উদ্ধীন)  \\hline 13.ক&14.ক&15.খ&16.খ&17.ক&18.গ\\\\ 19.ঘ&20.ক&21.খ&22.ক&23.ঘ&24.গ\\\\ 25.গ&26.গ&27.গ&28.গ&29.খ&30.গ\\\\ 31.গ&32.ঘ&33.গ&34.খ&35.খ&36.ক\\\\ 37.ক&38.ঘ&39.খ&40.ক&41.খ&42.ক\\\\ 43.ক&48.ক&45.গ \\end{tabular} chase your dream to be a Doctor...",
+            "provenance": [
+              "02-03  ```none 39. মস্তিষ্কের যে অংশ বুদ্ধিমত্তা নির্দেশন করে—(ডেটাল: 02-03) ক. অগ্র করয়েড প্লেক্সাস   খ. সেরিব্রাল হেমিফ্যাশার গ. সেরিবেলাম    ঘ. মেডুলা অবলঙ্গাটা  40. মেডুলা অবলঙ্গাটি মস্তিষ্কের যার অংশ? (ডেটাল: 02-03) ক. রোধেনসেফালন     খ. ডায়েনসেফালন গ. মেনেসেফালন      ঘ. সেরেব্রাল পেডাফল  41. মানুষের সুমুখ স্থায়ী সংখ্যা কতটি? ক. 60       খ. 62        গ. 64         ঘ. 66 (নূর-ই-পারভীন)  42. মস্তিষ্কের কোন অংশ মানবদেহের ভারসাম্য ও দেহ ভঙ্গি বজায় রাখে? ক. সেরেবেলাম          খ. সেরেব্রাম গ. পৎস            ঘ. মেডুলা অবলঙ্গাটি (নূর-ই-পারভীন)  43. আগ্রহমস্তিষ্কের অংশ হচ্ছে—(চ. বি-17-18) ক. সেরেব্রাম           খ. সেরেবেলাম গ. মেডুলা অবলঙ্গাটি   ঘ. সেরেব্রাল পেডাফল (আশরাফ উদ্ধীন)  48. করোটিক অছিতুলো পরস্পর যার মাধ্যমে যুক্ত থাকে—(ঘ. বি-18-15) ক. সূচার             খ. ট্রাইপ্তার্স গ. ফাইব্রাস ঘ. কোনটিই নয় (আশরাফ উদ্ধীন)  45. মস্তিষ্কের কোন অংশ হতে আবেগ ও অনুভূতি নির্যাঙ্কিত হয়? ক. সেরেব্রাম          খ. হাইপোথ্যালামাস গ. থ্যালামাস         ঘ. মেডুলা (আশরাফ উদ্ধীন)  \\hline 13.ক&14.ক&15.খ&16.খ&17.ক&18.গ\\\\ 19.ঘ&20.ক&21.খ&22.ক&23.ঘ&24.গ\\\\ 25.গ&26.গ&27.গ&28.গ&29.খ&30.গ\\\\ 31.গ&32.ঘ&33.গ&34.খ&35.খ&36.ক\\\\ 37.ক&38.ঘ&39.খ&40.ক&41.খ&42.ক\\\\ 43.ক&48.ক&45.গ \\end{tabular} chase your dream to be a Doctor..."
+            ]
+          },
+          "id": "50b3059b-2811-5fe7-a7c9-0466329e8c55"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 19,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc4",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 133.03,
+        "eval_count": 5057
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "ঝোড়া মানুষের শরীরের ওজন কত গ্রাম?  \nক. ১০০০   খ. ১৩০০    গ. ১৬০০     ঘ. ১৮০০\n\nসেন্টিয়াগোয়ে সংখ্যা কত বিষয়? \nক. ১০০      খ. ১২০       গ. ১৫০        ঘ. ২০০  \n\nমন্ডিরের এই অঙ্গল দেহ-তাপমাত্রা নিয়ন্ত্রণ করে-\nক. থ্যালামাস         খ. হাইপোথ্যালামাস   \nগ. সেরোব্রাম           ঘ. পদন \n\nঅক্ষফ্রা ও বস্তিক্ষরা উভয় বৈশিষ্ট্যযুক্ত এছি-\nক. থায়িয়েড          খ. কৃষ্ণ গ. অ্যাঙ্গায়া ঘ. বুকর \n\nসমস্ত সংবেদী উদ্বিপা যে অংশের মধ্যে সেন্ট্রোমে প্রবেশ করে-\nক. পন্থু            খ. থ্যালামাস    \nগ. হাইপোথ্যালামাস    ঘ. সেরোব্রাম   \n\nমন্ডিরে যেখানে প্রধান ও নিচ্ছাস অবচিত্ত-\nক. সেরোব্রাম         খ. পন্থু       \nগ. পন্থু                ঘ. মেডুলা অবলংগাটি    \n\nমন্ডিরের কৌন অংশ পিটুটারি এক্সিম নিয়ন্ত্রণ করে?\n(সি. বোর্ড -২০১৫) \nক. হাইপোথ্যালামাস     খ. পিনিয়াল বিডি     \nগ. সেরিব্রাল হেমিফেয়ার   ঘ. কর্পস ক্যালোসাম  \n\nকেন্দ্রীয় স্নায়ুত্ত তৈরি হয়———— থেকে। \n(সি. বি. ১৯-১৮) \nক. এক্টোডার্ম   খ. এন্ডোডার্ম      \nগ. এন্ডোডার্ম এবং এক্টোডার্ম  \n\nকরোটিক আঠিপলো পরস্পর যার মধ্যে যুক্ত থাকে— \n(স্ব. বি. ১৪-১৫) \nক. সূচর               খ. ট্রাইভার্স    \nগ. ফাইব্রাস             ঘ. কোনটাই নয়  \n\nমানুষের করোটিক স্নায়ু\n57. নিচের কোন করোটিক স্নায়ু মাথা ও কাঁধের সংকলনে ভূমিকা পালন করে? \n(সি. বোর্ড-২০১৭) \nক. অকুলোমেটার   খ. ট্রাইজেমিনাল        \nগ. স্পাইনাল অ্যাক্সেসরি   ঘ. হাইপোগ্লোসাল  \n\n58. কোন করোটিক স্নায়ু জিহ্বার সংকলন ঘটায়? \n(সি. বোর্ড-২০১৭) \nক. অ্যাবুসেল   খ. হ্যাসিলার    \nগ. ভেগাস              ঘ. হাইপোগ্লোসাল  \n\n59. স্থায় অধিষ্ঠানের সাথে সম্পর্কিত স্নায়ু কোনটি? \n(সি. বোর্ড-২০১৭) \nক. ফেসিয়াল   খ. ট্রাকলিয়ার    \nগ. অলফাক্টরি   ঘ. অপটিক  \n\n60. নিচের কোনটি মিশ্র প্রকৃতির করোটিক স্নায়ু? \n(সি. বোর্ড-১৬) \nক. অপটিক   খ. ট্রাকলিয়ার    গ. অভিটারি   ঘ. ভেগাস  \n\n61. কোনটি ১০ম করোটিক স্নায়ুর শাখা? \n(সি. বোর্ড-২০১৬) \nক. প্যালেটাইন   খ. পালামোনারি    \nগ. ম্যাক্রিলার   ঘ. ম্যাভিবুলার  \n\n62. কোনটি চেটিম স্নায়ু? \n(সি. বোর্ড-২০১৬) \nক. অপটিক   খ. ভেগাস    গ. অভিটারি   ঘ. অ্যাবুডুসেস  \n\n## Q63\n**Type:** mcq\n**Stem:** অষ্টম করোটিক স্নায়ুর কাজ কী? \n[s. বোর্ড-২০১৬] \n**Options:** `- a) ...`, `- b) ...`\n**Answer:** -\n**Solution:** -\n**Tags:** সাধ, দর্শন, শ্রবণ, শ্রাণ:গাঢ় অজ্ঞন\n\n## Q64\n**Type:** mcq\n**Stem:** কত নম্বর করোটিক স্নায়ুর কার্যকারিতায় অভিব্যক্ত প্রক্ষিত হয়? \n[সি. বি.-১৫]\n**Options:** `- a) ...`, `- b) ...`\n**Answer:** -\n**Solution:** -\n**Tags:** অজ্ঞ\n\n## Q65\n**Type:** mcq\n**Stem:** দেহের ভারামায় রক্ষার অনুভূতি এগার করে কত নম্বর স্নায়ুর মাধ্যমে?\n[সি. বোর্ড-২০১৩]\n**Options:** `- a) ...`, `- b) ...`\n**Answer:** -\n**Solution:** -\n**Tags:** অজ্ঞ\n\n## Q66\n**Type:** mcq\n**Stem:** অষ্টম করোটিক স্নায়ু কোনটি? [সি. বোর্ড-২০১৬]\n**Options:** `- a) ...`, `- b) ...`\n**Answer:** -\n**Solution:** -\n**Tags:** অলফাক্টরি, অভিটারি  \nগ. ফেসিয়াল   \nঘ. ট্রাইজেমিনাল\n\n## Q67\n**Type:** mcq\n**Stem:** মন্ডিকে দ্রাঙ উদ্বিপা সৃষ্টি করে কোন মাধ্যম? [সি. বোর্ড-২০১৩]\n**Options:** `- a) ...`, `- b) ...`\n**Answer:** -\n**Solution:** -\n**Tags:** অজ্ঞ\n\n## Q68\n**Type:** mcq\n**Stem:** মানুষ মন্ডিকে হতে উত্তৃত্ত করোটিক স্নায়ু কত? \n[অঙ্গুল অস্তিন]\n**Options:** `- a) ...`, `- b) ...`\n**Answer:** -\n**Solution:** -\n**Tags:** ১২ জোডা, ১০ টি, ১০ জোডা, ১২টি\n\n## Q69\n**Type:** mcq\n**Stem:** করোটিক স্নায়ু কাজ সম্পর্কিত নিচের কৌন তথ্যটি সত্যিক নয়? (সিক্সেশন: ১৮-১১)\n**Options:** `- a) ...`, `- b) ...`\n**Answer:** -\n**Solution:** -\n**Tags:** ক. ট্রাকলিয়ার-অফিগোলেকের সংখ্যান, গ. গ্রোসোফারিয়াল-গলবিলের সংখ্যান, ঘ. হাইপোগ্রোগ্নাল-বাদ এগাহ\n\n## Q70\n**Type:** mcq\n**Stem:** জিহ্বা থেকে যাদের অনুভূতি এগার করে কোন স্নায়ু? \n[উইক্স: ১১-১১]\n**Options:** `- a) ...`, `- b) ...`\n**Answer:** -\n**Solution:** -\n**Tags:** অকুলোমেটার স্নায়ু, গ্লোসোফেরিয়াল স্নায়ু \n\n## Q71\n**Type:** mcq\n**Stem:** পূর্ণ সংবেদী স্নায়ু নয় কোনটি? \n[মডেলেক: ১৭-১৮]\n**Options:** `- a) ...`, `- b) ...`\n**Answer:** -\n**Solution:** -\n**Tags:** অলফাক্টরি স্নায়ু, ফেসিয়াল স্নায়ু, অভিটারি স্নায়ু, অপটিক স্নায়ু\n\n## Q72\n**Type:** mcq\n**Stем:** মানুষের জিহ্বার সংকলন নিয়ন্ত্রণ করে কোন করোটিক স্নায়ু? \n[মডেলেক: ১৭-১৮]\n**Options:** `- a) ...`, `- b) ...`\n**Answer:** -\n**Solution:** -\n**Tags:** অফিটিক স্নায়ু, আকুলোমেটার স্নায়ু",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "ঝোড়া মানুষের শরীরের ওজন কত গ্রাম?  \nক. ১০০০   খ. ১৩০০    গ. ১৬০০     ঘ. ১৮০০",
+          "structured_data": {},
+          "id": "ee32c608-40e8-571c-a789-7d58c789d55b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "সেন্টিয়াগোয়ে সংখ্যা কত বিষয়? \nক. ১০০      খ. ১২০       গ. ১৫০        ঘ. ২০০",
+          "structured_data": {},
+          "id": "647daad9-ff0b-5fa4-b66f-b6daeea7d6d9"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "মন্ডিরের এই অঙ্গল দেহ-তাপমাত্রা নিয়ন্ত্রণ করে-\nক. থ্যালামাস         খ. হাইপোথ্যালামাস   \nগ. সেরোব্রাম           ঘ. পদন",
+          "structured_data": {},
+          "id": "36d84247-27cb-5d21-b0a7-884c98ffd2ed"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "অক্ষফ্রা ও বস্তিক্ষরা উভয় বৈশিষ্ট্যযুক্ত এছি-\nক. থায়িয়েড          খ. কৃষ্ণ গ. অ্যাঙ্গায়া ঘ. বুকর",
+          "structured_data": {},
+          "id": "824a79af-8319-5b8d-bd14-394233f2fc7d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "সমস্ত সংবেদী উদ্বিপা যে অংশের মধ্যে সেন্ট্রোমে প্রবেশ করে-\nক. পন্থু            খ. থ্যালামাস    \nগ. হাইপোথ্যালামাস    ঘ. সেরোব্রাম",
+          "structured_data": {},
+          "id": "d2c0f550-de6e-5c9b-bd2f-c2055b7a6d96"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "মন্ডিরে যেখানে প্রধান ও নিচ্ছাস অবচিত্ত-\nক. সেরোব্রাম         খ. পন্থু       \nগ. পন্থু                ঘ. মেডুলা অবলংগাটি",
+          "structured_data": {},
+          "id": "06e2440e-69dc-5b01-879b-883b7fa738cb"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "মন্ডিরের কৌন অংশ পিটুটারি এক্সিম নিয়ন্ত্রণ করে?\n(সি. বোর্ড -২০১৫) \nক. হাইপোথ্যালামাস     খ. পিনিয়াল বিডি     \nগ. সেরিব্রাল হেমিফেয়ার   ঘ. কর্পস ক্যালোসাম",
+          "structured_data": {},
+          "id": "dfac3433-f85f-55b1-956d-59285704c82e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "কেন্দ্রীয় স্নায়ুত্ত তৈরি হয়———— থেকে। \n(সি. বি. ১৯-১৮) \nক. এক্টোডার্ম   খ. এন্ডোডার্ম      \nগ. এন্ডোডার্ম এবং এক্টোডার্ম",
+          "structured_data": {},
+          "id": "15850c01-5a3b-58a8-9e4f-f61289160ac6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "করোটিক আঠিপলো পরস্পর যার মধ্যে যুক্ত থাকে— \n(স্ব. বি. ১৪-১৫) \nক. সূচর               খ. ট্রাইভার্স    \nগ. ফাইব্রাস             ঘ. কোনটাই নয়",
+          "structured_data": {},
+          "id": "8af5d364-3073-513a-b7d8-6e6c61e21324"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "মানুষের করোটিক স্নায়ু\n57. নিচের কোন করোটিক স্নায়ু মাথা ও কাঁধের সংকলনে ভূমিকা পালন করে? \n(সি. বোর্ড-২০১৭) \nক. অকুলোমেটার   খ. ট্রাইজেমিনাল        \nগ. স্পাইনাল অ্যাক্সেসরি   ঘ. হাইপোগ্লোসাল",
+          "structured_data": {},
+          "id": "5a130339-253a-55ed-9919-ca70c9abf8e6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "58. কোন করোটিক স্নায়ু জিহ্বার সংকলন ঘটায়? \n(সি. বোর্ড-২০১৭) \nক. অ্যাবুসেল   খ. হ্যাসিলার    \nগ. ভেগাস              ঘ. হাইপোগ্লোসাল",
+          "structured_data": {},
+          "id": "35e67dee-7420-5df9-872f-a762c91f7b65"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "59. স্থায় অধিষ্ঠানের সাথে সম্পর্কিত স্নায়ু কোনটি? \n(সি. বোর্ড-২০১৭) \nক. ফেসিয়াল   খ. ট্রাকলিয়ার    \nগ. অলফাক্টরি   ঘ. অপটিক",
+          "structured_data": {},
+          "id": "d1024a6b-7c6d-5167-acd2-70c034f102fe"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "60. নিচের কোনটি মিশ্র প্রকৃতির করোটিক স্নায়ু? \n(সি. বোর্ড-১৬) \nক. অপটিক   খ. ট্রাকলিয়ার    গ. অভিটারি   ঘ. ভেগাস",
+          "structured_data": {},
+          "id": "fdd24ca4-8777-5a89-8a93-00b965c35237"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "61. কোনটি ১০ম করোটিক স্নায়ুর শাখা? \n(সি. বোর্ড-২০১৬) \nক. প্যালেটাইন   খ. পালামোনারি    \nগ. ম্যাক্রিলার   ঘ. ম্যাভিবুলার",
+          "structured_data": {},
+          "id": "a510271b-2d48-5936-98e3-f58fb02f934b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "62. কোনটি চেটিম স্নায়ু? \n(সি. বোর্ড-২০১৬) \nক. অপটিক   খ. ভেগাস    গ. অভিটারি   ঘ. অ্যাবুডুসেস",
+          "structured_data": {},
+          "id": "c86ad251-d8b9-5e8f-8007-ab2d670d567a"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q63",
+          "content_markdown": "অষ্টম করোটিক স্নায়ুর কাজ কী?\n[s. বোর্ড-২০১৬]",
+          "structured_data": {
+            "question_number": "63",
+            "subtype": "mcq",
+            "stem": "অষ্টম করোটিক স্নায়ুর কাজ কী?\n[s. বোর্ড-২০১৬]",
+            "options": [],
+            "correct_answer": "-",
+            "solution_markdown": "-",
+            "tags_raw": "সাধ, দর্শন, শ্রবণ, শ্রাণ:গাঢ় অজ্ঞন",
+            "provenance": [
+              "সাধ",
+              "দর্শন",
+              "শ্রবণ",
+              "শ্রাণ:গাঢ় অজ্ঞন"
+            ]
+          },
+          "id": "9bd5bfb3-c3ba-58a7-bda1-7f1e821d0bf5"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q64",
+          "content_markdown": "কত নম্বর করোটিক স্নায়ুর কার্যকারিতায় অভিব্যক্ত প্রক্ষিত হয়?\n[সি. বি.-১৫]",
+          "structured_data": {
+            "question_number": "64",
+            "subtype": "mcq",
+            "stem": "কত নম্বর করোটিক স্নায়ুর কার্যকারিতায় অভিব্যক্ত প্রক্ষিত হয়?\n[সি. বি.-১৫]",
+            "options": [],
+            "correct_answer": "-",
+            "solution_markdown": "-",
+            "tags_raw": "অজ্ঞ",
+            "provenance": [
+              "অজ্ঞ"
+            ]
+          },
+          "id": "d63a2be2-0b4a-5ff0-80f7-e52595268ac5"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q65",
+          "content_markdown": "দেহের ভারামায় রক্ষার অনুভূতি এগার করে কত নম্বর স্নায়ুর মাধ্যমে?\n[সি. বোর্ড-২০১৩]",
+          "structured_data": {
+            "question_number": "65",
+            "subtype": "mcq",
+            "stem": "দেহের ভারামায় রক্ষার অনুভূতি এগার করে কত নম্বর স্নায়ুর মাধ্যমে?\n[সি. বোর্ড-২০১৩]",
+            "options": [],
+            "correct_answer": "-",
+            "solution_markdown": "-",
+            "tags_raw": "অজ্ঞ",
+            "provenance": [
+              "অজ্ঞ"
+            ]
+          },
+          "id": "9cb9d917-f4ad-5335-8b7b-7ea6d49fc3e9"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q66",
+          "content_markdown": "অষ্টম করোটিক স্নায়ু কোনটি? [সি. বোর্ড-২০১৬]",
+          "structured_data": {
+            "question_number": "66",
+            "subtype": "mcq",
+            "stem": "অষ্টম করোটিক স্নায়ু কোনটি? [সি. বোর্ড-২০১৬]",
+            "options": [],
+            "correct_answer": "-",
+            "solution_markdown": "-",
+            "tags_raw": "অলফাক্টরি, অভিটারি গ. ফেসিয়াল    ঘ. ট্রাইজেমিনাল",
+            "provenance": [
+              "অলফাক্টরি",
+              "অভিটারি গ. ফেসিয়াল    ঘ. ট্রাইজেমিনাল"
+            ]
+          },
+          "id": "ef5e0a7e-7bac-5282-b6b9-7e7353838938"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q67",
+          "content_markdown": "মন্ডিকে দ্রাঙ উদ্বিপা সৃষ্টি করে কোন মাধ্যম? [সি. বোর্ড-২০১৩]",
+          "structured_data": {
+            "question_number": "67",
+            "subtype": "mcq",
+            "stem": "মন্ডিকে দ্রাঙ উদ্বিপা সৃষ্টি করে কোন মাধ্যম? [সি. বোর্ড-২০১৩]",
+            "options": [],
+            "correct_answer": "-",
+            "solution_markdown": "-",
+            "tags_raw": "অজ্ঞ",
+            "provenance": [
+              "অজ্ঞ"
+            ]
+          },
+          "id": "28ae386d-babb-580c-8f45-bafae25bce24"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q68",
+          "content_markdown": "মানুষ মন্ডিকে হতে উত্তৃত্ত করোটিক স্নায়ু কত?\n[অঙ্গুল অস্তিন]",
+          "structured_data": {
+            "question_number": "68",
+            "subtype": "mcq",
+            "stem": "মানুষ মন্ডিকে হতে উত্তৃত্ত করোটিক স্নায়ু কত?\n[অঙ্গুল অস্তিন]",
+            "options": [],
+            "correct_answer": "-",
+            "solution_markdown": "-",
+            "tags_raw": "১২ জোডা, ১০ টি, ১০ জোডা, ১২টি",
+            "provenance": [
+              "১২ জোডা",
+              "১০ টি",
+              "১০ জোডা",
+              "১২টি"
+            ]
+          },
+          "id": "34f9b942-62f6-5297-8d1d-7380c990e58c"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q69",
+          "content_markdown": "করোটিক স্নায়ু কাজ সম্পর্কিত নিচের কৌন তথ্যটি সত্যিক নয়? (সিক্সেশন: ১৮-১১)",
+          "structured_data": {
+            "question_number": "69",
+            "subtype": "mcq",
+            "stem": "করোটিক স্নায়ু কাজ সম্পর্কিত নিচের কৌন তথ্যটি সত্যিক নয়? (সিক্সেশন: ১৮-১১)",
+            "options": [],
+            "correct_answer": "-",
+            "solution_markdown": "-",
+            "tags_raw": "ক. ট্রাকলিয়ার-অফিগোলেকের সংখ্যান, গ. গ্রোসোফারিয়াল-গলবিলের সংখ্যান, ঘ. হাইপোগ্রোগ্নাল-বাদ এগাহ",
+            "provenance": [
+              "ক. ট্রাকলিয়ার-অফিগোলেকের সংখ্যান",
+              "গ. গ্রোসোফারিয়াল-গলবিলের সংখ্যান",
+              "ঘ. হাইপোগ্রোগ্নাল-বাদ এগাহ"
+            ]
+          },
+          "id": "0e6487bb-12af-51ac-a506-168046a80f89"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q70",
+          "content_markdown": "জিহ্বা থেকে যাদের অনুভূতি এগার করে কোন স্নায়ু?\n[উইক্স: ১১-১১]",
+          "structured_data": {
+            "question_number": "70",
+            "subtype": "mcq",
+            "stem": "জিহ্বা থেকে যাদের অনুভূতি এগার করে কোন স্নায়ু?\n[উইক্স: ১১-১১]",
+            "options": [],
+            "correct_answer": "-",
+            "solution_markdown": "-",
+            "tags_raw": "অকুলোমেটার স্নায়ু, গ্লোসোফেরিয়াল স্নায়ু",
+            "provenance": [
+              "অকুলোমেটার স্নায়ু",
+              "গ্লোসোফেরিয়াল স্নায়ু"
+            ]
+          },
+          "id": "4716c350-169d-58a2-bae3-2481a87f4108"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q71",
+          "content_markdown": "পূর্ণ সংবেদী স্নায়ু নয় কোনটি?\n[মডেলেক: ১৭-১৮]",
+          "structured_data": {
+            "question_number": "71",
+            "subtype": "mcq",
+            "stem": "পূর্ণ সংবেদী স্নায়ু নয় কোনটি?\n[মডেলেক: ১৭-১৮]",
+            "options": [],
+            "correct_answer": "-",
+            "solution_markdown": "-",
+            "tags_raw": "অলফাক্টরি স্নায়ু, ফেসিয়াল স্নায়ু, অভিটারি স্নায়ু, অপটিক স্নায়ু",
+            "provenance": [
+              "অলফাক্টরি স্নায়ু",
+              "ফেসিয়াল স্নায়ু",
+              "অভিটারি স্নায়ু",
+              "অপটিক স্নায়ু"
+            ]
+          },
+          "id": "4aa70728-ae49-55d1-bafa-3c65d7fe3797"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q72",
+          "content_markdown": "",
+          "structured_data": {
+            "question_number": "72",
+            "subtype": "mcq **stем:** মানুষের জিহ্বার সংকলন নিয়ন্ত্রণ করে কোন করোটিক স্নায়ু?  [মডেলেক: ১৭-১৮]",
+            "stem": "",
+            "options": [],
+            "correct_answer": "-",
+            "solution_markdown": "-",
+            "tags_raw": "অফিটিক স্নায়ু, আকুলোমেটার স্নায়ু",
+            "provenance": [
+              "অফিটিক স্নায়ু",
+              "আকুলোমেটার স্নায়ু"
+            ]
+          },
+          "id": "974dfabb-8fae-56b6-88ad-4014e694f930"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 25,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 194.25,
+        "eval_count": 3333
+      }
+    },
+    {
+      "page_number": 4,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "ঝি বিজ্ঞান ২য় পত্র\n\n85\n\nমানব শরীরতত্ত্ব ও সমধ্য ও নিম্নলিখিত।\n\n77. নিচের কোনটি দশম করোটিক স্থায়ী? (মেডিকেল: ০৯-১০)\n\n- a) গ্লোফারিয়াল\n- b) হাইপোগ্লোসাল\n- c) ট্রাইজেমিনাল\n- d) ডেগাস\n\n(মাধ্যম বেগম)\n\n78. নিচের কোন করোটিক স্থায়ী চোয়ালের সংখ্যাণে সাধ্য্য করে? (মেডিকেল: ০৯-০৮)\n\n- a) ট্রাইজেমিনাল\n- b) ফেসিয়াল\n- c) হাইপোগ্লোসাল\n- d) গ্লোফারিয়াল\n\n(মাধ্যম বেগম)\n\n79. নিচের কোন করোটিক স্থায়ী ছাপার সঙ্গে জড়িত? (মেডিকেল: ০৭-০৮)\n\n- a) আলফাক্ষট্রি\n- b) গ্লোফারিয়াল\n- c) হাইপোগ্লোসাল\n- d) ট্রাইজেমিনাল\n\n(মাধ্যম বেগম)\n\n80. কোন অত্থাতি ফেসিয়াল স্থায়ী জন্য সচিক্ষণ নয়? (মেডিকেল: ০৫-০৬)\n\n- a) কাজ: লালাক্ষরণ এবং অক্ষরণে সহায়তা করে\n- b) উৎস: মেদিলা অবলম্বণটা\n- c) বিক্রিয়া: মুখ্যতই কর্ণপাঠ ও নিদ্র চোয়াল\n- d) প্রক্রিয়া: চেষ্টা\n\n(মাধ্যম বেগম)\n\n81. নিচের কোনটি থাই সরবেদী করোটিক স্থায়ী? (মেডিকেল: ০৮-০৫)\n\n- a) অপটিক স্থায়ী\n- b) অলফ্যাক্টরি স্থায়ী\n- c) অকুলোমেটর স্থায়ী\n- d) অভিটির স্থায়ী\n\n(মাধ্যম বেগম)\n\n82. ঘটিয়া করোটিক স্থায়ী কৌনটি? (মেডিকেল: ০২-০৩)\n\n- a) ডেগাস\n- b) ট্রাইজেমিনাল\n- c) অপটিক\n- d) ফেসিয়াল\n\n(মাধ্যম বেগম)\n\n83. ডেগাস স্যাটি—\n\n- a) সেসারি\n- b) মোটর\n- c) মিশ্র\n- d) কোনোটি নয়\n\n(আশারাফ উদ্দৈন)\n\n84. মানুষের করোটিক স্থায়ী সংখ্যা কতটি? (দ. বোর্ড-২০১৬)\n\n- a) ১০টি\n- b) ১২টি\n- c) ২০টি\n- d) ২৪টি (অশারাফ উদ্দৈন)\n\n85. V নং করোটিক স্থায়ী নাম কী? (দ. বি-২০১৬)\n\n- a) ট্রাকলিয়ার\n- b) অভিটির\n- c) অভিটির\n- d) ট্রাইজেমিনাল\n\n(মাধ্যম বেগম)\n\n86. কোনটি ১০ম করোটিক স্থায়ী শাখা? (৭/ ব. বোর্ড-২০১৬)\n\n- a) প্যাটোইন\n- b) পালমোনারি\n- c) ম্যাঙ্কলারি\n- d) ম্যাঙ্কলারি\n\n(শাশারাফ উদ্দৈন)\n\n87. মানুষজীবন ময়লানি আবরণ গঠন করে কোনটি? (স. বি.-১৩-১৪)\n\n- a) আন্ট্রেসাইট\n- b) মাইকোগ্রিয়া\n- c) অলিগোডেক্সেসাইট\n- d) নিউরন\n\n(ঔপনায় উদ্দৈন)\n\n### Q77\n**Type:** mcq\n**Stem:** নিচের কোনটি দশম করোটিক স্থায়ী?\n**Options:** - a) গ্লোফারিয়াল  \n- b) হাইপোগ্লোসাল  \n- c) ট্রাইজেমিনাল  \n- d) ডেগাস\n**Answer:** ডেগাস\n**Solution:** ডেগাস হল দশম করোটিক স্থায়ী যা মানুষের চোখের প্রতিসরণ মাধ্যম নয়।\n**Tags:** মেডিকেল, ০৯-১০, মাধ্যম বেগম\n\n### Q78\n**Type:** mcq\n**Stem:** নিচের কোন করোটিক স্থায়ী চোয়ালের সংখ্যাণে সাধ্য্য করে?\n**Options:** - a) ট্রাইজেমিনাল  \n- b) ফেসিয়াল  \n- c) হাইপোগ্লোসাল  \n- d) গ্লোফারিয়াল\n**Answer:** ট্রাইজেমিনাল\n**Solution:** ট্রাইজেমিনাল হল চোয়ালের সংখ্যাণে সাধ্য্য করে যা মানুষের চোখের করোটিক স্থায়ী।\n**Tags:** মেডিকেল, ০৯-০৮, মাধ্যম বেগম\n\n### Q79\n**Type:** mcq\n**Stem:** নিচের কোন করোটিক স্থায়ী ছাপার সঙ্গে জড়িত?\n**Options:** - a) আলফাক্ষট্রি  \n- b) গ্লোফারিয়াল  \n- c) হাইপোগ্লোসাল  \n- d) ট্রাইজেমিনাল\n**Answer:** আলফাক্ষট্রি\n**Solution:** আলফাক্ষট্রি ছাপার সঙ্গে জড়িত হয় যা মানুষের চোখের করোটিক স্থায়ী।\n**Tags:** মেডিকেল, ০৭-০৮, মাধ্যম বেগম",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "ঝি বিজ্ঞান ২য় পত্র",
+          "structured_data": {},
+          "id": "2499af6e-e6fd-5aac-874d-1f72f9cefb67"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "85",
+          "structured_data": {},
+          "id": "8cfe411d-e779-5bf9-80f2-2530e7d79d63"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "মানব শরীরতত্ত্ব ও সমধ্য ও নিম্নলিখিত।",
+          "structured_data": {},
+          "id": "564846f8-5b0e-5d83-bdb1-5123a650fbe0"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "77. নিচের কোনটি দশম করোটিক স্থায়ী? (মেডিকেল: ০৯-১০)",
+          "structured_data": {},
+          "id": "8572f2cc-c78f-5f4e-accb-31b5d7ffc9fa"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "- a) গ্লোফারিয়াল\n- b) হাইপোগ্লোসাল\n- c) ট্রাইজেমিনাল\n- d) ডেগাস",
+          "structured_data": {},
+          "id": "0a966007-7dd2-54fc-a967-9d64766f1638"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "(মাধ্যম বেগম)",
+          "structured_data": {},
+          "id": "4d7e11e4-1dd5-59f1-9538-113d1b0905ac"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "78. নিচের কোন করোটিক স্থায়ী চোয়ালের সংখ্যাণে সাধ্য্য করে? (মেডিকেল: ০৯-০৮)",
+          "structured_data": {},
+          "id": "8a77c915-d522-5bae-9e8c-2e6ee07b20f5"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "- a) ট্রাইজেমিনাল\n- b) ফেসিয়াল\n- c) হাইপোগ্লোসাল\n- d) গ্লোফারিয়াল",
+          "structured_data": {},
+          "id": "46e2b8c0-c703-5520-9ff9-7e314ff7aa04"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "(মাধ্যম বেগম)",
+          "structured_data": {},
+          "id": "59fa36cd-8152-5c18-82c8-1a8d4f1d32b8"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "79. নিচের কোন করোটিক স্থায়ী ছাপার সঙ্গে জড়িত? (মেডিকেল: ০৭-০৮)",
+          "structured_data": {},
+          "id": "edd3dac0-31cd-5a29-b5bd-9c5567f5fbd9"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "- a) আলফাক্ষট্রি\n- b) গ্লোফারিয়াল\n- c) হাইপোগ্লোসাল\n- d) ট্রাইজেমিনাল",
+          "structured_data": {},
+          "id": "2db6e0f1-c0ec-5869-8cf8-924a104df224"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "(মাধ্যম বেগম)",
+          "structured_data": {},
+          "id": "ce85c106-15ee-5fea-921e-d9a016263213"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "80. কোন অত্থাতি ফেসিয়াল স্থায়ী জন্য সচিক্ষণ নয়? (মেডিকেল: ০৫-০৬)",
+          "structured_data": {},
+          "id": "f3fb0e85-2785-50f0-892b-afc252056d57"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "- a) কাজ: লালাক্ষরণ এবং অক্ষরণে সহায়তা করে\n- b) উৎস: মেদিলা অবলম্বণটা\n- c) বিক্রিয়া: মুখ্যতই কর্ণপাঠ ও নিদ্র চোয়াল\n- d) প্রক্রিয়া: চেষ্টা",
+          "structured_data": {},
+          "id": "2998c616-d4b2-5fe5-b23a-234269013ee2"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "(মাধ্যম বেগম)",
+          "structured_data": {},
+          "id": "f223556f-3537-5432-87ae-16ea849634ce"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "81. নিচের কোনটি থাই সরবেদী করোটিক স্থায়ী? (মেডিকেল: ০৮-০৫)",
+          "structured_data": {},
+          "id": "34b05394-77e6-5334-a4fc-2b7a6d91cc18"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "- a) অপটিক স্থায়ী\n- b) অলফ্যাক্টরি স্থায়ী\n- c) অকুলোমেটর স্থায়ী\n- d) অভিটির স্থায়ী",
+          "structured_data": {},
+          "id": "96a98117-2671-58f5-91b6-fb3321a37c9c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "(মাধ্যম বেগম)",
+          "structured_data": {},
+          "id": "0b3a4712-c9b0-5183-bfbc-c04bfb4f416b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "82. ঘটিয়া করোটিক স্থায়ী কৌনটি? (মেডিকেল: ০২-০৩)",
+          "structured_data": {},
+          "id": "7c83d1f6-492d-5b0f-a060-2f669438180b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "- a) ডেগাস\n- b) ট্রাইজেমিনাল\n- c) অপটিক\n- d) ফেসিয়াল",
+          "structured_data": {},
+          "id": "74729a3b-f4ce-5a7e-9c5f-dbb20b325edc"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "(মাধ্যম বেগম)",
+          "structured_data": {},
+          "id": "72849d77-dc70-5ef0-8d85-535dbb6700ff"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "83. ডেগাস স্যাটি—",
+          "structured_data": {},
+          "id": "220adcf9-7cab-5f11-b453-1632915be358"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "- a) সেসারি\n- b) মোটর\n- c) মিশ্র\n- d) কোনোটি নয়",
+          "structured_data": {},
+          "id": "d5b9b9e8-b048-5e73-bf2a-6feb4371d273"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "(আশারাফ উদ্দৈন)",
+          "structured_data": {},
+          "id": "f65d7468-237a-5217-9366-417f9be1fd66"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "84. মানুষের করোটিক স্থায়ী সংখ্যা কতটি? (দ. বোর্ড-২০১৬)",
+          "structured_data": {},
+          "id": "3a274193-0dd1-5cba-9b24-95ecdaa2a711"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "- a) ১০টি\n- b) ১২টি\n- c) ২০টি\n- d) ২৪টি (অশারাফ উদ্দৈন)",
+          "structured_data": {},
+          "id": "53a3d7f8-7cad-50ff-bb7d-30e6bce70b75"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "85. V নং করোটিক স্থায়ী নাম কী? (দ. বি-২০১৬)",
+          "structured_data": {},
+          "id": "5de957dd-55c7-55ce-91cb-2a785a8afb78"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "- a) ট্রাকলিয়ার\n- b) অভিটির\n- c) অভিটির\n- d) ট্রাইজেমিনাল",
+          "structured_data": {},
+          "id": "e69e2a11-844e-52f3-b284-71c42185180c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "(মাধ্যম বেগম)",
+          "structured_data": {},
+          "id": "05da5c59-4c8b-5649-b441-6d37b52006e5"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "86. কোনটি ১০ম করোটিক স্থায়ী শাখা? (৭/ ব. বোর্ড-২০১৬)",
+          "structured_data": {},
+          "id": "fb1c4284-d534-5ffe-ae7c-7f64b93a4098"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "- a) প্যাটোইন\n- b) পালমোনারি\n- c) ম্যাঙ্কলারি\n- d) ম্যাঙ্কলারি",
+          "structured_data": {},
+          "id": "516fd979-fc87-5e0a-8cfd-67ae7a4589ba"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "(শাশারাফ উদ্দৈন)",
+          "structured_data": {},
+          "id": "0f47fd14-8688-5a40-b927-b6826add545b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "87. মানুষজীবন ময়লানি আবরণ গঠন করে কোনটি? (স. বি.-১৩-১৪)",
+          "structured_data": {},
+          "id": "2689befe-5ae6-5a71-918e-b585cf1719d2"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "- a) আন্ট্রেসাইট\n- b) মাইকোগ্রিয়া\n- c) অলিগোডেক্সেসাইট\n- d) নিউরন",
+          "structured_data": {},
+          "id": "ba62cffd-95a3-58d6-b8df-4cb6a5452534"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "(ঔপনায় উদ্দৈন)",
+          "structured_data": {},
+          "id": "bdf778d6-90a2-5229-9ec0-02eb005ea18d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q77",
+          "content_markdown": "নিচের কোনটি দশম করোটিক স্থায়ী?",
+          "structured_data": {
+            "question_number": "77",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটি দশম করোটিক স্থায়ী?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গ্লোফারিয়াল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "হাইপোগ্লোসাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ট্রাইজেমিনাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ডেগাস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "ডেগাস",
+            "solution_markdown": "ডেগাস হল দশম করোটিক স্থায়ী যা মানুষের চোখের প্রতিসরণ মাধ্যম নয়।",
+            "tags_raw": "মেডিকেল, ০৯-১০, মাধ্যম বেগম",
+            "provenance": [
+              "মেডিকেল",
+              "০৯-১০",
+              "মাধ্যম বেগম"
+            ]
+          },
+          "id": "f72fcb8e-7b6e-52a7-a310-6827311077e7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q78",
+          "content_markdown": "নিচের কোন করোটিক স্থায়ী চোয়ালের সংখ্যাণে সাধ্য্য করে?",
+          "structured_data": {
+            "question_number": "78",
+            "subtype": "mcq",
+            "stem": "নিচের কোন করোটিক স্থায়ী চোয়ালের সংখ্যাণে সাধ্য্য করে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ট্রাইজেমিনাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ফেসিয়াল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "হাইপোগ্লোসাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "গ্লোফারিয়াল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "ট্রাইজেমিনাল",
+            "solution_markdown": "ট্রাইজেমিনাল হল চোয়ালের সংখ্যাণে সাধ্য্য করে যা মানুষের চোখের করোটিক স্থায়ী।",
+            "tags_raw": "মেডিকেল, ০৯-০৮, মাধ্যম বেগম",
+            "provenance": [
+              "মেডিকেল",
+              "০৯-০৮",
+              "মাধ্যম বেগম"
+            ]
+          },
+          "id": "e96e505e-083a-5ca8-9ef7-165c68f166db"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q79",
+          "content_markdown": "নিচের কোন করোটিক স্থায়ী ছাপার সঙ্গে জড়িত?",
+          "structured_data": {
+            "question_number": "79",
+            "subtype": "mcq",
+            "stem": "নিচের কোন করোটিক স্থায়ী ছাপার সঙ্গে জড়িত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আলফাক্ষট্রি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "গ্লোফারিয়াল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "হাইপোগ্লোসাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ট্রাইজেমিনাল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "আলফাক্ষট্রি",
+            "solution_markdown": "আলফাক্ষট্রি ছাপার সঙ্গে জড়িত হয় যা মানুষের চোখের করোটিক স্থায়ী।",
+            "tags_raw": "মেডিকেল, ০৭-০৮, মাধ্যম বেগম",
+            "provenance": [
+              "মেডিকেল",
+              "০৭-০৮",
+              "মাধ্যম বেগম"
+            ]
+          },
+          "id": "14f4fa49-f543-5b61-ac45-1bdce8d94552"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 38,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 65.65,
+        "eval_count": 2469
+      }
+    },
+    {
+      "page_number": 5,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### গোটা পাতা\n\n#### মানব শারীরতত্ত্ব । সময় ও নির্দেশনা\n\n| প্রশ্ন | উত্তর |\n| --- | --- |\n| 107. পিউলিয়ার অবস্থান কোণায়? (ছড়িকে ১৪-১৫) | - a) আইরিশের মধ্যবর্তী ছানে - b) আইরিশের পচাতে - c) কোয়েয়েডের নিচে - d) সাসগুলির লিগামেন্ট |\n| 108. সেদানির রঙকে রাখিত ডর নিচের কোণটি? (ছড়িকে ১০-১১) | - a) ফোয়েয়েড - b) সিলিয়ারি বড়ি - c) ক্রেরা |\n| 109. নিচের কোনটি সঠিক নয়? (ছড়িকে ১০-১১) | - a) অনিষ্ট জাতীয় খাদ্য বিপাকের ফলে নাইট্রোজেন নিষ্কৃত হয় - b) ডিয়াফায় থেকে কোরিয়নিক গোনাডোট্রিসিন নিষ্কৃত হয় - c) আমানিলো এসিড আমিষের ঘন্টামূলক একক - d) চৌম্বকের অন্য প্রকোষ্ঠ আকৃত্যাস হিউমার দিয়ে পূর্ণ ঢাকে |\n| 110. নিচের কোনটি চৌম্বকের কোয়েয়েড এর অংশ নয়? (ছড়িকে ০৮-০৯) | - a) রেটিনা - b) আইরিশ - c) পিউলিয়ার সিলিয়ারি বড়ি |\n| 111. নিচে উল্লেখিত চৌম্বকের কোন অংশ কর্তৃক প্রতিবিধ সৃষ্টি করে? (ছড়িকে ০৯-০৮) | - a) কর্ণিয়া - b) পিউলিয়াল - c) রেটিনা - d) লেল |\n| 112. কোন উত্তীর্ণ সত্য নয়? (ছড়িকে ০৬-০৭) | - a) তরলপাত্রিতে অবহিত ল্যাঙ্কান্ডোলো তরলে পূর্ণ ঢাকে - b) রেটিনার রত কোওয়ালো উচ্চতা অলোক সংবেদী - c) হাইড্রার নেমাটেনিস্টার মধ্যে টিনোটিল বৃহৎ মূল্য - d) অলিন্ডের ডায়াস্টেল এবং লিনিয়ের পিস্টোলের সময় ট্রাইকাসপিড এবং বাইকাসপিড কাপাটিকা বন্ধ থাকে |\n| 113. কোনটি অক্ষেপি নয়? (ছড়িকে ০৮-০৬) | - a) এক্সটার্নাল অবলিক - b) এক্সটার্নাল রেস্টাস - c) সুপারিয়র রেক্টাস - d) সুপারিয়র অবলিক |\n| 114. রেটিনার ধন্যবাদের কোন দিকে দেখে গতি গঠিত? | - a) দুই - b) তিন - c) চার - d) পাঁচ |\n| 115. রত্নোত্তলো কী ধন্যবাদের প্রোটিন গঠিত? | - a) অ্যোপসিন - b) ট্রানিন - c) রোডপাসিন - d) স্ক্রোটিন |\n| 116. নিকটটৈট পাদা কি রঙের? | - a) কল্লে - b) লালচে - c) সাদাটে - d) নীলচে |\n| 117. ইনফারিয়ার রেক্সার অক্ষিগোলকে কোন দিকে দ্রুততে সাহায্য করে? | - a) উত্তরের দিকে - b) উপরের দিকে - c) নিচের দিকে - d) বাইরের দিকে |\n| 118. মানুষের চৌম্বকের রত কোওয়ালোতে কোন তিমিলের উপস্থিতি পাওয়া যায়? | - a) বিটিমিন-এ - b) বিটিমিন-এ - c) বিটিমিন-ডি - d) বিটিমিন-কে |\n| 119. চৌম্বকের বিভিন্ন অংশে পৃথি যোগাযোগ কোনটি? (ছ. ি-১৮-১৬) | - a) রেটিনা - b) কর্ণিয়া - c) কর্ণিয়া - d) কোয়েয়েড |\n| 120. চৌম্বকের লেলে পরিমিত আলো প্রেরণ নিয়ন্ত্রণ করে- (ছ. ি-৩৪-৩১) | - a) কর্ণিয়া - b) আইরিশ - c) রেটিনা - d) সিলিয়ারি বড়ি |\n| 121. রেটিনার কোন ধন্যবাদের কোয়ালো থেকে অপটিক স্ল্যাব তৈরি হয়।(ছ. ি-৩০-১৪) | - a) রত্নকোষ - b) কোনকোষ - c) গ্যাপ্টিন্ট কোষ - d) বাইপোলার নিউরন |\n| 122. রেটিনার কব্রী কি ধন্যবাদের প্রতিবিধ গঠিত হয়? | - a) উত্তা - b) দোজা - c) বীকা - d) তির্যক |\n\n### অনুশীলনী প্রশ্ন\n\n#### chase your dream to be a doctor...",
+      "blocks": [
+        {
+          "block_type": "table",
+          "title": "মানব শারীরতত্ত্ব । সময় ও নির্দেশনা",
+          "content_markdown": "| প্রশ্ন | উত্তর |\n| --- | --- |\n| 107. পিউলিয়ার অবস্থান কোণায়? (ছড়িকে ১৪-১৫) | - a) আইরিশের মধ্যবর্তী ছানে - b) আইরিশের পচাতে - c) কোয়েয়েডের নিচে - d) সাসগুলির লিগামেন্ট |\n| 108. সেদানির রঙকে রাখিত ডর নিচের কোণটি? (ছড়িকে ১০-১১) | - a) ফোয়েয়েড - b) সিলিয়ারি বড়ি - c) ক্রেরা |\n| 109. নিচের কোনটি সঠিক নয়? (ছড়িকে ১০-১১) | - a) অনিষ্ট জাতীয় খাদ্য বিপাকের ফলে নাইট্রোজেন নিষ্কৃত হয় - b) ডিয়াফায় থেকে কোরিয়নিক গোনাডোট্রিসিন নিষ্কৃত হয় - c) আমানিলো এসিড আমিষের ঘন্টামূলক একক - d) চৌম্বকের অন্য প্রকোষ্ঠ আকৃত্যাস হিউমার দিয়ে পূর্ণ ঢাকে |\n| 110. নিচের কোনটি চৌম্বকের কোয়েয়েড এর অংশ নয়? (ছড়িকে ০৮-০৯) | - a) রেটিনা - b) আইরিশ - c) পিউলিয়ার সিলিয়ারি বড়ি |\n| 111. নিচে উল্লেখিত চৌম্বকের কোন অংশ কর্তৃক প্রতিবিধ সৃষ্টি করে? (ছড়িকে ০৯-০৮) | - a) কর্ণিয়া - b) পিউলিয়াল - c) রেটিনা - d) লেল |\n| 112. কোন উত্তীর্ণ সত্য নয়? (ছড়িকে ০৬-০৭) | - a) তরলপাত্রিতে অবহিত ল্যাঙ্কান্ডোলো তরলে পূর্ণ ঢাকে - b) রেটিনার রত কোওয়ালো উচ্চতা অলোক সংবেদী - c) হাইড্রার নেমাটেনিস্টার মধ্যে টিনোটিল বৃহৎ মূল্য - d) অলিন্ডের ডায়াস্টেল এবং লিনিয়ের পিস্টোলের সময় ট্রাইকাসপিড এবং বাইকাসপিড কাপাটিকা বন্ধ থাকে |\n| 113. কোনটি অক্ষেপি নয়? (ছড়িকে ০৮-০৬) | - a) এক্সটার্নাল অবলিক - b) এক্সটার্নাল রেস্টাস - c) সুপারিয়র রেক্টাস - d) সুপারিয়র অবলিক |\n| 114. রেটিনার ধন্যবাদের কোন দিকে দেখে গতি গঠিত? | - a) দুই - b) তিন - c) চার - d) পাঁচ |\n| 115. রত্নোত্তলো কী ধন্যবাদের প্রোটিন গঠিত? | - a) অ্যোপসিন - b) ট্রানিন - c) রোডপাসিন - d) স্ক্রোটিন |\n| 116. নিকটটৈট পাদা কি রঙের? | - a) কল্লে - b) লালচে - c) সাদাটে - d) নীলচে |\n| 117. ইনফারিয়ার রেক্সার অক্ষিগোলকে কোন দিকে দ্রুততে সাহায্য করে? | - a) উত্তরের দিকে - b) উপরের দিকে - c) নিচের দিকে - d) বাইরের দিকে |\n| 118. মানুষের চৌম্বকের রত কোওয়ালোতে কোন তিমিলের উপস্থিতি পাওয়া যায়? | - a) বিটিমিন-এ - b) বিটিমিন-এ - c) বিটিমিন-ডি - d) বিটিমিন-কে |\n| 119. চৌম্বকের বিভিন্ন অংশে পৃথি যোগাযোগ কোনটি? (ছ. ি-১৮-১৬) | - a) রেটিনা - b) কর্ণিয়া - c) কর্ণিয়া - d) কোয়েয়েড |\n| 120. চৌম্বকের লেলে পরিমিত আলো প্রেরণ নিয়ন্ত্রণ করে- (ছ. ি-৩৪-৩১) | - a) কর্ণিয়া - b) আইরিশ - c) রেটিনা - d) সিলিয়ারি বড়ি |\n| 121. রেটিনার কোন ধন্যবাদের কোয়ালো থেকে অপটিক স্ল্যাব তৈরি হয়।(ছ. ি-৩০-১৪) | - a) রত্নকোষ - b) কোনকোষ - c) গ্যাপ্টিন্ট কোষ - d) বাইপোলার নিউরন |\n| 122. রেটিনার কব্রী কি ধন্যবাদের প্রতিবিধ গঠিত হয়? | - a) উত্তা - b) দোজা - c) বীকা - d) তির্যক |",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "উত্তর"
+            ],
+            "rows": [
+              [
+                "107. পিউলিয়ার অবস্থান কোণায়? (ছড়িকে ১৪-১৫)",
+                "- a) আইরিশের মধ্যবর্তী ছানে - b) আইরিশের পচাতে - c) কোয়েয়েডের নিচে - d) সাসগুলির লিগামেন্ট"
+              ],
+              [
+                "108. সেদানির রঙকে রাখিত ডর নিচের কোণটি? (ছড়িকে ১০-১১)",
+                "- a) ফোয়েয়েড - b) সিলিয়ারি বড়ি - c) ক্রেরা"
+              ],
+              [
+                "109. নিচের কোনটি সঠিক নয়? (ছড়িকে ১০-১১)",
+                "- a) অনিষ্ট জাতীয় খাদ্য বিপাকের ফলে নাইট্রোজেন নিষ্কৃত হয় - b) ডিয়াফায় থেকে কোরিয়নিক গোনাডোট্রিসিন নিষ্কৃত হয় - c) আমানিলো এসিড আমিষের ঘন্টামূলক একক - d) চৌম্বকের অন্য প্রকোষ্ঠ আকৃত্যাস হিউমার দিয়ে পূর্ণ ঢাকে"
+              ],
+              [
+                "110. নিচের কোনটি চৌম্বকের কোয়েয়েড এর অংশ নয়? (ছড়িকে ০৮-০৯)",
+                "- a) রেটিনা - b) আইরিশ - c) পিউলিয়ার সিলিয়ারি বড়ি"
+              ],
+              [
+                "111. নিচে উল্লেখিত চৌম্বকের কোন অংশ কর্তৃক প্রতিবিধ সৃষ্টি করে? (ছড়িকে ০৯-০৮)",
+                "- a) কর্ণিয়া - b) পিউলিয়াল - c) রেটিনা - d) লেল"
+              ],
+              [
+                "112. কোন উত্তীর্ণ সত্য নয়? (ছড়িকে ০৬-০৭)",
+                "- a) তরলপাত্রিতে অবহিত ল্যাঙ্কান্ডোলো তরলে পূর্ণ ঢাকে - b) রেটিনার রত কোওয়ালো উচ্চতা অলোক সংবেদী - c) হাইড্রার নেমাটেনিস্টার মধ্যে টিনোটিল বৃহৎ মূল্য - d) অলিন্ডের ডায়াস্টেল এবং লিনিয়ের পিস্টোলের সময় ট্রাইকাসপিড এবং বাইকাসপিড কাপাটিকা বন্ধ থাকে"
+              ],
+              [
+                "113. কোনটি অক্ষেপি নয়? (ছড়িকে ০৮-০৬)",
+                "- a) এক্সটার্নাল অবলিক - b) এক্সটার্নাল রেস্টাস - c) সুপারিয়র রেক্টাস - d) সুপারিয়র অবলিক"
+              ],
+              [
+                "114. রেটিনার ধন্যবাদের কোন দিকে দেখে গতি গঠিত?",
+                "- a) দুই - b) তিন - c) চার - d) পাঁচ"
+              ],
+              [
+                "115. রত্নোত্তলো কী ধন্যবাদের প্রোটিন গঠিত?",
+                "- a) অ্যোপসিন - b) ট্রানিন - c) রোডপাসিন - d) স্ক্রোটিন"
+              ],
+              [
+                "116. নিকটটৈট পাদা কি রঙের?",
+                "- a) কল্লে - b) লালচে - c) সাদাটে - d) নীলচে"
+              ],
+              [
+                "117. ইনফারিয়ার রেক্সার অক্ষিগোলকে কোন দিকে দ্রুততে সাহায্য করে?",
+                "- a) উত্তরের দিকে - b) উপরের দিকে - c) নিচের দিকে - d) বাইরের দিকে"
+              ],
+              [
+                "118. মানুষের চৌম্বকের রত কোওয়ালোতে কোন তিমিলের উপস্থিতি পাওয়া যায়?",
+                "- a) বিটিমিন-এ - b) বিটিমিন-এ - c) বিটিমিন-ডি - d) বিটিমিন-কে"
+              ],
+              [
+                "119. চৌম্বকের বিভিন্ন অংশে পৃথি যোগাযোগ কোনটি? (ছ. ি-১৮-১৬)",
+                "- a) রেটিনা - b) কর্ণিয়া - c) কর্ণিয়া - d) কোয়েয়েড"
+              ],
+              [
+                "120. চৌম্বকের লেলে পরিমিত আলো প্রেরণ নিয়ন্ত্রণ করে- (ছ. ি-৩৪-৩১)",
+                "- a) কর্ণিয়া - b) আইরিশ - c) রেটিনা - d) সিলিয়ারি বড়ি"
+              ],
+              [
+                "121. রেটিনার কোন ধন্যবাদের কোয়ালো থেকে অপটিক স্ল্যাব তৈরি হয়।(ছ. ি-৩০-১৪)",
+                "- a) রত্নকোষ - b) কোনকোষ - c) গ্যাপ্টিন্ট কোষ - d) বাইপোলার নিউরন"
+              ],
+              [
+                "122. রেটিনার কব্রী কি ধন্যবাদের প্রতিবিধ গঠিত হয়?",
+                "- a) উত্তা - b) দোজা - c) বীকা - d) তির্যক"
+              ]
+            ]
+          },
+          "id": "e919b3cd-3731-587f-9578-36d709037b93"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 1,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc4",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 129.58,
+        "eval_count": 2366
+      }
+    },
+    {
+      "page_number": 6,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "ঝোড়া\n\n### Q138\n**Type:** mcq\n**Stem:** নিচের কৌণি সত্যিক নয়? {চিহ্নিক্ষে 05-06}\n**Options:** \n- a) কনজাইটিভ ঢোলাবালি থেকে রক্ষা করে\n- b) করিমা ও আইসারের মধ্যাঠী সম্মূখ প্রকোষ্ঠ আয়ুকাশে গুরুত্ব দাখে\n- c) অতিউর স্নায়ু চেয়ার্য\n- d) করোনিক স্নায়ু 12 জোড়া\n**Answer:** -a-\n**Solution:** এটি একটি সত্যিক নয়। কনজাইটিভ ঢোলাবালি থেকে রক্ষা করে না; এটি একটি স্নায়ু যা করোনিক স্নায়ুগুলির সাথে সম্পর্কিত।\n**Tags:** জীববিজ্ঞান 2য় পত্র, মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ\n\n### Q139\n**Type:** mcq\n**Stem:** মানবদেহের ডারসামায় নিচের কৌণি রক্ষা করে? {চিহ্নিক্ষে 17-18}\n**Options:** \n- a) বহিঃপর্ণ\n- b) অন্তঃকর্ণ\n- c) মধ্যকর্ণ\n- d) নাসাগালবিল\n**Answer:** -b-\n**Solution:** অন্তঃকর্ণ মানবদেহের ডারসামায় একটি গুরুত্বপূর্ণ কৌণি যা রক্ষা করে।\n**Tags:** জীববিজ্ঞান 2য় পত্র, মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ\n\n### Q140\n**Type:** mcq\n**Stem:** নিচের কৌণি বহিঃপর্ণ থাকে?\n**Options:** \n- a) ককিলিয়া\n- b) স্টেপিস\n- c) পিনা\n- d) ইনকাস\n**Answer:** -c-\n**Solution:** পিনা একটি বহিঃপর্ণ কৌণি যা মানবদেহে বিদ্যমান।\n**Tags:** জীববিজ্ঞান 2য় পত্র, মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ\n\n### Q141\n**Type:** mcq\n**Stem:** নিচের কৌণি সত্যিক নয়? {চিহ্নিক্ষে 08-09}\n**Options:** \n- a) ভেটিস্টুলার স্নায়ু মানুষকে শ্বশুর সাহায্য করে\n- b) অন্তঃপুর রস রক্ষা বাহিত করে\n- c) গ্লুকোটরিক্যয়ে হরমোন অ্যাড্রেনাল কর্টেক্স থেকে নিষ্কৃত হয়\n- d) রেডিয়াস এবং আলানন সন্ধি একটি সাইনোবিয়াল সর্দি মিছোনা ঘেমে\n**Answer:** -d-\n**Solution:** রেডিয়াস এবং আলানন সন্ধি একটি সাইনোবিয়াল সর্দি মিছোনা ঘেমে নয়।\n**Tags:** জীববিজ্ঞান 2য় পত্র, মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ\n\n### Q142\n**Type:** mcq\n**Stem:** নিচের কৌণি শরীরের ভারসাম্য রক্ষা করে?\n**Options:** \n- a) অর্গান অব কর্টি\n- b) ভেটিস্টুলার স্নায়ু\n- c) ককিলিয়া\n- d) ইনকাস\n**Answer:** -a-\n**Solution:** অর্গান অব কর্টি শরীরের ভারসাম্য রক্ষা করে।\n**Tags:** জীববিজ্ঞান 2য় পত্র, মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ\n\n### Q143\n**Type:** mcq\n**Stem:** কৌণি মন্ত্রের কাজের কৃত্রিম কাজ?\n**Options:** \n- a) শৈল তরঙ্গ প্রেরণ করা\n- b) ভারসাম্য রক্ষা করা\n- c) ব্যায়ামের সম্মূখ রক্ষা করা\n- d) ভারসাম্য নিয়ন্ত্রণ করা\n**Answer:** -d-\n**Solution:** কৌণি মন্ত্রের কাজের কৃত্রিম কাজ হল ভারসাম্য নিয়ন্ত্রণ করা।\n**Tags:** জীববিজ্ঞান 2য় পত্র, মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ\n\n### Q144\n**Type:** mcq\n**Stem:** কৌণি স্টেপিস, অন্তঃকর্ণ ও মধ্যকর্ণ প্রত্যেকে যে পদার্থ সঙ্গে যুক্ত থাকে সেটি হলো—{চিহ্নিক্ষে: 00-01}\n**Options:** \n- a) কর্পটাইথ\n- b) আমু\n- c) ফ্যানেস্ট্রা রোটান্ডা\n- d) ফ্যানেস্ট্রা ওভালিস\n**Answer:** -c-\n**Solution:** কৌণি স্টেপিস, অন্তঃকর্ণ ও মধ্যকর্ণ প্রত্যেকে ফ্যানেস্ট্রা রোটান্ডা সঙ্গে যুক্ত থাকে।\n**Tags:** জীববিজ্ঞান 2য় পত্র, মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "ঝোড়া",
+          "structured_data": {},
+          "id": "3116400b-7d52-590b-8f58-9b3b84d47e4c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q138",
+          "content_markdown": "নিচের কৌণি সত্যিক নয়? {চিহ্নিক্ষে 05-06}",
+          "structured_data": {
+            "question_number": "138",
+            "subtype": "mcq",
+            "stem": "নিচের কৌণি সত্যিক নয়? {চিহ্নিক্ষে 05-06}",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কনজাইটিভ ঢোলাবালি থেকে রক্ষা করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "করিমা ও আইসারের মধ্যাঠী সম্মূখ প্রকোষ্ঠ আয়ুকাশে গুরুত্ব দাখে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অতিউর স্নায়ু চেয়ার্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "করোনিক স্নায়ু 12 জোড়া",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a-",
+            "solution_markdown": "এটি একটি সত্যিক নয়। কনজাইটিভ ঢোলাবালি থেকে রক্ষা করে না; এটি একটি স্নায়ু যা করোনিক স্নায়ুগুলির সাথে সম্পর্কিত।",
+            "tags_raw": "জীববিজ্ঞান 2য় পত্র, মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ",
+            "provenance": [
+              "জীববিজ্ঞান 2য় পত্র",
+              "মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ"
+            ]
+          },
+          "id": "08540419-8dbd-5a05-8c69-97583258acdd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q139",
+          "content_markdown": "মানবদেহের ডারসামায় নিচের কৌণি রক্ষা করে? {চিহ্নিক্ষে 17-18}",
+          "structured_data": {
+            "question_number": "139",
+            "subtype": "mcq",
+            "stem": "মানবদেহের ডারসামায় নিচের কৌণি রক্ষা করে? {চিহ্নিক্ষে 17-18}",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বহিঃপর্ণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অন্তঃকর্ণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "মধ্যকর্ণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "নাসাগালবিল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b-",
+            "solution_markdown": "অন্তঃকর্ণ মানবদেহের ডারসামায় একটি গুরুত্বপূর্ণ কৌণি যা রক্ষা করে।",
+            "tags_raw": "জীববিজ্ঞান 2য় পত্র, মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ",
+            "provenance": [
+              "জীববিজ্ঞান 2য় পত্র",
+              "মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ"
+            ]
+          },
+          "id": "1b37c3ba-e696-5b96-8f54-e410a4cceb12"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q140",
+          "content_markdown": "নিচের কৌণি বহিঃপর্ণ থাকে?",
+          "structured_data": {
+            "question_number": "140",
+            "subtype": "mcq",
+            "stem": "নিচের কৌণি বহিঃপর্ণ থাকে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ককিলিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "স্টেপিস",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পিনা",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ইনকাস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c-",
+            "solution_markdown": "পিনা একটি বহিঃপর্ণ কৌণি যা মানবদেহে বিদ্যমান।",
+            "tags_raw": "জীববিজ্ঞান 2য় পত্র, মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ",
+            "provenance": [
+              "জীববিজ্ঞান 2য় পত্র",
+              "মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ"
+            ]
+          },
+          "id": "ef20d183-6a08-50c2-9b14-9fba22d8abdb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q141",
+          "content_markdown": "নিচের কৌণি সত্যিক নয়? {চিহ্নিক্ষে 08-09}",
+          "structured_data": {
+            "question_number": "141",
+            "subtype": "mcq",
+            "stem": "নিচের কৌণি সত্যিক নয়? {চিহ্নিক্ষে 08-09}",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ভেটিস্টুলার স্নায়ু মানুষকে শ্বশুর সাহায্য করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অন্তঃপুর রস রক্ষা বাহিত করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গ্লুকোটরিক্যয়ে হরমোন অ্যাড্রেনাল কর্টেক্স থেকে নিষ্কৃত হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "রেডিয়াস এবং আলানন সন্ধি একটি সাইনোবিয়াল সর্দি মিছোনা ঘেমে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d-",
+            "solution_markdown": "রেডিয়াস এবং আলানন সন্ধি একটি সাইনোবিয়াল সর্দি মিছোনা ঘেমে নয়।",
+            "tags_raw": "জীববিজ্ঞান 2য় পত্র, মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ",
+            "provenance": [
+              "জীববিজ্ঞান 2য় পত্র",
+              "মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ"
+            ]
+          },
+          "id": "8f5c64e9-aa3f-5187-9dfe-3ec6099732da"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q142",
+          "content_markdown": "নিচের কৌণি শরীরের ভারসাম্য রক্ষা করে?",
+          "structured_data": {
+            "question_number": "142",
+            "subtype": "mcq",
+            "stem": "নিচের কৌণি শরীরের ভারসাম্য রক্ষা করে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অর্গান অব কর্টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ভেটিস্টুলার স্নায়ু",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ককিলিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ইনকাস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a-",
+            "solution_markdown": "অর্গান অব কর্টি শরীরের ভারসাম্য রক্ষা করে।",
+            "tags_raw": "জীববিজ্ঞান 2য় পত্র, মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ",
+            "provenance": [
+              "জীববিজ্ঞান 2য় পত্র",
+              "মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ"
+            ]
+          },
+          "id": "014ac13e-3bdd-5a4e-9fb0-88e76a9ba11d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q143",
+          "content_markdown": "কৌণি মন্ত্রের কাজের কৃত্রিম কাজ?",
+          "structured_data": {
+            "question_number": "143",
+            "subtype": "mcq",
+            "stem": "কৌণি মন্ত্রের কাজের কৃত্রিম কাজ?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "শৈল তরঙ্গ প্রেরণ করা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ভারসাম্য রক্ষা করা",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ব্যায়ামের সম্মূখ রক্ষা করা",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ভারসাম্য নিয়ন্ত্রণ করা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d-",
+            "solution_markdown": "কৌণি মন্ত্রের কাজের কৃত্রিম কাজ হল ভারসাম্য নিয়ন্ত্রণ করা।",
+            "tags_raw": "জীববিজ্ঞান 2য় পত্র, মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ",
+            "provenance": [
+              "জীববিজ্ঞান 2য় পত্র",
+              "মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ"
+            ]
+          },
+          "id": "8daffccf-2d8f-5ed0-af59-ce87910f6625"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q144",
+          "content_markdown": "কৌণি স্টেপিস, অন্তঃকর্ণ ও মধ্যকর্ণ প্রত্যেকে যে পদার্থ সঙ্গে যুক্ত থাকে সেটি হলো—{চিহ্নিক্ষে: 00-01}",
+          "structured_data": {
+            "question_number": "144",
+            "subtype": "mcq",
+            "stem": "কৌণি স্টেপিস, অন্তঃকর্ণ ও মধ্যকর্ণ প্রত্যেকে যে পদার্থ সঙ্গে যুক্ত থাকে সেটি হলো—{চিহ্নিক্ষে: 00-01}",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কর্পটাইথ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "আমু",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ফ্যানেস্ট্রা রোটান্ডা",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ফ্যানেস্ট্রা ওভালিস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c-",
+            "solution_markdown": "কৌণি স্টেপিস, অন্তঃকর্ণ ও মধ্যকর্ণ প্রত্যেকে ফ্যানেস্ট্রা রোটান্ডা সঙ্গে যুক্ত থাকে।",
+            "tags_raw": "জীববিজ্ঞান 2য় পত্র, মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ",
+            "provenance": [
+              "জীববিজ্ঞান 2য় পত্র",
+              "মানব শরীরতত্ত্ব ও সমস্যা ও নিয়ন্ত্রণ"
+            ]
+          },
+          "id": "dc0e83f7-795e-5387-95e8-f1216ad29f64"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 8,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc7",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 70.6,
+        "eval_count": 2312
+      }
+    },
+    {
+      "page_number": 7,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q170\n**Type:** mcq\n**Stem:** মানবদেহে গোলি ও দর্শণের মারা নিয়ন্ত্রক হয়েছে কোন হরমোন?\n**Options:** - a) ইনসুলিন  \n  - b) প্যারাথাইরোডিন  \n  - c) আলোডেটেইন  \n  - d) এপিড্রিনিন\n\n**Answer:** a) ইনসুলিন\n\n**Solution:** মানবদেহে গোলি ও দর্শণের মারা নিয়ন্ত্রক হয়েছে ইনসুলিন। \n\n**Tags:** জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান\n\n### Q171\n**Type:** mcq\n**Stem:** নিউক্লিও কোনটি অঙ্ককরা ছাড়া? \n**Options:** - a) তন্তুগুলি  \n  - b) হর্মোন  \n  - c) ফ্রুক্টোজ  \n  - d) লালচষ্টি\n\n**Answer:** b) হর্মোন\n\n**Solution:** নিউক্লিও কোনটি অঙ্ককরা ছাড়া হর্মোন। \n\n**Tags:** জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান\n\n### Q172\n**Type:** mcq\n**Stem:** মানুষের হৃৎপদন ও রক্তচাপ খুঁকিকারী হরমোন কোনটি?\n**Options:** - a) গুকোকটিকেড  \n  - b) ইউট্রোজেন  \n  - c) অ্যাঙ্গোলিন  \n  - d) সেনোপ্রোসিন  \n\n**Answer:** a) গুকোকটিকেড\n\n**Solution:** মানুষের হৃৎপদন ও রক্তচাপ খুঁকিকারী হরমোন গুকোকটিকেড।\n\n**Tags:** জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান\n\n### Q173\n**Type:** mcq\n**Stem:** মানবদেহের সবচেয়ে ছোট অন্তর্গত হরমোন কোনটি?\n**Options:** - a) থাইরয়েড  \n  - b) ভ্রুক্ষের  \n  - c) পিডিউট্রি  \n  - d) স্থুরারেনাল\n\n**Answer:** a) থাইরয়েড\n\n**Solution:** মানবদেহের সবচেয়ে ছোট অন্তর্গত হরমোন থাইরয়েড।\n\n**Tags:** জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান\n\n### Q174\n**Type:** mcq\n**Stem:** মানুষ দেখে ক্যালসিয়াম ও ফসফরাসের বিপাক নিয়ন্ত্রণ করে কোন হরমোন?\n**Options:** - a) থাইরয়েড  \n  - b) ভ্রুক্ষের  \n  - c) পিডিউট্রি  \n  - d) স্থুরারেনাল\n\n**Answer:** b) ভ্রুক্ষের\n\n**Solution:** মানুষ দেখে ক্যালসিয়াম ও ফসফরাসের বিপাক নিয়ন্ত্রণ করে ভ্রুক্ষের হরমোন।\n\n**Tags:** জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান\n\n### Q175\n**Type:** mcq\n**Stem:** নিউক্লিও কোনটি অঙ্ককরা ছাড়া? \n**Options:** - a) অ্যাঙ্গোলিন  \n  - b) ক্রকাণ্ড গ. ডিএনএল অধিরি ছাড়া? \n    - c) ডিএনএল অধিরি ছাড়া? \n      - d) অ্যাঙ্গোলিন\n\n**Answer:** b) ক্রকাণ্ড গ. ডিএনএল অধিরি ছাড়া?\n\n**Solution:** নিউক্লিও কোনটি অঙ্ককরা ছাড়া ক্রকাণ্ড গ. ডিএনএল অধিরি ছাড়া।\n\n**Tags:** জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q170",
+          "content_markdown": "মানবদেহে গোলি ও দর্শণের মারা নিয়ন্ত্রক হয়েছে কোন হরমোন?",
+          "structured_data": {
+            "question_number": "170",
+            "subtype": "mcq",
+            "stem": "মানবদেহে গোলি ও দর্শণের মারা নিয়ন্ত্রক হয়েছে কোন হরমোন?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ইনসুলিন",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "প্যারাথাইরোডিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আলোডেটেইন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "এপিড্রিনিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) ইনসুলিন",
+            "solution_markdown": "মানবদেহে গোলি ও দর্শণের মারা নিয়ন্ত্রক হয়েছে ইনসুলিন।",
+            "tags_raw": "জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান",
+            "provenance": [
+              "জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান"
+            ]
+          },
+          "id": "dc9580b3-06c0-54c8-8bd5-88bf9f499945"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q171",
+          "content_markdown": "নিউক্লিও কোনটি অঙ্ককরা ছাড়া?",
+          "structured_data": {
+            "question_number": "171",
+            "subtype": "mcq",
+            "stem": "নিউক্লিও কোনটি অঙ্ককরা ছাড়া?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "তন্তুগুলি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "হর্মোন",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "ফ্রুক্টোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "লালচষ্টি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b) হর্মোন",
+            "solution_markdown": "নিউক্লিও কোনটি অঙ্ককরা ছাড়া হর্মোন।",
+            "tags_raw": "জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান",
+            "provenance": [
+              "জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান"
+            ]
+          },
+          "id": "e98e246f-db1f-580a-9e13-b017c6527bae"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q172",
+          "content_markdown": "মানুষের হৃৎপদন ও রক্তচাপ খুঁকিকারী হরমোন কোনটি?",
+          "structured_data": {
+            "question_number": "172",
+            "subtype": "mcq",
+            "stem": "মানুষের হৃৎপদন ও রক্তচাপ খুঁকিকারী হরমোন কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গুকোকটিকেড",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "ইউট্রোজেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অ্যাঙ্গোলিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সেনোপ্রোসিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) গুকোকটিকেড",
+            "solution_markdown": "মানুষের হৃৎপদন ও রক্তচাপ খুঁকিকারী হরমোন গুকোকটিকেড।",
+            "tags_raw": "জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান",
+            "provenance": [
+              "জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান"
+            ]
+          },
+          "id": "026781ec-45d6-5c2e-8624-21b07b7053cc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q173",
+          "content_markdown": "মানবদেহের সবচেয়ে ছোট অন্তর্গত হরমোন কোনটি?",
+          "structured_data": {
+            "question_number": "173",
+            "subtype": "mcq",
+            "stem": "মানবদেহের সবচেয়ে ছোট অন্তর্গত হরমোন কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "থাইরয়েড",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "ভ্রুক্ষের",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পিডিউট্রি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "স্থুরারেনাল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) থাইরয়েড",
+            "solution_markdown": "মানবদেহের সবচেয়ে ছোট অন্তর্গত হরমোন থাইরয়েড।",
+            "tags_raw": "জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান",
+            "provenance": [
+              "জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান"
+            ]
+          },
+          "id": "e96e3c10-8d6c-5ae0-9ade-cf8e93fd699d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q174",
+          "content_markdown": "মানুষ দেখে ক্যালসিয়াম ও ফসফরাসের বিপাক নিয়ন্ত্রণ করে কোন হরমোন?",
+          "structured_data": {
+            "question_number": "174",
+            "subtype": "mcq",
+            "stem": "মানুষ দেখে ক্যালসিয়াম ও ফসফরাসের বিপাক নিয়ন্ত্রণ করে কোন হরমোন?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "থাইরয়েড",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ভ্রুক্ষের",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "পিডিউট্রি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "স্থুরারেনাল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b) ভ্রুক্ষের",
+            "solution_markdown": "মানুষ দেখে ক্যালসিয়াম ও ফসফরাসের বিপাক নিয়ন্ত্রণ করে ভ্রুক্ষের হরমোন।",
+            "tags_raw": "জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান",
+            "provenance": [
+              "জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান"
+            ]
+          },
+          "id": "822c052e-89a0-5eae-b188-96992a6deba2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q175",
+          "content_markdown": "নিউক্লিও কোনটি অঙ্ককরা ছাড়া?",
+          "structured_data": {
+            "question_number": "175",
+            "subtype": "mcq",
+            "stem": "নিউক্লিও কোনটি অঙ্ককরা ছাড়া?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অ্যাঙ্গোলিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ক্রকাণ্ড গ. ডিএনএল অধিরি ছাড়া?",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "ডিএনএল অধিরি ছাড়া?",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অ্যাঙ্গোলিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b) ক্রকাণ্ড গ. ডিএনএল অধিরি ছাড়া?",
+            "solution_markdown": "নিউক্লিও কোনটি অঙ্ককরা ছাড়া ক্রকাণ্ড গ. ডিএনএল অধিরি ছাড়া।",
+            "tags_raw": "জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান",
+            "provenance": [
+              "জীববিজ্ঞান 2য় পত্র | মানব শরীরতত্ত্ব ও নমূত্র ও নিরীক্ষা | চাইন শ্রীরত্নমুৎসাহিত | বর্ষ ২৩ | সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান"
+            ]
+          },
+          "id": "41547396-cce8-583c-860e-cc3b86435404"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 6,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 49.93,
+        "eval_count": 2210
+      }
+    },
+    {
+      "page_number": 8,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q203\n**Type:** mcq\n**Stem:** STH এর অধিক ক্ষরণযোগ্য সূচি হরমোন কী বলা হয়?\n**Options:** \n- a) দৈত্যত্ব\n- b) বামনদ্র\n- c) গরিলাত্রু\n- d) ক্রিটিনিজম\n\n**Answer:** - b) বামনদ্র\n**Solution:** সহজেই বোঝা যায় যে, STH হল শ্রেষ্ঠ খরণযোগ্য সূচি হরমোন। আর এটি বামনদ্র হরমোন নামেও পরিচিত।\n**Tags:** জীববিজ্ঞান ২য় পত্র, অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q203",
+          "content_markdown": "STH এর অধিক ক্ষরণযোগ্য সূচি হরমোন কী বলা হয়?",
+          "structured_data": {
+            "question_number": "203",
+            "subtype": "mcq",
+            "stem": "STH এর অধিক ক্ষরণযোগ্য সূচি হরমোন কী বলা হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "দৈত্যত্ব",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বামনদ্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গরিলাত্রু",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ক্রিটিনিজম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) বামনদ্র",
+            "solution_markdown": "সহজেই বোঝা যায় যে, STH হল শ্রেষ্ঠ খরণযোগ্য সূচি হরমোন। আর এটি বামনদ্র হরমোন নামেও পরিচিত।",
+            "tags_raw": "জীববিজ্ঞান ২য় পত্র, অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান",
+            "provenance": [
+              "জীববিজ্ঞান ২য় পত্র",
+              "অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | জীববিজ্ঞান"
+            ]
+          },
+          "id": "bfa01679-7a15-5ab0-a2db-1aebcc61384c"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 1,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc5",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 39.39,
+        "eval_count": 370
+      }
+    }
+  ]
+}

@@ -1,0 +1,3971 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "1U7aiYWzr-jXzVTd5kGuxm6r5FG19fwzK",
+    "collection": "admission_question_bank",
+    "subject": "mixed_or_general",
+    "edition": "2023",
+    "priority_score": 2023501,
+    "path_parts": [
+      "Medical Dental AFMC",
+      "The Medicine QB",
+      "Edition-20(YearWise)",
+      "DAT 00-01.pdf"
+    ],
+    "filename": "DAT 00-01.pdf",
+    "sha256": "12ed8240dcf4f9af2733774b2c4b214fb34e81ecac458af0b603185014949e81",
+    "total_pages": 8,
+    "parsed_pages": 8,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 108,
+    "block_counts_by_type": {
+      "concept_prose": 5,
+      "mcq_item": 100,
+      "callout_tip": 3
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1127,
+        "height": 1550
+      },
+      "raw_markdown": "৮৭৪ দি মেডিসিন - মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার প্রশ্নব্যাংক\n\nBDS ADMISSION TEST: 2000-2001\n\n## Q01\n**Type:** mcq\n**Stem:** ফেরাস লবণকে ফেরিক লবণ থেকে পার্থক্য করার জন্য যে রাসায়নিক পদার্থটি ব্যবহৃত হয়-\n**Options:**\n- a) পটাশিয়াম ফেরোসায়ানাইড\n- b) স্টার্চ দ্রবণ\n- c) পটাশিয়াম সায়ানাইড\n- d) এমনোনিয়াম ক্লোরাইড\n**Answer:** a\n**Solution:** সঠিক উত্তর অপশন 'A' অর্থাৎ পটাশিয়াম ফেরোসায়ানাইড; যার সংকেত KCNS.\n\n## Q02\n**Type:** mcq\n**Stem:** বক্রধাবক রূপান্তরিত কাণ্ডের কোন প্রকারের মধ্যে পড়বে?\n**Options:**\n- a) ভূ-নিম্নস্থ\n- b) বায়বীয়\n- c) অর্ধবায়বীয়\n- d) বক্রধাবক কোন রূপান্তরিত কাণ্ড নয়\n**Answer:** d\n\n## Q03\n**Type:** mcq\n**Stem:** একটি কলমের নিবের অভাগ ফাঁড়া থাকে কারণ-\n**Options:**\n- a) বেশি কালি ধরার জন্য\n- b) কালির জন্য কৈশিক ক্রিয়া প্রদানের জন্য\n- c) কালির অপচয় রোধের জন্য\n- d) উহাকে মজবুত করার জন্য\n**Answer:** b\n**Solution:** সঠিক উত্তর অপশন 'B' অর্থাৎ কালির জন্য কৈশিক ক্রিয়া প্রদানের জন্য।\n\n## Q04\n**Type:** mcq\n**Stem:** প্রতিটি অর্ধ বিক্রিয়ার সমতা রক্ষণে শুধুমাত্র পরমাণুর প্রকারভেদ ও সংখ্যার উপর নির্ভর করলেই চলবে না, ধনাত্মক ও ঋণাত্মক আধানের দিকেও লক্ষ্য রাখতে হবে। এর জন্য কোনটি ভুল পদক্ষেপ হবে?\n**Options:**\n- a) যে পার্শ্বে ইলেকট্রনের সংখ্যা কম তাতে ইলেকট্রন যোগ করতে হবে\n- b) সমীকরণের যে পার্শ্বে H -এর সংখ্যা কম সেই পার্শ্বে $H^+$ যোগ করতে হবে\n- c) সমীকরণের যে পার্শ্বে অক্সিজেনের সংখ্যা বেশি সেই পার্শ্বে $H_2O$ যোগ করতে হবে\n- d) H ও O ব্যতীত সকল পরমাণুর সংখ্যা সমানকরণের জন্য প্রত্যেকের প্রতীকের প্রথমে সরল গুণিতক ব্যবহার করতে হবে\n**Answer:** c\n**Solution:** অপশন 'C' ভুল: কারণ- যদি বিক্রিয়ক অণুতে অক্সিজেন পরমাণু থাকে তবে তা থেকে পানি গঠনের জন্য বিক্রিয়ক হিসেবে প্রয়োজনীয় সংখ্যক $H^+$ যোগ করতে হবে। তবেই বিক্রিয়ায় সমতা আসবে।\n\n## Q05\n**Type:** mcq\n**Stem:** কোন অংশটি বৃহদন্ত্রের?\n**Options:**\n- a) ইলিয়াম\n- b) ডিওডেনাম\n- c) জেজুনাম\n- d) সিকাম\n**Answer:** d\n**Solution:** বৃহদন্ত্রের অংশ হলো- সিকাম, কোলন ও মলাশয়।\n\n## Q06\n**Type:** mcq\n**Stem:** Which one of the following is an optative sentence?\n**Options:**\n- a) May you pass the examination\n- b) Long live the king\n- c) I request you to keep quiet\n- d) We are going to the market\n**Answer:** a\n**Solution:** সঠিক উত্তর অপশন 'A' অর্থাৎ May you pass the examination.\n\n## Q07\n**Type:** mcq\n**Stem:** কোন উক্তিটি সঠিক নয়?\n**Options:**\n- a) অনুদৈর্ঘ্য তরঙ্গের বেলায় কণাগুলো তরঙ্গগতির অভিমুখে স্পন্দিত হয়\n- b) পয়সন অনুপাত একটি ধ্রুব সংখ্যা যাহা দৈর্ঘ্য পীড়ন ও পার্শ্ব পীড়নের অনুপাত\n- c) সাধারণ তাপমাত্রায় প্রকৃত বাষ্পচাপ শিশিরাঙ্কের সম্পৃক্ত বাষ্পচাপের সমান\n- d) আরম্ভ থেকে সমত্বরণে গতিশীল একটি বস্তু কর্তৃক অতিক্রান্ত দূরত্ব সময়ের বর্গের সমানুপাতিক\n**Answer:** b\n**Solution:** অপশন 'B' সঠিক নয়; কারণ- পয়সন অনুপাত = $\\frac{\\text{পার্শ্ব বিকৃতি}}{\\text{দৈর্ঘ্য বিকৃতি}}$\n\n## Q08\n**Type:** mcq\n**Stem:** সম্পূর্ণ মিশ্রণীয় তরল দ্রবণের ক্ষেত্রে যদি কোন একটি নির্দিষ্ট সংযুক্তিতে দ্রবণের স্ফুটনাঙ্ক সর্বনিম্ন এবং তা উপাদান তরলদ্বয়ের স্ফুটনাঙ্ক অপেক্ষা নিম্ন হয় তবে ঐ দ্রবণসমূহকে যে শ্রেণিতে অন্তর্ভুক্ত করা হয়-\n**Options:**\n- a) ৪র্থ শ্রেণি\n- b) ৩য় শ্রেণি\n- c) ২য় শ্রেণি\n- d) ১ম শ্রেণি\n**Answer:** d\n\n## Q09\n**Type:** mcq\n**Stem:** যেটি সত্য নয়-\n**Options:**\n- a) পত্ররন্ধ্রের রক্ষীকোষ খাদ্য প্রস্তুত করে\n- b) খাদ্য পরিবহন ফ্লোয়েম তন্তু বা বাস্ট তন্তু প্রধান কাজ\n- c) ফ্লোয়েমের সঙ্গী কোষে কখনোই শ্বেতসার থাকে না\n- d) সীভনল দ্বারা খাদ্য সঞ্চয় করা সম্ভব\n**Answer:** b\n**Solution:** অপশন 'B' সত্য নয়; কারণ- খাদ্য পরিবহন জাইলেম প্যারেনকাইমার প্রধান কাজ। উল্লেখ্য যে, ফ্লোয়েমকে দৃঢ়তা প্রদান করাই ফ্লোয়েম ফাইবার এর প্রধান কাজ।\n\n## Q10\n**Type:** mcq\n**Stem:** যখন বায়ু হতে কোন আলোক রশ্মি একটি পুরু ও মসৃণ কাঁচ খণ্ডে প্রবেশ করে তখন-\n**Options:**\n- a) এর তরঙ্গ দৈর্ঘ্য অথবা কম্পাঙ্কের কোন পরিবর্তন ঘটে না\n- b) এর কম্পাঙ্ক বেড়ে যায়\n- c) এর তরঙ্গ দৈর্ঘ্য বৃদ্ধি পায়\n- d) এর তরঙ্গ দৈর্ঘ্য হ্রাস পায়\n**Answer:** d\n**Solution:** যখন বায়ু হতে কোন আলোক রশ্মি একটি পুরু ও মসৃণ কাঁচ খণ্ডে প্রবেশ করে তখন এর তরঙ্গ দৈর্ঘ্য হ্রাস পায়।\n\n## Q11\n**Type:** mcq\n**Stem:** মুখ্য কোয়ান্টাম সংখ্যা নির্দেশ করে-\n**Options:**\n- a) স্থিতি শক্তি\n- b) ঘূর্ণন গতিশক্তি\n- c) মোট শক্তি এবং কক্ষপথের আয়তন\n- d) সর্বমোট শক্তি\n**Answer:** c\n**Solution:** সঠিক উত্তর অপশন 'D' অর্থাৎ সর্বমোট শক্তি।\n\n## Q12\n**Type:** mcq\n**Stem:** একটি পুকুরের বাস্তুতন্ত্রে ব্যাঙ যে শ্রেণির খাদক-\n**Options:**\n- a) সর্বোচ্চ খাদক\n- b) তৃতীয় বা টারসিয়ারি খাদক\n- c) গৌণ বা মাধ্যমিক খাদক\n- d) মুখ্য বা প্রাথমিক খাদক\n**Answer:** c\n**Solution:** একটি পুকুরের বাস্তুতন্ত্রে ব্যাঙ হচ্ছে গৌণ বা মাধ্যমিক খাদক।\n\n## Q13\n**Type:** mcq\n**Stem:** ক্যাথোড রশ্মি হচ্ছে-\n**Options:**\n- a) গতিময় আলফা রশ্মি\n- b) গতিময় প্রোটন\n- c) ধনাত্মক অথবা ঋণাত্মক গতিময় রশ্মি\n- d) গতিময় ইলেকট্রন\n**Answer:** d\n**Solution:** ক্যাথোড রশ্মি হচ্ছে গতিময় ইলেকট্রন।",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "৮৭৪ দি মেডিসিন - মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার প্রশ্নব্যাংক",
+          "structured_data": {},
+          "id": "fe759dec-bffd-5b59-b104-ad313b2663ee"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "BDS ADMISSION TEST: 2000-2001",
+          "structured_data": {},
+          "id": "fbad7de1-98ca-5e03-8a2d-0d695a5ea680"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q01",
+          "content_markdown": "ফেরাস লবণকে ফেরিক লবণ থেকে পার্থক্য করার জন্য যে রাসায়নিক পদার্থটি ব্যবহৃত হয়-",
+          "structured_data": {
+            "question_number": "01",
+            "subtype": "mcq",
+            "stem": "ফেরাস লবণকে ফেরিক লবণ থেকে পার্থক্য করার জন্য যে রাসায়নিক পদার্থটি ব্যবহৃত হয়-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "পটাশিয়াম ফেরোসায়ানাইড",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "স্টার্চ দ্রবণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পটাশিয়াম সায়ানাইড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "এমনোনিয়াম ক্লোরাইড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a",
+            "solution_markdown": "সঠিক উত্তর অপশন 'A' অর্থাৎ পটাশিয়াম ফেরোসায়ানাইড; যার সংকেত KCNS.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f04c20de-906f-59ba-a1cb-77d5774fdf5c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q02",
+          "content_markdown": "বক্রধাবক রূপান্তরিত কাণ্ডের কোন প্রকারের মধ্যে পড়বে?",
+          "structured_data": {
+            "question_number": "02",
+            "subtype": "mcq",
+            "stem": "বক্রধাবক রূপান্তরিত কাণ্ডের কোন প্রকারের মধ্যে পড়বে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ভূ-নিম্নস্থ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বায়বীয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অর্ধবায়বীয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বক্রধাবক কোন রূপান্তরিত কাণ্ড নয়",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "31636677-48bd-5a22-9e4e-36a182340ad3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q03",
+          "content_markdown": "একটি কলমের নিবের অভাগ ফাঁড়া থাকে কারণ-",
+          "structured_data": {
+            "question_number": "03",
+            "subtype": "mcq",
+            "stem": "একটি কলমের নিবের অভাগ ফাঁড়া থাকে কারণ-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বেশি কালি ধরার জন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কালির জন্য কৈশিক ক্রিয়া প্রদানের জন্য",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "কালির অপচয় রোধের জন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "উহাকে মজবুত করার জন্য",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b",
+            "solution_markdown": "সঠিক উত্তর অপশন 'B' অর্থাৎ কালির জন্য কৈশিক ক্রিয়া প্রদানের জন্য।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2ce1b3e7-d535-5d62-8c5f-5e2d92b8b961"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q04",
+          "content_markdown": "প্রতিটি অর্ধ বিক্রিয়ার সমতা রক্ষণে শুধুমাত্র পরমাণুর প্রকারভেদ ও সংখ্যার উপর নির্ভর করলেই চলবে না, ধনাত্মক ও ঋণাত্মক আধানের দিকেও লক্ষ্য রাখতে হবে। এর জন্য কোনটি ভুল পদক্ষেপ হবে?",
+          "structured_data": {
+            "question_number": "04",
+            "subtype": "mcq",
+            "stem": "প্রতিটি অর্ধ বিক্রিয়ার সমতা রক্ষণে শুধুমাত্র পরমাণুর প্রকারভেদ ও সংখ্যার উপর নির্ভর করলেই চলবে না, ধনাত্মক ও ঋণাত্মক আধানের দিকেও লক্ষ্য রাখতে হবে। এর জন্য কোনটি ভুল পদক্ষেপ হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "যে পার্শ্বে ইলেকট্রনের সংখ্যা কম তাতে ইলেকট্রন যোগ করতে হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সমীকরণের যে পার্শ্বে H -এর সংখ্যা কম সেই পার্শ্বে $H^+$ যোগ করতে হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সমীকরণের যে পার্শ্বে অক্সিজেনের সংখ্যা বেশি সেই পার্শ্বে $H_2O$ যোগ করতে হবে",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "H ও O ব্যতীত সকল পরমাণুর সংখ্যা সমানকরণের জন্য প্রত্যেকের প্রতীকের প্রথমে সরল গুণিতক ব্যবহার করতে হবে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c",
+            "solution_markdown": "অপশন 'C' ভুল: কারণ- যদি বিক্রিয়ক অণুতে অক্সিজেন পরমাণু থাকে তবে তা থেকে পানি গঠনের জন্য বিক্রিয়ক হিসেবে প্রয়োজনীয় সংখ্যক $H^+$ যোগ করতে হবে। তবেই বিক্রিয়ায় সমতা আসবে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fe3b4d80-da7b-5ad1-a259-6e4bc98112d3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q05",
+          "content_markdown": "কোন অংশটি বৃহদন্ত্রের?",
+          "structured_data": {
+            "question_number": "05",
+            "subtype": "mcq",
+            "stem": "কোন অংশটি বৃহদন্ত্রের?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ইলিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ডিওডেনাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "জেজুনাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সিকাম",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d",
+            "solution_markdown": "বৃহদন্ত্রের অংশ হলো- সিকাম, কোলন ও মলাশয়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "17550025-ff80-5e3d-8548-0d11b746c934"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q06",
+          "content_markdown": "Which one of the following is an optative sentence?",
+          "structured_data": {
+            "question_number": "06",
+            "subtype": "mcq",
+            "stem": "Which one of the following is an optative sentence?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "May you pass the examination",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "Long live the king",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "I request you to keep quiet",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "We are going to the market",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a",
+            "solution_markdown": "সঠিক উত্তর অপশন 'A' অর্থাৎ May you pass the examination.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "aa6b68eb-2bd3-5b2d-9230-8fd1cea95d58"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q07",
+          "content_markdown": "কোন উক্তিটি সঠিক নয়?",
+          "structured_data": {
+            "question_number": "07",
+            "subtype": "mcq",
+            "stem": "কোন উক্তিটি সঠিক নয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অনুদৈর্ঘ্য তরঙ্গের বেলায় কণাগুলো তরঙ্গগতির অভিমুখে স্পন্দিত হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "পয়সন অনুপাত একটি ধ্রুব সংখ্যা যাহা দৈর্ঘ্য পীড়ন ও পার্শ্ব পীড়নের অনুপাত",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "সাধারণ তাপমাত্রায় প্রকৃত বাষ্পচাপ শিশিরাঙ্কের সম্পৃক্ত বাষ্পচাপের সমান",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "আরম্ভ থেকে সমত্বরণে গতিশীল একটি বস্তু কর্তৃক অতিক্রান্ত দূরত্ব সময়ের বর্গের সমানুপাতিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b",
+            "solution_markdown": "অপশন 'B' সঠিক নয়; কারণ- পয়সন অনুপাত = $\\frac{\\text{পার্শ্ব বিকৃতি}}{\\text{দৈর্ঘ্য বিকৃতি}}$",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6b510f9f-12a9-5787-85d5-fe4e8b957f95"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q08",
+          "content_markdown": "সম্পূর্ণ মিশ্রণীয় তরল দ্রবণের ক্ষেত্রে যদি কোন একটি নির্দিষ্ট সংযুক্তিতে দ্রবণের স্ফুটনাঙ্ক সর্বনিম্ন এবং তা উপাদান তরলদ্বয়ের স্ফুটনাঙ্ক অপেক্ষা নিম্ন হয় তবে ঐ দ্রবণসমূহকে যে শ্রেণিতে অন্তর্ভুক্ত করা হয়-",
+          "structured_data": {
+            "question_number": "08",
+            "subtype": "mcq",
+            "stem": "সম্পূর্ণ মিশ্রণীয় তরল দ্রবণের ক্ষেত্রে যদি কোন একটি নির্দিষ্ট সংযুক্তিতে দ্রবণের স্ফুটনাঙ্ক সর্বনিম্ন এবং তা উপাদান তরলদ্বয়ের স্ফুটনাঙ্ক অপেক্ষা নিম্ন হয় তবে ঐ দ্রবণসমূহকে যে শ্রেণিতে অন্তর্ভুক্ত করা হয়-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "৪র্থ শ্রেণি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "৩য় শ্রেণি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "২য় শ্রেণি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "১ম শ্রেণি",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1a0ebc9d-ff68-59f9-86b8-81594002ae8d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q09",
+          "content_markdown": "যেটি সত্য নয়-",
+          "structured_data": {
+            "question_number": "09",
+            "subtype": "mcq",
+            "stem": "যেটি সত্য নয়-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "পত্ররন্ধ্রের রক্ষীকোষ খাদ্য প্রস্তুত করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "খাদ্য পরিবহন ফ্লোয়েম তন্তু বা বাস্ট তন্তু প্রধান কাজ",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "ফ্লোয়েমের সঙ্গী কোষে কখনোই শ্বেতসার থাকে না",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সীভনল দ্বারা খাদ্য সঞ্চয় করা সম্ভব",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b",
+            "solution_markdown": "অপশন 'B' সত্য নয়; কারণ- খাদ্য পরিবহন জাইলেম প্যারেনকাইমার প্রধান কাজ। উল্লেখ্য যে, ফ্লোয়েমকে দৃঢ়তা প্রদান করাই ফ্লোয়েম ফাইবার এর প্রধান কাজ।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "adb3cfa5-f602-5a30-b626-a555d026521d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q10",
+          "content_markdown": "যখন বায়ু হতে কোন আলোক রশ্মি একটি পুরু ও মসৃণ কাঁচ খণ্ডে প্রবেশ করে তখন-",
+          "structured_data": {
+            "question_number": "10",
+            "subtype": "mcq",
+            "stem": "যখন বায়ু হতে কোন আলোক রশ্মি একটি পুরু ও মসৃণ কাঁচ খণ্ডে প্রবেশ করে তখন-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "এর তরঙ্গ দৈর্ঘ্য অথবা কম্পাঙ্কের কোন পরিবর্তন ঘটে না",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "এর কম্পাঙ্ক বেড়ে যায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "এর তরঙ্গ দৈর্ঘ্য বৃদ্ধি পায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "এর তরঙ্গ দৈর্ঘ্য হ্রাস পায়",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d",
+            "solution_markdown": "যখন বায়ু হতে কোন আলোক রশ্মি একটি পুরু ও মসৃণ কাঁচ খণ্ডে প্রবেশ করে তখন এর তরঙ্গ দৈর্ঘ্য হ্রাস পায়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "00926ffa-848a-5030-a4a2-2f5dce26c177"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q11",
+          "content_markdown": "মুখ্য কোয়ান্টাম সংখ্যা নির্দেশ করে-",
+          "structured_data": {
+            "question_number": "11",
+            "subtype": "mcq",
+            "stem": "মুখ্য কোয়ান্টাম সংখ্যা নির্দেশ করে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "স্থিতি শক্তি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ঘূর্ণন গতিশক্তি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "মোট শক্তি এবং কক্ষপথের আয়তন",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "সর্বমোট শক্তি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c",
+            "solution_markdown": "সঠিক উত্তর অপশন 'D' অর্থাৎ সর্বমোট শক্তি।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b563b462-72ec-55b6-8aeb-ff288b43884b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q12",
+          "content_markdown": "একটি পুকুরের বাস্তুতন্ত্রে ব্যাঙ যে শ্রেণির খাদক-",
+          "structured_data": {
+            "question_number": "12",
+            "subtype": "mcq",
+            "stem": "একটি পুকুরের বাস্তুতন্ত্রে ব্যাঙ যে শ্রেণির খাদক-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সর্বোচ্চ খাদক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তৃতীয় বা টারসিয়ারি খাদক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গৌণ বা মাধ্যমিক খাদক",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "মুখ্য বা প্রাথমিক খাদক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c",
+            "solution_markdown": "একটি পুকুরের বাস্তুতন্ত্রে ব্যাঙ হচ্ছে গৌণ বা মাধ্যমিক খাদক।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1e3ced49-80c8-5d7b-881d-8144415496e2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q13",
+          "content_markdown": "ক্যাথোড রশ্মি হচ্ছে-",
+          "structured_data": {
+            "question_number": "13",
+            "subtype": "mcq",
+            "stem": "ক্যাথোড রশ্মি হচ্ছে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গতিময় আলফা রশ্মি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "গতিময় প্রোটন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ধনাত্মক অথবা ঋণাত্মক গতিময় রশ্মি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "গতিময় ইলেকট্রন",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d",
+            "solution_markdown": "ক্যাথোড রশ্মি হচ্ছে গতিময় ইলেকট্রন।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "836da536-4fcc-59da-9126-35451245d32a"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 15,
+        "figure_count": 0,
+        "vlm_endpoint": "gemini_pool",
+        "vlm_model": "gemini-3.1-flash-lite",
+        "elapsed_sec": 10.08,
+        "eval_count": 1506
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": "৪৭৫",
+      "page_header": "দি মেডিসিন - মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার প্রশ্নব্যাংক",
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1127,
+        "height": 1550
+      },
+      "raw_markdown": "## Q14\n**Type:** mcq\n**Stem:** জুল- থমসন প্রভাবের ফলে গ্যাস ঠান্ডা হয়ে তরলীকৃত হয়ে যাওয়ার কারণ-\n**Options:**\n- A. গ্যাস অণুগুলোর আন্তঃআণবিক আকর্ষণের ফলে\n- B. গ্যাস দ্রুত সম্প্রসারিত হওয়ার ফলে গ্যাস পরিবেশ থেকে শক্তি সংগ্রহ করে নেয়\n- C. গ্যাসের আয়তন ধীরে ধীরে সম্প্রসারিত হয়\n- D. গ্যাসের অভ্যন্তরীণ শক্তি ব্যবহৃত হয়\n**Answer:** D\n**Solution:** সঠিক উত্তর অপশন 'D' অর্থাৎ গ্যাসের অভ্যন্তরীণ শক্তি ব্যবহৃত হয়।\n\n## Q15\n**Type:** mcq\n**Stem:** একান্তর পাতার উপপত্র দুটো পরস্পরের সাথে যুক্ত হয়ে ফাঁপা নলাকার রূপ ধারণ করলে তাকে যে ধরনের উপপত্র বলে-\n**Options:**\n- A. কাণ্ডবেষ্টক\n- B. মুক্তপার্শ্বীয়\n- C. আন্তঃবৃত্তক\n- D. বৃত্তলগ্ণ\n**Answer:** NONE\n**Solution:** NONE\n\n## Q16\n**Type:** mcq\n**Stem:** সাড়া জাগানো উপন্যাস 'Roots' এর রচয়িতা কে?\n**Options:**\n- A. হ্যারল্ড রবিন্স\n- B. সিডনি শেলডন\n- C. আর্থার হেইলি\n- D. অ্যালেক্স হেইলি\n**Answer:** NONE\n**Solution:** NONE\n\n## Q17\n**Type:** mcq\n**Stem:** একটি বস্তুকে ভূপৃষ্ঠ থেকে খাড়া উপরে নিক্ষেপ করলে উহা ১০ সেকেন্ড বাতাসে থাকে। বস্তুটি কত সময়ে সর্বোচ্চ স্থানে পৌঁছবে?\n**Options:**\n- A. ৮ সেকেন্ড\n- B. ৬ সেকেন্ড\n- C. ৫ সেকেন্ড\n- D. ৪ সেকেন্ড\n**Answer:** C\n**Solution:** যেহেতু, উড্ডয়নকাল + পতনকাল = 2T; সুতরাং বস্তুটি সর্বোচ্চ স্থানে পৌঁছতে সময় লাগবে $\\frac{10}{2} = 5$ সেকেন্ড।\n\n## Q18\n**Type:** mcq\n**Stem:** চার্জকৃত একটি ফাঁপা ধাতব বলের কোন জায়গায় বৈদ্যুতিক ক্ষেত্র তৈরি হবে না?\n**Options:**\n- A. বলের ব্যাসার্ধের দ্বিগুণের দূরে\n- B. বলের অভ্যন্তরে\n- C. বলের পৃষ্ঠে\n- D. বলের বাইরে\n**Answer:** B\n**Solution:** যেহেতু চার্জকৃত বলের অভ্যন্তরে বৈদ্যুতিক প্রাবল্য শূন্য থাকে তাই সেখানে কোনো বৈদ্যুতিক ক্ষেত্র তৈরি হবে না।\n\n## Q19\n**Type:** mcq\n**Stem:** পিতা Rh+ যদি হয় এবং মাতা যদি Rh- হয় তবে তাদের ঔরসজাত প্রথম সন্তানের পররলিতে যে অবস্থা হতে পারে তাকে বলে-\n**Options:**\n- A. থ্যালাসেমিয়া\n- B. এরিথ্রোব্লাস্টোসিস ফিটালিস\n- C. ফিটাল অ্যালকোহল সিনড্রোম\n- D. কোন বিরূপ অবস্থা সৃষ্টি হবে না\n**Answer:** B\n**Solution:** সঠিক উত্তর অপশন 'B' অর্থাৎ এরিথ্রোব্লাস্টোসিস ফিটালিস।\n\n## Q20\n**Type:** mcq\n**Stem:** যেটি সত্য নয়-\n**Options:**\n- A. একটি নিরপেক্ষ অণুতে উপস্থিত সবকটি পরমাণুর জারণ সংখ্যার সাধারণ যোগফল সব সময় শূন্য\n- B. মৃৎক্ষারীয় ধাতুর জারণ সংখ্যা +২\n- C. ধাতব হাইড্রাইডে হাইড্রোজেনের জারণ সংখ্যা +১\n- D. মুক্ত অবস্থায় সকল পরমাণুর জারণ সংখ্যা শূন্য\n**Answer:** C\n**Solution:** অপশন 'C' সত্য নয়; কারণ- ধাতব হাইড্রাইডে হাইড্রোজেনের জারণ সংখ্যা -১।\n\n## Q21\n**Type:** mcq\n**Stem:** যেটি তড়িৎযোজী যৌগের বৈশিষ্ট্যের মাঝে পড়ে না-\n**Options:**\n- A. এসব যৌগ দানাদার বা কেলাসার\n- B. এরা সচরাচর পানিতে অদ্রবণীয়\n- C. গলিত অবস্থায় এবং দ্রবণে এরা আয়ানিত অবস্থায় থাকে\n- D. এদের অণুতে ধনাত্মক ও ঋণাত্মক দুটি পোল বা মেরু রয়েছে\n**Answer:** B\n**Solution:** অপশন 'B' সঠিক নয়; কারণ- তড়িৎযোজী বা আয়নিক যৌগসমূহ পানিতে সর্বদাই দ্রবণীয়।\n\n## Q22\n**Type:** mcq\n**Stem:** একবীজপত্রী উদ্ভিদের বৈশিষ্ট্য নয়-\n**Options:**\n- A. পুষ্প স্তবকগুলো তিন বা তিনের গুণিতক হয়\n- B. পাতা সাধারণত সমান্তরাল হয়\n- C. প্রধানত বহুবর্ষজীবী নয়\n- D. পত্রমূল প্রশস্ত ও কাণ্ডবেষ্টক হয় না\n**Answer:** D\n**Solution:** অপশন 'D' একবীজপত্রী উদ্ভিদের বৈশিষ্ট্য নয়।\n\n## Q23\n**Type:** mcq\n**Stem:** একটি অভিসারী লেন্স পর্দায় বিম্ব ফেলার জন্য ব্যবহৃত হলো। যদি উহার উপরের অর্ধেক একটি অস্বচ্ছ পর্দা দিয়ে ঢেকে দেওয়া হয় তবে-\n**Options:**\n- A. বিম্বের তীক্ষ্ণতা হ্রাস পাবে\n- B. বিম্বের তীক্ষ্ণতা বৃদ্ধি পাবে\n- C. পূর্ণ বিম্ব তৈরি হবে\n- D. অর্ধেক বিম্ব অদৃশ্য হয়ে যাবে\n**Answer:** C\n**Solution:** সঠিক উত্তর অপশন 'C' অর্থাৎ পূর্ণ বিম্ব তৈরি হবে।\n\n## Q24\n**Type:** mcq\n**Stem:** গতি তত্ত্বের স্বীকার্য সমূহের মধ্যে কোনটি সত্য নয়-\n**Options:**\n- A. গ্যাসের অণুগুলোর পরস্পরের প্রতি কোন আকর্ষণ বা বিকর্ষণ নেই বললেই চলে হয়\n- B. গ্যাসের অণুসমূহের মোট প্রকৃত আয়তন গ্যাসের পাত্রের আয়তনের কাছাকাছি\n- C. গ্যাসের অণুসমূহ পাত্রের গায়ে যে সংঘর্ষ করে তার ফলেই গ্যাসের চাপ সৃষ্টি হয়\n- D. গ্যাসের অণুসমূহ অবিরাম চতুর্দিকে ছুটাছুটি করে\n**Answer:** B\n**Solution:** অপশন 'B' সত্য নয়; কারণ- গ্যাসের অণুসমূহের মোট প্রকৃত আয়তন গ্যাসের পাত্রের তুলনায় নগণ্য।\n\n## Q25\n**Type:** mcq\n**Stem:** মস্তিষ্কের চতুর্থ গহ্বর যেখানে অবস্থিত-\n**Options:**\n- A. ডায়েনসেফালন\n- B. মেসেনসেফালন\n- C. মেডুলা অবলংগাটা\n- D. রম্বেনসেফালন\n**Answer:** D\n**Solution:** মস্তিষ্কের চতুর্থ গহ্বর রম্বেনসেফালনে অবস্থিত।\n\n## Q26\n**Type:** mcq\n**Stem:** The most suitable pair of words that can be substituted in the blanks : With the .....of information technology, it is a ..... exercise to impose censorship in the media.\n**Options:**\n- A. introduction...... wastage\n- B. news ......useless\n- C. advent.... futile\n- D. supply ....pointless\n**Answer:** C\n**Solution:** সঠিক উত্তর অপশন 'C' অর্থাৎ advent.... futile.\n\n## Q27\n**Type:** mcq\n**Stem:** সাইফন কাজ করতে পারবে না যদি না-\n**Options:**\n- A. দুই পাত্রের তরলের উষ্ণতা সমান হয়\n- B. ইহার প্রান্তের দৈর্ঘ্য অসমান হয়\n- C. দুই পাত্রের তরলের উচ্চতা সমান হয়\n- D. দুই পাত্রে তরলের ঘনত্ব সমান হয়\n**Answer:** C\n**Solution:** সাইফনের প্রান্তের দৈর্ঘ্য অসমান হলে এটি কাজ করতে পারে না।",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q14",
+          "content_markdown": "জুল- থমসন প্রভাবের ফলে গ্যাস ঠান্ডা হয়ে তরলীকৃত হয়ে যাওয়ার কারণ-",
+          "structured_data": {
+            "question_number": "14",
+            "subtype": "mcq",
+            "stem": "জুল- থমসন প্রভাবের ফলে গ্যাস ঠান্ডা হয়ে তরলীকৃত হয়ে যাওয়ার কারণ-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "গ্যাস অণুগুলোর আন্তঃআণবিক আকর্ষণের ফলে",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "গ্যাস দ্রুত সম্প্রসারিত হওয়ার ফলে গ্যাস পরিবেশ থেকে শক্তি সংগ্রহ করে নেয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "গ্যাসের আয়তন ধীরে ধীরে সম্প্রসারিত হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "গ্যাসের অভ্যন্তরীণ শক্তি ব্যবহৃত হয়",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "সঠিক উত্তর অপশন 'D' অর্থাৎ গ্যাসের অভ্যন্তরীণ শক্তি ব্যবহৃত হয়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "75841c07-c291-5c42-a69d-b8172a5e6c77"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q15",
+          "content_markdown": "একান্তর পাতার উপপত্র দুটো পরস্পরের সাথে যুক্ত হয়ে ফাঁপা নলাকার রূপ ধারণ করলে তাকে যে ধরনের উপপত্র বলে-",
+          "structured_data": {
+            "question_number": "15",
+            "subtype": "mcq",
+            "stem": "একান্তর পাতার উপপত্র দুটো পরস্পরের সাথে যুক্ত হয়ে ফাঁপা নলাকার রূপ ধারণ করলে তাকে যে ধরনের উপপত্র বলে-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "কাণ্ডবেষ্টক",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "মুক্তপার্শ্বীয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "আন্তঃবৃত্তক",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "বৃত্তলগ্ণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6f8b1700-a9ba-5368-804b-23b8a2719302"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q16",
+          "content_markdown": "সাড়া জাগানো উপন্যাস 'Roots' এর রচয়িতা কে?",
+          "structured_data": {
+            "question_number": "16",
+            "subtype": "mcq",
+            "stem": "সাড়া জাগানো উপন্যাস 'Roots' এর রচয়িতা কে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "হ্যারল্ড রবিন্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "সিডনি শেলডন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "আর্থার হেইলি",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "অ্যালেক্স হেইলি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "cf7fd887-3b0d-537e-a352-cddbc6ccb60d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q17",
+          "content_markdown": "একটি বস্তুকে ভূপৃষ্ঠ থেকে খাড়া উপরে নিক্ষেপ করলে উহা ১০ সেকেন্ড বাতাসে থাকে। বস্তুটি কত সময়ে সর্বোচ্চ স্থানে পৌঁছবে?",
+          "structured_data": {
+            "question_number": "17",
+            "subtype": "mcq",
+            "stem": "একটি বস্তুকে ভূপৃষ্ঠ থেকে খাড়া উপরে নিক্ষেপ করলে উহা ১০ সেকেন্ড বাতাসে থাকে। বস্তুটি কত সময়ে সর্বোচ্চ স্থানে পৌঁছবে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "৮ সেকেন্ড",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "৬ সেকেন্ড",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "৫ সেকেন্ড",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "৪ সেকেন্ড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "যেহেতু, উড্ডয়নকাল + পতনকাল = 2T; সুতরাং বস্তুটি সর্বোচ্চ স্থানে পৌঁছতে সময় লাগবে $\\frac{10}{2} = 5$ সেকেন্ড।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7f46d787-d5db-581e-b8ed-078e5ecc5d3f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q18",
+          "content_markdown": "চার্জকৃত একটি ফাঁপা ধাতব বলের কোন জায়গায় বৈদ্যুতিক ক্ষেত্র তৈরি হবে না?",
+          "structured_data": {
+            "question_number": "18",
+            "subtype": "mcq",
+            "stem": "চার্জকৃত একটি ফাঁপা ধাতব বলের কোন জায়গায় বৈদ্যুতিক ক্ষেত্র তৈরি হবে না?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "বলের ব্যাসার্ধের দ্বিগুণের দূরে",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "বলের অভ্যন্তরে",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "বলের পৃষ্ঠে",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "বলের বাইরে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "যেহেতু চার্জকৃত বলের অভ্যন্তরে বৈদ্যুতিক প্রাবল্য শূন্য থাকে তাই সেখানে কোনো বৈদ্যুতিক ক্ষেত্র তৈরি হবে না।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "af1ddd9e-8320-58d6-83ae-139a3db1353e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q19",
+          "content_markdown": "পিতা Rh+ যদি হয় এবং মাতা যদি Rh- হয় তবে তাদের ঔরসজাত প্রথম সন্তানের পররলিতে যে অবস্থা হতে পারে তাকে বলে-",
+          "structured_data": {
+            "question_number": "19",
+            "subtype": "mcq",
+            "stem": "পিতা Rh+ যদি হয় এবং মাতা যদি Rh- হয় তবে তাদের ঔরসজাত প্রথম সন্তানের পররলিতে যে অবস্থা হতে পারে তাকে বলে-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "থ্যালাসেমিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "এরিথ্রোব্লাস্টোসিস ফিটালিস",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "ফিটাল অ্যালকোহল সিনড্রোম",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কোন বিরূপ অবস্থা সৃষ্টি হবে না",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "সঠিক উত্তর অপশন 'B' অর্থাৎ এরিথ্রোব্লাস্টোসিস ফিটালিস।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "cfb07f92-4e3d-574b-95ab-ffc3f1fae446"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q20",
+          "content_markdown": "যেটি সত্য নয়-",
+          "structured_data": {
+            "question_number": "20",
+            "subtype": "mcq",
+            "stem": "যেটি সত্য নয়-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "একটি নিরপেক্ষ অণুতে উপস্থিত সবকটি পরমাণুর জারণ সংখ্যার সাধারণ যোগফল সব সময় শূন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "মৃৎক্ষারীয় ধাতুর জারণ সংখ্যা +২",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ধাতব হাইড্রাইডে হাইড্রোজেনের জারণ সংখ্যা +১",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "মুক্ত অবস্থায় সকল পরমাণুর জারণ সংখ্যা শূন্য",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "অপশন 'C' সত্য নয়; কারণ- ধাতব হাইড্রাইডে হাইড্রোজেনের জারণ সংখ্যা -১।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "27749b9c-ee49-50a4-bc2f-a1cba052de06"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q21",
+          "content_markdown": "যেটি তড়িৎযোজী যৌগের বৈশিষ্ট্যের মাঝে পড়ে না-",
+          "structured_data": {
+            "question_number": "21",
+            "subtype": "mcq",
+            "stem": "যেটি তড়িৎযোজী যৌগের বৈশিষ্ট্যের মাঝে পড়ে না-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "এসব যৌগ দানাদার বা কেলাসার",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "এরা সচরাচর পানিতে অদ্রবণীয়",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "গলিত অবস্থায় এবং দ্রবণে এরা আয়ানিত অবস্থায় থাকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "এদের অণুতে ধনাত্মক ও ঋণাত্মক দুটি পোল বা মেরু রয়েছে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "অপশন 'B' সঠিক নয়; কারণ- তড়িৎযোজী বা আয়নিক যৌগসমূহ পানিতে সর্বদাই দ্রবণীয়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4797e78b-1346-52a7-824c-33a1931e1009"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q22",
+          "content_markdown": "একবীজপত্রী উদ্ভিদের বৈশিষ্ট্য নয়-",
+          "structured_data": {
+            "question_number": "22",
+            "subtype": "mcq",
+            "stem": "একবীজপত্রী উদ্ভিদের বৈশিষ্ট্য নয়-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "পুষ্প স্তবকগুলো তিন বা তিনের গুণিতক হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "পাতা সাধারণত সমান্তরাল হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "প্রধানত বহুবর্ষজীবী নয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "পত্রমূল প্রশস্ত ও কাণ্ডবেষ্টক হয় না",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "অপশন 'D' একবীজপত্রী উদ্ভিদের বৈশিষ্ট্য নয়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1fba8eed-c37b-5ec0-bdd8-47d6f635e1fa"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q23",
+          "content_markdown": "একটি অভিসারী লেন্স পর্দায় বিম্ব ফেলার জন্য ব্যবহৃত হলো। যদি উহার উপরের অর্ধেক একটি অস্বচ্ছ পর্দা দিয়ে ঢেকে দেওয়া হয় তবে-",
+          "structured_data": {
+            "question_number": "23",
+            "subtype": "mcq",
+            "stem": "একটি অভিসারী লেন্স পর্দায় বিম্ব ফেলার জন্য ব্যবহৃত হলো। যদি উহার উপরের অর্ধেক একটি অস্বচ্ছ পর্দা দিয়ে ঢেকে দেওয়া হয় তবে-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "বিম্বের তীক্ষ্ণতা হ্রাস পাবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "বিম্বের তীক্ষ্ণতা বৃদ্ধি পাবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "পূর্ণ বিম্ব তৈরি হবে",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "অর্ধেক বিম্ব অদৃশ্য হয়ে যাবে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "সঠিক উত্তর অপশন 'C' অর্থাৎ পূর্ণ বিম্ব তৈরি হবে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ea8c61de-a643-535f-8c17-6cb5b9dfb60a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q24",
+          "content_markdown": "গতি তত্ত্বের স্বীকার্য সমূহের মধ্যে কোনটি সত্য নয়-",
+          "structured_data": {
+            "question_number": "24",
+            "subtype": "mcq",
+            "stem": "গতি তত্ত্বের স্বীকার্য সমূহের মধ্যে কোনটি সত্য নয়-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "গ্যাসের অণুগুলোর পরস্পরের প্রতি কোন আকর্ষণ বা বিকর্ষণ নেই বললেই চলে হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "গ্যাসের অণুসমূহের মোট প্রকৃত আয়তন গ্যাসের পাত্রের আয়তনের কাছাকাছি",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "গ্যাসের অণুসমূহ পাত্রের গায়ে যে সংঘর্ষ করে তার ফলেই গ্যাসের চাপ সৃষ্টি হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "গ্যাসের অণুসমূহ অবিরাম চতুর্দিকে ছুটাছুটি করে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "অপশন 'B' সত্য নয়; কারণ- গ্যাসের অণুসমূহের মোট প্রকৃত আয়তন গ্যাসের পাত্রের তুলনায় নগণ্য।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b06c3b1f-bee2-5299-99b4-d24835573a6c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q25",
+          "content_markdown": "মস্তিষ্কের চতুর্থ গহ্বর যেখানে অবস্থিত-",
+          "structured_data": {
+            "question_number": "25",
+            "subtype": "mcq",
+            "stem": "মস্তিষ্কের চতুর্থ গহ্বর যেখানে অবস্থিত-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ডায়েনসেফালন",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "মেসেনসেফালন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "মেডুলা অবলংগাটা",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "রম্বেনসেফালন",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "মস্তিষ্কের চতুর্থ গহ্বর রম্বেনসেফালনে অবস্থিত।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "da52e3d2-c8b6-5bc6-8b7d-a4b1c57d2452"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q26",
+          "content_markdown": "The most suitable pair of words that can be substituted in the blanks : With the .....of information technology, it is a ..... exercise to impose censorship in the media.",
+          "structured_data": {
+            "question_number": "26",
+            "subtype": "mcq",
+            "stem": "The most suitable pair of words that can be substituted in the blanks : With the .....of information technology, it is a ..... exercise to impose censorship in the media.",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "introduction...... wastage",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "news ......useless",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "advent.... futile",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "supply ....pointless",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "সঠিক উত্তর অপশন 'C' অর্থাৎ advent.... futile.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "148c628b-72c9-5834-9273-42bd5b8ec2e6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q27",
+          "content_markdown": "সাইফন কাজ করতে পারবে না যদি না-",
+          "structured_data": {
+            "question_number": "27",
+            "subtype": "mcq",
+            "stem": "সাইফন কাজ করতে পারবে না যদি না-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "দুই পাত্রের তরলের উষ্ণতা সমান হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ইহার প্রান্তের দৈর্ঘ্য অসমান হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "দুই পাত্রের তরলের উচ্চতা সমান হয়",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "দুই পাত্রে তরলের ঘনত্ব সমান হয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "সাইফনের প্রান্তের দৈর্ঘ্য অসমান হলে এটি কাজ করতে পারে না।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8f859c0a-d5ca-50fb-a70a-0c9ded4d9005"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 14,
+        "figure_count": 0,
+        "vlm_endpoint": "gemini_pool",
+        "vlm_model": "gemini-3.1-flash-lite",
+        "elapsed_sec": 11.96,
+        "eval_count": 1594
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1127,
+        "height": 1550
+      },
+      "raw_markdown": "৪৭৬ | দি মেডিসিন - মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার প্রশ্নব্যাংক\n\n## Q28\n**Type:** mcq\n**Stem:** ইথেন গ্যাস যেটিতে উৎপন্ন হবে-\n**Options:**\n- A. $4CO + 2H_2O \\xrightarrow{NiCO_3, 250^\\circ-270^\\circ C}$\n- B. $CO + 3H_2 \\xrightarrow{NiCO_3, 250^\\circ-270^\\circ C}$\n- C. $CH_3-CH_2-COONa+NaOH(CaO) \\xrightarrow{\\Delta}$\n- D. $CH_3-COONa + NaOH(CaO) \\xrightarrow{\\Delta}$\n**Answer:** C\n**Solution:** সঠিক উত্তর অপশন 'C' অর্থাৎ এই বিক্রিয়াটিকে ডিকার্বক্সিলেশন বিক্রিয়া বলে। বিক্রিয়াটি হলোঃ\nডিকার্বক্সিলেশন: $RCOONa + NaOH \\xrightarrow{CaO} R-H + Na_2CO_3$\n                                     $\\downarrow$\n                                     অ্যালকেন\n\n## Q29\n**Type:** mcq\n**Stem:** যেটি সেলুলোজের ধর্ম নয়-\n**Options:**\n- A. আয়োডিনের সাথে বিক্রিয়ায় কোন রং উৎপন্ন করে না\n- B. সাধারণ দ্রবণে অদ্রবণীয়\n- C. এর আণবিক ওজন আড়াই লক্ষ পর্যন্ত হতে পারে\n- D. এটি একটি অবিজারক পলিস্যাকারাইড\n**Answer:** NONE\n**Solution:** সবগুলো অপশনই সেলুলোজের ধর্ম।\n\n## Q30\n**Type:** mcq\n**Stem:** এন্টিমনি বিসমাথ থার্মোকাপলে তড়িৎ প্রবাহ হয়-\n**Options:**\n- A. যখন উভয় সংযোগ স্থল শীতল থাকে\n- B. যখন উভয় সংযোগ স্থল উত্তপ্ত থাকে\n- C. এন্টিমনি থেকে বিসমাথে শীতল সংযোগ স্থল হতে\n- D. এন্টিমনি থেকে বিসমাথে উত্তপ্ত সংযোগ স্থল হতে\n**Answer:** C\n**Solution:** সঠিক উত্তর অপশন 'C' অর্থাৎ এন্টিমনি থেকে বিসমাথে শীতল সংযোগ স্থল হতে।\n\n## Q31\n**Type:** mcq\n**Stem:** কোনটি হ্যালোজেনো অ্যালকেন?\n**Options:**\n- A. কার্বন টেট্রা হ্যালাইড\n- B. হ্যালোফর্ম\n- C. মিথিলিন হ্যালাইড\n- D. মিথাইল হ্যালাইড\n**Answer:** D\n**Solution:** মিথাইল হ্যালাইড (R-X) হচ্ছে হ্যালোজেনো অ্যালকেন।\n\n## Q32\n**Type:** mcq\n**Stem:** উপরের চোয়াল যে ধরনের অস্থি-\n**Options:**\n- A. খাটো বা ক্ষুদ্র অস্থি\n- B. অনিয়ত অস্থি\n- C. চাপা অস্থি\n- D. বায়ুপূর্ণ অস্থি\n**Answer:** D\n**Solution:** উপরের চোয়াল হচ্ছে বায়ুপূর্ণ অস্থি।\n\n## Q33\n**Type:** mcq\n**Stem:** একটি তারকে নির্দিষ্ট বিভব পার্থক্যে সংযোগ করা হলো। তারের পুরুত্ব বৃদ্ধি করলে কোনটি বৃদ্ধি পাবে?\n**Options:**\n- A. বিদ্যুৎ প্রবাহ\n- B. তারের ভিতর ইলেকট্রনের প্রবাহ গতি বেগ\n- C. তারের রোধ\n- D. তারের বৈদ্যুতিক ক্ষেত্র\n**Answer:** A\n**Solution:** সঠিক উত্তর অপশন 'A' অর্থাৎ বিদ্যুৎ প্রবাহ।\n\n## Q34\n**Type:** mcq\n**Stem:** ফসফরিক এসিডে ($H_3PO_3$) P-এর জারণ সংখ্যা কত?\n**Options:**\n- A. +1\n- B. +3\n- C. +5\n- D. +7\n**Answer:** B\n**Solution:** ধরি, $H_3PO_3$-এ P এর জারণ সংখ্যা x.\n$\\therefore 1 \\times 3 + x + (-2) \\times 3 = 0$\n$\\therefore x = +3$\n\n## Q35\n**Type:** mcq\n**Stem:** কোনটি সত্য নয়?\n**Options:**\n- A. আন্তঃপ্লাজমীয় জালিকা অমসৃণ না মসৃণ হবে তা নির্ভর করে রাইবোজোমের উপস্থিতির উপর\n- B. অধিকাংশ ইউক্যারিওটিক কোষে সাধারণত নিউক্লিয়াসের কাছাকাছি বিক্ষিপ্ত অবস্থায় গলগি বস্তু দেখা যায়\n- C. ফুলের পাপড়ি ও ফলের গায়ে বিভিন্ন বর্ণ বৈচিত্র্যের জন্য জ্যান্থোফিল ও ক্যারোটিনের বিভিন্ন অনুপাতে উপস্থিতির কারণ হিসেবে ধরে নেওয়া হয়\n- D. কোষঝিল্লির লিপিড স্তর বিন্যাসের ফ্লুইড মোজাইক মডেলটিকে সর্বজনগ্রাহ্য মডেল হিসেবে বিবেচনা করা হয়\n**Answer:** B\n**Solution:** অপশন 'B' সত্য নয়; কারণ- অধিকাংশ ইউক্যারিওটিক কোষে সাধারণত নিউক্লিয়াসের কাছাকাছি একত্রিত অবস্থায় গলগি বস্তু দেখা যায়।\n\n## Q36\n**Type:** mcq\n**Stem:** গ্যালাপাগোস দ্বীপ যে দেশে অন্তর্ভুক্ত সেই দেশের রাজধানীর নাম কী?\n**Options:**\n- A. ক্যারাকাস\n- B. সান্তিয়াগো\n- C. লাপাজ\n- D. কুইটো\n**Answer:** B\n**Solution:** সঠিক উত্তর অপশন 'B' অর্থাৎ সান্তিয়াগো।\n\n## Q37\n**Type:** mcq\n**Stem:** কৌণিক বিস্তার $4^\\circ$ এর বেশি না হলে সরল দোলকের বেলায় কোন উক্তিটি সঠিক নয়?\n**Options:**\n- A. একটি সরল দোলকের দোলনকাল পিণ্ডের ভর, আকৃতি ও উপাদানের উপর নির্ভর করে না\n- B. একটি সরল দোলকের দোলনকাল অভিকর্ষীয় ত্বরণের বর্গের ব্যস্তানুপাতিক\n- C. দোলনকাল কার্যকরী দৈর্ঘ্যের বর্গমূলের সমানুপাতিক\n- D. নির্দিষ্ট স্থানে নির্দিষ্ট দৈর্ঘ্য সম্পন্ন দোলকের দোলনকাল সমান\n**Answer:** B\n**Solution:** অপশন 'B' সঠিক নয়; কারণ- কৌণিক বিস্তার $4^\\circ$ এর বেশি না হলে একটি সরল দোলকের দোলনকাল অভিকর্ষীয় ত্বরণের বর্গমূলের ব্যস্তানুপাতিক এবং দোলনকাল কার্যকরী দৈর্ঘ্যের বর্গমূলের সমানুপাতিক।\n\n## Q38\n**Type:** mcq\n**Stem:** একটি জৈব এসিডের মধ্যে হাইড্রোজেন, H=1.6%, নাইট্রোজেন, N=22.23% এবং অক্সিজেন, O=76.16% হলে, এসিডটির সরল সংকেত কি হবে?\n**Options:**\n- A. $HNO_3$\n- B. $H_2NO_2$\n- C. HNO\n- D. $HNO_2$\n**Answer:** D\n**Solution:** এসিডটির সরল সংকেত দাঁড়াবে $HNO_2$।\n\n## Q39\n**Type:** mcq\n**Stem:** ব্রঙ্কিয়াল নালীগুলোর পর্যায়ক্রমিক বিভক্তির মাঝে কোনটি সঠিক?\n**Options:**\n- A. মুখ্য ব্রঙ্কাই $\\rightarrow$ গৌণ ব্রঙ্কাই $\\rightarrow$ ব্রঙ্কিওল $\\rightarrow$ প্রান্তীয় ব্রঙ্কিওল $\\rightarrow$ শ্বসন ব্রঙ্কিওল $\\rightarrow$ অ্যালভিওলার নালী $\\rightarrow$ অ্যালভিওলার থলি $\\rightarrow$ অ্যালভিওলি।\n- B. মুখ্য ব্রঙ্কাই $\\rightarrow$ গৌণ ব্রঙ্কাই $\\rightarrow$ প্রান্তীয় ব্রঙ্কিওল $\\rightarrow$ শ্বসন ব্রঙ্কিওল $\\rightarrow$ ব্রঙ্কিওল $\\rightarrow$ অ্যালভিওলার নালী $\\rightarrow$ অ্যালভিওলার থলি $\\rightarrow$ অ্যালভিওলি।\n- C. মুখ্য ব্রঙ্কাই $\\rightarrow$ গৌণ ব্রঙ্কাই $\\rightarrow$ ব্রঙ্কিওল $\\rightarrow$ প্রান্তীয় ব্রঙ্কিওল $\\rightarrow$ অ্যালভিওলার নালী $\\rightarrow$ শ্বসন ব্রঙ্কিওল $\\rightarrow$ অ্যালভিওলি $\\rightarrow$ অ্যালভিওলার থলি।\n- D. মুখ্য ব্রঙ্কাই $\\rightarrow$ গৌণ ব্রঙ্কাই $\\rightarrow$ ব্রঙ্কিওল $\\rightarrow$ শ্বসন ব্রঙ্কিওল $\\rightarrow$ প্রান্তীয় ব্রঙ্কিওল $\\rightarrow$ অ্যালভিওলার নালী $\\rightarrow$ অ্যালভিওলার থলি $\\rightarrow$ অ্যালভিওলি।\n**Answer:** A\n**Solution:** সঠিক উত্তর অপশন 'A' অর্থাৎ মুখ্য ব্রঙ্কাই $\\rightarrow$ গৌণ ব্রঙ্কাই $\\rightarrow$ ব্রঙ্কিওল $\\rightarrow$ প্রান্তীয় ব্রঙ্কিওল $\\rightarrow$ শ্বসন ব্রঙ্কিওল $\\rightarrow$ অ্যালভিওলার নালী $\\rightarrow$ অ্যালভিওলার থলি $\\rightarrow$ অ্যালভিওলি।",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "৪৭৬ | দি মেডিসিন - মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার প্রশ্নব্যাংক",
+          "structured_data": {},
+          "id": "404f9ef6-1634-55f7-aaec-2812b19f493a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q28",
+          "content_markdown": "ইথেন গ্যাস যেটিতে উৎপন্ন হবে-",
+          "structured_data": {
+            "question_number": "28",
+            "subtype": "mcq",
+            "stem": "ইথেন গ্যাস যেটিতে উৎপন্ন হবে-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "$4CO + 2H_2O \\xrightarrow{NiCO_3, 250^\\circ-270^\\circ C}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "$CO + 3H_2 \\xrightarrow{NiCO_3, 250^\\circ-270^\\circ C}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "$CH_3-CH_2-COONa+NaOH(CaO) \\xrightarrow{\\Delta}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "$CH_3-COONa + NaOH(CaO) \\xrightarrow{\\Delta}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "সঠিক উত্তর অপশন 'C' অর্থাৎ এই বিক্রিয়াটিকে ডিকার্বক্সিলেশন বিক্রিয়া বলে। বিক্রিয়াটি হলোঃ\nডিকার্বক্সিলেশন: $RCOONa + NaOH \\xrightarrow{CaO} R-H + Na_2CO_3$\n                                     $\\downarrow$\n                                     অ্যালকেন",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "571b3e74-b3db-5da1-b98f-ff5a77570636"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q29",
+          "content_markdown": "যেটি সেলুলোজের ধর্ম নয়-",
+          "structured_data": {
+            "question_number": "29",
+            "subtype": "mcq",
+            "stem": "যেটি সেলুলোজের ধর্ম নয়-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "আয়োডিনের সাথে বিক্রিয়ায় কোন রং উৎপন্ন করে না",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "সাধারণ দ্রবণে অদ্রবণীয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "এর আণবিক ওজন আড়াই লক্ষ পর্যন্ত হতে পারে",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "এটি একটি অবিজারক পলিস্যাকারাইড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সবগুলো অপশনই সেলুলোজের ধর্ম।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0d409097-ff24-5614-b08b-bf151fc233f0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q30",
+          "content_markdown": "এন্টিমনি বিসমাথ থার্মোকাপলে তড়িৎ প্রবাহ হয়-",
+          "structured_data": {
+            "question_number": "30",
+            "subtype": "mcq",
+            "stem": "এন্টিমনি বিসমাথ থার্মোকাপলে তড়িৎ প্রবাহ হয়-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "যখন উভয় সংযোগ স্থল শীতল থাকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "যখন উভয় সংযোগ স্থল উত্তপ্ত থাকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "এন্টিমনি থেকে বিসমাথে শীতল সংযোগ স্থল হতে",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "এন্টিমনি থেকে বিসমাথে উত্তপ্ত সংযোগ স্থল হতে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "সঠিক উত্তর অপশন 'C' অর্থাৎ এন্টিমনি থেকে বিসমাথে শীতল সংযোগ স্থল হতে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9fe1050e-27c7-5e60-9b7c-56881c53486c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q31",
+          "content_markdown": "কোনটি হ্যালোজেনো অ্যালকেন?",
+          "structured_data": {
+            "question_number": "31",
+            "subtype": "mcq",
+            "stem": "কোনটি হ্যালোজেনো অ্যালকেন?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "কার্বন টেট্রা হ্যালাইড",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "হ্যালোফর্ম",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "মিথিলিন হ্যালাইড",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "মিথাইল হ্যালাইড",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "মিথাইল হ্যালাইড (R-X) হচ্ছে হ্যালোজেনো অ্যালকেন।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c113821b-f3f8-5abd-bcf8-f774fa69549c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q32",
+          "content_markdown": "উপরের চোয়াল যে ধরনের অস্থি-",
+          "structured_data": {
+            "question_number": "32",
+            "subtype": "mcq",
+            "stem": "উপরের চোয়াল যে ধরনের অস্থি-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "খাটো বা ক্ষুদ্র অস্থি",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "অনিয়ত অস্থি",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "চাপা অস্থি",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "বায়ুপূর্ণ অস্থি",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "উপরের চোয়াল হচ্ছে বায়ুপূর্ণ অস্থি।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8d433801-2113-5593-929b-41169287289b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q33",
+          "content_markdown": "একটি তারকে নির্দিষ্ট বিভব পার্থক্যে সংযোগ করা হলো। তারের পুরুত্ব বৃদ্ধি করলে কোনটি বৃদ্ধি পাবে?",
+          "structured_data": {
+            "question_number": "33",
+            "subtype": "mcq",
+            "stem": "একটি তারকে নির্দিষ্ট বিভব পার্থক্যে সংযোগ করা হলো। তারের পুরুত্ব বৃদ্ধি করলে কোনটি বৃদ্ধি পাবে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "বিদ্যুৎ প্রবাহ",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "তারের ভিতর ইলেকট্রনের প্রবাহ গতি বেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "তারের রোধ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "তারের বৈদ্যুতিক ক্ষেত্র",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "সঠিক উত্তর অপশন 'A' অর্থাৎ বিদ্যুৎ প্রবাহ।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "978b7327-ebe7-50b9-a38b-d098863c112b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q34",
+          "content_markdown": "ফসফরিক এসিডে ($H_3PO_3$) P-এর জারণ সংখ্যা কত?",
+          "structured_data": {
+            "question_number": "34",
+            "subtype": "mcq",
+            "stem": "ফসফরিক এসিডে ($H_3PO_3$) P-এর জারণ সংখ্যা কত?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "+1",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "+3",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "+5",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "+7",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "ধরি, $H_3PO_3$-এ P এর জারণ সংখ্যা x.\n$\\therefore 1 \\times 3 + x + (-2) \\times 3 = 0$\n$\\therefore x = +3$",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3f2709f6-a2a2-5acf-8a26-c2734d7a35b7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q35",
+          "content_markdown": "কোনটি সত্য নয়?",
+          "structured_data": {
+            "question_number": "35",
+            "subtype": "mcq",
+            "stem": "কোনটি সত্য নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "আন্তঃপ্লাজমীয় জালিকা অমসৃণ না মসৃণ হবে তা নির্ভর করে রাইবোজোমের উপস্থিতির উপর",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "অধিকাংশ ইউক্যারিওটিক কোষে সাধারণত নিউক্লিয়াসের কাছাকাছি বিক্ষিপ্ত অবস্থায় গলগি বস্তু দেখা যায়",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "ফুলের পাপড়ি ও ফলের গায়ে বিভিন্ন বর্ণ বৈচিত্র্যের জন্য জ্যান্থোফিল ও ক্যারোটিনের বিভিন্ন অনুপাতে উপস্থিতির কারণ হিসেবে ধরে নেওয়া হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কোষঝিল্লির লিপিড স্তর বিন্যাসের ফ্লুইড মোজাইক মডেলটিকে সর্বজনগ্রাহ্য মডেল হিসেবে বিবেচনা করা হয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "অপশন 'B' সত্য নয়; কারণ- অধিকাংশ ইউক্যারিওটিক কোষে সাধারণত নিউক্লিয়াসের কাছাকাছি একত্রিত অবস্থায় গলগি বস্তু দেখা যায়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "19440e78-3c49-595d-a27c-b47a9707e145"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q36",
+          "content_markdown": "গ্যালাপাগোস দ্বীপ যে দেশে অন্তর্ভুক্ত সেই দেশের রাজধানীর নাম কী?",
+          "structured_data": {
+            "question_number": "36",
+            "subtype": "mcq",
+            "stem": "গ্যালাপাগোস দ্বীপ যে দেশে অন্তর্ভুক্ত সেই দেশের রাজধানীর নাম কী?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ক্যারাকাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "সান্তিয়াগো",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "লাপাজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কুইটো",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "সঠিক উত্তর অপশন 'B' অর্থাৎ সান্তিয়াগো।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "90471039-6802-555a-b705-3454f99fc3f6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q37",
+          "content_markdown": "কৌণিক বিস্তার $4^\\circ$ এর বেশি না হলে সরল দোলকের বেলায় কোন উক্তিটি সঠিক নয়?",
+          "structured_data": {
+            "question_number": "37",
+            "subtype": "mcq",
+            "stem": "কৌণিক বিস্তার $4^\\circ$ এর বেশি না হলে সরল দোলকের বেলায় কোন উক্তিটি সঠিক নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "একটি সরল দোলকের দোলনকাল পিণ্ডের ভর, আকৃতি ও উপাদানের উপর নির্ভর করে না",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "একটি সরল দোলকের দোলনকাল অভিকর্ষীয় ত্বরণের বর্গের ব্যস্তানুপাতিক",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "দোলনকাল কার্যকরী দৈর্ঘ্যের বর্গমূলের সমানুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "নির্দিষ্ট স্থানে নির্দিষ্ট দৈর্ঘ্য সম্পন্ন দোলকের দোলনকাল সমান",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "অপশন 'B' সঠিক নয়; কারণ- কৌণিক বিস্তার $4^\\circ$ এর বেশি না হলে একটি সরল দোলকের দোলনকাল অভিকর্ষীয় ত্বরণের বর্গমূলের ব্যস্তানুপাতিক এবং দোলনকাল কার্যকরী দৈর্ঘ্যের বর্গমূলের সমানুপাতিক।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "bcdc084a-bdf6-50f5-8dcd-84f2ef9d82a8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q38",
+          "content_markdown": "একটি জৈব এসিডের মধ্যে হাইড্রোজেন, H=1.6%, নাইট্রোজেন, N=22.23% এবং অক্সিজেন, O=76.16% হলে, এসিডটির সরল সংকেত কি হবে?",
+          "structured_data": {
+            "question_number": "38",
+            "subtype": "mcq",
+            "stem": "একটি জৈব এসিডের মধ্যে হাইড্রোজেন, H=1.6%, নাইট্রোজেন, N=22.23% এবং অক্সিজেন, O=76.16% হলে, এসিডটির সরল সংকেত কি হবে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "$HNO_3$",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "$H_2NO_2$",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "HNO",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "$HNO_2$",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "এসিডটির সরল সংকেত দাঁড়াবে $HNO_2$।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3c814ac6-a145-50b5-b1e1-6e0f59b5944b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q39",
+          "content_markdown": "ব্রঙ্কিয়াল নালীগুলোর পর্যায়ক্রমিক বিভক্তির মাঝে কোনটি সঠিক?",
+          "structured_data": {
+            "question_number": "39",
+            "subtype": "mcq",
+            "stem": "ব্রঙ্কিয়াল নালীগুলোর পর্যায়ক্রমিক বিভক্তির মাঝে কোনটি সঠিক?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "মুখ্য ব্রঙ্কাই $\\rightarrow$ গৌণ ব্রঙ্কাই $\\rightarrow$ ব্রঙ্কিওল $\\rightarrow$ প্রান্তীয় ব্রঙ্কিওল $\\rightarrow$ শ্বসন ব্রঙ্কিওল $\\rightarrow$ অ্যালভিওলার নালী $\\rightarrow$ অ্যালভিওলার থলি $\\rightarrow$ অ্যালভিওলি।",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "মুখ্য ব্রঙ্কাই $\\rightarrow$ গৌণ ব্রঙ্কাই $\\rightarrow$ প্রান্তীয় ব্রঙ্কিওল $\\rightarrow$ শ্বসন ব্রঙ্কিওল $\\rightarrow$ ব্রঙ্কিওল $\\rightarrow$ অ্যালভিওলার নালী $\\rightarrow$ অ্যালভিওলার থলি $\\rightarrow$ অ্যালভিওলি।",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "মুখ্য ব্রঙ্কাই $\\rightarrow$ গৌণ ব্রঙ্কাই $\\rightarrow$ ব্রঙ্কিওল $\\rightarrow$ প্রান্তীয় ব্রঙ্কিওল $\\rightarrow$ অ্যালভিওলার নালী $\\rightarrow$ শ্বসন ব্রঙ্কিওল $\\rightarrow$ অ্যালভিওলি $\\rightarrow$ অ্যালভিওলার থলি।",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "মুখ্য ব্রঙ্কাই $\\rightarrow$ গৌণ ব্রঙ্কাই $\\rightarrow$ ব্রঙ্কিওল $\\rightarrow$ শ্বসন ব্রঙ্কিওল $\\rightarrow$ প্রান্তীয় ব্রঙ্কিওল $\\rightarrow$ অ্যালভিওলার নালী $\\rightarrow$ অ্যালভিওলার থলি $\\rightarrow$ অ্যালভিওলি।",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "সঠিক উত্তর অপশন 'A' অর্থাৎ মুখ্য ব্রঙ্কাই $\\rightarrow$ গৌণ ব্রঙ্কাই $\\rightarrow$ ব্রঙ্কিওল $\\rightarrow$ প্রান্তীয় ব্রঙ্কিওল $\\rightarrow$ শ্বসন ব্রঙ্কিওল $\\rightarrow$ অ্যালভিওলার নালী $\\rightarrow$ অ্যালভিওলার থলি $\\rightarrow$ অ্যালভিওলি।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "39faa559-75d7-5e6a-acf4-e8e3ad06a3a7"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 13,
+        "figure_count": 0,
+        "vlm_endpoint": "gemini_pool",
+        "vlm_model": "gemini-3.1-flash-lite",
+        "elapsed_sec": 12.59,
+        "eval_count": 1835
+      }
+    },
+    {
+      "page_number": 4,
+      "printed_page_number": "৪৭৭",
+      "page_header": "দি মেডিসিন - মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার প্রশ্নব্যাংক",
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1127,
+        "height": 1550
+      },
+      "raw_markdown": "## Q40\n**Type:** mcq\n**Stem:** নিচের কোন লেন্সটি হ্রস্বদৃষ্টি বা মায়োপিয়া ত্রুটি দূর করতে ব্যবহৃত হয়?\n**Options:**\n- a) সমতললেল লেন্স\n- b) ধনাত্মক ক্ষমতা সম্পন্ন উত্তলাবতল লেন্স\n- c) সমতলবতল লেন্স\n- d) ঋণাত্মক শক্তি সম্পন্ন উত্তলাবতল লেন্স\n**Answer:** d)\n**Solution:** NONE\n**Tags:** NONE\n\n## Q41\n**Type:** mcq\n**Stem:** $C_6H_{12}O_6 \\xrightarrow{\\text{উৎসেচক}} 2CH_3CH(OH)COOH + 18kcal$ তাপশক্তি। এই সমীকরণটি থেকে যা বোঝানো হচ্ছে-\n**Options:**\n- a) ফারমেন্টেশন\n- b) অবাত শ্বসন\n- c) গ্লাইকোলাইসিস\n- d) সবাত শ্বসন\n**Answer:** b)\n**Solution:** সঠিক উত্তর অপশন 'B' অর্থাৎ অবাত শ্বসন।\n## ConceptNote: নিচের ব্যাখ্যাটি লক্ষ্য কর : [হাসান]\n→ সালোক সংশ্লেষণের রাসায়নিক সমীকরণ-\n$6CO_2 + 12H_2O \\xrightarrow[\\text{ক্লোরোফিল}]{\\text{আলো}} C_6H_{12}O_6 + 6O_2 + 6H_2O$\n→ সবাত শ্বসনের রাসায়নিক সমীকরণ-\n$C_6H_{12}O_6 + 6H_2O + 6O_2 \\rightarrow 6CO_2 + 12H_2O + 380 kcal$ শক্তি।\n→ অবাত শ্বসনের রাসায়নিক সমীকরণ-\n$C_6H_{12}O_6 \\xrightarrow{\\text{উৎসেচক}} 2C_2H_5OH + 2CO_2 + 18 kcal$ শক্তি।\n**Tags:** NONE\n\n## Q42\n**Type:** mcq\n**Stem:** রুবি পাথরে 97.5% $Al_2O_3$-এর সাথে যে অক্সাইডটি মিশ্রিত থাকে-\n**Options:**\n- a) ফেরোসফেরিক অক্সাইড\n- b) ক্রোমিয়াম অক্সাইড\n- c) লিথিয়াম অক্সাইড\n- d) টাইটানিয়াম অক্সাইড\n**Answer:** b)\n**Solution:** NONE\n**Tags:** NONE\n\n## Q43\n**Type:** mcq\n**Stem:** একটি পদার্থ নির্দিষ্ট দ্রুতিতে বৃত্তাকার পথে চলছে। তখন ইহার ত্বরণ হবে-\n**Options:**\n- a) সুষমত্বরণে ও বলের দিক হতে বৃত্তের উপর অঙ্কিত ট্যানজেন্ট পথে\n- b) সুষমত্বরণে চলবে এবং কেন্দ্রবিমুখ হবে\n- c) সুষমত্বরণে চলবে এবং কেন্দ্রবিমুখী\n- d) শূন্য\n**Answer:** c)\n**Solution:** কোন বস্তু সুষম বৃত্তাকার গতিতে চললে বেগের মানের পরিবর্তন হয় না কিন্তু বেগের দিক পরিবর্তন হয় এবং তা কেন্দ্রবিমুখী হয়।\n**Tags:** NONE\n\n## Q44\n**Type:** mcq\n**Stem:** $NaNO_3$, বরফ ইত্যাদির কেলাস সমূহের কাঠামোর নাম-\n**Options:**\n- a) রম্বোহেড্রাল\n- b) অর্থোরম্বিক\n- c) টেট্রাগোনাল\n- d) ঘনক\n**Answer:** a)\n**Solution:** NONE\n**Tags:** NONE\n\n## Q45\n**Type:** mcq\n**Stem:** যকৃত নালী কোথায় উন্মুক্ত হয়?\n**Options:**\n- a) অনুপ্রস্থ কোলনে\n- b) পাইলোরিক স্ফিঙ্কটারে\n- c) ডিওডেনামে\n- d) জেজুনামে\n**Answer:** c)\n**Solution:** যকৃত নালী ডিওডেনামে উন্মুক্ত হয়।\n**Tags:** NONE\n\n## Q46\n**Type:** mcq\n**Stem:** Choose the alternative that is almost similar to the meaning to the word 'unequivocal'-\n**Options:**\n- a) Not protesting\n- b) Low voice\n- c) Unequal\n- d) Clear\n**Answer:** d)\n**Solution:** সঠিক উত্তর অপশন 'D' কারণ- Unequivocal শব্দটির অর্থ হচ্ছে স্পষ্ট বা পরিষ্কার এবং clear শব্দটির অর্থও স্পষ্ট।\n**Tags:** NONE\n\n## Q47\n**Type:** mcq\n**Stem:** বায়ু হতে শব্দ পানিতে প্রবেশ করলে শব্দের কম্পাঙ্ক-\n**Options:**\n- a) শূন্য হবে\n- b) অপরিবর্তিত থাকবে\n- c) বৃদ্ধি পাবে\n- d) হ্রাস পাবে\n**Answer:** b)\n**Solution:** বায়ু হতে শব্দ পানিতে প্রবেশ করলে শব্দের কম্পাঙ্ক বৃদ্ধি পাবে; কেননা- শব্দের বেগ সবচেয়ে বেশি কঠিন মাধ্যমে, তার চেয়ে কম তরল মাধ্যমে এবং সবচেয়ে কম বায়ু মাধ্যমে।\n**Tags:** NONE\n\n## Q48\n**Type:** mcq\n**Stem:** কোনটি সত্য নয়?\n**Options:**\n- a) IIA উপগ্রুপের ধাতু কার্বন দ্বারা বিজারিত হয়\n- b) বাহ্যিক তাপমাত্রা, চাপ ও সংযুতির কোন পরিবর্তন না হলে, কোন সিস্টেম একবার সাম্যাবস্থায় পৌঁছলে এ সাম্যাবস্থা অনন্তকাল ধরে চলবে; এটি রাসায়নিক সাম্যাবস্থার একটি বৈশিষ্ট্য\n- c) রাউল্টের সূত্রকে ভিন্নভাবে বললে বলা চলে যে, 'দ্রবণের বাষ্পচাপ (P) দ্রাবকের মোল ভগ্নাংশের (X) সমানুপাতিক'\n- d) NaCl এর ১০০ সেমি³ জলীয় দ্রবণে ১০ গ্রাম NaCl এর ১০ % (W/V) দ্রবণ বলে\n**Answer:** a)\n**Solution:** অপশন 'A' সত্য নয়; কারণ- গ্রুপ IIA এর অন্তর্ভুক্ত ধাতুসমূহকে (Be, Mg, Ca, Sr, Ba ও Ra) তড়িৎ বিশ্লেষণ পদ্ধতিতে নিষ্কাশন করা হয়। যেহেতু কার্বনের চেয়ে এদের তড়িৎ ধনাত্মকতা বেশি তাই, কার্বন দ্বারা এদের বিজারণ সম্ভব নয়।\n**Tags:** NONE\n\n## Q49\n**Type:** mcq\n**Stem:** প্রতি পর্ব থেকে তিন বা ততোধিক পাতা উৎপন্ন হয়ে কাণ্ডের চার দিকে বিন্যস্ত থাকলে যে পত্র বিন্যাসে সনাক্ত করা হয়-\n**Options:**\n- a) করতলা\n- b) একান্তর\n- c) অভিমুখ\n- d) আবর্ত\n**Answer:** d)\n**Solution:** সঠিক উত্তর অপশন 'D' অর্থাৎ আবর্ত।\n**Tags:** NONE\n\n## Q50\n**Type:** mcq\n**Stem:** কোন উক্তিটি সত্য নয়?\n**Options:**\n- a) বরফ গলনের সুপ্ততাপ 80°C\n- b) কোন বস্তুকে খাড়া উপরের দিকে নিক্ষেপ করলে সর্বোচ্চ উচ্চতায় গতি সর্বোচ্চ হবে\n- c) কোন বন্ধ ঘরে পানি ছিটিয়ে দিলে আপেক্ষিক আর্দ্রতা বৃদ্ধি পায়\n- d) শব্দ প্রবাহের জন্য মাধ্যমের দরকার\n**Answer:** b)\n**Solution:** অপশন A, B সত্য নয়; কারণ-\n→ অপশন A- বরফ গলনের সুপ্ততাপ 80 Kcal/Kg.\n→ অপশন B- কোন বস্তুকে খাড়া উপরের দিকে নিক্ষেপ করলে সর্বোচ্চ উচ্চতায় গতি হবে সর্বনিম্ন।\n**Tags:** NONE\n\n## Q51\n**Type:** mcq\n**Stem:** কোনটি সত্য নয়-\n**Options:**\n- a) ফ্যারাডের সূত্র ইলেকট্রোলাইটিক পরিবহনের ক্ষেত্রে প্রযোজ্য হলেও ইলেকট্রনীয় পরিবহনের ক্ষেত্রে প্রযোজ্য নয়\n- b) এসিডীয় মাধ্যমে পটাশিয়াম ডাইক্রোমেট জারক হিসেবে যা ক্রিয়া করে তা পটাশিয়াম পারম্যাঙ্গানেট অপেক্ষা অধিক শক্তিশালী\n- c) 5.00 গ্রাম 'চারকোল' অক্সিজেনপূর্ণ একটি বড় ফ্লাস্কে সম্পূর্ণভাবে পোড়ানো হলে ফ্লাস্কের ভিতর ১৮.৩৩ গ্রাম $CO_2$ উৎপন্ন হবে। (Ca = 40, O = 16)\n- d) রঙ্গিন সোদক কেলাসসমূহের কেলাস গঠন ও বর্ণ উভয়ের জন্য দায়ী কেলাস পানি\n**Answer:** b)\n**Solution:** অপশন 'B' সত্য নয়; এখানে কম শক্তিশালী হবে।\n**Tags:** NONE",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q40",
+          "content_markdown": "নিচের কোন লেন্সটি হ্রস্বদৃষ্টি বা মায়োপিয়া ত্রুটি দূর করতে ব্যবহৃত হয়?",
+          "structured_data": {
+            "question_number": "40",
+            "subtype": "mcq",
+            "stem": "নিচের কোন লেন্সটি হ্রস্বদৃষ্টি বা মায়োপিয়া ত্রুটি দূর করতে ব্যবহৃত হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সমতললেল লেন্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ধনাত্মক ক্ষমতা সম্পন্ন উত্তলাবতল লেন্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সমতলবতল লেন্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ঋণাত্মক শক্তি সম্পন্ন উত্তলাবতল লেন্স",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f0e80c3a-cdf0-5f45-bfeb-15b3e4f3fe79"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q41",
+          "content_markdown": "$C_6H_{12}O_6 \\xrightarrow{\\text{উৎসেচক}} 2CH_3CH(OH)COOH + 18kcal$ তাপশক্তি। এই সমীকরণটি থেকে যা বোঝানো হচ্ছে-",
+          "structured_data": {
+            "question_number": "41",
+            "subtype": "mcq",
+            "stem": "$C_6H_{12}O_6 \\xrightarrow{\\text{উৎসেচক}} 2CH_3CH(OH)COOH + 18kcal$ তাপশক্তি। এই সমীকরণটি থেকে যা বোঝানো হচ্ছে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ফারমেন্টেশন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অবাত শ্বসন",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "গ্লাইকোলাইসিস",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সবাত শ্বসন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b)",
+            "solution_markdown": "সঠিক উত্তর অপশন 'B' অর্থাৎ অবাত শ্বসন।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c5d66ef6-9c4a-5ef2-aa46-0fb0b7a491b5"
+        },
+        {
+          "block_type": "callout_tip",
+          "title": "নিচের ব্যাখ্যাটি লক্ষ্য কর : [হাসান]",
+          "content_markdown": "→ সালোক সংশ্লেষণের রাসায়নিক সমীকরণ-\n$6CO_2 + 12H_2O \\xrightarrow[\\text{ক্লোরোফিল}]{\\text{আলো}} C_6H_{12}O_6 + 6O_2 + 6H_2O$\n→ সবাত শ্বসনের রাসায়নিক সমীকরণ-\n$C_6H_{12}O_6 + 6H_2O + 6O_2 \\rightarrow 6CO_2 + 12H_2O + 380 kcal$ শক্তি।\n→ অবাত শ্বসনের রাসায়নিক সমীকরণ-\n$C_6H_{12}O_6 \\xrightarrow{\\text{উৎসেচক}} 2C_2H_5OH + 2CO_2 + 18 kcal$ শক্তি।\n**Tags:** NONE",
+          "structured_data": {},
+          "id": "10d0dfbb-5ab5-5080-9d28-0d3b607f36ae"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q42",
+          "content_markdown": "রুবি পাথরে 97.5% $Al_2O_3$-এর সাথে যে অক্সাইডটি মিশ্রিত থাকে-",
+          "structured_data": {
+            "question_number": "42",
+            "subtype": "mcq",
+            "stem": "রুবি পাথরে 97.5% $Al_2O_3$-এর সাথে যে অক্সাইডটি মিশ্রিত থাকে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ফেরোসফেরিক অক্সাইড",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ক্রোমিয়াম অক্সাইড",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "লিথিয়াম অক্সাইড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "টাইটানিয়াম অক্সাইড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a28b0ac6-0da5-5c12-9969-02057705c941"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q43",
+          "content_markdown": "একটি পদার্থ নির্দিষ্ট দ্রুতিতে বৃত্তাকার পথে চলছে। তখন ইহার ত্বরণ হবে-",
+          "structured_data": {
+            "question_number": "43",
+            "subtype": "mcq",
+            "stem": "একটি পদার্থ নির্দিষ্ট দ্রুতিতে বৃত্তাকার পথে চলছে। তখন ইহার ত্বরণ হবে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সুষমত্বরণে ও বলের দিক হতে বৃত্তের উপর অঙ্কিত ট্যানজেন্ট পথে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সুষমত্বরণে চলবে এবং কেন্দ্রবিমুখ হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সুষমত্বরণে চলবে এবং কেন্দ্রবিমুখী",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "শূন্য",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c)",
+            "solution_markdown": "কোন বস্তু সুষম বৃত্তাকার গতিতে চললে বেগের মানের পরিবর্তন হয় না কিন্তু বেগের দিক পরিবর্তন হয় এবং তা কেন্দ্রবিমুখী হয়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "646efa8c-688b-5d2d-a255-a7e76bd2a094"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q44",
+          "content_markdown": "$NaNO_3$, বরফ ইত্যাদির কেলাস সমূহের কাঠামোর নাম-",
+          "structured_data": {
+            "question_number": "44",
+            "subtype": "mcq",
+            "stem": "$NaNO_3$, বরফ ইত্যাদির কেলাস সমূহের কাঠামোর নাম-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "রম্বোহেড্রাল",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "অর্থোরম্বিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "টেট্রাগোনাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ঘনক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "de1e78d3-2596-5084-96e3-852be97bde2e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q45",
+          "content_markdown": "যকৃত নালী কোথায় উন্মুক্ত হয়?",
+          "structured_data": {
+            "question_number": "45",
+            "subtype": "mcq",
+            "stem": "যকৃত নালী কোথায় উন্মুক্ত হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অনুপ্রস্থ কোলনে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "পাইলোরিক স্ফিঙ্কটারে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ডিওডেনামে",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "জেজুনামে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c)",
+            "solution_markdown": "যকৃত নালী ডিওডেনামে উন্মুক্ত হয়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "cbd21caf-c260-5c7a-bdf6-1bd84084ff23"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q46",
+          "content_markdown": "Choose the alternative that is almost similar to the meaning to the word 'unequivocal'-",
+          "structured_data": {
+            "question_number": "46",
+            "subtype": "mcq",
+            "stem": "Choose the alternative that is almost similar to the meaning to the word 'unequivocal'-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Not protesting",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Low voice",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Unequal",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Clear",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d)",
+            "solution_markdown": "সঠিক উত্তর অপশন 'D' কারণ- Unequivocal শব্দটির অর্থ হচ্ছে স্পষ্ট বা পরিষ্কার এবং clear শব্দটির অর্থও স্পষ্ট।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0313e078-da35-5b02-804c-a1ff48df6b48"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q47",
+          "content_markdown": "বায়ু হতে শব্দ পানিতে প্রবেশ করলে শব্দের কম্পাঙ্ক-",
+          "structured_data": {
+            "question_number": "47",
+            "subtype": "mcq",
+            "stem": "বায়ু হতে শব্দ পানিতে প্রবেশ করলে শব্দের কম্পাঙ্ক-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "শূন্য হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অপরিবর্তিত থাকবে",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "বৃদ্ধি পাবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "হ্রাস পাবে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b)",
+            "solution_markdown": "বায়ু হতে শব্দ পানিতে প্রবেশ করলে শব্দের কম্পাঙ্ক বৃদ্ধি পাবে; কেননা- শব্দের বেগ সবচেয়ে বেশি কঠিন মাধ্যমে, তার চেয়ে কম তরল মাধ্যমে এবং সবচেয়ে কম বায়ু মাধ্যমে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ec781531-d4ae-5460-846f-be0c92ad3887"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q48",
+          "content_markdown": "কোনটি সত্য নয়?",
+          "structured_data": {
+            "question_number": "48",
+            "subtype": "mcq",
+            "stem": "কোনটি সত্য নয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "IIA উপগ্রুপের ধাতু কার্বন দ্বারা বিজারিত হয়",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "বাহ্যিক তাপমাত্রা, চাপ ও সংযুতির কোন পরিবর্তন না হলে, কোন সিস্টেম একবার সাম্যাবস্থায় পৌঁছলে এ সাম্যাবস্থা অনন্তকাল ধরে চলবে; এটি রাসায়নিক সাম্যাবস্থার একটি বৈশিষ্ট্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রাউল্টের সূত্রকে ভিন্নভাবে বললে বলা চলে যে, 'দ্রবণের বাষ্পচাপ (P) দ্রাবকের মোল ভগ্নাংশের (X) সমানুপাতিক'",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "NaCl এর ১০০ সেমি³ জলীয় দ্রবণে ১০ গ্রাম NaCl এর ১০ % (W/V) দ্রবণ বলে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a)",
+            "solution_markdown": "অপশন 'A' সত্য নয়; কারণ- গ্রুপ IIA এর অন্তর্ভুক্ত ধাতুসমূহকে (Be, Mg, Ca, Sr, Ba ও Ra) তড়িৎ বিশ্লেষণ পদ্ধতিতে নিষ্কাশন করা হয়। যেহেতু কার্বনের চেয়ে এদের তড়িৎ ধনাত্মকতা বেশি তাই, কার্বন দ্বারা এদের বিজারণ সম্ভব নয়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fb6387bb-134c-5295-b6ea-de92fdb8c8d8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q49",
+          "content_markdown": "প্রতি পর্ব থেকে তিন বা ততোধিক পাতা উৎপন্ন হয়ে কাণ্ডের চার দিকে বিন্যস্ত থাকলে যে পত্র বিন্যাসে সনাক্ত করা হয়-",
+          "structured_data": {
+            "question_number": "49",
+            "subtype": "mcq",
+            "stem": "প্রতি পর্ব থেকে তিন বা ততোধিক পাতা উৎপন্ন হয়ে কাণ্ডের চার দিকে বিন্যস্ত থাকলে যে পত্র বিন্যাসে সনাক্ত করা হয়-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "করতলা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "একান্তর",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অভিমুখ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "আবর্ত",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d)",
+            "solution_markdown": "সঠিক উত্তর অপশন 'D' অর্থাৎ আবর্ত।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "241eb6ea-a87d-5d5e-857e-5b4d27584baa"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q50",
+          "content_markdown": "কোন উক্তিটি সত্য নয়?",
+          "structured_data": {
+            "question_number": "50",
+            "subtype": "mcq",
+            "stem": "কোন উক্তিটি সত্য নয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বরফ গলনের সুপ্ততাপ 80°C",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কোন বস্তুকে খাড়া উপরের দিকে নিক্ষেপ করলে সর্বোচ্চ উচ্চতায় গতি সর্বোচ্চ হবে",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "কোন বন্ধ ঘরে পানি ছিটিয়ে দিলে আপেক্ষিক আর্দ্রতা বৃদ্ধি পায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "শব্দ প্রবাহের জন্য মাধ্যমের দরকার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b)",
+            "solution_markdown": "অপশন A, B সত্য নয়; কারণ-\n→ অপশন A- বরফ গলনের সুপ্ততাপ 80 Kcal/Kg.\n→ অপশন B- কোন বস্তুকে খাড়া উপরের দিকে নিক্ষেপ করলে সর্বোচ্চ উচ্চতায় গতি হবে সর্বনিম্ন।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b0636870-85b1-53a4-8c88-5fd0ff0d9cd4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q51",
+          "content_markdown": "কোনটি সত্য নয়-",
+          "structured_data": {
+            "question_number": "51",
+            "subtype": "mcq",
+            "stem": "কোনটি সত্য নয়-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ফ্যারাডের সূত্র ইলেকট্রোলাইটিক পরিবহনের ক্ষেত্রে প্রযোজ্য হলেও ইলেকট্রনীয় পরিবহনের ক্ষেত্রে প্রযোজ্য নয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "এসিডীয় মাধ্যমে পটাশিয়াম ডাইক্রোমেট জারক হিসেবে যা ক্রিয়া করে তা পটাশিয়াম পারম্যাঙ্গানেট অপেক্ষা অধিক শক্তিশালী",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "5.00 গ্রাম 'চারকোল' অক্সিজেনপূর্ণ একটি বড় ফ্লাস্কে সম্পূর্ণভাবে পোড়ানো হলে ফ্লাস্কের ভিতর ১৮.৩৩ গ্রাম $CO_2$ উৎপন্ন হবে। (Ca = 40, O = 16)",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "রঙ্গিন সোদক কেলাসসমূহের কেলাস গঠন ও বর্ণ উভয়ের জন্য দায়ী কেলাস পানি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b)",
+            "solution_markdown": "অপশন 'B' সত্য নয়; এখানে কম শক্তিশালী হবে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b4bc014c-4b2b-550f-a3ff-f06b5cd56834"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 13,
+        "figure_count": 0,
+        "vlm_endpoint": "gemini_pool",
+        "vlm_model": "gemini-3.1-flash-lite",
+        "elapsed_sec": 21.01,
+        "eval_count": 1778
+      }
+    },
+    {
+      "page_number": 5,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1127,
+        "height": 1550
+      },
+      "raw_markdown": "৪৭৮ দি মেডিসিন - মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার প্রশ্নব্যাংক\n\n## Q52\n**Type:** mcq\n**Stem:** যেটি সত্য নয়-\n**Options:**\n- A. ম্যালেরিয়া রোগে আক্রান্ত মানুষই হলো ম্যালেরিয়া সংক্রমণের উৎস\n- B. এনোফিলিস মশকী ম্যালেরিয়ার পরজীবীর নির্দিষ্ট পোষক\n- C. অধিকাংশ গ্রীষ্ম প্রধান ও প্রায় গ্রীষ্ম প্রধান দেশে P. falciparum এর বিস্তৃতি ব্যাপক\n- D. প্রধানত P. ovale বনভূমি সমৃদ্ধ এবং পার্বত্য অঞ্চলের পাদদেশে পাওয়া যায়\n**Answer:** D\n**Solution:** অপশন 'D' সত্য নয়; P.ovale এর সঠিক বিস্তৃতি সম্বন্ধে এখনও বিস্তারিত জানা যায়নি। আফ্রিকা ও ইউরোপের অনেক দেশে, চীন, মধ্য এশিয়া, ফিলিপাইন, মধ্য আমেরিকা এবং দক্ষিণ আমেরিকার উপকূলে এ জীবাণু পাওয়া গেছে।\n\n## Q53\n**Type:** mcq\n**Stem:** পানি আলোক স্বচ্ছ, কিন্তু কুয়াশা বা অতি ক্ষুদ্র পানি কণা দিয়ে তৈরি আলোক অস্বচ্ছ কারণ-\n**Options:**\n- A. আলোক প্রতিসরণের জন্য\n- B. পূর্ণঅভ্যন্তরীণ প্রতিফলনের জন্য\n- C. বিচ্ছুরণ ও পূর্ণঅভ্যন্তরীণ প্রতিফলনের জন্য\n- D. কুয়াশা কর্তৃক আলোক বিক্ষিপ্ত হওয়ার ফলে\n**Answer:** D\n**Solution:** প্রশ্নে উল্লেখিত ঘটনাটি একটি পূর্ণঅভ্যন্তরীণ প্রতিফলন।\n\n## Q54\n**Type:** mcq\n**Stem:** অভিস্রবণ ঘটবেনা যদি না -\n**Options:**\n- A. দ্রবণ দুটি অবশ্যই পৃথক দ্রাবক বিশিষ্ট হয়\n- B. বায়ুচাপ ও তাপমাত্রা একই থাকে\n- C. বৈষম্যভেদ্য পর্দার এক দিকে পাতলা দ্রবণ ও অপরদিকে ঘন দ্রবণ থাকে\n- D. একটি বৈষম্যভেদ্য পর্দা থাকে\n**Answer:** A\n**Solution:** সঠিক উত্তর অপশন 'A' অর্থাৎ দ্রবণ দুটি অবশ্যই পৃথক দ্রাবক বিশিষ্ট হয়।\n## ConceptNote: অভিস্রবণের শর্তাবলী [আজিবুর]\n→ দুটি ভিন্ন ঘনত্বের দ্রবণ (একটিতে দ্রাবক পদার্থ বেশি এবং অপরটিতে দ্রাবক পদার্থ কম!)\n→ দ্রবণ দুটিকে পৃথককারী একটি বৈষম্যভেদ্য ঝিল্লী, অর্থাৎ যে ঝিল্লীর মধ্য দিয়ে শুধু দ্রাবক পদার্থ আসা যাওয়া করতে পারে, দ্রব্য নয়।\n→ দ্রবণ দুটি একই দ্রাবক বিশিষ্ট হতে হবে এবং দ্রাবক পানি হবে।\n→ বায়ুমণ্ডলীয় চাপ ও তাপমাত্রা একই হতে হবে।\n\n## Q55\n**Type:** mcq\n**Stem:** 'কোন যৌগের বিয়োজন তাপ ও গঠন তাপ পরস্পর সমান, কিন্তু বিপরীত চিহ্নের হবে' নিচের কোনটি থেকে আমরা এটি জানতে পারি?\n**Options:**\n- A. গোন্ডবার্গ ও ওয়াঞ্জের সাম্যাবস্থার সূত্র থেকে\n- B. ল্যাভয়সিয়ে ও ল্যাপ্লাসের সূত্র থেকে\n- C. কার্শফ সমীকরণ থেকে\n- D. হেসের তাপ সমষ্টির নিত্যতা সূত্র থেকে\n**Answer:** B\n**Solution:** সঠিক উত্তর অপশন 'B' অর্থাৎ ল্যাভয়সিয়ে ও ল্যাপ্লাসের সূত্র থেকে।\n\n## Q56\n**Type:** mcq\n**Stem:** The most suitable preposition in the blank for the sentence 'On coming of age, the child has a tendency to become independent ..... his father' would be-\n**Options:**\n- A. like\n- B. of\n- C. with\n- D. from\n**Answer:** D\n**Solution:** সঠিক উত্তর অপশন 'D' অর্থাৎ from.\n\n## Q57\n**Type:** mcq\n**Stem:** কোন বাড়িতে বৈদ্যুতিক সংযোগ লাইনে ফিউজ তার লাগানোর সময় কোনটি উপেক্ষা করা চলে?\n**Options:**\n- A. ফিউজ তারের ব্যাস\n- B. ফিউজ তারের দৈর্ঘ্য\n- C. ফিউজ তারের উপাদানের আপেক্ষিক রোধ\n- D. কোনটিই নয়\n**Answer:** D\n**Solution:** সঠিক উত্তর অপশন 'D' অর্থাৎ কোনটিই নয়।\n\n## Q58\n**Type:** mcq\n**Stem:** যেটি অ্যালিফ্যাটিক যৌগের বৈশিষ্ট্য নয়-\n**Options:**\n- A. অ্যারোমেটিক যৌগের তুলনায় অ্যালিফ্যাটিক যৌগে কার্বনের শতকরা হার অপেক্ষাকৃত কম\n- B. অ্যালিফ্যাটিক হাইড্রক্সি যৌগ অম্লধর্মী\n- C. অ্যালিফ্যাটিক যৌগে উপস্থিত হ্যালোজেন পরমাণু বেশ সক্রিয়\n- D. যৌগটি এক কার্বন বিশিষ্ট হতে পারে\n**Answer:** B\n**Solution:** অপশন 'B' অ্যালিফ্যাটিক যৌগের বৈশিষ্ট্য নয়: কারণ- অ্যালিফ্যাটিক হাইড্রক্সি যৌগসমূহ (অ্যালকোহল) হচ্ছে নিরপেক্ষ এবং অ্যারোমেটিক হাইড্রক্সি যৌগসমূহ (ফেনল) হচ্ছে অম্লধর্মী।\n\n## Q59\n**Type:** mcq\n**Stem:** রক্তরসে যে সকল জৈব পদার্থ বিদ্যমান তার মধ্যে কিছু অপ্রোটিন নাইট্রোজেনযুক্ত দ্রব্য আছে। নিচের কোনটি সঠিক নয়?\n**Options:**\n- A. অ্যামাইনো এসিড\n- B. ক্রিয়েটিন\n- C. জ্যানথিন\n- D. বিলিরুবিন\n**Answer:** C\n**Solution:** সঠিক উত্তর অপশন 'C' অর্থাৎ জ্যানথিন।\n## ConceptNote: \nNote : রক্তরসে বিভিন্ন ধরনের উপাদান থাকে যেমন-[আলিম]\n→ খাদ্য সার : গ্লুকোজ, অ্যামাইনো এসিড, লবণ, ভিটামিন ইত্যাদি।\n→ গ্যাসীয় পদার্থ : $O_2, CO_2, N_2$ প্রভৃতি।\n→ রেচন পদার্থ : ইউরিয়া, ইউরিক এসিড, ক্রিয়েটিনিন ইত্যাদি।\n→ রক্ত আমিষ : ফাইব্রিনোজেন, প্রোথ্রম্বিন, অ্যালবুমিন ও গ্লোবিউলিন।\n→ প্রতিরক্ষামূলক দ্রব্যদি : অ্যান্টিজেন, অ্যাগ্লুটিনিন প্রভৃতি।\n→ এছাড়াও কোলেস্টেরল, লেসিথিন, বিলিরুবিন, বিলিভারডিন ইত্যাদি।\n\n## Q60\n**Type:** mcq\n**Stem:** কোন পদার্থের রৈখিক ত্বরণ পরিমাপের জন্য নিচের কোনটির সাহায্য নিতে হবে?\n**Options:**\n- A. বেগ ও ঘনত্ব\n- B. ভর ও বল\n- C. দূরত্ব ও বল\n- D. ভর ও বেগ\n**Answer:** B\n**Solution:** যেহেতু রৈখিক ত্বরণ = $\\frac{\\text{বল}}{\\text{ভর}}$; সুতরাং সঠিক উত্তর অপশন B অর্থাৎ ভর ও বল।\n\n## Q61\n**Type:** mcq\n**Stem:** গ্যাস ধ্রুবক R যার পরিমাপক -\n**Options:**\n- A. শক্তির\n- B. চাপের\n- C. কাজের\n- D. আয়তনের\n**Answer:** C\n**Solution:** গ্যাস ধ্রুবক R হচ্ছে কাজের পরিমাপক।\n\n## Q62\n**Type:** mcq\n**Stem:** কোনটি লাইসোজোমের কাজ নয়?\n**Options:**\n- A. সাইটোপ্লাজমকে দৃঢ়তা প্রদান করা\n- B. জীবদেহের অকেজো কোষকে ধ্বংস করা\n- C. পরিপাক ক্রিয়ায় সহায়তা দান\n- D. জীবাণু ভক্ষণ\n**Answer:** A\n**Solution:** অপশন 'A' লাইসোজোমের কাজ নয়।",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "৪৭৮ দি মেডিসিন - মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার প্রশ্নব্যাংক",
+          "structured_data": {},
+          "id": "0262fd1d-e648-57b9-88a3-67adde8bbeb2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q52",
+          "content_markdown": "যেটি সত্য নয়-",
+          "structured_data": {
+            "question_number": "52",
+            "subtype": "mcq",
+            "stem": "যেটি সত্য নয়-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ম্যালেরিয়া রোগে আক্রান্ত মানুষই হলো ম্যালেরিয়া সংক্রমণের উৎস",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "এনোফিলিস মশকী ম্যালেরিয়ার পরজীবীর নির্দিষ্ট পোষক",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "অধিকাংশ গ্রীষ্ম প্রধান ও প্রায় গ্রীষ্ম প্রধান দেশে P. falciparum এর বিস্তৃতি ব্যাপক",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "প্রধানত P. ovale বনভূমি সমৃদ্ধ এবং পার্বত্য অঞ্চলের পাদদেশে পাওয়া যায়",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "অপশন 'D' সত্য নয়; P.ovale এর সঠিক বিস্তৃতি সম্বন্ধে এখনও বিস্তারিত জানা যায়নি। আফ্রিকা ও ইউরোপের অনেক দেশে, চীন, মধ্য এশিয়া, ফিলিপাইন, মধ্য আমেরিকা এবং দক্ষিণ আমেরিকার উপকূলে এ জীবাণু পাওয়া গেছে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e786f37f-cc38-591c-8318-0f70a220097f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q53",
+          "content_markdown": "পানি আলোক স্বচ্ছ, কিন্তু কুয়াশা বা অতি ক্ষুদ্র পানি কণা দিয়ে তৈরি আলোক অস্বচ্ছ কারণ-",
+          "structured_data": {
+            "question_number": "53",
+            "subtype": "mcq",
+            "stem": "পানি আলোক স্বচ্ছ, কিন্তু কুয়াশা বা অতি ক্ষুদ্র পানি কণা দিয়ে তৈরি আলোক অস্বচ্ছ কারণ-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "আলোক প্রতিসরণের জন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "পূর্ণঅভ্যন্তরীণ প্রতিফলনের জন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "বিচ্ছুরণ ও পূর্ণঅভ্যন্তরীণ প্রতিফলনের জন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কুয়াশা কর্তৃক আলোক বিক্ষিপ্ত হওয়ার ফলে",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "প্রশ্নে উল্লেখিত ঘটনাটি একটি পূর্ণঅভ্যন্তরীণ প্রতিফলন।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a62ff103-ae65-5045-989a-1de3b478d2b0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q54",
+          "content_markdown": "অভিস্রবণ ঘটবেনা যদি না -",
+          "structured_data": {
+            "question_number": "54",
+            "subtype": "mcq",
+            "stem": "অভিস্রবণ ঘটবেনা যদি না -",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "দ্রবণ দুটি অবশ্যই পৃথক দ্রাবক বিশিষ্ট হয়",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "বায়ুচাপ ও তাপমাত্রা একই থাকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "বৈষম্যভেদ্য পর্দার এক দিকে পাতলা দ্রবণ ও অপরদিকে ঘন দ্রবণ থাকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "একটি বৈষম্যভেদ্য পর্দা থাকে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "সঠিক উত্তর অপশন 'A' অর্থাৎ দ্রবণ দুটি অবশ্যই পৃথক দ্রাবক বিশিষ্ট হয়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "942fd360-eaee-5bd1-a20f-5087784cbdba"
+        },
+        {
+          "block_type": "callout_tip",
+          "title": "অভিস্রবণের শর্তাবলী [আজিবুর]",
+          "content_markdown": "→ দুটি ভিন্ন ঘনত্বের দ্রবণ (একটিতে দ্রাবক পদার্থ বেশি এবং অপরটিতে দ্রাবক পদার্থ কম!)\n→ দ্রবণ দুটিকে পৃথককারী একটি বৈষম্যভেদ্য ঝিল্লী, অর্থাৎ যে ঝিল্লীর মধ্য দিয়ে শুধু দ্রাবক পদার্থ আসা যাওয়া করতে পারে, দ্রব্য নয়।\n→ দ্রবণ দুটি একই দ্রাবক বিশিষ্ট হতে হবে এবং দ্রাবক পানি হবে।\n→ বায়ুমণ্ডলীয় চাপ ও তাপমাত্রা একই হতে হবে।",
+          "structured_data": {},
+          "id": "8de8174f-89fc-5fc7-b649-368f2be084bf"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q55",
+          "content_markdown": "'কোন যৌগের বিয়োজন তাপ ও গঠন তাপ পরস্পর সমান, কিন্তু বিপরীত চিহ্নের হবে' নিচের কোনটি থেকে আমরা এটি জানতে পারি?",
+          "structured_data": {
+            "question_number": "55",
+            "subtype": "mcq",
+            "stem": "'কোন যৌগের বিয়োজন তাপ ও গঠন তাপ পরস্পর সমান, কিন্তু বিপরীত চিহ্নের হবে' নিচের কোনটি থেকে আমরা এটি জানতে পারি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "গোন্ডবার্গ ও ওয়াঞ্জের সাম্যাবস্থার সূত্র থেকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ল্যাভয়সিয়ে ও ল্যাপ্লাসের সূত্র থেকে",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "কার্শফ সমীকরণ থেকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "হেসের তাপ সমষ্টির নিত্যতা সূত্র থেকে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "সঠিক উত্তর অপশন 'B' অর্থাৎ ল্যাভয়সিয়ে ও ল্যাপ্লাসের সূত্র থেকে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7bead771-7a8c-50e2-a1e0-38d34609dbc4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q56",
+          "content_markdown": "The most suitable preposition in the blank for the sentence 'On coming of age, the child has a tendency to become independent ..... his father' would be-",
+          "structured_data": {
+            "question_number": "56",
+            "subtype": "mcq",
+            "stem": "The most suitable preposition in the blank for the sentence 'On coming of age, the child has a tendency to become independent ..... his father' would be-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "like",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "of",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "with",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "from",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "সঠিক উত্তর অপশন 'D' অর্থাৎ from.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "05d3ee87-0817-5b7f-9aad-5b357c09b3da"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q57",
+          "content_markdown": "কোন বাড়িতে বৈদ্যুতিক সংযোগ লাইনে ফিউজ তার লাগানোর সময় কোনটি উপেক্ষা করা চলে?",
+          "structured_data": {
+            "question_number": "57",
+            "subtype": "mcq",
+            "stem": "কোন বাড়িতে বৈদ্যুতিক সংযোগ লাইনে ফিউজ তার লাগানোর সময় কোনটি উপেক্ষা করা চলে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ফিউজ তারের ব্যাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ফিউজ তারের দৈর্ঘ্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ফিউজ তারের উপাদানের আপেক্ষিক রোধ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কোনটিই নয়",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "সঠিক উত্তর অপশন 'D' অর্থাৎ কোনটিই নয়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "bb4b8527-3bf8-5bfd-8c7c-0da86e8b7b55"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q58",
+          "content_markdown": "যেটি অ্যালিফ্যাটিক যৌগের বৈশিষ্ট্য নয়-",
+          "structured_data": {
+            "question_number": "58",
+            "subtype": "mcq",
+            "stem": "যেটি অ্যালিফ্যাটিক যৌগের বৈশিষ্ট্য নয়-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "অ্যারোমেটিক যৌগের তুলনায় অ্যালিফ্যাটিক যৌগে কার্বনের শতকরা হার অপেক্ষাকৃত কম",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "অ্যালিফ্যাটিক হাইড্রক্সি যৌগ অম্লধর্মী",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "অ্যালিফ্যাটিক যৌগে উপস্থিত হ্যালোজেন পরমাণু বেশ সক্রিয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "যৌগটি এক কার্বন বিশিষ্ট হতে পারে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "অপশন 'B' অ্যালিফ্যাটিক যৌগের বৈশিষ্ট্য নয়: কারণ- অ্যালিফ্যাটিক হাইড্রক্সি যৌগসমূহ (অ্যালকোহল) হচ্ছে নিরপেক্ষ এবং অ্যারোমেটিক হাইড্রক্সি যৌগসমূহ (ফেনল) হচ্ছে অম্লধর্মী।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a87109b7-4a8b-52da-82a3-38ff2b639d13"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q59",
+          "content_markdown": "রক্তরসে যে সকল জৈব পদার্থ বিদ্যমান তার মধ্যে কিছু অপ্রোটিন নাইট্রোজেনযুক্ত দ্রব্য আছে। নিচের কোনটি সঠিক নয়?",
+          "structured_data": {
+            "question_number": "59",
+            "subtype": "mcq",
+            "stem": "রক্তরসে যে সকল জৈব পদার্থ বিদ্যমান তার মধ্যে কিছু অপ্রোটিন নাইট্রোজেনযুক্ত দ্রব্য আছে। নিচের কোনটি সঠিক নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "অ্যামাইনো এসিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ক্রিয়েটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "জ্যানথিন",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "বিলিরুবিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "সঠিক উত্তর অপশন 'C' অর্থাৎ জ্যানথিন।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0222dfe3-2728-5f81-b174-fc773da45705"
+        },
+        {
+          "block_type": "callout_tip",
+          "title": "Note : রক্তরসে বিভিন্ন ধরনের উপাদান থাকে যেমন-[আলিম]",
+          "content_markdown": "→ খাদ্য সার : গ্লুকোজ, অ্যামাইনো এসিড, লবণ, ভিটামিন ইত্যাদি।\n→ গ্যাসীয় পদার্থ : $O_2, CO_2, N_2$ প্রভৃতি।\n→ রেচন পদার্থ : ইউরিয়া, ইউরিক এসিড, ক্রিয়েটিনিন ইত্যাদি।\n→ রক্ত আমিষ : ফাইব্রিনোজেন, প্রোথ্রম্বিন, অ্যালবুমিন ও গ্লোবিউলিন।\n→ প্রতিরক্ষামূলক দ্রব্যদি : অ্যান্টিজেন, অ্যাগ্লুটিনিন প্রভৃতি।\n→ এছাড়াও কোলেস্টেরল, লেসিথিন, বিলিরুবিন, বিলিভারডিন ইত্যাদি।",
+          "structured_data": {},
+          "id": "c89f84a4-28b1-56fd-bc65-f8707762c41f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q60",
+          "content_markdown": "কোন পদার্থের রৈখিক ত্বরণ পরিমাপের জন্য নিচের কোনটির সাহায্য নিতে হবে?",
+          "structured_data": {
+            "question_number": "60",
+            "subtype": "mcq",
+            "stem": "কোন পদার্থের রৈখিক ত্বরণ পরিমাপের জন্য নিচের কোনটির সাহায্য নিতে হবে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "বেগ ও ঘনত্ব",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ভর ও বল",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "দূরত্ব ও বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ভর ও বেগ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "যেহেতু রৈখিক ত্বরণ = $\\frac{\\text{বল}}{\\text{ভর}}$; সুতরাং সঠিক উত্তর অপশন B অর্থাৎ ভর ও বল।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "52638e44-a903-53f4-bb6e-739274626a2a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q61",
+          "content_markdown": "গ্যাস ধ্রুবক R যার পরিমাপক -",
+          "structured_data": {
+            "question_number": "61",
+            "subtype": "mcq",
+            "stem": "গ্যাস ধ্রুবক R যার পরিমাপক -",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "শক্তির",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "চাপের",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "কাজের",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "আয়তনের",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "গ্যাস ধ্রুবক R হচ্ছে কাজের পরিমাপক।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "288652bd-769f-5b86-aab7-cd22116d1696"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q62",
+          "content_markdown": "কোনটি লাইসোজোমের কাজ নয়?",
+          "structured_data": {
+            "question_number": "62",
+            "subtype": "mcq",
+            "stem": "কোনটি লাইসোজোমের কাজ নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "সাইটোপ্লাজমকে দৃঢ়তা প্রদান করা",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "জীবদেহের অকেজো কোষকে ধ্বংস করা",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "পরিপাক ক্রিয়ায় সহায়তা দান",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "জীবাণু ভক্ষণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "অপশন 'A' লাইসোজোমের কাজ নয়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "51e6262a-a391-50ac-8a66-d28b019d1ec5"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 14,
+        "figure_count": 0,
+        "vlm_endpoint": "gemini_pool",
+        "vlm_model": "gemini-3.1-flash-lite",
+        "elapsed_sec": 19.47,
+        "eval_count": 1548
+      }
+    },
+    {
+      "page_number": 6,
+      "printed_page_number": "৪৭৯",
+      "page_header": "দি মেডিসিন - মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার প্রশ্নব্যাংক",
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1127,
+        "height": 1550
+      },
+      "raw_markdown": "## Q63\n**Type:** mcq\n**Stem:** একটি স্থির আয়তন গ্যাস থার্মোমিটার নিচের কোন সূত্র অনুসারে কাজ করে?\n**Options:**\n- A. চার্লস এর সূত্র\n- B. প্যাসকেল এর সূত্র\n- C. বয়েলের সূত্র\n- D. আর্কিমিডিস এর সূত্র\n**Answer:** NONE\n**Solution:** এখানে সঠিক উত্তর নেই; কেননা একটি স্থির আয়তন গ্যাস থার্মোমিটার গে-লুসাকের গ্যাসের সূত্র অনুসারে কাজ করে।\n\n## Q64\n**Type:** mcq\n**Stem:** ফেনলকে দস্তা চূর্ণের সাথে শক্ত কাঁচের গোলতলী ফ্লাস্কে উত্তপ্ত করলে ফেনল দস্তা দ্বারা বিজারিত হয়ে জিঙ্ক অক্সাইড এর সাথে যে পদার্থের বাষ্প উৎপন্ন করবে সেটি হলো-\n**Options:**\n- A. বেনজালডিহাইড\n- B. বেনজিন\n- C. অ্যানিলিন\n- D. টলুইন\n**Answer:** B\n**Solution:** সঠিক উত্তর অপশন 'B' অর্থাৎ বেনজিন।\n\n## Q65\n**Type:** mcq\n**Stem:** সেন্ট্রিওল এর বেলায় যেটি সত্য নয়-\n**Options:**\n- A. কোষে একটি সেন্ট্রিওল থাকে এবং সেন্ট্রিওলের মধ্যে একটি সেন্ট্রিওল দেখা যায়\n- B. প্রাণীকোষের বিভাজন কালে সেন্ট্রিওল মাকু গঠন করে\n- C. যে সেন্ট্রিওল থেকে সিলিয়া সৃষ্টি হয় সেই সেন্ট্রিওলকে বেসাল বডি বলে\n- D. সেন্ট্রিওলে কোন আবরণ থাকে না\n**Answer:** A\n**Solution:** অপশন 'A' সত্য নয়; কারণ- কোষে একটি মাত্র সেন্ট্রিওল থাকে এবং সেন্ট্রিওলের মধ্যে দুইটি সেন্ট্রিওল থাকে যাদেরকে একত্রে ডিপ্লোসোম বলে।\n\n## Q66\n**Type:** mcq\n**Stem:** প্রাণিভৌগোলবিদ ওয়ালেস এর মতানুসারে দক্ষিণ আমেরিকা দেশসমূহকে যে প্রাণিভৌগোলিক অঞ্চলে অন্তর্ভুক্ত করা হয়েছে-\n**Options:**\n- A. নিআর্কটিক অঞ্চল\n- B. নিওট্রপিক্যাল অঞ্চল\n- C. প্যালিয়ার্কটিক অঞ্চল\n- D. ওরিয়েন্টাল অঞ্চল\n**Answer:** B\n**Solution:** সঠিক উত্তর অপশন 'B' অর্থাৎ নিওট্রপিক্যাল অঞ্চল।\n\n## Q67\n**Type:** mcq\n**Stem:** লিফট গ্যাসের সাহায্যে সর্বোচ্চ কত উচ্চতায় পানি উত্তোলন সম্ভব?\n**Options:**\n- A. ৫০ মিটার\n- B. ১০০ মিটার\n- C. ৭৫ মিটার\n- D. ১০ মিটার\n**Answer:** D\n**Solution:** সঠিক উত্তর অপশন 'D' অর্থাৎ ১০ মিটার।\n\n## Q68\n**Type:** mcq\n**Stem:** পর্যায় সারণীতে হাইড্রোজেনকে গ্রুপ IA তে স্থান দেয়ার পক্ষে যেটি সঠিক যুক্তি নয়-\n**Options:**\n- A. হাইড্রোজেন বিভিন্ন অধাতু হাইড্রাইড উৎপন্ন করে\n- B. হাইড্রোজেন একটি তীব্র বিজারক\n- C. হাইড্রোজেনের যোজনী '১'\n- D. হাইড্রোজেন পরমাণুর সর্ববহিঃস্থ শক্তি স্তরে ১টি ইলেকট্রন রয়েছে\n**Answer:** A\n**Solution:** অপশন 'A' সত্য নয়; কারণ- পর্যায় সারণীতে গ্রুপ IA তে হাইড্রোজেনকে স্থান দেয়ার পক্ষে যুক্তিগুলো হলোঃ\n→ ক্ষার ধাতুসমূহের মত বহিঃস্তরে ১টি ইলেকট্রন বিদ্যমান। Na(II) → $1S^2 2S^2 2P^6 3S^1$; H (1) = $1S^1$\n→ হাইড্রোজেন ক্ষারধাতুর মত তড়িৎ ধনাত্মক।\n→ ক্ষার ধাতুর মত যোজনী ১।\n→ হাইড্রোজেন ক্ষার ধাতুর মত তীব্র বিজারক।\n→ ক্ষার ধাতুর মত অধাতুর সাথে স্থায়ী যৌগ গঠন করে। যেমন $H_2O, H_2S$ ইত্যাদি।\n\n## Q69\n**Type:** mcq\n**Stem:** যেটি একবীজপত্রী উদ্ভিদের কাণ্ডের বৈশিষ্ট্য নয়-\n**Options:**\n- A. পরিচক্র নেই\n- B. ভাস্কুলার বান্ডল বিক্ষিপ্তভাবে ছড়ানো\n- C. অধত্বক স্ক্লেরেনকাইমা কোষ দিয়ে তৈরি\n- D. ফ্লোয়েম টিস্যুতে বাস্টতন্তু থাকে\n**Answer:** A\n**Solution:** অপশন 'A' সঠিক নয়;— এদের পরিচক্র থাকে।\n\n## Q70\n**Type:** mcq\n**Stem:** যেটি সত্য নয়-\n**Options:**\n- A. বিসমাথ অক্সি নাইট্রেট ($BiONO_3$) পানিতে অদ্রবণীয়\n- B. নাইট্রেট মূলক নির্ণয়ে বলয় পরীক্ষার জন্য ব্যবহৃত ফেরাস সালফেট সদ্য প্রস্তুত হওয়ার কারণ হলো তা কিছু সময় রেখে দিলে বায়ুর অক্সিজেন ও পানির সঙ্গে বিক্রিয়া করে ফেরিক সালফেটে পরিণত হয়\n- C. শ্বেত ফসফরাস গাঢ় $HNO_3$ এর সাথে বিক্রিয়া করে ফসফিন ($PH_3$) উৎপন্ন করে\n- D. সালফার নাইট্রোজেনের সাথে বিক্রিয়া না ঘটালেও ফসফরাসের সাথে একাধিক ফসফরাস সালফাইডের মিশ্রণ উৎপন্ন করে\n**Answer:** C\n**Solution:** সবগুলো অপশনের তথ্যই সঠিক।\n\n## Q71\n**Type:** mcq\n**Stem:** Synonym of word 'Sequel'-\n**Options:**\n- A. Continuance\n- B. Prologue\n- C. Preamble\n- D. Prelude\n**Answer:** A\n**Solution:** সঠিক উত্তর অপশন 'A' কেননা- Sequel শব্দটির অর্থ পরিণাম বা ফল বা ধারাবাহিকতা এবং Continuance শব্দটির অর্থ ধারাবাহিকতা।\n\n## Q72\n**Type:** mcq\n**Stem:** বর্তনীর ভিতর দিয়ে তড়িৎ প্রবাহের ফলে কোনটি জুলের তাপীয় ক্রিয়ার বৈশিষ্ট্য নয়?\n**Options:**\n- A. জুল ক্রিয়া পরিবাহীর রোধের উপর নির্ভর করে\n- B. জুল ক্রিয়ায় উৎপন্ন তাপ বিদ্যুৎ প্রবাহমাত্রার সমানুপাতিক\n- C. জুল তাপীয় ক্রিয়া অপ্রত্যাবর্তী\n- D. জুল ক্রিয়া পরিবাহীর সর্বত্র তাপ সৃষ্টি করে\n**Answer:** B\n**Solution:** অপশন 'B' বৈশিষ্ট্য নয়; কারণ- জুল ক্রিয়ায়-উৎপন্ন তাপ বিদ্যুৎ প্রবাহমাত্রার বর্গের সমানুপাতিক [$H = 0.24I^2Rt$]।\n\n## Q73\n**Type:** mcq\n**Stem:** ভর অক্ষুণ্ণ থেকে যদি পৃথিবীর ব্যাসার্ধ ১ শতাংশ সংকুচিত হয় তাহলে পৃথিবী পৃষ্ঠে মধ্যাকর্ষণ বলজনিত ত্বরণ-\n**Options:**\n- A. পাঁচগুণ বৃদ্ধি পাবে\n- B. বৃদ্ধি পাবে\n- C. অপরিবর্তিত থাকবে\n- D. হ্রাস পাবে\n**Answer:** B\n**Solution:** মধ্যাকর্ষণ বল জনিত ত্বরণ অবশ্যই বৃদ্ধি পাবে কেননা- অভিকর্ষজ ত্বরণ (g) ব্যাসার্ধের সাথে বর্গের ব্যাস্তানুপাতিকভাবে পরিবর্তিত হয় [$g = \\frac{GM}{R^2}$]; সুতরাং ব্যাসার্ধ বৃদ্ধি পেলে ত্বরণ কমবে এবং ব্যাসার্ধ হ্রাস পেলে ত্বরণ বাড়বে।\n\n## Q74\n**Type:** mcq\n**Stem:** ডিজেল বা গ্যাস অয়েলের কার্বন শিকলের দৈর্ঘ্য-\n**Options:**\n- A. $C_{13}$ থেকে $C_{18}$ পর্যন্ত\n- B. $C_{15}$ থেকে $C_{18}$ পর্যন্ত\n- C. $C_{18}$ থেকে $C_{30}$ পর্যন্ত\n- D. $C_5$ থেকে $C_{12}$ পর্যন্ত\n**Answer:** A\n**Solution:** সঠিক উত্তর অপশন 'A' অর্থাৎ $C_{13}$ থেকে $C_{18}$ পর্যন্ত।",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q63",
+          "content_markdown": "একটি স্থির আয়তন গ্যাস থার্মোমিটার নিচের কোন সূত্র অনুসারে কাজ করে?",
+          "structured_data": {
+            "question_number": "63",
+            "subtype": "mcq",
+            "stem": "একটি স্থির আয়তন গ্যাস থার্মোমিটার নিচের কোন সূত্র অনুসারে কাজ করে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "চার্লস এর সূত্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "প্যাসকেল এর সূত্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "বয়েলের সূত্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "আর্কিমিডিস এর সূত্র",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "এখানে সঠিক উত্তর নেই; কেননা একটি স্থির আয়তন গ্যাস থার্মোমিটার গে-লুসাকের গ্যাসের সূত্র অনুসারে কাজ করে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "74ae7b93-6b17-54ce-9fbe-34093a140db0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q64",
+          "content_markdown": "ফেনলকে দস্তা চূর্ণের সাথে শক্ত কাঁচের গোলতলী ফ্লাস্কে উত্তপ্ত করলে ফেনল দস্তা দ্বারা বিজারিত হয়ে জিঙ্ক অক্সাইড এর সাথে যে পদার্থের বাষ্প উৎপন্ন করবে সেটি হলো-",
+          "structured_data": {
+            "question_number": "64",
+            "subtype": "mcq",
+            "stem": "ফেনলকে দস্তা চূর্ণের সাথে শক্ত কাঁচের গোলতলী ফ্লাস্কে উত্তপ্ত করলে ফেনল দস্তা দ্বারা বিজারিত হয়ে জিঙ্ক অক্সাইড এর সাথে যে পদার্থের বাষ্প উৎপন্ন করবে সেটি হলো-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "বেনজালডিহাইড",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "বেনজিন",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "অ্যানিলিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "টলুইন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "সঠিক উত্তর অপশন 'B' অর্থাৎ বেনজিন।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8dd04049-b433-5834-af16-661228f7b1a3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q65",
+          "content_markdown": "সেন্ট্রিওল এর বেলায় যেটি সত্য নয়-",
+          "structured_data": {
+            "question_number": "65",
+            "subtype": "mcq",
+            "stem": "সেন্ট্রিওল এর বেলায় যেটি সত্য নয়-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "কোষে একটি সেন্ট্রিওল থাকে এবং সেন্ট্রিওলের মধ্যে একটি সেন্ট্রিওল দেখা যায়",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "প্রাণীকোষের বিভাজন কালে সেন্ট্রিওল মাকু গঠন করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "যে সেন্ট্রিওল থেকে সিলিয়া সৃষ্টি হয় সেই সেন্ট্রিওলকে বেসাল বডি বলে",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "সেন্ট্রিওলে কোন আবরণ থাকে না",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "অপশন 'A' সত্য নয়; কারণ- কোষে একটি মাত্র সেন্ট্রিওল থাকে এবং সেন্ট্রিওলের মধ্যে দুইটি সেন্ট্রিওল থাকে যাদেরকে একত্রে ডিপ্লোসোম বলে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "45139618-4550-5460-87dd-bcbe017dd387"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q66",
+          "content_markdown": "প্রাণিভৌগোলবিদ ওয়ালেস এর মতানুসারে দক্ষিণ আমেরিকা দেশসমূহকে যে প্রাণিভৌগোলিক অঞ্চলে অন্তর্ভুক্ত করা হয়েছে-",
+          "structured_data": {
+            "question_number": "66",
+            "subtype": "mcq",
+            "stem": "প্রাণিভৌগোলবিদ ওয়ালেস এর মতানুসারে দক্ষিণ আমেরিকা দেশসমূহকে যে প্রাণিভৌগোলিক অঞ্চলে অন্তর্ভুক্ত করা হয়েছে-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "নিআর্কটিক অঞ্চল",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "নিওট্রপিক্যাল অঞ্চল",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "প্যালিয়ার্কটিক অঞ্চল",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ওরিয়েন্টাল অঞ্চল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "সঠিক উত্তর অপশন 'B' অর্থাৎ নিওট্রপিক্যাল অঞ্চল।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4dbd3b90-caff-5436-aec5-565c335799b4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q67",
+          "content_markdown": "লিফট গ্যাসের সাহায্যে সর্বোচ্চ কত উচ্চতায় পানি উত্তোলন সম্ভব?",
+          "structured_data": {
+            "question_number": "67",
+            "subtype": "mcq",
+            "stem": "লিফট গ্যাসের সাহায্যে সর্বোচ্চ কত উচ্চতায় পানি উত্তোলন সম্ভব?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "৫০ মিটার",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "১০০ মিটার",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "৭৫ মিটার",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "১০ মিটার",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "সঠিক উত্তর অপশন 'D' অর্থাৎ ১০ মিটার।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "47818408-e720-51e5-81ab-4ab87885cf1f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q68",
+          "content_markdown": "পর্যায় সারণীতে হাইড্রোজেনকে গ্রুপ IA তে স্থান দেয়ার পক্ষে যেটি সঠিক যুক্তি নয়-",
+          "structured_data": {
+            "question_number": "68",
+            "subtype": "mcq",
+            "stem": "পর্যায় সারণীতে হাইড্রোজেনকে গ্রুপ IA তে স্থান দেয়ার পক্ষে যেটি সঠিক যুক্তি নয়-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "হাইড্রোজেন বিভিন্ন অধাতু হাইড্রাইড উৎপন্ন করে",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "হাইড্রোজেন একটি তীব্র বিজারক",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "হাইড্রোজেনের যোজনী '১'",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "হাইড্রোজেন পরমাণুর সর্ববহিঃস্থ শক্তি স্তরে ১টি ইলেকট্রন রয়েছে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "অপশন 'A' সত্য নয়; কারণ- পর্যায় সারণীতে গ্রুপ IA তে হাইড্রোজেনকে স্থান দেয়ার পক্ষে যুক্তিগুলো হলোঃ\n→ ক্ষার ধাতুসমূহের মত বহিঃস্তরে ১টি ইলেকট্রন বিদ্যমান। Na(II) → $1S^2 2S^2 2P^6 3S^1$; H (1) = $1S^1$\n→ হাইড্রোজেন ক্ষারধাতুর মত তড়িৎ ধনাত্মক।\n→ ক্ষার ধাতুর মত যোজনী ১।\n→ হাইড্রোজেন ক্ষার ধাতুর মত তীব্র বিজারক।\n→ ক্ষার ধাতুর মত অধাতুর সাথে স্থায়ী যৌগ গঠন করে। যেমন $H_2O, H_2S$ ইত্যাদি।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9f74f9de-2063-5783-980e-6996a9a0e7f2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q69",
+          "content_markdown": "যেটি একবীজপত্রী উদ্ভিদের কাণ্ডের বৈশিষ্ট্য নয়-",
+          "structured_data": {
+            "question_number": "69",
+            "subtype": "mcq",
+            "stem": "যেটি একবীজপত্রী উদ্ভিদের কাণ্ডের বৈশিষ্ট্য নয়-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "পরিচক্র নেই",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "ভাস্কুলার বান্ডল বিক্ষিপ্তভাবে ছড়ানো",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "অধত্বক স্ক্লেরেনকাইমা কোষ দিয়ে তৈরি",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ফ্লোয়েম টিস্যুতে বাস্টতন্তু থাকে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "অপশন 'A' সঠিক নয়;— এদের পরিচক্র থাকে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e7bbbf9e-c7bf-505d-bb01-742ad9c50318"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q70",
+          "content_markdown": "যেটি সত্য নয়-",
+          "structured_data": {
+            "question_number": "70",
+            "subtype": "mcq",
+            "stem": "যেটি সত্য নয়-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "বিসমাথ অক্সি নাইট্রেট ($BiONO_3$) পানিতে অদ্রবণীয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "নাইট্রেট মূলক নির্ণয়ে বলয় পরীক্ষার জন্য ব্যবহৃত ফেরাস সালফেট সদ্য প্রস্তুত হওয়ার কারণ হলো তা কিছু সময় রেখে দিলে বায়ুর অক্সিজেন ও পানির সঙ্গে বিক্রিয়া করে ফেরিক সালফেটে পরিণত হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "শ্বেত ফসফরাস গাঢ় $HNO_3$ এর সাথে বিক্রিয়া করে ফসফিন ($PH_3$) উৎপন্ন করে",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "সালফার নাইট্রোজেনের সাথে বিক্রিয়া না ঘটালেও ফসফরাসের সাথে একাধিক ফসফরাস সালফাইডের মিশ্রণ উৎপন্ন করে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "সবগুলো অপশনের তথ্যই সঠিক।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "09c4dd9d-7ebf-5a2f-8ab6-5592c0cd5096"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q71",
+          "content_markdown": "Synonym of word 'Sequel'-",
+          "structured_data": {
+            "question_number": "71",
+            "subtype": "mcq",
+            "stem": "Synonym of word 'Sequel'-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "Continuance",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "Prologue",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "Preamble",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "Prelude",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "সঠিক উত্তর অপশন 'A' কেননা- Sequel শব্দটির অর্থ পরিণাম বা ফল বা ধারাবাহিকতা এবং Continuance শব্দটির অর্থ ধারাবাহিকতা।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e2903ba6-a547-5b13-a236-32c0b63e776d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q72",
+          "content_markdown": "বর্তনীর ভিতর দিয়ে তড়িৎ প্রবাহের ফলে কোনটি জুলের তাপীয় ক্রিয়ার বৈশিষ্ট্য নয়?",
+          "structured_data": {
+            "question_number": "72",
+            "subtype": "mcq",
+            "stem": "বর্তনীর ভিতর দিয়ে তড়িৎ প্রবাহের ফলে কোনটি জুলের তাপীয় ক্রিয়ার বৈশিষ্ট্য নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "জুল ক্রিয়া পরিবাহীর রোধের উপর নির্ভর করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "জুল ক্রিয়ায় উৎপন্ন তাপ বিদ্যুৎ প্রবাহমাত্রার সমানুপাতিক",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "জুল তাপীয় ক্রিয়া অপ্রত্যাবর্তী",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "জুল ক্রিয়া পরিবাহীর সর্বত্র তাপ সৃষ্টি করে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "অপশন 'B' বৈশিষ্ট্য নয়; কারণ- জুল ক্রিয়ায়-উৎপন্ন তাপ বিদ্যুৎ প্রবাহমাত্রার বর্গের সমানুপাতিক [$H = 0.24I^2Rt$]।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "96b078a9-b4ea-58bb-8c81-ad44a706b8f8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q73",
+          "content_markdown": "ভর অক্ষুণ্ণ থেকে যদি পৃথিবীর ব্যাসার্ধ ১ শতাংশ সংকুচিত হয় তাহলে পৃথিবী পৃষ্ঠে মধ্যাকর্ষণ বলজনিত ত্বরণ-",
+          "structured_data": {
+            "question_number": "73",
+            "subtype": "mcq",
+            "stem": "ভর অক্ষুণ্ণ থেকে যদি পৃথিবীর ব্যাসার্ধ ১ শতাংশ সংকুচিত হয় তাহলে পৃথিবী পৃষ্ঠে মধ্যাকর্ষণ বলজনিত ত্বরণ-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "পাঁচগুণ বৃদ্ধি পাবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "বৃদ্ধি পাবে",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "অপরিবর্তিত থাকবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "হ্রাস পাবে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "মধ্যাকর্ষণ বল জনিত ত্বরণ অবশ্যই বৃদ্ধি পাবে কেননা- অভিকর্ষজ ত্বরণ (g) ব্যাসার্ধের সাথে বর্গের ব্যাস্তানুপাতিকভাবে পরিবর্তিত হয় [$g = \\frac{GM}{R^2}$]; সুতরাং ব্যাসার্ধ বৃদ্ধি পেলে ত্বরণ কমবে এবং ব্যাসার্ধ হ্রাস পেলে ত্বরণ বাড়বে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "250fd365-8b8f-5d2a-b120-e6a48f8770c1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q74",
+          "content_markdown": "ডিজেল বা গ্যাস অয়েলের কার্বন শিকলের দৈর্ঘ্য-",
+          "structured_data": {
+            "question_number": "74",
+            "subtype": "mcq",
+            "stem": "ডিজেল বা গ্যাস অয়েলের কার্বন শিকলের দৈর্ঘ্য-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "$C_{13}$ থেকে $C_{18}$ পর্যন্ত",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "$C_{15}$ থেকে $C_{18}$ পর্যন্ত",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "$C_{18}$ থেকে $C_{30}$ পর্যন্ত",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "$C_5$ থেকে $C_{12}$ পর্যন্ত",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "সঠিক উত্তর অপশন 'A' অর্থাৎ $C_{13}$ থেকে $C_{18}$ পর্যন্ত।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d831059b-fa40-57a1-8483-1cdae25334dd"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 12,
+        "figure_count": 0,
+        "vlm_endpoint": "gemini_pool",
+        "vlm_model": "gemini-3.1-flash-lite",
+        "elapsed_sec": 17.53,
+        "eval_count": 1642
+      }
+    },
+    {
+      "page_number": 7,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1127,
+        "height": 1550
+      },
+      "raw_markdown": "৪৪০ দি মেডিসিন - মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার প্রশ্নব্যাংক\n\n## Q75\n**Type:** mcq\n**Stem:** কোন একটি পদার্থ গাঢ় HCl-এর সাথে বিক্রিয়ায় লেভুলিনিক এসিড তৈরি করলে পদার্থটি সম্ভব-\n**Options:**\n- a) সেলোবায়োজ\n- b) রাইবুলোজ\n- c) রাইবোজ\n- d) ডি-অক্সিরাইবোজ\n**Answer:** d\n**Solution:** সঠিক উত্তর অপশন 'D' অর্থাৎ ডি-অক্সিরাইবোজ।\n\n## Q76\n**Type:** mcq\n**Stem:** পেডাল চালিয়ে বাইসাইকেল চলার সময় উহার দুই চাকার উপর ভূমি কর্তৃক প্রদত্ত ঘর্ষণ বলের গতি-\n**Options:**\n- a) সম্মুখ ও পশ্চাত উভয় চাকার উপর সম্মুখ দিকে\n- b) সম্মুখ ও পশ্চাত উভয় চাকার উপর পশ্চাত দিকে\n- c) সম্মুখের চাকার উপর সম্মুখ দিকে এবং পশ্চাতের চাকার উপর পশ্চাত দিকে\n- d) সম্মুখের চাকার উপর পশ্চাত দিকে এবং পশ্চাতের চাকার উপর পশ্চাত দিকে\n**Answer:** a\n**Solution:** সঠিক উত্তর অপশন 'A' অর্থাৎ সম্মুখ ও পশ্চাত উভয় চাকার উপর সম্মুখ দিকে।\n\n## Q77\n**Type:** mcq\n**Stem:** 'Hard and fast' means-\n**Options:**\n- a) Quick\n- b) Fixed\n- c) Rapid\n- d) Difficult\n**Answer:** b\n**Solution:** 'Hard and fast' idiom-টির বাংলা অর্থ নির্দিষ্ট। সুতরাং সঠিক উত্তর অপশন 'B' অর্থাৎ Fixed\n\n## Q78\n**Type:** mcq\n**Stem:** রাসায়নিক সাম্যাবস্থার বৈশিষ্ট্য-\n**Options:**\n- a) সাম্যাবস্থার স্থায়িত্ব\n- b) বিক্রিয়ার অসম্পূর্ণতা\n- c) উভয় দিক থেকে সাম্যাবস্থার প্রতিষ্ঠা\n- d) উপরের সবকটি\n**Answer:** d\n**Solution:** সঠিক উত্তর অপশন 'D' অর্থাৎ সবগুলো অপশনই রাসায়নিক সাম্যাবস্থার বৈশিষ্ট্য।\n\n## Q79\n**Type:** mcq\n**Stem:** প্রথম দুটি গ্রীবাদেশীয় কশেরুকার অস্থিসন্ধি যে প্রকারের-\n**Options:**\n- a) জিন আকৃতি অস্থিসন্ধি\n- b) পিভট অস্থিসন্ধি\n- c) উপস্থলাকার অস্থিসন্ধি\n- d) চাপা অস্থিসন্ধি\n**Answer:** b\n\n## Q80\n**Type:** mcq\n**Stem:** পানির উপর তেলের হালকা আবরণীতে যে রং দেখা যায় উহার কারণ-\n**Options:**\n- a) আলোকের বিচ্যুতি\n- b) আলোকের ব্যতিচার\n- c) আলোকের অপবর্তন\n- d) আলোকের পোলারন\n**Answer:** b\n**Solution:** সঠিক উত্তর অপশন 'B' অর্থাৎ আলোকের ব্যতিচার।\n\n## Q81\n**Type:** mcq\n**Stem:** যে সারটি অম্লীয়, ক্ষারীয় ও প্রষম মাটিতে সমানভাবে কার্যকর-\n**Options:**\n- a) ফসফেটিক স্ল্যাগ\n- b) ট্রিপল সুপার ফসফেট\n- c) ডাইঅ্যামোনিয়াম ফসফেট\n- d) ক্যালসিয়াম সুপার ফসফেট নাইট্রেট\n**Answer:** c\n**Solution:** ডাই অ্যামোনিয়াম ফসফেট সারটি অম্লীয়, ক্ষারীয় ও প্রষম মাটিতে সমানভাবে কার্যকর।\n\n## Q82\n**Type:** mcq\n**Stem:** যেটি সত্য নয়-\n**Options:**\n- a) যে মাধ্যমে ব্যাপন সংগঠিত হবে সে মাধ্যমের ঘনত্ব কমালে ব্যাপন হার বাড়বে\n- b) অসার কাঠ পচনশীল এবং ঘুন পোকা দিয়ে সহজেই আক্রান্ত হয়, তথাপি এর মুখ্য কাজ কিন্তু খাদ্য ও পানি পরিবহন\n- c) সমদ্বিপৃষ্ঠ পাতার মেসোফিল কেবল প্যালিসেড প্যারেনকাইমা দিয়ে গঠিত\n- d) দ্বিবীজ মূলের দিকে একত্রে অবস্থিত ভ্রূণস্থলীর তিনটি বিশেষ কোষকে সহকারী কোষ বলে\n**Answer:** c\n**Solution:** অপশন 'D' সত্য নয়; কারণ- এটি হবে প্রতিপাদ কোষ।\n\n## Q83\n**Type:** mcq\n**Stem:** ভূ-পৃষ্ঠে টেলিভিশন সংকেত সঞ্চার কেন্দ্র থেকে ১০০ কিলোমিটারের বেশি দূরে ধরা যায় না কারণ-\n**Options:**\n- a) ভূ-পৃষ্ঠ বৃত্তের ন্যায় বক্রাকার\n- b) বেতার সংকেতের চেয়ে টিভি সংকেত কম ক্ষমতা সম্পন্ন\n- c) গ্রহিতার এ্যান্টিনা ১০০ কিলোমিটারের অধিক দূরের সংকেত ধরতে পারে না\n- d) টিভি প্রোগ্রামে দৃশ্য ও সংকেত দুটোই থাকে\n**Answer:** c\n**Solution:** সঠিক উত্তর অপশন 'C' অর্থাৎ গ্রহিতার এ্যান্টিনা ১০০ কিলোমিটারের অধিক দূরের সংকেত ধরতে পারে না\n\n## Q84\n**Type:** mcq\n**Stem:** ফ্রাশ প্রণালীতে খনি থেকে সালফার উত্তোলনের ক্ষেত্রে যেটি সত্য নয়-\n**Options:**\n- a) যে সালফার বের হয়ে আসে তা প্রায় ৯৯.৭% বিশুদ্ধ\n- b) সবচেয়ে ভিতরের নল দিয়ে প্রায় 15 atm চাপে উষ্ণ বায়ু চালনা করা হয়\n- c) সবচেয়ে বড় নলের ভিতর দিয়ে প্রায় 160°C তাপমাত্রায় অতি তপ্ত - পানিকে প্রায় 10atm চাপে সালফারের খনিতে চালনা করা হয়\n- d) এই প্রণালীতে এককেন্দ্রিকভাকে তিনটি ভিন্ন ব্যাসার্ধের ধাতব নলকে সালফারের খনিতে প্রবেশ করানো হয়\n**Answer:** c\n**Solution:** অপশন A, C সত্য নয়; কারণ-\n→ অপশন A- যে সালফার বের হয়ে আসে তা প্রায় 99.7-99.8% বিশুদ্ধ\n→ অপশন C- এখানে তাপমাত্রা হবে 165-170°C এবং চাপ হবে 16 atm\n\n## Q85\n**Type:** mcq\n**Stem:** আরশোলাব স্বয়ংক্রিয় স্নায়ুতন্ত্রের রেট্রোসেরেব্রাল কমপ্লেক্স এর কর্পোরা-অ্যালাটা যে কাজে সাহায্য করে-\n**Options:**\n- a) প্রজনন ও রূপান্তরে সাহায্যকারী হরমোন ক্ষরণে সাহায্য করে\n- b) হৃদস্পন্দন ও পেরিস্টালসিস নিয়ন্ত্রণ করে\n- c) শ্বাসরন্ধ্রের কাজ নিয়ন্ত্রণ করে\n- d) পুঞ্জাক্ষি ও এ্যান্টেনায় স্নায়ু পাঠায়\n**Answer:** a\n\n## Q86\n**Type:** mcq\n**Stem:** 'শঠে শাঠ্যং সমাচারে' এই বাগধারার যথোপযোগী ইংরেজী যেটি দাঁড়াবে-\n**Options:**\n- a) A pauper has nothing to lose.\n- b) Too much courtesy, too little craft.\n- c) Birds of a feather flock together.\n- d) Tit for tat.\n**Answer:** d\n**Solution:** 'শঠে শাঠ্যং সমাচারে'- মানে চোরে চোরে মাসতুতো ভাই যার ইংরেজি হলো- Birds of a feather flock together.\n\n## Q87\n**Type:** mcq\n**Stem:** ধাতুর উপর আলোক পতিত হলে যে ইলেকট্রন বিকিরণ হয় তাকে বলে-\n**Options:**\n- a) ফোটন\n- b) প্রাইমারী ইলেকট্রন\n- c) ফোটো ইলেকট্রন\n- d) কুয়ান্টা\n**Answer:** c\n**Solution:** ধাতুর উপর আলোক পতিত হলে যে ইলেকট্রন বিকিরণ হয় তাকে ফোটো ইলেকট্রন বলে।",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "৪৪০ দি মেডিসিন - মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার প্রশ্নব্যাংক",
+          "structured_data": {},
+          "id": "dda5e259-ae8c-52c4-939b-2aa95bc60e9d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q75",
+          "content_markdown": "কোন একটি পদার্থ গাঢ় HCl-এর সাথে বিক্রিয়ায় লেভুলিনিক এসিড তৈরি করলে পদার্থটি সম্ভব-",
+          "structured_data": {
+            "question_number": "75",
+            "subtype": "mcq",
+            "stem": "কোন একটি পদার্থ গাঢ় HCl-এর সাথে বিক্রিয়ায় লেভুলিনিক এসিড তৈরি করলে পদার্থটি সম্ভব-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সেলোবায়োজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "রাইবুলোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রাইবোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ডি-অক্সিরাইবোজ",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d",
+            "solution_markdown": "সঠিক উত্তর অপশন 'D' অর্থাৎ ডি-অক্সিরাইবোজ।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "010b6f15-5fda-5241-a342-0a5fd516a797"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q76",
+          "content_markdown": "পেডাল চালিয়ে বাইসাইকেল চলার সময় উহার দুই চাকার উপর ভূমি কর্তৃক প্রদত্ত ঘর্ষণ বলের গতি-",
+          "structured_data": {
+            "question_number": "76",
+            "subtype": "mcq",
+            "stem": "পেডাল চালিয়ে বাইসাইকেল চলার সময় উহার দুই চাকার উপর ভূমি কর্তৃক প্রদত্ত ঘর্ষণ বলের গতি-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সম্মুখ ও পশ্চাত উভয় চাকার উপর সম্মুখ দিকে",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "সম্মুখ ও পশ্চাত উভয় চাকার উপর পশ্চাত দিকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সম্মুখের চাকার উপর সম্মুখ দিকে এবং পশ্চাতের চাকার উপর পশ্চাত দিকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সম্মুখের চাকার উপর পশ্চাত দিকে এবং পশ্চাতের চাকার উপর পশ্চাত দিকে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a",
+            "solution_markdown": "সঠিক উত্তর অপশন 'A' অর্থাৎ সম্মুখ ও পশ্চাত উভয় চাকার উপর সম্মুখ দিকে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5af82ab3-1ddf-55a5-b1d8-0026a924a736"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q77",
+          "content_markdown": "'Hard and fast' means-",
+          "structured_data": {
+            "question_number": "77",
+            "subtype": "mcq",
+            "stem": "'Hard and fast' means-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Quick",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Fixed",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "Rapid",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Difficult",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b",
+            "solution_markdown": "'Hard and fast' idiom-টির বাংলা অর্থ নির্দিষ্ট। সুতরাং সঠিক উত্তর অপশন 'B' অর্থাৎ Fixed",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d2bc8d61-57e4-521a-9c82-7a8437ae379f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q78",
+          "content_markdown": "রাসায়নিক সাম্যাবস্থার বৈশিষ্ট্য-",
+          "structured_data": {
+            "question_number": "78",
+            "subtype": "mcq",
+            "stem": "রাসায়নিক সাম্যাবস্থার বৈশিষ্ট্য-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সাম্যাবস্থার স্থায়িত্ব",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বিক্রিয়ার অসম্পূর্ণতা",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "উভয় দিক থেকে সাম্যাবস্থার প্রতিষ্ঠা",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "উপরের সবকটি",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d",
+            "solution_markdown": "সঠিক উত্তর অপশন 'D' অর্থাৎ সবগুলো অপশনই রাসায়নিক সাম্যাবস্থার বৈশিষ্ট্য।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c840d1ee-4bf9-5163-9616-c002de14778b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q79",
+          "content_markdown": "প্রথম দুটি গ্রীবাদেশীয় কশেরুকার অস্থিসন্ধি যে প্রকারের-",
+          "structured_data": {
+            "question_number": "79",
+            "subtype": "mcq",
+            "stem": "প্রথম দুটি গ্রীবাদেশীয় কশেরুকার অস্থিসন্ধি যে প্রকারের-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "জিন আকৃতি অস্থিসন্ধি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "পিভট অস্থিসন্ধি",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "উপস্থলাকার অস্থিসন্ধি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "চাপা অস্থিসন্ধি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c9d932dd-28c8-5dcb-97eb-5a9ead59ba84"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q80",
+          "content_markdown": "পানির উপর তেলের হালকা আবরণীতে যে রং দেখা যায় উহার কারণ-",
+          "structured_data": {
+            "question_number": "80",
+            "subtype": "mcq",
+            "stem": "পানির উপর তেলের হালকা আবরণীতে যে রং দেখা যায় উহার কারণ-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আলোকের বিচ্যুতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "আলোকের ব্যতিচার",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "আলোকের অপবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "আলোকের পোলারন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b",
+            "solution_markdown": "সঠিক উত্তর অপশন 'B' অর্থাৎ আলোকের ব্যতিচার।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c15a3f25-dc47-5ccc-bc1e-ab2404ed4eb6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q81",
+          "content_markdown": "যে সারটি অম্লীয়, ক্ষারীয় ও প্রষম মাটিতে সমানভাবে কার্যকর-",
+          "structured_data": {
+            "question_number": "81",
+            "subtype": "mcq",
+            "stem": "যে সারটি অম্লীয়, ক্ষারীয় ও প্রষম মাটিতে সমানভাবে কার্যকর-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ফসফেটিক স্ল্যাগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ট্রিপল সুপার ফসফেট",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ডাইঅ্যামোনিয়াম ফসফেট",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "ক্যালসিয়াম সুপার ফসফেট নাইট্রেট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c",
+            "solution_markdown": "ডাই অ্যামোনিয়াম ফসফেট সারটি অম্লীয়, ক্ষারীয় ও প্রষম মাটিতে সমানভাবে কার্যকর।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "cf979fa7-aaf7-51fc-8c76-ab2565caada3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q82",
+          "content_markdown": "যেটি সত্য নয়-",
+          "structured_data": {
+            "question_number": "82",
+            "subtype": "mcq",
+            "stem": "যেটি সত্য নয়-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "যে মাধ্যমে ব্যাপন সংগঠিত হবে সে মাধ্যমের ঘনত্ব কমালে ব্যাপন হার বাড়বে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অসার কাঠ পচনশীল এবং ঘুন পোকা দিয়ে সহজেই আক্রান্ত হয়, তথাপি এর মুখ্য কাজ কিন্তু খাদ্য ও পানি পরিবহন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সমদ্বিপৃষ্ঠ পাতার মেসোফিল কেবল প্যালিসেড প্যারেনকাইমা দিয়ে গঠিত",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "দ্বিবীজ মূলের দিকে একত্রে অবস্থিত ভ্রূণস্থলীর তিনটি বিশেষ কোষকে সহকারী কোষ বলে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c",
+            "solution_markdown": "অপশন 'D' সত্য নয়; কারণ- এটি হবে প্রতিপাদ কোষ।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b687674a-23f6-518a-82b1-95a4e30dc5d6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q83",
+          "content_markdown": "ভূ-পৃষ্ঠে টেলিভিশন সংকেত সঞ্চার কেন্দ্র থেকে ১০০ কিলোমিটারের বেশি দূরে ধরা যায় না কারণ-",
+          "structured_data": {
+            "question_number": "83",
+            "subtype": "mcq",
+            "stem": "ভূ-পৃষ্ঠে টেলিভিশন সংকেত সঞ্চার কেন্দ্র থেকে ১০০ কিলোমিটারের বেশি দূরে ধরা যায় না কারণ-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ভূ-পৃষ্ঠ বৃত্তের ন্যায় বক্রাকার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বেতার সংকেতের চেয়ে টিভি সংকেত কম ক্ষমতা সম্পন্ন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গ্রহিতার এ্যান্টিনা ১০০ কিলোমিটারের অধিক দূরের সংকেত ধরতে পারে না",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "টিভি প্রোগ্রামে দৃশ্য ও সংকেত দুটোই থাকে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c",
+            "solution_markdown": "সঠিক উত্তর অপশন 'C' অর্থাৎ গ্রহিতার এ্যান্টিনা ১০০ কিলোমিটারের অধিক দূরের সংকেত ধরতে পারে না",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7410717f-9daf-5c82-b434-f6e3d1925436"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q84",
+          "content_markdown": "ফ্রাশ প্রণালীতে খনি থেকে সালফার উত্তোলনের ক্ষেত্রে যেটি সত্য নয়-",
+          "structured_data": {
+            "question_number": "84",
+            "subtype": "mcq",
+            "stem": "ফ্রাশ প্রণালীতে খনি থেকে সালফার উত্তোলনের ক্ষেত্রে যেটি সত্য নয়-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "যে সালফার বের হয়ে আসে তা প্রায় ৯৯.৭% বিশুদ্ধ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সবচেয়ে ভিতরের নল দিয়ে প্রায় 15 atm চাপে উষ্ণ বায়ু চালনা করা হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সবচেয়ে বড় নলের ভিতর দিয়ে প্রায় 160°C তাপমাত্রায় অতি তপ্ত - পানিকে প্রায় 10atm চাপে সালফারের খনিতে চালনা করা হয়",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "এই প্রণালীতে এককেন্দ্রিকভাকে তিনটি ভিন্ন ব্যাসার্ধের ধাতব নলকে সালফারের খনিতে প্রবেশ করানো হয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c",
+            "solution_markdown": "অপশন A, C সত্য নয়; কারণ-\n→ অপশন A- যে সালফার বের হয়ে আসে তা প্রায় 99.7-99.8% বিশুদ্ধ\n→ অপশন C- এখানে তাপমাত্রা হবে 165-170°C এবং চাপ হবে 16 atm",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d2c746a3-0064-5aaa-9cc6-d31f1951115a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q85",
+          "content_markdown": "আরশোলাব স্বয়ংক্রিয় স্নায়ুতন্ত্রের রেট্রোসেরেব্রাল কমপ্লেক্স এর কর্পোরা-অ্যালাটা যে কাজে সাহায্য করে-",
+          "structured_data": {
+            "question_number": "85",
+            "subtype": "mcq",
+            "stem": "আরশোলাব স্বয়ংক্রিয় স্নায়ুতন্ত্রের রেট্রোসেরেব্রাল কমপ্লেক্স এর কর্পোরা-অ্যালাটা যে কাজে সাহায্য করে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রজনন ও রূপান্তরে সাহায্যকারী হরমোন ক্ষরণে সাহায্য করে",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "হৃদস্পন্দন ও পেরিস্টালসিস নিয়ন্ত্রণ করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "শ্বাসরন্ধ্রের কাজ নিয়ন্ত্রণ করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "পুঞ্জাক্ষি ও এ্যান্টেনায় স্নায়ু পাঠায়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "68d2c471-baf0-5a00-9cc2-df06c6608242"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q86",
+          "content_markdown": "'শঠে শাঠ্যং সমাচারে' এই বাগধারার যথোপযোগী ইংরেজী যেটি দাঁড়াবে-",
+          "structured_data": {
+            "question_number": "86",
+            "subtype": "mcq",
+            "stem": "'শঠে শাঠ্যং সমাচারে' এই বাগধারার যথোপযোগী ইংরেজী যেটি দাঁড়াবে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "A pauper has nothing to lose.",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Too much courtesy, too little craft.",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Birds of a feather flock together.",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Tit for tat.",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d",
+            "solution_markdown": "'শঠে শাঠ্যং সমাচারে'- মানে চোরে চোরে মাসতুতো ভাই যার ইংরেজি হলো- Birds of a feather flock together.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e6da9511-1021-55d9-9c11-d5494f9ce23d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q87",
+          "content_markdown": "ধাতুর উপর আলোক পতিত হলে যে ইলেকট্রন বিকিরণ হয় তাকে বলে-",
+          "structured_data": {
+            "question_number": "87",
+            "subtype": "mcq",
+            "stem": "ধাতুর উপর আলোক পতিত হলে যে ইলেকট্রন বিকিরণ হয় তাকে বলে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ফোটন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রাইমারী ইলেকট্রন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ফোটো ইলেকট্রন",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "কুয়ান্টা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c",
+            "solution_markdown": "ধাতুর উপর আলোক পতিত হলে যে ইলেকট্রন বিকিরণ হয় তাকে ফোটো ইলেকট্রন বলে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "af9355e8-5c84-527f-9eff-a51be74d5729"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 14,
+        "figure_count": 0,
+        "vlm_endpoint": "gemini_pool",
+        "vlm_model": "gemini-3.1-flash-lite",
+        "elapsed_sec": 68.46,
+        "eval_count": 1577
+      }
+    },
+    {
+      "page_number": 8,
+      "printed_page_number": "৮১",
+      "page_header": "দি মেডিসিন - মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার প্রশ্নব্যাংক",
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1127,
+        "height": 1550
+      },
+      "raw_markdown": "## Q88\n**Type:** mcq\n**Stem:** কোনটি সত্য নয়?\n**Options:**\n- A. একটি আয়নিক সমীকরণে আধানের সমতা আনয়ন করা প্রয়োজন\n- B. ডিসপ্রোপোরশন বিক্রিয়া একটি জারণ বিজারণ বিক্রিয়া\n- C. বিজারক পদার্থের পরীক্ষা এরা এসিডীয় পটাশিয়াম ডাইক্রোমেটের কমলা বর্ণের দ্রবণকে বিরাঞ্জিত করে\n- D. জারক পদার্থ স্টার্চ-আয়োডাইড কাগজকে নীল করে\n**Answer:** NONE\n**Solution:** সবগুলো অপশনই সত্য।\n\n## Q89\n**Type:** mcq\n**Stem:** জিন এর বৈশিষ্ট্য প্রকাশে যে আমিষের উল্লেখযোগ্য ভূমিকা আছে-\n**Options:**\n- A. হিস্টোন\n- B. লিউকোসিন\n- C. স্ক্লেরোপ্রোটিন\n- D. গ্লুটেলিন\n**Answer:** A\n**Solution:** জিন এর বৈশিষ্ট্য প্রকাশে হিস্টোন উল্লেখযোগ্য ভূমিকা রাখে।\n\n## Q90\n**Type:** mcq\n**Stem:** যে উক্তিটি মিথ্যা-\n**Options:**\n- A. মেরুতে মহাজাগতিক রশ্মির প্রাবল্য সবচেয়ে কম\n- B. চার্জকৃত ফাঁকা গোলকের ভিতরে বৈদ্যুতিক ক্ষেত্র সবসময় শূন্য\n- C. অস্তগামী সূর্যকে আকাশে প্রকৃত অবস্থা থেকে উঁচুতে দেখা যায়\n- D. +2D ক্ষমতা সম্পন্ন একটি উত্তল লেন্সের ফোকাস দূরত্ব হলো +50 cm\n**Answer:** A\n**Solution:** অপশন 'A' সত্য নয়; কারণ- মেরুতে মহাজাগতিক রশ্মির প্রাবল্য সবচেয়ে বেশি।\n\n## Q91\n**Type:** mcq\n**Stem:** অসওয়াল্ড পদ্ধতিতে HNO3 উৎপাদনে যে অবস্থার ধাতু অনুঘটক হিসেবে ব্যবহৃত হয়-\n**Options:**\n- A. Zn\n- B. Ni\n- C. Fe\n- D. Pt\n**Answer:** D\n**Solution:** সঠিক উত্তর অপশন 'D' অর্থাৎ Pt\n\n## Q92\n**Type:** mcq\n**Stem:** ভ্রূণীয় একটোডার্ম স্তর থেকে যেটি পূর্ণাঙ্গ প্রাণীদেহে গঠিত হয় না-\n**Options:**\n- A. সমগ্র স্নায়ুতন্ত্র\n- B. দাঁতের ডেন্টিন\n- C. দাঁতের এনামেল\n- D. চোখ\n**Answer:** B\n**Solution:** দাঁতের ডেন্টিন ভ্রূণীয় একটোডার্ম থেকে গঠিত হয় না; এটি গঠিত হয় ভ্রূণীয় মেসোডার্ম থেকে।\n\n## Q93\n**Type:** mcq\n**Stem:** কুরী বিন্দুতে অয়ৌম্বক পদার্থ আচরণ করে কার মত-\n**Options:**\n- A. শক্তিশালী অয়ৌম্বক\n- B. প্যারাচৌম্বক পদার্থ\n- C. তিরচৌম্বক পদার্থ\n- D. অচৌম্বক পদার্থ\n**Answer:** B\n**Solution:** সঠিক উত্তর অপশন 'B' অর্থাৎ প্যারাচৌম্বক পদার্থ।\n\n## Q94\n**Type:** mcq\n**Stem:** হাইড্রোজেন বন্ধন সেই সব যৌগে ঘটে যেসব যৌগে আছে হাইড্রোজেন এবং-\n**Options:**\n- A. ধনাত্মক আধানযুক্ত কণা\n- B. ঋণাত্মক আধানযুক্ত কণা\n- C. উচ্চ ইলেকট্রোনেগেটিভ মৌল\n- D. উচ্চ ইলেকট্রোপজেটিভ মৌল\n**Answer:** C\n**Solution:** সঠিক উত্তর হচ্ছে অপশন 'C' অর্থাৎ উচ্চ ইলেকট্রোনেগেটিভ মৌল\n\n## Q95\n**Type:** mcq\n**Stem:** আলোকোর দৃশ্যমান বর্ণালীর সাতটি বর্ণের লাল অংশের পরেই যেটিতে সর্বাপেক্ষা অধিক সালোক সংশ্লেষণ ঘটে সেটি হলো-\n**Options:**\n- A. নীল\n- B. বেগুনি\n- C. হলুদ\n- D. সবুজ\n**Answer:** A\n**Solution:** সঠিক উত্তর অপশন 'A' অর্থাৎ নীল।\n\n## Q96\n**Type:** mcq\n**Stem:** The most suitable pair of words that can be substituted in blanks : the licenses of ..... drivers, when and if apprehended, should be ..... with immediate effect and without showing any mercy.\n**Options:**\n- A. experienced ..... maintained\n- B. reckless ..... revoked\n- C. untrained .... jailed\n- D. drunk .... banned\n**Answer:** D\n**Solution:** সঠিক উত্তর অপশন 'D' অর্থাৎ drunk .... banned.\n\n## Q97\n**Type:** mcq\n**Stem:** অণুগুলোর সংঘাতের ফলে তাপের সঞ্চালন হলো-\n**Options:**\n- A. বিচ্ছুরণ\n- B. বিকিরণ\n- C. পরিচলন\n- D. পরিবহন\n**Answer:** D\n**Solution:** সঠিক উত্তর অপশন 'D' অর্থাৎ পরিবহন।\n\n## Q98\n**Type:** mcq\n**Stem:** হ্যালোজেনো অ্যালকেনের স্ফুটনাঙ্কের যে ক্রমটি সঠিক-\n**Options:**\n- A. RF>RBr>RCl>RI\n- B. RI>RBr>RCl>RF\n- C. RCl>RF>RI>RBr\n- D. RF>RCl>RBr>RI\n**Answer:** B\n**Solution:** হ্যালোজেনো অ্যালকেনের স্ফুটনাঙ্কের সঠিক ক্রম হলো :RI>RBr>RCl>RF\n\n## Q99\n**Type:** mcq\n**Stem:** যেটি সত্য নয়-\n**Options:**\n- A. প্লাটিহেলমিনথেস পর্বের সিস্টোডা শ্রেণির বৈশিষ্ট্য হলো এদের কোন মুখ খাদ্যনালী নেই\n- B. সেক্স-লিংকড জিন বলতে X ক্রোমোজোমে অবস্থিত জিনকে বুঝায়\n- C. স্পার্মাটিড সৃষ্টির জন্য প্রাইমোরিয়াল কোষ পূর্ণতা পর্যায়ে একটি ডিপ্লয়েড স্পার্মাটোগোনিয়াম থেকে দুইটি হ্যাপ্লয়েড স্পার্মাটিড উৎপন্ন করে\n- D. বার্তাবাহ RNA-র পরিমাণ কোষে অবস্থিত মোট RNA-র ১০ ভাগ\n**Answer:** C\n**Solution:** অপশন 'C' সত্য নয়; কারণ এখানে চারটি হ্যাপ্লয়েড স্পার্মাটিড হবে।\n\n## Q100\n**Type:** mcq\n**Stem:** টেলিভিশন টিউবে ইলেকট্রনের ত্বরণের মান বৃদ্ধি পায় নিচের কোনটির জন্য?\n**Options:**\n- A. বেতার তরঙ্গের জন্য\n- B. চুম্বক ক্ষেত্রের জন্য\n- C. বৈদ্যুতিক ক্ষেত্রের জন্য\n- D. শক্তিশালী ফোটন গুচ্ছের জন্য\n**Answer:** C\n**Solution:** বৈদ্যুতিক ক্ষেত্রের জন্য টেলিভিশন টিউবে ইলেকট্রনের ত্বরণের মান বৃদ্ধি পায়।\n\nANSWER : BDS ADMISSION TEST : 2000-2001\n| 1.A | 2.D | 3.B | 4.C | 5.D | 6.A | 7.B | 8.B | 9.B | 10.D |\n| 11.D | 12.C | 13.D | 14.D | 15.A | 16.D | 17.C | 18.B | 19.B | 20.C |\n| 21.B | 22.D | 23.C | 24.B | 25.D | 26.C | 27.B | 28.C | 29.Blank | 30.C |\n| 31.D | 32.D | 33.A | 34.B | 35.B | 36.B | 37.B | 38.A | 39.A | 40.D |\n| 41.B | 42.B | 43.C | 44.A | 45.C | 46.D | 47.C | 48.C | 49.D | 50. AB |\n| 51.B | 52.D | 53.B | 54.A | 55.B | 56.D | 57.D | 58.B | 59.C | 60.B |\n| 61.C | 62.A | 63.Blank | 64.B | 65.A | 66.B | 67.D | 68.A | 69.A | 70.Blank |\n| 71.A | 72.B | 73.B | 74.A | 75.D | 76.A | 77.B | 78.D | 79.B | 80.B |\n| 81.C | 82.D | 83.C | 84.AC | 85.A | 86.C | 87.C | 88.Blank | 89.A | 90.A |\n| 91.D | 92.B | 93.B | 94.C | 95.A | 96.D | 97.D | 98.B | 99.C | 100.C |",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q88",
+          "content_markdown": "কোনটি সত্য নয়?",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "mcq",
+            "stem": "কোনটি সত্য নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "একটি আয়নিক সমীকরণে আধানের সমতা আনয়ন করা প্রয়োজন",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ডিসপ্রোপোরশন বিক্রিয়া একটি জারণ বিজারণ বিক্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "বিজারক পদার্থের পরীক্ষা এরা এসিডীয় পটাশিয়াম ডাইক্রোমেটের কমলা বর্ণের দ্রবণকে বিরাঞ্জিত করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "জারক পদার্থ স্টার্চ-আয়োডাইড কাগজকে নীল করে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সবগুলো অপশনই সত্য।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f5d96630-e568-59ca-b650-a4db72cdde7f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q89",
+          "content_markdown": "জিন এর বৈশিষ্ট্য প্রকাশে যে আমিষের উল্লেখযোগ্য ভূমিকা আছে-",
+          "structured_data": {
+            "question_number": "89",
+            "subtype": "mcq",
+            "stem": "জিন এর বৈশিষ্ট্য প্রকাশে যে আমিষের উল্লেখযোগ্য ভূমিকা আছে-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "হিস্টোন",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "লিউকোসিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "স্ক্লেরোপ্রোটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "গ্লুটেলিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "জিন এর বৈশিষ্ট্য প্রকাশে হিস্টোন উল্লেখযোগ্য ভূমিকা রাখে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f9188c06-deb7-53e2-9ffc-b6ee2b1dd48a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q90",
+          "content_markdown": "যে উক্তিটি মিথ্যা-",
+          "structured_data": {
+            "question_number": "90",
+            "subtype": "mcq",
+            "stem": "যে উক্তিটি মিথ্যা-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "মেরুতে মহাজাগতিক রশ্মির প্রাবল্য সবচেয়ে কম",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "চার্জকৃত ফাঁকা গোলকের ভিতরে বৈদ্যুতিক ক্ষেত্র সবসময় শূন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "অস্তগামী সূর্যকে আকাশে প্রকৃত অবস্থা থেকে উঁচুতে দেখা যায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "+2D ক্ষমতা সম্পন্ন একটি উত্তল লেন্সের ফোকাস দূরত্ব হলো +50 cm",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "অপশন 'A' সত্য নয়; কারণ- মেরুতে মহাজাগতিক রশ্মির প্রাবল্য সবচেয়ে বেশি।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "15fa55c7-19e7-5fc9-a485-eb9dd7cf63de"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q91",
+          "content_markdown": "অসওয়াল্ড পদ্ধতিতে HNO3 উৎপাদনে যে অবস্থার ধাতু অনুঘটক হিসেবে ব্যবহৃত হয়-",
+          "structured_data": {
+            "question_number": "91",
+            "subtype": "mcq",
+            "stem": "অসওয়াল্ড পদ্ধতিতে HNO3 উৎপাদনে যে অবস্থার ধাতু অনুঘটক হিসেবে ব্যবহৃত হয়-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "Zn",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "Ni",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "Fe",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "Pt",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "সঠিক উত্তর অপশন 'D' অর্থাৎ Pt",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "59e1dd76-c6b8-5ffd-b0d8-89d66817973c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q92",
+          "content_markdown": "ভ্রূণীয় একটোডার্ম স্তর থেকে যেটি পূর্ণাঙ্গ প্রাণীদেহে গঠিত হয় না-",
+          "structured_data": {
+            "question_number": "92",
+            "subtype": "mcq",
+            "stem": "ভ্রূণীয় একটোডার্ম স্তর থেকে যেটি পূর্ণাঙ্গ প্রাণীদেহে গঠিত হয় না-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "সমগ্র স্নায়ুতন্ত্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "দাঁতের ডেন্টিন",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "দাঁতের এনামেল",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "চোখ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "দাঁতের ডেন্টিন ভ্রূণীয় একটোডার্ম থেকে গঠিত হয় না; এটি গঠিত হয় ভ্রূণীয় মেসোডার্ম থেকে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "da6db391-1f5e-5e65-8fb6-537058b6f1c8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q93",
+          "content_markdown": "কুরী বিন্দুতে অয়ৌম্বক পদার্থ আচরণ করে কার মত-",
+          "structured_data": {
+            "question_number": "93",
+            "subtype": "mcq",
+            "stem": "কুরী বিন্দুতে অয়ৌম্বক পদার্থ আচরণ করে কার মত-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "শক্তিশালী অয়ৌম্বক",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "প্যারাচৌম্বক পদার্থ",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "তিরচৌম্বক পদার্থ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "অচৌম্বক পদার্থ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "সঠিক উত্তর অপশন 'B' অর্থাৎ প্যারাচৌম্বক পদার্থ।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3076c6fe-d17b-5b16-9045-726d09e80bb6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q94",
+          "content_markdown": "হাইড্রোজেন বন্ধন সেই সব যৌগে ঘটে যেসব যৌগে আছে হাইড্রোজেন এবং-",
+          "structured_data": {
+            "question_number": "94",
+            "subtype": "mcq",
+            "stem": "হাইড্রোজেন বন্ধন সেই সব যৌগে ঘটে যেসব যৌগে আছে হাইড্রোজেন এবং-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ধনাত্মক আধানযুক্ত কণা",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ঋণাত্মক আধানযুক্ত কণা",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "উচ্চ ইলেকট্রোনেগেটিভ মৌল",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "উচ্চ ইলেকট্রোপজেটিভ মৌল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "সঠিক উত্তর হচ্ছে অপশন 'C' অর্থাৎ উচ্চ ইলেকট্রোনেগেটিভ মৌল",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7646fee7-91c8-5c5f-ac07-bc33294d62fa"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q95",
+          "content_markdown": "আলোকোর দৃশ্যমান বর্ণালীর সাতটি বর্ণের লাল অংশের পরেই যেটিতে সর্বাপেক্ষা অধিক সালোক সংশ্লেষণ ঘটে সেটি হলো-",
+          "structured_data": {
+            "question_number": "95",
+            "subtype": "mcq",
+            "stem": "আলোকোর দৃশ্যমান বর্ণালীর সাতটি বর্ণের লাল অংশের পরেই যেটিতে সর্বাপেক্ষা অধিক সালোক সংশ্লেষণ ঘটে সেটি হলো-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "নীল",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "বেগুনি",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "হলুদ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "সবুজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "সঠিক উত্তর অপশন 'A' অর্থাৎ নীল।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "800042b7-9708-5700-b41c-8b5fb433a0d2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q96",
+          "content_markdown": "The most suitable pair of words that can be substituted in blanks : the licenses of ..... drivers, when and if apprehended, should be ..... with immediate effect and without showing any mercy.",
+          "structured_data": {
+            "question_number": "96",
+            "subtype": "mcq",
+            "stem": "The most suitable pair of words that can be substituted in blanks : the licenses of ..... drivers, when and if apprehended, should be ..... with immediate effect and without showing any mercy.",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "experienced ..... maintained",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "reckless ..... revoked",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "untrained .... jailed",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "drunk .... banned",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "সঠিক উত্তর অপশন 'D' অর্থাৎ drunk .... banned.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "84766031-5f54-594d-8344-329ce46e03fd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q97",
+          "content_markdown": "অণুগুলোর সংঘাতের ফলে তাপের সঞ্চালন হলো-",
+          "structured_data": {
+            "question_number": "97",
+            "subtype": "mcq",
+            "stem": "অণুগুলোর সংঘাতের ফলে তাপের সঞ্চালন হলো-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "বিচ্ছুরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "বিকিরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "পরিচলন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "পরিবহন",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "সঠিক উত্তর অপশন 'D' অর্থাৎ পরিবহন।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "bcf41b75-9358-5a1c-a717-918de6005dcb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q98",
+          "content_markdown": "হ্যালোজেনো অ্যালকেনের স্ফুটনাঙ্কের যে ক্রমটি সঠিক-",
+          "structured_data": {
+            "question_number": "98",
+            "subtype": "mcq",
+            "stem": "হ্যালোজেনো অ্যালকেনের স্ফুটনাঙ্কের যে ক্রমটি সঠিক-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "RF>RBr>RCl>RI",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "RI>RBr>RCl>RF",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "RCl>RF>RI>RBr",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "RF>RCl>RBr>RI",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "হ্যালোজেনো অ্যালকেনের স্ফুটনাঙ্কের সঠিক ক্রম হলো :RI>RBr>RCl>RF",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b1ef1b0e-6292-50ad-b8e5-3fb2cbac02b3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q99",
+          "content_markdown": "যেটি সত্য নয়-",
+          "structured_data": {
+            "question_number": "99",
+            "subtype": "mcq",
+            "stem": "যেটি সত্য নয়-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "প্লাটিহেলমিনথেস পর্বের সিস্টোডা শ্রেণির বৈশিষ্ট্য হলো এদের কোন মুখ খাদ্যনালী নেই",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "সেক্স-লিংকড জিন বলতে X ক্রোমোজোমে অবস্থিত জিনকে বুঝায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "স্পার্মাটিড সৃষ্টির জন্য প্রাইমোরিয়াল কোষ পূর্ণতা পর্যায়ে একটি ডিপ্লয়েড স্পার্মাটোগোনিয়াম থেকে দুইটি হ্যাপ্লয়েড স্পার্মাটিড উৎপন্ন করে",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "বার্তাবাহ RNA-র পরিমাণ কোষে অবস্থিত মোট RNA-র ১০ ভাগ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "অপশন 'C' সত্য নয়; কারণ এখানে চারটি হ্যাপ্লয়েড স্পার্মাটিড হবে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2b0463a9-1359-5162-994d-70fa48f1ea3a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q100",
+          "content_markdown": "টেলিভিশন টিউবে ইলেকট্রনের ত্বরণের মান বৃদ্ধি পায় নিচের কোনটির জন্য?",
+          "structured_data": {
+            "question_number": "100",
+            "subtype": "mcq",
+            "stem": "টেলিভিশন টিউবে ইলেকট্রনের ত্বরণের মান বৃদ্ধি পায় নিচের কোনটির জন্য?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "বেতার তরঙ্গের জন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "চুম্বক ক্ষেত্রের জন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "বৈদ্যুতিক ক্ষেত্রের জন্য",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "শক্তিশালী ফোটন গুচ্ছের জন্য",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C\nBDS ADMISSION TEST : 2000-2001\n| 1.A | 2.D | 3.B | 4.C | 5.D | 6.A | 7.B | 8.B | 9.B | 10.D |\n| 11.D | 12.C | 13.D | 14.D | 15.A | 16.D | 17.C | 18.B | 19.B | 20.C |\n| 21.B | 22.D | 23.C | 24.B | 25.D | 26.C | 27.B | 28.C | 29.Blank | 30.C |\n| 31.D | 32.D | 33.A | 34.B | 35.B | 36.B | 37.B | 38.A | 39.A | 40.D |\n| 41.B | 42.B | 43.C | 44.A | 45.C | 46.D | 47.C | 48.C | 49.D | 50. AB |\n| 51.B | 52.D | 53.B | 54.A | 55.B | 56.D | 57.D | 58.B | 59.C | 60.B |\n| 61.C | 62.A | 63.Blank | 64.B | 65.A | 66.B | 67.D | 68.A | 69.A | 70.Blank |\n| 71.A | 72.B | 73.B | 74.A | 75.D | 76.A | 77.B | 78.D | 79.B | 80.B |\n| 81.C | 82.D | 83.C | 84.AC | 85.A | 86.C | 87.C | 88.Blank | 89.A | 90.A |\n| 91.D | 92.B | 93.B | 94.C | 95.A | 96.D | 97.D | 98.B | 99.C | 100.C |",
+            "solution_markdown": "বৈদ্যুতিক ক্ষেত্রের জন্য টেলিভিশন টিউবে ইলেকট্রনের ত্বরণের মান বৃদ্ধি পায়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9641ad2a-ffc7-579f-a1ff-39ceaf52b453"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 13,
+        "figure_count": 0,
+        "vlm_endpoint": "gemini_pool",
+        "vlm_model": "gemini-3.1-flash-lite",
+        "elapsed_sec": 6.27,
+        "eval_count": 2052
+      }
+    }
+  ]
+}

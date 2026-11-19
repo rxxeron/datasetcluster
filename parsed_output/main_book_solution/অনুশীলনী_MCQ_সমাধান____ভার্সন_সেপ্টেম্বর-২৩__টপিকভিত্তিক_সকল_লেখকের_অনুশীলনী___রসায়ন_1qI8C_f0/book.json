@@ -1,0 +1,342 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "1qI8C_f0CaorIheNIxVGFJDCjU4pXluwz",
+    "collection": "main_book_solution",
+    "subject": "chemistry",
+    "edition": "2023",
+    "priority_score": 2023092,
+    "path_parts": [
+      "অনুশীলনী MCQ সমাধান",
+      "* ভার্সন সেপ্টেম্বর-২৩",
+      "টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন",
+      "রসায়ন",
+      "C-1.2 গুণগত রসায়ন.pdf"
+    ],
+    "filename": "C-1.2 গুণগত রসায়ন.pdf",
+    "sha256": "21618d45d344e7861988e8ecb4c004dba842df153ef3a25e90ba52d8b823906e",
+    "total_pages": 16,
+    "parsed_pages": 2,
+    "blank_pages": 14,
+    "failed_pages": [],
+    "total_blocks": 2,
+    "block_counts_by_type": {
+      "concept_prose": 2
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+          "structured_data": {},
+          "id": "4503a6f1-f0c4-59f2-aa1c-9fa7a80aef48"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 1,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc30",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 4.46,
+        "eval_count": 0
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+          "structured_data": {},
+          "id": "d51b00a9-8219-5e2c-baaa-254724f202ae"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 1,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc5",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 4.79,
+        "eval_count": 0
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 4,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 5,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 6,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 7,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 8,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 9,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 10,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 11,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 12,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 13,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 14,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 15,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    },
+    {
+      "page_number": 16,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "blank",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "",
+      "blocks": [],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 0,
+        "figure_count": 0
+      }
+    }
+  ]
+}

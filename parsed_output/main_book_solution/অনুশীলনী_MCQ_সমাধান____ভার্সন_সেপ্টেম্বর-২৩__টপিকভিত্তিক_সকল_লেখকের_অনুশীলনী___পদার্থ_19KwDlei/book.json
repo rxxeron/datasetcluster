@@ -1,0 +1,2910 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "19KwDleiLkVw3wV-moK01GO46kT0nR7cw",
+    "collection": "main_book_solution",
+    "subject": "physics",
+    "edition": "2023",
+    "priority_score": 2023092,
+    "path_parts": [
+      "অনুশীলনী MCQ সমাধান",
+      "* ভার্সন সেপ্টেম্বর-২৩",
+      "টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন",
+      "পদার্থবিজ্ঞান",
+      "P-1.3 গতিবিদ্যা.pdf"
+    ],
+    "filename": "P-1.3 গতিবিদ্যা.pdf",
+    "sha256": "094dfc32b64eee2bd2bd8048c73c1e44a456cb4a2885e089ec88ab71a733c418",
+    "total_pages": 6,
+    "parsed_pages": 6,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 107,
+    "block_counts_by_type": {
+      "concept_prose": 37,
+      "mcq_item": 61,
+      "table": 1,
+      "exercise_solution": 8
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান 1ম পত্র\n\n#### তৃতীয় অধ্যায়: গতিবিদ্যা\n\n##### প্রসঙ্ক কাঠামো\n\n01. ফেনটি ত্রিমাত্রিক গতির উদাহরণ?\n    - a) একটি সোজা সড়কে একটি গাড়ির গতি\n    - b) দেওয়ালে একটি পিপড়ির গতি\n    - c) টেবিলের উপর একটি পিপড়ির গতি\n    - d) উড়ে বেগনো একটি প্রজাপতির গতি\n\n02. পরম্পরার সাপেক্ষে খ্রুণে গতিশীল যে প্রসঙ্ক কাঠামোতে নিউইনের গতিসূচিগুলি আর্জন করা যায় তাকে কী বলে?\n    - a) গ্যালিলিও প্রসঙ্ক কাঠামো\n    - b) নিউটনীয় প্রসঙ্ক কাঠামো\n    - c) জড় প্রসঙ্ক কাঠামো\n    - d) সবকটি চিকিৎসা\n\n03. পরম ঘটিতশীল প্রসঙ্ক বন্ধ সাপেক্ষে কোনো বন্ধর গতিকে কী বলে?\n    - a) পরম গতি\n    - b) আপেক্ষিক গতি\n    - c) পরম ছিটি\n    - d) আপেক্ষিক ছিটি\n\n08. একটি গতিশীল বন্ধর সাপেক্ষে সূচিকরণ $x = (4t^2+3t)m$. 2s পর বস্তুটির বেগ হবে-\n    - a) 3 ms^{-1}\n    - b) 8 ms^{-1}\n    - c) 11 ms^{-1}\n    - d) 19 ms^{-1}\n\n05. A এবং B দুটি গাড়ি যথাক্রমে 10 km/h এবং 20 km/h বেগে একই দিকে চলছে। A-এর সাপেক্ষে B-এর আপেক্ষিক বেগ-\n    - a) 10 km/h সামনের দিকে\n    - b) 20 km/h সামনের দিকে\n    - c) 20 km/h পিছনের দিকে\n    - d) 30 km/h সামনের দিকে\n\n06. কোনো প্রসঙ্ক কাঠামোর সাপেক্ষে বন্ধর গতিকে কী বলে?\n    - a) পরম ছিটি\n    - b) আপেক্ষিক গতি\n    - c) আপেক্ষিক ছিটি\n    - d) পরম গতি\n\n07. ভূরভকে সময়ের সাপেক্ষে কত বার সমালোচন করলে অবহান ভেন্নার পাওয়া যায়?\n    - a) এক বার\n    - b) দুই বার\n    - c) তিন বার\n    - d) চার বার\n\n08. সময়ের সাপেক্ষে অবহান ভেন্নারের পরিবর্তনের হারকে কী বলা হয়?\n    - a) ত্রুণ\n    - b) খেল\n    - c) সরণ\n    - d) দ্রুতি\n\n09. s=$\\frac{1}{2} t^{3}$ + 2t সূচনাসারে একটি বাইর সরলরেখা বরাবর গতিশীল, 4 সেকেন্ড পর বস্তুটির বেগ কত?\n    - a) 46 একক\n    - b) 34 একক\n    - c) 28 একক\n    - d) 26 একক\n\n10. বাধাহীন পথে পড়স্ত বন্ধর বেগ সময়ের-\n    - a) বর্ণের সমানুপাতিক\n    - b) সমানুপাতিক\n    - c) বর্গকুলের সমানুপাতিক\n    - d) ব্যাঙ্কানুপাতিক\n\n11. একটি হেলোনো তলে একটি টেট গোলক ছির ঘর্ষণহীন অবস্থা থেকে নিচের দিকে গতিশীল হলে এর গতি কীরূপ হবে?\n    - a) রৈখিক গতি\n    - b) ঘূর্ণ গতি\n    - c) বক্র গতি\n    - d) জটিল গতি\n\n12. কোনো বন্ধর একক সময়ের সরানকে কী বলে?\n    - a) বেগ\n    - b) ত্রুণ\n    - c) দ্রুতি\n    - d) দূরত্ব\n\n13. s=$\\frac{1}{2} at^{2}$ সমীকরণের লেখ কীরূপ হবে?\n    - a) সরলরেখিক খ.\n    - b) উপবৃত্তীয়\n    - c) প্যারাবোলিক\n\n18. ত্রুণ পাওয়া যাবে-\n    - a) সরণ-সময় লেখের নিচের ক্ষেত্রফল থেকে\n    - b) সরণ-সময় লেখের নিচের ফেত্রফল থেকে\n    - c) সরণ-সময় লেখের ঢাল থেকে\n    - d) সরণ-সময় লেখের ঢাল থেকে\n\n15. শূন্য আদিবেগে সমতৃপত্রে গতিশীল কোনো কণার বেগ-সময় লেখটি সরলরেখা হবে। লেখটির বৈশিষ্ট্য হলো-\n    - a) বেগ অক্ষের সমান্তরাল\n    - b) সময় অক্ষের সমান্তরাল\n    - c) মূলধন্দু দিয়ে গণনাকারী\n    - d) বেগ অক্ষের ছেদকারী\n\n16. সময়ের ব্যবধান শূন্যের কাছাকাছি হলে বন্ধর সরানের হারকে কী বলা হয়?\n    - a) গড়বেগ\n    - b) তাত্ক্ষণিক বেগ\n    - c) সুষমবেগ\n    - d) অসমবেগ\n\n17. বেগের মাত্রা কৌনটি?\n    - a) M°LT^{-1} LT\n    - b) L²T\n    - c) M²LT^{-2}\n\n18. ত্রুণের মাত্রা কৌনটি?\n    - a) MLT^{-1}\n    - b) ML²T²\n    - c) M°LT^{-2}\n\n19. নিচের কোনটি সুষমবেগের উদাহরণ?\n    - a) অভিকর্ষের প্রভাবে মুক্তভাবে পড়ত বন্ধর বেগ\n    - b) বজ্রপাতের শেষের বেগ\n    - c) দাকরার রাস্তায় চলাচল গাড়ির বেগ\n    - d) কামানের গোলার বেগ\n\n20. নিচের কোনটি সমতৃপত্র গতির উদাহরণ?\n    - a) নম্বর থেকে আগত আলোর গতি\n    - b) ছাদ থেকে অভিকর্ষের প্রভাবে মুক্তভাবে পড়ত বন্ধর গতি\n    - c) বজ্রপাতের শেষের গতি\n\n21. ছির অবহান থেকে সমতৃপত্রে চলমান বন্ধর অতিক্রম দূরত্ব সময়ের-\n    - a) সমানুপাতিক\n    - b) বর্গের সমানুপাতিক\n    - c) ব্যাঙ্কানুপাতিক\n    - d) বর্গের ব্যাঙ্কানুপাতিক\n\n22. কোনটির মাত্রা কৌনটি?\n    - a) M°L°T^{-1}\n    - b) ML^{-1}T\n    - c) M^{-1}L^{-1}T^{-1}\n    - d) ML^{-2}T^{-1}\n\n### গতি নির্বাক্য বিভিন্ন রাশি!\n#### 23.একটি হাতছড়ির মিনিটের কাঁটার কোণিক কেন্দ্র কত? (স. বো. ২০১৩)\n    - a) $\\frac{\\pi }{3600}\\text{rads}^{-1}$\n    - b) $\\frac{\\pi }{1800}\\text{rads}^{-1}$\n    - c) $\\frac{\\pi }{30}\\text{rads}^{-1}$\n    - d) $2\\pi \\text{rads}^{-1}$\n\n**ব্যাখ্যা:** $\\omega = \\frac{2\\pi }{T}$\n\n| 01.ঘ | 02.ঘ | 03.ক | 04.ঘ | 05.ক | 06.খ |\n| --- | --- | --- | --- | --- | --- |\n| 07.খ | 08.খ | 09.ঘ | 10.খ | 11.ঘ | 12.ক |\n| 13.ঘ | 18.ঘ | 15.গ | 16.খ | 17.ক | 18.গ |\n| 19.খ | 20.খ | 21.খ | 22.ক | 23.খ |\n\n### অনুশীলনীর প্রশ্ন\nChase your dream to be a doctor...",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "তৃতীয় অধ্যায়: গতিবিদ্যা",
+          "content_markdown": "##### প্রসঙ্ক কাঠামো",
+          "structured_data": {},
+          "id": "2d502012-9cce-5419-8deb-145cf93da10c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q01",
+          "content_markdown": "ফেনটি ত্রিমাত্রিক গতির উদাহরণ?",
+          "structured_data": {
+            "question_number": "01",
+            "subtype": "mcq_item",
+            "stem": "ফেনটি ত্রিমাত্রিক গতির উদাহরণ?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "একটি সোজা সড়কে একটি গাড়ির গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "দেওয়ালে একটি পিপড়ির গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "টেবিলের উপর একটি পিপড়ির গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "উড়ে বেগনো একটি প্রজাপতির গতি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "14d41460-1c2a-5673-b6f8-99ce8ff2914e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q02",
+          "content_markdown": "পরম্পরার সাপেক্ষে খ্রুণে গতিশীল যে প্রসঙ্ক কাঠামোতে নিউইনের গতিসূচিগুলি আর্জন করা যায় তাকে কী বলে?",
+          "structured_data": {
+            "question_number": "02",
+            "subtype": "mcq_item",
+            "stem": "পরম্পরার সাপেক্ষে খ্রুণে গতিশীল যে প্রসঙ্ক কাঠামোতে নিউইনের গতিসূচিগুলি আর্জন করা যায় তাকে কী বলে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গ্যালিলিও প্রসঙ্ক কাঠামো",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নিউটনীয় প্রসঙ্ক কাঠামো",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "জড় প্রসঙ্ক কাঠামো",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সবকটি চিকিৎসা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6445f27f-0619-5891-b173-1424489833d2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q03",
+          "content_markdown": "পরম ঘটিতশীল প্রসঙ্ক বন্ধ সাপেক্ষে কোনো বন্ধর গতিকে কী বলে?",
+          "structured_data": {
+            "question_number": "03",
+            "subtype": "mcq_item",
+            "stem": "পরম ঘটিতশীল প্রসঙ্ক বন্ধ সাপেক্ষে কোনো বন্ধর গতিকে কী বলে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "পরম গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "আপেক্ষিক গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পরম ছিটি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "আপেক্ষিক ছিটি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c2721725-9188-547e-adc0-f85544b26cd2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q08",
+          "content_markdown": "একটি গতিশীল বন্ধর সাপেক্ষে সূচিকরণ $x = (4t^2+3t)m$. 2s পর বস্তুটির বেগ হবে-",
+          "structured_data": {
+            "question_number": "08",
+            "subtype": "mcq_item",
+            "stem": "একটি গতিশীল বন্ধর সাপেক্ষে সূচিকরণ $x = (4t^2+3t)m$. 2s পর বস্তুটির বেগ হবে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "3 ms^{-1}",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "8 ms^{-1}",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "11 ms^{-1}",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "19 ms^{-1}",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9397cd19-3acb-5cf4-aacc-929d84d0a6dc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q05",
+          "content_markdown": "A এবং B দুটি গাড়ি যথাক্রমে 10 km/h এবং 20 km/h বেগে একই দিকে চলছে। A-এর সাপেক্ষে B-এর আপেক্ষিক বেগ-",
+          "structured_data": {
+            "question_number": "05",
+            "subtype": "mcq_item",
+            "stem": "A এবং B দুটি গাড়ি যথাক্রমে 10 km/h এবং 20 km/h বেগে একই দিকে চলছে। A-এর সাপেক্ষে B-এর আপেক্ষিক বেগ-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "10 km/h সামনের দিকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "20 km/h সামনের দিকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "20 km/h পিছনের দিকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "30 km/h সামনের দিকে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "de0dd07f-a6d4-5103-99f0-13c36085cc09"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q06",
+          "content_markdown": "কোনো প্রসঙ্ক কাঠামোর সাপেক্ষে বন্ধর গতিকে কী বলে?",
+          "structured_data": {
+            "question_number": "06",
+            "subtype": "mcq_item",
+            "stem": "কোনো প্রসঙ্ক কাঠামোর সাপেক্ষে বন্ধর গতিকে কী বলে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "পরম ছিটি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "আপেক্ষিক গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আপেক্ষিক ছিটি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "পরম গতি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0d4cac01-d4dc-539f-9a0c-66c509a5a8e6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q07",
+          "content_markdown": "ভূরভকে সময়ের সাপেক্ষে কত বার সমালোচন করলে অবহান ভেন্নার পাওয়া যায়?",
+          "structured_data": {
+            "question_number": "07",
+            "subtype": "mcq_item",
+            "stem": "ভূরভকে সময়ের সাপেক্ষে কত বার সমালোচন করলে অবহান ভেন্নার পাওয়া যায়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "এক বার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "দুই বার",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "তিন বার",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "চার বার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "36f98f08-6531-5409-8a57-d93ded5e8f4b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q08",
+          "content_markdown": "সময়ের সাপেক্ষে অবহান ভেন্নারের পরিবর্তনের হারকে কী বলা হয়?",
+          "structured_data": {
+            "question_number": "08",
+            "subtype": "mcq_item",
+            "stem": "সময়ের সাপেক্ষে অবহান ভেন্নারের পরিবর্তনের হারকে কী বলা হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ত্রুণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "খেল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "দ্রুতি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0dcf9974-b88c-5bc3-951b-8b656894a52b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q09",
+          "content_markdown": "s=$\\frac{1}{2} t^{3}$ + 2t সূচনাসারে একটি বাইর সরলরেখা বরাবর গতিশীল, 4 সেকেন্ড পর বস্তুটির বেগ কত?",
+          "structured_data": {
+            "question_number": "09",
+            "subtype": "mcq_item",
+            "stem": "s=$\\frac{1}{2} t^{3}$ + 2t সূচনাসারে একটি বাইর সরলরেখা বরাবর গতিশীল, 4 সেকেন্ড পর বস্তুটির বেগ কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "46 একক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "34 একক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "28 একক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "26 একক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b8a19c1f-5be5-59e3-85f1-bd3366b4bfd8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q10",
+          "content_markdown": "বাধাহীন পথে পড়স্ত বন্ধর বেগ সময়ের-",
+          "structured_data": {
+            "question_number": "10",
+            "subtype": "mcq_item",
+            "stem": "বাধাহীন পথে পড়স্ত বন্ধর বেগ সময়ের-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বর্ণের সমানুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সমানুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বর্গকুলের সমানুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ব্যাঙ্কানুপাতিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6b60e83f-0c50-59f1-b84e-6621efe535d5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q11",
+          "content_markdown": "একটি হেলোনো তলে একটি টেট গোলক ছির ঘর্ষণহীন অবস্থা থেকে নিচের দিকে গতিশীল হলে এর গতি কীরূপ হবে?",
+          "structured_data": {
+            "question_number": "11",
+            "subtype": "mcq_item",
+            "stem": "একটি হেলোনো তলে একটি টেট গোলক ছির ঘর্ষণহীন অবস্থা থেকে নিচের দিকে গতিশীল হলে এর গতি কীরূপ হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "রৈখিক গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ঘূর্ণ গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বক্র গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "জটিল গতি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fb5d5aff-e25b-5d48-9237-2c027f1b4bb4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q12",
+          "content_markdown": "কোনো বন্ধর একক সময়ের সরানকে কী বলে?",
+          "structured_data": {
+            "question_number": "12",
+            "subtype": "mcq_item",
+            "stem": "কোনো বন্ধর একক সময়ের সরানকে কী বলে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ত্রুণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "দ্রুতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "দূরত্ব",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b5160e96-45e5-56b8-b259-9ecd191c4ccc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q13",
+          "content_markdown": "s=$\\frac{1}{2} at^{2}$ সমীকরণের লেখ কীরূপ হবে?",
+          "structured_data": {
+            "question_number": "13",
+            "subtype": "mcq_item",
+            "stem": "s=$\\frac{1}{2} at^{2}$ সমীকরণের লেখ কীরূপ হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সরলরেখিক খ.",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "উপবৃত্তীয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "প্যারাবোলিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "115b86a3-fe84-5462-bf78-a879c5f6aa37"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q18",
+          "content_markdown": "ত্রুণ পাওয়া যাবে-",
+          "structured_data": {
+            "question_number": "18",
+            "subtype": "mcq_item",
+            "stem": "ত্রুণ পাওয়া যাবে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সরণ-সময় লেখের নিচের ক্ষেত্রফল থেকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সরণ-সময় লেখের নিচের ফেত্রফল থেকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সরণ-সময় লেখের ঢাল থেকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সরণ-সময় লেখের ঢাল থেকে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "17113478-e16e-52ad-81fa-ce98c204d46d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q15",
+          "content_markdown": "শূন্য আদিবেগে সমতৃপত্রে গতিশীল কোনো কণার বেগ-সময় লেখটি সরলরেখা হবে। লেখটির বৈশিষ্ট্য হলো-",
+          "structured_data": {
+            "question_number": "15",
+            "subtype": "mcq_item",
+            "stem": "শূন্য আদিবেগে সমতৃপত্রে গতিশীল কোনো কণার বেগ-সময় লেখটি সরলরেখা হবে। লেখটির বৈশিষ্ট্য হলো-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বেগ অক্ষের সমান্তরাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সময় অক্ষের সমান্তরাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "মূলধন্দু দিয়ে গণনাকারী",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বেগ অক্ষের ছেদকারী",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9047ace9-7a03-522d-b55e-b8f12cba1715"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q16",
+          "content_markdown": "সময়ের ব্যবধান শূন্যের কাছাকাছি হলে বন্ধর সরানের হারকে কী বলা হয়?",
+          "structured_data": {
+            "question_number": "16",
+            "subtype": "mcq_item",
+            "stem": "সময়ের ব্যবধান শূন্যের কাছাকাছি হলে বন্ধর সরানের হারকে কী বলা হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গড়বেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তাত্ক্ষণিক বেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সুষমবেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অসমবেগ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d0f695ba-1d00-576e-bd8d-9399ca622b73"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q17",
+          "content_markdown": "বেগের মাত্রা কৌনটি?",
+          "structured_data": {
+            "question_number": "17",
+            "subtype": "mcq_item",
+            "stem": "বেগের মাত্রা কৌনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "M°LT^{-1} LT",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "L²T",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "M²LT^{-2}",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b731ef99-0d98-5c7d-a57e-70aa1e5ed583"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q18",
+          "content_markdown": "ত্রুণের মাত্রা কৌনটি?",
+          "structured_data": {
+            "question_number": "18",
+            "subtype": "mcq_item",
+            "stem": "ত্রুণের মাত্রা কৌনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "MLT^{-1}",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ML²T²",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "M°LT^{-2}",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4c3bc3bb-5733-5242-8e1f-425678fd7510"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q19",
+          "content_markdown": "নিচের কোনটি সুষমবেগের উদাহরণ?",
+          "structured_data": {
+            "question_number": "19",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি সুষমবেগের উদাহরণ?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অভিকর্ষের প্রভাবে মুক্তভাবে পড়ত বন্ধর বেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বজ্রপাতের শেষের বেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "দাকরার রাস্তায় চলাচল গাড়ির বেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কামানের গোলার বেগ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ca94a51e-756f-5437-a8e0-582a77c6042e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q20",
+          "content_markdown": "নিচের কোনটি সমতৃপত্র গতির উদাহরণ?",
+          "structured_data": {
+            "question_number": "20",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি সমতৃপত্র গতির উদাহরণ?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "নম্বর থেকে আগত আলোর গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ছাদ থেকে অভিকর্ষের প্রভাবে মুক্তভাবে পড়ত বন্ধর গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বজ্রপাতের শেষের গতি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "07692878-8d95-5ac1-ac7f-8b237fb178e5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q21",
+          "content_markdown": "ছির অবহান থেকে সমতৃপত্রে চলমান বন্ধর অতিক্রম দূরত্ব সময়ের-",
+          "structured_data": {
+            "question_number": "21",
+            "subtype": "mcq_item",
+            "stem": "ছির অবহান থেকে সমতৃপত্রে চলমান বন্ধর অতিক্রম দূরত্ব সময়ের-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সমানুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বর্গের সমানুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ব্যাঙ্কানুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বর্গের ব্যাঙ্কানুপাতিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e5c04865-bfb9-5fc3-9a01-05878e783498"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q22",
+          "content_markdown": "কোনটির মাত্রা কৌনটি?",
+          "structured_data": {
+            "question_number": "22",
+            "subtype": "mcq_item",
+            "stem": "কোনটির মাত্রা কৌনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "M°L°T^{-1}",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ML^{-1}T",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "M^{-1}L^{-1}T^{-1}",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ML^{-2}T^{-1}",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "92eee1e1-9fe6-553e-b175-fd3355ff0adc"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "23.একটি হাতছড়ির মিনিটের কাঁটার কোণিক কেন্দ্র কত? (স. বো. ২০১৩)",
+          "content_markdown": "- a) $\\frac{\\pi }{3600}\\text{rads}^{-1}$\n    - b) $\\frac{\\pi }{1800}\\text{rads}^{-1}$\n    - c) $\\frac{\\pi }{30}\\text{rads}^{-1}$\n    - d) $2\\pi \\text{rads}^{-1}$",
+          "structured_data": {},
+          "id": "24078c28-6870-514c-870f-779da7027c8d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "23.একটি হাতছড়ির মিনিটের কাঁটার কোণিক কেন্দ্র কত? (স. বো. ২০১৩)",
+          "content_markdown": "**ব্যাখ্যা:** $\\omega = \\frac{2\\pi }{T}$",
+          "structured_data": {},
+          "id": "13ff1bc1-cea6-57c6-9810-cdda6309682f"
+        },
+        {
+          "block_type": "table",
+          "title": "23.একটি হাতছড়ির মিনিটের কাঁটার কোণিক কেন্দ্র কত? (স. বো. ২০১৩)",
+          "content_markdown": "| 01.ঘ | 02.ঘ | 03.ক | 04.ঘ | 05.ক | 06.খ |\n| --- | --- | --- | --- | --- | --- |\n| 07.খ | 08.খ | 09.ঘ | 10.খ | 11.ঘ | 12.ক |\n| 13.ঘ | 18.ঘ | 15.গ | 16.খ | 17.ক | 18.গ |\n| 19.খ | 20.খ | 21.খ | 22.ক | 23.খ |",
+          "structured_data": {
+            "headers": [
+              "01.ঘ",
+              "02.ঘ",
+              "03.ক",
+              "04.ঘ",
+              "05.ক",
+              "06.খ"
+            ],
+            "rows": [
+              [
+                "07.খ",
+                "08.খ",
+                "09.ঘ",
+                "10.খ",
+                "11.ঘ",
+                "12.ক"
+              ],
+              [
+                "13.ঘ",
+                "18.ঘ",
+                "15.গ",
+                "16.খ",
+                "17.ক",
+                "18.গ"
+              ],
+              [
+                "19.খ",
+                "20.খ",
+                "21.খ",
+                "22.ক",
+                "23.খ"
+              ]
+            ]
+          },
+          "id": "b8b54204-57fa-5248-a5ff-54a0fdc17739"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "অনুশীলনীর প্রশ্ন",
+          "content_markdown": "Chase your dream to be a doctor...",
+          "structured_data": {},
+          "id": "4caeb1dd-0806-5112-afb5-c8d7e68e667c"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 27,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 84.22,
+        "eval_count": 3486
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [
+        "গতিবিদ্যা"
+      ],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### 284 - 37\n\n| 28. 4.9m উচ্চতা থেকে একটি ছির কণার নিচের দিকে পড়ছে। বায়ু প্রবাহের কারণে বক্ষটি অনূভূমিক 1m দূরত্তে ডুমিকে স্পর্শ করে। বায়ুর অনূভূমিক বেগ কত?\n   - a) 0.5 ms<sup>-1</sup>\n   - b) 1 ms<sup>-1</sup>\n   - c) 2 ms<sup>-1</sup>\n   - d) 9.8 ms<sup>-1</sup> |\n| --- |\n\n| 25. ছিরাভঙ্গা থেকে 5 কেজি ভরের একটি পড়ত কণা প্রথম সেকেন্ডে কত দূরত্ত অতিক্রম করবে? \n   - a) 4.9m\n   - b) 9.8m\n   - c) 24.5m\n   - d) 49m |\n| --- |\n\n| 26. একটি গাড়ি ছির অবধা থেকে 10ms<sup>-2</sup> সমদ্বিমতে চলতে শুরু করল। 10s এ এটি কত দূর যাবে?\n   - a) 10m\n   - b) 20m\n   - c) 500m\n   - d) 100m |\n| --- |\n\n| 27. কত উচ্চতা থেকে একটি কণা মুখোমুখি মাটিতে পড়তে 1s সময় লাগবে?\n   - a) 19.6m\n   - b) 9.8m\n   - c) 4.9m\n   - d) 2.3m |\n| --- |\n\n| 28. গতি সংক্রান্ত কৌন সমীকরণটি সত্যিক নয়? [CU 19-20]\n   - a) v = vo + at\n   - b) v<sup>2</sup> = vo<sup>2</sup> + 2as\n   - c) s = vo t + $\\frac{1}{2}$at<sup>2</sup>\n   - d) s = $\\frac{vo+vt}{2}$t |\n| --- |\n\n| 29. বৃত্তাকার পথে 72km/h সমদ্বিমতে চলমান কোনো গাড়ির কেন্দ্রমুখী ত্বরণ 1ms<sup>-2</sup> হলে, বৃত্তাকার পথের ব্যাসার্ধ কত? [DU 17-18]\n   - a) 150m\n   - b) 300m\n   - c) 400m\n   - d) 200m |\n| --- |\n\n| 30. x = $\\frac{t^3}{3} + 2t^2$ হলে, 3 সেকেন্ড পরে ত্বরণের মান কত হবে? [CU 18-19]\n   - a) 8ms<sup>-2</sup>\n   - b) 6ms<sup>-2</sup>\n   - c) 10.5ms<sup>-2</sup>\n   - d) 10ms<sup>-2</sup> |\n| --- |\n\n| 31. এক রেডিয়ান কোণটির প্রায় সমান?\n   - a) 10°\n   - b) 50.3°\n   - c) 120°\n   - d) 57.3° |\n| --- |\n\n| 32. রৈখিক ত্বরণ ও কৌণিক ত্বরণের সম্পর্ক কোনটি?\n   - a) a = $\\frac{r}{\\alpha}$\n   - b) a = $\\frac{r}{a}$\n   - c) a = r<sup>2</sup>$\\alpha$\n   - d) a = r$\\alpha$ |\n| --- |\n\n| 33. কেন্দ্রমুখী ত্বরণ a রাশিমালা কোনটি?\n   - a) a = wr\n   - b) a = $\\frac{v}{r}$\n   - c) a = $\\frac{v^2}{r}$\n   - d) a ωr<sup>2</sup> |\n| --- |\n\n| 34. সময়ের ব্যবহার শূন্যের কাছাকাছি হলে সময়ের সাথে কণার বেগের পরিবর্তনের হারকে কী বলা হয়?\n   - a) গড় ত্বরণ\n   - b) সমত্বরণ\n   - c) অসমত্বরণ\n   - d) ত্বরণ |\n| --- |\n\n| 35. কৌণিক ত্বরণের মাত্রা কোনটি?\n   - a) M<sup>0</sup>L<sup>0</sup>T<sup>-1</sup>\n   - b) M<sup>-1</sup>L<sup>0</sup>T<sup>-1</sup>\n   - c) M<sup>0</sup>L<sup>0</sup>T<sup>-2</sup>\n   - d) M<sup>-1</sup>L<sup>-1</sup>T<sup>-2</sup> |\n| --- |\n\n| 36. কেন্দ্রমুখী ত্বরণ α এর রাশিমালা কোনটি?\n   - a) α = ωr\n   - b) α = $\\frac{v}{r}$\n   - c) α = $\\frac{v^2}{r}$\n   - d) α = ωr<sup>2</sup> |\n| --- |\n\n| 37. একটি গতিশীল কণার সরণের সমীকরণ x = (4t<sup>2</sup> + 3t)m | 2s পর বক্ষটির বেগ হবে— [স্ব. No. 2012;BUET Admission Test: 2008-09 (মন্ত্রিসভা)]\n   - a) 3 ms<sup>-1</sup>\n   - b) 8 ms<sup>-1</sup>\n   - c) 11 ms<sup>-1</sup>\n   - d) 19 ms<sup>-1</sup> |\n| --- |\n\n| 38.s = vt + $\\frac{1}{2}$at<sup>2</sup> এর ফলে s বনাম t লেখচিত্র অঙ্কন করলে লেখচিত্রটি কী হবে? [BuTex Admission Test:2014-15]\n   - a) অধিবৃত্ত\n   - b) পরাবৃত্ত\n   - c) উপবৃত্ত\n   - d) আয়তকার পরাবৃত্ত |\n| --- |\n\n| 39. সরঞ্জাম যায়—[স্ব. বি. 18-19]\n   - a) বেগ–সময় লেখচিত্রের ঢাল থেকে\n   - b) ত্বরণ–সময় লেখচিত্রের ঢাল থেকে\n   - c) বেগ–সময় লেখচিত্রের নিচের ক্ষেত্রফল থেকে\n   - d) ত্বরণ–সময় লেখচিত্রের নিচের ক্ষেত্রফল থেকে |\n| --- |\n\n| 40. কণার দ্রুতি যখন পরিবর্তনশীল ঘটে তখন বেগ-\n   - a) সমান থাকে\n   - b) পরিবর্তিত হয়\n   - c) হ্রাস পায়\n   - d) বৃদ্ধি পায় |\n| --- |\n\n| 41. অপরিবর্তনশীল বা ছির দ্রুতি হচ্ছে-\n   - a) তাঙ্কষিক দ্রুতি\n   - b) গড় দ্রুতি\n   - c) সূচন দ্রুতি\n   - d) পরিবর্তনশীল দ্রুতি |\n| --- |\n\n| 42. অবছন্ত–সময় লেখচিত্রের নীতি থেকে নিচের কোনটি পরিমাপ করা যায়?\n   - a) অবছন্ত\n   - b) সরঞ্জ\n   - c) বেগ\n   - d) ত্বরণ |\n| --- |\n\n| 43. ত্বরণ বনাম সময় লেখচিত্রের ক্ষেত্র থেকে নিচের কোনটি পরিমাপ করা যায়?\n   - a) অবছন্ত\n   - b) সরঞ্জ\n   - c) বেগ\n   - d) ত্বরণ |\n| --- |\n\n| 44. একটি কণা 6ms<sup>-1</sup> ছির দ্রুতিতে গতিশীল। এর অর্ধ হচ্ছে-\n   - a) কণাটির গতি প্রতি সেকেন্ডে 6ms<sup>-1</sup> হারে বৃদ্ধি পাচ্ছে\n   - b) কণাটির গতি প্রতি সেকেন্ডে 6ms<sup>-1</sup> হারে কমছে\n   - c) কণাটির গতি প্রতি সেকেন্ডে 6m দূরত্ত অতিক্রম করছে\n   - d) কণাটি ধান্তাক্ত তুলনে গতিশীল |\n| --- |\n\n| 45. লেখচিত্রের নীতি যদি খাঁজাক্ত হয় তবে হবে-\n   - a) ধনাত্রক\n   - b) খাঁজাক্ত\n   - c) শূন্য\n   - d) একক |\n| --- |\n\n| 46. X- অক্ষ বরাবর একটি কণা ছির রেখে গতিশীল হলে কণাটির অবছন্ত-সময় লেখচি হবে-\n   - a) অনুভূমিক সরলরেখা\n   - b) অনুভূমিক সরলরেখা\n   - c) উল্লম্ব রেখা\n   - d) সরলরেখা যা X- অক্ষের সাথে কোন উৎপন্ন করে |\n| --- |\n\n### Q28 - Q37\n**Type:** mcq (use one of: mcq, mathematical, board_cq, analytical)\n**Stem:** <full verbatim question / stimulus text>\n**Options:** (only if MCQ options are printed, list `- a) ...`, `- b) ...`)\n**Answer:** <final answer / key>\n**Solution:** <complete verbatim step-by-step solution>\n**Tags:** <board exam year, author book ref, or NONE>\n\n### Q38 - Q46\n**Type:** mcq (use one of: mcq, mathematical, board_cq, analytical)\n**Stem:** <full verbatim question / stimulus text>\n**Options:** (only if MCQ options are printed, list `- a) ...`, `- b) ...`)\n**Answer:** <final answer / key>\n**Solution:** <complete verbatim step-by-step solution>\n**Tags:** <board exam year, author book ref, or NONE>",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 28. 4.9m উচ্চতা থেকে একটি ছির কণার নিচের দিকে পড়ছে। বায়ু প্রবাহের কারণে বক্ষটি অনূভূমিক 1m দূরত্তে ডুমিকে স্পর্শ করে। বায়ুর অনূভূমিক বেগ কত?\n   - a) 0.5 ms<sup>-1</sup>\n   - b) 1 ms<sup>-1</sup>\n   - c) 2 ms<sup>-1</sup>\n   - d) 9.8 ms<sup>-1</sup> |\n| --- |",
+          "structured_data": {},
+          "id": "8dafe3e7-340a-595a-9c7b-fae52dce5a1a"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 25. ছিরাভঙ্গা থেকে 5 কেজি ভরের একটি পড়ত কণা প্রথম সেকেন্ডে কত দূরত্ত অতিক্রম করবে? \n   - a) 4.9m\n   - b) 9.8m\n   - c) 24.5m\n   - d) 49m |\n| --- |",
+          "structured_data": {},
+          "id": "61b380b0-b736-5705-a69a-d1c71fce915c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 26. একটি গাড়ি ছির অবধা থেকে 10ms<sup>-2</sup> সমদ্বিমতে চলতে শুরু করল। 10s এ এটি কত দূর যাবে?\n   - a) 10m\n   - b) 20m\n   - c) 500m\n   - d) 100m |\n| --- |",
+          "structured_data": {},
+          "id": "594e87ab-e005-5ad3-aa7f-b349475a482e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 27. কত উচ্চতা থেকে একটি কণা মুখোমুখি মাটিতে পড়তে 1s সময় লাগবে?\n   - a) 19.6m\n   - b) 9.8m\n   - c) 4.9m\n   - d) 2.3m |\n| --- |",
+          "structured_data": {},
+          "id": "697671e3-a411-51aa-9f5f-496f0b4c8acc"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 28. গতি সংক্রান্ত কৌন সমীকরণটি সত্যিক নয়? [CU 19-20]\n   - a) v = vo + at\n   - b) v<sup>2</sup> = vo<sup>2</sup> + 2as\n   - c) s = vo t + $\\frac{1}{2}$at<sup>2</sup>\n   - d) s = $\\frac{vo+vt}{2}$t |\n| --- |",
+          "structured_data": {},
+          "id": "b9abccba-3ddb-5387-b630-d8babe836063"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 29. বৃত্তাকার পথে 72km/h সমদ্বিমতে চলমান কোনো গাড়ির কেন্দ্রমুখী ত্বরণ 1ms<sup>-2</sup> হলে, বৃত্তাকার পথের ব্যাসার্ধ কত? [DU 17-18]\n   - a) 150m\n   - b) 300m\n   - c) 400m\n   - d) 200m |\n| --- |",
+          "structured_data": {},
+          "id": "16697271-d13a-54f7-9d8d-717dc807c0c3"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 30. x = $\\frac{t^3}{3} + 2t^2$ হলে, 3 সেকেন্ড পরে ত্বরণের মান কত হবে? [CU 18-19]\n   - a) 8ms<sup>-2</sup>\n   - b) 6ms<sup>-2</sup>\n   - c) 10.5ms<sup>-2</sup>\n   - d) 10ms<sup>-2</sup> |\n| --- |",
+          "structured_data": {},
+          "id": "18fbf97d-43d0-584b-818c-ef8912e4a614"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 31. এক রেডিয়ান কোণটির প্রায় সমান?\n   - a) 10°\n   - b) 50.3°\n   - c) 120°\n   - d) 57.3° |\n| --- |",
+          "structured_data": {},
+          "id": "abc2aa0e-8e01-5eec-9112-f4260b4a3cda"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 32. রৈখিক ত্বরণ ও কৌণিক ত্বরণের সম্পর্ক কোনটি?\n   - a) a = $\\frac{r}{\\alpha}$\n   - b) a = $\\frac{r}{a}$\n   - c) a = r<sup>2</sup>$\\alpha$\n   - d) a = r$\\alpha$ |\n| --- |",
+          "structured_data": {},
+          "id": "d3c91e6a-2fca-5b6f-b2e3-5a8e29568f39"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 33. কেন্দ্রমুখী ত্বরণ a রাশিমালা কোনটি?\n   - a) a = wr\n   - b) a = $\\frac{v}{r}$\n   - c) a = $\\frac{v^2}{r}$\n   - d) a ωr<sup>2</sup> |\n| --- |",
+          "structured_data": {},
+          "id": "6b322629-0bf8-5b21-a292-51f33bc0c839"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 34. সময়ের ব্যবহার শূন্যের কাছাকাছি হলে সময়ের সাথে কণার বেগের পরিবর্তনের হারকে কী বলা হয়?\n   - a) গড় ত্বরণ\n   - b) সমত্বরণ\n   - c) অসমত্বরণ\n   - d) ত্বরণ |\n| --- |",
+          "structured_data": {},
+          "id": "c32c5062-b3a9-5dba-9201-dee2588a951c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 35. কৌণিক ত্বরণের মাত্রা কোনটি?\n   - a) M<sup>0</sup>L<sup>0</sup>T<sup>-1</sup>\n   - b) M<sup>-1</sup>L<sup>0</sup>T<sup>-1</sup>\n   - c) M<sup>0</sup>L<sup>0</sup>T<sup>-2</sup>\n   - d) M<sup>-1</sup>L<sup>-1</sup>T<sup>-2</sup> |\n| --- |",
+          "structured_data": {},
+          "id": "f8a21376-4648-55c1-becc-ed5e95044601"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 36. কেন্দ্রমুখী ত্বরণ α এর রাশিমালা কোনটি?\n   - a) α = ωr\n   - b) α = $\\frac{v}{r}$\n   - c) α = $\\frac{v^2}{r}$\n   - d) α = ωr<sup>2</sup> |\n| --- |",
+          "structured_data": {},
+          "id": "525cfa68-c565-5b3c-a42e-3bbdd82d246d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 37. একটি গতিশীল কণার সরণের সমীকরণ x = (4t<sup>2</sup> + 3t)m | 2s পর বক্ষটির বেগ হবে— [স্ব. No. 2012;BUET Admission Test: 2008-09 (মন্ত্রিসভা)]\n   - a) 3 ms<sup>-1</sup>\n   - b) 8 ms<sup>-1</sup>\n   - c) 11 ms<sup>-1</sup>\n   - d) 19 ms<sup>-1</sup> |\n| --- |",
+          "structured_data": {},
+          "id": "f0724104-b2c7-52e6-89dc-787f3b1918c8"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 38.s = vt + $\\frac{1}{2}$at<sup>2</sup> এর ফলে s বনাম t লেখচিত্র অঙ্কন করলে লেখচিত্রটি কী হবে? [BuTex Admission Test:2014-15]\n   - a) অধিবৃত্ত\n   - b) পরাবৃত্ত\n   - c) উপবৃত্ত\n   - d) আয়তকার পরাবৃত্ত |\n| --- |",
+          "structured_data": {},
+          "id": "9b721ad3-e171-52b1-bbee-e087abb8d3d6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 39. সরঞ্জাম যায়—[স্ব. বি. 18-19]\n   - a) বেগ–সময় লেখচিত্রের ঢাল থেকে\n   - b) ত্বরণ–সময় লেখচিত্রের ঢাল থেকে\n   - c) বেগ–সময় লেখচিত্রের নিচের ক্ষেত্রফল থেকে\n   - d) ত্বরণ–সময় লেখচিত্রের নিচের ক্ষেত্রফল থেকে |\n| --- |",
+          "structured_data": {},
+          "id": "0f725b28-f632-5422-a60e-72deea696d0c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 40. কণার দ্রুতি যখন পরিবর্তনশীল ঘটে তখন বেগ-\n   - a) সমান থাকে\n   - b) পরিবর্তিত হয়\n   - c) হ্রাস পায়\n   - d) বৃদ্ধি পায় |\n| --- |",
+          "structured_data": {},
+          "id": "93cd52e4-a368-55d7-9ac8-6b39e3e35698"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 41. অপরিবর্তনশীল বা ছির দ্রুতি হচ্ছে-\n   - a) তাঙ্কষিক দ্রুতি\n   - b) গড় দ্রুতি\n   - c) সূচন দ্রুতি\n   - d) পরিবর্তনশীল দ্রুতি |\n| --- |",
+          "structured_data": {},
+          "id": "2b9c7667-a83e-561e-93da-f0a06990fe80"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 42. অবছন্ত–সময় লেখচিত্রের নীতি থেকে নিচের কোনটি পরিমাপ করা যায়?\n   - a) অবছন্ত\n   - b) সরঞ্জ\n   - c) বেগ\n   - d) ত্বরণ |\n| --- |",
+          "structured_data": {},
+          "id": "c99d6d7d-d5bf-55ce-a79b-94e3f4f7a739"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 43. ত্বরণ বনাম সময় লেখচিত্রের ক্ষেত্র থেকে নিচের কোনটি পরিমাপ করা যায়?\n   - a) অবছন্ত\n   - b) সরঞ্জ\n   - c) বেগ\n   - d) ত্বরণ |\n| --- |",
+          "structured_data": {},
+          "id": "7bda1951-058a-57ea-873c-9157bf5a6661"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 44. একটি কণা 6ms<sup>-1</sup> ছির দ্রুতিতে গতিশীল। এর অর্ধ হচ্ছে-\n   - a) কণাটির গতি প্রতি সেকেন্ডে 6ms<sup>-1</sup> হারে বৃদ্ধি পাচ্ছে\n   - b) কণাটির গতি প্রতি সেকেন্ডে 6ms<sup>-1</sup> হারে কমছে\n   - c) কণাটির গতি প্রতি সেকেন্ডে 6m দূরত্ত অতিক্রম করছে\n   - d) কণাটি ধান্তাক্ত তুলনে গতিশীল |\n| --- |",
+          "structured_data": {},
+          "id": "ae94fbb0-e956-5ae9-8f5a-4f9061aefb14"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 45. লেখচিত্রের নীতি যদি খাঁজাক্ত হয় তবে হবে-\n   - a) ধনাত্রক\n   - b) খাঁজাক্ত\n   - c) শূন্য\n   - d) একক |\n| --- |",
+          "structured_data": {},
+          "id": "3e56af3a-522b-5770-ad48-72a550993d4f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "284 - 37",
+          "content_markdown": "| 46. X- অক্ষ বরাবর একটি কণা ছির রেখে গতিশীল হলে কণাটির অবছন্ত-সময় লেখচি হবে-\n   - a) অনুভূমিক সরলরেখা\n   - b) অনুভূমিক সরলরেখা\n   - c) উল্লম্ব রেখা\n   - d) সরলরেখা যা X- অক্ষের সাথে কোন উৎপন্ন করে |\n| --- |",
+          "structured_data": {},
+          "id": "ffc4c542-ef7d-5cd8-8c90-637b70523319"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q28 - Q37",
+          "content_markdown": "<full verbatim question / stimulus text>",
+          "structured_data": {
+            "question_number": "28 - Q37",
+            "subtype": "mcq (use one of: mcq, mathematical, board_cq, analytical)",
+            "stem": "<full verbatim question / stimulus text>",
+            "options": [],
+            "correct_answer": "<final answer / key>",
+            "solution_markdown": "<complete verbatim step-by-step solution>",
+            "tags_raw": "<board exam year, author book ref, or NONE>",
+            "provenance": [
+              "<board exam year",
+              "author book ref",
+              "or NONE>"
+            ]
+          },
+          "id": "21c0bbe2-babb-5573-8d07-ec5207bc5690"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q38 - Q46",
+          "content_markdown": "<full verbatim question / stimulus text>",
+          "structured_data": {
+            "question_number": "38 - Q46",
+            "subtype": "mcq (use one of: mcq, mathematical, board_cq, analytical)",
+            "stem": "<full verbatim question / stimulus text>",
+            "options": [],
+            "correct_answer": "<final answer / key>",
+            "solution_markdown": "<complete verbatim step-by-step solution>",
+            "tags_raw": "<board exam year, author book ref, or NONE>",
+            "provenance": [
+              "<board exam year",
+              "author book ref",
+              "or NONE>"
+            ]
+          },
+          "id": "b5aa976d-78f4-5e01-8823-032973b62d1a"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 25,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc7",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 121.21,
+        "eval_count": 3576
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান ১ম পর\n\n#### গতি ও শক্তি\n\n87. ক্যালকুলাস অনুসারে বেগের সংজ্ঞা কোনটি?\n(ছবি. ১৬)\n\n- a) $v = \\frac{du}{dt}$\n- b) $v = \\frac{ds}{dt}$\n- c) $v = \\frac{dv}{dt}$\n- d) $v = \\frac{da}{dt}$\n\n[গ্রামাণিক]\n\n88. $\\vec{r}$ = 2ti + 3t^2j যদি একটি গতিশীল কণার অবস্থান ভেক্টর নির্দেশ করে তবে এর বেগ কত হবে?\n\n- a) 2i + 6tj\n- b) 6i + 2tj\n- c) 3i + 2tj\n- d) 2i + 3tj\n\n[গ্রামাণিক]\n\n89. পড়ন্ত কণার সঙ্গে গালিলিও এর সূত্র? (ছ. বো. ২০১৫/)\n\n- a) $v \\propto t^{2}$\n- b) $v \\propto \\frac{1}{t}$\n- c) $v \\propto t$\n- d) h ∝ t\n\n[আমির ছেলেন]\n\n90. পড়ন্ত কণার সূত্র আবিষ্কার করেন কে?\n\n- a) আর্কিমিডিস\n- b) গ্যালিলিও\n- c) নিউটন\n- d) কেপলার\n\n[গোলাম ঘোষেন]\n\n91. নির্দিষ্ট ছানে মুক্তভাবে পড়ন্ত কণার সঙ্গে অতিক্রম দূরত্ব নিচের কৌনটির অপেক্ষা?\n\n- a) অধিকর্ষণ তুরান\n- b) সময়\n- c) কণার ভর\n- d) আয়তন\n\n[গোলাম ঘোষেন]\n\n92. ছিরে অবহেলা থেকে বিনাবাধায় পড়ন্ত কণার নির্দিষ্ট সময়ে প্রাপ্ত বেগ ঐ সময়ের কৌনটি?\n\n- a) ব্যান্টানুপাতিক\n- b) সমানুপাতিক\n- c) বর্গের ব্যান্টানুপাতিক\n- d) বর্গের সমানুপাতিক\n\n[শাহজাহান তত্ত্ব]\n\n93. একটি পথরখন্ডকে ঢুঁটি থেকে খাড়া ওপরের দিকে তুলতে থাকলে এর ওপর কয়টি বল ক্রিয়া করে?\n\n- a) 1\n- b) 2\n- c) 3\n- d) 4\n\n[আমিতি]\n\n94. একটি কণকে V_0 আদিবেগে খাড়া ওপরের দিকে নিক্ষেপ করা হলো। নিচের কৌনটি এর সর্বোচ্চ উচ্চতা নির্দেশ করে?\n\n(ছ. বো. ২০১৭)\n\n- a) $H = \\frac{v_{0}^{2}}{2g}$\n- b) $H = \\frac{v_{0}}{g}$\n- c) $H = \\frac{v_{0}^{2}}{g}$\n- d) $H = \\frac{v_{0}}{2g}$\n\n[আমিতি]\n\n95. 70 m উচু দালানের ছাদ থেকে একটি পাথর ছেড়ে দিলে ঢুঁটিতে পৌঁছতে এর কত সময় লাগবে? (সিকল বো. ২০১৮; BSMRSTU, 2018-19 (মাস সিল))\n\n- a) 1.9 sec\n- b) 3.57 sec\n- c) 3.8 sec\n- d) 14.28 sec\n\n[আমির]\n\n96. একটি কণকে 196 m/s বেগে খাড়া উপরের দিকে নিক্ষেপ করা হলো। 20 sec পরে বক্সটির বেগ হবে-[g=9.8m/s²]\n\n- a) 50 m/s\n- b) 60 m/s\n- c) 0 m/s\n- d) 10 m/s\n\n[সেল]\n\n97. ধ্রুব যায়, অধিকর্ষণ তুরগের মান 10 ms⁻¹। ঢুঁটি হতে 5 m উপর থেকে একটি কণকে নিচে পড়তে দিলে ঢুঁটি স্পর্শ করার মূহৃত্রে তার বেগ কত ms⁻¹ ? (ছ. বি. ১৮-১৬)\n\n- a) 5\n- b) 9.8\n- c) 10\n- d) 15\n\n[সেল]\n\n### পড়ন্ত কণার সূত্র\n\n98. বহুতল বিশিষ্ট একটি দালানের ছাদের কিনারা থেকে একটি পাথর ছেড়ে দিলে পাথরটি ঢুঁটিতে পড়তার 2 সেকেন্ড পূর্বে দালানের সাদ থেকে 58.8 m নিচে আসে। দালানের উচ্চতা কত?\n\n- a) 9.8 m\n- b) 19.6 m\n- c) 78.4\n- d) 146.29 m\n\n[সেল]\n\n99. মুক্তভাবে পড়ন্ত কণো বস্তু 1s, 2s, ও 3s -এর অতিক্রম দূরত্বের অনুপাত- (ছবি. ১৬)\n\n- a) 1 : 2 : 3\n- b) 1 : 4 : 9\n- c) 1 : 3 : 9\n- d) 1 : 3 : 5\n\n[আসলপ্র]\n\n#### 'গতি' বিষয়ক গণিতিক রাশি\n\n100. 20 ms⁻¹ বেগে গতিশীল একটি কণার বেগ 2 ms⁻¹ হারে হাস পার। যেমে যাওয়ার আগে বক্সটি কত দূরত্ব অতিক্রম করবে? [BAU Ad T. 2012-13]\n\n- a) 50 m\n- b) 200 m\n- c) 100 m\n- d) 120 m\n\nব্যাখ্যা: $v^2 = u^2 - 2as$\n\n101. 15 cm দীর্ঘ একটি ঘড়ির ঘটির কাঁটার প্রান্তের রৈখিক বেগ কত? (ছ. বো. ২০১৩; সি. বো. ২০১৫; মেডিকেল ১৫-১৮)\n\n- a) 2.18×10⁻³ cms⁻¹\n- b) 0.22×10⁻⁴ cms⁻¹\n- c) 1.31×10⁻³ cms⁻¹\n- d) 1.31×10⁻³ cms⁻¹\n\nব্যাখ্যা: $v = \\omega r$\n\n102. একটি ঘড়ির মিনিটের কাঁটার কম্পাঙ্ক কত? (ছ. বো. ২০১৬)\n\n- a) 2.78 Hz\n- b) 2.78 × 10⁻¹ Hz\n- c) 2.78 × 10⁻² Hz\n- d) 2.78 × 10⁻⁴ Hz\n\nব্যাখ্যা: $\\omega = 2\\pi f$\n\n103. একটি পাথা প্রতি মিনিটে 30 বার ঘুরছে। এর কৌণিক বেগ কত? (ছ. বো. ২০১৬)\n\n- a) π rad s⁻¹\n- b) 2π rad s⁻¹\n- c) 15π rad s⁻¹\n- d) 60π rad s⁻¹\n\nব্যাখ্যা: $\\omega = \\frac{2\\pi N}{t}$\n\n104. একটি কণা 2.0 m ব্যাসার্ধের বৃত্তাকার পথে প্রতি মিনিটে 30 বার আবর্তন করে। এর রৈখিক বেগ কত? (ছ. বি. ২০১৮-১৫; ৫. বি. ১৮-১৬; কুইজ ০৯-০১; হুই. ৩৮-২৩)\n\n- a) π ms⁻¹\n- b) 4π ms⁻¹\n- c) 2π ms⁻¹\n- d) 0.5π ms⁻¹\n\nব্যাখ্যা: $V = \\frac{2\\pi N}{t}r$\n\n105. একটি কণকে মিনারের শীর্ষ থেকে ফেলা হলে কণটি 3 sec-এ মিনারের অর্ধেক উচ্চতা অতিক্রম করে। কতদফন পরে কণটি ঢুঁটিতে পৌঁছবে?\n\n- a) 3.6 s\n- b) 4.24 s\n- c) 3.71 s\n- d) 6 s\n\n[আমির ঘোষেন]\n\n106. একটি পাথরখন্ডকে ঢুঁটি থেকে খাড়া ওপরের দিকে তুলতে থাকলে এর ওপর কয়টি বল ক্রিয়া করে?\n\n- a) 1\n- b) 2\n- c) 3\n- d) 4\n\n[আমির ঘোষেন]",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q87",
+          "content_markdown": "ক্যালকুলাস অনুসারে বেগের সংজ্ঞা কোনটি?\n(ছবি. ১৬)\n[গ্রামাণিক]",
+          "structured_data": {
+            "question_number": "87",
+            "subtype": "mcq_item",
+            "stem": "ক্যালকুলাস অনুসারে বেগের সংজ্ঞা কোনটি?\n(ছবি. ১৬)\n[গ্রামাণিক]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$v = \\frac{du}{dt}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$v = \\frac{ds}{dt}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$v = \\frac{dv}{dt}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$v = \\frac{da}{dt}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "22265137-27e4-5ed8-8082-b4a9ecb48e7f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q88",
+          "content_markdown": "$\\vec{r}$ = 2ti + 3t^2j যদি একটি গতিশীল কণার অবস্থান ভেক্টর নির্দেশ করে তবে এর বেগ কত হবে?\n[গ্রামাণিক]",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "mcq_item",
+            "stem": "$\\vec{r}$ = 2ti + 3t^2j যদি একটি গতিশীল কণার অবস্থান ভেক্টর নির্দেশ করে তবে এর বেগ কত হবে?\n[গ্রামাণিক]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "2i + 6tj",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "6i + 2tj",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "3i + 2tj",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "2i + 3tj",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "52fae377-dacd-507d-b9eb-65c2122f3c71"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q89",
+          "content_markdown": "পড়ন্ত কণার সঙ্গে গালিলিও এর সূত্র? (ছ. বো. ২০১৫/)\n[আমির ছেলেন]",
+          "structured_data": {
+            "question_number": "89",
+            "subtype": "mcq_item",
+            "stem": "পড়ন্ত কণার সঙ্গে গালিলিও এর সূত্র? (ছ. বো. ২০১৫/)\n[আমির ছেলেন]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$v \\propto t^{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$v \\propto \\frac{1}{t}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$v \\propto t$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "h ∝ t",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "61839823-7e83-52a2-96e5-5884c2859c70"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q90",
+          "content_markdown": "পড়ন্ত কণার সূত্র আবিষ্কার করেন কে?\n[গোলাম ঘোষেন]",
+          "structured_data": {
+            "question_number": "90",
+            "subtype": "mcq_item",
+            "stem": "পড়ন্ত কণার সূত্র আবিষ্কার করেন কে?\n[গোলাম ঘোষেন]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আর্কিমিডিস",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "গ্যালিলিও",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "নিউটন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কেপলার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "10008760-99a8-54da-8f74-16f93a83cc51"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q91",
+          "content_markdown": "নির্দিষ্ট ছানে মুক্তভাবে পড়ন্ত কণার সঙ্গে অতিক্রম দূরত্ব নিচের কৌনটির অপেক্ষা?\n[গোলাম ঘোষেন]",
+          "structured_data": {
+            "question_number": "91",
+            "subtype": "mcq_item",
+            "stem": "নির্দিষ্ট ছানে মুক্তভাবে পড়ন্ত কণার সঙ্গে অতিক্রম দূরত্ব নিচের কৌনটির অপেক্ষা?\n[গোলাম ঘোষেন]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অধিকর্ষণ তুরান",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সময়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কণার ভর",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "আয়তন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6cab8ca0-d27b-5802-bfe7-0346f453b44c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q92",
+          "content_markdown": "ছিরে অবহেলা থেকে বিনাবাধায় পড়ন্ত কণার নির্দিষ্ট সময়ে প্রাপ্ত বেগ ঐ সময়ের কৌনটি?\n[শাহজাহান তত্ত্ব]",
+          "structured_data": {
+            "question_number": "92",
+            "subtype": "mcq_item",
+            "stem": "ছিরে অবহেলা থেকে বিনাবাধায় পড়ন্ত কণার নির্দিষ্ট সময়ে প্রাপ্ত বেগ ঐ সময়ের কৌনটি?\n[শাহজাহান তত্ত্ব]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ব্যান্টানুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সমানুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বর্গের ব্যান্টানুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বর্গের সমানুপাতিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "16ef2cfb-1330-519a-b033-1afca63e08a5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q93",
+          "content_markdown": "একটি পথরখন্ডকে ঢুঁটি থেকে খাড়া ওপরের দিকে তুলতে থাকলে এর ওপর কয়টি বল ক্রিয়া করে?\n[আমিতি]",
+          "structured_data": {
+            "question_number": "93",
+            "subtype": "mcq_item",
+            "stem": "একটি পথরখন্ডকে ঢুঁটি থেকে খাড়া ওপরের দিকে তুলতে থাকলে এর ওপর কয়টি বল ক্রিয়া করে?\n[আমিতি]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "3",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "4",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "00e3414a-7bbe-5e56-8cd0-44dd7a327aca"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q94",
+          "content_markdown": "একটি কণকে V_0 আদিবেগে খাড়া ওপরের দিকে নিক্ষেপ করা হলো। নিচের কৌনটি এর সর্বোচ্চ উচ্চতা নির্দেশ করে?\n(ছ. বো. ২০১৭)\n[আমিতি]",
+          "structured_data": {
+            "question_number": "94",
+            "subtype": "mcq_item",
+            "stem": "একটি কণকে V_0 আদিবেগে খাড়া ওপরের দিকে নিক্ষেপ করা হলো। নিচের কৌনটি এর সর্বোচ্চ উচ্চতা নির্দেশ করে?\n(ছ. বো. ২০১৭)\n[আমিতি]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$H = \\frac{v_{0}^{2}}{2g}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$H = \\frac{v_{0}}{g}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$H = \\frac{v_{0}^{2}}{g}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$H = \\frac{v_{0}}{2g}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7d104246-3204-5e87-9b6e-392d082898db"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q95",
+          "content_markdown": "70 m উচু দালানের ছাদ থেকে একটি পাথর ছেড়ে দিলে ঢুঁটিতে পৌঁছতে এর কত সময় লাগবে? (সিকল বো. ২০১৮; BSMRSTU, 2018-19 (মাস সিল))\n[আমির]",
+          "structured_data": {
+            "question_number": "95",
+            "subtype": "mcq_item",
+            "stem": "70 m উচু দালানের ছাদ থেকে একটি পাথর ছেড়ে দিলে ঢুঁটিতে পৌঁছতে এর কত সময় লাগবে? (সিকল বো. ২০১৮; BSMRSTU, 2018-19 (মাস সিল))\n[আমির]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1.9 sec",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "3.57 sec",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "3.8 sec",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "14.28 sec",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ef7c324c-7139-5730-ab77-9458d2fc4302"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q96",
+          "content_markdown": "একটি কণকে 196 m/s বেগে খাড়া উপরের দিকে নিক্ষেপ করা হলো। 20 sec পরে বক্সটির বেগ হবে-[g=9.8m/s²]\n[সেল]",
+          "structured_data": {
+            "question_number": "96",
+            "subtype": "mcq_item",
+            "stem": "একটি কণকে 196 m/s বেগে খাড়া উপরের দিকে নিক্ষেপ করা হলো। 20 sec পরে বক্সটির বেগ হবে-[g=9.8m/s²]\n[সেল]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "50 m/s",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "60 m/s",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "0 m/s",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "10 m/s",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b93c13a1-a8e7-561d-b3c1-0444260e9db1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q97",
+          "content_markdown": "ধ্রুব যায়, অধিকর্ষণ তুরগের মান 10 ms⁻¹। ঢুঁটি হতে 5 m উপর থেকে একটি কণকে নিচে পড়তে দিলে ঢুঁটি স্পর্শ করার মূহৃত্রে তার বেগ কত ms⁻¹ ? (ছ. বি. ১৮-১৬)\n[সেল]",
+          "structured_data": {
+            "question_number": "97",
+            "subtype": "mcq_item",
+            "stem": "ধ্রুব যায়, অধিকর্ষণ তুরগের মান 10 ms⁻¹। ঢুঁটি হতে 5 m উপর থেকে একটি কণকে নিচে পড়তে দিলে ঢুঁটি স্পর্শ করার মূহৃত্রে তার বেগ কত ms⁻¹ ? (ছ. বি. ১৮-১৬)\n[সেল]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "5",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "9.8",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "10",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "15",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d673cc2c-3e37-53e7-b103-ac236e403771"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q98",
+          "content_markdown": "বহুতল বিশিষ্ট একটি দালানের ছাদের কিনারা থেকে একটি পাথর ছেড়ে দিলে পাথরটি ঢুঁটিতে পড়তার 2 সেকেন্ড পূর্বে দালানের সাদ থেকে 58.8 m নিচে আসে। দালানের উচ্চতা কত?\n[সেল]",
+          "structured_data": {
+            "question_number": "98",
+            "subtype": "mcq_item",
+            "stem": "বহুতল বিশিষ্ট একটি দালানের ছাদের কিনারা থেকে একটি পাথর ছেড়ে দিলে পাথরটি ঢুঁটিতে পড়তার 2 সেকেন্ড পূর্বে দালানের সাদ থেকে 58.8 m নিচে আসে। দালানের উচ্চতা কত?\n[সেল]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "9.8 m",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "19.6 m",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "78.4",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "146.29 m",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2369dfb4-8e2c-5eff-b63b-826a13715ffc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q99",
+          "content_markdown": "মুক্তভাবে পড়ন্ত কণো বস্তু 1s, 2s, ও 3s -এর অতিক্রম দূরত্বের অনুপাত- (ছবি. ১৬)\n[আসলপ্র]",
+          "structured_data": {
+            "question_number": "99",
+            "subtype": "mcq_item",
+            "stem": "মুক্তভাবে পড়ন্ত কণো বস্তু 1s, 2s, ও 3s -এর অতিক্রম দূরত্বের অনুপাত- (ছবি. ১৬)\n[আসলপ্র]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1 : 2 : 3",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "1 : 4 : 9",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "1 : 3 : 9",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "1 : 3 : 5",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "33543172-05e1-5a96-bd4b-c59e73876943"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q100",
+          "content_markdown": "20 ms⁻¹ বেগে গতিশীল একটি কণার বেগ 2 ms⁻¹ হারে হাস পার। যেমে যাওয়ার আগে বক্সটি কত দূরত্ব অতিক্রম করবে?",
+          "structured_data": {
+            "question_number": "100",
+            "subtype": "mcq_item",
+            "stem": "20 ms⁻¹ বেগে গতিশীল একটি কণার বেগ 2 ms⁻¹ হারে হাস পার। যেমে যাওয়ার আগে বক্সটি কত দূরত্ব অতিক্রম করবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "50 m",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "200 m",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "100 m",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "120 m",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "$v^2 = u^2 - 2as$",
+            "tags_raw": "BAU Ad T. 2012-13",
+            "provenance": [
+              "BAU Ad T. 2012-13"
+            ]
+          },
+          "id": "17f0720d-a46f-559d-9641-8e4d02e9e417"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q101",
+          "content_markdown": "15 cm দীর্ঘ একটি ঘড়ির ঘটির কাঁটার প্রান্তের রৈখিক বেগ কত? (ছ. বো. ২০১৩; সি. বো. ২০১৫; মেডিকেল ১৫-১৮)",
+          "structured_data": {
+            "question_number": "101",
+            "subtype": "mcq_item",
+            "stem": "15 cm দীর্ঘ একটি ঘড়ির ঘটির কাঁটার প্রান্তের রৈখিক বেগ কত? (ছ. বো. ২০১৩; সি. বো. ২০১৫; মেডিকেল ১৫-১৮)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "2.18×10⁻³ cms⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "0.22×10⁻⁴ cms⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "1.31×10⁻³ cms⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "1.31×10⁻³ cms⁻¹",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "$v = \\omega r$",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f19e8c28-05f5-5805-84dc-f376fc40e0c8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q102",
+          "content_markdown": "একটি ঘড়ির মিনিটের কাঁটার কম্পাঙ্ক কত? (ছ. বো. ২০১৬)",
+          "structured_data": {
+            "question_number": "102",
+            "subtype": "mcq_item",
+            "stem": "একটি ঘড়ির মিনিটের কাঁটার কম্পাঙ্ক কত? (ছ. বো. ২০১৬)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "2.78 Hz",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2.78 × 10⁻¹ Hz",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "2.78 × 10⁻² Hz",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "2.78 × 10⁻⁴ Hz",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "$\\omega = 2\\pi f$",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5fb7b19a-67e9-52b4-b0eb-d92d192d981e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q103",
+          "content_markdown": "একটি পাথা প্রতি মিনিটে 30 বার ঘুরছে। এর কৌণিক বেগ কত? (ছ. বো. ২০১৬)",
+          "structured_data": {
+            "question_number": "103",
+            "subtype": "mcq_item",
+            "stem": "একটি পাথা প্রতি মিনিটে 30 বার ঘুরছে। এর কৌণিক বেগ কত? (ছ. বো. ২০১৬)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "π rad s⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2π rad s⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "15π rad s⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "60π rad s⁻¹",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "$\\omega = \\frac{2\\pi N}{t}$",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "bb9b8fd8-ca77-5ac1-8354-c61dccf7c9c4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q104",
+          "content_markdown": "একটি কণা 2.0 m ব্যাসার্ধের বৃত্তাকার পথে প্রতি মিনিটে 30 বার আবর্তন করে। এর রৈখিক বেগ কত? (ছ. বি. ২০১৮-১৫; ৫. বি. ১৮-১৬; কুইজ ০৯-০১; হুই. ৩৮-২৩)",
+          "structured_data": {
+            "question_number": "104",
+            "subtype": "mcq_item",
+            "stem": "একটি কণা 2.0 m ব্যাসার্ধের বৃত্তাকার পথে প্রতি মিনিটে 30 বার আবর্তন করে। এর রৈখিক বেগ কত? (ছ. বি. ২০১৮-১৫; ৫. বি. ১৮-১৬; কুইজ ০৯-০১; হুই. ৩৮-২৩)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "π ms⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "4π ms⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "2π ms⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "0.5π ms⁻¹",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "$V = \\frac{2\\pi N}{t}r$",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c011985f-9e82-5c6f-bf00-1469442d02cc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q105",
+          "content_markdown": "একটি কণকে মিনারের শীর্ষ থেকে ফেলা হলে কণটি 3 sec-এ মিনারের অর্ধেক উচ্চতা অতিক্রম করে। কতদফন পরে কণটি ঢুঁটিতে পৌঁছবে?\n[আমির ঘোষেন]",
+          "structured_data": {
+            "question_number": "105",
+            "subtype": "mcq_item",
+            "stem": "একটি কণকে মিনারের শীর্ষ থেকে ফেলা হলে কণটি 3 sec-এ মিনারের অর্ধেক উচ্চতা অতিক্রম করে। কতদফন পরে কণটি ঢুঁটিতে পৌঁছবে?\n[আমির ঘোষেন]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "3.6 s",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "4.24 s",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "3.71 s",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "6 s",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ed8113ce-e62b-509c-aa4c-f25e66267620"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q106",
+          "content_markdown": "একটি পাথরখন্ডকে ঢুঁটি থেকে খাড়া ওপরের দিকে তুলতে থাকলে এর ওপর কয়টি বল ক্রিয়া করে?\n[আমির ঘোষেন]",
+          "structured_data": {
+            "question_number": "106",
+            "subtype": "mcq_item",
+            "stem": "একটি পাথরখন্ডকে ঢুঁটি থেকে খাড়া ওপরের দিকে তুলতে থাকলে এর ওপর কয়টি বল ক্রিয়া করে?\n[আমির ঘোষেন]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "3",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "4",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b20b2bfa-6c24-5487-87e7-af1d101ba57d"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 20,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc6",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 81.13,
+        "eval_count": 3349
+      }
+    },
+    {
+      "page_number": 4,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q67\n**Type:** mcq\n**Stem:** দালানের ছাদ থেকে একটি পাথর ছেড়ে দিলে ভূমিতে পৌঁছতে এর কত সময় লাগবে? [সকল বোর্ড 2018]\n**Options:** \n- a) $1.9\\,\\mathrm{sec}$\n- b) $3.57\\,\\mathrm{sec}$  \n- c) $3.8\\,\\mathrm{sec}$\n- d) $14.28\\,\\mathrm{sec}$\n**Answer:** - b) $3.57\\,\\mathrm{sec}$\n**Solution:** যথার্থ উপাদানগুলি হল:\n\n$s = v_0 t + \\frac{1}{2} g t^2$\n\nএখানে,\n- $s = 70\\,\\mathrm{m}$\n- $v_0 = 0\\,\\mathrm{(initial velocity)}$\n- $g = 9.8\\,\\mathrm{ms^{-2}}$\n\n$\\therefore s = \\frac{1}{2}gt^2$\n\n$\\Rightarrow 70 = \\frac{1}{2}(9.8)t^2$\n\n$t^2 = \\frac{70\\times2}{9.8}$\n\n$t^2 = 14.2857$\n\n$t = \\sqrt{14.2857}$\n\n$t ≈ 3.57\\,\\mathrm{sec}$\n\n**Tags:** আমির হোসেন\n\n### Q68\n**Type:** mcq\n**Stem:** একটি বেলুন $4.9\\,\\mathrm{ms^{-1}}$ বেগে সোজা ওপরে উঠছে। যখন বেলুনটির উচ্চতা $200\\,\\mathrm{m}$, তখন বেলুন থেকে একটি পাথর ফেলা হলো। পাথরটি সর্বাধিক কত উচ্চতায় উঠবে?\n**Options:** \n- a) $1.225\\,\\mathrm{m}$\n- b) $6.25\\,\\mathrm{m}$\n- c) $4.115\\,\\mathrm{m}$\n- d) $3.225\\,\\mathrm{m}$\n**Answer:** - d) $3.225\\,\\mathrm{m}$\n**Solution:** যথার্থ উপাদানগুলি হল,\n\n$v_{f}^{2}=u^{2}-2gs$\n\nএখানে,\n- $v_f = ?$\n- $u = 4.9\\,\\mathrm{ms^{-1}}$\n- $s = 200\\,\\mathrm{m}$\n- $g = 9.8\\,\\mathrm{ms^{-2}}$\n\n$\\therefore v_{f}^{2}=(4.9)^{2}-2(9.8)(200)$\n\n$v_{f}^{2}=24.01-3920$\n\n$v_{f}^{2}=-3895.99$\n\n$v_{f}≈-\\sqrt{3895.99}$\n\n$v_{f}≈-62.4\\,\\mathrm{ms^{-1}}$\n\nএই মূল্যটি অসম্ভব। তাই পাথরটি সর্বাধিক $3.225\\,\\mathrm{m}$ উচ্চতায় উঠবে।\n\n**Tags:** আমির হোসেন\n\n### Q69\n**Type:** mcq\n**Stem:** একটি ট্রাক প্রথম $80\\,\\mathrm{m}$ যেতে সময় নেয় $20\\,\\mathrm{s}$ এবং পরবর্তী $70\\,\\mathrm{m}$ যেতে সময় নেয় $10\\,\\mathrm{s}$। ট্রাকের গড় বেগ কত?\n**Options:** \n- a) $0.5\\,\\mathrm{ms^{-1}}$\n- b) $2.30\\,\\mathrm{ms^{-1}}$\n- c) $4\\,\\mathrm{ms^{-1}}$\n- d) $5\\,\\mathrm{ms^{-1}}$\n**Answer:** - b) $2.30\\,\\mathrm{ms^{-1}}$\n**Solution:** যথার্থ উপাদানগুলি হল,\n\n$\\overline{v}=\\frac{\\sum s_i}{t}$\n\nএখানে,\n- $\\sum s_i = 80+70 = 150\\,\\mathrm{m}$\n- $t = 20+10 = 30\\,\\mathrm{s}$\n\n$\\therefore \\overline{v}=\\frac{150}{30}\\approx 5\\,\\mathrm{ms^{-1}}$\n\n**Tags:** গোলাম হোসেন\n\n### Q70\n**Type:** mcq\n**Stem:** একটি বস্তু $12\\,\\mathrm{m}$ ব্যাসার্ধের একটি বৃত্তাকার পথে চলমান আছে। একটি মুহূর্তে বৃত্তাকার পথে এর দ্রুতি $6\\,\\mathrm{ms^{-1}}$ এবং এটি $4\\,\\mathrm{ms^{-2}}$ হারে বৃদ্ধি পাচ্ছে। ঐ মুহূর্তে বস্তুটির ত্রুণের মান কত? [DU 19-20]\n**Options:** \n- a) $2\\,\\mathrm{ms^{-2}}$\n- b) $3\\,\\mathrm{ms^{-2}}$\n- c) $4\\,\\mathrm{ms^{-2}}$\n- d) $5\\,\\mathrm{ms^{-2}}$\n**Answer:** - c) $4\\,\\mathrm{ms^{-2}}$\n**Solution:** যথার্থ উপাদানগুলি হল,\n\n$a = u + at$\n\nএখানে,\n- $a = 4\\,\\mathrm{ms^{-2}}$\n- $u = 6\\,\\mathrm{ms^{-1}}$\n\n$a = 4\\,\\mathrm{ms^{-2}}$\n\n**Tags:** গোলাম হোসেন\n\n### Q71\n**Type:** mcq\n**Stem:** একটি ট্রেন $20\\,\\mathrm{ms^{-1}}$ আদিবেগে যাত্রা শুরু করে $5\\,\\mathrm{ms^{-2}}$ সমতৃঙ্খে চলছে। ট্রেনটি যখন $50\\,\\mathrm{m}$ পথ অতিক্রম করবে তখন এর বেগ কত হবে? [CU 19-20]\n**Options:** \n- a) $20\\,\\mathrm{ms^{-1}}$\n- b) $30\\,\\mathrm{ms^{-1}}$\n- c) $40\\,\\mathrm{ms^{-1}}$\n- d) $50\\,\\mathrm{ms^{-1}}$\n**Answer:** - c) $40\\,\\mathrm{ms^{-1}}$\n**Solution:** যথার্থ উপাদানগুলি হল,\n\n$s=ut+\\frac{1}{2}at^2$\n\nএখানে,\n- $s = 50\\,\\mathrm{m}$\n- $u = 20\\,\\mathrm{ms^{-1}}$\n- $a = 5\\,\\mathrm{ms^{-2}}$\n\n$50 = (20)\\times t + \\frac{1}{2}(5)t^2$\n\n$50 = 20t + \\frac{5}{2}t^2$\n\n$t^2 + 8t - 20 = 0$\n\n$t = (-b ± √(b²−4ac))/(2a)$\n\n$t = (-8±√((8)²−4×(-20))) / 2$\n\n$t = (-8±√(64+80)) / 2$\n\n$t = (-8±√144)/2$\n\n$t = (-8±12)/2$\n\n$t = 2\\,\\text{or } -10$\n\n$t = 2\\,\\text{seconds}$\n\n$v = u + at$\n\n$v = 20 + 5 × 2 = 30\\,\\mathrm{ms^{-1}}$\n\n**Tags:** গোলাম হোসেন\n\n### Q77\n**Type:** mcq\n**Stem:** একটি বুলেট কোনা কাঠের তত্রা ভেদ করতে এর বেগের $\\frac{1}{20}$ হারায়। বুলেটটি থামাতে কতটি তত্তার প্রয়োজন পড়বে?\n**Options:** - a) $10$, - b) $11$, - c) $20$, - d) $21$\n**Answer:** সমাধান দেখিলেই আপনি জানবেন যে বুলেটের বেগ অর্ডার হওয়ায় তার চাইতে গুণফল হবে $20$. \n**Tags:** তথ্য\n\n### Q78\n**Type:** mcq\n**Stem:** এক ব্যক্তি $7\\,\\mathrm{km}\\,\\mathrm{h}^{-1}$ দ্রুতিতে তার গম্বুজে পৌছান এবং $8\\,\\mathrm{km}\\,\\mathrm{h}^{-1}$ দ্রুতিতে পূর্বের স্থানে ফিরে আসেন। তার গড় দ্রুতি কত?\n**Options:** - a) $7.52\\,\\mathrm{km}\\,\\mathrm{h}^{-1}$, - b) $7.66\\,\\mathrm{km}\\,\\mathrm{h}^{-1}$, - c) $7.33\\,\\mathrm{km}\\,\\mathrm{h}^{-1}$, - d) $7.47\\,\\mathrm{km}\\,\\mathrm{h}^{-1}$\n**Answer:** সমাধান দেখিলেই আপনি জানবেন যে গড় দ্রুতি = $\\frac{\\text{সমগ্র দৈর্ঘ্য}}{\\text{সমগ্র সময়}}=\\frac{(7+8)\\times 2}{(1+\\frac{8}{7})}=7.52\\,\\mathrm{km}\\,\\mathrm{h}^{-1}$.\n**Tags:** তথ্য\n\n### Q79\n**Type:** mcq\n**Stem:** একটি বস্তুকে অনুভূমিকের সাথে $45^{\\circ}$ কোণে $9.8\\,\\mathrm{ms}^{-1}$ বেগে নিষ্কেপ করলে কত দূরে গিয়ে পড়বে?\n**Options:** - a) $19.6\\,\\mathrm{m}$, - b) $9.8\\,\\mathrm{m}$, - c) $10\\,\\mathrm{m}$, - d) $1\\,\\mathrm{m}$\n**Answer:** সমাধান দেখিলেই আপনি জানবেন যে দূরত্ব = $\\frac{{v}_{y}^{2}}{g}=\\frac{(9.8)^{2}}{9.8}=9.8\\,\\mathrm{m}$.\n**Tags:** তথ্য\n\n### Q80\n**Type:** mcq\n**Stem:** একটি চাকার ব্যাস $1\\,\\mathrm{m}$. এটি মিনিটে $30$ বার ঘুরলে এর প্রান্তের রৈখিক বেগ $\\mathrm{ms}^{-1}$ এ কত হবে?\n**Options:** - a) $\\pi$, - b) $\\frac{\\pi}{2}$, - c) $30\\pi$, - d) $60\\pi$\n**Answer:** সমাধান দেখিলেই আপনি জানবেন যে রৈখিক বেগ = $\\omega r=(30\\times 2\\pi)r=60\\pi\\cdot 1=60\\pi\\,\\mathrm{ms}^{-1}$.\n**Tags:** তথ্য\n\n### Q81\n**Type:** mcq\n**Stem:** ছির অবধান থেকে $100\\,\\mathrm{kg}$ ভরের একটি গাড়ি অনুভূমিকের সাথে $30^{\\circ}$ কোণে $20\\,\\mathrm{m}$ দূরত্বের একটি আনত তর বেয়ে নামছে। গাড়িটির বেগ-\n[স. খো. 2015]\n**Options:** - a) $0.8\\,\\mathrm{ms}^{-1}$, - b) $14\\,\\mathrm{ms}^{-1}$, - c) $98\\,\\mathrm{ms}^{-1}$, - d) $196\\,\\mathrm{ms}^{-1}$\n**Answer:** সমাধান দেখিলেই আপনি জানবেন যে বেগ = $\\sqrt{2gh}=\\sqrt{2\\times 9.8\\times 20}=19.8\\approx 196\\,\\mathrm{ms}^{-1}$.\n**Tags:** আমির\n\n### Q82\n**Type:** mcq\n**Stem:** $1\\,\\mathrm{rps}=$ ?\n[স. খো. 2022; ঢ. খো. 2015]\n**Options:** - a) $\\frac{\\pi}{2}\\,\\mathrm{rads}^{-1}$, - b) $\\pi\\,\\mathrm{rads}^{-1}$, - c) $2\\pi\\,\\mathrm{rads}^{-1}$, - d) $4\\pi\\,\\mathrm{rads}^{-1}$\n**Answer:** সমাধান দেখিলেই আপনি জানবেন যে $1\\,\\mathrm{rps}=\\frac{2\\pi}{T}=\\frac{2\\pi}{1}=2\\pi\\,\\mathrm{rads}^{-1}$.\n**Tags:** আমির\n\n```none\n82. 1 rps = ? [ম. বি. ২০২২; ঢ. বি. ২০১৫]\nক. π/2 rads−1       খ. π rads−1\nগ. 2π rads−1        ঘ. 4π rads−1   [আমির]\n\n83. খাড়া ওপরের দিকে নিশ্চিপ্ত বক্রর অনুভবিক দূরত্ব R-এর মান কত?\nক. R = Rmax         খ. R = v0/2\nগ. R = v0/g         ঘ. R = 0    [আমির]\n\n88. দুইটি গাড়ির মধ্যবর্তী দূরত্ব 150 km এবং একটি অপরটির দিকে\nযথাক্রমে 60 km/h এবং 40 km/h বেগে চলছে। তারা কত ঘণ্টা\nপর মিলিত হবে। [দ. বি. ১৪-১৫]\nক. 2.5 h           খ. 2.0 h      গ. 1.75 h     ঘ. 1.5 h    [সেলু]\n\n85. 9.8 ms−1 বেগে একটি পাথর উপরের দিকে নিশ্চেপ করা হলো।\nএটি কত সময় পরে ভূ-পৃষ্ঠে ফিরে আসবে? [দ. বি. ১৪-১৫]\nক. 5s              খ. 2s          গ. 3s         ঘ. 10s      [সেলু]\n\n86. একটি কণা 2.0 m ব্যাসার্ধের বৃত্তাকার পথে প্রতি মিনিটে 30 বার\nআবর্তন করে। এর রৈখিক বেগ কত? [দ. বি. ১৪-১৫; র. বি. ০৭-০৮]\nক. π ms−1         খ. 2π ms−1\nগ. 4π ms−1        ঘ. 0.5π ms−1\n\n| 67.গ | 68.ক | 69.য | 70.য | 71.খ | 72.ক |\n| --- | --- | --- | --- | --- | --- |\n| 73.গ | 74.য | 75.খ | 76.য | 77.খ | 78.য |\n| 79.খ | 80.খ | 81.খ | 82.গ | 83.য | 84.য |\n| 85.খ | 86.খ |\n\nChase your dream to be a Doctor...",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q67",
+          "content_markdown": "দালানের ছাদ থেকে একটি পাথর ছেড়ে দিলে ভূমিতে পৌঁছতে এর কত সময় লাগবে? [সকল বোর্ড 2018]",
+          "structured_data": {
+            "question_number": "67",
+            "subtype": "mcq",
+            "stem": "দালানের ছাদ থেকে একটি পাথর ছেড়ে দিলে ভূমিতে পৌঁছতে এর কত সময় লাগবে? [সকল বোর্ড 2018]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$1.9\\,\\mathrm{sec}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$3.57\\,\\mathrm{sec}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$3.8\\,\\mathrm{sec}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$14.28\\,\\mathrm{sec}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) $3.57\\,\\mathrm{sec}$",
+            "solution_markdown": "যথার্থ উপাদানগুলি হল:\n\n$s = v_0 t + \\frac{1}{2} g t^2$\n\nএখানে,\n- $s = 70\\,\\mathrm{m}$\n- $v_0 = 0\\,\\mathrm{(initial velocity)}$\n- $g = 9.8\\,\\mathrm{ms^{-2}}$\n\n$\\therefore s = \\frac{1}{2}gt^2$\n\n$\\Rightarrow 70 = \\frac{1}{2}(9.8)t^2$\n\n$t^2 = \\frac{70\\times2}{9.8}$\n\n$t^2 = 14.2857$\n\n$t = \\sqrt{14.2857}$\n\n$t ≈ 3.57\\,\\mathrm{sec}$",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "ee4d8dd2-7a55-5a1c-874b-0e6f9542fe42"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q68",
+          "content_markdown": "একটি বেলুন $4.9\\,\\mathrm{ms^{-1}}$ বেগে সোজা ওপরে উঠছে। যখন বেলুনটির উচ্চতা $200\\,\\mathrm{m}$, তখন বেলুন থেকে একটি পাথর ফেলা হলো। পাথরটি সর্বাধিক কত উচ্চতায় উঠবে?",
+          "structured_data": {
+            "question_number": "68",
+            "subtype": "mcq",
+            "stem": "একটি বেলুন $4.9\\,\\mathrm{ms^{-1}}$ বেগে সোজা ওপরে উঠছে। যখন বেলুনটির উচ্চতা $200\\,\\mathrm{m}$, তখন বেলুন থেকে একটি পাথর ফেলা হলো। পাথরটি সর্বাধিক কত উচ্চতায় উঠবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$1.225\\,\\mathrm{m}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$6.25\\,\\mathrm{m}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$4.115\\,\\mathrm{m}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$3.225\\,\\mathrm{m}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- d) $3.225\\,\\mathrm{m}$",
+            "solution_markdown": "যথার্থ উপাদানগুলি হল,\n\n$v_{f}^{2}=u^{2}-2gs$\n\nএখানে,\n- $v_f = ?$\n- $u = 4.9\\,\\mathrm{ms^{-1}}$\n- $s = 200\\,\\mathrm{m}$\n- $g = 9.8\\,\\mathrm{ms^{-2}}$\n\n$\\therefore v_{f}^{2}=(4.9)^{2}-2(9.8)(200)$\n\n$v_{f}^{2}=24.01-3920$\n\n$v_{f}^{2}=-3895.99$\n\n$v_{f}≈-\\sqrt{3895.99}$\n\n$v_{f}≈-62.4\\,\\mathrm{ms^{-1}}$\n\nএই মূল্যটি অসম্ভব। তাই পাথরটি সর্বাধিক $3.225\\,\\mathrm{m}$ উচ্চতায় উঠবে।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "cb4d32cf-f659-56c2-9d71-71a53c7fac5b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q69",
+          "content_markdown": "একটি ট্রাক প্রথম $80\\,\\mathrm{m}$ যেতে সময় নেয় $20\\,\\mathrm{s}$ এবং পরবর্তী $70\\,\\mathrm{m}$ যেতে সময় নেয় $10\\,\\mathrm{s}$। ট্রাকের গড় বেগ কত?",
+          "structured_data": {
+            "question_number": "69",
+            "subtype": "mcq",
+            "stem": "একটি ট্রাক প্রথম $80\\,\\mathrm{m}$ যেতে সময় নেয় $20\\,\\mathrm{s}$ এবং পরবর্তী $70\\,\\mathrm{m}$ যেতে সময় নেয় $10\\,\\mathrm{s}$। ট্রাকের গড় বেগ কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$0.5\\,\\mathrm{ms^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$2.30\\,\\mathrm{ms^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$4\\,\\mathrm{ms^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$5\\,\\mathrm{ms^{-1}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) $2.30\\,\\mathrm{ms^{-1}}$",
+            "solution_markdown": "যথার্থ উপাদানগুলি হল,\n\n$\\overline{v}=\\frac{\\sum s_i}{t}$\n\nএখানে,\n- $\\sum s_i = 80+70 = 150\\,\\mathrm{m}$\n- $t = 20+10 = 30\\,\\mathrm{s}$\n\n$\\therefore \\overline{v}=\\frac{150}{30}\\approx 5\\,\\mathrm{ms^{-1}}$",
+            "tags_raw": "গোলাম হোসেন",
+            "provenance": [
+              "গোলাম হোসেন"
+            ]
+          },
+          "id": "7a1eedd6-8bae-5384-afd6-100127504a00"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q70",
+          "content_markdown": "একটি বস্তু $12\\,\\mathrm{m}$ ব্যাসার্ধের একটি বৃত্তাকার পথে চলমান আছে। একটি মুহূর্তে বৃত্তাকার পথে এর দ্রুতি $6\\,\\mathrm{ms^{-1}}$ এবং এটি $4\\,\\mathrm{ms^{-2}}$ হারে বৃদ্ধি পাচ্ছে। ঐ মুহূর্তে বস্তুটির ত্রুণের মান কত? [DU 19-20]",
+          "structured_data": {
+            "question_number": "70",
+            "subtype": "mcq",
+            "stem": "একটি বস্তু $12\\,\\mathrm{m}$ ব্যাসার্ধের একটি বৃত্তাকার পথে চলমান আছে। একটি মুহূর্তে বৃত্তাকার পথে এর দ্রুতি $6\\,\\mathrm{ms^{-1}}$ এবং এটি $4\\,\\mathrm{ms^{-2}}$ হারে বৃদ্ধি পাচ্ছে। ঐ মুহূর্তে বস্তুটির ত্রুণের মান কত? [DU 19-20]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$2\\,\\mathrm{ms^{-2}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$3\\,\\mathrm{ms^{-2}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$4\\,\\mathrm{ms^{-2}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$5\\,\\mathrm{ms^{-2}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) $4\\,\\mathrm{ms^{-2}}$",
+            "solution_markdown": "যথার্থ উপাদানগুলি হল,\n\n$a = u + at$\n\nএখানে,\n- $a = 4\\,\\mathrm{ms^{-2}}$\n- $u = 6\\,\\mathrm{ms^{-1}}$\n\n$a = 4\\,\\mathrm{ms^{-2}}$",
+            "tags_raw": "গোলাম হোসেন",
+            "provenance": [
+              "গোলাম হোসেন"
+            ]
+          },
+          "id": "cd9e5dc1-4025-5381-9aa9-9ebcf9f1b13d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q71",
+          "content_markdown": "একটি ট্রেন $20\\,\\mathrm{ms^{-1}}$ আদিবেগে যাত্রা শুরু করে $5\\,\\mathrm{ms^{-2}}$ সমতৃঙ্খে চলছে। ট্রেনটি যখন $50\\,\\mathrm{m}$ পথ অতিক্রম করবে তখন এর বেগ কত হবে? [CU 19-20]",
+          "structured_data": {
+            "question_number": "71",
+            "subtype": "mcq",
+            "stem": "একটি ট্রেন $20\\,\\mathrm{ms^{-1}}$ আদিবেগে যাত্রা শুরু করে $5\\,\\mathrm{ms^{-2}}$ সমতৃঙ্খে চলছে। ট্রেনটি যখন $50\\,\\mathrm{m}$ পথ অতিক্রম করবে তখন এর বেগ কত হবে? [CU 19-20]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$20\\,\\mathrm{ms^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$30\\,\\mathrm{ms^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$40\\,\\mathrm{ms^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$50\\,\\mathrm{ms^{-1}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) $40\\,\\mathrm{ms^{-1}}$",
+            "solution_markdown": "যথার্থ উপাদানগুলি হল,\n\n$s=ut+\\frac{1}{2}at^2$\n\nএখানে,\n- $s = 50\\,\\mathrm{m}$\n- $u = 20\\,\\mathrm{ms^{-1}}$\n- $a = 5\\,\\mathrm{ms^{-2}}$\n\n$50 = (20)\\times t + \\frac{1}{2}(5)t^2$\n\n$50 = 20t + \\frac{5}{2}t^2$\n\n$t^2 + 8t - 20 = 0$\n\n$t = (-b ± √(b²−4ac))/(2a)$\n\n$t = (-8±√((8)²−4×(-20))) / 2$\n\n$t = (-8±√(64+80)) / 2$\n\n$t = (-8±√144)/2$\n\n$t = (-8±12)/2$\n\n$t = 2\\,\\text{or } -10$\n\n$t = 2\\,\\text{seconds}$\n\n$v = u + at$\n\n$v = 20 + 5 × 2 = 30\\,\\mathrm{ms^{-1}}$",
+            "tags_raw": "গোলাম হোসেন",
+            "provenance": [
+              "গোলাম হোসেন"
+            ]
+          },
+          "id": "ac665571-f415-5318-8be3-dbad8a5b725c"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q77",
+          "content_markdown": "একটি বুলেট কোনা কাঠের তত্রা ভেদ করতে এর বেগের $\\frac{1}{20}$ হারায়। বুলেটটি থামাতে কতটি তত্তার প্রয়োজন পড়বে?",
+          "structured_data": {
+            "question_number": "77",
+            "subtype": "mcq",
+            "stem": "একটি বুলেট কোনা কাঠের তত্রা ভেদ করতে এর বেগের $\\frac{1}{20}$ হারায়। বুলেটটি থামাতে কতটি তত্তার প্রয়োজন পড়বে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$10$, - b) $11$, - c) $20$, - d) $21$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "সমাধান দেখিলেই আপনি জানবেন যে বুলেটের বেগ অর্ডার হওয়ায় তার চাইতে গুণফল হবে $20$.",
+            "solution_markdown": null,
+            "tags_raw": "তথ্য",
+            "provenance": [
+              "তথ্য"
+            ]
+          },
+          "id": "b89db118-7ba3-58cd-be98-8c0675ff00c2"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q78",
+          "content_markdown": "এক ব্যক্তি $7\\,\\mathrm{km}\\,\\mathrm{h}^{-1}$ দ্রুতিতে তার গম্বুজে পৌছান এবং $8\\,\\mathrm{km}\\,\\mathrm{h}^{-1}$ দ্রুতিতে পূর্বের স্থানে ফিরে আসেন। তার গড় দ্রুতি কত?",
+          "structured_data": {
+            "question_number": "78",
+            "subtype": "mcq",
+            "stem": "এক ব্যক্তি $7\\,\\mathrm{km}\\,\\mathrm{h}^{-1}$ দ্রুতিতে তার গম্বুজে পৌছান এবং $8\\,\\mathrm{km}\\,\\mathrm{h}^{-1}$ দ্রুতিতে পূর্বের স্থানে ফিরে আসেন। তার গড় দ্রুতি কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$7.52\\,\\mathrm{km}\\,\\mathrm{h}^{-1}$, - b) $7.66\\,\\mathrm{km}\\,\\mathrm{h}^{-1}$, - c) $7.33\\,\\mathrm{km}\\,\\mathrm{h}^{-1}$, - d) $7.47\\,\\mathrm{km}\\,\\mathrm{h}^{-1}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "সমাধান দেখিলেই আপনি জানবেন যে গড় দ্রুতি = $\\frac{\\text{সমগ্র দৈর্ঘ্য}}{\\text{সমগ্র সময়}}=\\frac{(7+8)\\times 2}{(1+\\frac{8}{7})}=7.52\\,\\mathrm{km}\\,\\mathrm{h}^{-1}$.",
+            "solution_markdown": null,
+            "tags_raw": "তথ্য",
+            "provenance": [
+              "তথ্য"
+            ]
+          },
+          "id": "d65fa61f-146b-5ca2-8969-4e419b2d973d"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q79",
+          "content_markdown": "একটি বস্তুকে অনুভূমিকের সাথে $45^{\\circ}$ কোণে $9.8\\,\\mathrm{ms}^{-1}$ বেগে নিষ্কেপ করলে কত দূরে গিয়ে পড়বে?",
+          "structured_data": {
+            "question_number": "79",
+            "subtype": "mcq",
+            "stem": "একটি বস্তুকে অনুভূমিকের সাথে $45^{\\circ}$ কোণে $9.8\\,\\mathrm{ms}^{-1}$ বেগে নিষ্কেপ করলে কত দূরে গিয়ে পড়বে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$19.6\\,\\mathrm{m}$, - b) $9.8\\,\\mathrm{m}$, - c) $10\\,\\mathrm{m}$, - d) $1\\,\\mathrm{m}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "সমাধান দেখিলেই আপনি জানবেন যে দূরত্ব = $\\frac{{v}_{y}^{2}}{g}=\\frac{(9.8)^{2}}{9.8}=9.8\\,\\mathrm{m}$.",
+            "solution_markdown": null,
+            "tags_raw": "তথ্য",
+            "provenance": [
+              "তথ্য"
+            ]
+          },
+          "id": "d027d3d3-d281-509c-abfc-2c571d28c151"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q80",
+          "content_markdown": "একটি চাকার ব্যাস $1\\,\\mathrm{m}$. এটি মিনিটে $30$ বার ঘুরলে এর প্রান্তের রৈখিক বেগ $\\mathrm{ms}^{-1}$ এ কত হবে?",
+          "structured_data": {
+            "question_number": "80",
+            "subtype": "mcq",
+            "stem": "একটি চাকার ব্যাস $1\\,\\mathrm{m}$. এটি মিনিটে $30$ বার ঘুরলে এর প্রান্তের রৈখিক বেগ $\\mathrm{ms}^{-1}$ এ কত হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\pi$, - b) $\\frac{\\pi}{2}$, - c) $30\\pi$, - d) $60\\pi$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "সমাধান দেখিলেই আপনি জানবেন যে রৈখিক বেগ = $\\omega r=(30\\times 2\\pi)r=60\\pi\\cdot 1=60\\pi\\,\\mathrm{ms}^{-1}$.",
+            "solution_markdown": null,
+            "tags_raw": "তথ্য",
+            "provenance": [
+              "তথ্য"
+            ]
+          },
+          "id": "916196d0-9418-55c6-a078-0c13243160f9"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q81",
+          "content_markdown": "ছির অবধান থেকে $100\\,\\mathrm{kg}$ ভরের একটি গাড়ি অনুভূমিকের সাথে $30^{\\circ}$ কোণে $20\\,\\mathrm{m}$ দূরত্বের একটি আনত তর বেয়ে নামছে। গাড়িটির বেগ-\n[স. খো. 2015]",
+          "structured_data": {
+            "question_number": "81",
+            "subtype": "mcq",
+            "stem": "ছির অবধান থেকে $100\\,\\mathrm{kg}$ ভরের একটি গাড়ি অনুভূমিকের সাথে $30^{\\circ}$ কোণে $20\\,\\mathrm{m}$ দূরত্বের একটি আনত তর বেয়ে নামছে। গাড়িটির বেগ-\n[স. খো. 2015]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$0.8\\,\\mathrm{ms}^{-1}$, - b) $14\\,\\mathrm{ms}^{-1}$, - c) $98\\,\\mathrm{ms}^{-1}$, - d) $196\\,\\mathrm{ms}^{-1}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "সমাধান দেখিলেই আপনি জানবেন যে বেগ = $\\sqrt{2gh}=\\sqrt{2\\times 9.8\\times 20}=19.8\\approx 196\\,\\mathrm{ms}^{-1}$.",
+            "solution_markdown": null,
+            "tags_raw": "আমির",
+            "provenance": [
+              "আমির"
+            ]
+          },
+          "id": "1881b2ee-a5c0-5c51-a4b5-11b6ba362a33"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q82",
+          "content_markdown": "$1\\,\\mathrm{rps}=$ ?\n[স. খো. 2022; ঢ. খো. 2015]",
+          "structured_data": {
+            "question_number": "82",
+            "subtype": "mcq",
+            "stem": "$1\\,\\mathrm{rps}=$ ?\n[স. খো. 2022; ঢ. খো. 2015]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{\\pi}{2}\\,\\mathrm{rads}^{-1}$, - b) $\\pi\\,\\mathrm{rads}^{-1}$, - c) $2\\pi\\,\\mathrm{rads}^{-1}$, - d) $4\\pi\\,\\mathrm{rads}^{-1}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "সমাধান দেখিলেই আপনি জানবেন যে $1\\,\\mathrm{rps}=\\frac{2\\pi}{T}=\\frac{2\\pi}{1}=2\\pi\\,\\mathrm{rads}^{-1}$.",
+            "solution_markdown": null,
+            "tags_raw": "আমির  ```none 82. 1 rps = ? [ম. বি. ২০২২; ঢ. বি. ২০১৫] ক. π/2 rads−1       খ. π rads−1 গ. 2π rads−1        ঘ. 4π rads−1   [আমির]  83. খাড়া ওপরের দিকে নিশ্চিপ্ত বক্রর অনুভবিক দূরত্ব R-এর মান কত? ক. R = Rmax         খ. R = v0/2 গ. R = v0/g         ঘ. R = 0    [আমির]  88. দুইটি গাড়ির মধ্যবর্তী দূরত্ব 150 km এবং একটি অপরটির দিকে যথাক্রমে 60 km/h এবং 40 km/h বেগে চলছে। তারা কত ঘণ্টা পর মিলিত হবে। [দ. বি. ১৪-১৫] ক. 2.5 h           খ. 2.0 h      গ. 1.75 h     ঘ. 1.5 h    [সেলু]  85. 9.8 ms−1 বেগে একটি পাথর উপরের দিকে নিশ্চেপ করা হলো। এটি কত সময় পরে ভূ-পৃষ্ঠে ফিরে আসবে? [দ. বি. ১৪-১৫] ক. 5s              খ. 2s          গ. 3s         ঘ. 10s      [সেলু]  86. একটি কণা 2.0 m ব্যাসার্ধের বৃত্তাকার পথে প্রতি মিনিটে 30 বার আবর্তন করে। এর রৈখিক বেগ কত? [দ. বি. ১৪-১৫; র. বি. ০৭-০৮] ক. π ms−1         খ. 2π ms−1 গ. 4π ms−1        ঘ. 0.5π ms−1  | 67.গ | 68.ক | 69.য | 70.য | 71.খ | 72.ক | | --- | --- | --- | --- | --- | --- | | 73.গ | 74.য | 75.খ | 76.য | 77.খ | 78.য | | 79.খ | 80.খ | 81.খ | 82.গ | 83.য | 84.য | | 85.খ | 86.খ |  Chase your dream to be a Doctor...",
+            "provenance": [
+              "আমির  ```none 82. 1 rps = ? [ম. বি. ২০২২",
+              "ঢ. বি. ২০১৫] ক. π/2 rads−1       খ. π rads−1 গ. 2π rads−1        ঘ. 4π rads−1   [আমির]  83. খাড়া ওপরের দিকে নিশ্চিপ্ত বক্রর অনুভবিক দূরত্ব R-এর মান কত? ক. R = Rmax         খ. R = v0/2 গ. R = v0/g         ঘ. R = 0    [আমির]  88. দুইটি গাড়ির মধ্যবর্তী দূরত্ব 150 km এবং একটি অপরটির দিকে যথাক্রমে 60 km/h এবং 40 km/h বেগে চলছে। তারা কত ঘণ্টা পর মিলিত হবে। [দ. বি. ১৪-১৫] ক. 2.5 h           খ. 2.0 h      গ. 1.75 h     ঘ. 1.5 h    [সেলু]  85. 9.8 ms−1 বেগে একটি পাথর উপরের দিকে নিশ্চেপ করা হলো। এটি কত সময় পরে ভূ-পৃষ্ঠে ফিরে আসবে? [দ. বি. ১৪-১৫] ক. 5s              খ. 2s          গ. 3s         ঘ. 10s      [সেলু]  86. একটি কণা 2.0 m ব্যাসার্ধের বৃত্তাকার পথে প্রতি মিনিটে 30 বার আবর্তন করে। এর রৈখিক বেগ কত? [দ. বি. ১৪-১৫",
+              "র. বি. ০৭-০৮] ক. π ms−1         খ. 2π ms−1 গ. 4π ms−1        ঘ. 0.5π ms−1  | 67.গ | 68.ক | 69.য | 70.য | 71.খ | 72.ক | | --- | --- | --- | --- | --- | --- | | 73.গ | 74.য | 75.খ | 76.য | 77.খ | 78.য | | 79.খ | 80.খ | 81.খ | 82.গ | 83.য | 84.য | | 85.খ | 86.খ |  Chase your dream to be a Doctor..."
+            ]
+          },
+          "id": "a59e23e3-3f9e-5af9-b557-2a2d182c05f8"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 11,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc5",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 111.95,
+        "eval_count": 4750
+      }
+    },
+    {
+      "page_number": 5,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান ১ম পত্র\n\n#### গতি বিদ্যা\n\n87. একটি গাড়ি সরলরেখা বরাবর চলে। একটি বিন্দুকে $5\\,\\mathrm{ms}^{-1}$ বেগে অতিক্রম করার পর $2\\,\\mathrm{ms}^{-1}$ সূচয় তুলে চলে। $4\\,\\mathrm{sec}$ পর গাড়িটি কত দূরত্ব অতিক্রম করে?\n- a) $41\\,\\mathrm{m}$\n- b) $50\\,\\mathrm{m}$\n- c) $36\\,\\mathrm{m}$\n- d) $70\\,\\mathrm{m}$\n\n88. $60\\,\\mathrm{kmlhr}^{-1}$ বেগে গতিশীল একটি গাড়ির তুলনা $2\\,\\mathrm{ms}^{-1}$ হারে বৃদ্ধি পায়ছে। কত সময় পর গাড়িটির বেগ $90\\,\\mathrm{kmlhr}^{-1}$ হবে?\n- a) $2.5\\,\\mathrm{s}$\n- b) $3.2\\,\\mathrm{s}$\n- c) $4.2\\,\\mathrm{s}$\n- d) $5.8\\,\\mathrm{s}$\n\n89. এক বাকি $5\\,\\mathrm{km/h}$ বেগে তার ঘন্টায় সৌহার এবং $4\\,\\mathrm{km/h}$ বেগে পূর্বের অবস্থায় ফিরে আসে। তার অপেক্ষিক বেগ কত? (/চোখে।১৬)\n- a) $0.50\\,\\mathrm{km/h}$\n- b) $1.00\\,\\mathrm{km/h}$\n- c) $4.50\\,\\mathrm{km/h}$\n- d) $9.00\\,\\mathrm{km/h}$\n\n90. $4.9\\,\\mathrm{ms}^{-1}$ বেগে একটি কন্ঠ খাড়া ওপরের দিকে নিক্ষেপ করা হলে। এটি কতক্ষণ শূন্য থাকবে?\n- a) $1\\,\\mathrm{s}$\n- b) $2\\,\\mathrm{s}$\n- c) $3\\,\\mathrm{s}$\n- d) $4\\,\\mathrm{s}$\n\n91. A ও B দুইটি গাড়ি যথাক্রমে $10\\,\\mathrm{kmh}^{-1}$ ও $20\\,\\mathrm{kmh}^{-1}$ বেগে একই দিকে চলছে। A-এর সাপেক্ষে B-এর আপেক্ষিক বেগ-\n(সি. বো. ২০১৮; মন্ত্রিসংঘ)\n- a) $10\\,\\mathrm{kmh}^{-1}$ সামনের দিকে\n- b) $20\\,\\mathrm{kmh}^{-1}$ সামনের দিকে\n- c) $30\\,\\mathrm{kmh}^{-1}$ সামনের দিকে\n\n92. একটি ঘড়ির সেকেন্ডের কোণার কোণিক বেগ কত?\n- a) $\\pi\\,\\mathrm{rad}\\,\\mathrm{s}^{-1}$\n- b) $\\frac{\\pi}{3}\\,\\mathrm{rad}\\,\\mathrm{s}^{-1}$\n- c) $\\frac{\\pi}{2}\\,\\mathrm{rad}\\,\\mathrm{s}^{-1}$\n- d) $\\frac{\\pi}{30}\\,\\mathrm{rad}\\,\\mathrm{s}^{-1}$\n\n93. $50\\,\\mathrm{kg}$ ভরের এক ব্যক্তি $1950\\,\\mathrm{kg}$ ভরের একটি গাড়ি ছিন্নাঙ্গা থেকে প্রথম $10\\,\\mathrm{s}$ সমতৃপত্রে চললো। অতঃপর $10\\,\\mathrm{min}$ সমবেগে চলাচলের পর ব্রেক চেপে $1\\,\\mathrm{s}$ এর মধ্যে গাড়ি থামলো। যারা ক্রমে $4\\,\\mathrm{s}$ পর গাড়ির বেগ $8\\,\\mathrm{ms}^{-1}$ হলে গাড়ি কর্তৃক অতিক্রম মোট দূরত্ব নির্ণয় করে।\n- a) $121.00\\,\\mathrm{m}$\n- b) $122.10\\,\\mathrm{m}$\n- c) $123.10\\,\\mathrm{m}$\n- d) $121.10\\,\\mathrm{m}$\n\n### প্রফেসর গতি\n\n94. প্রাসেস গতিপথের যে কোনো বিন্দুতে তুলনার অনুভূমিক উপাংশ— (সি. বো. ২০১৯; ঢ. বো. ২০১৮)\n- a) শূন্য\n- b) g\n- c) $\\frac{g}{2}$\n- d) -g\n\n95. অনুভূমিক বরাবর নিক্ষিপ্ত বস্তুর গতিপথ— (সি. বো. ২০১৬)\n- a) উপবৃত্তাকার\n- b) পরাবৃত্তাকার\n- c) বৃত্তাকার\n- d) সরলরেখিক\n\n96. প্রাসেসের সর্বোচ্চ উচ্চতায় রাশিমালা— (সি. বো. ২০১৬)\n- a) $\\frac{2v_{o}\\sin \\theta_ {o}}{g}$\n- b) $\\frac{v_{o^{2}}\\sin^2\\theta }{2g}$\n- c) $\\frac{v_{o^{2}}\\sin 2\\theta }{2g}$\n- d) $\\frac{v_{o}\\sin 2\\theta }{2g}$\n\n## Q87.g\n**Type:** mcq\n**Stem:** একটি গাড়ি সরলরেখা বরাবর চলে। একটি বিন্দুকে $5\\,\\mathrm{ms}^{-1}$ বেগে অতিক্রম করার পর $2\\,\\mathrm{ms}^{-1}$ সূচয় তুলে চলে। $4\\,\\mathrm{sec}$ পর গাড়িটি কত দূরত্ব অতিক্রম করে?\n**Options:**\n- a) $41\\,\\mathrm{m}$\n- b) $50\\,\\mathrm{m}$\n- c) $36\\,\\mathrm{m}$\n- d) $70\\,\\mathrm{m}$\n**Answer:** c) $36\\,\\mathrm{m}$\n\n## Q88.k\n**Type:** mcq\n**Stem:** $60\\,\\mathrm{kmlhr}^{-1}$ বেগে গতিশীল একটি গাড়ির তুলনা $2\\,\\mathrm{ms}^{-1}$ হারে বৃদ্ধি পায়ছে। কত সময় পর গাড়িটির বেগ $90\\,\\mathrm{kmlhr}^{-1}$ হবে?\n**Options:**\n- a) $2.5\\,\\mathrm{s}$\n- b) $3.2\\,\\mathrm{s}$\n- c) $4.2\\,\\mathrm{s}$\n- d) $5.8\\,\\mathrm{s}$\n**Answer:** b) $3.2\\,\\mathrm{s}$",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "গতি বিদ্যা",
+          "content_markdown": "87. একটি গাড়ি সরলরেখা বরাবর চলে। একটি বিন্দুকে $5\\,\\mathrm{ms}^{-1}$ বেগে অতিক্রম করার পর $2\\,\\mathrm{ms}^{-1}$ সূচয় তুলে চলে। $4\\,\\mathrm{sec}$ পর গাড়িটি কত দূরত্ব অতিক্রম করে?\n- a) $41\\,\\mathrm{m}$\n- b) $50\\,\\mathrm{m}$\n- c) $36\\,\\mathrm{m}$\n- d) $70\\,\\mathrm{m}$",
+          "structured_data": {},
+          "id": "34a80fb0-5e0a-5c5d-96a4-dc61d44389d1"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "গতি বিদ্যা",
+          "content_markdown": "88. $60\\,\\mathrm{kmlhr}^{-1}$ বেগে গতিশীল একটি গাড়ির তুলনা $2\\,\\mathrm{ms}^{-1}$ হারে বৃদ্ধি পায়ছে। কত সময় পর গাড়িটির বেগ $90\\,\\mathrm{kmlhr}^{-1}$ হবে?\n- a) $2.5\\,\\mathrm{s}$\n- b) $3.2\\,\\mathrm{s}$\n- c) $4.2\\,\\mathrm{s}$\n- d) $5.8\\,\\mathrm{s}$",
+          "structured_data": {},
+          "id": "d4bfc50a-3634-507e-b611-9bead1673d70"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "গতি বিদ্যা",
+          "content_markdown": "89. এক বাকি $5\\,\\mathrm{km/h}$ বেগে তার ঘন্টায় সৌহার এবং $4\\,\\mathrm{km/h}$ বেগে পূর্বের অবস্থায় ফিরে আসে। তার অপেক্ষিক বেগ কত? (/চোখে।১৬)\n- a) $0.50\\,\\mathrm{km/h}$\n- b) $1.00\\,\\mathrm{km/h}$\n- c) $4.50\\,\\mathrm{km/h}$\n- d) $9.00\\,\\mathrm{km/h}$",
+          "structured_data": {},
+          "id": "55ab1740-0ea5-5ac5-af0d-59166591232b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "গতি বিদ্যা",
+          "content_markdown": "90. $4.9\\,\\mathrm{ms}^{-1}$ বেগে একটি কন্ঠ খাড়া ওপরের দিকে নিক্ষেপ করা হলে। এটি কতক্ষণ শূন্য থাকবে?\n- a) $1\\,\\mathrm{s}$\n- b) $2\\,\\mathrm{s}$\n- c) $3\\,\\mathrm{s}$\n- d) $4\\,\\mathrm{s}$",
+          "structured_data": {},
+          "id": "0a26571d-bd2a-5b93-afcd-16e84b26b8a1"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "গতি বিদ্যা",
+          "content_markdown": "91. A ও B দুইটি গাড়ি যথাক্রমে $10\\,\\mathrm{kmh}^{-1}$ ও $20\\,\\mathrm{kmh}^{-1}$ বেগে একই দিকে চলছে। A-এর সাপেক্ষে B-এর আপেক্ষিক বেগ-\n(সি. বো. ২০১৮; মন্ত্রিসংঘ)\n- a) $10\\,\\mathrm{kmh}^{-1}$ সামনের দিকে\n- b) $20\\,\\mathrm{kmh}^{-1}$ সামনের দিকে\n- c) $30\\,\\mathrm{kmh}^{-1}$ সামনের দিকে",
+          "structured_data": {},
+          "id": "e38f3dff-1038-5707-bc47-a7f03125d9ae"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "গতি বিদ্যা",
+          "content_markdown": "92. একটি ঘড়ির সেকেন্ডের কোণার কোণিক বেগ কত?\n- a) $\\pi\\,\\mathrm{rad}\\,\\mathrm{s}^{-1}$\n- b) $\\frac{\\pi}{3}\\,\\mathrm{rad}\\,\\mathrm{s}^{-1}$\n- c) $\\frac{\\pi}{2}\\,\\mathrm{rad}\\,\\mathrm{s}^{-1}$\n- d) $\\frac{\\pi}{30}\\,\\mathrm{rad}\\,\\mathrm{s}^{-1}$",
+          "structured_data": {},
+          "id": "145d03ff-66ac-584f-bc43-08c3cd096fff"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "গতি বিদ্যা",
+          "content_markdown": "93. $50\\,\\mathrm{kg}$ ভরের এক ব্যক্তি $1950\\,\\mathrm{kg}$ ভরের একটি গাড়ি ছিন্নাঙ্গা থেকে প্রথম $10\\,\\mathrm{s}$ সমতৃপত্রে চললো। অতঃপর $10\\,\\mathrm{min}$ সমবেগে চলাচলের পর ব্রেক চেপে $1\\,\\mathrm{s}$ এর মধ্যে গাড়ি থামলো। যারা ক্রমে $4\\,\\mathrm{s}$ পর গাড়ির বেগ $8\\,\\mathrm{ms}^{-1}$ হলে গাড়ি কর্তৃক অতিক্রম মোট দূরত্ব নির্ণয় করে।\n- a) $121.00\\,\\mathrm{m}$\n- b) $122.10\\,\\mathrm{m}$\n- c) $123.10\\,\\mathrm{m}$\n- d) $121.10\\,\\mathrm{m}$",
+          "structured_data": {},
+          "id": "03420f5f-b9cc-5e71-8b9d-6d1ba0a7fca3"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "প্রফেসর গতি",
+          "content_markdown": "94. প্রাসেস গতিপথের যে কোনো বিন্দুতে তুলনার অনুভূমিক উপাংশ— (সি. বো. ২০১৯; ঢ. বো. ২০১৮)\n- a) শূন্য\n- b) g\n- c) $\\frac{g}{2}$\n- d) -g",
+          "structured_data": {},
+          "id": "e27faed4-0c76-5b6b-857c-491a035a0443"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "প্রফেসর গতি",
+          "content_markdown": "95. অনুভূমিক বরাবর নিক্ষিপ্ত বস্তুর গতিপথ— (সি. বো. ২০১৬)\n- a) উপবৃত্তাকার\n- b) পরাবৃত্তাকার\n- c) বৃত্তাকার\n- d) সরলরেখিক",
+          "structured_data": {},
+          "id": "62611ab9-1459-5ecd-b866-1945dcf796ec"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "প্রফেসর গতি",
+          "content_markdown": "96. প্রাসেসের সর্বোচ্চ উচ্চতায় রাশিমালা— (সি. বো. ২০১৬)\n- a) $\\frac{2v_{o}\\sin \\theta_ {o}}{g}$\n- b) $\\frac{v_{o^{2}}\\sin^2\\theta }{2g}$\n- c) $\\frac{v_{o^{2}}\\sin 2\\theta }{2g}$\n- d) $\\frac{v_{o}\\sin 2\\theta }{2g}$",
+          "structured_data": {},
+          "id": "035e5d4d-fd66-5c84-99c1-e4fed715722f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q87.g",
+          "content_markdown": "একটি গাড়ি সরলরেখা বরাবর চলে। একটি বিন্দুকে $5\\,\\mathrm{ms}^{-1}$ বেগে অতিক্রম করার পর $2\\,\\mathrm{ms}^{-1}$ সূচয় তুলে চলে। $4\\,\\mathrm{sec}$ পর গাড়িটি কত দূরত্ব অতিক্রম করে?",
+          "structured_data": {
+            "question_number": "87.g",
+            "subtype": "mcq",
+            "stem": "একটি গাড়ি সরলরেখা বরাবর চলে। একটি বিন্দুকে $5\\,\\mathrm{ms}^{-1}$ বেগে অতিক্রম করার পর $2\\,\\mathrm{ms}^{-1}$ সূচয় তুলে চলে। $4\\,\\mathrm{sec}$ পর গাড়িটি কত দূরত্ব অতিক্রম করে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$41\\,\\mathrm{m}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$50\\,\\mathrm{m}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$36\\,\\mathrm{m}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "$70\\,\\mathrm{m}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) $36\\,\\mathrm{m}$",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1db5ecd4-f28a-5122-89e3-a057cf6d1b80"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q88.k",
+          "content_markdown": "$60\\,\\mathrm{kmlhr}^{-1}$ বেগে গতিশীল একটি গাড়ির তুলনা $2\\,\\mathrm{ms}^{-1}$ হারে বৃদ্ধি পায়ছে। কত সময় পর গাড়িটির বেগ $90\\,\\mathrm{kmlhr}^{-1}$ হবে?",
+          "structured_data": {
+            "question_number": "88.k",
+            "subtype": "mcq",
+            "stem": "$60\\,\\mathrm{kmlhr}^{-1}$ বেগে গতিশীল একটি গাড়ির তুলনা $2\\,\\mathrm{ms}^{-1}$ হারে বৃদ্ধি পায়ছে। কত সময় পর গাড়িটির বেগ $90\\,\\mathrm{kmlhr}^{-1}$ হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$2.5\\,\\mathrm{s}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$3.2\\,\\mathrm{s}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "$4.2\\,\\mathrm{s}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$5.8\\,\\mathrm{s}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b) $3.2\\,\\mathrm{s}$",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "02e21944-b6ba-57b7-90c0-23b5d08c2d76"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 12,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc7",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 67.91,
+        "eval_count": 2338
+      }
+    },
+    {
+      "page_number": 6,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [
+        "গতি ও শক্তি"
+      ],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান ১ম পত্র\n\n##### Q105\n**Type:** mcq\n**Stem:** প্রাণের গতিঘটনার সর্বোচ্চ উচ্চতা—(ঈ. বো. ২০১৯)\n**Options:** \n- a) বেগ শূন্য\n- b) ছৌড়িশক্ষি শূন্য\n- c) বেগ ও তুরণের ডট গুণফল শূন্য\n- d) বেগ ও তুরণের ক্রস গুণফল শূন্য\n**Answer:** - c)\n\n##### Q106\n**Type:** mcq\n**Stem:** তর্কভাবে প্রক্ষিপ্ত বক্তর গতি কীর্তন? (ঈ. বো. ২০১৯)\n**Options:** \n- a) একমাত্রিক অসমতুরণ সম্পন্ন\n- b) একমাত্রিক সমতুরণ সম্পন্ন\n- c) দিমাত্রিক অসমতুরণ সম্পন্ন\n- d) দিমাত্রিক সমতুরণ সম্পন্ন\n**Answer:** - a)\n\n##### Q107\n**Type:** mcq\n**Stem:** যদি কোণো প্রাণের সর্বাধিক অনুভূমিক পাঠা R হয় তবে তার আরোহিত সর্বোচ্চ উচ্চতা হবে-\n**Options:** \n- a) 4R\n- b) R/2\n- c) R/4\n- d) 2R\n**Answer:** - c)\n\n##### Q108\n**Type:** mcq\n**Stem:** একটি বক্তকে উল্লম্বভাবে $40 \\,\\mathrm{ms^{-1}}$ বেগে নিক্ষেপ করা হল এবং কিছু সময় পর বক্তি নিক্ষেপকারী কাছে ফিরে আসলো। বক্তির গড়বেগ কত?\n**Options:** \n- a) 0\n- b) $20 \\,\\mathrm{ms^{-1}}$\n- c) $40 \\,\\mathrm{ms^{-1}}$\n- d) $80 \\,\\mathrm{ms^{-1}}$\n**Answer:** - a)\n\n##### Q109\n**Type:** mcq\n**Stem:** প্রাণের তুরণকে কোনটি দ্বারা প্রকাশ করা হয়?\n**Options:** \n- a) $\\vec{\\mathbf{a}} = g\\hat{\\mathbf{i}}$\n- b) $\\vec{\\mathbf{a}} = -g\\hat{\\mathbf{i}}$\n- c) $\\vec{\\mathbf{a}} = -g\\hat{\\mathbf{j}}$\n- d) $\\vec{\\mathbf{a}} = -g\\hat{\\mathbf{k}}$\n**Answer:** - d)\n\n##### Q110\n**Type:** mcq\n**Stem:** কত কোণে নিক্ষেপ করলে একটি প্রাণের অনুভূমিক পাঠা তার সর্বোচ্চ উচ্চতায় সমান হবে?\n**Options:** \n- a) $45^{\\circ}$\n- b) $63^{\\circ}$\n- c) $70.5^{\\circ}$\n- d) $76^{\\circ}$\n**Answer:** - a)\n\n##### Q111\n**Type:** mcq\n**Stem:** কত ms${^{-1}}$ বেগে একটি বল উপরের দিকে নিক্ষেপ করলে বলটি 1s পর ভূমিতে ফিরে আসবে? [GST Admission 20-21]\n**Options:** \n- a) 2.45\n- b) 3.8\n- c) 4.9\n- d) 9.8\n**Answer:** - c)\n\n##### Q112\n**Type:** mcq\n**Stem:** অনুভূমিকের সাথে $45^{\\circ}$ কোণে একটি বক্তকে নিক্ষেপ করা হলো। বক্তির অনুভূমিক দূরত্ব হবে– [BUET 13-14]\n**Options:** \n- a) খাড়া উচ্চতা\n- b) খাড়া উচ্চতার দ্বিগুণ\n- c) খাড়া উচ্চতার তিনগুণ\n- d) খাড়া উচ্চতার চারগুণ\n**Answer:** - b)\n\n##### Q113\n**Type:** mcq\n**Stem:** একটি পথরকে $4.9\\,\\mathrm{m/s^{-1}}$ বেগে সোজা উপরের দিকে নিক্ষেপ করা হলো। কত সময় পর পাথরটি ভূমিতে ফিরে আসবে? [DU 16-17]\n**Options:** \n- a) 4.9s\n- b) 9.8s\n- c) 1s\n- d) 2s\n**Answer:** - b)\n\n##### Q114\n**Type:** mcq\n**Stem:** অনুভূমিকের সাথে কত কোণে নিক্ষেপ করলে এটি সর্বাধিক দূরত্ব অতিক্রম করবে? [CU 18-19]\n**Options:** \n- a) $45^{\\circ}$\n- b) $0^{\\circ}$\n- c) $90^{\\circ}$\n- d) $60^{\\circ}$\n**Answer:** - c)\n\n##### Q115\n**Type:** mcq\n**Stem:** একটি বক্তকে $196\\,\\mathrm{ms^{-1}}$ বেগে খাড়া ওপরের দিকে নিক্ষেপ করা হলো। 20s পরে বক্তির বেগ হবে--[ঈ. বো. 17]\n**Options:** \n- a) $10.0\\,\\mathrm{ms^{-1}}$\n- b) $0.0\\,\\mathrm{ms^{-1}}$\n- c) $50\\,\\mathrm{ms^{-1}}$\n- d) $60.0\\,\\mathrm{ms^{-1}}$\n**Answer:** - b)\n\n##### Q116\n**Type:** mcq\n**Stem:** $9.8\\,\\mathrm{ms^{-1}}$ বেগে খাড়া ওপরের দিকে একটি পাথরকে ছোঁড়া হলে, কত সেকেন্ড পর এটি ভূমিতে ফিরে আসবে? [ঈ. বো. ২০১৬]\n**Options:** \n- a) 1.98s\n- b) 2s\n- c) 4.9s\n- d) 1s\n**Answer:** - b)\n\n### Board Tags:\n- GST Admission 20-21\n- BUET 13-14\n- DU 16-17\n- CU 18-19",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q105",
+          "content_markdown": "প্রাণের গতিঘটনার সর্বোচ্চ উচ্চতা—(ঈ. বো. ২০১৯)",
+          "structured_data": {
+            "question_number": "105",
+            "subtype": "mcq",
+            "stem": "প্রাণের গতিঘটনার সর্বোচ্চ উচ্চতা—(ঈ. বো. ২০১৯)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বেগ শূন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ছৌড়িশক্ষি শূন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বেগ ও তুরণের ডট গুণফল শূন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বেগ ও তুরণের ক্রস গুণফল শূন্য",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "747d4219-cd11-5526-934a-1b0232992e35"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q106",
+          "content_markdown": "তর্কভাবে প্রক্ষিপ্ত বক্তর গতি কীর্তন? (ঈ. বো. ২০১৯)",
+          "structured_data": {
+            "question_number": "106",
+            "subtype": "mcq",
+            "stem": "তর্কভাবে প্রক্ষিপ্ত বক্তর গতি কীর্তন? (ঈ. বো. ২০১৯)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "একমাত্রিক অসমতুরণ সম্পন্ন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "একমাত্রিক সমতুরণ সম্পন্ন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "দিমাত্রিক অসমতুরণ সম্পন্ন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "দিমাত্রিক সমতুরণ সম্পন্ন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8a3254da-dfb1-5833-8b14-8fcab0e7125f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q107",
+          "content_markdown": "যদি কোণো প্রাণের সর্বাধিক অনুভূমিক পাঠা R হয় তবে তার আরোহিত সর্বোচ্চ উচ্চতা হবে-",
+          "structured_data": {
+            "question_number": "107",
+            "subtype": "mcq",
+            "stem": "যদি কোণো প্রাণের সর্বাধিক অনুভূমিক পাঠা R হয় তবে তার আরোহিত সর্বোচ্চ উচ্চতা হবে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "4R",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "R/2",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "R/4",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "2R",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2ad30eb5-747a-57e0-b148-5e048fa9bf74"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q108",
+          "content_markdown": "একটি বক্তকে উল্লম্বভাবে $40 \\,\\mathrm{ms^{-1}}$ বেগে নিক্ষেপ করা হল এবং কিছু সময় পর বক্তি নিক্ষেপকারী কাছে ফিরে আসলো। বক্তির গড়বেগ কত?",
+          "structured_data": {
+            "question_number": "108",
+            "subtype": "mcq",
+            "stem": "একটি বক্তকে উল্লম্বভাবে $40 \\,\\mathrm{ms^{-1}}$ বেগে নিক্ষেপ করা হল এবং কিছু সময় পর বক্তি নিক্ষেপকারী কাছে ফিরে আসলো। বক্তির গড়বেগ কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "0",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$20 \\,\\mathrm{ms^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$40 \\,\\mathrm{ms^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$80 \\,\\mathrm{ms^{-1}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4a7d1c9e-9854-5a6f-a504-8f41595f7802"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q109",
+          "content_markdown": "প্রাণের তুরণকে কোনটি দ্বারা প্রকাশ করা হয়?",
+          "structured_data": {
+            "question_number": "109",
+            "subtype": "mcq",
+            "stem": "প্রাণের তুরণকে কোনটি দ্বারা প্রকাশ করা হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\vec{\\mathbf{a}} = g\\hat{\\mathbf{i}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\vec{\\mathbf{a}} = -g\\hat{\\mathbf{i}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\vec{\\mathbf{a}} = -g\\hat{\\mathbf{j}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\vec{\\mathbf{a}} = -g\\hat{\\mathbf{k}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- d)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1f64789f-db0c-505d-a00e-bf3caa318299"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q110",
+          "content_markdown": "কত কোণে নিক্ষেপ করলে একটি প্রাণের অনুভূমিক পাঠা তার সর্বোচ্চ উচ্চতায় সমান হবে?",
+          "structured_data": {
+            "question_number": "110",
+            "subtype": "mcq",
+            "stem": "কত কোণে নিক্ষেপ করলে একটি প্রাণের অনুভূমিক পাঠা তার সর্বোচ্চ উচ্চতায় সমান হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$45^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$63^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$70.5^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$76^{\\circ}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7c0b4ea2-944e-5ad6-bc95-f0f8f4d835df"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q111",
+          "content_markdown": "কত ms${^{-1}}$ বেগে একটি বল উপরের দিকে নিক্ষেপ করলে বলটি 1s পর ভূমিতে ফিরে আসবে? [GST Admission 20-21]",
+          "structured_data": {
+            "question_number": "111",
+            "subtype": "mcq",
+            "stem": "কত ms${^{-1}}$ বেগে একটি বল উপরের দিকে নিক্ষেপ করলে বলটি 1s পর ভূমিতে ফিরে আসবে? [GST Admission 20-21]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "2.45",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "3.8",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "4.9",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "9.8",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2bcbb007-51e9-5739-9b23-9538e2a01f0b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q112",
+          "content_markdown": "অনুভূমিকের সাথে $45^{\\circ}$ কোণে একটি বক্তকে নিক্ষেপ করা হলো। বক্তির অনুভূমিক দূরত্ব হবে– [BUET 13-14]",
+          "structured_data": {
+            "question_number": "112",
+            "subtype": "mcq",
+            "stem": "অনুভূমিকের সাথে $45^{\\circ}$ কোণে একটি বক্তকে নিক্ষেপ করা হলো। বক্তির অনুভূমিক দূরত্ব হবে– [BUET 13-14]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "খাড়া উচ্চতা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "খাড়া উচ্চতার দ্বিগুণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "খাড়া উচ্চতার তিনগুণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "খাড়া উচ্চতার চারগুণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8ccc7d49-85ed-5e0b-9df8-f1eb7e833d59"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q113",
+          "content_markdown": "একটি পথরকে $4.9\\,\\mathrm{m/s^{-1}}$ বেগে সোজা উপরের দিকে নিক্ষেপ করা হলো। কত সময় পর পাথরটি ভূমিতে ফিরে আসবে? [DU 16-17]",
+          "structured_data": {
+            "question_number": "113",
+            "subtype": "mcq",
+            "stem": "একটি পথরকে $4.9\\,\\mathrm{m/s^{-1}}$ বেগে সোজা উপরের দিকে নিক্ষেপ করা হলো। কত সময় পর পাথরটি ভূমিতে ফিরে আসবে? [DU 16-17]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "4.9s",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "9.8s",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "1s",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "2s",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "43bda756-9f79-53ae-a316-24c7755e009c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q114",
+          "content_markdown": "অনুভূমিকের সাথে কত কোণে নিক্ষেপ করলে এটি সর্বাধিক দূরত্ব অতিক্রম করবে? [CU 18-19]",
+          "structured_data": {
+            "question_number": "114",
+            "subtype": "mcq",
+            "stem": "অনুভূমিকের সাথে কত কোণে নিক্ষেপ করলে এটি সর্বাধিক দূরত্ব অতিক্রম করবে? [CU 18-19]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$45^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$0^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$90^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$60^{\\circ}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4b0b8cf7-dc35-541c-82d1-e1da45d9e942"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q115",
+          "content_markdown": "একটি বক্তকে $196\\,\\mathrm{ms^{-1}}$ বেগে খাড়া ওপরের দিকে নিক্ষেপ করা হলো। 20s পরে বক্তির বেগ হবে--[ঈ. বো. 17]",
+          "structured_data": {
+            "question_number": "115",
+            "subtype": "mcq",
+            "stem": "একটি বক্তকে $196\\,\\mathrm{ms^{-1}}$ বেগে খাড়া ওপরের দিকে নিক্ষেপ করা হলো। 20s পরে বক্তির বেগ হবে--[ঈ. বো. 17]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$10.0\\,\\mathrm{ms^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$0.0\\,\\mathrm{ms^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$50\\,\\mathrm{ms^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$60.0\\,\\mathrm{ms^{-1}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2c3d4975-335e-5f28-a6a3-9e63a390d6c2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q116",
+          "content_markdown": "$9.8\\,\\mathrm{ms^{-1}}$ বেগে খাড়া ওপরের দিকে একটি পাথরকে ছোঁড়া হলে, কত সেকেন্ড পর এটি ভূমিতে ফিরে আসবে? [ঈ. বো. ২০১৬]",
+          "structured_data": {
+            "question_number": "116",
+            "subtype": "mcq",
+            "stem": "$9.8\\,\\mathrm{ms^{-1}}$ বেগে খাড়া ওপরের দিকে একটি পাথরকে ছোঁড়া হলে, কত সেকেন্ড পর এটি ভূমিতে ফিরে আসবে? [ঈ. বো. ২০১৬]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1.98s",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2s",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "4.9s",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "1s",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b)\n\n### Board Tags:\n- GST Admission 20-21\n- BUET 13-14\n- DU 16-17\n- CU 18-19",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8286df79-e51d-5c62-a34e-638f77ab1ff0"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 12,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 99.66,
+        "eval_count": 2211
+      }
+    }
+  ]
+}

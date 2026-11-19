@@ -1,0 +1,1519 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "1QL5pPdyt3lyA5YtZr4EPxPIKLxS6U_O_",
+    "collection": "main_book_11_12",
+    "subject": "biology",
+    "edition": "2023",
+    "priority_score": 2023093,
+    "path_parts": [
+      "1. মুল বই সকল লেখক(একাদশ-দ্বাদশ)",
+      "1. সংস্করন-২০২৩(সেপ্টেম্বর)",
+      "জীববিজ্ঞান",
+      "আলীম স্যার - প্রথম পত্র",
+      "B-1.6 ব্রায়োফাইটা ও টেরিডোফাইটা.pdf"
+    ],
+    "filename": "B-1.6 ব্রায়োফাইটা ও টেরিডোফাইটা.pdf",
+    "sha256": "9f219f53aa270c13bdb8d48ab1b99f54b6944d52379c6d6abd14dd721bc47fac",
+    "total_pages": 16,
+    "parsed_pages": 16,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 124,
+    "block_counts_by_type": {
+      "concept_prose": 113,
+      "table": 6,
+      "diagram": 2,
+      "written_item": 3
+    },
+    "total_figures": 2
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### অধ্যায় ৬\n\nব্রায়োফাইটা ও টেরিডোফাইটা  \nBRYOPHYTA AND PTERIDOPHYTA  \n\nবড়িয়ে আনতে কানাচে, ভেজা স্থাতস্যাতে জায়গায় কিংবা পুরানো দলালনের প্রাচীরে অম্বে অবহেলায় আমরা কিছু উদ্ধিঃ জন্মাতে দেখি। এগুলো অতি আদি প্রকৃতির উদ্ভিদ। এদের অনেকে কাণ্ঠের মতো মৌলায়ম অবস্থা সৃষ্টি করে। অনেকগুলো আবার টেক্স শাক হিসেবে পরিচিত। প্রকৃতপক্ষে এগুলো ব্রায়োফাইট ও টেরিডোফাইট জাতীয় উদ্ভিদ যেগুলোর শ্রেণিতাত্ত্বিক অনেক গুরুত্ব রয়েছে। ব্রায়োফাইটদের মস ও টেরিডোফাইদের ফার্ন উদ্ভিদ হিসেবে পরিচিত করা হয়। মস পৃথিবীর প্রথম ছলজ উদ্ভিদ যেগুলো শৈবাল থেকে বিকশিত হয়েছিল। ফার্ন পৃথিবীর আদিমতম উদ্ভিদ যাদের কিছু প্রজাতি গত দশ মিলিয়ন বছর যাবৎ অপরিবর্তিত অবস্থায় টিকে আছে। এ অধ্যায়ে ব্রায়োফাইট ও টেরিডোফাইট সম্পর্কে বর্ণনা করা হয়েছে।\n\n| পরিয়েড সংখ্যা ৮: এ অধ্যায় পাঠ শেষে শিক্ষার্থী যা পারবে |\n| --- |\n| শিখনফল | বিষয়বস্তু |\n| ১। ব্রায়োফাইটার বৈশিষ্ট্য বর্ণনা করতে পারবে।<br> ২। Riccia এর আবাস, গঠন ও শনাক্তকারী বৈশিষ্ট্য বর্ণনা করতে পারবে।<br> ৩। টেরিডোফাইটার বৈশিষ্ট্য বর্ণনা করতে পারবে।<br> ৪। Pteris এর আবাস, গঠন ও জনুক্রম বর্ণনা করতে পারবে।<br> ৫। ব্যবহারিক: Pteris এর স্পোরোফাইট শনাক্ত করতে পারবে। | \n| - ব্রায়োফাইট: Riccia এর-\n○ আবাস ○ গঠন<br>○ শনাক্তকারী বৈশিষ্ট্য\n- টেরিডোফাইট: Pteris এর-\n○ আবাস ○ গঠন ○ জনুক্রম\n- ব্যবহারিক\n○ Pteris এর স্পোরোফাইট পর্যবেক্ষণ |\n\n### ৬.১ ব্রায়োফাইটা বা মসবর্গীয় উদ্ভিদ \n\n(Bryophyta; ছিক Bryon = মস, Phyton= উদ্ভিদ)\n\nব্রায়োফাইটা সমাজবীমী (থ্যালোফাইট) অপুষ্প উদ্ভিদের একটি বিভাগ যাদের মূলের পরিবর্তে রাইজয়েড থাকে, সুসংযুক্ত পরিবহন কলা থাকে না এবং যারা মস, লিভারওয়ার্ট ও হর্নওয়ার্ট ইত্যাদি নামে পরিচিত। পৃথিবীতে এ বিভাগের প্রায় ২৪,০০০ প্রজাতি রয়েছে যাদের ২৪৪টি প্রজাতি বাংলাদেশে শনাক্ত করা হয়েছে। এগুলো উদ্ভিদজগতের প্রথম ছলজ উদ্ভিদ এবং ছলজ উদ্ভিদের মধ্যে আকারে সর্বাপেক্ষা ক্ষুদ্র। অন্যান্য ভাঙ্কুলার উদ্ভিদ থেকে এদের মূল পার্থক্য হলো এদের দেহে কোনো পানি পরিবহনকারী জাইলেম ট্রাকিড বা ডেঙ্গেল থাকে না। এগুলো বর্ষাকালে আর্দ্র ও ভেজা স্থাতস্যাতে ছায়াময় পরিবেশে দলবদ্ধ হয়ে জন্মায়। ছলে জন্মালেও পানি ছাড়া এদের জনন, বৃদ্ধি ও বিকাশ ঘটে না। এদের যৌন জনন পানির উপর নির্ভরশীল। এদের নিষেক ক্রিয়া পানিতে সম্পন্ন হয়। এছাড়া দৈহিক গঠনে জলজ উদ্ভিদের ন্যায় বায়ুরঞ্জ থাকে। এজন্য এদের উভচর উদ্ভিদ (amphibian plant) বলা হয়। বিজ্ঞানী ব্রাউন (Braun) 1864 সালে ব্রায়োফাইটা নামটি ব্যবহার করেন।",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "অধ্যায় ৬",
+          "content_markdown": "ব্রায়োফাইটা ও টেরিডোফাইটা  \nBRYOPHYTA AND PTERIDOPHYTA",
+          "structured_data": {},
+          "id": "7914549f-8ff2-52d1-b619-3d99522a18b0"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "অধ্যায় ৬",
+          "content_markdown": "বড়িয়ে আনতে কানাচে, ভেজা স্থাতস্যাতে জায়গায় কিংবা পুরানো দলালনের প্রাচীরে অম্বে অবহেলায় আমরা কিছু উদ্ধিঃ জন্মাতে দেখি। এগুলো অতি আদি প্রকৃতির উদ্ভিদ। এদের অনেকে কাণ্ঠের মতো মৌলায়ম অবস্থা সৃষ্টি করে। অনেকগুলো আবার টেক্স শাক হিসেবে পরিচিত। প্রকৃতপক্ষে এগুলো ব্রায়োফাইট ও টেরিডোফাইট জাতীয় উদ্ভিদ যেগুলোর শ্রেণিতাত্ত্বিক অনেক গুরুত্ব রয়েছে। ব্রায়োফাইটদের মস ও টেরিডোফাইদের ফার্ন উদ্ভিদ হিসেবে পরিচিত করা হয়। মস পৃথিবীর প্রথম ছলজ উদ্ভিদ যেগুলো শৈবাল থেকে বিকশিত হয়েছিল। ফার্ন পৃথিবীর আদিমতম উদ্ভিদ যাদের কিছু প্রজাতি গত দশ মিলিয়ন বছর যাবৎ অপরিবর্তিত অবস্থায় টিকে আছে। এ অধ্যায়ে ব্রায়োফাইট ও টেরিডোফাইট সম্পর্কে বর্ণনা করা হয়েছে।",
+          "structured_data": {},
+          "id": "c46942a5-f358-5667-9974-41ea5c58a5c2"
+        },
+        {
+          "block_type": "table",
+          "title": "অধ্যায় ৬",
+          "content_markdown": "| পরিয়েড সংখ্যা ৮: এ অধ্যায় পাঠ শেষে শিক্ষার্থী যা পারবে |\n| --- |\n| শিখনফল | বিষয়বস্তু |\n| ১। ব্রায়োফাইটার বৈশিষ্ট্য বর্ণনা করতে পারবে।<br> ২। Riccia এর আবাস, গঠন ও শনাক্তকারী বৈশিষ্ট্য বর্ণনা করতে পারবে।<br> ৩। টেরিডোফাইটার বৈশিষ্ট্য বর্ণনা করতে পারবে।<br> ৪। Pteris এর আবাস, গঠন ও জনুক্রম বর্ণনা করতে পারবে।<br> ৫। ব্যবহারিক: Pteris এর স্পোরোফাইট শনাক্ত করতে পারবে। | \n| - ব্রায়োফাইট: Riccia এর-",
+          "structured_data": {
+            "headers": [
+              "পরিয়েড সংখ্যা ৮: এ অধ্যায় পাঠ শেষে শিক্ষার্থী যা পারবে"
+            ],
+            "rows": [
+              [
+                "শিখনফল",
+                "বিষয়বস্তু"
+              ],
+              [
+                "১। ব্রায়োফাইটার বৈশিষ্ট্য বর্ণনা করতে পারবে।<br> ২। Riccia এর আবাস, গঠন ও শনাক্তকারী বৈশিষ্ট্য বর্ণনা করতে পারবে।<br> ৩। টেরিডোফাইটার বৈশিষ্ট্য বর্ণনা করতে পারবে।<br> ৪। Pteris এর আবাস, গঠন ও জনুক্রম বর্ণনা করতে পারবে।<br> ৫। ব্যবহারিক: Pteris এর স্পোরোফাইট শনাক্ত করতে পারবে।"
+              ],
+              [
+                "- ব্রায়োফাইট: Riccia এর-"
+              ]
+            ]
+          },
+          "id": "d83bb9b0-cb4e-569a-af1a-24751070cbc1"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "অধ্যায় ৬",
+          "content_markdown": "○ আবাস ○ গঠন<br>○ শনাক্তকারী বৈশিষ্ট্য\n- টেরিডোফাইট: Pteris এর-\n○ আবাস ○ গঠন ○ জনুক্রম\n- ব্যবহারিক\n○ Pteris এর স্পোরোফাইট পর্যবেক্ষণ |",
+          "structured_data": {},
+          "id": "57160ba5-b772-5ab6-b52b-68b563f57de2"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৬.১ ব্রায়োফাইটা বা মসবর্গীয় উদ্ভিদ",
+          "content_markdown": "(Bryophyta; ছিক Bryon = মস, Phyton= উদ্ভিদ)",
+          "structured_data": {},
+          "id": "5fe876b3-8b8b-56dc-a76b-350e61afd731"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৬.১ ব্রায়োফাইটা বা মসবর্গীয় উদ্ভিদ",
+          "content_markdown": "ব্রায়োফাইটা সমাজবীমী (থ্যালোফাইট) অপুষ্প উদ্ভিদের একটি বিভাগ যাদের মূলের পরিবর্তে রাইজয়েড থাকে, সুসংযুক্ত পরিবহন কলা থাকে না এবং যারা মস, লিভারওয়ার্ট ও হর্নওয়ার্ট ইত্যাদি নামে পরিচিত। পৃথিবীতে এ বিভাগের প্রায় ২৪,০০০ প্রজাতি রয়েছে যাদের ২৪৪টি প্রজাতি বাংলাদেশে শনাক্ত করা হয়েছে। এগুলো উদ্ভিদজগতের প্রথম ছলজ উদ্ভিদ এবং ছলজ উদ্ভিদের মধ্যে আকারে সর্বাপেক্ষা ক্ষুদ্র। অন্যান্য ভাঙ্কুলার উদ্ভিদ থেকে এদের মূল পার্থক্য হলো এদের দেহে কোনো পানি পরিবহনকারী জাইলেম ট্রাকিড বা ডেঙ্গেল থাকে না। এগুলো বর্ষাকালে আর্দ্র ও ভেজা স্থাতস্যাতে ছায়াময় পরিবেশে দলবদ্ধ হয়ে জন্মায়। ছলে জন্মালেও পানি ছাড়া এদের জনন, বৃদ্ধি ও বিকাশ ঘটে না। এদের যৌন জনন পানির উপর নির্ভরশীল। এদের নিষেক ক্রিয়া পানিতে সম্পন্ন হয়। এছাড়া দৈহিক গঠনে জলজ উদ্ভিদের ন্যায় বায়ুরঞ্জ থাকে। এজন্য এদের উভচর উদ্ভিদ (amphibian plant) বলা হয়। বিজ্ঞানী ব্রাউন (Braun) 1864 সালে ব্রায়োফাইটা নামটি ব্যবহার করেন।",
+          "structured_data": {},
+          "id": "657ccf05-5ce9-5b3f-9353-3ea5f83e9fb0"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 6,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1_a4000",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 122.81,
+        "eval_count": 2257
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### ব্রায়োফাইটদের মস উডিদের গুরুত্ব\n\nব্রায়োফাইটদের বাস্তবাভিক অনেক গুরুত্ব রয়েছে। কোনো ছানের বাস্তবাভিক ক্রমগমণের গুরূত্ব এগুলো চরম তাৎপর্যপূর্ণ উভিদ। এরা জলধার পাড়ের ভূমিক্ষয় রোধে, গ্রীষ্মমণ্ডলীয় বনের পৃষ্ঠ চক্রে এবং মেরু অঞ্চলের মাটির পারমাফস্ট (permafrost) স্থরের আবরণ সৃষ্টিতে গুরুত্পূর্ণ ভূমিকা পালন করে। অধিকাংশ মস উডিদের প্রভাক কোনো অর্থনৈতিক গুরুত্ব নেই এবং এদের কৌন প্রজাতির উডিদ মানুষের খাদ্য হিসেবে ব্যবহৃত হয় না। পিট মস (peat moss) অর্থনৈতিকভাবে সবচেয়ে গুরুত্পূর্ণ। মস ও লাইকেনের বিশ্বাতির পরিবর্তন পরিবেশ দূষণের প্রাথমিক সংকেত প্রদান করে।\n\n### ব্রায়োফাইটের বৈশিষ্ট্য\n\n1. ব্রায়োফাইট বহুকোষী উডিদ; এরা অপৃষ্পক ও অবীজী অর্ধাঙ্গ এদের ফুল, ফল ও বীজ হয় না।\n2. এদের প্রধান উডিদ লিঙ্ঘার বা গ্যামিটোফাইটিক (gametophytic-n); এগুলো সবুজ বর্ণের এবং স্বত্ব ও স্বভাবী।\n3. এদের লিঙ্ঘার উডিদের দেহ বিষমপৃষ্ঠীয় থ্যালাস (thallus) অর্ধাঙ্গ মূল, কাও ও পাতায় বিভেদিত থাকে না। উচ্চতর ব্রায়োফাইটার ক্ষেত্রে মূলদেহ কাওগের ন্যায় কলয়েড (colloid) ও পাতার ন্যায় ফাইলয়েড (phylloid) বিভক্ত থাকে।\n4. এদের দেহে মূল সম্পূর্ণরূপে অনুপস্থিত, তবে উডিদদেহে রাইজয়েড (rhizoid) নামক অসংখ্য এককোষী এবং অনেকসংখ্যে বহুকোষী রোম বা শঙ্ক (scale) থাকে যেগুলো মূলের ন্যায় কাজ করে।\n5. এদের লিঙ্ঘার বা রেণুধর (sporophytic) উভয় উডিদেই জাইলেম-ফ্লোয়েম গঠিত কোনো পরিবহন টিস্যু অনুপস্থিত। দেহ প্যারেনকাইমা টিস্যু দিয়ে গঠিত।\n6. এরা অঙ্গজ এবং যৌন উভয় পদ্ধতিতে বংশবৃদ্ধি করে। এদের লিঙ্ঘার উডিদ ফ্রাগমেন্টেশন (fragmentation), গেম্মা (gemmae), টিউবার (tubers), প্রোটোনেমা (protonema) এবং বুলবিল (bulbils) সৃষ্টির মাধ্যমে অঙ্গজ জনন ঘটায়।\n7. এদের যৌন জননাঙ্গ জটিল ও বহুকোষী। পুঞ্জন অঙ্গকে অ্যাথেরিডিয়াম (antheridium) এবং স্ত্রী জনন অঙ্গকে আর্কিগোনিয়াম (archegonium) বলে। প্রতিটি জননাঙ্গ বন্ধ্যাকোথের একত্র বিশিষ্ট আবরণী দ্বারা আবৃত থাকে।\n8. ব্রায়োফাইটার যৌন জনন ঊওগামাস (oogamous) প্রকৃতির এবং উহা দুটি অসম আকৃতির গ্যামিটের নিয়েকের ফলে সম্পন্ন হয়। এদের পুংগ্যামিট বা গুঢ়াগুলো কুদ্র ও সচল এবং স্ত্রীগ্যামিট বা ডিখাগুলো বৃহদাকার ও নিশ্চল প্রকৃতির।\n9. এদের নিষেকের জন্য পানি অপরিহার্য; নিষেকে সৃষ্ট ডিপ্লয়েড ডিমাণু বা উওস্পোর থেকে জন্মের পরিস্ফুটণ ঘটে।\n10. ব্রায়োফাইটার জন্য বহুকোষী, জন্মের পরিস্ফুটণ স্ত্রীধানীর ভোটারে সম্পন্ন হয়।\n11. ব্রায়োফাইটার রেণুধর বা স্পোরোফাইট উডিদ খুবই সরল এবং উহা একটি স্পোর থলি নিয়ে গঠিত যা মূল, কাও ও পাতায় বিভক্ত থাকে না।\n12. স্পোরোফাইট উডিদ থেকে সম আকার-আকৃতি বিশিষ্ট স্পোর সৃষ্টি হয় অর্ধাঙ্গ এরা হোমোস্পোরাস (homosporus)।\n13. এদের স্পোর অন্ধকৃত হয়ে সরাসরি থ্যালাস বা প্রোটোনেমা গঠন করে।\n14. ব্রায়োফাইটার জীবন ইতিহাসে নিশ্চিষ্ট, সূচ্ছিষ্ট এবং নিয়মিত অসম আকৃতির জনুঞ্চ্ছন্ন (alternation of generation) বিদ্যমান। এদের লিঙ্ঘার বা গ্যামিটোফাইট উডিদ হ্যাপুয়েড (n) এবং রেণুধর বা স্পোরোফাইটিক উডিদ ডিপ্লয়েড (2n) প্রকৃতির হয়ে থাকে।",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "ব্রায়োফাইটদের মস উডিদের গুরুত্ব",
+          "content_markdown": "ব্রায়োফাইটদের বাস্তবাভিক অনেক গুরুত্ব রয়েছে। কোনো ছানের বাস্তবাভিক ক্রমগমণের গুরূত্ব এগুলো চরম তাৎপর্যপূর্ণ উভিদ। এরা জলধার পাড়ের ভূমিক্ষয় রোধে, গ্রীষ্মমণ্ডলীয় বনের পৃষ্ঠ চক্রে এবং মেরু অঞ্চলের মাটির পারমাফস্ট (permafrost) স্থরের আবরণ সৃষ্টিতে গুরুত্পূর্ণ ভূমিকা পালন করে। অধিকাংশ মস উডিদের প্রভাক কোনো অর্থনৈতিক গুরুত্ব নেই এবং এদের কৌন প্রজাতির উডিদ মানুষের খাদ্য হিসেবে ব্যবহৃত হয় না। পিট মস (peat moss) অর্থনৈতিকভাবে সবচেয়ে গুরুত্পূর্ণ। মস ও লাইকেনের বিশ্বাতির পরিবর্তন পরিবেশ দূষণের প্রাথমিক সংকেত প্রদান করে।",
+          "structured_data": {},
+          "id": "b89ffd38-16d1-547c-9e9f-7289dde0e69e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ব্রায়োফাইটের বৈশিষ্ট্য",
+          "content_markdown": "1. ব্রায়োফাইট বহুকোষী উডিদ; এরা অপৃষ্পক ও অবীজী অর্ধাঙ্গ এদের ফুল, ফল ও বীজ হয় না।\n2. এদের প্রধান উডিদ লিঙ্ঘার বা গ্যামিটোফাইটিক (gametophytic-n); এগুলো সবুজ বর্ণের এবং স্বত্ব ও স্বভাবী।\n3. এদের লিঙ্ঘার উডিদের দেহ বিষমপৃষ্ঠীয় থ্যালাস (thallus) অর্ধাঙ্গ মূল, কাও ও পাতায় বিভেদিত থাকে না। উচ্চতর ব্রায়োফাইটার ক্ষেত্রে মূলদেহ কাওগের ন্যায় কলয়েড (colloid) ও পাতার ন্যায় ফাইলয়েড (phylloid) বিভক্ত থাকে।\n4. এদের দেহে মূল সম্পূর্ণরূপে অনুপস্থিত, তবে উডিদদেহে রাইজয়েড (rhizoid) নামক অসংখ্য এককোষী এবং অনেকসংখ্যে বহুকোষী রোম বা শঙ্ক (scale) থাকে যেগুলো মূলের ন্যায় কাজ করে।\n5. এদের লিঙ্ঘার বা রেণুধর (sporophytic) উভয় উডিদেই জাইলেম-ফ্লোয়েম গঠিত কোনো পরিবহন টিস্যু অনুপস্থিত। দেহ প্যারেনকাইমা টিস্যু দিয়ে গঠিত।\n6. এরা অঙ্গজ এবং যৌন উভয় পদ্ধতিতে বংশবৃদ্ধি করে। এদের লিঙ্ঘার উডিদ ফ্রাগমেন্টেশন (fragmentation), গেম্মা (gemmae), টিউবার (tubers), প্রোটোনেমা (protonema) এবং বুলবিল (bulbils) সৃষ্টির মাধ্যমে অঙ্গজ জনন ঘটায়।\n7. এদের যৌন জননাঙ্গ জটিল ও বহুকোষী। পুঞ্জন অঙ্গকে অ্যাথেরিডিয়াম (antheridium) এবং স্ত্রী জনন অঙ্গকে আর্কিগোনিয়াম (archegonium) বলে। প্রতিটি জননাঙ্গ বন্ধ্যাকোথের একত্র বিশিষ্ট আবরণী দ্বারা আবৃত থাকে।\n8. ব্রায়োফাইটার যৌন জনন ঊওগামাস (oogamous) প্রকৃতির এবং উহা দুটি অসম আকৃতির গ্যামিটের নিয়েকের ফলে সম্পন্ন হয়। এদের পুংগ্যামিট বা গুঢ়াগুলো কুদ্র ও সচল এবং স্ত্রীগ্যামিট বা ডিখাগুলো বৃহদাকার ও নিশ্চল প্রকৃতির।\n9. এদের নিষেকের জন্য পানি অপরিহার্য; নিষেকে সৃষ্ট ডিপ্লয়েড ডিমাণু বা উওস্পোর থেকে জন্মের পরিস্ফুটণ ঘটে।\n10. ব্রায়োফাইটার জন্য বহুকোষী, জন্মের পরিস্ফুটণ স্ত্রীধানীর ভোটারে সম্পন্ন হয়।\n11. ব্রায়োফাইটার রেণুধর বা স্পোরোফাইট উডিদ খুবই সরল এবং উহা একটি স্পোর থলি নিয়ে গঠিত যা মূল, কাও ও পাতায় বিভক্ত থাকে না।\n12. স্পোরোফাইট উডিদ থেকে সম আকার-আকৃতি বিশিষ্ট স্পোর সৃষ্টি হয় অর্ধাঙ্গ এরা হোমোস্পোরাস (homosporus)।\n13. এদের স্পোর অন্ধকৃত হয়ে সরাসরি থ্যালাস বা প্রোটোনেমা গঠন করে।\n14. ব্রায়োফাইটার জীবন ইতিহাসে নিশ্চিষ্ট, সূচ্ছিষ্ট এবং নিয়মিত অসম আকৃতির জনুঞ্চ্ছন্ন (alternation of generation) বিদ্যমান। এদের লিঙ্ঘার বা গ্যামিটোফাইট উডিদ হ্যাপুয়েড (n) এবং রেণুধর বা স্পোরোফাইটিক উডিদ ডিপ্লয়েড (2n) প্রকৃতির হয়ে থাকে।",
+          "structured_data": {},
+          "id": "b12577ea-eb9d-528f-b14a-d7d290f0af00"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 2,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1_a4000",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 59.08,
+        "eval_count": 2710
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "জীববিজ্ঞান প্রথম পত্র\n\n### ব্রয়োফাইটা ও টেরিডোফাইটা\n\n**১৫।** ব্রয়োফাইটার নিষঙ্খর বা গ্যামি-টোফাইট উড্ডিদি বৃহদাকৃতির, প্রধান এবং দীর্ঘছায়ী। কিন্তু এদের রেণুধর বা স্পোরোফাইটিক উড্ডিদি ক্ষুদ্র, গৌণ, ক্ষণচ্ছায়ী এবং লিঙ্গধর উড্ডিদের উপর নির্ভরশীল। এদের দুটি জন্মু দুটি উড্ডিদি অসমান্তরিকভাবে ভিন্ন আকৃতির হওয়ায় এদের জন্মক্রমকে অসমান্তরিক বা হেটারোমরফিক (heteromorphic) বলে।\n\n**১৬।** ব্রয়োফাইটদের অধিকাংশই ড্রুলজ এবং ভেজা স্থানস্থানে ও ছায়াময় ছানে জন্মাতে পছন্দ করে।\n\n### মস বৈচিত্র্য\n\nব্রয়োফাইটা বিভাগের উড্ডিদের তিনটি শ্রেণিতে বিন্যস্ত করা হয়েছে। এদেরকে বিভিন্ন নামে ডাকা হয়, যেমন—\n\n#### লিভারওয়ার্ট (Liverwort: Class-Hepaticae)\n\n- যেসব মসের লিঙ্গধর উড্ডিদের দৈহিক গঠন যুক্ত আকৃতির (liver-shaped) পাতার মতো তাদের লিভারওয়ার্ট (liverwatt) বা লিভার প্লাণ্ট (liver plant) বলে।\n- পৃথিবীর সর্বত্র বিস্তৃত সকল ধরনের আর্দ্র বাসস্থানে এদের প্রায় 6000 প্রজাতি রয়েছে। এদেরকে মেরু অঞ্চল ও মরুভূমিতেও পাওয়া যায়।\n- এগুলো সাধারণত ছোট প্রকৃতির উড্ডিদ এবং একটি স্বত্র উড্ডিদ 2–20 মিলিমিটার প্রশস্ত ও 10 সেন্টিমিটারের কম দৈর্ঘ্য বিশিষ্ট হয়।\n- এদের অনেক প্রজাতির উড্ডিদ এমনভাবে জন্মায় যা বৃষৎ ভৃ-খণ্ড, পাথর, বৃক্ষ কিংবা অন্য কোনো শক্ত ছান্ন বস্তুকে আবৃত করে রাখে।\n- লিভারওয়ার্টের উল্লেখযোগ্য উদাহরণ হলো: Riccia, Marchantia, Asterella, Ricciocarpus ইত্যাদি।\n\n![Riccia](https://example.com/image/Riccia.png)\n![Marchantia](https://example.com/image/Marchantia.png)\n![Asterella](https://example.com/image/Asterella.png)\n![Polytrichum](https://example.com/image/Polytrichum.png)\n\n### হর্নওয়ার্ট (Hornworts: Class-Anthocerotae)\n\n- যেসব মসের রেণুধর উড্ডিদের গঠন শিশু আকৃতির (horn-like) তাদের হর্নওয়ার্ট বলে।\n- পৃথিবীর সর্বত্র বিস্তৃত সকল ধরনের আর্দ্র বাসস্থানে এদের প্রায় 300 প্রজাতি রয়েছে।\n- এদের প্রধান উড্ডিদ লিঙ্গধর, সবুজ বর্ণের চ্যাপ্টা গঠন বিশিষ্ট হয়ে থাকে।\n- হর্নওয়ার্টের উল্লেখযোগ্য উদাহরণ হলো: Anthoceros, Folioceros, Notothylas, Dendroceros ইত্যাদি।\n\n### প্রকৃত মস (True moss: Class-Bryopsida)\n\n- প্রকৃত মস উড্ডিদ Bryopsida শ্রেণির অন্তর্ভুক্ত যারা মস উড্ডিদের 95% প্রজাতি গঠন করে।\n- পৃথিবীর সর্বত্র বিস্তৃত সকল ধরনের আর্দ্র বাসস্থানে এদের প্রায় 12000 প্রজাতি রয়েছে।\n- এদের বিশেষ বৈশিষ্ট্য হলো রেণুধর উড্ডিদের ক্যাপসুলের মুখে একটি দাঁতসমূহ আঁটির মতো গঠন peristome (peristome) বিদ্যমান থাকে।\n- প্রকৃত মসের উল্লেখযোগ্য উদাহরণ হলো: Semibarbula, Sphagnum, Polytrichum, Funaria ইত্যাদি।",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "জীববিজ্ঞান প্রথম পত্র",
+          "structured_data": {},
+          "id": "0881e3e5-6ce4-5136-8d95-5fab051ef92a"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ব্রয়োফাইটা ও টেরিডোফাইটা",
+          "content_markdown": "**১৫।** ব্রয়োফাইটার নিষঙ্খর বা গ্যামি-টোফাইট উড্ডিদি বৃহদাকৃতির, প্রধান এবং দীর্ঘছায়ী। কিন্তু এদের রেণুধর বা স্পোরোফাইটিক উড্ডিদি ক্ষুদ্র, গৌণ, ক্ষণচ্ছায়ী এবং লিঙ্গধর উড্ডিদের উপর নির্ভরশীল। এদের দুটি জন্মু দুটি উড্ডিদি অসমান্তরিকভাবে ভিন্ন আকৃতির হওয়ায় এদের জন্মক্রমকে অসমান্তরিক বা হেটারোমরফিক (heteromorphic) বলে।",
+          "structured_data": {},
+          "id": "8a61c284-f97a-52af-8108-8c170467397b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ব্রয়োফাইটা ও টেরিডোফাইটা",
+          "content_markdown": "**১৬।** ব্রয়োফাইটদের অধিকাংশই ড্রুলজ এবং ভেজা স্থানস্থানে ও ছায়াময় ছানে জন্মাতে পছন্দ করে।",
+          "structured_data": {},
+          "id": "4281dd0b-2ea6-5134-a299-8aad24cc43b9"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "মস বৈচিত্র্য",
+          "content_markdown": "ব্রয়োফাইটা বিভাগের উড্ডিদের তিনটি শ্রেণিতে বিন্যস্ত করা হয়েছে। এদেরকে বিভিন্ন নামে ডাকা হয়, যেমন—",
+          "structured_data": {},
+          "id": "1b86631c-0570-5b2d-a091-03ca379b2b29"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "লিভারওয়ার্ট (Liverwort: Class-Hepaticae)",
+          "content_markdown": "- যেসব মসের লিঙ্গধর উড্ডিদের দৈহিক গঠন যুক্ত আকৃতির (liver-shaped) পাতার মতো তাদের লিভারওয়ার্ট (liverwatt) বা লিভার প্লাণ্ট (liver plant) বলে।\n- পৃথিবীর সর্বত্র বিস্তৃত সকল ধরনের আর্দ্র বাসস্থানে এদের প্রায় 6000 প্রজাতি রয়েছে। এদেরকে মেরু অঞ্চল ও মরুভূমিতেও পাওয়া যায়।\n- এগুলো সাধারণত ছোট প্রকৃতির উড্ডিদ এবং একটি স্বত্র উড্ডিদ 2–20 মিলিমিটার প্রশস্ত ও 10 সেন্টিমিটারের কম দৈর্ঘ্য বিশিষ্ট হয়।\n- এদের অনেক প্রজাতির উড্ডিদ এমনভাবে জন্মায় যা বৃষৎ ভৃ-খণ্ড, পাথর, বৃক্ষ কিংবা অন্য কোনো শক্ত ছান্ন বস্তুকে আবৃত করে রাখে।\n- লিভারওয়ার্টের উল্লেখযোগ্য উদাহরণ হলো: Riccia, Marchantia, Asterella, Ricciocarpus ইত্যাদি।",
+          "structured_data": {},
+          "id": "8e5148ad-5394-5892-b16e-41d6b89f0bf4"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "লিভারওয়ার্ট (Liverwort: Class-Hepaticae)",
+          "content_markdown": "![Riccia](https://example.com/image/Riccia.png)\n![Marchantia](https://example.com/image/Marchantia.png)\n![Asterella](https://example.com/image/Asterella.png)\n![Polytrichum](https://example.com/image/Polytrichum.png)",
+          "structured_data": {},
+          "id": "a692806f-32d5-5df7-9b97-fd4bc5534103"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "হর্নওয়ার্ট (Hornworts: Class-Anthocerotae)",
+          "content_markdown": "- যেসব মসের রেণুধর উড্ডিদের গঠন শিশু আকৃতির (horn-like) তাদের হর্নওয়ার্ট বলে।\n- পৃথিবীর সর্বত্র বিস্তৃত সকল ধরনের আর্দ্র বাসস্থানে এদের প্রায় 300 প্রজাতি রয়েছে।\n- এদের প্রধান উড্ডিদ লিঙ্গধর, সবুজ বর্ণের চ্যাপ্টা গঠন বিশিষ্ট হয়ে থাকে।\n- হর্নওয়ার্টের উল্লেখযোগ্য উদাহরণ হলো: Anthoceros, Folioceros, Notothylas, Dendroceros ইত্যাদি।",
+          "structured_data": {},
+          "id": "4af08e99-107c-5e1c-a906-a4df406208ef"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "প্রকৃত মস (True moss: Class-Bryopsida)",
+          "content_markdown": "- প্রকৃত মস উড্ডিদ Bryopsida শ্রেণির অন্তর্ভুক্ত যারা মস উড্ডিদের 95% প্রজাতি গঠন করে।\n- পৃথিবীর সর্বত্র বিস্তৃত সকল ধরনের আর্দ্র বাসস্থানে এদের প্রায় 12000 প্রজাতি রয়েছে।\n- এদের বিশেষ বৈশিষ্ট্য হলো রেণুধর উড্ডিদের ক্যাপসুলের মুখে একটি দাঁতসমূহ আঁটির মতো গঠন peristome (peristome) বিদ্যমান থাকে।\n- প্রকৃত মসের উল্লেখযোগ্য উদাহরণ হলো: Semibarbula, Sphagnum, Polytrichum, Funaria ইত্যাদি।",
+          "structured_data": {},
+          "id": "e234b145-0b06-577b-a2b0-a67607862b8b"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 8,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1_a4000",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 88.37,
+        "eval_count": 2022
+      }
+    },
+    {
+      "page_number": 4,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Genus-Riccia (রিকসিয়া)\n\nআবাস: Riccia বিশ্বব্যাপি বিভৃত এক প্রকার মস উড্ডিত। এদের দেহাঙ্গভি (থ্যালাস) অনেকটা মানুষের যুক্ত বা লিভারের মতো বলে এদের লিভারওয়ার্ট (liverwort) বলা হয়। এরা ফুলজ এবং এদের বিভিন্ন প্রজাতি আর্দ্র স্থানসেতে মাটিতে এবং ভেজা প্রচীরগতে জন্মায়। বর্ষকালে Riccia অধিক পরিমাণে জন্মায়। বিশ্বব্যাপি Riccia গণের অন্তর্ভুক্ত প্রায় ২০০টি প্রজাতি আছে। বাংলাদেশে Riccia গণের 45টি প্রজাতি শনাক্ত করা হয়েছে। এদের উল্লেখযোগ্য প্রজাতিগুলো হলো: Riccia arnellii, Riccia madhupurensis, Riccia bengalensis。একমাত্র প্রজাতি Riccia fluitans পানিতে ভাসমান অবস্থায় জন্মায়।\n\n### ১। লিঙ্ঘর উড্ডিরের গঠন (Structure of gametophyte)\n\nRiccia-র প্রধান দেহ লিঙ্ঘর বা গ্যামিটোফাইটিক (n)! \n\nবহিঃঅঙ্গসংস্থান (External morphology): Riccia-র দেহ থ্যালাসে প্রকৃতির অর্থাৎ এদেরকে মূল, কাণ্ড ও পাতায় বিভক্ত করা যায় না। এদের থ্যালাসটি ফুল, রসালো, সবুজ, শায়িত, বিষমপৃষ্ঠ ও দ্বারা শাখাযুক্ত (dichotomously branched)। এদের কতগুলো থ্যালাস একত্রে গোলাকার চক্রে বা গোলাপের পাপড়ির মতো সজিত থাকে। Riccia-র থ্যালাসের এ প্রকার বিশেষ বিন্যাসকে রোসেট (rosette) বলা হয়। থ্যালাসের পৃষ্ঠভাগ সবুজ বর্ণের এবং এতে একটি মধ্যশিরা বিদ্যমান। মধ্যশিরাটি একটি বিশেষ লম্বা খীঁজ দ্বারা আচ্ছাদিত থাকে। থ্যালাসের অগ্রভাগে একটি খাঁজকাটা চাপা অংশ থাকে, একে অগ্রস্থ খীঁজ (apical notch) বলে। এ অংশে থ্যালাসের বৃদ্ধি ঘটে। থ্যালাসের অন্ধকারে হতে বহুকোষী শঙ্ক (scale) ও এককোষী রাইজয়েড (rhizoid) সৃষ্ট হয়। এগুলো থ্যালাসকে মাটিতে আটকিয়ে রাখে এবং মাটি হতে পানি ও খনিজলবণ সংগ্রহ করে। Riccia-র জলজ প্রজাতিতে শঙ্ক ও রাইজয়েড থাকে না।\n\n### চিত্র ৬.১ (ক) Riccia-র থ্যালাস,(খ) থ্যালাসের প্রস্থচ্ছেদ\n\nঅন্তঃঅঙ্গসংস্থান (Internal morphology): Riccia-র থ্যালাসের প্রস্থচ্ছেদে দুটি অধ্বল দেখা যায়, যথা-\n(ক) সালোকসংশ্রেষ্যী অধ্বল বা আত্মীকরণ অধ্বল (Photosynthetic or assimilatory zone): থ্যালাসের পৃষ্ঠদেশের সালোকসংশ্রেষ্যী অধ্বল ক্লোরোফিল্যুক্ত কোষ দ্বারা গঠিত। কোষগুলো খাড়াভাবে স্ত্রে স্ত্রে অশীখ সূত্রক",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "Genus-Riccia (রিকসিয়া)",
+          "content_markdown": "আবাস: Riccia বিশ্বব্যাপি বিভৃত এক প্রকার মস উড্ডিত। এদের দেহাঙ্গভি (থ্যালাস) অনেকটা মানুষের যুক্ত বা লিভারের মতো বলে এদের লিভারওয়ার্ট (liverwort) বলা হয়। এরা ফুলজ এবং এদের বিভিন্ন প্রজাতি আর্দ্র স্থানসেতে মাটিতে এবং ভেজা প্রচীরগতে জন্মায়। বর্ষকালে Riccia অধিক পরিমাণে জন্মায়। বিশ্বব্যাপি Riccia গণের অন্তর্ভুক্ত প্রায় ২০০টি প্রজাতি আছে। বাংলাদেশে Riccia গণের 45টি প্রজাতি শনাক্ত করা হয়েছে। এদের উল্লেখযোগ্য প্রজাতিগুলো হলো: Riccia arnellii, Riccia madhupurensis, Riccia bengalensis。একমাত্র প্রজাতি Riccia fluitans পানিতে ভাসমান অবস্থায় জন্মায়।",
+          "structured_data": {},
+          "id": "2a8d0f7d-f26b-5562-acac-14cb18cc7a22"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "১। লিঙ্ঘর উড্ডিরের গঠন (Structure of gametophyte)",
+          "content_markdown": "Riccia-র প্রধান দেহ লিঙ্ঘর বা গ্যামিটোফাইটিক (n)!",
+          "structured_data": {},
+          "id": "144499d2-56bf-563a-a265-41fac3a77e68"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "১। লিঙ্ঘর উড্ডিরের গঠন (Structure of gametophyte)",
+          "content_markdown": "বহিঃঅঙ্গসংস্থান (External morphology): Riccia-র দেহ থ্যালাসে প্রকৃতির অর্থাৎ এদেরকে মূল, কাণ্ড ও পাতায় বিভক্ত করা যায় না। এদের থ্যালাসটি ফুল, রসালো, সবুজ, শায়িত, বিষমপৃষ্ঠ ও দ্বারা শাখাযুক্ত (dichotomously branched)। এদের কতগুলো থ্যালাস একত্রে গোলাকার চক্রে বা গোলাপের পাপড়ির মতো সজিত থাকে। Riccia-র থ্যালাসের এ প্রকার বিশেষ বিন্যাসকে রোসেট (rosette) বলা হয়। থ্যালাসের পৃষ্ঠভাগ সবুজ বর্ণের এবং এতে একটি মধ্যশিরা বিদ্যমান। মধ্যশিরাটি একটি বিশেষ লম্বা খীঁজ দ্বারা আচ্ছাদিত থাকে। থ্যালাসের অগ্রভাগে একটি খাঁজকাটা চাপা অংশ থাকে, একে অগ্রস্থ খীঁজ (apical notch) বলে। এ অংশে থ্যালাসের বৃদ্ধি ঘটে। থ্যালাসের অন্ধকারে হতে বহুকোষী শঙ্ক (scale) ও এককোষী রাইজয়েড (rhizoid) সৃষ্ট হয়। এগুলো থ্যালাসকে মাটিতে আটকিয়ে রাখে এবং মাটি হতে পানি ও খনিজলবণ সংগ্রহ করে। Riccia-র জলজ প্রজাতিতে শঙ্ক ও রাইজয়েড থাকে না।",
+          "structured_data": {},
+          "id": "edb8e3b7-40a5-5428-bc9f-85ee3f3ae810"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "চিত্র ৬.১ (ক) Riccia-র থ্যালাস,(খ) থ্যালাসের প্রস্থচ্ছেদ",
+          "content_markdown": "অন্তঃঅঙ্গসংস্থান (Internal morphology): Riccia-র থ্যালাসের প্রস্থচ্ছেদে দুটি অধ্বল দেখা যায়, যথা-\n(ক) সালোকসংশ্রেষ্যী অধ্বল বা আত্মীকরণ অধ্বল (Photosynthetic or assimilatory zone): থ্যালাসের পৃষ্ঠদেশের সালোকসংশ্রেষ্যী অধ্বল ক্লোরোফিল্যুক্ত কোষ দ্বারা গঠিত। কোষগুলো খাড়াভাবে স্ত্রে স্ত্রে অশীখ সূত্রক",
+          "structured_data": {},
+          "id": "394cd3bd-8197-5469-acf2-2f5d97d1f639"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 4,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1_a4000",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 149.28,
+        "eval_count": 1693
+      }
+    },
+    {
+      "page_number": 5,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "আকারে সজ্জিত থাকে এবং প্রত্যেক কোষ স্তরের মধ্যবর্তী ছাঁচ নালির মতো ও বায়ুপূর্ণ। এসব বায়ুপূর্ণ নালিকে বায়ুপ্রকোষ্ঠ বলে। প্রতিটি বায়ুপ্রকোষ্ঠ চারঙ্গারা বা অট্টাসারি বর্ষহীন উল্লম্ব কোষ ধারা আবৃত থাকে। বর্ষহীন একঙ্কারি কোষ দিয়ে থ্যালাসের পূর্ব উদ্ভতক (upper epidermis) গঠিত হয়।\n\n(খ) সঞ্চয়ী অঞ্চল (Storage zone): থ্যালাসের সালোকসংশ্রেণী অঞ্চলের নিচের অংশে সঞ্চয়ী অঞ্চল বলে। থ্যালাসের অঞ্চলের এ অংশ বর্ষহীন ঘন সন্নিবিষ্ট প্যারেনকাইমা কোষ ধারা গঠিত। কোণগুলোতে কোনো আঙ্গকৌড়ীয় ফাঁক থাকে না। এ অঞ্চলের কোষে সন্ধিত খাদ্য হিসেবে প্রচুর পরিমাণে স্টার্চ দানা থাকে।\n\n(গ) নিষ্কৃতক: থ্যালাসের সঞ্চয়ী অঞ্চলের নিচের একঙ্কারি কোষ দিয়ে নিষ্কৃতক (lower epidermis) গঠিত হয়। নিষ্কৃতক থেকে এককোষী মসৃণ বা অমসৃণ রাইজয়েড (rhizoid) এবং বহুকোষী শঙ্ক বা শঙ্ক (scale) সৃষ্টি হয়।\n\n২। জনন অঙ্গের গঠন (Structure of reproductive organs)\n\nRiccia অঙ্গও মোন উপায়ে বৎসৃষ্টি করে। থ্যালাসের পেছনের অংশ মরে গেলে অভাবের প্রতিষ্ঠান হতে অঙ্গজ জনন প্রক্রিয়া নতুন Riccia-উদ্ভিদ সৃষ্টি হয়। এছাড়া রাইজয়েডের অভাবে গিমা নামক গঠন দ্বারা Riccia-অঙ্গজ জনন সম্পন্ন করে। Riccia-র অধিকাংশ প্রজাতি উভলিঙ্গ অর্থাৎ একই দেহে পুঞ্জনন ও স্ত্রীজনন অঙ্গ সৃষ্টি হয়। থ্যালাসের পৃষ্ঠদিকে পুঞ্জনন অঙ্গ অ্যাথ্রেরিডিয়া এবং স্ত্রীজনন অঙ্গ আর্কিগোনিয়া সৃষ্টি হয়।\n\nঅ্যাথ্রেরিডিয়াম (Antheridium): Riccia-র অ্যাথ্রেরিডিয়াগুলো থ্যালাসের পৃষ্ঠদেশে একক ও অগ্রোন্থুভাবে অবস্থান করে। পরিণত অ্যাথ্রেরিডিয়া সবৃষ্টক, নাসপাতি আকৃতির এবং থ্যালাসের অ্যাথ্রেরিডিয়াল প্রকৌচের মধ্যে অবস্থিত। প্রতিটি অ্যাথ্রেরিডিয়ামের চারদিকে একক্তর বিশিষ্ট বন্ধাকোষের একটি আবরণ থাকে। এর মধ্যস্থিত কোষগুলোই শুক্রাণু মাত্রকোষ হিসেবে কাজ করে। প্রতিটি শুক্রাণু মাত্রকোষ দ্বিবিভাজিত হয়ে দুটি প্রাথমিক শুক্রাণু কোষ সৃষ্টি করে। এগুলো রূপান্তরিত হয়ে দ্বি-ফ্ল্যাজেলাযুক্ত শুক্রাণুতে পরিণত হয়।\n\n### Figure 6.2 Riccia-r Jannan Angg O Reondhur Uddid\n\n| রঞ্জ | অ্যাথ্রেরিডিয়াম |\n| --- | --- |\n| শুক্রাণু মাত্রকোষ | প্রকৌচ |\n| অ্যাথ্রেরিডিয়াম প্রকৌচ |\n\n[FIGURE x1=38 y1=792 x2=440 y2=1096 caption=\"Figure 6.2 Riccia-r Jannan Angg O Reondhur Uddid\"] Labels: রঞ্জ, অ্যাথ্রেরিডিয়াম, শুক্রাণু মাত্রকোষ, অ্যাথ্রেরিডিয়াম প্রকৌচ Description: A diagram showing the structure of antheridia in Riccia.\n\nআর্কিগোনিয়াম (Archegonium): Riccia-র আর্কিগোনিয়াগুলো থ্যালাসের পৃষ্ঠদেশের কোষের মধ্যে নিহিত থাকে এবং থ্যালাসের অঙ্গজ কোষ ধারা আংশিক বেস্টিত থাকে। প্রতিটি পরিণত আর্কিগোনিয়াম ক্ষুদ্র বৃত্তমূল এবং ফ্ল্যাক্স আকৃতির হয়। এর নিচের অংশে অঙ্ক বা ভেটার (venter) এবং উপরের সরু ও দীর্ঘ অংশকে গ্রীবা (neck) বলে। দীর্ঘ গ্রীবা 6-9টি গ্রীবানালি কোষ ধারা গঠিত। গ্রীবার শীর্ষে 4টি বিশেষ ধরনের কোষ গ্রীবামুখকে আবৃত করে রাখে, এদের ঢাকনা কোষ (cover cell) বলে। ভেটারের মধ্যে একটি অকীয় নালিকোষ এবং একটি ডিস্কোষ (egg cell) বিদ্যমান থাকে। আর্কিগোনিয়াম পরিণত হওয়ার সাথে সাথে গ্রীবানালি কোষগুলো এবং অকীয় নালিকোষটি দ্বৈভূত হয়ে যায় এবং ডিস্কোষটি ডিখাগুতে পরিণত হয়।",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "আকারে সজ্জিত থাকে এবং প্রত্যেক কোষ স্তরের মধ্যবর্তী ছাঁচ নালির মতো ও বায়ুপূর্ণ। এসব বায়ুপূর্ণ নালিকে বায়ুপ্রকোষ্ঠ বলে। প্রতিটি বায়ুপ্রকোষ্ঠ চারঙ্গারা বা অট্টাসারি বর্ষহীন উল্লম্ব কোষ ধারা আবৃত থাকে। বর্ষহীন একঙ্কারি কোষ দিয়ে থ্যালাসের পূর্ব উদ্ভতক (upper epidermis) গঠিত হয়।",
+          "structured_data": {},
+          "id": "9a7ba0fe-b5a3-5dbb-88ce-47a26fd72d3a"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "(খ) সঞ্চয়ী অঞ্চল (Storage zone): থ্যালাসের সালোকসংশ্রেণী অঞ্চলের নিচের অংশে সঞ্চয়ী অঞ্চল বলে। থ্যালাসের অঞ্চলের এ অংশ বর্ষহীন ঘন সন্নিবিষ্ট প্যারেনকাইমা কোষ ধারা গঠিত। কোণগুলোতে কোনো আঙ্গকৌড়ীয় ফাঁক থাকে না। এ অঞ্চলের কোষে সন্ধিত খাদ্য হিসেবে প্রচুর পরিমাণে স্টার্চ দানা থাকে।",
+          "structured_data": {},
+          "id": "d8fe2a41-2edd-517f-9469-f5b191d02bba"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "(গ) নিষ্কৃতক: থ্যালাসের সঞ্চয়ী অঞ্চলের নিচের একঙ্কারি কোষ দিয়ে নিষ্কৃতক (lower epidermis) গঠিত হয়। নিষ্কৃতক থেকে এককোষী মসৃণ বা অমসৃণ রাইজয়েড (rhizoid) এবং বহুকোষী শঙ্ক বা শঙ্ক (scale) সৃষ্টি হয়।",
+          "structured_data": {},
+          "id": "704db57d-6524-50f5-8245-15321605f4be"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "২। জনন অঙ্গের গঠন (Structure of reproductive organs)",
+          "structured_data": {},
+          "id": "f1192286-4689-5623-8538-aead8c56cf25"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Riccia অঙ্গও মোন উপায়ে বৎসৃষ্টি করে। থ্যালাসের পেছনের অংশ মরে গেলে অভাবের প্রতিষ্ঠান হতে অঙ্গজ জনন প্রক্রিয়া নতুন Riccia-উদ্ভিদ সৃষ্টি হয়। এছাড়া রাইজয়েডের অভাবে গিমা নামক গঠন দ্বারা Riccia-অঙ্গজ জনন সম্পন্ন করে। Riccia-র অধিকাংশ প্রজাতি উভলিঙ্গ অর্থাৎ একই দেহে পুঞ্জনন ও স্ত্রীজনন অঙ্গ সৃষ্টি হয়। থ্যালাসের পৃষ্ঠদিকে পুঞ্জনন অঙ্গ অ্যাথ্রেরিডিয়া এবং স্ত্রীজনন অঙ্গ আর্কিগোনিয়া সৃষ্টি হয়।",
+          "structured_data": {},
+          "id": "95714cda-9190-5f32-8e79-a75a14a6dea6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "অ্যাথ্রেরিডিয়াম (Antheridium): Riccia-র অ্যাথ্রেরিডিয়াগুলো থ্যালাসের পৃষ্ঠদেশে একক ও অগ্রোন্থুভাবে অবস্থান করে। পরিণত অ্যাথ্রেরিডিয়া সবৃষ্টক, নাসপাতি আকৃতির এবং থ্যালাসের অ্যাথ্রেরিডিয়াল প্রকৌচের মধ্যে অবস্থিত। প্রতিটি অ্যাথ্রেরিডিয়ামের চারদিকে একক্তর বিশিষ্ট বন্ধাকোষের একটি আবরণ থাকে। এর মধ্যস্থিত কোষগুলোই শুক্রাণু মাত্রকোষ হিসেবে কাজ করে। প্রতিটি শুক্রাণু মাত্রকোষ দ্বিবিভাজিত হয়ে দুটি প্রাথমিক শুক্রাণু কোষ সৃষ্টি করে। এগুলো রূপান্তরিত হয়ে দ্বি-ফ্ল্যাজেলাযুক্ত শুক্রাণুতে পরিণত হয়।",
+          "structured_data": {},
+          "id": "3f49b407-16b2-5a74-b0ac-534ae54145b8"
+        },
+        {
+          "block_type": "table",
+          "title": "Figure 6.2 Riccia-r Jannan Angg O Reondhur Uddid",
+          "content_markdown": "| রঞ্জ | অ্যাথ্রেরিডিয়াম |\n| --- | --- |\n| শুক্রাণু মাত্রকোষ | প্রকৌচ |\n| অ্যাথ্রেরিডিয়াম প্রকৌচ |",
+          "structured_data": {
+            "headers": [
+              "রঞ্জ",
+              "অ্যাথ্রেরিডিয়াম"
+            ],
+            "rows": [
+              [
+                "শুক্রাণু মাত্রকোষ",
+                "প্রকৌচ"
+              ],
+              [
+                "অ্যাথ্রেরিডিয়াম প্রকৌচ"
+              ]
+            ]
+          },
+          "id": "c1e0d03e-43dc-5c12-8219-5681e4111f3d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "Figure 6.2 Riccia-r Jannan Angg O Reondhur Uddid",
+          "content_markdown": "আর্কিগোনিয়াম (Archegonium): Riccia-র আর্কিগোনিয়াগুলো থ্যালাসের পৃষ্ঠদেশের কোষের মধ্যে নিহিত থাকে এবং থ্যালাসের অঙ্গজ কোষ ধারা আংশিক বেস্টিত থাকে। প্রতিটি পরিণত আর্কিগোনিয়াম ক্ষুদ্র বৃত্তমূল এবং ফ্ল্যাক্স আকৃতির হয়। এর নিচের অংশে অঙ্ক বা ভেটার (venter) এবং উপরের সরু ও দীর্ঘ অংশকে গ্রীবা (neck) বলে। দীর্ঘ গ্রীবা 6-9টি গ্রীবানালি কোষ ধারা গঠিত। গ্রীবার শীর্ষে 4টি বিশেষ ধরনের কোষ গ্রীবামুখকে আবৃত করে রাখে, এদের ঢাকনা কোষ (cover cell) বলে। ভেটারের মধ্যে একটি অকীয় নালিকোষ এবং একটি ডিস্কোষ (egg cell) বিদ্যমান থাকে। আর্কিগোনিয়াম পরিণত হওয়ার সাথে সাথে গ্রীবানালি কোষগুলো এবং অকীয় নালিকোষটি দ্বৈভূত হয়ে যায় এবং ডিস্কোষটি ডিখাগুতে পরিণত হয়।",
+          "structured_data": {},
+          "id": "8c72030e-34c0-500a-82da-af758f92af68"
+        },
+        {
+          "block_type": "diagram",
+          "title": "Figure 6.2 Riccia-r Jannan Angg O Reondhur Uddid",
+          "content_markdown": "Figure 6.2 Riccia-r Jannan Angg O Reondhur Uddid\n\nLabels: রঞ্জ, অ্যাথ্রেরিডিয়াম, শুক্রাণু মাত্রকোষ, অ্যাথ্রেরিডিয়াম প্রকৌচ Description: A diagram showing the structure of antheridia in Riccia.",
+          "structured_data": {
+            "caption": "Figure 6.2 Riccia-r Jannan Angg O Reondhur Uddid",
+            "labels": [
+              "রঞ্জ",
+              "অ্যাথ্রেরিডিয়াম",
+              "শুক্রাণু মাত্রকোষ",
+              "অ্যাথ্রেরিডিয়াম প্রকৌচ Description: A diagram showing the structure of antheridia in Riccia."
+            ],
+            "description": null,
+            "bbox_raw_px": [
+              38,
+              792,
+              440,
+              1096
+            ],
+            "bbox_snapped_px": [
+              20,
+              774,
+              608,
+              1130
+            ],
+            "figure_path": "figures/p_0005_fig_01.png"
+          },
+          "id": "f5ef5c0c-f2c3-512d-9b17-fcd381a61531"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 9,
+        "figure_count": 1,
+        "vlm_endpoint": "benchly_labpc1_a4000",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 148.7,
+        "eval_count": 2666
+      }
+    },
+    {
+      "page_number": 6,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Structure of Sporophyte\n\nRiccia-r pariron antarjoginiyamare nali-koyaygulo drubhut houyar falu ye pathei suti hay pawthei gukru prabesh kore dimaute nikhik kor. Nimokere par dimaute ekটি abaran dharo akut hay. Ete jaihate ba uospar (ospore) bale. Uosparei rengudhre uvijder prothom koys. Eti arki-goniyamare beutar abhun kar. Eti krnagat bijajit haye golakar gantun sutti kor. Eti kalptra (Calyptra) namok etaki kapasule abandd thake. Kapasule abandd koys pignore maoye katungole rengudhren kaal sutti hay yenquloe krms rengumattukoye (spore mother cells) bibhedit hay. Prati rengumatkoys (2n) mitis priya bibajit haye chariti yaapuyed spor va reng (spore-n) sutti kor. Sporugulu pariront hal kapasule berhibarapti prothome binntt hay avb pare thyalase ar apzadeher koysgulle binasher sege egulto bahire nirtt kor. Spor anukrtt haye gyamitefahitikk Riccia gant kor.\n\n**Riccia-r shanakari bishist**\n\n1. Riccia-r uvijdeh liengdhra ba gyamitefahitik va thyalayed arthaang moul, kang va pataya bikutt nyay.\n2. Eder thyalas subuj, sharit, biymupstt va dhagy shaakhuyukt.\n3. Eder thyalases ar akiiy dike bhukkoyei skel va ekkoyei raijayod thake.\n4. Eder thyalases ar athxtriyen tissur puhtabang salokansshsyyi adbhul evb ankttang khady swghyi adbhul bivhkt.\n5. Riccia apzj va yiin priyaa vangshudd kor.\n6. Riccia-r rengudhre ba sporofahitik dasa atant sarul pruktur evb pariront abhutta uh liengdhra uvijdeer upar samprc nirttsshil.\n7. Riccia-r rengudhre ba sporofahitik dasati kapasule abandd thake. Etik bandykoyemr abaran dharo akut thake na.\n8. Riccia-r rengudhri liengdhri uvijdeer thyalases sahte sayukt thake. Etik kapasul bidirn haye ber hay na barb kebvel thyalases dehkokoygullo gal-pac binntt hal sporugulu ber hay.\n9. Eder shri janang arki-goniyam, punj janang ayathribiyma evb sporofahit hoemonespuras.\n10. Riccia-r zibincree jalengdhra evb sarul rengudhre puryaykrmitik abartnn dekh yaay.\n\n### Teridofahita Ba Farvabgyi Uvid\n\n(Pteridophyta; Gr. Ptero-wing, feather + Phyton = Uvid)\n\nTeridofahita apupsk bakkular uvijde yader sadhrang farv (fern) balo hay. Puthibito proay 11000 prajatir farv uvijde shnak kor hayeche yader mahye 41 gotere 195 prajatir farv bangladesh talichakritt hoyeche. Bangladesh praupt teck shak (Dryopteris) ek dhrner farv uvijde. Vizj va fuul utpdan akmta dbar era sapuskuv uvijde hate alada. Kono vizj va fuul utpadan korne na bale eder cryptogam (cryptogam) bala hay. Era spor sustr madhye vangshudd kor. Uvid zhchinnyase egulo mas svapurku uvijdere mdhubtthi thawe abhuta kor. Era puthibir adimtom bakkular sulj uvijde bele vibechit. Kraav mas, spaik mas, harssteil, san farv ittyadi sakul uvijde teridofahitar anturtuk.\n\n### Section: Teridofahita Gurrut\n\nSadhan arth farv uvijdere arthnaticik grrut khob kom. Kinnt hartikalchare uvijde hisabe era khobi janpriy evb anoke ederde bagane ba ghore allnkrik uvijde hisabe raaye. Amader ar ti pryojaniiy zibashu dzullani—",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "Structure of Sporophyte",
+          "content_markdown": "Riccia-r pariron antarjoginiyamare nali-koyaygulo drubhut houyar falu ye pathei suti hay pawthei gukru prabesh kore dimaute nikhik kor. Nimokere par dimaute ekটি abaran dharo akut hay. Ete jaihate ba uospar (ospore) bale. Uosparei rengudhre uvijder prothom koys. Eti arki-goniyamare beutar abhun kar. Eti krnagat bijajit haye golakar gantun sutti kor. Eti kalptra (Calyptra) namok etaki kapasule abandd thake. Kapasule abandd koys pignore maoye katungole rengudhren kaal sutti hay yenquloe krms rengumattukoye (spore mother cells) bibhedit hay. Prati rengumatkoys (2n) mitis priya bibajit haye chariti yaapuyed spor va reng (spore-n) sutti kor. Sporugulu pariront hal kapasule berhibarapti prothome binntt hay avb pare thyalase ar apzadeher koysgulle binasher sege egulto bahire nirtt kor. Spor anukrtt haye gyamitefahitikk Riccia gant kor.",
+          "structured_data": {},
+          "id": "7c69f8c5-5ef8-5597-b9a9-47fe2addeefa"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "Structure of Sporophyte",
+          "content_markdown": "**Riccia-r shanakari bishist**",
+          "structured_data": {},
+          "id": "17eb4c08-ca5b-5b3c-8c0e-dd8008d7c12e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "Structure of Sporophyte",
+          "content_markdown": "1. Riccia-r uvijdeh liengdhra ba gyamitefahitik va thyalayed arthaang moul, kang va pataya bikutt nyay.\n2. Eder thyalas subuj, sharit, biymupstt va dhagy shaakhuyukt.\n3. Eder thyalases ar akiiy dike bhukkoyei skel va ekkoyei raijayod thake.\n4. Eder thyalases ar athxtriyen tissur puhtabang salokansshsyyi adbhul evb ankttang khady swghyi adbhul bivhkt.\n5. Riccia apzj va yiin priyaa vangshudd kor.\n6. Riccia-r rengudhre ba sporofahitik dasa atant sarul pruktur evb pariront abhutta uh liengdhra uvijdeer upar samprc nirttsshil.\n7. Riccia-r rengudhre ba sporofahitik dasati kapasule abandd thake. Etik bandykoyemr abaran dharo akut thake na.\n8. Riccia-r rengudhri liengdhri uvijdeer thyalases sahte sayukt thake. Etik kapasul bidirn haye ber hay na barb kebvel thyalases dehkokoygullo gal-pac binntt hal sporugulu ber hay.\n9. Eder shri janang arki-goniyam, punj janang ayathribiyma evb sporofahit hoemonespuras.\n10. Riccia-r zibincree jalengdhra evb sarul rengudhre puryaykrmitik abartnn dekh yaay.",
+          "structured_data": {},
+          "id": "b9d94ea7-5da1-5e10-a9da-56103cdb5515"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "Teridofahita Ba Farvabgyi Uvid",
+          "content_markdown": "(Pteridophyta; Gr. Ptero-wing, feather + Phyton = Uvid)",
+          "structured_data": {},
+          "id": "d8e2c24f-52f0-5c19-beca-2fc2d9f8d0bc"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "Teridofahita Ba Farvabgyi Uvid",
+          "content_markdown": "Teridofahita apupsk bakkular uvijde yader sadhrang farv (fern) balo hay. Puthibito proay 11000 prajatir farv uvijde shnak kor hayeche yader mahye 41 gotere 195 prajatir farv bangladesh talichakritt hoyeche. Bangladesh praupt teck shak (Dryopteris) ek dhrner farv uvijde. Vizj va fuul utpdan akmta dbar era sapuskuv uvijde hate alada. Kono vizj va fuul utpadan korne na bale eder cryptogam (cryptogam) bala hay. Era spor sustr madhye vangshudd kor. Uvid zhchinnyase egulo mas svapurku uvijdere mdhubtthi thawe abhuta kor. Era puthibir adimtom bakkular sulj uvijde bele vibechit. Kraav mas, spaik mas, harssteil, san farv ittyadi sakul uvijde teridofahitar anturtuk.",
+          "structured_data": {},
+          "id": "dd52ddb9-e910-51e7-8c54-4520a945f8ef"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "Section: Teridofahita Gurrut",
+          "content_markdown": "Sadhan arth farv uvijdere arthnaticik grrut khob kom. Kinnt hartikalchare uvijde hisabe era khobi janpriy evb anoke ederde bagane ba ghore allnkrik uvijde hisabe raaye. Amader ar ti pryojaniiy zibashu dzullani—",
+          "structured_data": {},
+          "id": "da96fd0f-9058-5ad5-a04e-d32218431995"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 6,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 50.16,
+        "eval_count": 1136
+      }
+    },
+    {
+      "page_number": 7,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### জীববিজ্ঞান প্রথম পত্র\n\n#### চ্ছড়ায়ফাইটা ও তেরিডোফাইটা\n\nকয়লা, তেল ও প্রাকৃতিক গ্যাস সৃষ্টিতে এসব উদ্ভিদের জীবাশ্ম গুরুত্বপূর্ণ ভূমিকা রেখেছে। কারণ এ হচ্ছে উদ্ভিদ ঐ প্রায় 400 মিলিয়ন বছর ধরে ফ্লভাগে প্রধান্য বিষ্ঠার করেছিলো। প্রাচীর বিভিন্ন জাতি কতক ফার্ন উদ্ভিদের স্টার্চসমূহ রাইজোম ও কাঙ্খে খাদ্য হিসেবে ব্যবহার করে। কতক প্রজাতির ফার্ন উদ্ভিদ ইউনানি হরবাল ওয়াধ হিসেবে অলঙ্গার, বাতজ্঵র, অগ্নের সংক্রমণ ও অন্যান্য রোগের চিকিৎসায় ব্যবহৃত হয়।\n\n| ক্লাব মস | স্পাইক মস | হর্সটেইল | সান ফার্ন |\n| --- | --- | --- | --- |\n\n#### চিত্র ৬.৩ কয়েকটি তেরিডোফাইট উদ্ভিদ\n\n**টেরিডোফাইটার বৈশিষ্ট্য**\n\n1. টেরিডোফাইটা বহুকৌষী উদ্ভিদ; এরা অপুষ্ক ও অবীজি অর্থাং এদের ফুল, ফল ও বীজ হয় না।\n2. এদের প্রধান উদ্ভিদ রেণুধর বা স্পোরোফাইটিক (sporophytic). এগুলো ঘাড়ীন ও স্বভাজী।\n3. এদের স্পোরোফাইট দেহ মূল, কাঙ্খ ও পাতায় বিভক্ত। মূল ও কাঙ্খের অভিবাং বৃদ্ধি ঘটে। মূলগুলোর আজীবন বৃদ্ধি ঘটে।\n4. টেরিডোফাইটার কাঙ্খ রাইজোম জাতীয় এবং বহুবর্ষজীবী।\n5. এদের পাতায় পত্রর্দ্ধ ও কোয়ে ক্লোরোফিল থাকায় পাতাই একমাত্র সালোকসংশ্লেষী অঙ্গরূপে পরিগণিত হয়।\n6. এদের মূল, কাঙ্খ ও পাতায় জাইলেম ও ফ্লোয়েম নামক পরিবহন টিসুগুচ্ছ বিদ্যমান থাকে। এজন্য এদের ভাস্কুলার অপুষ্ক উদ্ভিদ বলা হয়। এদের পরিবহন টিসুকে স্টিলি (stele) বলা হয়।\n7. টেরিডোফাইটার রেণুধর উদ্ভিদটি অমৌন জনু হিসেবে চিহ্নিত। এরা সমরেণপুস (homosporus) বা অসমরেণপুস (heterosporus) ধরনের হয়ে থাকে।\n8. টেরিডোফাইটার রেণুধর উদ্ভিদের রেণুগুলো রেণুহলি বা স্পোরাজিয়ামের মধ্যে উৎপন্ন হয়।\n9. এদের লিঙ্ঘার বা গ্যামিটোফাইটিক উদ্ভিদকে প্রোথ্যালাস (prothallus) বলে। প্রোথ্যালাস উভলিঙ্গ অর্থাং একই দেহে পূঁজনাঙ্গ অ্যান্ড্রিয়াম ও স্ত্রী জনাঙ্গ আর্কিগোনিয়াম অবস্থান করে।\n10. এদের লিঙ্ঘার উদ্ভিদের জনাঙ্গ বহুকৌষী এবং এগুলো একস্তর বিশিষ্ট বন্ধ্যা কোষের আবরণে আবৃত থাকে।\n11. পূঁজনাঙ্গ সচল ও ফ্ল্যাজেলাযুক্ত হওয়ায় এদের ফলপুষ্ট নিষেকের জন্য পানি অপরিহার্য।\n12. জীবিত কোনো টেরিডোফাইট উদ্ভিদের বীজ সৃষ্টি হয় না।\n13. রেণুধর উদ্ভিদের অভ্যন্তরে (in situ) ভন সৃষ্টি হয় এবং মূল সৃষ্টি না হওয়া পর্যন্ত রেণুধর উদ্ভিদের সাথে লেগে থাকে।\n14. টেরিডোফাইটার জীবনচক্রে সুস্পষ্ট অসমাকৃতির জনুক্রম পরিলক্ষিত হয়। লিঙ্ঘার ও রেণুধর উদ্ভিদ সম্পূর্ণরূপে ঘনধীন।\n15. টেরিডোফাইটার অধিকাংশ প্রজাতি আর্দ্র জলজ পরিবেশে জন্মায় আবার অনেকে ভাস্মান জলজ উদ্ভিদরূপে অথবা বৃক্ষের শাখার উপর পরাশ্রয়ীরূপে জন্মায়।",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "চ্ছড়ায়ফাইটা ও তেরিডোফাইটা",
+          "content_markdown": "কয়লা, তেল ও প্রাকৃতিক গ্যাস সৃষ্টিতে এসব উদ্ভিদের জীবাশ্ম গুরুত্বপূর্ণ ভূমিকা রেখেছে। কারণ এ হচ্ছে উদ্ভিদ ঐ প্রায় 400 মিলিয়ন বছর ধরে ফ্লভাগে প্রধান্য বিষ্ঠার করেছিলো। প্রাচীর বিভিন্ন জাতি কতক ফার্ন উদ্ভিদের স্টার্চসমূহ রাইজোম ও কাঙ্খে খাদ্য হিসেবে ব্যবহার করে। কতক প্রজাতির ফার্ন উদ্ভিদ ইউনানি হরবাল ওয়াধ হিসেবে অলঙ্গার, বাতজ্঵র, অগ্নের সংক্রমণ ও অন্যান্য রোগের চিকিৎসায় ব্যবহৃত হয়।",
+          "structured_data": {},
+          "id": "8a9bbf3b-16d4-5bef-8b3f-13d745f9a9f6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "চ্ছড়ায়ফাইটা ও তেরিডোফাইটা",
+          "content_markdown": "| ক্লাব মস | স্পাইক মস | হর্সটেইল | সান ফার্ন |\n| --- | --- | --- | --- |",
+          "structured_data": {},
+          "id": "54bcee5e-f09a-5064-a056-c6214a6b3fdb"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "চিত্র ৬.৩ কয়েকটি তেরিডোফাইট উদ্ভিদ",
+          "content_markdown": "**টেরিডোফাইটার বৈশিষ্ট্য**",
+          "structured_data": {},
+          "id": "8644119f-9c8e-5a94-abd9-070edc985b74"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "চিত্র ৬.৩ কয়েকটি তেরিডোফাইট উদ্ভিদ",
+          "content_markdown": "1. টেরিডোফাইটা বহুকৌষী উদ্ভিদ; এরা অপুষ্ক ও অবীজি অর্থাং এদের ফুল, ফল ও বীজ হয় না।\n2. এদের প্রধান উদ্ভিদ রেণুধর বা স্পোরোফাইটিক (sporophytic). এগুলো ঘাড়ীন ও স্বভাজী।\n3. এদের স্পোরোফাইট দেহ মূল, কাঙ্খ ও পাতায় বিভক্ত। মূল ও কাঙ্খের অভিবাং বৃদ্ধি ঘটে। মূলগুলোর আজীবন বৃদ্ধি ঘটে।\n4. টেরিডোফাইটার কাঙ্খ রাইজোম জাতীয় এবং বহুবর্ষজীবী।\n5. এদের পাতায় পত্রর্দ্ধ ও কোয়ে ক্লোরোফিল থাকায় পাতাই একমাত্র সালোকসংশ্লেষী অঙ্গরূপে পরিগণিত হয়।\n6. এদের মূল, কাঙ্খ ও পাতায় জাইলেম ও ফ্লোয়েম নামক পরিবহন টিসুগুচ্ছ বিদ্যমান থাকে। এজন্য এদের ভাস্কুলার অপুষ্ক উদ্ভিদ বলা হয়। এদের পরিবহন টিসুকে স্টিলি (stele) বলা হয়।\n7. টেরিডোফাইটার রেণুধর উদ্ভিদটি অমৌন জনু হিসেবে চিহ্নিত। এরা সমরেণপুস (homosporus) বা অসমরেণপুস (heterosporus) ধরনের হয়ে থাকে।\n8. টেরিডোফাইটার রেণুধর উদ্ভিদের রেণুগুলো রেণুহলি বা স্পোরাজিয়ামের মধ্যে উৎপন্ন হয়।\n9. এদের লিঙ্ঘার বা গ্যামিটোফাইটিক উদ্ভিদকে প্রোথ্যালাস (prothallus) বলে। প্রোথ্যালাস উভলিঙ্গ অর্থাং একই দেহে পূঁজনাঙ্গ অ্যান্ড্রিয়াম ও স্ত্রী জনাঙ্গ আর্কিগোনিয়াম অবস্থান করে।\n10. এদের লিঙ্ঘার উদ্ভিদের জনাঙ্গ বহুকৌষী এবং এগুলো একস্তর বিশিষ্ট বন্ধ্যা কোষের আবরণে আবৃত থাকে।\n11. পূঁজনাঙ্গ সচল ও ফ্ল্যাজেলাযুক্ত হওয়ায় এদের ফলপুষ্ট নিষেকের জন্য পানি অপরিহার্য।\n12. জীবিত কোনো টেরিডোফাইট উদ্ভিদের বীজ সৃষ্টি হয় না।\n13. রেণুধর উদ্ভিদের অভ্যন্তরে (in situ) ভন সৃষ্টি হয় এবং মূল সৃষ্টি না হওয়া পর্যন্ত রেণুধর উদ্ভিদের সাথে লেগে থাকে।\n14. টেরিডোফাইটার জীবনচক্রে সুস্পষ্ট অসমাকৃতির জনুক্রম পরিলক্ষিত হয়। লিঙ্ঘার ও রেণুধর উদ্ভিদ সম্পূর্ণরূপে ঘনধীন।\n15. টেরিডোফাইটার অধিকাংশ প্রজাতি আর্দ্র জলজ পরিবেশে জন্মায় আবার অনেকে ভাস্মান জলজ উদ্ভিদরূপে অথবা বৃক্ষের শাখার উপর পরাশ্রয়ীরূপে জন্মায়।",
+          "structured_data": {},
+          "id": "d271ad63-eab0-55df-ba5b-2ecc07872aa9"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 4,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1_a4000",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 124.86,
+        "eval_count": 2276
+      }
+    },
+    {
+      "page_number": 8,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Genus: Pteris\n\n#### শ্রেণিবিন্যাসগত অবস্থা (Systematic Position)\nKingdom : Plantae\nGrade    : Tracheophyta\nDivision : Filicinophyta\nClass    : Filicineae\nOrder    : Filicales\nFamily   : Polypodiaceae\nGenus    : Pteris\n\n#### এরোধুর উড্ডির গঠন\n\nPteris-এর প্রধান উড্ডির রেণুধর বা স্পোরোফাইটিক (sporophytic-2n). এদের দেহ মূল, কাণ্ড ও পাতায় বিভক্ত। কাণ্ড খাটো, দৃঢ় ও রাইজোমে রূপান্তরিত। রাইজোমের কিছু অংশ মাটিতে প্রেখিত থাকে। এটি রয়্যামেটা (ramenta) নামক এক প্রকার শঙ্ক ও বাদামি বর্ণের শক্ষপত্র (ফল) দিয়ে আবৃত থাকে।\n\nরাইজোমের অক্ষিয় দিক হতে অভ্যন্তরীণ গুচ্ছমূল বের হয়। রাইজোমের পৃষ্ঠীয় দিক হতে বৌটাযুক্ত পাতা বের হয়। Pteris এর পাতা সবুজ ও পক্ষল মৌলিক। এদের পাতাকে ফ্রন্ড (frond) বলে। পাতায় একটি অক্ষের দুপাশে জোড়ায় জোড়ায় পত্রফলক বা পিনা (pina) সাজানো থাকে। এদের কিছু পাতাকে ক্রোজিয়ার (crozier) বলে যেগুলো রাইজোমের নিকটে কুণ্ডিত অবস্থায় থাকে। ফার্নের কিছু পাতার এ ধরনের বিন্যাসকে সারিসিনেট ভারনেশন (circinate vernation) বলে। পরিণত পত্রফলকের কিনারার নিচের দিকে স্পোরাঙ্গিয়া একক্রিত হয়ে সোরাস (sorus) গঠন করে। Pteris-এর স্পোরোফাইট উড্ডির অঙ্গজ ও অযৌন প্রক্রিয়া এবং গ্যামিটোফাইট উড্ডির যৌন প্রক্রিয়া বংশবৃদ্ধি ঘটায়।\n\nকোনো সময় পরিণত রাইজোমের অংশ বিশেষ মরে গেলে অপরিণত শাখাগুলো বিচ্ছিন্ন হয়ে পরে। বিচ্ছিন্ন শাখাগুলো নতুন মূল ও পাতা সৃষ্টির মাধ্যমে পৃথক উড্ডিদের পরিণত হয়। Pteris-এ স্পোর সৃষ্টির মাধ্যমে অযৌন জনন সম্পন্ন হয়। স্পোরখলি বা স্পোরাঙ্গিয়াম হতে স্পোর সৃষ্টি হয়। পরিণত উড্ডিদের পত্রফলক বা পিনার নিম্ন কিনারা থেকে স্পোরাঙ্গিয়াম (বছবচন-স্পোরাঙ্গিয়া) গঠিত হয়। যেসব টিস্যু থেকে স্পোরাঙ্গিয়াম গঠিত হয় তাদের অমরা (placenta) বলে। স্পোরাঙ্গিয়াগুলো পত্রফলকের সাথে একক্রিত হয়ে সোরাস (বছবচন- সোরাই-sori) সৃষ্টি করে যেগুলো পত্রফলকের উভয় কিনারায় অবিচ্ছিন্ন ও রৈখিকভাবে বিন্যস্ত থাকে। সোরাই উৎপন্নকারী পাতাকে স্পোরোফিল বলে। Pteris-এর সোরাইগুলোর এরূপ বিন্যস্ত থাকার কারণে এদের সিনোসোরাস (coenosorus) বলে। সোরাইগুলো পত্রফলকের বাঁকানো প্রান্ত দিয়ে আবৃত থাকে। পত্রফলকের এ বাঁকানো প্রান্তকে ফলস ইন্ডুসিয়াম (false\n\n| মূল | কাণ্ড | রাইজোম |\n| --- | --- | --- |\n\n[FIGURE x1=487 y1=\"530\" x2=1009 y2=\"1060\" caption=\"একটি Pteris উড্ডি\"]\nLabels: মূল, কাণ্ড, রাইজোম\nDescription: A diagram of a fern plant showing the root system, stem, and rhizome with labels pointing to each part.",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "শ্রেণিবিন্যাসগত অবস্থা (Systematic Position)",
+          "content_markdown": "Kingdom : Plantae\nGrade    : Tracheophyta\nDivision : Filicinophyta\nClass    : Filicineae\nOrder    : Filicales\nFamily   : Polypodiaceae\nGenus    : Pteris",
+          "structured_data": {},
+          "id": "22619062-695b-5201-ad3a-e87555428273"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "এরোধুর উড্ডির গঠন",
+          "content_markdown": "Pteris-এর প্রধান উড্ডির রেণুধর বা স্পোরোফাইটিক (sporophytic-2n). এদের দেহ মূল, কাণ্ড ও পাতায় বিভক্ত। কাণ্ড খাটো, দৃঢ় ও রাইজোমে রূপান্তরিত। রাইজোমের কিছু অংশ মাটিতে প্রেখিত থাকে। এটি রয়্যামেটা (ramenta) নামক এক প্রকার শঙ্ক ও বাদামি বর্ণের শক্ষপত্র (ফল) দিয়ে আবৃত থাকে।",
+          "structured_data": {},
+          "id": "5d9d38f9-7087-51a9-ac79-94413a54adcf"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "এরোধুর উড্ডির গঠন",
+          "content_markdown": "রাইজোমের অক্ষিয় দিক হতে অভ্যন্তরীণ গুচ্ছমূল বের হয়। রাইজোমের পৃষ্ঠীয় দিক হতে বৌটাযুক্ত পাতা বের হয়। Pteris এর পাতা সবুজ ও পক্ষল মৌলিক। এদের পাতাকে ফ্রন্ড (frond) বলে। পাতায় একটি অক্ষের দুপাশে জোড়ায় জোড়ায় পত্রফলক বা পিনা (pina) সাজানো থাকে। এদের কিছু পাতাকে ক্রোজিয়ার (crozier) বলে যেগুলো রাইজোমের নিকটে কুণ্ডিত অবস্থায় থাকে। ফার্নের কিছু পাতার এ ধরনের বিন্যাসকে সারিসিনেট ভারনেশন (circinate vernation) বলে। পরিণত পত্রফলকের কিনারার নিচের দিকে স্পোরাঙ্গিয়া একক্রিত হয়ে সোরাস (sorus) গঠন করে। Pteris-এর স্পোরোফাইট উড্ডির অঙ্গজ ও অযৌন প্রক্রিয়া এবং গ্যামিটোফাইট উড্ডির যৌন প্রক্রিয়া বংশবৃদ্ধি ঘটায়।",
+          "structured_data": {},
+          "id": "556c07c2-b69a-5826-b59f-9cc315399af4"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "এরোধুর উড্ডির গঠন",
+          "content_markdown": "কোনো সময় পরিণত রাইজোমের অংশ বিশেষ মরে গেলে অপরিণত শাখাগুলো বিচ্ছিন্ন হয়ে পরে। বিচ্ছিন্ন শাখাগুলো নতুন মূল ও পাতা সৃষ্টির মাধ্যমে পৃথক উড্ডিদের পরিণত হয়। Pteris-এ স্পোর সৃষ্টির মাধ্যমে অযৌন জনন সম্পন্ন হয়। স্পোরখলি বা স্পোরাঙ্গিয়াম হতে স্পোর সৃষ্টি হয়। পরিণত উড্ডিদের পত্রফলক বা পিনার নিম্ন কিনারা থেকে স্পোরাঙ্গিয়াম (বছবচন-স্পোরাঙ্গিয়া) গঠিত হয়। যেসব টিস্যু থেকে স্পোরাঙ্গিয়াম গঠিত হয় তাদের অমরা (placenta) বলে। স্পোরাঙ্গিয়াগুলো পত্রফলকের সাথে একক্রিত হয়ে সোরাস (বছবচন- সোরাই-sori) সৃষ্টি করে যেগুলো পত্রফলকের উভয় কিনারায় অবিচ্ছিন্ন ও রৈখিকভাবে বিন্যস্ত থাকে। সোরাই উৎপন্নকারী পাতাকে স্পোরোফিল বলে। Pteris-এর সোরাইগুলোর এরূপ বিন্যস্ত থাকার কারণে এদের সিনোসোরাস (coenosorus) বলে। সোরাইগুলো পত্রফলকের বাঁকানো প্রান্ত দিয়ে আবৃত থাকে। পত্রফলকের এ বাঁকানো প্রান্তকে ফলস ইন্ডুসিয়াম (false",
+          "structured_data": {},
+          "id": "bc7e4bfa-b018-5960-89a6-092cf0a65d55"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "এরোধুর উড্ডির গঠন",
+          "content_markdown": "| মূল | কাণ্ড | রাইজোম |\n| --- | --- | --- |",
+          "structured_data": {},
+          "id": "474268c4-af86-5287-9419-f4862bbc3375"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "এরোধুর উড্ডির গঠন",
+          "content_markdown": "[FIGURE x1=487 y1=\"530\" x2=1009 y2=\"1060\" caption=\"একটি Pteris উড্ডি\"]\nLabels: মূল, কাণ্ড, রাইজোম\nDescription: A diagram of a fern plant showing the root system, stem, and rhizome with labels pointing to each part.",
+          "structured_data": {},
+          "id": "bffb19b4-c7d4-532f-8052-9fc54d2592f1"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 6,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1_a4000",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 126.01,
+        "eval_count": 1968
+      }
+    },
+    {
+      "page_number": 9,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "জীববিজ্ঞান প্রথম পত্র\n\nindusium) বলে। সোরাসের অভ্যন্তরে অপরিণত ও পরিষ্ঠ স্পোরাঙ্গিয়া গৃহাকারে অবস্থান করে। প্রতিটি স্পোরাঙ্গিয়াম দুটি অংশ নিয়ে গঠিত, যথা— দীর্ঘ বৃত্ত ও গোলাকার ক্যাপসুল।\n\nক্যাপসুলের বহিঃআবরণীর একাংশ কাইটিনযুক্ত শক্ত কোষ দ্বারা আবৃত থাকে, একে অ্যানুলাস (annulus) বলে। অ্যানুলাসের ছিতিষ্ঠাপক ও পানিহাহি গুণ সম্পন্ন। অ্যানুলাসের বিপরীত দিকে পাতলা কোষের আবরণী থাকে, একে স্টোমিয়াম (stomium) বলে।\n\n[FIGURE x1=78 y1=\"34\" x2=1022 y2=\"34\" caption=\"চিত্র ৬.৮ Pteris-এর (ক) একটি স্পোরাঙ্গিয়াম, (খ) বিদীর্ণ স্পোরাঙ্গিয়াম, (গ) সোরাস বরাবর পত্রকের প্রত্যেকের প্রত্যেকে\"]\n\nস্পোরাঙ্গিয়ামে ক্যাপসুলের ভেতরে অবস্থিত স্পোরোজেনাস চিস্তু হতে ১৬টি ডিপ্লয়েড স্পোর মাতৃকোষ উৎপন্ন হয়। প্রতিটি স্পোর মাতৃকোষ মিওসিস বিভাজনের মধ্যে চারটি হ্যাপ্লুয়েড স্পোর সৃষ্টি করে। স্পোর সৃষ্টির পর পরিণত স্পোরাঙ্গিয়ামের পানিধারণ ক্ষমতা হ্রাস পায় ফলে এগুলো শুষ্ক হয়ে যায়। এতে অ্যানুলাস সঙ্কৈচিত হয়ে সোজা হয়ে যায়। এর ফলে ক্যাপসুলের প্রাচীর স্টোমিয়াম বরাবর বিদীর্ণ করে স্পোরগুলো বের হয়ে আসে। Pteris সমরেণপুষ্প বা হোমোস্পোরিয়াস অর্থাৎ এদের স্পোরগুলো সম আকৃতির ও সমগুণ সম্পন্ন।\n\nPteris-এর অন্তর্গতন (Internal structure of Pteris)\n\nমূল: Pteris-এর মূলের প্রত্যেকে বাইরের দিকের কর্টেক্স এবং কেন্দ্রীয় স্টিলি নিয়ে গঠিত। কর্টেক্স বাইরের দিকের প্যারেনকাইমা ও ভেতরের দিকে ক্লেরেনকাইমা দিয়ে গঠিত। কেন্দ্রীয় স্টিলি ডায়ার্ক ও এক্সার্ক জাইলেম নিয়ে গঠিত।\n\n[FIGURE x1=\"602\" y1=\"988\" x2=\"936\" y2=\"988\" caption=\"চিত্র ৬.৫ Pteris-এর রাইজোমের প্রত্যেকে\"]\n\nরাইজোম বা কাণ্ড: রাইজোমের সর্ববাহিরে এককোষী স্তর এপিডার্মিস (বহিঃত্বক) বিদ্যমান। এপিডার্মিসের নিচে দুই স্তর বিশিষ্ট ক্লেরেনকাইমা কোষ গঠিত হাইপোডার্মিস (অধিত্বক) এবং হাইপোডার্মিস বেষ্টিত বহুস্তর বিশিষ্ট প্যারেনকাইমা কোষ গঠিত কর্টেক্স বিদ্যমান। রাইজোমের কেন্দ্রীয় স্টিলি বিদ্যমান। স্টিলি অসংখ্য মেরিস্টিলি নিয়ে গঠিত যেগুলো দুটি বলয়ে সজিত থাকে। প্রতিটি মেরিস্টিলিতে একটি পাত সদৃশ মেসার্ক জাইলেম থাকে যা ফ্লোয়েম দিয়ে পরিবেষ্টিত থাকে। প্রতিটি স্টিলি নিজস্ব এন্ডোডার্মিস (অন্তঃত্বক) দিয়ে বেষ্টিত থাকে।\n\nর্যাকিস: র্যাকিসের প্রত্যেকে বাইরের দিকের এপিডার্মিস, ভেতরের দিকে ক্লেরেনকাইমা কোষ গঠিত হাইপোডার্মিস এবং কেন্দ্রীয় বহুস্তর বিশিষ্ট কর্টেক্স অবস্থিত। কর্টেক্সে অশ্খুরাকৃতির পরিবহন টিস্যু স্টিলি বিদ্যমান। র্যাকিসের ভাঙ্কুলার বাঁবল হ্যাড্রোসেন্ট্রিক ধরনের।",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "জীববিজ্ঞান প্রথম পত্র",
+          "structured_data": {},
+          "id": "46e8d9b1-151b-578d-ab40-33d42e41b6b0"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "indusium) বলে। সোরাসের অভ্যন্তরে অপরিণত ও পরিষ্ঠ স্পোরাঙ্গিয়া গৃহাকারে অবস্থান করে। প্রতিটি স্পোরাঙ্গিয়াম দুটি অংশ নিয়ে গঠিত, যথা— দীর্ঘ বৃত্ত ও গোলাকার ক্যাপসুল।",
+          "structured_data": {},
+          "id": "60383850-8e17-55d1-8233-c4e5032dfadb"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "ক্যাপসুলের বহিঃআবরণীর একাংশ কাইটিনযুক্ত শক্ত কোষ দ্বারা আবৃত থাকে, একে অ্যানুলাস (annulus) বলে। অ্যানুলাসের ছিতিষ্ঠাপক ও পানিহাহি গুণ সম্পন্ন। অ্যানুলাসের বিপরীত দিকে পাতলা কোষের আবরণী থাকে, একে স্টোমিয়াম (stomium) বলে।",
+          "structured_data": {},
+          "id": "05353f78-be42-5fee-ad5f-d231ddbfc73c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "[FIGURE x1=78 y1=\"34\" x2=1022 y2=\"34\" caption=\"চিত্র ৬.৮ Pteris-এর (ক) একটি স্পোরাঙ্গিয়াম, (খ) বিদীর্ণ স্পোরাঙ্গিয়াম, (গ) সোরাস বরাবর পত্রকের প্রত্যেকের প্রত্যেকে\"]",
+          "structured_data": {},
+          "id": "2e74d7be-47ce-5732-bd20-f9aa0c4153ba"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "স্পোরাঙ্গিয়ামে ক্যাপসুলের ভেতরে অবস্থিত স্পোরোজেনাস চিস্তু হতে ১৬টি ডিপ্লয়েড স্পোর মাতৃকোষ উৎপন্ন হয়। প্রতিটি স্পোর মাতৃকোষ মিওসিস বিভাজনের মধ্যে চারটি হ্যাপ্লুয়েড স্পোর সৃষ্টি করে। স্পোর সৃষ্টির পর পরিণত স্পোরাঙ্গিয়ামের পানিধারণ ক্ষমতা হ্রাস পায় ফলে এগুলো শুষ্ক হয়ে যায়। এতে অ্যানুলাস সঙ্কৈচিত হয়ে সোজা হয়ে যায়। এর ফলে ক্যাপসুলের প্রাচীর স্টোমিয়াম বরাবর বিদীর্ণ করে স্পোরগুলো বের হয়ে আসে। Pteris সমরেণপুষ্প বা হোমোস্পোরিয়াস অর্থাৎ এদের স্পোরগুলো সম আকৃতির ও সমগুণ সম্পন্ন।",
+          "structured_data": {},
+          "id": "5c7a928d-64eb-5b16-8bf6-7c95d38322b6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Pteris-এর অন্তর্গতন (Internal structure of Pteris)",
+          "structured_data": {},
+          "id": "2a991508-0f32-5736-838e-2dbf6d9814dd"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "মূল: Pteris-এর মূলের প্রত্যেকে বাইরের দিকের কর্টেক্স এবং কেন্দ্রীয় স্টিলি নিয়ে গঠিত। কর্টেক্স বাইরের দিকের প্যারেনকাইমা ও ভেতরের দিকে ক্লেরেনকাইমা দিয়ে গঠিত। কেন্দ্রীয় স্টিলি ডায়ার্ক ও এক্সার্ক জাইলেম নিয়ে গঠিত।",
+          "structured_data": {},
+          "id": "58fb0640-c7d3-534b-89e4-e1ae7e40baf6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "[FIGURE x1=\"602\" y1=\"988\" x2=\"936\" y2=\"988\" caption=\"চিত্র ৬.৫ Pteris-এর রাইজোমের প্রত্যেকে\"]",
+          "structured_data": {},
+          "id": "8048c538-ae18-5bb1-8609-136b26bbb07e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "রাইজোম বা কাণ্ড: রাইজোমের সর্ববাহিরে এককোষী স্তর এপিডার্মিস (বহিঃত্বক) বিদ্যমান। এপিডার্মিসের নিচে দুই স্তর বিশিষ্ট ক্লেরেনকাইমা কোষ গঠিত হাইপোডার্মিস (অধিত্বক) এবং হাইপোডার্মিস বেষ্টিত বহুস্তর বিশিষ্ট প্যারেনকাইমা কোষ গঠিত কর্টেক্স বিদ্যমান। রাইজোমের কেন্দ্রীয় স্টিলি বিদ্যমান। স্টিলি অসংখ্য মেরিস্টিলি নিয়ে গঠিত যেগুলো দুটি বলয়ে সজিত থাকে। প্রতিটি মেরিস্টিলিতে একটি পাত সদৃশ মেসার্ক জাইলেম থাকে যা ফ্লোয়েম দিয়ে পরিবেষ্টিত থাকে। প্রতিটি স্টিলি নিজস্ব এন্ডোডার্মিস (অন্তঃত্বক) দিয়ে বেষ্টিত থাকে।",
+          "structured_data": {},
+          "id": "01488507-8dbe-564a-8a0a-6a8b857f623c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "র্যাকিস: র্যাকিসের প্রত্যেকে বাইরের দিকের এপিডার্মিস, ভেতরের দিকে ক্লেরেনকাইমা কোষ গঠিত হাইপোডার্মিস এবং কেন্দ্রীয় বহুস্তর বিশিষ্ট কর্টেক্স অবস্থিত। কর্টেক্সে অশ্খুরাকৃতির পরিবহন টিস্যু স্টিলি বিদ্যমান। র্যাকিসের ভাঙ্কুলার বাঁবল হ্যাড্রোসেন্ট্রিক ধরনের।",
+          "structured_data": {},
+          "id": "46c591e4-98df-5024-bf13-08f2d6472ecb"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 10,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1_a4000",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 125.63,
+        "eval_count": 2228
+      }
+    },
+    {
+      "page_number": 10,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পত্রক: Pteris-এর পত্রক\n\nএপিডার্মিস, মেগোফিল ও ভাঙ্গুলার বান্ডল নিয়ে গঠিত। এককোষী স্তর বিশিষ্ট এপিডার্মিস পত্রকের উচ্চ ও নিম্নভূক্ত গঠন করে। এর উচ্চভূক্তে কিউটিকুল ও নিম্নভূক্তে স্টেমাটা বা পাথরঘ্র বিদ্যমান। দুইভূক্তের মধ্যে মেগোফিল টিস্যু বিদ্যমান যা নিচের দিকের স্পজি ও উপরের দিকের প্যালিসেড প্যারেনকাইমা দিয়ে গঠিত। পত্রকের মধ্যশিরার পাশে ক্লেরেনকাইমা ফিতা থাকে। এছাড়া মধ্যশিরাতে অ্যাফিক্রাইবাল ভাঙ্গুলার বান্ডল থাকে যা পেরিসাইকেল ও এন্ডোডার্মিসকে (অন্তঃভূক্ত) পরিবৃত্ত করে রাখে।\n\n### লিঙ্ঘর উদ্ভিদের গঠন\n\nPteris-এর স্পোরোফাইট থেকে সৃষ্ট স্পোর লিঙ্ঘর বা গ্যামিটোফাইটের প্রথম কোষ। অনুকূল উষ্ণতা ও আর্দ্রতা বিশিষ্ট পরিবেশে স্পোর অঙ্কৃতিও ও বিকশিত হয়ে হৃৎপিণ্ডাকার প্রোথ্যালাস (prothallus) সৃষ্টি করে।\n\n### ফার্ন প্রোথ্যালাসের বৈশিষ্ট্য\n\n1. ফার্নের স্পোর হতে অঙ্কৃতিও ও বিকশিত প্রোথ্যালাস\n   একটি হৃৎপিণ্ডাকার গঠন বিশেষ।\n2. এটি ফার্নের গ্যামিটোফাইটিক (N) পর্যায়।\n3. এটি বহুকোষী, স্বাধীন ও স্বভাজ এবং সবুজ বর্ণের।\n4. এর নিচাংশ হতে রাইজয়েড উৎপন্ন হয় যেগুলো\n   একে মাটির সাথে সংযুক্ত করে রাখে এবং মাটি হতে\n   খণ্ডিত পুষ্টি সংগ্রহ করে।\n5. এর উপরের দিকে একটি খাঁজ থাকে।\n6. এটি উভলিঙ্গ অর্থাৎ একই দেহে পুঁ ও স্ত্রীজনন অঙ্ক\n   অবস্থান করে।\n7. এর অঙ্কীয়তলে খাঁজের নিকটে স্বী জননাস\n   আর্কিগোনিয়াম এবং রাইজয়েডের নিকটে পুঁ জননাস\n   অ্যাছেরিডিয়াম উৎপন্ন হয়।\n\n### জনন অঙ্কের গঠন\n\nআর্কিগোনিয়াম (Archegonium):\nPteris-এর আর্কিগোনিয়াম দেখতে ফ্লাক আকৃতির এবং উদর ও গ্রীবা\nনিয়ে গঠিত। উদর অংশটি প্রোথ্যালাস কোষের মধ্যে নিহিত থাকে। গ্রীবা অংশটি কিছুটা বাঁকানো এবং প্রোথ্যালাস\nহতে প্রক্ষিপ্ত থাকে। গ্রীবার মধ্যে কয়েকটি গ্রীবা নালিকা কোষ এবং উদরে একটি উদরীয় নালিকা কোষ ও একটি\nডিম্বাঙ্কোষ থাকে। ডিম্বাঙ্কোষটি পরে ডিম্বাঙ্কুতে পরিণত হয়।\n\n### চিত্র ৬.৬ ফার্ন প্রোথ্যালাস\n\n| অহস্ত খাঁজ | আর্কিগোনিয়াম | অ্যাছেরিডিয়াম |\n|--------------|------------------|----------------|\n| রাইজয়েড |\n\n### চিত্র ৬.৭ Pteris উদ্ভিদের জনন অঙ্ক\n\n| গ্রীবা | গ্রীবা নালিকা কোষ | ডিম্বাঙ্কোষ | ডিম্বাঙ্কু |\n|---------|----------------------|---------------|-------------|\n\n| অপরিণত আর্কিগোনিয়াম | পরিণত আর্কিগোনিয়াম | অপরিণত অ্যাছেরিডিয়াম | পরিণত অ্যাছেরিডিয়াম | একটি শুক্রাগু |\n|-------------------------------|------------------------------|----------------------------|----------------------------|---------------------|\n\n### জীববিজ্ঞান প্রথম পত্র\n262\nব্রায়োফাইটা ও টেরিডোফাইটা",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "পত্রক: Pteris-এর পত্রক",
+          "content_markdown": "এপিডার্মিস, মেগোফিল ও ভাঙ্গুলার বান্ডল নিয়ে গঠিত। এককোষী স্তর বিশিষ্ট এপিডার্মিস পত্রকের উচ্চ ও নিম্নভূক্ত গঠন করে। এর উচ্চভূক্তে কিউটিকুল ও নিম্নভূক্তে স্টেমাটা বা পাথরঘ্র বিদ্যমান। দুইভূক্তের মধ্যে মেগোফিল টিস্যু বিদ্যমান যা নিচের দিকের স্পজি ও উপরের দিকের প্যালিসেড প্যারেনকাইমা দিয়ে গঠিত। পত্রকের মধ্যশিরার পাশে ক্লেরেনকাইমা ফিতা থাকে। এছাড়া মধ্যশিরাতে অ্যাফিক্রাইবাল ভাঙ্গুলার বান্ডল থাকে যা পেরিসাইকেল ও এন্ডোডার্মিসকে (অন্তঃভূক্ত) পরিবৃত্ত করে রাখে।",
+          "structured_data": {},
+          "id": "d59dc8ec-edff-5306-b77b-57b0e43a0844"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "লিঙ্ঘর উদ্ভিদের গঠন",
+          "content_markdown": "Pteris-এর স্পোরোফাইট থেকে সৃষ্ট স্পোর লিঙ্ঘর বা গ্যামিটোফাইটের প্রথম কোষ। অনুকূল উষ্ণতা ও আর্দ্রতা বিশিষ্ট পরিবেশে স্পোর অঙ্কৃতিও ও বিকশিত হয়ে হৃৎপিণ্ডাকার প্রোথ্যালাস (prothallus) সৃষ্টি করে।",
+          "structured_data": {},
+          "id": "bb6763d3-1737-5d58-9432-6be45880ecd3"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ফার্ন প্রোথ্যালাসের বৈশিষ্ট্য",
+          "content_markdown": "1. ফার্নের স্পোর হতে অঙ্কৃতিও ও বিকশিত প্রোথ্যালাস\n   একটি হৃৎপিণ্ডাকার গঠন বিশেষ।\n2. এটি ফার্নের গ্যামিটোফাইটিক (N) পর্যায়।\n3. এটি বহুকোষী, স্বাধীন ও স্বভাজ এবং সবুজ বর্ণের।\n4. এর নিচাংশ হতে রাইজয়েড উৎপন্ন হয় যেগুলো\n   একে মাটির সাথে সংযুক্ত করে রাখে এবং মাটি হতে\n   খণ্ডিত পুষ্টি সংগ্রহ করে।\n5. এর উপরের দিকে একটি খাঁজ থাকে।\n6. এটি উভলিঙ্গ অর্থাৎ একই দেহে পুঁ ও স্ত্রীজনন অঙ্ক\n   অবস্থান করে।\n7. এর অঙ্কীয়তলে খাঁজের নিকটে স্বী জননাস\n   আর্কিগোনিয়াম এবং রাইজয়েডের নিকটে পুঁ জননাস\n   অ্যাছেরিডিয়াম উৎপন্ন হয়।",
+          "structured_data": {},
+          "id": "389e1f4b-0d79-5698-b29e-2889e366142b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জনন অঙ্কের গঠন",
+          "content_markdown": "আর্কিগোনিয়াম (Archegonium):\nPteris-এর আর্কিগোনিয়াম দেখতে ফ্লাক আকৃতির এবং উদর ও গ্রীবা\nনিয়ে গঠিত। উদর অংশটি প্রোথ্যালাস কোষের মধ্যে নিহিত থাকে। গ্রীবা অংশটি কিছুটা বাঁকানো এবং প্রোথ্যালাস\nহতে প্রক্ষিপ্ত থাকে। গ্রীবার মধ্যে কয়েকটি গ্রীবা নালিকা কোষ এবং উদরে একটি উদরীয় নালিকা কোষ ও একটি\nডিম্বাঙ্কোষ থাকে। ডিম্বাঙ্কোষটি পরে ডিম্বাঙ্কুতে পরিণত হয়।",
+          "structured_data": {},
+          "id": "ea3b9b2c-3a15-5706-86c2-77c69652c464"
+        },
+        {
+          "block_type": "table",
+          "title": "চিত্র ৬.৬ ফার্ন প্রোথ্যালাস",
+          "content_markdown": "| অহস্ত খাঁজ | আর্কিগোনিয়াম | অ্যাছেরিডিয়াম |\n|--------------|------------------|----------------|\n| রাইজয়েড |",
+          "structured_data": {
+            "headers": [
+              "অহস্ত খাঁজ",
+              "আর্কিগোনিয়াম",
+              "অ্যাছেরিডিয়াম"
+            ],
+            "rows": [
+              [
+                "রাইজয়েড"
+              ]
+            ]
+          },
+          "id": "ae3fb96a-1d60-5de7-b174-353693ef0857"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "চিত্র ৬.৭ Pteris উদ্ভিদের জনন অঙ্ক",
+          "content_markdown": "| গ্রীবা | গ্রীবা নালিকা কোষ | ডিম্বাঙ্কোষ | ডিম্বাঙ্কু |\n|---------|----------------------|---------------|-------------|",
+          "structured_data": {},
+          "id": "e43b4d43-71f9-505a-a994-923bda46d22a"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "চিত্র ৬.৭ Pteris উদ্ভিদের জনন অঙ্ক",
+          "content_markdown": "| অপরিণত আর্কিগোনিয়াম | পরিণত আর্কিগোনিয়াম | অপরিণত অ্যাছেরিডিয়াম | পরিণত অ্যাছেরিডিয়াম | একটি শুক্রাগু |\n|-------------------------------|------------------------------|----------------------------|----------------------------|---------------------|",
+          "structured_data": {},
+          "id": "bd9fa7c8-20fe-5da8-ad89-7ecd57688af6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "262\nব্রায়োফাইটা ও টেরিডোফাইটা",
+          "structured_data": {},
+          "id": "4da7ada2-f5d0-5a9f-ad9f-83c3769d20c5"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 8,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1_a4000",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 131.13,
+        "eval_count": 2078
+      }
+    },
+    {
+      "page_number": 11,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### অযাহেরিডিয়াম (Antheridium):\nPteris-এর অযাহেরিডিয়াম গোলাকার বলের মতো। এটি একটি বন্ধ্যা প্রাচীর ঘেরা আবরণ থাকে। দুটি বলয় কোষ (ring cells) এবং $1/2$টি আবরণ কোষ (cover cells) দিয়ে বন্ধ্যা প্রাচীর গঠিত। অযাহেরিডিয়ামের ভেতরে 20–50টি শৃঙ্খলু মাত্তকোষ (sperm mother cell) বা অ্যান্ড্রোসাইট (androcytes) থাকে। এ মাত্তকোষগুলো রূপান্তরিত হয়ে প্রত্যেকে বহু ফ্রাজেলায়ুক্ত শৃঙ্খলু পরিণত হয়। পরিণত অযাহেরিডিয়ামের শৈর্ষভাগ হয়ে শৃঙ্খলগুলো বাইরে নির্গত হয়।\n\nPteris-এর অযাহেরিডিয়ামের প্রাচীর বিন্দু হয়ে শৃঙ্খলগুলো বের হয়ে আসে এবং বৃষ্টির পানি বা শিশির বিন্দু দিয়ে আর্কিগোনিয়ামে পরিবহিত হয়। নিমেকের পূর্বে পরিণত আর্কিগোনিয়ামের গ্রীবা নালিকা কোষ ও উদরীয় নালিকা কোষ বিনষ্ট হয়ে মিউসিলেজ সম্মিলিত একটি নালিকার সৃষ্টি করে। মিউসিলেজের সাথে ম্যালিক অ্যাসিড নিষ্কৃত হয়, ফলে শৃঙ্খল ডিম্বাঙুর প্রতি আকৃষ্ট হয়। শৃঙ্খল গ্রীবা নালি দিয়ে আর্কিগোনিয়ামে প্রবেশ করে এবং ডিম্বাঙুর সাথে মিলিত হয়ে জাইগোট বা উওস্পের গঠন করে।\n\nচিত্র ৬.৮ Pteris-এর নতুন স্পোরোফাইট\n\n### নতুন স্পোরোফাইট সৃষ্টি:\n\nPteris-এর উওস্পের বিবর্তিত হয়ে একটি ঢন্ডে পরিণত হয়। ঢন্ড বিকশিত হয়ে প্রথমে মূল, কাণ্ড ও প্রাথমিক পত্র সৃষ্টি করে। মূল মাটিতে প্রবেশ করার পর প্রোথ্যালাস শুরু হয়। পরে কাণ্ড ও প্রাথমিক পত্র বিকশিত হয়ে নতুন স্পোরোফাইট উড়ি সৃষ্টি করে।\n\n### Pteris-এর জীবনচক্রে এর জনুঃক্রম:\n\nকোনো উদ্ভিদের জীবনচক্রে ডিপ্লয়েড $(2n)$ স্পোরোফাইটিক জনু ও হ্যাপ্লয়েড $(n)$ গ্যামিটোফাইটিক জনু পর্যায়ক্রমে আবর্তিত হলে তাকে জনুঃক্রম (alternation of generations) বলে। Pteris-এর জীবনচক্রে প্রধান ও দীর্ঘ ডিপ্লয়েড স্পোরোফাইটিক জনু এবং অপ্রধান ও ক্ষণাক্ষী হ্যাপ্লয়েড গ্যামিটোফাইটিক জনু পর্যায়ক্রমে আবর্তিত হয় বলে এদের জনুঃক্রম ঘটে। এদের স্পোরোফাইটিক ও গ্যামিটোফাইটিক দশার উভয়ের গঠন সম্পূর্ণরূপে ভিন্ন ধরনের বলে এদের জনুঃক্রমকে হেটারোমরফিক জনুঃক্রম বলে। নিমে Pteris-এর জনুঃক্রম বর্ণনা করা হলো—\n\n**স্পোরোফাইটিক জনু**(Sporophytic generation)\n\nPteris-এর প্রধান উদ্ভিদ ডিপ্লয়েড রেণুধর বা স্পোরোফাইটিক। এদের দেহ মূল, কাণ্ড ও পাতায় বিভক্ত। এদের পরিণত উদ্ভিদের পত্রফলক বা পিনার নিম্ন কিনারা থেকে স্পোরাজিয়াম গঠিত হয়। স্পোরাজিয়াগুলো পত্রফলকের সাথে একত্রিত হয়ে সোরাস সৃষ্টি করে। স্পোরাজিয়ামের ক্যাপ্সুলের ভেতরে অবস্থিত স্পোরোজেনাস টিস্যু হতে 16টি ডিপ্লয়েড স্পোর মাত্তকোষ উৎপন্ন হয়। প্রতিটি স্পোর মাত্তকোষ বিভাজনের মাধ্যমে চারটি হ্যাপ্লয়েড $(n)$ স্পোর সৃষ্টি করে। স্পোর সৃষ্টির পর ক্যাপ্সুলের প্রাচীর বিদ্রীণ করে স্পোরগুলো বের হয়ে আসে।\n\n### গ্যামিটোফাইটিক জনু(Gametophytic generation)\n\nস্পোরোফাইটিক জনুতে সৃষ্ট হ্যাপ্লয়েড স্পোর গ্যামিটোফাইটিক জনুর প্রথম কোষ। অনুকূল উষ্ঞতা ও আর্দ্রতা বিশিষ্ট পরিবেশে স্পোর অক্ষুরিত ও বিকশিত হয়ে হৃৎপিঞ্চাকার প্রোথ্যালাস সৃষ্টি করে। এটি ফার্নের হ্যাপ্লয়েড গ্যামিটোফাইটিক উদ্ভিদ। প্রোথ্যালাস উভলিঙ্গ অর্থাৎ একই দেহে পুঁ ও স্ত্রীজন্ত অঙ্গ অবস্থান করে। প্রোথ্যালাসের স্ত্রী জন্তাঙ্গ আর্কিগোনিয়াম এবং পুঁ জন্তাঙ্গ অ্যান্ড্রোসাইট থেকে যথাক্রমে হ্যাপ্লয়েড ডিম্বাঙু ও হ্যাপ্লয়েড শৃঙ্খলু উৎপন্ন হয়। এদের মধ্যে নিমেকে ক্রিয়ায় ডিপ্লয়েড জাইগোট বা উওস্পের সৃষ্টি হয়। উওস্পের ক্রমে বিকশিত হয়ে ডিপ্লয়েড স্পোরোফাইটিক উদ্ভিদ সৃষ্টি করে।",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "অযাহেরিডিয়াম (Antheridium):",
+          "content_markdown": "Pteris-এর অযাহেরিডিয়াম গোলাকার বলের মতো। এটি একটি বন্ধ্যা প্রাচীর ঘেরা আবরণ থাকে। দুটি বলয় কোষ (ring cells) এবং $1/2$টি আবরণ কোষ (cover cells) দিয়ে বন্ধ্যা প্রাচীর গঠিত। অযাহেরিডিয়ামের ভেতরে 20–50টি শৃঙ্খলু মাত্তকোষ (sperm mother cell) বা অ্যান্ড্রোসাইট (androcytes) থাকে। এ মাত্তকোষগুলো রূপান্তরিত হয়ে প্রত্যেকে বহু ফ্রাজেলায়ুক্ত শৃঙ্খলু পরিণত হয়। পরিণত অযাহেরিডিয়ামের শৈর্ষভাগ হয়ে শৃঙ্খলগুলো বাইরে নির্গত হয়।",
+          "structured_data": {},
+          "id": "79da99da-8eed-5aeb-8b7f-0eaf9b0c5f35"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "অযাহেরিডিয়াম (Antheridium):",
+          "content_markdown": "Pteris-এর অযাহেরিডিয়ামের প্রাচীর বিন্দু হয়ে শৃঙ্খলগুলো বের হয়ে আসে এবং বৃষ্টির পানি বা শিশির বিন্দু দিয়ে আর্কিগোনিয়ামে পরিবহিত হয়। নিমেকের পূর্বে পরিণত আর্কিগোনিয়ামের গ্রীবা নালিকা কোষ ও উদরীয় নালিকা কোষ বিনষ্ট হয়ে মিউসিলেজ সম্মিলিত একটি নালিকার সৃষ্টি করে। মিউসিলেজের সাথে ম্যালিক অ্যাসিড নিষ্কৃত হয়, ফলে শৃঙ্খল ডিম্বাঙুর প্রতি আকৃষ্ট হয়। শৃঙ্খল গ্রীবা নালি দিয়ে আর্কিগোনিয়ামে প্রবেশ করে এবং ডিম্বাঙুর সাথে মিলিত হয়ে জাইগোট বা উওস্পের গঠন করে।",
+          "structured_data": {},
+          "id": "5c4c9211-e939-555c-8d91-99446ddd355f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "অযাহেরিডিয়াম (Antheridium):",
+          "content_markdown": "চিত্র ৬.৮ Pteris-এর নতুন স্পোরোফাইট",
+          "structured_data": {},
+          "id": "ebd3b799-8be9-51a2-8a3b-5a3bb41f07a1"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "নতুন স্পোরোফাইট সৃষ্টি:",
+          "content_markdown": "Pteris-এর উওস্পের বিবর্তিত হয়ে একটি ঢন্ডে পরিণত হয়। ঢন্ড বিকশিত হয়ে প্রথমে মূল, কাণ্ড ও প্রাথমিক পত্র সৃষ্টি করে। মূল মাটিতে প্রবেশ করার পর প্রোথ্যালাস শুরু হয়। পরে কাণ্ড ও প্রাথমিক পত্র বিকশিত হয়ে নতুন স্পোরোফাইট উড়ি সৃষ্টি করে।",
+          "structured_data": {},
+          "id": "c7acdaad-df01-577c-90e1-c79349320b2e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "Pteris-এর জীবনচক্রে এর জনুঃক্রম:",
+          "content_markdown": "কোনো উদ্ভিদের জীবনচক্রে ডিপ্লয়েড $(2n)$ স্পোরোফাইটিক জনু ও হ্যাপ্লয়েড $(n)$ গ্যামিটোফাইটিক জনু পর্যায়ক্রমে আবর্তিত হলে তাকে জনুঃক্রম (alternation of generations) বলে। Pteris-এর জীবনচক্রে প্রধান ও দীর্ঘ ডিপ্লয়েড স্পোরোফাইটিক জনু এবং অপ্রধান ও ক্ষণাক্ষী হ্যাপ্লয়েড গ্যামিটোফাইটিক জনু পর্যায়ক্রমে আবর্তিত হয় বলে এদের জনুঃক্রম ঘটে। এদের স্পোরোফাইটিক ও গ্যামিটোফাইটিক দশার উভয়ের গঠন সম্পূর্ণরূপে ভিন্ন ধরনের বলে এদের জনুঃক্রমকে হেটারোমরফিক জনুঃক্রম বলে। নিমে Pteris-এর জনুঃক্রম বর্ণনা করা হলো—",
+          "structured_data": {},
+          "id": "07932f92-c234-51b9-8bbe-0d4c38ca4231"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "Pteris-এর জীবনচক্রে এর জনুঃক্রম:",
+          "content_markdown": "**স্পোরোফাইটিক জনু**(Sporophytic generation)",
+          "structured_data": {},
+          "id": "e9f85065-57c5-5cfa-ad56-b19b9dd8e5da"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "Pteris-এর জীবনচক্রে এর জনুঃক্রম:",
+          "content_markdown": "Pteris-এর প্রধান উদ্ভিদ ডিপ্লয়েড রেণুধর বা স্পোরোফাইটিক। এদের দেহ মূল, কাণ্ড ও পাতায় বিভক্ত। এদের পরিণত উদ্ভিদের পত্রফলক বা পিনার নিম্ন কিনারা থেকে স্পোরাজিয়াম গঠিত হয়। স্পোরাজিয়াগুলো পত্রফলকের সাথে একত্রিত হয়ে সোরাস সৃষ্টি করে। স্পোরাজিয়ামের ক্যাপ্সুলের ভেতরে অবস্থিত স্পোরোজেনাস টিস্যু হতে 16টি ডিপ্লয়েড স্পোর মাত্তকোষ উৎপন্ন হয়। প্রতিটি স্পোর মাত্তকোষ বিভাজনের মাধ্যমে চারটি হ্যাপ্লয়েড $(n)$ স্পোর সৃষ্টি করে। স্পোর সৃষ্টির পর ক্যাপ্সুলের প্রাচীর বিদ্রীণ করে স্পোরগুলো বের হয়ে আসে।",
+          "structured_data": {},
+          "id": "2a82e7d5-5819-5f4c-8a4e-94e2403bc11a"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "গ্যামিটোফাইটিক জনু(Gametophytic generation)",
+          "content_markdown": "স্পোরোফাইটিক জনুতে সৃষ্ট হ্যাপ্লয়েড স্পোর গ্যামিটোফাইটিক জনুর প্রথম কোষ। অনুকূল উষ্ঞতা ও আর্দ্রতা বিশিষ্ট পরিবেশে স্পোর অক্ষুরিত ও বিকশিত হয়ে হৃৎপিঞ্চাকার প্রোথ্যালাস সৃষ্টি করে। এটি ফার্নের হ্যাপ্লয়েড গ্যামিটোফাইটিক উদ্ভিদ। প্রোথ্যালাস উভলিঙ্গ অর্থাৎ একই দেহে পুঁ ও স্ত্রীজন্ত অঙ্গ অবস্থান করে। প্রোথ্যালাসের স্ত্রী জন্তাঙ্গ আর্কিগোনিয়াম এবং পুঁ জন্তাঙ্গ অ্যান্ড্রোসাইট থেকে যথাক্রমে হ্যাপ্লয়েড ডিম্বাঙু ও হ্যাপ্লয়েড শৃঙ্খলু উৎপন্ন হয়। এদের মধ্যে নিমেকে ক্রিয়ায় ডিপ্লয়েড জাইগোট বা উওস্পের সৃষ্টি হয়। উওস্পের ক্রমে বিকশিত হয়ে ডিপ্লয়েড স্পোরোফাইটিক উদ্ভিদ সৃষ্টি করে।",
+          "structured_data": {},
+          "id": "208f77a6-558d-5f8d-91ec-65578a7192a2"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 8,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1_a4000",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 143.76,
+        "eval_count": 2995
+      }
+    },
+    {
+      "page_number": 12,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "জীববিজ্ঞান প্রথম পত্র\n\nচিত্র ৬.৯ Pteris-এর জীবন চক্র\n\nPteris এর অর্থনৈতিক গুরুত্ব\n\nPteris এর অর্থনৈতিক মূল্য খুব কম।\n\n১। ঐগুলো ফটিরকর ও বিষয়াৎ আগাছা যাদের ভঙ্গণ করলে গবাধিপত্র ক্ষতি হয়।\n২। কিছু প্রজাতির Pteris ব্যবহার উপযোগী।\n৩। সাবান ও কাঁচ তৈরিতে যে পটাশ ব্যবহার করা হয় তা Pteris হতে সংগ্রহ করা হয়।\n৪। এদের ফড় জালানি ও বেড়ার উপকরণ হিসেবে ব্যবহৃত হয়।\n৫। Pteris এর কচি কাণ্ড কৃমিনাশক হিসেবে ব্যবহৃত হয়।\n৬। অনেকক্ষেত্রে মদ তৈরিতে Pteris উদ্ভিদ ব্যবহৃত হয়।\n৭। এদের কিছু প্রজাতি রং, কাগজ ও বোর্ড তৈরিতে ব্যবহৃত হয়।\n৮। কয়েক প্রজাতির Pteris শাক হিসেবে (টেঁকি শাক) খাওয়া হয়।\n\n### Exercise\n\n#### Q1\n\n### Figure\n\n[FIGURE x1=483 y1=79 x2=1096 y2=79 caption=\"Pteris Life Cycle\"]\n\nLabels: স্পোর মাতৃকোষ, স্পোর জনু, স্পোরাজিয়াম, সোরাস, প্রোথ্যালাস, অভ্যাঘ্রিয়াম, অফোরু, অকিগোনিয়াম, জাইগোট বা উওস্পোর, নতুন স্পোরোফাইট]\n\nDescription: The life cycle of Pteris is depicted showing stages from spore maturation through sporophyte development and gametophyte formation back to new spores. Key terms such as sporangium, sorus, prothallus, archegonium, zygote, and new spore are labeled within the figure.",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "জীববিজ্ঞান প্রথম পত্র",
+          "structured_data": {},
+          "id": "4a4f0fc9-b513-5e34-badc-58cc3af3efe4"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "চিত্র ৬.৯ Pteris-এর জীবন চক্র",
+          "structured_data": {},
+          "id": "dae41989-2163-5fc3-92dd-c7d01e4e221b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Pteris এর অর্থনৈতিক গুরুত্ব",
+          "structured_data": {},
+          "id": "3cff746f-bfa9-56e8-bcbb-89a981c2b0a9"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Pteris এর অর্থনৈতিক মূল্য খুব কম।",
+          "structured_data": {},
+          "id": "1ebddc6b-33c9-5ee6-9dd5-f87373362783"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "১। ঐগুলো ফটিরকর ও বিষয়াৎ আগাছা যাদের ভঙ্গণ করলে গবাধিপত্র ক্ষতি হয়।\n২। কিছু প্রজাতির Pteris ব্যবহার উপযোগী।\n৩। সাবান ও কাঁচ তৈরিতে যে পটাশ ব্যবহার করা হয় তা Pteris হতে সংগ্রহ করা হয়।\n৪। এদের ফড় জালানি ও বেড়ার উপকরণ হিসেবে ব্যবহৃত হয়।\n৫। Pteris এর কচি কাণ্ড কৃমিনাশক হিসেবে ব্যবহৃত হয়।\n৬। অনেকক্ষেত্রে মদ তৈরিতে Pteris উদ্ভিদ ব্যবহৃত হয়।\n৭। এদের কিছু প্রজাতি রং, কাগজ ও বোর্ড তৈরিতে ব্যবহৃত হয়।\n৮। কয়েক প্রজাতির Pteris শাক হিসেবে (টেঁকি শাক) খাওয়া হয়।",
+          "structured_data": {},
+          "id": "8a04441f-60a9-522e-87ee-d3b41b431f79"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q1",
+          "content_markdown": "### Figure\n\nLabels: স্পোর মাতৃকোষ, স্পোর জনু, স্পোরাজিয়াম, সোরাস, প্রোথ্যালাস, অভ্যাঘ্রিয়াম, অফোরু, অকিগোনিয়াম, জাইগোট বা উওস্পোর, নতুন স্পোরোফাইট]\n\nDescription: The life cycle of Pteris is depicted showing stages from spore maturation through sporophyte development and gametophyte formation back to new spores. Key terms such as sporangium, sorus, prothallus, archegonium, zygote, and new spore are labeled within the figure.",
+          "structured_data": {
+            "question_number": "1",
+            "subtype": "written_item",
+            "stem": "### Figure\n\nLabels: স্পোর মাতৃকোষ, স্পোর জনু, স্পোরাজিয়াম, সোরাস, প্রোথ্যালাস, অভ্যাঘ্রিয়াম, অফোরু, অকিগোনিয়াম, জাইগোট বা উওস্পোর, নতুন স্পোরোফাইট]\n\nDescription: The life cycle of Pteris is depicted showing stages from spore maturation through sporophyte development and gametophyte formation back to new spores. Key terms such as sporangium, sorus, prothallus, archegonium, zygote, and new spore are labeled within the figure.",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "72dbe041-382c-59ea-8094-9ae279a7103c"
+        },
+        {
+          "block_type": "diagram",
+          "title": "Pteris Life Cycle",
+          "content_markdown": "Pteris Life Cycle",
+          "structured_data": {
+            "caption": "Pteris Life Cycle",
+            "labels": [],
+            "description": null,
+            "bbox_raw_px": [
+              483,
+              79,
+              1096,
+              79
+            ],
+            "bbox_snapped_px": null,
+            "figure_path": null
+          },
+          "id": "577cc634-41bc-5354-b552-9f60b9b91950"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 7,
+        "figure_count": 1,
+        "vlm_endpoint": "benchly_labpc1_a4000",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 128.03,
+        "eval_count": 862
+      }
+    },
+    {
+      "page_number": 13,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### ব্যবহারিক: Pteris এর স্পেরোফাইট শনাক্তকরণ\n\nPteris বহুবর্ষজীবী, ছলজ ফার্ন স্পেরোফাইট জাতীয় বীরৎ উদ্ভিদ। এরা সাধারণত শীতল, ভেজা ও ছায়াযুক্ত ছানে প্রচুর পরিমাণে জন্মায়। রৌদ্র জন্মাতে পারে বলে এদের সান ফার্ন বলা হয়। প্রায় 250 প্রজাতির Pteris গ্রীষ্মপ্রধান অঞ্চলে অধিক পরিমাণে জন্মে। বাংলাদেশে প্রায় 16 প্রজাতির Pteris পাওয়া যায়। এদের মধ্যে সবচেয়ে বেশি পাওয়া যায় Pteris vittata প্রজাতির ফার্ন।\n\nকীভাবে Pteris সংগ্রহ করবে?\n\nপুরানো দালনের প্রাচীর গাঠে, বৃক্ষের উপরে, শীতল ও ছায়াযুক্ত আর্ড ছানে প্রচুর পরিমাণে Pteris জন্মায়। এসব ছান থেকে Pteris উদ্ভিদটি সংগ্রহ করে ল্যাবরেটরিতে এনে বিভিন্ন অংশ স্পেরোফাইট, প্রোথ্যালাস ও সোরাস ইত্যাদি পরিবেক্ষণ করতে হবে।\n\n### Pteris এর শনাক্তকরণীয় বৈশিষ্ট্য\n\n#### স্পেরোফাইটিক উদ্ভিদ\n\n1. সবুজ উদ্ভিদের মূল, কাণ্ড ও পাতায় বিভক্ত।\n2. কাণ্ড গ্রাহ্যুক্ত রাইজোমে রূপান্তরিত, যা র্যামেন্টা দিয়ে আবৃত থাকে।\n3. রাইজোম থেকে সকৃ, অঙ্গীনিক ও শাখায়িত মূল বের হয়।\n4. পাতা মৌগিক, কচি অবস্থায় কুণ্ডিত সারসিনেট ভার্নেশন গঠন করে।\n5. পাতার কিনারায় র্যাকিস বিদ্যমান থাকে।\n6. স্পেরাজিয়া এককটি হয়ে পত্রফলকের কিনারায় সোরাস গঠন করে।\n\n#### গ্যামিটোফাইটিক উদ্ভিদ\n\n1. এটি হর্ষপিঙ্কার সবুজ বর্ণের গঠন বিশেষ যা প্রোথ্যালাস নামে পরিচিত।\n2. এর নিম্নাংশ হতে রাইজোড সৃষ্টি হয়।\n3. এর উপরের দিকে একটি খাঁজ থাকে।\n4. এতে স্রী জনাঙ্গ অর্কিগোনিয়াম এবং পুং জনাঙ্গ অ্যাঘ্রেরিডিয়াম থাকে।\n\n### মস ও ফার্ন উদ্ভিদের মধ্যে পার্থক্য\n\n| পার্থক্যের বিষয় | মস উদ্ভিদ (ব্রায়োফাইট) | ফার্ন উদ্ভিদ (টেরিডোফাইট) |\n| --- | --- | --- |\n| 1. প্রধান উদ্ভিদ | গ্যামিটোফাইট $(n)$; এটি রাইজয়েড, কাণ্ড ও পাতায় বিভক্ত। | স্পেরোফাইট $(2n)$; এটি মূল, কাণ্ড ও পাতায় বিভক্ত। |\n| 2. অপ্রধান উদ্ভিদ | স্পেরোফাইট; এটি পদ, সিটা ও ক্যাপসুলে বিভক্ত। | গ্যামিটোফাইট; এটি হর্ষপিঙ্কার। |\n| 3. কাণ্ডের প্রকৃতি | বায়বীয়, সকৃ ও নমনীয়। | ভূনিষ্ঠ ও রাইজোম ধরনের। |\n| 4. পরিবহন কলা | অনুপস্থিত। | বিদ্যমান। |\n| 5. মুকুল পত্রবিন্যাস | অকুণ্ডিত। | কুণ্ডিত। |\n| 6. র্যামেন্টা ও সোরাস | অনুপস্থিত। | পাতায় বিদ্যমান। |\n| 7. অকুণ্ডিত স্পোর | প্রোটোনেম। | প্রোথ্যালাস। |\n| 8. নির্ভরশীলতা | স্পেরোফাইট উদ্ভিদ গ্যামিটোফাইটের উপর নির্ভরশীল। | স্পেরোফাইট ও গ্যামিটোফাইট উভয়ই স্বতন্ত্র ও স্বাধীন। |\n\n### জীববিজ্ঞান প্রথম ১৭ (খ)",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "ব্যবহারিক: Pteris এর স্পেরোফাইট শনাক্তকরণ",
+          "content_markdown": "Pteris বহুবর্ষজীবী, ছলজ ফার্ন স্পেরোফাইট জাতীয় বীরৎ উদ্ভিদ। এরা সাধারণত শীতল, ভেজা ও ছায়াযুক্ত ছানে প্রচুর পরিমাণে জন্মায়। রৌদ্র জন্মাতে পারে বলে এদের সান ফার্ন বলা হয়। প্রায় 250 প্রজাতির Pteris গ্রীষ্মপ্রধান অঞ্চলে অধিক পরিমাণে জন্মে। বাংলাদেশে প্রায় 16 প্রজাতির Pteris পাওয়া যায়। এদের মধ্যে সবচেয়ে বেশি পাওয়া যায় Pteris vittata প্রজাতির ফার্ন।",
+          "structured_data": {},
+          "id": "8451053a-c68d-5a2e-9c4c-babf3be712e0"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ব্যবহারিক: Pteris এর স্পেরোফাইট শনাক্তকরণ",
+          "content_markdown": "কীভাবে Pteris সংগ্রহ করবে?",
+          "structured_data": {},
+          "id": "eb0f9b24-9ed4-5326-972c-5b8534ac04bc"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ব্যবহারিক: Pteris এর স্পেরোফাইট শনাক্তকরণ",
+          "content_markdown": "পুরানো দালনের প্রাচীর গাঠে, বৃক্ষের উপরে, শীতল ও ছায়াযুক্ত আর্ড ছানে প্রচুর পরিমাণে Pteris জন্মায়। এসব ছান থেকে Pteris উদ্ভিদটি সংগ্রহ করে ল্যাবরেটরিতে এনে বিভিন্ন অংশ স্পেরোফাইট, প্রোথ্যালাস ও সোরাস ইত্যাদি পরিবেক্ষণ করতে হবে।",
+          "structured_data": {},
+          "id": "60a94a23-c601-59d2-b51d-f934f9bc9cb5"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "স্পেরোফাইটিক উদ্ভিদ",
+          "content_markdown": "1. সবুজ উদ্ভিদের মূল, কাণ্ড ও পাতায় বিভক্ত।\n2. কাণ্ড গ্রাহ্যুক্ত রাইজোমে রূপান্তরিত, যা র্যামেন্টা দিয়ে আবৃত থাকে।\n3. রাইজোম থেকে সকৃ, অঙ্গীনিক ও শাখায়িত মূল বের হয়।\n4. পাতা মৌগিক, কচি অবস্থায় কুণ্ডিত সারসিনেট ভার্নেশন গঠন করে।\n5. পাতার কিনারায় র্যাকিস বিদ্যমান থাকে।\n6. স্পেরাজিয়া এককটি হয়ে পত্রফলকের কিনারায় সোরাস গঠন করে।",
+          "structured_data": {},
+          "id": "d3511cc3-d038-5a44-84d3-eb73a347ee1b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "গ্যামিটোফাইটিক উদ্ভিদ",
+          "content_markdown": "1. এটি হর্ষপিঙ্কার সবুজ বর্ণের গঠন বিশেষ যা প্রোথ্যালাস নামে পরিচিত।\n2. এর নিম্নাংশ হতে রাইজোড সৃষ্টি হয়।\n3. এর উপরের দিকে একটি খাঁজ থাকে।\n4. এতে স্রী জনাঙ্গ অর্কিগোনিয়াম এবং পুং জনাঙ্গ অ্যাঘ্রেরিডিয়াম থাকে।",
+          "structured_data": {},
+          "id": "2564f504-2011-51bb-96eb-1e48393cc347"
+        },
+        {
+          "block_type": "table",
+          "title": "মস ও ফার্ন উদ্ভিদের মধ্যে পার্থক্য",
+          "content_markdown": "| পার্থক্যের বিষয় | মস উদ্ভিদ (ব্রায়োফাইট) | ফার্ন উদ্ভিদ (টেরিডোফাইট) |\n| --- | --- | --- |\n| 1. প্রধান উদ্ভিদ | গ্যামিটোফাইট $(n)$; এটি রাইজয়েড, কাণ্ড ও পাতায় বিভক্ত। | স্পেরোফাইট $(2n)$; এটি মূল, কাণ্ড ও পাতায় বিভক্ত। |\n| 2. অপ্রধান উদ্ভিদ | স্পেরোফাইট; এটি পদ, সিটা ও ক্যাপসুলে বিভক্ত। | গ্যামিটোফাইট; এটি হর্ষপিঙ্কার। |\n| 3. কাণ্ডের প্রকৃতি | বায়বীয়, সকৃ ও নমনীয়। | ভূনিষ্ঠ ও রাইজোম ধরনের। |\n| 4. পরিবহন কলা | অনুপস্থিত। | বিদ্যমান। |\n| 5. মুকুল পত্রবিন্যাস | অকুণ্ডিত। | কুণ্ডিত। |\n| 6. র্যামেন্টা ও সোরাস | অনুপস্থিত। | পাতায় বিদ্যমান। |\n| 7. অকুণ্ডিত স্পোর | প্রোটোনেম। | প্রোথ্যালাস। |\n| 8. নির্ভরশীলতা | স্পেরোফাইট উদ্ভিদ গ্যামিটোফাইটের উপর নির্ভরশীল। | স্পেরোফাইট ও গ্যামিটোফাইট উভয়ই স্বতন্ত্র ও স্বাধীন। |",
+          "structured_data": {
+            "headers": [
+              "পার্থক্যের বিষয়",
+              "মস উদ্ভিদ (ব্রায়োফাইট)",
+              "ফার্ন উদ্ভিদ (টেরিডোফাইট)"
+            ],
+            "rows": [
+              [
+                "1. প্রধান উদ্ভিদ",
+                "গ্যামিটোফাইট $(n)$; এটি রাইজয়েড, কাণ্ড ও পাতায় বিভক্ত।",
+                "স্পেরোফাইট $(2n)$; এটি মূল, কাণ্ড ও পাতায় বিভক্ত।"
+              ],
+              [
+                "2. অপ্রধান উদ্ভিদ",
+                "স্পেরোফাইট; এটি পদ, সিটা ও ক্যাপসুলে বিভক্ত।",
+                "গ্যামিটোফাইট; এটি হর্ষপিঙ্কার।"
+              ],
+              [
+                "3. কাণ্ডের প্রকৃতি",
+                "বায়বীয়, সকৃ ও নমনীয়।",
+                "ভূনিষ্ঠ ও রাইজোম ধরনের।"
+              ],
+              [
+                "4. পরিবহন কলা",
+                "অনুপস্থিত।",
+                "বিদ্যমান।"
+              ],
+              [
+                "5. মুকুল পত্রবিন্যাস",
+                "অকুণ্ডিত।",
+                "কুণ্ডিত।"
+              ],
+              [
+                "6. র্যামেন্টা ও সোরাস",
+                "অনুপস্থিত।",
+                "পাতায় বিদ্যমান।"
+              ],
+              [
+                "7. অকুণ্ডিত স্পোর",
+                "প্রোটোনেম।",
+                "প্রোথ্যালাস।"
+              ],
+              [
+                "8. নির্ভরশীলতা",
+                "স্পেরোফাইট উদ্ভিদ গ্যামিটোফাইটের উপর নির্ভরশীল।",
+                "স্পেরোফাইট ও গ্যামিটোফাইট উভয়ই স্বতন্ত্র ও স্বাধীন।"
+              ]
+            ]
+          },
+          "id": "814ed52a-3a7d-58de-9a8c-6f97782fedb4"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 6,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1_a4000",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 126.36,
+        "eval_count": 2104
+      }
+    },
+    {
+      "page_number": 14,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### গোড়াপত্তনিক সারসংক্ষেপ\n\n#### ব্রায়োফাইটা\n- অগুলি ফার্ন হয়। বীজ ও ফুল উৎপাদন অক্ষমতা থাকে এবং এগুলো ফার্ন উদ্ভিদের মধ্যে আকারে সর্বাপেক্ষা ছোট।\n\n#### টেরিডোফাইটা\n- অগুলি ফার্ন হয়। বীজ ও ফুল উৎপাদন অক্ষমতা থাকে এবং এগুলো ফার্ন উদ্ভিদের মধ্যে আকারে সর্বাপেক্ষা ছোট।\n\n#### আর্কিগোনিয়াম\n- ব্রায়োফাইটা ও টেরিডোফাইটার স্রী জনন অঙ্কে আর্কিগোনিয়াম বলে। আর্কিগোনিয়াম থেকে হ্যাপ্লোয়েড দিখাণু উৎপন্ন হয়।\n\n#### অ্যাচ্ছেরিডিয়াম\n- ব্রায়োফাইটা ও টেরিডোফাইটার পৃষ্ঠজন অঙ্কে অ্যাচ্ছেরিডিয়াম বলে। অ্যাচ্ছেরিডিয়াম থেকে হ্যাপ্লোয়েড শুক্রাঙ্গ উৎপন্ন হয়।\n\n#### মস\n- ব্রায়োফাইটা বিভাগভুক্ত অগুলির মস বলা হয়। পৃথিবীতে এই বিভাগের প্রায় 24,000 প্রজাতি রয়েছে যাদের 248টি প্রজাতি বাংলাদেশে শনাক্ত করা হয়েছে।\n\n#### ফার্ন\n- টেরিডোফাইটা বিভাগভুক্ত অগুলির ফার্ন বলা হয়। পৃথিবীতে প্রায় 11000 প্রজাতির ফার্ন উদ্ভিদ শনাক্ত করা হয়েছে যাদের মধ্যে 195 প্রজাতির ফার্ন বাংলাদেশে তালিকাভুক্ত হয়েছে।\n\n#### সান ফার্ন\n- Pteris রৌদ্রে জন্মাতে পারে এগুলির সান ফার্ন বলা হয়। এরা বহুবর্ষজীবী, স্ত্রী ফার্ন জাতীয় বীরুৎ উদ্ভিদ।\n\n#### প্রোথ্যালাস\n- টেরিডোফাইটের লিঙ্ঘাধর বা গ্যামিটোফাইটিক উদ্ভিদকে প্রোথ্যালাস (prothelus) বলে। প্রোথ্যালাস সবুজ, বহুকোষী, স্বাধীন ও যৌগোজী উদ্ভিদ।\n\n#### জনুঞ্চক্রম\n- কোনো উদ্ভিদের জীবনচক্রে ডিপ্লয়েড স্পোরোফাইটিক দশা ও হ্যাপ্লোয়েড গ্যামিটোফাইটিক দশা পর্যায়ক্রমে আবর্তিত হলে তাকে জনুঞ্চক্রম বলে।\n\n### অনুশীলনী\n\n#### সাধারণ বহুনির্বাচনি প্রশ্ন (নমুনা)\n##### 1. নিচের কোনটি সান ফার্ন?\n    * ক. Riccia\n    * খ. Equisetum\n    * গ. Selaginella\n    * ঘ. Pteris\n\n##### 2. Pteris সম আকৃতির ও সমগুলি সম্পর্কে উৎপাদন করে, এরকম বৈশিষ্ট্যকে কি বলে?\n    * ক. হেটারোস্পোরিয়াস\n    * খ. অ্যাস্পোরিয়াস\n    * গ. আইসোস্পোরিয়াস\n    * ঘ. হোমোস্পোরিয়াস\n\n##### 3. Pteris (ফার্ন) উদ্ভিদে--\n    * ক. সম্পূর্ণক্র\n    * খ. গ্যামিটোফাইটিক\n    * গ. পরিবহন টিস্যুযুক্ত\n    * ঘ. থ্যালয়েড\n\n##### 4. Pteris কে সানফার্ন বলার কারণ কি?\n    * ক. এটি শীতল ছায়াযুক্ত ছানে জন্মায়\n    * খ. এটি রৌদ্রে জন্মাতে পারে\n    * গ. এটি ইটের স্তম্পে জন্মায়\n    * ঘ. এটি রৌদ্রে জন্মাতে পারে না\n\n##### 5. ফার্ন উদ্ভিদের রাইজোম যে শক্তপত্র দ্বারা আবৃত থাকে তাকে কি বলে?\n    * ক. র্যামেটা\n    * খ. ক্রোজিয়ার\n    * গ. সারসিনেট\n    * ঘ. র্যাকিস\n\n##### 6. নিচের কোনটি ঢেঁকি শাক নামে পরিচিত?\n    * ক. Riccia\n    * খ. Dryopteris\n    * গ. Selaginella\n    * ঘ. Pteris",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "ব্রায়োফাইটা",
+          "content_markdown": "- অগুলি ফার্ন হয়। বীজ ও ফুল উৎপাদন অক্ষমতা থাকে এবং এগুলো ফার্ন উদ্ভিদের মধ্যে আকারে সর্বাপেক্ষা ছোট।",
+          "structured_data": {},
+          "id": "468888a6-d38f-53e7-b52c-f5a1b1b49941"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "টেরিডোফাইটা",
+          "content_markdown": "- অগুলি ফার্ন হয়। বীজ ও ফুল উৎপাদন অক্ষমতা থাকে এবং এগুলো ফার্ন উদ্ভিদের মধ্যে আকারে সর্বাপেক্ষা ছোট।",
+          "structured_data": {},
+          "id": "60142d5c-7eac-565c-b233-7bb1a003a709"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "আর্কিগোনিয়াম",
+          "content_markdown": "- ব্রায়োফাইটা ও টেরিডোফাইটার স্রী জনন অঙ্কে আর্কিগোনিয়াম বলে। আর্কিগোনিয়াম থেকে হ্যাপ্লোয়েড দিখাণু উৎপন্ন হয়।",
+          "structured_data": {},
+          "id": "5f81a8d1-2441-503d-9351-fe42476635d4"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "অ্যাচ্ছেরিডিয়াম",
+          "content_markdown": "- ব্রায়োফাইটা ও টেরিডোফাইটার পৃষ্ঠজন অঙ্কে অ্যাচ্ছেরিডিয়াম বলে। অ্যাচ্ছেরিডিয়াম থেকে হ্যাপ্লোয়েড শুক্রাঙ্গ উৎপন্ন হয়।",
+          "structured_data": {},
+          "id": "143eabc7-a033-5da3-945e-e7ee47ff9ff4"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "মস",
+          "content_markdown": "- ব্রায়োফাইটা বিভাগভুক্ত অগুলির মস বলা হয়। পৃথিবীতে এই বিভাগের প্রায় 24,000 প্রজাতি রয়েছে যাদের 248টি প্রজাতি বাংলাদেশে শনাক্ত করা হয়েছে।",
+          "structured_data": {},
+          "id": "948f9af4-5051-5cde-b857-7afbe4032946"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ফার্ন",
+          "content_markdown": "- টেরিডোফাইটা বিভাগভুক্ত অগুলির ফার্ন বলা হয়। পৃথিবীতে প্রায় 11000 প্রজাতির ফার্ন উদ্ভিদ শনাক্ত করা হয়েছে যাদের মধ্যে 195 প্রজাতির ফার্ন বাংলাদেশে তালিকাভুক্ত হয়েছে।",
+          "structured_data": {},
+          "id": "7af7e659-b847-5281-9ee0-2774fbb32fce"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "সান ফার্ন",
+          "content_markdown": "- Pteris রৌদ্রে জন্মাতে পারে এগুলির সান ফার্ন বলা হয়। এরা বহুবর্ষজীবী, স্ত্রী ফার্ন জাতীয় বীরুৎ উদ্ভিদ।",
+          "structured_data": {},
+          "id": "2c35af7f-5a30-5da0-81e6-6b42e25b60a4"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "প্রোথ্যালাস",
+          "content_markdown": "- টেরিডোফাইটের লিঙ্ঘাধর বা গ্যামিটোফাইটিক উদ্ভিদকে প্রোথ্যালাস (prothelus) বলে। প্রোথ্যালাস সবুজ, বহুকোষী, স্বাধীন ও যৌগোজী উদ্ভিদ।",
+          "structured_data": {},
+          "id": "41314a07-4839-5abe-83c7-16c04c18b187"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জনুঞ্চক্রম",
+          "content_markdown": "- কোনো উদ্ভিদের জীবনচক্রে ডিপ্লয়েড স্পোরোফাইটিক দশা ও হ্যাপ্লোয়েড গ্যামিটোফাইটিক দশা পর্যায়ক্রমে আবর্তিত হলে তাকে জনুঞ্চক্রম বলে।",
+          "structured_data": {},
+          "id": "2aab8cb6-6ff2-5f5e-a930-fce37a683372"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "সাধারণ বহুনির্বাচনি প্রশ্ন (নমুনা)",
+          "content_markdown": "##### 1. নিচের কোনটি সান ফার্ন?\n    * ক. Riccia\n    * খ. Equisetum\n    * গ. Selaginella\n    * ঘ. Pteris",
+          "structured_data": {},
+          "id": "2768e1dc-96f2-5e3a-a453-61fcb008f897"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "সাধারণ বহুনির্বাচনি প্রশ্ন (নমুনা)",
+          "content_markdown": "##### 2. Pteris সম আকৃতির ও সমগুলি সম্পর্কে উৎপাদন করে, এরকম বৈশিষ্ট্যকে কি বলে?\n    * ক. হেটারোস্পোরিয়াস\n    * খ. অ্যাস্পোরিয়াস\n    * গ. আইসোস্পোরিয়াস\n    * ঘ. হোমোস্পোরিয়াস",
+          "structured_data": {},
+          "id": "92d23dd9-2784-5dd7-a79c-f1cecd741790"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "সাধারণ বহুনির্বাচনি প্রশ্ন (নমুনা)",
+          "content_markdown": "##### 3. Pteris (ফার্ন) উদ্ভিদে--\n    * ক. সম্পূর্ণক্র\n    * খ. গ্যামিটোফাইটিক\n    * গ. পরিবহন টিস্যুযুক্ত\n    * ঘ. থ্যালয়েড",
+          "structured_data": {},
+          "id": "6f5f6844-cb4f-559b-8b7b-c4c1d68df0c7"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "সাধারণ বহুনির্বাচনি প্রশ্ন (নমুনা)",
+          "content_markdown": "##### 4. Pteris কে সানফার্ন বলার কারণ কি?\n    * ক. এটি শীতল ছায়াযুক্ত ছানে জন্মায়\n    * খ. এটি রৌদ্রে জন্মাতে পারে\n    * গ. এটি ইটের স্তম্পে জন্মায়\n    * ঘ. এটি রৌদ্রে জন্মাতে পারে না",
+          "structured_data": {},
+          "id": "beeeb8fb-6a5a-5643-bba2-150ca9f32c84"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "সাধারণ বহুনির্বাচনি প্রশ্ন (নমুনা)",
+          "content_markdown": "##### 5. ফার্ন উদ্ভিদের রাইজোম যে শক্তপত্র দ্বারা আবৃত থাকে তাকে কি বলে?\n    * ক. র্যামেটা\n    * খ. ক্রোজিয়ার\n    * গ. সারসিনেট\n    * ঘ. র্যাকিস",
+          "structured_data": {},
+          "id": "44a8f699-c5b0-55cc-8a66-c7b99578c99c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "সাধারণ বহুনির্বাচনি প্রশ্ন (নমুনা)",
+          "content_markdown": "##### 6. নিচের কোনটি ঢেঁকি শাক নামে পরিচিত?\n    * ক. Riccia\n    * খ. Dryopteris\n    * গ. Selaginella\n    * ঘ. Pteris",
+          "structured_data": {},
+          "id": "18ef7fce-f171-53c1-abe9-c5b7721951ce"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 15,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 101.03,
+        "eval_count": 2146
+      }
+    },
+    {
+      "page_number": 15,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### জীববিজ্ঞান প্রথম পত্র\n\n7. কোন ধরনের উড্ডয়ানটি লিভারওয়ার্ট বলে?\n   ক. Hepaticae\n   খ. Bryopsida\n   গ. Filicinae\n   ঘ. Anthocerotae\n\n8. Pteris এর কৃষিত পাতার বিন্যাসকে কি বলে?\n   ক. ক্রোজিয়ার\n   খ. সারসিনেট ভারণেশন\n   গ. ফ্রুড\n   ঘ. পফ্ফল যৌগিক\n\n9. Pteris এর পাতাকে কি বলে?\n   ক. র্যামেন্টা\n   খ. ক্রোজিয়ার\n   গ. ফ্রুড\n   ঘ. র্যাকিস\n\n10. ব্রায়োফাইটার মূলদেহের পাতার ন্যায় অংশকে কি বলে?\n    ক. কলয়েড\n    খ. ফাইলয়েড\n    গ. রাইজয়েড\n    ঘ. প্রোথেলাস\n\n11. ব্রায়োফাইটার মূলদেহের কাণ্ডের ন্যায় অংশকে কি বলে?\n    ক. কলয়েড\n    খ. ফাইলয়েড\n    গ. রাইজয়েড\n    ঘ. প্রোথেলাস\n\n12. ব্রায়োফাইটার উড্ডয়ের মূলের মতো কাজ করে নিচের কোনটি?\n    ক. রাইজয়েড\n    খ. প্রোথেলাস\n    গ. কলয়েড\n    ঘ. ফাইলয়েড\n\n13. নিচের কোনটি ব্রায়োফাইটার অঙ্গ জন্য অস্থির অংশ?\n    ক. গেমি\n    খ. বুলুবিল\n    গ. প্রোটোনেমা\n    ঘ. আর্কিগোনিয়াম\n\n14. Riccia এর পৃজনন অঙ্গ কোনটি?\n    ক. অ্যাছেরিডিয়াম\n    খ. বুলুবিল\n    গ. প্রোটোনেমা\n    ঘ. আর্কিগোনিয়াম\n\n15. Riccia এর শ্রী জন্য অঙ্গ কোনটি?\n    ক. অ্যাছেরিডিয়াম\n    খ. বুলুবিল\n    গ. প্রোটোনেমা\n    ঘ. আর্কিগোনিয়াম\n\n16. Pteris এর কচি পাতাকে কি বলে?\n    ক. র্যামেন্টা\n    খ. ক্রোজিয়ার\n    গ. ফ্রুড\n    ঘ. র্যাকিস\n\n17. Riccia এর বেনুধর উড্ডয়নটি কোন প্রকৃতি?\n    ক. ডিপ্লয়েড (2n)\n    খ. হ্যাপ্লয়েড (n)\n    গ. ট্রিপ্লয়েড (3n)\n    ঘ. গ. পলিপ্লয়েড (∞)\n\nবহুগুণা সমাধিক্ষিক প্রশ্ন (নমুনা)\n\n18. Riccia এর থ্যালাসের ক্ষেত্রে যা প্রযোজ্য-i. দ্বাগ্র শাখাযুক্ত ii. একে রোসেট বলা হয় iii. বহুকোষী শক্ত ও এককোষী রাইজয়েডযুক্ত – নিচের কোনটি সত্যিক?\n    ক. i ও ii\n    খ. ii ও iii\n    গ. i ও iii\n    ঘ. i, ii ও iii\n\n19. ফার্ন প্রোথালাসের বৈশিষ্ট্য–i. হর্ষপিঙ্কার গঠন ii. রাইজয়েড দ্বারা মাটি হতে খনিজ পৃষ্ঠ সংগ্রহ করে iii. নিচের দিকে একটি খাঁজ থাকে— নিচের কোনটি সত্যিক?\n    ক. i ও ii\n    খ. ii ও iii\n    গ. i ও iii\n    ঘ. i, ii ও iii\n\n20. মস উড্ডয়ের-i. প্রায় 6000 প্রজাতি রয়েছে ii. এদের সাধারণত লিভারওয়ার্ট বলে iii. এরা শুষ্ক ছানে জন্মায়– নিচের কোনটি সত্যিক?\n    ক. i ও ii\n    খ. ii ও iii\n    গ. i ও iii\n    ঘ. i, ii ও iii\n\nঅভিন্ন তথ্যভিত্তিক প্রশ্ন (নমুনা)\n\n#### Exercise\n\n##### Q21.\nনিচের উদ্বীপকের আলোকে 21 ও 22 নং প্রশ্নের উত্তর দাও:\nএকদল ছাত্র পথ চলতে চলতে মানুষের লিভার আকৃতিবিশিষ্ট ক্ষুদ্র ক্ষুদ্র উড্ডয়ি দেখতে পেল, যাদেরকে উড্ডচর উড্ডয়ি বলা হয়।\n\n##### Q22.\nউদ্বীপকের উড্ডয়িতির দুটি অংশের মধ্যে কোনটি সত্য?",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "7. কোন ধরনের উড্ডয়ানটি লিভারওয়ার্ট বলে?\n   ক. Hepaticae\n   খ. Bryopsida\n   গ. Filicinae\n   ঘ. Anthocerotae",
+          "structured_data": {},
+          "id": "afccb80c-ea11-5474-839f-eca2380339c8"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "8. Pteris এর কৃষিত পাতার বিন্যাসকে কি বলে?\n   ক. ক্রোজিয়ার\n   খ. সারসিনেট ভারণেশন\n   গ. ফ্রুড\n   ঘ. পফ্ফল যৌগিক",
+          "structured_data": {},
+          "id": "6c4c4444-49da-5617-bded-f816c2955c76"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "9. Pteris এর পাতাকে কি বলে?\n   ক. র্যামেন্টা\n   খ. ক্রোজিয়ার\n   গ. ফ্রুড\n   ঘ. র্যাকিস",
+          "structured_data": {},
+          "id": "aa40f811-6550-5fad-8c1b-2a64acd48945"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "10. ব্রায়োফাইটার মূলদেহের পাতার ন্যায় অংশকে কি বলে?\n    ক. কলয়েড\n    খ. ফাইলয়েড\n    গ. রাইজয়েড\n    ঘ. প্রোথেলাস",
+          "structured_data": {},
+          "id": "c229c80f-db77-5fb5-af4b-6fbac64b0d14"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "11. ব্রায়োফাইটার মূলদেহের কাণ্ডের ন্যায় অংশকে কি বলে?\n    ক. কলয়েড\n    খ. ফাইলয়েড\n    গ. রাইজয়েড\n    ঘ. প্রোথেলাস",
+          "structured_data": {},
+          "id": "0ff5a9a6-1c13-5a55-aa7c-d116c0308226"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "12. ব্রায়োফাইটার উড্ডয়ের মূলের মতো কাজ করে নিচের কোনটি?\n    ক. রাইজয়েড\n    খ. প্রোথেলাস\n    গ. কলয়েড\n    ঘ. ফাইলয়েড",
+          "structured_data": {},
+          "id": "80afa4c8-1d9f-5ead-8b59-e1dded8acf14"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "13. নিচের কোনটি ব্রায়োফাইটার অঙ্গ জন্য অস্থির অংশ?\n    ক. গেমি\n    খ. বুলুবিল\n    গ. প্রোটোনেমা\n    ঘ. আর্কিগোনিয়াম",
+          "structured_data": {},
+          "id": "48dc77dd-e62a-5a8c-b36e-ed046651f951"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "14. Riccia এর পৃজনন অঙ্গ কোনটি?\n    ক. অ্যাছেরিডিয়াম\n    খ. বুলুবিল\n    গ. প্রোটোনেমা\n    ঘ. আর্কিগোনিয়াম",
+          "structured_data": {},
+          "id": "feb54287-2862-5d07-ae79-1a4b0eac4c8a"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "15. Riccia এর শ্রী জন্য অঙ্গ কোনটি?\n    ক. অ্যাছেরিডিয়াম\n    খ. বুলুবিল\n    গ. প্রোটোনেমা\n    ঘ. আর্কিগোনিয়াম",
+          "structured_data": {},
+          "id": "26a5c8c3-0517-5f25-852d-85724430019c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "16. Pteris এর কচি পাতাকে কি বলে?\n    ক. র্যামেন্টা\n    খ. ক্রোজিয়ার\n    গ. ফ্রুড\n    ঘ. র্যাকিস",
+          "structured_data": {},
+          "id": "1f5c590a-9dc5-5ec9-9e86-6f042a086325"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "17. Riccia এর বেনুধর উড্ডয়নটি কোন প্রকৃতি?\n    ক. ডিপ্লয়েড (2n)\n    খ. হ্যাপ্লয়েড (n)\n    গ. ট্রিপ্লয়েড (3n)\n    ঘ. গ. পলিপ্লয়েড (∞)",
+          "structured_data": {},
+          "id": "e2c60277-21a9-5d88-a00b-bb393056eea1"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "বহুগুণা সমাধিক্ষিক প্রশ্ন (নমুনা)",
+          "structured_data": {},
+          "id": "5b242751-71f1-5ae0-b9df-01c22f1f0b4a"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "18. Riccia এর থ্যালাসের ক্ষেত্রে যা প্রযোজ্য-i. দ্বাগ্র শাখাযুক্ত ii. একে রোসেট বলা হয় iii. বহুকোষী শক্ত ও এককোষী রাইজয়েডযুক্ত – নিচের কোনটি সত্যিক?\n    ক. i ও ii\n    খ. ii ও iii\n    গ. i ও iii\n    ঘ. i, ii ও iii",
+          "structured_data": {},
+          "id": "8d723bcb-e000-55e3-a2a3-07f5786f6a88"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "19. ফার্ন প্রোথালাসের বৈশিষ্ট্য–i. হর্ষপিঙ্কার গঠন ii. রাইজয়েড দ্বারা মাটি হতে খনিজ পৃষ্ঠ সংগ্রহ করে iii. নিচের দিকে একটি খাঁজ থাকে— নিচের কোনটি সত্যিক?\n    ক. i ও ii\n    খ. ii ও iii\n    গ. i ও iii\n    ঘ. i, ii ও iii",
+          "structured_data": {},
+          "id": "ccc08722-dbec-57db-9f5f-d25a8f80166c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "20. মস উড্ডয়ের-i. প্রায় 6000 প্রজাতি রয়েছে ii. এদের সাধারণত লিভারওয়ার্ট বলে iii. এরা শুষ্ক ছানে জন্মায়– নিচের কোনটি সত্যিক?\n    ক. i ও ii\n    খ. ii ও iii\n    গ. i ও iii\n    ঘ. i, ii ও iii",
+          "structured_data": {},
+          "id": "0b717bfe-cf2e-5fe6-b746-1716c92f7970"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "জীববিজ্ঞান প্রথম পত্র",
+          "content_markdown": "অভিন্ন তথ্যভিত্তিক প্রশ্ন (নমুনা)",
+          "structured_data": {},
+          "id": "cce0d64b-c817-5a0a-942d-fd4ca12c4db8"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q21.",
+          "content_markdown": "নিচের উদ্বীপকের আলোকে 21 ও 22 নং প্রশ্নের উত্তর দাও:\nএকদল ছাত্র পথ চলতে চলতে মানুষের লিভার আকৃতিবিশিষ্ট ক্ষুদ্র ক্ষুদ্র উড্ডয়ি দেখতে পেল, যাদেরকে উড্ডচর উড্ডয়ি বলা হয়।",
+          "structured_data": {
+            "question_number": "21.",
+            "subtype": "written_item",
+            "stem": "নিচের উদ্বীপকের আলোকে 21 ও 22 নং প্রশ্নের উত্তর দাও:\nএকদল ছাত্র পথ চলতে চলতে মানুষের লিভার আকৃতিবিশিষ্ট ক্ষুদ্র ক্ষুদ্র উড্ডয়ি দেখতে পেল, যাদেরকে উড্ডচর উড্ডয়ি বলা হয়।",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5ccbeaa7-1cbe-5c9c-9514-27f54c55bc76"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q22.",
+          "content_markdown": "উদ্বীপকের উড্ডয়িতির দুটি অংশের মধ্যে কোনটি সত্য?",
+          "structured_data": {
+            "question_number": "22.",
+            "subtype": "written_item",
+            "stem": "উদ্বীপকের উড্ডয়িতির দুটি অংশের মধ্যে কোনটি সত্য?",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5e287133-67e3-5cad-a58a-99f9657736b9"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 18,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1_a4000",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 125.91,
+        "eval_count": 2055
+      }
+    },
+    {
+      "page_number": 16,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### জীববিজ্ঞান প্রথম পত্র\n\n#### ব্যাখ্যা ও টেরিডোফাইট\n##### উদ্ধৃতি অধ্যয়ের উত্তর দাগ্ষ-\nরক্ষিক তাদের বাণিজ্যের উচ্চ বৃষ্টির শাখার উপর জন্যো একটা ছোট উড্ডিৎ নিয়ে কলেজের উভিদবিজ্ঞানের স্থায়ী দেখালেন। স্যার বললেন, এটা অগুণক উড্ডিৎ মধ্যে সর্বাপেক্ষা উন্নত।\n\n**Q.3.** রফিকের নিয়ে আসা উড্ডিৎ দের নাম কি?\n- ক. Ulothrix\n- খ. Riccia\n- ঘ. Pteris\n- গ. Cycas\n\n**Q.4.** রফিকের আসা উড্ডিৎ দের বৈশিষ্ট্য হলো-(i) দেহ মূল, কাঙ ও পাতায় বিভক্ত (ii) কাঙ রাইজোম জাতীয় (iii) কচি অবস্থায় পাতা কুঙলিত- নিচের কৌনটি সঠিক ?\n- ক. i ও ii\n- খ. ii ও iii\n- ঘ. i ও iii\n- গ. i, ii ও iii\n\n### বহুনির্বাচনি প্রশ্নের উত্তর\n\n| নং | ঘ | 4 | খ | 7 | ক | 10 | খ | 13 | ঘ | 16 | খ | 19 | খ | 22 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | ঘ | 4 | খ | 7 | ক | 10 | খ | 13 | ঘ | 16 | খ | 19 | খ | 22 |\n\n### সংজ্ঞাশীল প্রশ্ন (নমুনা)\n\n**Q.1.** জীববিজ্ঞানের অধ্যাপক ড. সাখাওয়াত ব্যবহারিক ক্লাসে একটা উড্ডিৎ নিয়ে এসে বললেন, হর্ষপিণ্ডের মতো একটি গঠন থেকে এর জীবন শুরু হয়। একে অনেকে শাক হিসেবে খেয়ে থাকে।\n- (ক) সারসিনেট ভারনেশন কী?\n- (খ) টেরিডোফাইটার বৈশিষ্ট্য লেখ।\n- (গ) উদ্ধৃতি উল্লেখিত উড্ডিৎ দের হর্ষপিণ্ডের মতো গঠনটি বর্ণনা কর।\n- (ঘ) উদ্ধৃতি উড্ডিৎ জীবনচক্রে জনুরূম ঘটে কিনা তা বিশ্লেষণ কর।\n\n**Q.2.** প্রকৃতির স্যাত্স্যাতে জায়গায় কিছু উড্ডিৎ জন্যো যাদের গঠন অনেকটা মানুষের যুক্তের মতো। অন্য কিছু উড্ডিৎ আছে যাদের সান ফার্ন বলে।\n- (ক) উভচর উড্ডিৎ বলতে কী বুঝা?\n- (খ) ট্রায়োফাইটার বৈশিষ্ট্য লিখ।\n- (গ) উদ্ধৃতি উল্লেখিত প্রথম উড্ডিৎ দের অঙ্গঅপসংখ্যান বর্ণনা কর।\n- (ঘ) উদ্ধৃতি উল্লেখিত উড্ডিৎ দুটির পার্থক্য বিশ্লেষণ কর।\n\n### সংজ্ঞাশীল জ্ঞানমূলক প্রশ্ন\n\n| নং | সান ফার্ন কী? | 1 | ব্রায়োফাইটা উড্ডিৎকে উভচর উড্ডিৎ বলা হয় কেন? |\n| --- | --- | --- | --- |\n| 2 | প্রোথ্যালাস কী? | 2 | ব্রায়োফাইটার তিন বৈশিষ্ট্য লেখ? |\n| 3 | জনুরূম কী? | 3 | Pteris কেন টেরিডোফাইটাস বলা হয়? |\n| 8 | লিভারওয়ার্ট কী? | 8 | ভাঙ্কুলার অপুণ্ডক উড্ডিৎ বলা হয় কাদের ও কেন? |\n| 5 | হর্ষওয়ার্ট কী? | 5 | তিন্সেটোগ্যাম বলতে কী বুঝা? |\n| 6 | রোসেট কী? | 6 | সারসিনেট ভারনেশন বলতে কী বুঝা? |\n| 7 | র্যামেন্টা কী? | 7 | মস ও ফার্ন উড্ডিৎ দের মধ্যে পার্থক্য লেখ। |\n| 8 | ফ্রন্ট কী? | 8 | ব্রায়োফাইটার গুরুত্ব লেখ? |\n| 9 | পিনা কী? | 9 | টেরিডোফাইটার গুরুত্ব লেখ? |\n| 10 | ফলস ইন্ডুসিয়াম কী? | 10 | ফার্ন প্রোথ্যালাসের বিশেষত্ব কী? |",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "ব্যাখ্যা ও টেরিডোফাইট",
+          "content_markdown": "##### উদ্ধৃতি অধ্যয়ের উত্তর দাগ্ষ-\nরক্ষিক তাদের বাণিজ্যের উচ্চ বৃষ্টির শাখার উপর জন্যো একটা ছোট উড্ডিৎ নিয়ে কলেজের উভিদবিজ্ঞানের স্থায়ী দেখালেন। স্যার বললেন, এটা অগুণক উড্ডিৎ মধ্যে সর্বাপেক্ষা উন্নত।",
+          "structured_data": {},
+          "id": "334c4b2b-1876-5c26-95c4-5c756702ad5b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ব্যাখ্যা ও টেরিডোফাইট",
+          "content_markdown": "**Q.3.** রফিকের নিয়ে আসা উড্ডিৎ দের নাম কি?\n- ক. Ulothrix\n- খ. Riccia\n- ঘ. Pteris\n- গ. Cycas",
+          "structured_data": {},
+          "id": "878d059f-2d08-551d-9608-2004ff7bfed9"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ব্যাখ্যা ও টেরিডোফাইট",
+          "content_markdown": "**Q.4.** রফিকের আসা উড্ডিৎ দের বৈশিষ্ট্য হলো-(i) দেহ মূল, কাঙ ও পাতায় বিভক্ত (ii) কাঙ রাইজোম জাতীয় (iii) কচি অবস্থায় পাতা কুঙলিত- নিচের কৌনটি সঠিক ?\n- ক. i ও ii\n- খ. ii ও iii\n- ঘ. i ও iii\n- গ. i, ii ও iii",
+          "structured_data": {},
+          "id": "50890250-2a64-58eb-b754-55a7a44a0c18"
+        },
+        {
+          "block_type": "table",
+          "title": "বহুনির্বাচনি প্রশ্নের উত্তর",
+          "content_markdown": "| নং | ঘ | 4 | খ | 7 | ক | 10 | খ | 13 | ঘ | 16 | খ | 19 | খ | 22 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | ঘ | 4 | খ | 7 | ক | 10 | খ | 13 | ঘ | 16 | খ | 19 | খ | 22 |",
+          "structured_data": {
+            "headers": [
+              "নং",
+              "ঘ",
+              "4",
+              "খ",
+              "7",
+              "ক",
+              "10",
+              "খ",
+              "13",
+              "ঘ",
+              "16",
+              "খ",
+              "19",
+              "খ",
+              "22"
+            ],
+            "rows": [
+              [
+                "1",
+                "ঘ",
+                "4",
+                "খ",
+                "7",
+                "ক",
+                "10",
+                "খ",
+                "13",
+                "ঘ",
+                "16",
+                "খ",
+                "19",
+                "খ",
+                "22"
+              ]
+            ]
+          },
+          "id": "48629629-c115-52cd-88ee-c38bc30e9e74"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "সংজ্ঞাশীল প্রশ্ন (নমুনা)",
+          "content_markdown": "**Q.1.** জীববিজ্ঞানের অধ্যাপক ড. সাখাওয়াত ব্যবহারিক ক্লাসে একটা উড্ডিৎ নিয়ে এসে বললেন, হর্ষপিণ্ডের মতো একটি গঠন থেকে এর জীবন শুরু হয়। একে অনেকে শাক হিসেবে খেয়ে থাকে।\n- (ক) সারসিনেট ভারনেশন কী?\n- (খ) টেরিডোফাইটার বৈশিষ্ট্য লেখ।\n- (গ) উদ্ধৃতি উল্লেখিত উড্ডিৎ দের হর্ষপিণ্ডের মতো গঠনটি বর্ণনা কর।\n- (ঘ) উদ্ধৃতি উড্ডিৎ জীবনচক্রে জনুরূম ঘটে কিনা তা বিশ্লেষণ কর।",
+          "structured_data": {},
+          "id": "6f275c24-d5af-54d4-af32-871c976bb303"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "সংজ্ঞাশীল প্রশ্ন (নমুনা)",
+          "content_markdown": "**Q.2.** প্রকৃতির স্যাত্স্যাতে জায়গায় কিছু উড্ডিৎ জন্যো যাদের গঠন অনেকটা মানুষের যুক্তের মতো। অন্য কিছু উড্ডিৎ আছে যাদের সান ফার্ন বলে।\n- (ক) উভচর উড্ডিৎ বলতে কী বুঝা?\n- (খ) ট্রায়োফাইটার বৈশিষ্ট্য লিখ।\n- (গ) উদ্ধৃতি উল্লেখিত প্রথম উড্ডিৎ দের অঙ্গঅপসংখ্যান বর্ণনা কর।\n- (ঘ) উদ্ধৃতি উল্লেখিত উড্ডিৎ দুটির পার্থক্য বিশ্লেষণ কর।",
+          "structured_data": {},
+          "id": "75154774-12d6-5840-b420-0bc98cbad134"
+        },
+        {
+          "block_type": "table",
+          "title": "সংজ্ঞাশীল জ্ঞানমূলক প্রশ্ন",
+          "content_markdown": "| নং | সান ফার্ন কী? | 1 | ব্রায়োফাইটা উড্ডিৎকে উভচর উড্ডিৎ বলা হয় কেন? |\n| --- | --- | --- | --- |\n| 2 | প্রোথ্যালাস কী? | 2 | ব্রায়োফাইটার তিন বৈশিষ্ট্য লেখ? |\n| 3 | জনুরূম কী? | 3 | Pteris কেন টেরিডোফাইটাস বলা হয়? |\n| 8 | লিভারওয়ার্ট কী? | 8 | ভাঙ্কুলার অপুণ্ডক উড্ডিৎ বলা হয় কাদের ও কেন? |\n| 5 | হর্ষওয়ার্ট কী? | 5 | তিন্সেটোগ্যাম বলতে কী বুঝা? |\n| 6 | রোসেট কী? | 6 | সারসিনেট ভারনেশন বলতে কী বুঝা? |\n| 7 | র্যামেন্টা কী? | 7 | মস ও ফার্ন উড্ডিৎ দের মধ্যে পার্থক্য লেখ। |\n| 8 | ফ্রন্ট কী? | 8 | ব্রায়োফাইটার গুরুত্ব লেখ? |\n| 9 | পিনা কী? | 9 | টেরিডোফাইটার গুরুত্ব লেখ? |\n| 10 | ফলস ইন্ডুসিয়াম কী? | 10 | ফার্ন প্রোথ্যালাসের বিশেষত্ব কী? |",
+          "structured_data": {
+            "headers": [
+              "নং",
+              "সান ফার্ন কী?",
+              "1",
+              "ব্রায়োফাইটা উড্ডিৎকে উভচর উড্ডিৎ বলা হয় কেন?"
+            ],
+            "rows": [
+              [
+                "2",
+                "প্রোথ্যালাস কী?",
+                "2",
+                "ব্রায়োফাইটার তিন বৈশিষ্ট্য লেখ?"
+              ],
+              [
+                "3",
+                "জনুরূম কী?",
+                "3",
+                "Pteris কেন টেরিডোফাইটাস বলা হয়?"
+              ],
+              [
+                "8",
+                "লিভারওয়ার্ট কী?",
+                "8",
+                "ভাঙ্কুলার অপুণ্ডক উড্ডিৎ বলা হয় কাদের ও কেন?"
+              ],
+              [
+                "5",
+                "হর্ষওয়ার্ট কী?",
+                "5",
+                "তিন্সেটোগ্যাম বলতে কী বুঝা?"
+              ],
+              [
+                "6",
+                "রোসেট কী?",
+                "6",
+                "সারসিনেট ভারনেশন বলতে কী বুঝা?"
+              ],
+              [
+                "7",
+                "র্যামেন্টা কী?",
+                "7",
+                "মস ও ফার্ন উড্ডিৎ দের মধ্যে পার্থক্য লেখ।"
+              ],
+              [
+                "8",
+                "ফ্রন্ট কী?",
+                "8",
+                "ব্রায়োফাইটার গুরুত্ব লেখ?"
+              ],
+              [
+                "9",
+                "পিনা কী?",
+                "9",
+                "টেরিডোফাইটার গুরুত্ব লেখ?"
+              ],
+              [
+                "10",
+                "ফলস ইন্ডুসিয়াম কী?",
+                "10",
+                "ফার্ন প্রোথ্যালাসের বিশেষত্ব কী?"
+              ]
+            ]
+          },
+          "id": "c34935eb-5895-534e-abb4-4d5da4f0c625"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 7,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1_a4000",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 110.71,
+        "eval_count": 2094
+      }
+    }
+  ]
+}

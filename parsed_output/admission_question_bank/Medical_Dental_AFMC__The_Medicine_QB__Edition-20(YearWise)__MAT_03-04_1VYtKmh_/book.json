@@ -1,0 +1,3796 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "1VYtKmh_9rgvXVbWEjuJSENmUonGOZTLk",
+    "collection": "admission_question_bank",
+    "subject": "mixed_or_general",
+    "edition": "2023",
+    "priority_score": 2023501,
+    "path_parts": [
+      "Medical Dental AFMC",
+      "The Medicine QB",
+      "Edition-20(YearWise)",
+      "MAT 03-04.pdf"
+    ],
+    "filename": "MAT 03-04.pdf",
+    "sha256": "76b9ff78fdfd29cf6cbf9270acf1f30cd716c7693e34eb4744e0d19a3cc771f6",
+    "total_pages": 8,
+    "parsed_pages": 8,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 143,
+    "block_counts_by_type": {
+      "concept_prose": 51,
+      "mcq_item": 76,
+      "written_item": 16
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "MBBS ADMISSION TEST 2003-2004\n\n## Q01\n**Type:** mcq\n**Stem:** $C_{6}H_{5}CONH_2$ ঘরা আমার বুন্দি?\n**Options:** - a) অ্যামাইড  \n- b) অ্যানিলিন \n- c) বেনজামাইড \n- d) ইথান্যামাইড\n**Answer:** [Ans:]\n**Solution:** [Solution]\n**Tags:** [None]\n\n## Q02\n**Type:** mcq\n**Stem:** 'নীল তিমি' মেরোডী গাণির কৌণ শ্রেণিভূক্ত?\n**Options:** - a) অস্টিকফিস বা অশ্বিহিষ্ঠ মাছ\n- b) কনজিকফিস বা কোমলাষ্টি বিশিষ্ট মাছ\n- c) সাইক্লোস্টেটাম বা আগনাথা\n- d) ম্যামালিয়া\n**Answer:** [Ans:]\n**Solution:** [Solution]\n**Tags:** [None]\n\n## Q03\n**Type:** mcq\n**Stem:** কোন সঙ্গে বন্যপ্রাণী সংরক্ষণ আইন প্রয়োগ করা হয়েছে?\n**Options:** - a) ১৯৭৩\n- b) ১৯৬৮\n- c) ১৯৫৬\n- d) ১৯৮৫\n**Answer:** [Ans:]\n**Solution:** [Solution]\n**Tags:** [None]\n\n## Q04\n**Type:** mcq\n**Stem:** কোনটি মোনোকারবিক্লিক এসিড নয়?\n**Options:** - a) $\\mathrm{CH}_3(\\mathrm{CH}_{2})_{3}-\\mathrm{COOH}$ \n- b) $\\mathrm{CH}_3(\\mathrm{CH}_{2})_{2}-\\mathrm{COOH}$ \n- c) $\\mathrm{CH}_3-\\mathrm{COOH}$ \n- d) HOOC-COOH\n**Answer:** [Ans:]\n**Solution:** [Solution]\n**Tags:** [None]\n\n## Q05\n**Type:** mcq\n**Stem:** 'বাইসন' কোন প্রাণীভোগিক অঞ্চলের প্রাণী?\n**Options:** - a) নিউট্রিশিয়াল অঞ্চল\n- b) নি-আর্কটিক অঞ্চল\n- c) ওরিয়েন্টাল অঞ্চল\n- d) ইথিওপিয়ান অঞ্চল\n**Answer:** [Ans:]\n**Solution:** [Solution]\n**Tags:** [None]\n\n## Q06\n**Type:** mcq\n**Stem:** প্রতিটি বৃক্ষে নেফ্রন থাকে-\n**Options:** - a) প্রায় ১২ থেকে ১৪ লক্ষ\n- b) প্রায় ১০ থেকে ১২ লক্ষ\n- c) প্রায় ৮ থেকে ৯ লক্ষ\n- d) প্রায় ১৩ থেকে ১৫ লক্ষ\n**Answer:** [Ans:]\n**Solution:** [Solution]\n**Tags:** [None]\n\n## Q07\n**Type:** mcq\n**Stem:** ফরমালিন তৈরি হয়-\n**Options:** - a) আমিন থেকে\n- b) ইথিলিন থেকে\n- c) ফরমালিন থেকে\n- d) ফরমালিডহাইড থেকে\n**Answer:** [Ans:]\n**Solution:** [Solution]\n**Tags:** [None]\n\n## Q08\n**Type:** mcq\n**Stem:** কোনটি মুখ্যমন্ডলের অষ্টি নয়? এটি হচ্ছে করেটিকার অষ্টি।\n**Options:** - a) ডোমার\n- b) ল্যাক্রিমাল\n- c) নাসিকা অষ্টি\n- d) এথময়েড\n**Answer:** [Ans:]\n**Solution:** [Solution]\n**Tags:** [None]\n\n## Q09\n**Type:** mcq\n**Stem:** যেটি গর্ভধারা অমরার কাজ নয়?\n**Options:** - a) প্রোজেস্টেরাঙ হরমোন নিঃসৃত করণ\n- b) রিঝাক্রিন হরমোন নিঃসৃত করণ\n- c) লুটিনাইজিং হরমোন নিঃসৃত করণ\n- d) এর মাধ্যমেই মাতা ও ভন্ডের মধ্যে প্রযোজনীয় পদার্থসমূহ ও বর্জ্য পদার্থের আদান-প্রদান হয়\n**Answer:** [Ans:]\n**Solution:** [Solution]\n**Tags:** [None]\n\n## Q10\n**Type:** mcq\n**Stem:** গঠন অনুসারে অ্যামিন কত প্রকার?\n**Options:** - a) ৮ প্রকার\n- b) ৩ প্রকার\n- c) ২ প্রকার\n- d) ৫ প্রকার\n**Answer:** [Ans:]\n**Solution:** [Solution]\n**Tags:** [None]\n\n## Q11\n**Type:** mcq\n**Stem:** ক্রেটারের অভ্যন্তরীণ তাপমাত্রা দেহগহ্বর অপেক্ষা ৩ সেন্টিপ্রেড কম।\n**Options:** - a) ২ সেন্টিপ্রেড কম\n- b) ৩ সেন্টিপ্রেড বেশি\n- c) ২ সেন্টিপ্রেড বেশি\n- d) ৩ সেন্টিপ্রেড কম\n**Answer:** [Ans:]\n**Solution:** [Solution]\n**Tags:** [None]\n\n## Q12\n**Type:** mcq\n**Stem:** ফুসফুসের ফেরে নিচের কোনটি সত্যিক?\n**Options:** - a) ঢান ফুসফুসটি দুইটি খেতে এবং বাম ফুসফুসটি তিনটি খেতে বিভক্ত\n- b) ঢান ফুসফুসটি চারটি খেতে এবং বাম ফুসফুসটি তিনটি খেতে বিভক্ত\n- c) ঢান ফুসফুসটি তিনটি খেতে এবং বাম ফুসফুসটি দুইটি খেতে বিভক্ত\n- d) কোনটিই নয়\n**Answer:** [Ans:]\n**Solution:** [Solution]\n**Tags:** [None]\n\n## Q13\n**Type:** mcq\n**Stem:** কোনটি লম্বা তেল হিসেবে পরিচিত?\n**Options:** - a) জাইলিন\n- b) অ্যান্থ্রাসিন\n- c) ফেনল\n- d) ক্রিসল\n**Answer:** [Ans:]\n**Solution:** [Solution]\n**Tags:** [None]",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "MBBS ADMISSION TEST 2003-2004",
+          "structured_data": {},
+          "id": "cd30eb87-7b85-54fb-9acd-247918e9e38d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q01",
+          "content_markdown": "$C_{6}H_{5}CONH_2$ ঘরা আমার বুন্দি?",
+          "structured_data": {
+            "question_number": "01",
+            "subtype": "mcq",
+            "stem": "$C_{6}H_{5}CONH_2$ ঘরা আমার বুন্দি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অ্যামাইড",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অ্যানিলিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বেনজামাইড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ইথান্যামাইড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "[Ans:]",
+            "solution_markdown": "[Solution]",
+            "tags_raw": "[None]",
+            "provenance": [
+              "[None]"
+            ]
+          },
+          "id": "19481d55-8805-5ced-8ce5-7c148684c065"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q02",
+          "content_markdown": "'নীল তিমি' মেরোডী গাণির কৌণ শ্রেণিভূক্ত?",
+          "structured_data": {
+            "question_number": "02",
+            "subtype": "mcq",
+            "stem": "'নীল তিমি' মেরোডী গাণির কৌণ শ্রেণিভূক্ত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অস্টিকফিস বা অশ্বিহিষ্ঠ মাছ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কনজিকফিস বা কোমলাষ্টি বিশিষ্ট মাছ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সাইক্লোস্টেটাম বা আগনাথা",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ম্যামালিয়া",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "[Ans:]",
+            "solution_markdown": "[Solution]",
+            "tags_raw": "[None]",
+            "provenance": [
+              "[None]"
+            ]
+          },
+          "id": "7dc6d66f-f95e-59ff-9b1f-8c95e9debe9b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q03",
+          "content_markdown": "কোন সঙ্গে বন্যপ্রাণী সংরক্ষণ আইন প্রয়োগ করা হয়েছে?",
+          "structured_data": {
+            "question_number": "03",
+            "subtype": "mcq",
+            "stem": "কোন সঙ্গে বন্যপ্রাণী সংরক্ষণ আইন প্রয়োগ করা হয়েছে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "১৯৭৩",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "১৯৬৮",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "১৯৫৬",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "১৯৮৫",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "[Ans:]",
+            "solution_markdown": "[Solution]",
+            "tags_raw": "[None]",
+            "provenance": [
+              "[None]"
+            ]
+          },
+          "id": "cb8c6f4a-040d-5d5e-b0cb-ac10352cd952"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q04",
+          "content_markdown": "কোনটি মোনোকারবিক্লিক এসিড নয়?",
+          "structured_data": {
+            "question_number": "04",
+            "subtype": "mcq",
+            "stem": "কোনটি মোনোকারবিক্লিক এসিড নয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\mathrm{CH}_3(\\mathrm{CH}_{2})_{3}-\\mathrm{COOH}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\mathrm{CH}_3(\\mathrm{CH}_{2})_{2}-\\mathrm{COOH}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\mathrm{CH}_3-\\mathrm{COOH}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "HOOC-COOH",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "[Ans:]",
+            "solution_markdown": "[Solution]",
+            "tags_raw": "[None]",
+            "provenance": [
+              "[None]"
+            ]
+          },
+          "id": "3fd3e79b-e378-5fef-ba28-10e7238a08c4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q05",
+          "content_markdown": "'বাইসন' কোন প্রাণীভোগিক অঞ্চলের প্রাণী?",
+          "structured_data": {
+            "question_number": "05",
+            "subtype": "mcq",
+            "stem": "'বাইসন' কোন প্রাণীভোগিক অঞ্চলের প্রাণী?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "নিউট্রিশিয়াল অঞ্চল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নি-আর্কটিক অঞ্চল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ওরিয়েন্টাল অঞ্চল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ইথিওপিয়ান অঞ্চল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "[Ans:]",
+            "solution_markdown": "[Solution]",
+            "tags_raw": "[None]",
+            "provenance": [
+              "[None]"
+            ]
+          },
+          "id": "945de5a0-bfb3-5ac9-8415-112371ba17c6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q06",
+          "content_markdown": "প্রতিটি বৃক্ষে নেফ্রন থাকে-",
+          "structured_data": {
+            "question_number": "06",
+            "subtype": "mcq",
+            "stem": "প্রতিটি বৃক্ষে নেফ্রন থাকে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রায় ১২ থেকে ১৪ লক্ষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রায় ১০ থেকে ১২ লক্ষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "প্রায় ৮ থেকে ৯ লক্ষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "প্রায় ১৩ থেকে ১৫ লক্ষ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "[Ans:]",
+            "solution_markdown": "[Solution]",
+            "tags_raw": "[None]",
+            "provenance": [
+              "[None]"
+            ]
+          },
+          "id": "b953f003-4db9-5b6f-b86d-9f116a90adba"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q07",
+          "content_markdown": "ফরমালিন তৈরি হয়-",
+          "structured_data": {
+            "question_number": "07",
+            "subtype": "mcq",
+            "stem": "ফরমালিন তৈরি হয়-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আমিন থেকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ইথিলিন থেকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ফরমালিন থেকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ফরমালিডহাইড থেকে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "[Ans:]",
+            "solution_markdown": "[Solution]",
+            "tags_raw": "[None]",
+            "provenance": [
+              "[None]"
+            ]
+          },
+          "id": "d9ff0ee3-e855-512a-b270-51d9c2f0a9b0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q08",
+          "content_markdown": "কোনটি মুখ্যমন্ডলের অষ্টি নয়? এটি হচ্ছে করেটিকার অষ্টি।",
+          "structured_data": {
+            "question_number": "08",
+            "subtype": "mcq",
+            "stem": "কোনটি মুখ্যমন্ডলের অষ্টি নয়? এটি হচ্ছে করেটিকার অষ্টি।",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ডোমার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ল্যাক্রিমাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "নাসিকা অষ্টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "এথময়েড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "[Ans:]",
+            "solution_markdown": "[Solution]",
+            "tags_raw": "[None]",
+            "provenance": [
+              "[None]"
+            ]
+          },
+          "id": "62289a89-08a6-56b1-a5f4-88eae9bc7db6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q09",
+          "content_markdown": "যেটি গর্ভধারা অমরার কাজ নয়?",
+          "structured_data": {
+            "question_number": "09",
+            "subtype": "mcq",
+            "stem": "যেটি গর্ভধারা অমরার কাজ নয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রোজেস্টেরাঙ হরমোন নিঃসৃত করণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "রিঝাক্রিন হরমোন নিঃসৃত করণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "লুটিনাইজিং হরমোন নিঃসৃত করণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "এর মাধ্যমেই মাতা ও ভন্ডের মধ্যে প্রযোজনীয় পদার্থসমূহ ও বর্জ্য পদার্থের আদান-প্রদান হয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "[Ans:]",
+            "solution_markdown": "[Solution]",
+            "tags_raw": "[None]",
+            "provenance": [
+              "[None]"
+            ]
+          },
+          "id": "7b1355b9-3222-595b-ad29-8458ee4a62c4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q10",
+          "content_markdown": "গঠন অনুসারে অ্যামিন কত প্রকার?",
+          "structured_data": {
+            "question_number": "10",
+            "subtype": "mcq",
+            "stem": "গঠন অনুসারে অ্যামিন কত প্রকার?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "৮ প্রকার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "৩ প্রকার",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "২ প্রকার",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "৫ প্রকার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "[Ans:]",
+            "solution_markdown": "[Solution]",
+            "tags_raw": "[None]",
+            "provenance": [
+              "[None]"
+            ]
+          },
+          "id": "cebd0a87-6caf-5e54-97c4-e8daa34d975c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q11",
+          "content_markdown": "ক্রেটারের অভ্যন্তরীণ তাপমাত্রা দেহগহ্বর অপেক্ষা ৩ সেন্টিপ্রেড কম।",
+          "structured_data": {
+            "question_number": "11",
+            "subtype": "mcq",
+            "stem": "ক্রেটারের অভ্যন্তরীণ তাপমাত্রা দেহগহ্বর অপেক্ষা ৩ সেন্টিপ্রেড কম।",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "২ সেন্টিপ্রেড কম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "৩ সেন্টিপ্রেড বেশি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "২ সেন্টিপ্রেড বেশি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "৩ সেন্টিপ্রেড কম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "[Ans:]",
+            "solution_markdown": "[Solution]",
+            "tags_raw": "[None]",
+            "provenance": [
+              "[None]"
+            ]
+          },
+          "id": "3becfda8-109f-5d3a-8c76-7092c2186066"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q12",
+          "content_markdown": "ফুসফুসের ফেরে নিচের কোনটি সত্যিক?",
+          "structured_data": {
+            "question_number": "12",
+            "subtype": "mcq",
+            "stem": "ফুসফুসের ফেরে নিচের কোনটি সত্যিক?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ঢান ফুসফুসটি দুইটি খেতে এবং বাম ফুসফুসটি তিনটি খেতে বিভক্ত",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ঢান ফুসফুসটি চারটি খেতে এবং বাম ফুসফুসটি তিনটি খেতে বিভক্ত",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ঢান ফুসফুসটি তিনটি খেতে এবং বাম ফুসফুসটি দুইটি খেতে বিভক্ত",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোনটিই নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "[Ans:]",
+            "solution_markdown": "[Solution]",
+            "tags_raw": "[None]",
+            "provenance": [
+              "[None]"
+            ]
+          },
+          "id": "66173aff-b9b8-5300-880d-72c507c69010"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q13",
+          "content_markdown": "কোনটি লম্বা তেল হিসেবে পরিচিত?",
+          "structured_data": {
+            "question_number": "13",
+            "subtype": "mcq",
+            "stem": "কোনটি লম্বা তেল হিসেবে পরিচিত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "জাইলিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অ্যান্থ্রাসিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ফেনল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ক্রিসল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "[Ans:]",
+            "solution_markdown": "[Solution]",
+            "tags_raw": "[None]",
+            "provenance": [
+              "[None]"
+            ]
+          },
+          "id": "d73ff322-9843-5160-aa74-1f8e3f44c1a0"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 14,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 132.14,
+        "eval_count": 2282
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "বীজগণিত - মেডিকেল ও ডেন্টাল ভর্তি প্রশ্ন বইয়ের প্রস্তুতি\n\n14. সংখ্যার আপেক্ষিক গুরুত্ব-\nA. 1.018  \nB. 1.013  \nC. 1.012  \nD. 1.015  \n\nSolve সংখ্যার আপেক্ষিক গুরুত্ব 1.015। \n\n15. ফ্রিজিঙের অধিন্দের ডায়াস্টেল দশার সময়কাল-\nA. 0.3 সেকেন্ড \nB. 0.8 সেকেন্ড \nC. 0.7 সেকেন্ড \nD. 0.1 সেকেন্ড  \n\nSolve ফ্রিজিঙের অধিন্দের ডায়াস্টেল দশার সময়কাল হচ্ছে- 0.7 সেকেন্ড।  \n\n16. কার্যকর শক্তি/প্রদত্ত শক্তি = ?\nA. শক্তি \nB. কর্মদক্ষতা \nC. কাজ \nD. কোনটিই নয়  \n\nSolve আমরা জানি, কর্মদক্ষতা = কার্যকর শক্তি / প্রদত্ত শক্তি  \n\n17. কোল মুলায়ন পাথরে অ্যালুমিনিয়াম অক্সাইড থাকে?\nA. মুক্তা \nB. হীরা \nC. চুনী \nD. কোরাল  \n\nSolve অ্যালুমিনিয়াম অক্সাইড বা কোরাবাম (Al₂O₃) বিদ্যমান দুইটি মূলবাণ পাথর রয়েছে। যেমন : \ni. নীলকাঞ্চনি বা সেফারার স্টোন : 1.5% Fe₃O₄ + 0.5% TiO₂ + 98% Al₂O₃ \nii. রবি পাথর/হুনী পাথর : 2.5% Cr₂O₃ + 97% Al₂O₃  \n\n18. কোলটি হিডপেশার বৈশিষ্ট্য নয়?\nA. রক্ত সরবরাহ ৪ প্রভৃতি \nB. ডোরাবিশিষ্ট \nC. পেশী ভঙ্গ শাখানিক \nD. প্রকৃতি অনৈচ্ছিক  \n\nSolve দেখে নাও বিভিন্ন পেশিকালর বৈশিষ্ট্যের তুলনায় বিষয়।\n\n19. কোনটিকে ঘণ্টাত্রক তুলনা হিসেবে সংজ্ঞায়িত করা যায় -\nA. তাঢ়কণিক মদন \nB. প্রুক্ত মদন \nC. গড় মদন \nD. সবকম্পটি  \n\nSolve সঠিক উত্তর হচ্ছে 'D'; কেননা যেকোন মদনই ঘণ্টাত্রক তুলনা।  \n\n20. অ্যাক্সিজেনের পরমাণুকরণ তাপ কত? \nA. +106.0 KJ/mol \nB. +218.0 KJ/mol \nC. +249.2 KJ/mol \nD. +112.0 KJ/mol  \n\nSolve অ্যাক্সিজেনের পরমাণুকরণ তাপ +249.2 KJ/mol  \n\n21. আনোনিকিলিস মশকী Plasmodium-এর যে দশটি লালা রসের সাথে মানুষের দেহে প্রবেশ করে সেটি হলো-\nA. মেরোজোয়েট \nB. সাইজান্ট \nC. স্পোরোজোয়েট \nD. ট্রন্সজোয়েট  \n\nSolve সঠিক উত্তর হচ্ছে স্পোরোজোয়েট অর্থাৎ অপশন 'C'\n\n22. কোনটি দোলকের ব্যবহার নয়?\nA. সময় নির্ধারণ \nB. পাহাড়ের উচ্চতা নির্ধারণ \nC. অভিকর্ষণ তুলনা g এর মান নির্ধারণ \nD. দৈর্ঘ্য নির্ধারণ  \n\nSolve দোলকের ব্যবহারঃ \n→ অভিকর্ষণ তুলনা (g) এর মান নির্ধারণ। \n→ সময় নির্ধারণ। \n→ পাহাড়ের উচ্চতা নির্ধারণ। \n\n23. মাটিকে অণুজীব মুক্ত রাখার জন্য pH এর পরিমাণ-\nA. 5 এর নিচে অথবা 8 এর উপরে \nB. 8 এর নিচে অথবা 7 এর উপরে \nC. 3 এর নিচে অথবা 10 এর উপরে \nD. 2 এর নিচে অথবা 11 এর উপরে  \n\nSolve মাটিকে অণুজীবমুক্ত রাখার জন্য pH এর মান 3 এর নিচে অথবা 10 এর উপরে রাখা প্রয়োজন।  \n\n24. ঐচ্ছিক পেশী পাওয়া যায়-\nA. বৃক্ষের প্রাচীরে \nB. পৌষ্টিক নালীর প্রাচীরে \nC. হাদ্পাইডের প্রাচীরে \nD. কঙ্কালত্ত্বের গায়ে  \n\nSolve কঙ্কালত্ত্বের গায়ে, অংশির সংযোগস্থলে, চোখ, জিহ্বা, গলবিলে ঐচ্ছিক পেশী পাওয়া যায়।  \n\n25. পরম শূন্য তাপমাত্রা বলতে আমরা বুঝি-\nA. -459°F  \nB. -495°F  \nC. -594°F  \nD. -945°F  \n\nSolve পরম শূন্য তাপমাত্রা হলো -273°C বা -459°F বা OK  \n\n26. ন্যাপথর স্কুটান্টক কত?\nA. 100–300°C  \nB. 200–400°C  \nC. 100–200°C  \nD. 120–280°C  \n\nSolve অশোধিত পেট্রোলিয়ামের আংশিক পাতনে প্রাঙ্গ কার্বন শিকল C₇ – C₁₅ মিশিল অংশ হচ্ছে ন্যাপথর; যার স্কুটান্ট 100-300°C.\n\n27. ক্রোমোসোমে DNA ও হিস্টোন এর পরিমাণ যথাক্রমে-\nA. 50% & 80%  \nB. 85% & 50%  \nC. 35% & 65%  \nD. 25% & 65%  \n\nSolve ক্রোমোজোমের গঠন হলো: হিস্টোন প্রোটিন 55% + DNA 35%",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "বীজগণিত - মেডিকেল ও ডেন্টাল ভর্তি প্রশ্ন বইয়ের প্রস্তুতি",
+          "structured_data": {},
+          "id": "eb6dfba4-563c-565d-b01b-eb42369806cb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q14",
+          "content_markdown": "সংখ্যার আপেক্ষিক গুরুত্ব-\nSolve সংখ্যার আপেক্ষিক গুরুত্ব 1.015।",
+          "structured_data": {
+            "question_number": "14",
+            "subtype": "mcq_item",
+            "stem": "সংখ্যার আপেক্ষিক গুরুত্ব-\nSolve সংখ্যার আপেক্ষিক গুরুত্ব 1.015।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "1.018",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "1.013",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "1.012",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "1.015",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c18d59df-a0e6-5644-90df-7d68117fa139"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q15",
+          "content_markdown": "ফ্রিজিঙের অধিন্দের ডায়াস্টেল দশার সময়কাল-\nSolve ফ্রিজিঙের অধিন্দের ডায়াস্টেল দশার সময়কাল হচ্ছে- 0.7 সেকেন্ড।",
+          "structured_data": {
+            "question_number": "15",
+            "subtype": "mcq_item",
+            "stem": "ফ্রিজিঙের অধিন্দের ডায়াস্টেল দশার সময়কাল-\nSolve ফ্রিজিঙের অধিন্দের ডায়াস্টেল দশার সময়কাল হচ্ছে- 0.7 সেকেন্ড।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "0.3 সেকেন্ড",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "0.8 সেকেন্ড",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "0.7 সেকেন্ড",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "0.1 সেকেন্ড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1f4b44e3-e4e9-54ff-bb37-9e9007e7f7de"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q16",
+          "content_markdown": "কার্যকর শক্তি/প্রদত্ত শক্তি = ?\nSolve আমরা জানি, কর্মদক্ষতা = কার্যকর শক্তি / প্রদত্ত শক্তি",
+          "structured_data": {
+            "question_number": "16",
+            "subtype": "mcq_item",
+            "stem": "কার্যকর শক্তি/প্রদত্ত শক্তি = ?\nSolve আমরা জানি, কর্মদক্ষতা = কার্যকর শক্তি / প্রদত্ত শক্তি",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "শক্তি",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "কর্মদক্ষতা",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "কাজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কোনটিই নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c52db118-c789-5f34-88e1-357d6ede876b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q17",
+          "content_markdown": "কোল মুলায়ন পাথরে অ্যালুমিনিয়াম অক্সাইড থাকে?\nSolve অ্যালুমিনিয়াম অক্সাইড বা কোরাবাম (Al₂O₃) বিদ্যমান দুইটি মূলবাণ পাথর রয়েছে। যেমন :\ni. নীলকাঞ্চনি বা সেফারার স্টোন : 1.5% Fe₃O₄ + 0.5% TiO₂ + 98% Al₂O₃\nii. রবি পাথর/হুনী পাথর : 2.5% Cr₂O₃ + 97% Al₂O₃",
+          "structured_data": {
+            "question_number": "17",
+            "subtype": "mcq_item",
+            "stem": "কোল মুলায়ন পাথরে অ্যালুমিনিয়াম অক্সাইড থাকে?\nSolve অ্যালুমিনিয়াম অক্সাইড বা কোরাবাম (Al₂O₃) বিদ্যমান দুইটি মূলবাণ পাথর রয়েছে। যেমন :\ni. নীলকাঞ্চনি বা সেফারার স্টোন : 1.5% Fe₃O₄ + 0.5% TiO₂ + 98% Al₂O₃\nii. রবি পাথর/হুনী পাথর : 2.5% Cr₂O₃ + 97% Al₂O₃",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "মুক্তা",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "হীরা",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "চুনী",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কোরাল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e24e8a58-fbbb-5d14-bdd9-882932390dd5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q18",
+          "content_markdown": "কোলটি হিডপেশার বৈশিষ্ট্য নয়?\nSolve দেখে নাও বিভিন্ন পেশিকালর বৈশিষ্ট্যের তুলনায় বিষয়।",
+          "structured_data": {
+            "question_number": "18",
+            "subtype": "mcq_item",
+            "stem": "কোলটি হিডপেশার বৈশিষ্ট্য নয়?\nSolve দেখে নাও বিভিন্ন পেশিকালর বৈশিষ্ট্যের তুলনায় বিষয়।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "রক্ত সরবরাহ ৪ প্রভৃতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ডোরাবিশিষ্ট",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "পেশী ভঙ্গ শাখানিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "প্রকৃতি অনৈচ্ছিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b9ff1ccb-9f3f-500e-aa45-1a7c1a25e1df"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q19",
+          "content_markdown": "কোনটিকে ঘণ্টাত্রক তুলনা হিসেবে সংজ্ঞায়িত করা যায় -\nSolve সঠিক উত্তর হচ্ছে 'D'; কেননা যেকোন মদনই ঘণ্টাত্রক তুলনা।",
+          "structured_data": {
+            "question_number": "19",
+            "subtype": "mcq_item",
+            "stem": "কোনটিকে ঘণ্টাত্রক তুলনা হিসেবে সংজ্ঞায়িত করা যায় -\nSolve সঠিক উত্তর হচ্ছে 'D'; কেননা যেকোন মদনই ঘণ্টাত্রক তুলনা।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "তাঢ়কণিক মদন",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "প্রুক্ত মদন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "গড় মদন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "সবকম্পটি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "af12281e-d839-58fa-844c-1e645709edb4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q20",
+          "content_markdown": "অ্যাক্সিজেনের পরমাণুকরণ তাপ কত?\nSolve অ্যাক্সিজেনের পরমাণুকরণ তাপ +249.2 KJ/mol",
+          "structured_data": {
+            "question_number": "20",
+            "subtype": "mcq_item",
+            "stem": "অ্যাক্সিজেনের পরমাণুকরণ তাপ কত?\nSolve অ্যাক্সিজেনের পরমাণুকরণ তাপ +249.2 KJ/mol",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "+106.0 KJ/mol",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "+218.0 KJ/mol",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "+249.2 KJ/mol",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "+112.0 KJ/mol",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "752ddab0-f95f-58fc-9eb2-9bcf413f0a4d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q21",
+          "content_markdown": "আনোনিকিলিস মশকী Plasmodium-এর যে দশটি লালা রসের সাথে মানুষের দেহে প্রবেশ করে সেটি হলো-\nSolve সঠিক উত্তর হচ্ছে স্পোরোজোয়েট অর্থাৎ অপশন 'C'",
+          "structured_data": {
+            "question_number": "21",
+            "subtype": "mcq_item",
+            "stem": "আনোনিকিলিস মশকী Plasmodium-এর যে দশটি লালা রসের সাথে মানুষের দেহে প্রবেশ করে সেটি হলো-\nSolve সঠিক উত্তর হচ্ছে স্পোরোজোয়েট অর্থাৎ অপশন 'C'",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "মেরোজোয়েট",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "সাইজান্ট",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "স্পোরোজোয়েট",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ট্রন্সজোয়েট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0bc2779a-be3c-5cf0-b3f4-8996784c3326"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q22",
+          "content_markdown": "কোনটি দোলকের ব্যবহার নয়?\nSolve দোলকের ব্যবহারঃ\n→ অভিকর্ষণ তুলনা (g) এর মান নির্ধারণ।\n→ সময় নির্ধারণ।\n→ পাহাড়ের উচ্চতা নির্ধারণ।",
+          "structured_data": {
+            "question_number": "22",
+            "subtype": "mcq_item",
+            "stem": "কোনটি দোলকের ব্যবহার নয়?\nSolve দোলকের ব্যবহারঃ\n→ অভিকর্ষণ তুলনা (g) এর মান নির্ধারণ।\n→ সময় নির্ধারণ।\n→ পাহাড়ের উচ্চতা নির্ধারণ।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "সময় নির্ধারণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "পাহাড়ের উচ্চতা নির্ধারণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "অভিকর্ষণ তুলনা g এর মান নির্ধারণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "দৈর্ঘ্য নির্ধারণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "685348cc-7764-508b-83c8-20fd60882d5c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q23",
+          "content_markdown": "মাটিকে অণুজীব মুক্ত রাখার জন্য pH এর পরিমাণ-\nSolve মাটিকে অণুজীবমুক্ত রাখার জন্য pH এর মান 3 এর নিচে অথবা 10 এর উপরে রাখা প্রয়োজন।",
+          "structured_data": {
+            "question_number": "23",
+            "subtype": "mcq_item",
+            "stem": "মাটিকে অণুজীব মুক্ত রাখার জন্য pH এর পরিমাণ-\nSolve মাটিকে অণুজীবমুক্ত রাখার জন্য pH এর মান 3 এর নিচে অথবা 10 এর উপরে রাখা প্রয়োজন।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "5 এর নিচে অথবা 8 এর উপরে",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "8 এর নিচে অথবা 7 এর উপরে",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "3 এর নিচে অথবা 10 এর উপরে",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "2 এর নিচে অথবা 11 এর উপরে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ba7f19d3-e26d-563d-bfc5-8dd6cbd3e375"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q24",
+          "content_markdown": "ঐচ্ছিক পেশী পাওয়া যায়-\nSolve কঙ্কালত্ত্বের গায়ে, অংশির সংযোগস্থলে, চোখ, জিহ্বা, গলবিলে ঐচ্ছিক পেশী পাওয়া যায়।",
+          "structured_data": {
+            "question_number": "24",
+            "subtype": "mcq_item",
+            "stem": "ঐচ্ছিক পেশী পাওয়া যায়-\nSolve কঙ্কালত্ত্বের গায়ে, অংশির সংযোগস্থলে, চোখ, জিহ্বা, গলবিলে ঐচ্ছিক পেশী পাওয়া যায়।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "বৃক্ষের প্রাচীরে",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "পৌষ্টিক নালীর প্রাচীরে",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "হাদ্পাইডের প্রাচীরে",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কঙ্কালত্ত্বের গায়ে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "87fe77cd-b7a0-5ad1-82f0-962958806f7a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q25",
+          "content_markdown": "পরম শূন্য তাপমাত্রা বলতে আমরা বুঝি-\nSolve পরম শূন্য তাপমাত্রা হলো -273°C বা -459°F বা OK",
+          "structured_data": {
+            "question_number": "25",
+            "subtype": "mcq_item",
+            "stem": "পরম শূন্য তাপমাত্রা বলতে আমরা বুঝি-\nSolve পরম শূন্য তাপমাত্রা হলো -273°C বা -459°F বা OK",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "-459°F",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "-495°F",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "-594°F",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "-945°F",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "A. -45, B. -49, C. -59, D. -94",
+            "provenance": [
+              "A. -45",
+              "B. -49",
+              "C. -59",
+              "D. -94"
+            ]
+          },
+          "id": "f846df93-89a0-5c55-bc83-4ea78c36cfd9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q26",
+          "content_markdown": "ন্যাপথর স্কুটান্টক কত?\nSolve অশোধিত পেট্রোলিয়ামের আংশিক পাতনে প্রাঙ্গ কার্বন শিকল C₇ – C₁₅ মিশিল অংশ হচ্ছে ন্যাপথর; যার স্কুটান্ট 100-300°C.",
+          "structured_data": {
+            "question_number": "26",
+            "subtype": "mcq_item",
+            "stem": "ন্যাপথর স্কুটান্টক কত?\nSolve অশোধিত পেট্রোলিয়ামের আংশিক পাতনে প্রাঙ্গ কার্বন শিকল C₇ – C₁₅ মিশিল অংশ হচ্ছে ন্যাপথর; যার স্কুটান্ট 100-300°C.",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "100–300°C",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "200–400°C",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "100–200°C",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "120–280°C",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "A. 100–30, B. 200–40, C. 100–20, D. 120–28",
+            "provenance": [
+              "A. 100–30",
+              "B. 200–40",
+              "C. 100–20",
+              "D. 120–28"
+            ]
+          },
+          "id": "cb3bd2d6-9ff7-5648-8f6d-80cdfa72be46"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q27",
+          "content_markdown": "ক্রোমোসোমে DNA ও হিস্টোন এর পরিমাণ যথাক্রমে-\nSolve ক্রোমোজোমের গঠন হলো: হিস্টোন প্রোটিন 55% + DNA 35%",
+          "structured_data": {
+            "question_number": "27",
+            "subtype": "mcq_item",
+            "stem": "ক্রোমোসোমে DNA ও হিস্টোন এর পরিমাণ যথাক্রমে-\nSolve ক্রোমোজোমের গঠন হলো: হিস্টোন প্রোটিন 55% + DNA 35%",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "50% & 80%",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "85% & 50%",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "35% & 65%",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "25% & 65%",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c20f851d-c9cb-5727-8a54-8b65dd0f8278"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 15,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 156.12,
+        "eval_count": 2653
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "```none\n28. কোনটি তাপজাতীয় পরিবর্তন?\nA. সমচাপ পরিবর্তন\nB. সমআয়তন পরিবর্তন\nC. সমোষ্ফ পরিবর্তন\nD. সমধর্মী পরিবর্তন\n\nSolve তাপজাতীয় পরিবর্তন 8 ধরনের। যথা :\ni. সমচাপ পরিবর্তন,\nii. রূপ্দভাষী পরিবর্তন,\niii. গ্রহ চাপ পরিবর্তন,\niv. গ্রহ আয়তন পরিবর্তন,\n\n29. Na+ এর অস্থায়িক ব্যাসার্ধ কত?\nA. 98 nm\nB. 0.098 nm\nC. 0.98 nm\nD. 0.00098 nm\n\nSolve Na+ এর অস্থায়িক ব্যাসার্ধ হলো 0.098nm.\n\n30. শারীরবিদ্যার জনক বলা হয় কাকে?\nA. রবার্ট হক\nB. সলিম আলী\nC. ইবনে সিনা\nD. উইলিয়াম হার্ডে\n\nSolve উইলিয়াম হার্ডে কে শারীরবিদ্যার জনক বলা হয়।\n\n31. কোনটি স্থিক negative sentence? Man is mortal-\nA. Man is not mortal\nB. No man is mortal\nC. No man is immortal\nD. Man is immortal\n\nSolve Man is mortal এর স্থিক Negative Sentence হলো No man is immortal.\n\n32. কোনটি উপর বাস্পায়ন নির্ভর করে না?\nA. তরলের প্রকৃতি\nB. বায়ুর তাপমাত্রা\nC. তরলের তাপমাত্রা\nD. বায়ুর অর্দ্রতা\n\nSolve বাস্পায়নের নির্ভরশীলতা:\n\n→ তরলের প্রকৃতি\n→ বায়ুর তাপমাত্রা\n→ তরলের তাপমাত্রা\n→ বায়ুর অর্দ্রতা\n\n33. [Fe(CN)_6]^− এ Fe এর জালণ সংখ্যা কত?\nA. +8\nB. -2\nC. +2\nD. -8\n\nSolve Fe এর জালণ সংখ্যা x ধরলে, x + (-1) × 6 = −4 বা, x = +2;\nসুতরাং Fe এর জালণ সংখ্যা +2\n\n34. অ্যাঞ্জেলের আইলেটস অব ল্যাঙ্কারহাল নিক্সের কোন হরমোন নির্ণয় করে?\nA. পোজেস্টেরন\nB. ইন্ট্রোজেন\nC. এন্ট্রোগ্যাস্ট্রেন\nD. গ্লুকাগন\n\nSolve অ্যাঞ্জেলের আইলেটস অব ল্যাঙ্কারহাল খেতে নির্ণয় হরমোনসমূহঃ\ni. গ্লুকাগন (অ্যালফা কোষ থেকে),\nii. ইন্দুলিন (বিটা কোষ থেকে),\niii. সোমাটোস্টাইন (ডেল্টা কোষ থেকে)\n\n35. He said 'Do you know me?' এর কোনটি স্থিক indirect speech?\nA. He told me that if I knew him\nB. He asked me that if I know him\nC. He inquired whether I knew him\nD. He asked me that whether I knew him\n\nSolve প্রথে উল্লেখিত বাক্তির স্থিক indirect speech হলো-'He inquired whether I knew him.'\n\n36. কোনটি অপ্রত্যাশামী প্রক্রিয়া নয়?\nA. বিক্রিয়ণ\nB. পরিচলন\nC. ব্যাপন\nD. প্রতিসরণ\n\nSolve উল্লেখ্যোগ্য অপ্রত্যাশামী প্রক্রিয়া হলো ব্যাপন, পরিচলন, বিক্রিয়ণ ইত্যাদি।\n\n37. প্রমাণ দ্রবণের ঘনমাত্রা -\nA. অজানা থাকে\nB. সকল ক্ষেত্রে সমান\nC. নির্দিষ্টভাবে জানা থাকে\nD. কোনটি নয়\n\nSolve প্রমাণ দ্রবণের ঘনমাত্রা নির্দিষ্টভাবে জানা থাকে। তাই এর সাহায্যে অন্যান্য দ্রবণের ঘনমাত্রা নির্ণয় করা যায়।\n\n38. বৎসগতি বিদ্যার জনক গ্রেগর জোহান মেবেল কোন দেশে জন্মগ্রহণ করেন?\nA. অস্ট্রিয়া\nB. ইতালী\nC. জার্মানি\nD. সুইডেন\n\nSolve বৎসগতি বিদ্যার জনক গ্রেগর জোহান মেবেল 1822 সালে 22 শে জুলাই অস্ট্রিয়া ক্রন্তে জন্মগ্রহণ করেন।\n\n39. The teacher said to me, ‘You are wrong’ এর কোনটি স্থিক indirect speech?\nA. The teacher said that I am wrong\nB. The teacher said to me that I was wrong\nC. The teacher told me that I was wrong\nD. The teacher told'me I was wrong\n\nSolve প্রথে উল্লেখিত বাক্তির স্থিক Indirect Speech হলো- \"The teacher told me that I was wrong.\"\n\n40. কোনটি গতির প্রকারদের নয়?\nA. দোলন গতি\nB. উষ্ণ গতি\nC. চলন গতি\nD. ঘূর্ণন গতি\n\nSolve গতি ৫ প্রকার। যথা:\ni. চলনগতি: সরল চলন গতি, বক্রচলন গতি।\nii. ঘূর্ণনগতি: বৈদ্যুতিক পাখর গতি, ঘড়ির কাঁটার গতি, যাতার গতি।\niii. দোলনগতি: সরল দোলকের বর্বর গতি।\niv. চলন ঘূর্ণ/জটিল গতি : গাড়ির ঢাকার গতি, পৃথিবীর গতি, লাটিমের গতি\nv. পর্যায়ুক্ত গতি : ঘড়ির কাঁটার গতি।\n\n41. কোনটি নিক্সির গ্যাস নয়?\nA. রেডন\nB. অ্যাস্টাইন\nC. জেনন\nD. ক্রিপটন\n\nSolve নিক্সির গ্যাসসমূহ হচ্ছে- হিলিয়াম (He), নিয়ন (Ne), আর্গন (Ar), ক্রিটন (Kr), জেনন (Xe), রেডন (Rn)",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "```none",
+          "structured_data": {},
+          "id": "574428e7-de7b-50c3-b36a-3d8f78e8b4ec"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q28",
+          "content_markdown": "কোনটি তাপজাতীয় পরিবর্তন?\nSolve তাপজাতীয় পরিবর্তন 8 ধরনের। যথা :\ni. সমচাপ পরিবর্তন,\nii. রূপ্দভাষী পরিবর্তন,\niii. গ্রহ চাপ পরিবর্তন,\niv. গ্রহ আয়তন পরিবর্তন,",
+          "structured_data": {
+            "question_number": "28",
+            "subtype": "mcq_item",
+            "stem": "কোনটি তাপজাতীয় পরিবর্তন?\nSolve তাপজাতীয় পরিবর্তন 8 ধরনের। যথা :\ni. সমচাপ পরিবর্তন,\nii. রূপ্দভাষী পরিবর্তন,\niii. গ্রহ চাপ পরিবর্তন,\niv. গ্রহ আয়তন পরিবর্তন,",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "সমচাপ পরিবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "সমআয়তন পরিবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "সমোষ্ফ পরিবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "সমধর্মী পরিবর্তন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fcf23b9b-b075-5d77-942e-a03566029fe7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q29",
+          "content_markdown": "Na+ এর অস্থায়িক ব্যাসার্ধ কত?\nSolve Na+ এর অস্থায়িক ব্যাসার্ধ হলো 0.098nm.",
+          "structured_data": {
+            "question_number": "29",
+            "subtype": "mcq_item",
+            "stem": "Na+ এর অস্থায়িক ব্যাসার্ধ কত?\nSolve Na+ এর অস্থায়িক ব্যাসার্ধ হলো 0.098nm.",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "98 nm",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "0.098 nm",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "0.98 nm",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "0.00098 nm",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1da1c5c9-000e-5ce2-b1b1-103b403bed7d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q30",
+          "content_markdown": "শারীরবিদ্যার জনক বলা হয় কাকে?\nSolve উইলিয়াম হার্ডে কে শারীরবিদ্যার জনক বলা হয়।",
+          "structured_data": {
+            "question_number": "30",
+            "subtype": "mcq_item",
+            "stem": "শারীরবিদ্যার জনক বলা হয় কাকে?\nSolve উইলিয়াম হার্ডে কে শারীরবিদ্যার জনক বলা হয়।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "রবার্ট হক",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "সলিম আলী",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ইবনে সিনা",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "উইলিয়াম হার্ডে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a033d7ab-d251-5bca-8bd2-bc099c6c4b2a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q31",
+          "content_markdown": "কোনটি স্থিক negative sentence? Man is mortal-\nSolve Man is mortal এর স্থিক Negative Sentence হলো No man is immortal.",
+          "structured_data": {
+            "question_number": "31",
+            "subtype": "mcq_item",
+            "stem": "কোনটি স্থিক negative sentence? Man is mortal-\nSolve Man is mortal এর স্থিক Negative Sentence হলো No man is immortal.",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "Man is not mortal",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "No man is mortal",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "No man is immortal",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "Man is immortal",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "35e20003-d6bd-5a76-9460-6fa993f2ba26"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q32",
+          "content_markdown": "কোনটি উপর বাস্পায়ন নির্ভর করে না?\nSolve বাস্পায়নের নির্ভরশীলতা:\n→ তরলের প্রকৃতি\n→ বায়ুর তাপমাত্রা\n→ তরলের তাপমাত্রা\n→ বায়ুর অর্দ্রতা",
+          "structured_data": {
+            "question_number": "32",
+            "subtype": "mcq_item",
+            "stem": "কোনটি উপর বাস্পায়ন নির্ভর করে না?\nSolve বাস্পায়নের নির্ভরশীলতা:\n→ তরলের প্রকৃতি\n→ বায়ুর তাপমাত্রা\n→ তরলের তাপমাত্রা\n→ বায়ুর অর্দ্রতা",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "তরলের প্রকৃতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "বায়ুর তাপমাত্রা",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "তরলের তাপমাত্রা",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "বায়ুর অর্দ্রতা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d2af26cf-7b13-53a8-bcd9-c4d82fc51009"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q33",
+          "content_markdown": "[Fe(CN)_6]^− এ Fe এর জালণ সংখ্যা কত?\nSolve Fe এর জালণ সংখ্যা x ধরলে, x + (-1) × 6 = −4 বা, x = +2;\nসুতরাং Fe এর জালণ সংখ্যা +2",
+          "structured_data": {
+            "question_number": "33",
+            "subtype": "mcq_item",
+            "stem": "[Fe(CN)_6]^− এ Fe এর জালণ সংখ্যা কত?\nSolve Fe এর জালণ সংখ্যা x ধরলে, x + (-1) × 6 = −4 বা, x = +2;\nসুতরাং Fe এর জালণ সংখ্যা +2",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "+8",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "-2",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "+2",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "-8",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "79ec6cc6-c350-5750-b03d-7042bfaad34a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q34",
+          "content_markdown": "অ্যাঞ্জেলের আইলেটস অব ল্যাঙ্কারহাল নিক্সের কোন হরমোন নির্ণয় করে?\nSolve অ্যাঞ্জেলের আইলেটস অব ল্যাঙ্কারহাল খেতে নির্ণয় হরমোনসমূহঃ\ni. গ্লুকাগন (অ্যালফা কোষ থেকে),\nii. ইন্দুলিন (বিটা কোষ থেকে),\niii. সোমাটোস্টাইন (ডেল্টা কোষ থেকে)",
+          "structured_data": {
+            "question_number": "34",
+            "subtype": "mcq_item",
+            "stem": "অ্যাঞ্জেলের আইলেটস অব ল্যাঙ্কারহাল নিক্সের কোন হরমোন নির্ণয় করে?\nSolve অ্যাঞ্জেলের আইলেটস অব ল্যাঙ্কারহাল খেতে নির্ণয় হরমোনসমূহঃ\ni. গ্লুকাগন (অ্যালফা কোষ থেকে),\nii. ইন্দুলিন (বিটা কোষ থেকে),\niii. সোমাটোস্টাইন (ডেল্টা কোষ থেকে)",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "পোজেস্টেরন",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ইন্ট্রোজেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "এন্ট্রোগ্যাস্ট্রেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "গ্লুকাগন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "088f610d-0f2c-5594-973e-3e15da679f25"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q35",
+          "content_markdown": "He said 'Do you know me?' এর কোনটি স্থিক indirect speech?\nSolve প্রথে উল্লেখিত বাক্তির স্থিক indirect speech হলো-'He inquired whether I knew him.'",
+          "structured_data": {
+            "question_number": "35",
+            "subtype": "mcq_item",
+            "stem": "He said 'Do you know me?' এর কোনটি স্থিক indirect speech?\nSolve প্রথে উল্লেখিত বাক্তির স্থিক indirect speech হলো-'He inquired whether I knew him.'",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "He told me that if I knew him",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "He asked me that if I know him",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "He inquired whether I knew him",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "He asked me that whether I knew him",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8dd03abc-a231-5f39-b0e8-9dfc328df294"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q36",
+          "content_markdown": "কোনটি অপ্রত্যাশামী প্রক্রিয়া নয়?\nSolve উল্লেখ্যোগ্য অপ্রত্যাশামী প্রক্রিয়া হলো ব্যাপন, পরিচলন, বিক্রিয়ণ ইত্যাদি।",
+          "structured_data": {
+            "question_number": "36",
+            "subtype": "mcq_item",
+            "stem": "কোনটি অপ্রত্যাশামী প্রক্রিয়া নয়?\nSolve উল্লেখ্যোগ্য অপ্রত্যাশামী প্রক্রিয়া হলো ব্যাপন, পরিচলন, বিক্রিয়ণ ইত্যাদি।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "বিক্রিয়ণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "পরিচলন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ব্যাপন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "প্রতিসরণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2ab23354-c4c5-58b8-92ed-1342a76f3928"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q37",
+          "content_markdown": "প্রমাণ দ্রবণের ঘনমাত্রা -\nSolve প্রমাণ দ্রবণের ঘনমাত্রা নির্দিষ্টভাবে জানা থাকে। তাই এর সাহায্যে অন্যান্য দ্রবণের ঘনমাত্রা নির্ণয় করা যায়।",
+          "structured_data": {
+            "question_number": "37",
+            "subtype": "mcq_item",
+            "stem": "প্রমাণ দ্রবণের ঘনমাত্রা -\nSolve প্রমাণ দ্রবণের ঘনমাত্রা নির্দিষ্টভাবে জানা থাকে। তাই এর সাহায্যে অন্যান্য দ্রবণের ঘনমাত্রা নির্ণয় করা যায়।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "অজানা থাকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "সকল ক্ষেত্রে সমান",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "নির্দিষ্টভাবে জানা থাকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কোনটি নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "498955d5-afab-51b3-b3e4-690a23d47771"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q38",
+          "content_markdown": "বৎসগতি বিদ্যার জনক গ্রেগর জোহান মেবেল কোন দেশে জন্মগ্রহণ করেন?\nSolve বৎসগতি বিদ্যার জনক গ্রেগর জোহান মেবেল 1822 সালে 22 শে জুলাই অস্ট্রিয়া ক্রন্তে জন্মগ্রহণ করেন।",
+          "structured_data": {
+            "question_number": "38",
+            "subtype": "mcq_item",
+            "stem": "বৎসগতি বিদ্যার জনক গ্রেগর জোহান মেবেল কোন দেশে জন্মগ্রহণ করেন?\nSolve বৎসগতি বিদ্যার জনক গ্রেগর জোহান মেবেল 1822 সালে 22 শে জুলাই অস্ট্রিয়া ক্রন্তে জন্মগ্রহণ করেন।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "অস্ট্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ইতালী",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "জার্মানি",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "সুইডেন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d63da36d-26ec-5ba8-85db-4eed45c0c2fa"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q39",
+          "content_markdown": "The teacher said to me, ‘You are wrong’ এর কোনটি স্থিক indirect speech?\nSolve প্রথে উল্লেখিত বাক্তির স্থিক Indirect Speech হলো- \"The teacher told me that I was wrong.\"",
+          "structured_data": {
+            "question_number": "39",
+            "subtype": "mcq_item",
+            "stem": "The teacher said to me, ‘You are wrong’ এর কোনটি স্থিক indirect speech?\nSolve প্রথে উল্লেখিত বাক্তির স্থিক Indirect Speech হলো- \"The teacher told me that I was wrong.\"",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "The teacher said that I am wrong",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "The teacher said to me that I was wrong",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "The teacher told me that I was wrong",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "The teacher told'me I was wrong",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "063fd580-d33c-5f33-b463-5e70d1850f2f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q40",
+          "content_markdown": "কোনটি গতির প্রকারদের নয়?\nSolve গতি ৫ প্রকার। যথা:\ni. চলনগতি: সরল চলন গতি, বক্রচলন গতি।\nii. ঘূর্ণনগতি: বৈদ্যুতিক পাখর গতি, ঘড়ির কাঁটার গতি, যাতার গতি।\niii. দোলনগতি: সরল দোলকের বর্বর গতি।\niv. চলন ঘূর্ণ/জটিল গতি : গাড়ির ঢাকার গতি, পৃথিবীর গতি, লাটিমের গতি\nv. পর্যায়ুক্ত গতি : ঘড়ির কাঁটার গতি।",
+          "structured_data": {
+            "question_number": "40",
+            "subtype": "mcq_item",
+            "stem": "কোনটি গতির প্রকারদের নয়?\nSolve গতি ৫ প্রকার। যথা:\ni. চলনগতি: সরল চলন গতি, বক্রচলন গতি।\nii. ঘূর্ণনগতি: বৈদ্যুতিক পাখর গতি, ঘড়ির কাঁটার গতি, যাতার গতি।\niii. দোলনগতি: সরল দোলকের বর্বর গতি।\niv. চলন ঘূর্ণ/জটিল গতি : গাড়ির ঢাকার গতি, পৃথিবীর গতি, লাটিমের গতি\nv. পর্যায়ুক্ত গতি : ঘড়ির কাঁটার গতি।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "দোলন গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "উষ্ণ গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "চলন গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ঘূর্ণন গতি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a8b33cff-545f-5383-afcc-bc7b4eca1e47"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q41",
+          "content_markdown": "কোনটি নিক্সির গ্যাস নয়?\nSolve নিক্সির গ্যাসসমূহ হচ্ছে- হিলিয়াম (He), নিয়ন (Ne), আর্গন (Ar), ক্রিটন (Kr), জেনন (Xe), রেডন (Rn)",
+          "structured_data": {
+            "question_number": "41",
+            "subtype": "mcq_item",
+            "stem": "কোনটি নিক্সির গ্যাস নয়?\nSolve নিক্সির গ্যাসসমূহ হচ্ছে- হিলিয়াম (He), নিয়ন (Ne), আর্গন (Ar), ক্রিটন (Kr), জেনন (Xe), রেডন (Rn)",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "রেডন",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "অ্যাস্টাইন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "জেনন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ক্রিপটন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1b062a7e-22be-5ab6-8591-555064afc5a5"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 15,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 151.27,
+        "eval_count": 2594
+      }
+    },
+    {
+      "page_number": 4,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "```none\n## Q42\n**Type:** mcq\n**Stem:** কোনটি জলজ ভসমান পর্যায়ের উদ্দিষ্ট?\n**Options:** \n- A) হেলেঙ্গা\n- B) মোষগ্রাস\n- C) শাপলা\n- D) কলমী শাক\n\n**Solution:** জলজ ভসমান পর্যায়ের উদ্দিষ্ট হলো - শাপলা, পাণিকলা, পাঁচফল, গুডঃপানা, ক্ষুদ্রিপানা, টৌপাপানা, কূট্রীপানা।\n**Tags:** [The Medicine QB]\n\n## Q43\n**Type:** mcq\n**Stem:** 'আমার অস্ত্র লোকদের পছন্দ করি না'-এর সত্যিক translation কোনটি?\n**Options:** \n- A) We are not liked by idle people\n- B) We did not like idle people\n- C) We do not like idle people\n- D) Idle people are not our liking\n\n**Solution:** এখেন উল্লেখিত বাক্যটির সত্যিক Translation হচ্ছে-\"We do not like idle people.\"\n**Tags:** [The Medicine QB]\n\n## Q44\n**Type:** mcq\n**Stem:** কোনটি ভেটারের প্রকারভেদ নয়?\n**Options:** \n- A) সমতলীয় ভেটার\n- B) সমান ভেটার\n- C) খণ্ড ভেটার\n- D) ধন ভেটার\n\n**Solution:** ভেটারের রশির প্রকারভেদ : i. একক ভেটার, ii. সমতলীয় ভেটার, iii. বিপরীত/খণ্ড ভেটার, iv. সামবিক ভেটার, v. সমরেখ ভেটার,\nvi. স্থায়ী ভেটার, vii. বিশদৃষ্ট ভেটার, viii. অবস্থান ভেটার ix. সমরেখ ভেটার, x. আয়ত একক ভেটার,\n**Tags:** [The Medicine QB]\n\n## Q45\n**Type:** mcq\n**Stem:** পরমাণুতে একটি ইলেকট্রনের সত্যিক অবস্থান তুলে ধরার জন্য 8টি কোয়ান্টাম সংখ্যা যথা : প্রধান কোয়ান্টাম সংখ্যা, সহকারী কোয়ান্টাম সংখ্যা, ম্যাগনেটিক কোয়ান্টাম সংখ্যা ও স্পিন কোয়ান্টাম সংখ্যা প্রয়োজন হয়।\n**Options:** \n- A) 3টি\n- B) 2টি\n- C) 1টি\n- D) 8টি\n\n**Solution:** পরমাণুতে একটি ইলেকট্রনের সত্যিক অবস্থান তুলে ধরার জন্য 8টি কোয়ান্টাম সংখ্যা যথা : প্রধান কোয়ান্টাম সংখ্যা, সহকারী কোয়ান্টাম সংখ্যা, ম্যাগনেটিক কোয়ান্টাম সংখ্যা ও স্পিন কোয়ান্টাম সংখ্যা প্রয়োজন হয়।\n**Tags:** [The Medicine QB]\n\n## Q46\n**Type:** mcq\n**Stem:** প্রজাতির উপর নির্ভর করে পাতার প্রতি বর্গ সেন্টিমিটার জায়গায় কত পত্রক ঢাকতে পারে?\n**Options:** \n- A) 1,000 হতে 60,000\n- B) 2,000 হতে 50,000\n- C) 2,000 হতে 80,000\n- D) 1,000 হতে 70,000\n\n**Solution:** প্রজাতির উপর নির্ভর করে পাতার প্রতি বর্গ সেন্টিমিটার জায়গায় 1,000–60,000 পত্রক ঢাকতে পারে।\n**Tags:** [The Medicine QB]\n\n## Q47\n**Type:** mcq\n**Stem:** সত্যিক সবুজকৃত পথা-\n**Options:** \n- A) Honesty is the better way\n- B) Honesty is the best virtue\n- C) Honesty is the best policy\n- D) Honesty is the good way\n\n**Solution:** দেখে নাও কিছু প্রোজেক্টীয় Proverbs:\n- আমার বুদ্ধ নাই বলেই চলে = I have few friends\n- চেরে চেরে মাস্তলো ভাই = Birds of the same feather flock together\n- আমার বমি বমি লাগছে = I feel nausea\n- বন্ধুক তাক করতে না করতেই পাঠিত উড়ে গেল = No sooner had he aimed at the bird than it flew away\n- সততা সবুজকৃত পথা = Honesty is the best policy\n- আমার যদি পাপির মত ডানা থাকত = Had’I the wings of a bird!\n- নিউটন বছর বছর জন্মে না = A Newton is not born every year\n- শেষ ভাল যার সব ভাল তার = All is well that ends well\n- আমরা না হেসে পারলাম না = We could not but laugh\n**Tags:** [The Medicine QB]\n\n## Q48\n**Type:** mcq\n**Stem:** কোনটি শস্ত্রের বেগের উপর প্রভাব রাখে না?\n**Options:** \n- A) তাপমাত্রা\n- B) চাপ\n- C) ঘনত্ব\n- D) উচ্চতা\n\n**Solution:** সাধারণত শস্ত্রের বেগের উপর গ্যাসের ঘনত্ব, তাপমাত্রা, অর্দ্রতা, বায়ু প্রবাহ, উচ্চতা ইত্যাদি প্রভাব রাখে।\n**Tags:** [The Medicine QB]\n\n## Q49\n**Type:** mcq\n**Stem:** যে সব পরমাণুর ভর সংখ্যা এক কিষ্ট পরমাণবিক সংখ্যা তাদের বলে-\n**Options:** \n- A) আইসোটোপ\n- B) আইসোমার\n- C) আইসোবার\n- D) কোনটিই নয়\n\n**Solution:** যেসকল পরমাণুর ভরসংখ্যা এক কিষ্ট পরমাণবিক সংখ্যা তিনি তাদেরকে আইসোটোপ বলে। আবার যাদের প্রোটন সংখ্যা এক কিষ্ট ভরসংখ্যা তিনি তাদেরকে আইসোবার বলে।\n**Tags:** [The Medicine QB]\n\n## Q50\n**Type:** mcq\n**Stem:** উদ্বিগ্দ দেহের কোষপ্রাচীর এবং প্রোটোপ্লাজম কিভাবে পানি শোষণ করে?\n**Options:** \n- A) ব্যাপন\n- B) ইমবাইবিশন\n- C) অভিপ্রশ্ন\n- D) শোষণ\n\n**Solution:** উদ্বিগ্দ দেহের কোষপ্রাচীর ও প্রোটোপ্লাজম ইমবাইবিশন প্রক্রিয়ায় পানি শোষণ করে।\n**Tags:** [The Medicine QB]\n\n## Q51\n**Type:** mcq\n**Stem:** স্রীফ্রেশ বর্তমানে কি নামে পরিচিত?\n**Options:** \n- A) থাইল্যান্ড\n- B) জাপান\n- C) মিয়ানমার\n- D) ভিয়েতনাম\n\n**Solution:** স্রীফ্রেশ বর্তমানে কি নামে পরিচিত? - থাইল্যান্ড\n**Tags:** [The Medicine QB]\n\n## Q52\n**Type:** mcq\n**Stem:** 'আমি জানি আমির ভিত্তি'-এর সত্যিক translation কোনটি?\n**Options:** \n- A) I know Amer being a coward\n- B) I know Amir is' coward\n- C) I know Amir is a coward\n- D) I know Amir was coward\n\n**Solution:** এখেন উল্লেখিত বাক্যটির সত্যিক Translation হচ্ছে-\"I know Amir is a Coward.\"\n**Tags:** [The Medicine QB]\n\n## Q53\n**Type:** mcq\n**Stem:** কোনটি আলোক তড়িৎ কৌশ নয়?\n**Options:** \n- A) আলোক বিভব কৌশ\n- B) আলোক নিঃসরণ কৌশ\n- C) আলোক প্রতিসরণ কৌশ\n- D) আলোক পরিবাহী কৌশ\n\n**Solution:** 3 ধরনের আলোক তড়িৎকৌশ পাওয়া যায় : i. আলোক নিঃসরণ কৌশ,\nii. আলোক বিভব কৌশ,\niii. আলোক পরিবাহী কৌশ .\n**Tags:** [The Medicine QB]\n\n## Q54\n**Type:** mcq\n**Stem:** কোনটি কেলাসের শ্রেণিবিভাগ নয়?\n**Options:** \n- A) ট্রাইক্লিনিক\n- B) অর্থোরিঝিক\n- C) মনোক্লিনিক\n- D) ডাইফ্রিনিক\n\n**Solution:** কেলাসের শ্রেণিবিভাগ নয়: - ট্রাইক্লিনিক\n- অর্থোরিঝিক\n- মনোক্লিনিক\n- ডাইফ্রিনিক\n**Tags:** [The Medicine QB]",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "```none",
+          "structured_data": {},
+          "id": "83645e33-c626-5d9d-8a82-e25bb4fc153d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q42",
+          "content_markdown": "কোনটি জলজ ভসমান পর্যায়ের উদ্দিষ্ট?",
+          "structured_data": {
+            "question_number": "42",
+            "subtype": "mcq",
+            "stem": "কোনটি জলজ ভসমান পর্যায়ের উদ্দিষ্ট?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "হেলেঙ্গা",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "মোষগ্রাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "শাপলা",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কলমী শাক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "জলজ ভসমান পর্যায়ের উদ্দিষ্ট হলো - শাপলা, পাণিকলা, পাঁচফল, গুডঃপানা, ক্ষুদ্রিপানা, টৌপাপানা, কূট্রীপানা।",
+            "tags_raw": "[The Medicine QB]",
+            "provenance": [
+              "[The Medicine QB]"
+            ]
+          },
+          "id": "af5852e0-d646-5001-a8fe-9b1c8308e748"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q43",
+          "content_markdown": "'আমার অস্ত্র লোকদের পছন্দ করি না'-এর সত্যিক translation কোনটি?",
+          "structured_data": {
+            "question_number": "43",
+            "subtype": "mcq",
+            "stem": "'আমার অস্ত্র লোকদের পছন্দ করি না'-এর সত্যিক translation কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "We are not liked by idle people",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "We did not like idle people",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "We do not like idle people",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "Idle people are not our liking",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "এখেন উল্লেখিত বাক্যটির সত্যিক Translation হচ্ছে-\"We do not like idle people.\"",
+            "tags_raw": "[The Medicine QB]",
+            "provenance": [
+              "[The Medicine QB]"
+            ]
+          },
+          "id": "5d926c5c-5ffd-59f0-a705-ad8a4b932958"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q44",
+          "content_markdown": "কোনটি ভেটারের প্রকারভেদ নয়?",
+          "structured_data": {
+            "question_number": "44",
+            "subtype": "mcq",
+            "stem": "কোনটি ভেটারের প্রকারভেদ নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "সমতলীয় ভেটার",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "সমান ভেটার",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "খণ্ড ভেটার",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ধন ভেটার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "ভেটারের রশির প্রকারভেদ : i. একক ভেটার, ii. সমতলীয় ভেটার, iii. বিপরীত/খণ্ড ভেটার, iv. সামবিক ভেটার, v. সমরেখ ভেটার,\nvi. স্থায়ী ভেটার, vii. বিশদৃষ্ট ভেটার, viii. অবস্থান ভেটার ix. সমরেখ ভেটার, x. আয়ত একক ভেটার,",
+            "tags_raw": "[The Medicine QB]",
+            "provenance": [
+              "[The Medicine QB]"
+            ]
+          },
+          "id": "339da2f2-b318-52bc-a1cd-17e7f2785e38"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q45",
+          "content_markdown": "পরমাণুতে একটি ইলেকট্রনের সত্যিক অবস্থান তুলে ধরার জন্য 8টি কোয়ান্টাম সংখ্যা যথা : প্রধান কোয়ান্টাম সংখ্যা, সহকারী কোয়ান্টাম সংখ্যা, ম্যাগনেটিক কোয়ান্টাম সংখ্যা ও স্পিন কোয়ান্টাম সংখ্যা প্রয়োজন হয়।",
+          "structured_data": {
+            "question_number": "45",
+            "subtype": "mcq",
+            "stem": "পরমাণুতে একটি ইলেকট্রনের সত্যিক অবস্থান তুলে ধরার জন্য 8টি কোয়ান্টাম সংখ্যা যথা : প্রধান কোয়ান্টাম সংখ্যা, সহকারী কোয়ান্টাম সংখ্যা, ম্যাগনেটিক কোয়ান্টাম সংখ্যা ও স্পিন কোয়ান্টাম সংখ্যা প্রয়োজন হয়।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "3টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "2টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "1টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "8টি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "পরমাণুতে একটি ইলেকট্রনের সত্যিক অবস্থান তুলে ধরার জন্য 8টি কোয়ান্টাম সংখ্যা যথা : প্রধান কোয়ান্টাম সংখ্যা, সহকারী কোয়ান্টাম সংখ্যা, ম্যাগনেটিক কোয়ান্টাম সংখ্যা ও স্পিন কোয়ান্টাম সংখ্যা প্রয়োজন হয়।",
+            "tags_raw": "[The Medicine QB]",
+            "provenance": [
+              "[The Medicine QB]"
+            ]
+          },
+          "id": "a28a91b2-0f34-5764-b816-af8d5a40f11e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q46",
+          "content_markdown": "প্রজাতির উপর নির্ভর করে পাতার প্রতি বর্গ সেন্টিমিটার জায়গায় কত পত্রক ঢাকতে পারে?",
+          "structured_data": {
+            "question_number": "46",
+            "subtype": "mcq",
+            "stem": "প্রজাতির উপর নির্ভর করে পাতার প্রতি বর্গ সেন্টিমিটার জায়গায় কত পত্রক ঢাকতে পারে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "1,000 হতে 60,000",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "2,000 হতে 50,000",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "2,000 হতে 80,000",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "1,000 হতে 70,000",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "প্রজাতির উপর নির্ভর করে পাতার প্রতি বর্গ সেন্টিমিটার জায়গায় 1,000–60,000 পত্রক ঢাকতে পারে।",
+            "tags_raw": "[The Medicine QB]",
+            "provenance": [
+              "[The Medicine QB]"
+            ]
+          },
+          "id": "e0c67866-33cc-5e56-bef0-2276e83e8e02"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q47",
+          "content_markdown": "সত্যিক সবুজকৃত পথা-",
+          "structured_data": {
+            "question_number": "47",
+            "subtype": "mcq",
+            "stem": "সত্যিক সবুজকৃত পথা-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "Honesty is the better way",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "Honesty is the best virtue",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "Honesty is the best policy",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "Honesty is the good way",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "দেখে নাও কিছু প্রোজেক্টীয় Proverbs:\n- আমার বুদ্ধ নাই বলেই চলে = I have few friends\n- চেরে চেরে মাস্তলো ভাই = Birds of the same feather flock together\n- আমার বমি বমি লাগছে = I feel nausea\n- বন্ধুক তাক করতে না করতেই পাঠিত উড়ে গেল = No sooner had he aimed at the bird than it flew away\n- সততা সবুজকৃত পথা = Honesty is the best policy\n- আমার যদি পাপির মত ডানা থাকত = Had’I the wings of a bird!\n- নিউটন বছর বছর জন্মে না = A Newton is not born every year\n- শেষ ভাল যার সব ভাল তার = All is well that ends well\n- আমরা না হেসে পারলাম না = We could not but laugh",
+            "tags_raw": "[The Medicine QB]",
+            "provenance": [
+              "[The Medicine QB]"
+            ]
+          },
+          "id": "e855d9d1-a2d8-53fa-a565-62fdf8cd0727"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q48",
+          "content_markdown": "কোনটি শস্ত্রের বেগের উপর প্রভাব রাখে না?",
+          "structured_data": {
+            "question_number": "48",
+            "subtype": "mcq",
+            "stem": "কোনটি শস্ত্রের বেগের উপর প্রভাব রাখে না?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "তাপমাত্রা",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "চাপ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ঘনত্ব",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "উচ্চতা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সাধারণত শস্ত্রের বেগের উপর গ্যাসের ঘনত্ব, তাপমাত্রা, অর্দ্রতা, বায়ু প্রবাহ, উচ্চতা ইত্যাদি প্রভাব রাখে।",
+            "tags_raw": "[The Medicine QB]",
+            "provenance": [
+              "[The Medicine QB]"
+            ]
+          },
+          "id": "4aff5674-96d2-5ef3-9476-770836e1fcba"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q49",
+          "content_markdown": "যে সব পরমাণুর ভর সংখ্যা এক কিষ্ট পরমাণবিক সংখ্যা তাদের বলে-",
+          "structured_data": {
+            "question_number": "49",
+            "subtype": "mcq",
+            "stem": "যে সব পরমাণুর ভর সংখ্যা এক কিষ্ট পরমাণবিক সংখ্যা তাদের বলে-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "আইসোটোপ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "আইসোমার",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "আইসোবার",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কোনটিই নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "যেসকল পরমাণুর ভরসংখ্যা এক কিষ্ট পরমাণবিক সংখ্যা তিনি তাদেরকে আইসোটোপ বলে। আবার যাদের প্রোটন সংখ্যা এক কিষ্ট ভরসংখ্যা তিনি তাদেরকে আইসোবার বলে।",
+            "tags_raw": "[The Medicine QB]",
+            "provenance": [
+              "[The Medicine QB]"
+            ]
+          },
+          "id": "69d34c5d-1fc3-5891-af4a-446268e2629f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q50",
+          "content_markdown": "উদ্বিগ্দ দেহের কোষপ্রাচীর এবং প্রোটোপ্লাজম কিভাবে পানি শোষণ করে?",
+          "structured_data": {
+            "question_number": "50",
+            "subtype": "mcq",
+            "stem": "উদ্বিগ্দ দেহের কোষপ্রাচীর এবং প্রোটোপ্লাজম কিভাবে পানি শোষণ করে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ব্যাপন",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ইমবাইবিশন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "অভিপ্রশ্ন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "শোষণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "উদ্বিগ্দ দেহের কোষপ্রাচীর ও প্রোটোপ্লাজম ইমবাইবিশন প্রক্রিয়ায় পানি শোষণ করে।",
+            "tags_raw": "[The Medicine QB]",
+            "provenance": [
+              "[The Medicine QB]"
+            ]
+          },
+          "id": "2217af49-8a0d-5a88-9c7d-efc737776303"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q51",
+          "content_markdown": "স্রীফ্রেশ বর্তমানে কি নামে পরিচিত?",
+          "structured_data": {
+            "question_number": "51",
+            "subtype": "mcq",
+            "stem": "স্রীফ্রেশ বর্তমানে কি নামে পরিচিত?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "থাইল্যান্ড",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "জাপান",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "মিয়ানমার",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ভিয়েতনাম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "স্রীফ্রেশ বর্তমানে কি নামে পরিচিত? - থাইল্যান্ড",
+            "tags_raw": "[The Medicine QB]",
+            "provenance": [
+              "[The Medicine QB]"
+            ]
+          },
+          "id": "d89b15c8-ba31-52a5-a287-2a5e105fa4ca"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q52",
+          "content_markdown": "'আমি জানি আমির ভিত্তি'-এর সত্যিক translation কোনটি?",
+          "structured_data": {
+            "question_number": "52",
+            "subtype": "mcq",
+            "stem": "'আমি জানি আমির ভিত্তি'-এর সত্যিক translation কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "I know Amer being a coward",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "I know Amir is' coward",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "I know Amir is a coward",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "I know Amir was coward",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "এখেন উল্লেখিত বাক্যটির সত্যিক Translation হচ্ছে-\"I know Amir is a Coward.\"",
+            "tags_raw": "[The Medicine QB]",
+            "provenance": [
+              "[The Medicine QB]"
+            ]
+          },
+          "id": "6f008775-a8a8-5a62-9074-b36fe9588d34"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q53",
+          "content_markdown": "কোনটি আলোক তড়িৎ কৌশ নয়?",
+          "structured_data": {
+            "question_number": "53",
+            "subtype": "mcq",
+            "stem": "কোনটি আলোক তড়িৎ কৌশ নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "আলোক বিভব কৌশ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "আলোক নিঃসরণ কৌশ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "আলোক প্রতিসরণ কৌশ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "আলোক পরিবাহী কৌশ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "3 ধরনের আলোক তড়িৎকৌশ পাওয়া যায় : i. আলোক নিঃসরণ কৌশ,\nii. আলোক বিভব কৌশ,\niii. আলোক পরিবাহী কৌশ .",
+            "tags_raw": "[The Medicine QB]",
+            "provenance": [
+              "[The Medicine QB]"
+            ]
+          },
+          "id": "75f28e50-b818-50e8-9ba6-9f2a4b856ffc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q54",
+          "content_markdown": "কোনটি কেলাসের শ্রেণিবিভাগ নয়?",
+          "structured_data": {
+            "question_number": "54",
+            "subtype": "mcq",
+            "stem": "কোনটি কেলাসের শ্রেণিবিভাগ নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ট্রাইক্লিনিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "অর্থোরিঝিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "মনোক্লিনিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ডাইফ্রিনিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "কেলাসের শ্রেণিবিভাগ নয়: - ট্রাইক্লিনিক\n- অর্থোরিঝিক\n- মনোক্লিনিক\n- ডাইফ্রিনিক",
+            "tags_raw": "[The Medicine QB]",
+            "provenance": [
+              "[The Medicine QB]"
+            ]
+          },
+          "id": "18ad7f6f-255b-5283-8f19-b179e3e423e3"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 14,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 204.86,
+        "eval_count": 3523
+      }
+    },
+    {
+      "page_number": 5,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "## Q55\n**Type:** mcq\n**Stem:** উচ্চারণের বিভিন্নভাবে উপরে নির্দেশ করা সালোক-সংগ্রহের জন্য সুবিধাজনক তাপমাত্রা কৌনটি?\n**Options:** - A) 24°–40°C  \n                      - B) 22°–35°C  \n                      - C) 15°–25°C  \n                      - D) 35°–50°C\n\n**Tags:** [Ans: ...]\n\n## Solve\nনিচের ব্যাখ্যাটি লক্ষ্য করৃ।\n→ সালোকসংগ্রহের জন্য মুখ্যধারণক তাপমাত্রা = 22° – 35°C \n→ খৃষ্ণনের জন্য সুবিধাজনক তাপমাত্রা = 20° – 45°C \n→ 'C₃ চজ/ক্যালভিন চজের জন্য সুবিধাজনক = 10° – 25°C \n→ 'C₄ চজ/হাই-ল্যাক চজের জন্য সুবিধাজনক = 30° – 45°C \n\n## Q56\n**Type:** mcq\n**Stem:** পৃথিবীর সবচেয়ে কাছের অর্থ কৌনটি?  \n**Options:** - A) শনি  \n                      - B) বৃহৎ  \n                      - C) হর্সল  \n                      - D) বৃহস্পতি  \n\n## Q57\n**Type:** mcq\n**Stem:** 'All his friends laughed at him' এর সত্যিক passive বাক্য কৌনটি?  \n**Options:** - A) He was laughed over by all his friends.  \n                      - B) He was laughed by all his friends.  \n                      - C) He was laughed at by all his friends.  \n                      - D) He was being laughed by his friends.\n\n## Solve\nপ্রশ্নে উল্লেখিত বাক্যটির সত্যিক passive form হলো-\"He was laughed at by all his friends.\"\n\n## Q58\n**Type:** mcq\n**Stem:** কৌনটি এক্সক্রেই ধর্ম নয়?  \n**Options:** - A) ডেডন কফমতা অত্যাধিক  \n                      - B) আদুষ্ঠ  \n                      - C) সরলরেখায় গমন করে  \n                      - D) জীবত্ব কোথাও নষ্ট করে না  \n\n## Solve\nঅপশন 'D' এক্সক্রেই ধর্ম নয়। কেননা এটি জীবন্ত কোষকে নষ্ট করে।\n\n## Q59\n**Type:** mcq\n**Stem:** কৌনটি কাঠামোগত সমান্তরাল প্রকরণের নয়?  \n**Options:** - A) অবস্থান সমান্তরা  \n                      - B) টেটোমারিতা  \n                      - C) মেটামারিতা  \n                      - D) সেট্রিও সমান্তরা  \n\n## Solve\nনিচের ব্যাখ্যাটি লক্ষ্য করৃ :  \nসমান্তরা  \nগঠনিক সমান্তরা  \nচেইন অবস্থা কার্যক্রমূলক মেটামারিতা টেটোমারিতা অ্যামিটিক/সিন্টাইল অলোকসমান্তরা  \n\n## Q60\n**Type:** mcq\n**Stem:** বর্তমানে ব্যবহৃত বেশির ভাগ অ্যান্টিবায়োটিক প্রস্তুতকে কোন গণের অনুজীব অঞ্চল করে না?  \n**Options:** - A) Streptomyces  \n                      - B) Penicillin  \n                      - C) Bacillus  \n                      - D) E. coli  \n\n## Solve\nবর্তমানে ব্যবহৃত বেশির ভাগ অ্যান্টিবায়োটিক প্রস্তুতকে Bacillus, penicilium, streptomyces ও cephalosporium নামক চারটি অনুজীব অঞ্চল করে।\n\n## Q61\n**Type:** mcq\n**Stem:** 'বাজারের শহর' বলা হয় কোন শহরকে?  \n**Options:** - A) রাবাত  \n                      - B) দুবাই  \n                      - C) ক্যারোলো  \n                      - D) কুয়ালালামপুর  \n\n## Solve\nনিচের ব্যাখ্যাটি লক্ষ্য করৃ :\n\n## Q62\n**Type:** mcq\n**Stem:** \"The peon opened the gate\" এর সত্যিক passive বাক্য কৌনটি?  \n**Options:** - A) The gate is being opened by the peon  \n                      - B) The gate was being opened by the peon  \n                      - C) The gate was opened by the peon  \n                      - D) The gate was to be opened by the peon  \n\n## Solve\nপ্রশ্নে উল্লেখিত বাক্যটির সত্যিক passive form হলো- \"The gate was opened by the peon.\"\n\n## Q63\n**Type:** mcq\n**Stem:** কৌনটি দৃষ্টি কর্ম নয়?  \n**Options:** - A) চালানে  \n                      - B) ফৈছিদ্রি  \n                      - C) দূরদৃষ্টি  \n                      - D) অ্যানিমিয়া  \n\n## Q64\n**Type:** mcq\n**Stem:** H-COOH এর উত্স কৌনটি?  \n**Options:** - A) প্রপায়নাস  \n                      - B) এনসিটাম  \n                      - C) ফরমিকা  \n                      - D) বিউটাইরাম  \n\n## Solve\nদেখে নাও বিভিন্ন এসিডের উত্স:\n\n| এসিডের নাম       | উত্স         |\n|---------------------|--------------|\n| HCOOH              | ফরমিকা     |\n| CH₃ COOH           | ডিনেগার    |\n| CH₃ CH₂ COOH       | চর্বি        |\n| CH₃ CH₂ CH₂ COOH   | বাটার      |\n| CH₃(CH₂)_14 COOH   | পামটৈল     |\n\n## Q65\n**Type:** mcq\n**Stem:** ফল পাকানোর উপাদান হল-\n**Options:** - A) এ্যাসকরবিক এসিড  \n                      - B) জিবেরেলিন  \n                      - C) অক্সিন  \n                      - D) ইথিলিন  \n\n## Solve\nফল পাকাতে সাধারণত ইথিলিন ব্যবহৃত হয়।\n\n## Q66\n**Type:** mcq\n**Stem:** হাজী মুহাম্মদ মুহিসীন ১৭৩২ সালে পশ্চিমবঙ্গের হুগলী জেলায় জন্ম এহেন করেন।\n**Tags:** [Ans: ...]\n\n## Q67\n**Type:** mcq\n**Stem:** Who opened the door? এর সত্যিক passive বাক্য কৌনটি?\n**Options:** - A) By whom the door was opened?  \n                      - B) The door was opened by whom?  \n                      - C) By whom was the door opened?  \n                      - D) By whom was opened the door?\n\n## Solve\nপ্রশ্নে উল্লেখিত বাক্যটির সত্যিক passive form হলো- \"By whom was the door opened?\"\n\n## Q68\n**Type:** mcq\n**Stem:** কৌনটি বর্ণালীবিক্ষণ যন্ত্রের তিনটি প্রধান অংশ নয়?\n**Options:** - A) প্রিজম টেবিল  \n                      - B) দূরবিশ্লেষণ  \n                      - C) কলিমেটর  \n                      - D) লেন্স  \n\n## Solve\nবর্ণালীবিক্ষণ যন্ত্রের তিনটি প্রধান অংশ হলো– \ni. প্রিজম টেবিল,\nii. দূরবিশ্লেষণ\niii. কলিমেটর। \n\nNote:\nজেনে নাও বর্ণালী পাঠের প্রয়োজনীয়তা: (ইসহাক)\n1. বিভিন্ন বর্ণের তরঙ্গদৈর্ঘ্য নির্ণয় করা যায়।\n2. বিভিন্ন বর্ণের ক্ষেত্রে মাধ্যমের প্রতিস্থাপক নির্ণয় করা যায়।\n3. বিভিন্ন ধাতুর বৈশিষ্ট্য নির্ণয় করা যায়।\n4. বর্ণালী বিশ্লেষণ দ্বারা বিভিন্ন মৌল পদার্থ সনাক্ত করা যায়।\n5. সূর্য নক্ষত্রের আভাময়লের গঠন সম্পর্কে ধারণা পাওয়া যায়।",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q55",
+          "content_markdown": "উচ্চারণের বিভিন্নভাবে উপরে নির্দেশ করা সালোক-সংগ্রহের জন্য সুবিধাজনক তাপমাত্রা কৌনটি?",
+          "structured_data": {
+            "question_number": "55",
+            "subtype": "mcq",
+            "stem": "উচ্চারণের বিভিন্নভাবে উপরে নির্দেশ করা সালোক-সংগ্রহের জন্য সুবিধাজনক তাপমাত্রা কৌনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "24°–40°C",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "22°–35°C",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "15°–25°C",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "35°–50°C",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "...",
+            "solution_markdown": null,
+            "tags_raw": "## Solve নিচের ব্যাখ্যাটি লক্ষ্য করৃ। → সালোকসংগ্রহের জন্য মুখ্যধারণক তাপমাত্রা = 22° – 35°C  → খৃষ্ণনের জন্য সুবিধাজনক তাপমাত্রা = 20° – 45°C  → 'C₃ চজ/ক্যালভিন চজের জন্য সুবিধাজনক = 10° – 25°C  → 'C₄ চজ/হাই-ল্যাক চজের জন্য সুবিধাজনক = 30° – 45°C",
+            "provenance": [
+              "## Solve নিচের ব্যাখ্যাটি লক্ষ্য করৃ। → সালোকসংগ্রহের জন্য মুখ্যধারণক তাপমাত্রা = 22° – 35°C  → খৃষ্ণনের জন্য সুবিধাজনক তাপমাত্রা = 20° – 45°C  → 'C₃ চজ/ক্যালভিন চজের জন্য সুবিধাজনক = 10° – 25°C  → 'C₄ চজ/হাই-ল্যাক চজের জন্য সুবিধাজনক = 30° – 45°C"
+            ]
+          },
+          "id": "938642ec-c4b4-5b79-a0e3-7e5eb589b5a5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q56",
+          "content_markdown": "পৃথিবীর সবচেয়ে কাছের অর্থ কৌনটি?",
+          "structured_data": {
+            "question_number": "56",
+            "subtype": "mcq",
+            "stem": "পৃথিবীর সবচেয়ে কাছের অর্থ কৌনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "শনি",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "বৃহৎ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "হর্সল",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "বৃহস্পতি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c2e311e3-ce64-5471-94a2-3ea8e89d173c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q57",
+          "content_markdown": "'All his friends laughed at him' এর সত্যিক passive বাক্য কৌনটি?",
+          "structured_data": {
+            "question_number": "57",
+            "subtype": "mcq",
+            "stem": "'All his friends laughed at him' এর সত্যিক passive বাক্য কৌনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "He was laughed over by all his friends.",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "He was laughed by all his friends.",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "He was laughed at by all his friends.",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "He was being laughed by his friends.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "58c2e91b-6a65-5ae2-ab47-f92fd55d2638"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q58",
+          "content_markdown": "কৌনটি এক্সক্রেই ধর্ম নয়?",
+          "structured_data": {
+            "question_number": "58",
+            "subtype": "mcq",
+            "stem": "কৌনটি এক্সক্রেই ধর্ম নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ডেডন কফমতা অত্যাধিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "আদুষ্ঠ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "সরলরেখায় গমন করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "জীবত্ব কোথাও নষ্ট করে না",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "52cf3393-5980-57b1-b808-5e9776db10fe"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q59",
+          "content_markdown": "কৌনটি কাঠামোগত সমান্তরাল প্রকরণের নয়?",
+          "structured_data": {
+            "question_number": "59",
+            "subtype": "mcq",
+            "stem": "কৌনটি কাঠামোগত সমান্তরাল প্রকরণের নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "অবস্থান সমান্তরা",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "টেটোমারিতা",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "মেটামারিতা",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "সেট্রিও সমান্তরা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e4dc6a1a-9326-5cdd-bd5e-a26f4857d718"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q60",
+          "content_markdown": "বর্তমানে ব্যবহৃত বেশির ভাগ অ্যান্টিবায়োটিক প্রস্তুতকে কোন গণের অনুজীব অঞ্চল করে না?",
+          "structured_data": {
+            "question_number": "60",
+            "subtype": "mcq",
+            "stem": "বর্তমানে ব্যবহৃত বেশির ভাগ অ্যান্টিবায়োটিক প্রস্তুতকে কোন গণের অনুজীব অঞ্চল করে না?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "Streptomyces",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "Penicillin",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "Bacillus",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "E. coli",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d938adf2-b888-5a5f-bd93-9e945455796c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q61",
+          "content_markdown": "'বাজারের শহর' বলা হয় কোন শহরকে?",
+          "structured_data": {
+            "question_number": "61",
+            "subtype": "mcq",
+            "stem": "'বাজারের শহর' বলা হয় কোন শহরকে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "রাবাত",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "দুবাই",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ক্যারোলো",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কুয়ালালামপুর",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a0a5fdeb-d6c8-5b77-8392-b6454b2780bf"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q62",
+          "content_markdown": "\"The peon opened the gate\" এর সত্যিক passive বাক্য কৌনটি?",
+          "structured_data": {
+            "question_number": "62",
+            "subtype": "mcq",
+            "stem": "\"The peon opened the gate\" এর সত্যিক passive বাক্য কৌনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "The gate is being opened by the peon",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "The gate was being opened by the peon",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "The gate was opened by the peon",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "The gate was to be opened by the peon",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "22f61a55-199c-55a5-84ee-c4b4c1028998"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q63",
+          "content_markdown": "কৌনটি দৃষ্টি কর্ম নয়?",
+          "structured_data": {
+            "question_number": "63",
+            "subtype": "mcq",
+            "stem": "কৌনটি দৃষ্টি কর্ম নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "চালানে",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ফৈছিদ্রি",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "দূরদৃষ্টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "অ্যানিমিয়া",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c08cef39-1a19-5423-97c4-c996dee21212"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q64",
+          "content_markdown": "H-COOH এর উত্স কৌনটি?",
+          "structured_data": {
+            "question_number": "64",
+            "subtype": "mcq",
+            "stem": "H-COOH এর উত্স কৌনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "প্রপায়নাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "এনসিটাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ফরমিকা",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "বিউটাইরাম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2f556933-b566-5f95-a04a-66141d23393e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q65",
+          "content_markdown": "ফল পাকানোর উপাদান হল-",
+          "structured_data": {
+            "question_number": "65",
+            "subtype": "mcq",
+            "stem": "ফল পাকানোর উপাদান হল-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "এ্যাসকরবিক এসিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "জিবেরেলিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "অক্সিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ইথিলিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9f8b4871-18a6-51eb-8deb-fcaa15857603"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q66",
+          "content_markdown": "হাজী মুহাম্মদ মুহিসীন ১৭৩২ সালে পশ্চিমবঙ্গের হুগলী জেলায় জন্ম এহেন করেন।",
+          "structured_data": {
+            "question_number": "66",
+            "subtype": "mcq",
+            "stem": "হাজী মুহাম্মদ মুহিসীন ১৭৩২ সালে পশ্চিমবঙ্গের হুগলী জেলায় জন্ম এহেন করেন।",
+            "options": [],
+            "correct_answer": "...",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f2fd3723-f470-5631-a0d1-196fb117dbaf"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q67",
+          "content_markdown": "Who opened the door? এর সত্যিক passive বাক্য কৌনটি?",
+          "structured_data": {
+            "question_number": "67",
+            "subtype": "mcq",
+            "stem": "Who opened the door? এর সত্যিক passive বাক্য কৌনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "By whom the door was opened?",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "The door was opened by whom?",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "By whom was the door opened?",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "By whom was opened the door?",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "cfe245ab-dd67-5fac-a83b-5e750ff1c1b8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q68",
+          "content_markdown": "কৌনটি বর্ণালীবিক্ষণ যন্ত্রের তিনটি প্রধান অংশ নয়?",
+          "structured_data": {
+            "question_number": "68",
+            "subtype": "mcq",
+            "stem": "কৌনটি বর্ণালীবিক্ষণ যন্ত্রের তিনটি প্রধান অংশ নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "প্রিজম টেবিল",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "দূরবিশ্লেষণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "কলিমেটর",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "লেন্স",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "783b821b-0d07-5db7-a970-70d6363bbd56"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 14,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 179.74,
+        "eval_count": 3039
+      }
+    },
+    {
+      "page_number": 6,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "বিজ্ঞানী কেন্দ্র-এর অবস্থান কোথাও?\n\nA. প্রাণশক্তি মতবাদ\n\nB. রাসায়নিক বধনে ইলেকট্রনীয় তড়া\n\nC. বেনজিনের কাঠামো তড়া\n\nD. কোণাছই নয়\n\nSolve বিজ্ঞানী কেন্দ্র এর অবস্থান হচ্ছে - তিনি বেনজিনের কাঠামো তড়া প্রদান করেন।\n\nবেগের বৈজ্ঞানিক নাম কোনটি?\n\nA. Psidium guajava\n\nB. Solanum melongena\n\nC. Nymphaea nouchali\n\nD. Lathyrus sativus L\n\nSolve বেগের বৈজ্ঞানিক নাম হচ্ছে - Solanum melongena.\n\nরয়টার্স কী?\n\nA. সঙ্গীপত্র\n\nB. কম্পিউটার সিলি\n\nC. সংবাদ সংস্থা\n\nD. আভাষিক সাহায্য সংস্থা\n\nকৌনটি সত্যিক Sentence?\n\nA. He told me to held my tongue\n\nB. He asked me to held my tongue\n\nC. He asked me to hold my tongue\n\nD. He said me to hold my tongue\n\nSolve সত্যিক Sentence হচ্ছে অপশন 'C' অর্থাৎ He asked me to hold my tongue.\n\nটোষক বলবেরার ধর্ম কে উল্লেখ করেন?\n\nA. ফ্যারাডে\n\nB. আইনস্টেইন\n\nC. নিউটন\n\nD. মার্যওয়েল\n\nSolve টোষক বলবেরার ধর্ম বিজ্ঞানী ফ্যারাডে সর্বপ্রথম উল্লেখ করেন।\n\nকৌনটি জিঙ্ক নিক্ষেপণে ব্যবহার হয় না?\n\nA. অক্সিজেন বিজ্ঞান\n\nB. গাঢ়িকরণ\n\nC. কার্ভন বিজ্ঞান\n\nD. তাপ জারণ\n\nSolve জিঙ্ক নিক্ষেপনের ধাপসমূহ হলো - কার্ভন বিজ্ঞান, গাঢ়িকরণ, তাপজারণ।\n\nআবৃত্তীয় উদ্ভিদের ক্ষেত্রে ডিপ্লোড শ্রীরেশ্ম মাতুকোষটি মায়েসিস প্রক্রিয়া বিভক্ত হয়ে কয়টি হ্যাপ্রোড শ্রীরেশ্ম তৈরি করে?\n\nA. ছয়টি\n\nB. চারটি\n\nC. দুইটি\n\nD. আটটি\n\nSolve আবৃত্তীয় উদ্ভিদের ক্ষেত্রে ডিপ্লোড শ্রীরেশ্ম মাতুকোষটি মায়েসিস প্রক্রিয়া বিভক্ত হয়ে চারটি (8) হ্যাপ্রোড শ্রীরেশ্ম তৈরি করে।\n\n2003 সালে ‘অ্যাহিসি’ র সম্মেলন কোথায় হয়েছে?\n\nA. ইরান\n\nB. ইন্দোনেশিয়া\n\nC. মালয়েশিয়া\n\nD. তুরস্ক\n\n77. কৌনটি সত্যিক Sentence?\nA. Iqbal was both the poet and philosopher\nB. Iqbal was poet and philosopher\nC. Iqbal was the poet and philosopher\nD. Iqbal was a poet and a philosopher\n\nSolve সত্যিক sentence-টি হলো – “Iqbal was the poet and philosopher.”\n\n78. AVO তিনটি শব্দের দ্বারা আমরা বুঝি-\nA. অ্যাম্পিয়ার, ভোল্টেস্টি, ওহম\nB. অ্যাম্পিয়ার, ভোল্ট, ওহম\nC. অ্যানালগ, ভোল্ট, ওহম\nD. অ্যানালগ, ভোল্ট, অলটারনেটর\n\nSolve AVO দ্বারা তিনটি শব্দ বুঝানো হয় । যেমন : A = Ampere (অ্যাম্পিয়ার), V = Volt (ভোল্ট), O = Ohm (ওহম)।\n\n79. কোন যন্ত্রটি প্রকৃতি পরিস্থিতির ব্যবহৃত হয় না?\nA. গ্লোবার টাওয়ার\nB. নাইটার ওভেন\nC. পিপাইট টুফী\nD. সৌর চুল্লী\n\nSolve সৌর চুল্লী প্রকৃতি পরিস্থিতির ব্যবহৃত হয় না।\n\n80. ফ্লুইড-মোজিক মডেল অনুযায়ী সেল মেম্ব্রেনের গঠনিক উপাদান নয় কোনটি?\n\nA. লিপিড বাইলিয়ার\nB. কোলেস্টারল\nC. স্টার্চ\nD. মেম্ব্রেন প্রোটিন\n\nSolve ফ্লুইড মোজিক মডেল অনুযায়ী সেল মেম্ব্রেনের গঠনিক উপাদানসমূহ : প্রোটিন (55%), লিপিড (ফসফোলিপ্ড–25%), কোলেস্টারল (13%), অন্যান্য লিপিড (8%)। | সুতরাং সত্যিক উত্তর হলো অপশন 'C' অর্থাৎ স্টার্চ। |\n\n81. প্রথম বাংলায় মুসলিম কবি কে?\n\nA. কায়কোবাদ\nB. আলাওয়াল\nC. শাহ মুহাম্মদ সাগীর\nD. আধুল হাকিম\n\nSolve শাহ মুহাম্মদ সাগীর হচ্ছেন প্রথম বাংলায় মুসলিম কবি।\n\nNote: জেনো নাও আরও কিছু প্রয়োজনীয় তথ্যঃ\n→ বাংলা সাহিত্যের প্রথম মুসলিম নাট্যকার—মীর মশররফ হোসেন\n→ বাংলা সাহিত্যের প্রথম স্বার্ণক নাট্যকার—মাইকেল মধুসূদন দত্ত\n→ বাংলা ভাষায় প্রথম সংকলিত কব্য—চর্যাপদ\n→ বাংলা সাহিত্যের প্রাচীনতম একমাত্র নিদর্শন—চর্যাপদ\n→ মহাভারত যে ভাষায় লেখা — সংস্কৃত ভাষায়\n→ মহাভারত প্রথম বাংলায় অনুবাদ করেন—কবিন্দু পরমেশ্বর\n→ রামায়ণের প্রথম বাংলা অনুবাদ করেন—কৃত্তিবাস ওঙ্গ।\n\n82. কৌনটি সত্যিক Sentence?\nA. Karim preferred reading than to write\nB. Karim preferred to read than to write\nC. Karim preferred reading to writing\nD. Karim preferred to read than to writing\n\nSolve সত্যিক sentence টি হলো-\"Karim preferred reading to writing.\"",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "বিজ্ঞানী কেন্দ্র-এর অবস্থান কোথাও?",
+          "structured_data": {},
+          "id": "1f08a0bd-f403-5d82-b475-1399760dd631"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. প্রাণশক্তি মতবাদ",
+          "structured_data": {},
+          "id": "09f9d53f-0ff8-5584-82c9-26cf1182af41"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "B. রাসায়নিক বধনে ইলেকট্রনীয় তড়া",
+          "structured_data": {},
+          "id": "453cf169-41ae-540d-9f68-35bf2a67f08d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "C. বেনজিনের কাঠামো তড়া",
+          "structured_data": {},
+          "id": "e11a7b1b-a499-5d0c-8617-1862486d02be"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "D. কোণাছই নয়",
+          "structured_data": {},
+          "id": "d31ad858-dcf4-5fe2-9b23-9378381d6805"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Solve বিজ্ঞানী কেন্দ্র এর অবস্থান হচ্ছে - তিনি বেনজিনের কাঠামো তড়া প্রদান করেন।",
+          "structured_data": {},
+          "id": "ae679c26-8ae7-5c2d-8571-020aa05872ae"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "বেগের বৈজ্ঞানিক নাম কোনটি?",
+          "structured_data": {},
+          "id": "0625adce-8856-507e-a29c-e3febea7d6e9"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. Psidium guajava",
+          "structured_data": {},
+          "id": "475c0fad-6a91-5f89-acd7-72f12fe7b9d4"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "B. Solanum melongena",
+          "structured_data": {},
+          "id": "98bb5d3e-5a8f-54cc-9eca-a3dc6f187465"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "C. Nymphaea nouchali",
+          "structured_data": {},
+          "id": "049fd65f-f98a-5203-8c76-552086702f2c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "D. Lathyrus sativus L",
+          "structured_data": {},
+          "id": "86c7b712-d3d6-52d7-8032-90e990ed81f3"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Solve বেগের বৈজ্ঞানিক নাম হচ্ছে - Solanum melongena.",
+          "structured_data": {},
+          "id": "4f55a616-d41a-5f82-b380-aceb307d203d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "রয়টার্স কী?",
+          "structured_data": {},
+          "id": "06496d5d-08bf-5690-894e-020b890b06a8"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. সঙ্গীপত্র",
+          "structured_data": {},
+          "id": "e7b54f20-0375-5e6b-86b6-234c47abdd91"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "B. কম্পিউটার সিলি",
+          "structured_data": {},
+          "id": "b9c3916f-1fec-548e-8125-b949c4f055db"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "C. সংবাদ সংস্থা",
+          "structured_data": {},
+          "id": "4487370e-f2c5-515f-8c03-95379b6c35d2"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "D. আভাষিক সাহায্য সংস্থা",
+          "structured_data": {},
+          "id": "97a59d31-7719-5a23-9b6b-7e2f8e96238f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "কৌনটি সত্যিক Sentence?",
+          "structured_data": {},
+          "id": "cb49b874-da99-50b4-83d6-506631d3364b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. He told me to held my tongue",
+          "structured_data": {},
+          "id": "96200fc3-1d44-5cae-a2e4-36a6ed1947e4"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "B. He asked me to held my tongue",
+          "structured_data": {},
+          "id": "f3b451a2-0fcd-59fa-8cce-3a63783241bf"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "C. He asked me to hold my tongue",
+          "structured_data": {},
+          "id": "8ef1c873-ad2b-568c-a581-571169f0c29d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "D. He said me to hold my tongue",
+          "structured_data": {},
+          "id": "4d6a086f-f272-55af-82e0-a9860b6b7e2f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Solve সত্যিক Sentence হচ্ছে অপশন 'C' অর্থাৎ He asked me to hold my tongue.",
+          "structured_data": {},
+          "id": "6968e2a6-812d-582f-8211-cd3eba5d50a4"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "টোষক বলবেরার ধর্ম কে উল্লেখ করেন?",
+          "structured_data": {},
+          "id": "564b2b68-4440-5e31-8bc8-cc0b0c58a55c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. ফ্যারাডে",
+          "structured_data": {},
+          "id": "604ffe41-9520-519d-9b5e-3e2b6c7476ac"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "B. আইনস্টেইন",
+          "structured_data": {},
+          "id": "dd00f447-6a52-5ddf-85d7-2d2494661359"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "C. নিউটন",
+          "structured_data": {},
+          "id": "79959815-f79d-5ecf-8677-a74a6f83523e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "D. মার্যওয়েল",
+          "structured_data": {},
+          "id": "dc8d37f6-6a75-58bd-b74f-885a27d85a25"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Solve টোষক বলবেরার ধর্ম বিজ্ঞানী ফ্যারাডে সর্বপ্রথম উল্লেখ করেন।",
+          "structured_data": {},
+          "id": "8a193bfd-d010-5966-893b-a0343a71dd86"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "কৌনটি জিঙ্ক নিক্ষেপণে ব্যবহার হয় না?",
+          "structured_data": {},
+          "id": "07a0d6bb-721d-5a13-ac83-0bc49850b9ef"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. অক্সিজেন বিজ্ঞান",
+          "structured_data": {},
+          "id": "6596ee68-6dca-5b34-ae50-37baf0397078"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "B. গাঢ়িকরণ",
+          "structured_data": {},
+          "id": "63863bc2-5c1d-54a9-bd30-24627733506d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "C. কার্ভন বিজ্ঞান",
+          "structured_data": {},
+          "id": "a415279f-bc27-5453-be13-d3e68a3a40e5"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "D. তাপ জারণ",
+          "structured_data": {},
+          "id": "6ad6ee23-d567-502e-a0af-b291150a8b2e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Solve জিঙ্ক নিক্ষেপনের ধাপসমূহ হলো - কার্ভন বিজ্ঞান, গাঢ়িকরণ, তাপজারণ।",
+          "structured_data": {},
+          "id": "0d5ee979-33b0-5472-8d5a-fcf5b323c0dc"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "আবৃত্তীয় উদ্ভিদের ক্ষেত্রে ডিপ্লোড শ্রীরেশ্ম মাতুকোষটি মায়েসিস প্রক্রিয়া বিভক্ত হয়ে কয়টি হ্যাপ্রোড শ্রীরেশ্ম তৈরি করে?",
+          "structured_data": {},
+          "id": "95a97b71-c1c3-59d6-b986-2568ee20a7d6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. ছয়টি",
+          "structured_data": {},
+          "id": "6e3aa431-3a1b-5bd6-9971-b7b3a0148e71"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "B. চারটি",
+          "structured_data": {},
+          "id": "67570c6e-d464-53ac-af11-ebe4e8972953"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "C. দুইটি",
+          "structured_data": {},
+          "id": "ccafa08d-28a0-5c3a-ac9e-cc411b726d95"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "D. আটটি",
+          "structured_data": {},
+          "id": "58e1dbd9-6d92-581f-a9a3-e1ba1709b70d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Solve আবৃত্তীয় উদ্ভিদের ক্ষেত্রে ডিপ্লোড শ্রীরেশ্ম মাতুকোষটি মায়েসিস প্রক্রিয়া বিভক্ত হয়ে চারটি (8) হ্যাপ্রোড শ্রীরেশ্ম তৈরি করে।",
+          "structured_data": {},
+          "id": "6a69e71d-3589-58cd-a68d-6d851e67d377"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "2003 সালে ‘অ্যাহিসি’ র সম্মেলন কোথায় হয়েছে?",
+          "structured_data": {},
+          "id": "ef9d2d5c-94ae-503a-8552-d1757c6d9929"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. ইরান",
+          "structured_data": {},
+          "id": "b8aad2ef-3831-5660-ad38-ab6ab9257996"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "B. ইন্দোনেশিয়া",
+          "structured_data": {},
+          "id": "408e09f4-c40e-5c71-92a6-eb9bbd208634"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "C. মালয়েশিয়া",
+          "structured_data": {},
+          "id": "b2cf2dca-ae0d-5235-bea7-3dce077adfec"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "D. তুরস্ক",
+          "structured_data": {},
+          "id": "be9b488c-9362-5735-a883-8e0a1744aed7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q77",
+          "content_markdown": "কৌনটি সত্যিক Sentence?\nSolve সত্যিক sentence-টি হলো – “Iqbal was the poet and philosopher.”",
+          "structured_data": {
+            "question_number": "77",
+            "subtype": "mcq_item",
+            "stem": "কৌনটি সত্যিক Sentence?\nSolve সত্যিক sentence-টি হলো – “Iqbal was the poet and philosopher.”",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "Iqbal was both the poet and philosopher",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "Iqbal was poet and philosopher",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "Iqbal was the poet and philosopher",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "Iqbal was a poet and a philosopher",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "af755598-d8c8-5c52-be1b-deb418e9d7a8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q78",
+          "content_markdown": "AVO তিনটি শব্দের দ্বারা আমরা বুঝি-\nSolve AVO দ্বারা তিনটি শব্দ বুঝানো হয় । যেমন : A = Ampere (অ্যাম্পিয়ার), V = Volt (ভোল্ট), O = Ohm (ওহম)।",
+          "structured_data": {
+            "question_number": "78",
+            "subtype": "mcq_item",
+            "stem": "AVO তিনটি শব্দের দ্বারা আমরা বুঝি-\nSolve AVO দ্বারা তিনটি শব্দ বুঝানো হয় । যেমন : A = Ampere (অ্যাম্পিয়ার), V = Volt (ভোল্ট), O = Ohm (ওহম)।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "অ্যাম্পিয়ার, ভোল্টেস্টি, ওহম",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "অ্যাম্পিয়ার, ভোল্ট, ওহম",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "অ্যানালগ, ভোল্ট, ওহম",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "অ্যানালগ, ভোল্ট, অলটারনেটর",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5ec75b70-0f6c-5dd0-a412-dcf26ef07539"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q79",
+          "content_markdown": "কোন যন্ত্রটি প্রকৃতি পরিস্থিতির ব্যবহৃত হয় না?\nSolve সৌর চুল্লী প্রকৃতি পরিস্থিতির ব্যবহৃত হয় না।",
+          "structured_data": {
+            "question_number": "79",
+            "subtype": "mcq_item",
+            "stem": "কোন যন্ত্রটি প্রকৃতি পরিস্থিতির ব্যবহৃত হয় না?\nSolve সৌর চুল্লী প্রকৃতি পরিস্থিতির ব্যবহৃত হয় না।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "গ্লোবার টাওয়ার",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "নাইটার ওভেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "পিপাইট টুফী",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "সৌর চুল্লী",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0645f03f-90f6-56ff-8e7d-e64b55c4e891"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q80",
+          "content_markdown": "ফ্লুইড-মোজিক মডেল অনুযায়ী সেল মেম্ব্রেনের গঠনিক উপাদান নয় কোনটি?\nSolve ফ্লুইড মোজিক মডেল অনুযায়ী সেল মেম্ব্রেনের গঠনিক উপাদানসমূহ : প্রোটিন (55%), লিপিড (ফসফোলিপ্ড–25%), কোলেস্টারল (13%), অন্যান্য লিপিড (8%)। | সুতরাং সত্যিক উত্তর হলো অপশন 'C' অর্থাৎ স্টার্চ। |",
+          "structured_data": {
+            "question_number": "80",
+            "subtype": "mcq_item",
+            "stem": "ফ্লুইড-মোজিক মডেল অনুযায়ী সেল মেম্ব্রেনের গঠনিক উপাদান নয় কোনটি?\nSolve ফ্লুইড মোজিক মডেল অনুযায়ী সেল মেম্ব্রেনের গঠনিক উপাদানসমূহ : প্রোটিন (55%), লিপিড (ফসফোলিপ্ড–25%), কোলেস্টারল (13%), অন্যান্য লিপিড (8%)। | সুতরাং সত্যিক উত্তর হলো অপশন 'C' অর্থাৎ স্টার্চ। |",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "লিপিড বাইলিয়ার",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "কোলেস্টারল",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "স্টার্চ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "মেম্ব্রেন প্রোটিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f34fa81b-13be-5176-9956-9494450f78e5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q81",
+          "content_markdown": "প্রথম বাংলায় মুসলিম কবি কে?\nSolve শাহ মুহাম্মদ সাগীর হচ্ছেন প্রথম বাংলায় মুসলিম কবি।\nNote: জেনো নাও আরও কিছু প্রয়োজনীয় তথ্যঃ\n→ বাংলা সাহিত্যের প্রথম মুসলিম নাট্যকার—মীর মশররফ হোসেন\n→ বাংলা সাহিত্যের প্রথম স্বার্ণক নাট্যকার—মাইকেল মধুসূদন দত্ত\n→ বাংলা ভাষায় প্রথম সংকলিত কব্য—চর্যাপদ\n→ বাংলা সাহিত্যের প্রাচীনতম একমাত্র নিদর্শন—চর্যাপদ\n→ মহাভারত যে ভাষায় লেখা — সংস্কৃত ভাষায়\n→ মহাভারত প্রথম বাংলায় অনুবাদ করেন—কবিন্দু পরমেশ্বর\n→ রামায়ণের প্রথম বাংলা অনুবাদ করেন—কৃত্তিবাস ওঙ্গ।",
+          "structured_data": {
+            "question_number": "81",
+            "subtype": "mcq_item",
+            "stem": "প্রথম বাংলায় মুসলিম কবি কে?\nSolve শাহ মুহাম্মদ সাগীর হচ্ছেন প্রথম বাংলায় মুসলিম কবি।\nNote: জেনো নাও আরও কিছু প্রয়োজনীয় তথ্যঃ\n→ বাংলা সাহিত্যের প্রথম মুসলিম নাট্যকার—মীর মশররফ হোসেন\n→ বাংলা সাহিত্যের প্রথম স্বার্ণক নাট্যকার—মাইকেল মধুসূদন দত্ত\n→ বাংলা ভাষায় প্রথম সংকলিত কব্য—চর্যাপদ\n→ বাংলা সাহিত্যের প্রাচীনতম একমাত্র নিদর্শন—চর্যাপদ\n→ মহাভারত যে ভাষায় লেখা — সংস্কৃত ভাষায়\n→ মহাভারত প্রথম বাংলায় অনুবাদ করেন—কবিন্দু পরমেশ্বর\n→ রামায়ণের প্রথম বাংলা অনুবাদ করেন—কৃত্তিবাস ওঙ্গ।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "কায়কোবাদ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "আলাওয়াল",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "শাহ মুহাম্মদ সাগীর",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "আধুল হাকিম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "de3cf746-4799-5587-ad33-a92c683b09e7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q82",
+          "content_markdown": "কৌনটি সত্যিক Sentence?\nSolve সত্যিক sentence টি হলো-\"Karim preferred reading to writing.\"",
+          "structured_data": {
+            "question_number": "82",
+            "subtype": "mcq_item",
+            "stem": "কৌনটি সত্যিক Sentence?\nSolve সত্যিক sentence টি হলো-\"Karim preferred reading to writing.\"",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "Karim preferred reading than to write",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "Karim preferred to read than to write",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "Karim preferred reading to writing",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "Karim preferred to read than to writing",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "010360ba-cef7-5936-a281-0b2b4a35c219"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 52,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 163.2,
+        "eval_count": 2770
+      }
+    },
+    {
+      "page_number": 7,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "83. কোনটি বিদ্যুৎ কোষের সমবায় নয়?\nA. মিশ্র সমবায় B. সমাতল সমবায় C. শ্রেণী সমবায় D. দ্বি-মূখী সমবায়\n\n84. কোনটি অক্ষাইডের শ্রেণিভিড় নয়?\nA. সুপার অক্ষাইড B. ডাই অক্ষাইড C. সাব অক্ষাইড D. পলি অক্ষাইড\n\n85. এক বৈজ্ঞানিক উদ্গ্রের কাজের অন্তর্গত সানসভারী বৈশিষ্ট্য কোনটি?\nA. তাঙ্খালা বাহনের বাহিরে পেরিসাইকেল অবস্থিত B. অধিক্রম সাধারণত কোলেনকাইমা টিস্যু দিয়ে গঠিত C. অধিক্রম সাধারণত ক্লেরেনকাইমা টিস্যু দিয়ে গঠিত D. তাঙ্খালা বাহন চচ্ছাকারে বিদ্যমান ও নিদিষ্ট সংখ্যক\n\n86. লেন্ডহ্যাল্যান্ডের মূল্য নাম কী?\nA. পেসো B. ডলার C. ইউরো D. পাউন্ড\n\n87. সত্যিক প্রেপ্রেসিভ বাসাও 'I shall do it—pleasure'.\nA. in B. for C. with D. upon\n\n88. রোগের সমবায় ৩ ধরনের। যথা :\ni. শ্রেণী,\nii. সমাতল,\niii. মিশ্র সমবায়।\n\n89. নেপালী বিকারক নিম্নের কৌন লবণ সনাক্ত করণে ব্যবহৃত হয়?\nA. বেইরিয়াম B. নাইট্রেজেন C. আয়োনিয়াম D. ক্লেরিন\n\n90. বিজ্ঞানী উদ্গ্রের কাজের টিস্যুত্রের বহিঃস্থিতীয় অংশের অংশ নয় কোনটি?\nA. অধিক্রম বক্স B. কর্টেক্স C. অধিক্রম ফ্রন্ট D. পেরিসাইকেল\n\n91. ‘গুঙ্গাল’ কোন খেলার জন্য বিখ্যাত?\nA. টেনিস B. ফুটবল C. ক্রিকেট D. হকি\n\n92. সত্যিক preposition বাসাও 'Do not cry—spilt milk'.\nA. at B. for C. over D. on\n\n93. কোনটির উপর আবিষ্ট চার্জ নির্ণয় করে না?\nA. আবিষ্ট বক্স প্রকৃতি B. আবিষ্ট বক্স ফেফ্রফল C. আবেশী চার্জের পরিমাণ D. আবিষ্ট বক্স ওজন\n\n94. সাধারণ অবস্থায় নাইট্রেজেন একটি-\nA. গ্যাসীয় পদার্থ B. তরল পদার্থ C. কঠিন পদার্থ D. কোনটিই নয়\n\n95. ভাইরাসের ক্ষেত্রে কোনটি সত্যিক নয়?\nA. এরা এককোষীয় B. এতে পরিবার্কি ঘটতে দেখা যায় C. এতে DNA বা RNA আছে D. প্রোটিন আবরণ এডিজেন ওগুলি বহন করে\n\n96. পৃথিবীর সবচেয়ে পুরাতন কৃতিত্বত্ত কী?\nA. আইফেল টাওয়ার B. তাজমহল C. প্রিয়ামঙ্গল D. কৃত্তিবামিয়া\n\n97. সত্যিক preposition বাসাও 'A drowning man catches—at straw.'\nA. for B. to C. at D. on\n\nSolve বিদ্যুৎ কোষের সমবায় ৩ ধরনের। যথা :\n\ni. শ্রেণী,\n\nii. সমাতল,\n\niii. মিশ্র সমবায়।\n\nSolve ডাই অক্ষাইডের শ্রেণিভিড়ের মধ্যে পড়ে না।\n\nSolve অপশন 'C' হচ্ছে :এক্রীয়পট্রী উদ্গ্রের কাজের অন্তর্গত সানসভারী বৈশিষ্ট্য। ঊরোখ্যা যে, বাকি অপশনগুলো অর্থাৎ A, B, D হচ্ছে দ্বীপজপ্ত্রী উদ্গ্রের কাজের অন্তর্গত সানসভারী বৈশিষ্ট্য।\n\nSolve নিচের বিষয়ের উপর আবিষ্ট চার্জ নির্ণয় করে:\n\n→ আবেশী চার্জের পরিমাণ।\n→ আবেশী বক্স ফেফ্রফল ও প্রকৃতি।\n→ আবেশী বক্স হতে আবিষ্ট বক্স দূরত্ব।\n→ আবেশী ও আবিষ্ট বক্সের মধ্যবর্তী মাধ্যম।\n→ অপর কোন পরিবার্বত্ত সান্ধ্য।\n→ আবিষ্ট বক্স ভূসংগ্রুত নাকি ভূসংযুক্ত নয়।",
+      "blocks": [
+        {
+          "block_type": "written_item",
+          "title": "Q83",
+          "content_markdown": "কোনটি বিদ্যুৎ কোষের সমবায় নয়?",
+          "structured_data": {
+            "question_number": "83",
+            "subtype": "written_item",
+            "stem": "কোনটি বিদ্যুৎ কোষের সমবায় নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "মিশ্র সমবায় B. সমাতল সমবায় C. শ্রেণী সমবায় D. দ্বি-মূখী সমবায়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3fe32ca8-c025-51fe-bb9b-8765d1dc9032"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q84",
+          "content_markdown": "কোনটি অক্ষাইডের শ্রেণিভিড় নয়?",
+          "structured_data": {
+            "question_number": "84",
+            "subtype": "written_item",
+            "stem": "কোনটি অক্ষাইডের শ্রেণিভিড় নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "সুপার অক্ষাইড B. ডাই অক্ষাইড C. সাব অক্ষাইড D. পলি অক্ষাইড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5a1e1104-0591-5ee9-b158-13e21476a3de"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q85",
+          "content_markdown": "এক বৈজ্ঞানিক উদ্গ্রের কাজের অন্তর্গত সানসভারী বৈশিষ্ট্য কোনটি?",
+          "structured_data": {
+            "question_number": "85",
+            "subtype": "written_item",
+            "stem": "এক বৈজ্ঞানিক উদ্গ্রের কাজের অন্তর্গত সানসভারী বৈশিষ্ট্য কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "তাঙ্খালা বাহনের বাহিরে পেরিসাইকেল অবস্থিত B. অধিক্রম সাধারণত কোলেনকাইমা টিস্যু দিয়ে গঠিত C. অধিক্রম সাধারণত ক্লেরেনকাইমা টিস্যু দিয়ে গঠিত D. তাঙ্খালা বাহন চচ্ছাকারে বিদ্যমান ও নিদিষ্ট সংখ্যক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "cd2f791d-52f4-5b6a-84ce-41a356bcf4fa"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q86",
+          "content_markdown": "লেন্ডহ্যাল্যান্ডের মূল্য নাম কী?",
+          "structured_data": {
+            "question_number": "86",
+            "subtype": "written_item",
+            "stem": "লেন্ডহ্যাল্যান্ডের মূল্য নাম কী?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "পেসো B. ডলার C. ইউরো D. পাউন্ড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "12fb0256-598a-597e-9931-6f250ebf6395"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q87",
+          "content_markdown": "সত্যিক প্রেপ্রেসিভ বাসাও 'I shall do it—pleasure'.",
+          "structured_data": {
+            "question_number": "87",
+            "subtype": "written_item",
+            "stem": "সত্যিক প্রেপ্রেসিভ বাসাও 'I shall do it—pleasure'.",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "in B. for C. with D. upon",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6ed4b2ac-5cc7-5f67-8a72-0ac1d8a5c439"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q88",
+          "content_markdown": "রোগের সমবায় ৩ ধরনের। যথা :\ni. শ্রেণী,\nii. সমাতল,\niii. মিশ্র সমবায়।",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "written_item",
+            "stem": "রোগের সমবায় ৩ ধরনের। যথা :\ni. শ্রেণী,\nii. সমাতল,\niii. মিশ্র সমবায়।",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "471d2772-39bc-5561-b6be-892bc9d9831b"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q89",
+          "content_markdown": "নেপালী বিকারক নিম্নের কৌন লবণ সনাক্ত করণে ব্যবহৃত হয়?",
+          "structured_data": {
+            "question_number": "89",
+            "subtype": "written_item",
+            "stem": "নেপালী বিকারক নিম্নের কৌন লবণ সনাক্ত করণে ব্যবহৃত হয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "বেইরিয়াম B. নাইট্রেজেন C. আয়োনিয়াম D. ক্লেরিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a6952055-2ce1-5b37-963b-de0fbd9675ea"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q90",
+          "content_markdown": "বিজ্ঞানী উদ্গ্রের কাজের টিস্যুত্রের বহিঃস্থিতীয় অংশের অংশ নয় কোনটি?",
+          "structured_data": {
+            "question_number": "90",
+            "subtype": "written_item",
+            "stem": "বিজ্ঞানী উদ্গ্রের কাজের টিস্যুত্রের বহিঃস্থিতীয় অংশের অংশ নয় কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "অধিক্রম বক্স B. কর্টেক্স C. অধিক্রম ফ্রন্ট D. পেরিসাইকেল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f11654af-d1f3-582b-a7d5-3dde8626a537"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q91",
+          "content_markdown": "‘গুঙ্গাল’ কোন খেলার জন্য বিখ্যাত?",
+          "structured_data": {
+            "question_number": "91",
+            "subtype": "written_item",
+            "stem": "‘গুঙ্গাল’ কোন খেলার জন্য বিখ্যাত?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "টেনিস B. ফুটবল C. ক্রিকেট D. হকি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5c7867da-08d2-5e32-8d87-05746f57b100"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q92",
+          "content_markdown": "সত্যিক preposition বাসাও 'Do not cry—spilt milk'.",
+          "structured_data": {
+            "question_number": "92",
+            "subtype": "written_item",
+            "stem": "সত্যিক preposition বাসাও 'Do not cry—spilt milk'.",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "at B. for C. over D. on",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ec7435e3-ed96-56a3-b936-64d7c0aaba89"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q93",
+          "content_markdown": "কোনটির উপর আবিষ্ট চার্জ নির্ণয় করে না?",
+          "structured_data": {
+            "question_number": "93",
+            "subtype": "written_item",
+            "stem": "কোনটির উপর আবিষ্ট চার্জ নির্ণয় করে না?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "আবিষ্ট বক্স প্রকৃতি B. আবিষ্ট বক্স ফেফ্রফল C. আবেশী চার্জের পরিমাণ D. আবিষ্ট বক্স ওজন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c598a4fe-0e64-594c-8bd3-3694745f9e22"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q94",
+          "content_markdown": "সাধারণ অবস্থায় নাইট্রেজেন একটি-",
+          "structured_data": {
+            "question_number": "94",
+            "subtype": "written_item",
+            "stem": "সাধারণ অবস্থায় নাইট্রেজেন একটি-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "গ্যাসীয় পদার্থ B. তরল পদার্থ C. কঠিন পদার্থ D. কোনটিই নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1284a686-bc8e-5bc1-88a3-69a3e8dc8767"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q95",
+          "content_markdown": "ভাইরাসের ক্ষেত্রে কোনটি সত্যিক নয়?",
+          "structured_data": {
+            "question_number": "95",
+            "subtype": "written_item",
+            "stem": "ভাইরাসের ক্ষেত্রে কোনটি সত্যিক নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "এরা এককোষীয় B. এতে পরিবার্কি ঘটতে দেখা যায় C. এতে DNA বা RNA আছে D. প্রোটিন আবরণ এডিজেন ওগুলি বহন করে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "940645df-9ae3-53b8-b622-0d287da10058"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q96",
+          "content_markdown": "পৃথিবীর সবচেয়ে পুরাতন কৃতিত্বত্ত কী?",
+          "structured_data": {
+            "question_number": "96",
+            "subtype": "written_item",
+            "stem": "পৃথিবীর সবচেয়ে পুরাতন কৃতিত্বত্ত কী?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "আইফেল টাওয়ার B. তাজমহল C. প্রিয়ামঙ্গল D. কৃত্তিবামিয়া",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "47b02e52-e984-5d57-95b1-28091b164943"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q97",
+          "content_markdown": "সত্যিক preposition বাসাও 'A drowning man catches—at straw.'\nSolve বিদ্যুৎ কোষের সমবায় ৩ ধরনের। যথা :\ni. শ্রেণী,\nii. সমাতল,\niii. মিশ্র সমবায়।\nSolve ডাই অক্ষাইডের শ্রেণিভিড়ের মধ্যে পড়ে না।\nSolve অপশন 'C' হচ্ছে :এক্রীয়পট্রী উদ্গ্রের কাজের অন্তর্গত সানসভারী বৈশিষ্ট্য। ঊরোখ্যা যে, বাকি অপশনগুলো অর্থাৎ A, B, D হচ্ছে দ্বীপজপ্ত্রী উদ্গ্রের কাজের অন্তর্গত সানসভারী বৈশিষ্ট্য।\nSolve নিচের বিষয়ের উপর আবিষ্ট চার্জ নির্ণয় করে:\n→ আবেশী চার্জের পরিমাণ।\n→ আবেশী বক্স ফেফ্রফল ও প্রকৃতি।\n→ আবেশী বক্স হতে আবিষ্ট বক্স দূরত্ব।\n→ আবেশী ও আবিষ্ট বক্সের মধ্যবর্তী মাধ্যম।\n→ অপর কোন পরিবার্বত্ত সান্ধ্য।\n→ আবিষ্ট বক্স ভূসংগ্রুত নাকি ভূসংযুক্ত নয়।",
+          "structured_data": {
+            "question_number": "97",
+            "subtype": "written_item",
+            "stem": "সত্যিক preposition বাসাও 'A drowning man catches—at straw.'\nSolve বিদ্যুৎ কোষের সমবায় ৩ ধরনের। যথা :\ni. শ্রেণী,\nii. সমাতল,\niii. মিশ্র সমবায়।\nSolve ডাই অক্ষাইডের শ্রেণিভিড়ের মধ্যে পড়ে না।\nSolve অপশন 'C' হচ্ছে :এক্রীয়পট্রী উদ্গ্রের কাজের অন্তর্গত সানসভারী বৈশিষ্ট্য। ঊরোখ্যা যে, বাকি অপশনগুলো অর্থাৎ A, B, D হচ্ছে দ্বীপজপ্ত্রী উদ্গ্রের কাজের অন্তর্গত সানসভারী বৈশিষ্ট্য।\nSolve নিচের বিষয়ের উপর আবিষ্ট চার্জ নির্ণয় করে:\n→ আবেশী চার্জের পরিমাণ।\n→ আবেশী বক্স ফেফ্রফল ও প্রকৃতি।\n→ আবেশী বক্স হতে আবিষ্ট বক্স দূরত্ব।\n→ আবেশী ও আবিষ্ট বক্সের মধ্যবর্তী মাধ্যম।\n→ অপর কোন পরিবার্বত্ত সান্ধ্য।\n→ আবিষ্ট বক্স ভূসংগ্রুত নাকি ভূসংযুক্ত নয়।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "for B. to C. at D. on",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6466b4a3-feba-502c-afc5-b78ea4145257"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 15,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 126.35,
+        "eval_count": 2151
+      }
+    },
+    {
+      "page_number": 8,
+      "printed_page_number": "213",
+      "page_header": null,
+      "section_hierarchy": [
+        "দি মেডিসিন - মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার গ্রন্থব্যাংক"
+      ],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "---\n\n## Q98\n**Type:** mcq\n**Stem:** শ্রীক দাশনিক খেলাঃ কত সালে বিদ্রোধ প্রথম লক্ষ করেন?\n**Options:** \n- A) ৯০০ ছ্রিষ্ঠপুর্বাব্দ\n- B) ৬৫০ ছ্রিষ্ঠপুর্বাব্দ\n- C) ৬০০ ছ্রিষ্ঠপুর্বাব্দ\n- D) ৭৫০ ছ্রিষ্ঠপুর্বাব্দ\n**Answer:** C\n**Solution:** শ্রীক দাশনিক খেলা ৬০০ ছ্রিষ্ঠপুর্বাব্দ সময়ে প্রথম লক্ষ করে।\n**Tags:** [Ans: C]\n\n## Q99\n**Type:** mcq\n**Stem:** কোন বিজ্ঞানী নাইট্রোজেনকে মৌলিক পদার্থ হিসেবে চিহ্নিত করেন?\n**Options:** \n- A) চাপটেল\n- B) লাভভসিয়ে\n- C) রাদারফোর্ড\n- D) কোনটিই নয়\n**Answer:** A\n**Solution:** বিজ্ঞানী ল্যাভভসিয়ে নাইট্রোজেনকে 'N₂' মৌলিক পদার্থ হিসেবে চিহ্নিত করেন এবং বিজ্ঞানী চাপটেল এর নামকরণ করেন নাইট্রোজেন (N₂).\n**Tags:** [Ans: A]\n\n## Q100\n**Type:** mcq\n**Stem:** কোনটি ফনজাই এর বৈশিষ্ট্য নয়?\n**Options:** \n- A) এরা সুকোষ্টিক\n- B) খাদ্যপ্রাপ্ত পদ্ধতি শোষণ\n- C) পরবর্তী পরিবর্তনে এককোষী\n- D) এরা মূলত জলজ\n**Answer:** D\n**Solution:** অপশন 'D' সচিক্ষা নয়; কারণ এরা মূলত স্থলজ।\n**Tags:** [Ans: D]\n\n---\n\nANSWER : MBBS ADMISSION TEST : 2003-2004\n\n| 1.C   | 2.D    | 3.A     | 4.D    | 5.B    | 6.B    | 7.C    | 8.D    | 9.C    | 10.B |\n|-------|--------|---------|--------|--------|--------|--------|--------|-------|------|\n| 11.D  | 12.C   | 13.A    | 14.D   | 15.C   | 16.B   | 17.C   | 18.A   | 19.D   | 20.C |\n| 21.C  | 22.D   | 23.C    | 24.D   | 25.A   | 26.A   | 27.C   | 28.D   | 29.B   | 30.D |\n| 31.C  | 32.B   | 33.C    | 34.D   | 35.C   | 36.D   | 37.C   | 38.A   | 39.C   | 40.B |\n| 41.B  | 42.C   | 43.C    | 44.D   | 45.D   | 46.A   | 47.C   | 48.B   | 49.C   | 50.B |\n| 51.C  | 52.C   | 53.C    | 54.D   | 55.B   | 56.C   | 57.C   | 58.D   | 59.D   | 60.B |\n| 61.C  | 62.C   | 63.D    | 64.C   | 65.D   | 66.C   | 67.T   | 68.D   | 69.C   | 70.B |\n| 71.C  | 72.C   | 73.A    | 74.C   | 75.B   | 76.C   | 77.C   | 78.B   | 79.D   | 80.C |\n| 81.C  | 82.C   | 83.D    | 84.B   | 85.C   | 86.C   | 87.C   | 88.A   | 89.C   | 90.D |\n| 91.C  | 92.C   | 93.D    | 94.A   | 95.A   | 96.C   | 97.C   | 98.C   | 99.B   | 100.D |\n\n---\n\n### Right Margin Exam Tags:\n\n- মেডিকেল ও বিশ্ববিদ্যালয় ভর্তি পরীক্ষার পূর্ণ প্রস্তুতির জন্য নিম্নোক্ত বইগুলো পড়তে হবে-\n  - মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার জন্য মডেল টেস্ট বই ‘দি অ্যাক্সন’\n  - মেডিকেল ও বিশ্ববিদ্যালয় ভর্তি পরীক্ষার রসায়ন বিষয়ের সেরা সাজেশন “Final Re@ction”\n  - মেডিকেল ও বিশ্ববিদ্যালয় ভর্তি পরীক্ষার বায়োলজি বিষয়ের সেরা সাজেশন \"বায়োলজি ভ্যাক্সিন\"\n  - কৃষি ভর্তি পরীক্ষার জন্য সেরা সহায়ika \"এছি টার্গেট\"\n  - বিশ্ববিদ্যালয় ভর্তি পরীক্ষার গণিত বিষয়ের জন্য \"ম্যাথমেটিকা\"\n  - বিশ্ববিদ্যালয় ভর্তি পরীক্ষার রিটেন অংশের জন্য \"রিটেন সাইন্স\"\n  - সকল ভর্সির্টির জন্য \"দি ভার্সিটি টার্গেট\"",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "---",
+          "structured_data": {},
+          "id": "9a1e2b52-73d5-554e-bba0-d902a1c6ab88"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q98",
+          "content_markdown": "শ্রীক দাশনিক খেলাঃ কত সালে বিদ্রোধ প্রথম লক্ষ করেন?",
+          "structured_data": {
+            "question_number": "98",
+            "subtype": "mcq",
+            "stem": "শ্রীক দাশনিক খেলাঃ কত সালে বিদ্রোধ প্রথম লক্ষ করেন?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "৯০০ ছ্রিষ্ঠপুর্বাব্দ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "৬৫০ ছ্রিষ্ঠপুর্বাব্দ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "৬০০ ছ্রিষ্ঠপুর্বাব্দ",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "৭৫০ ছ্রিষ্ঠপুর্বাব্দ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "শ্রীক দাশনিক খেলা ৬০০ ছ্রিষ্ঠপুর্বাব্দ সময়ে প্রথম লক্ষ করে।",
+            "tags_raw": "[Ans: C]",
+            "provenance": [
+              "[Ans: C]"
+            ]
+          },
+          "id": "a9697e76-eac2-51f6-8e22-c98f233b3e9f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q99",
+          "content_markdown": "কোন বিজ্ঞানী নাইট্রোজেনকে মৌলিক পদার্থ হিসেবে চিহ্নিত করেন?",
+          "structured_data": {
+            "question_number": "99",
+            "subtype": "mcq",
+            "stem": "কোন বিজ্ঞানী নাইট্রোজেনকে মৌলিক পদার্থ হিসেবে চিহ্নিত করেন?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "চাপটেল",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "লাভভসিয়ে",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "রাদারফোর্ড",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কোনটিই নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "বিজ্ঞানী ল্যাভভসিয়ে নাইট্রোজেনকে 'N₂' মৌলিক পদার্থ হিসেবে চিহ্নিত করেন এবং বিজ্ঞানী চাপটেল এর নামকরণ করেন নাইট্রোজেন (N₂).",
+            "tags_raw": "[Ans: A]",
+            "provenance": [
+              "[Ans: A]"
+            ]
+          },
+          "id": "f291fad1-09ef-55d2-922c-555b8d02b47f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q100",
+          "content_markdown": "কোনটি ফনজাই এর বৈশিষ্ট্য নয়?",
+          "structured_data": {
+            "question_number": "100",
+            "subtype": "mcq",
+            "stem": "কোনটি ফনজাই এর বৈশিষ্ট্য নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "এরা সুকোষ্টিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "খাদ্যপ্রাপ্ত পদ্ধতি শোষণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "পরবর্তী পরিবর্তনে এককোষী",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "এরা মূলত জলজ",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D\nMBBS ADMISSION TEST : 2003-2004\n\n| 1.C   | 2.D    | 3.A     | 4.D    | 5.B    | 6.B    | 7.C    | 8.D    | 9.C    | 10.B |\n|-------|--------|---------|--------|--------|--------|--------|--------|-------|------|\n| 11.D  | 12.C   | 13.A    | 14.D   | 15.C   | 16.B   | 17.C   | 18.A   | 19.D   | 20.C |\n| 21.C  | 22.D   | 23.C    | 24.D   | 25.A   | 26.A   | 27.C   | 28.D   | 29.B   | 30.D |\n| 31.C  | 32.B   | 33.C    | 34.D   | 35.C   | 36.D   | 37.C   | 38.A   | 39.C   | 40.B |\n| 41.B  | 42.C   | 43.C    | 44.D   | 45.D   | 46.A   | 47.C   | 48.B   | 49.C   | 50.B |\n| 51.C  | 52.C   | 53.C    | 54.D   | 55.B   | 56.C   | 57.C   | 58.D   | 59.D   | 60.B |\n| 61.C  | 62.C   | 63.D    | 64.C   | 65.D   | 66.C   | 67.T   | 68.D   | 69.C   | 70.B |\n| 71.C  | 72.C   | 73.A    | 74.C   | 75.B   | 76.C   | 77.C   | 78.B   | 79.D   | 80.C |\n| 81.C  | 82.C   | 83.D    | 84.B   | 85.C   | 86.C   | 87.C   | 88.A   | 89.C   | 90.D |\n| 91.C  | 92.C   | 93.D    | 94.A   | 95.A   | 96.C   | 97.C   | 98.C   | 99.B   | 100.D |\n\n---\n\n### Right Margin Exam Tags:\n\n- মেডিকেল ও বিশ্ববিদ্যালয় ভর্তি পরীক্ষার পূর্ণ প্রস্তুতির জন্য নিম্নোক্ত বইগুলো পড়তে হবে-\n  - মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার জন্য মডেল টেস্ট বই ‘দি অ্যাক্সন’\n  - মেডিকেল ও বিশ্ববিদ্যালয় ভর্তি পরীক্ষার রসায়ন বিষয়ের সেরা সাজেশন “Final Re@ction”\n  - মেডিকেল ও বিশ্ববিদ্যালয় ভর্তি পরীক্ষার বায়োলজি বিষয়ের সেরা সাজেশন \"বায়োলজি ভ্যাক্সিন\"\n  - কৃষি ভর্তি পরীক্ষার জন্য সেরা সহায়ika \"এছি টার্গেট\"\n  - বিশ্ববিদ্যালয় ভর্তি পরীক্ষার গণিত বিষয়ের জন্য \"ম্যাথমেটিকা\"\n  - বিশ্ববিদ্যালয় ভর্তি পরীক্ষার রিটেন অংশের জন্য \"রিটেন সাইন্স\"\n  - সকল ভর্সির্টির জন্য \"দি ভার্সিটি টার্গেট\"",
+            "solution_markdown": "অপশন 'D' সচিক্ষা নয়; কারণ এরা মূলত স্থলজ।",
+            "tags_raw": "[Ans: D]",
+            "provenance": [
+              "[Ans: D]"
+            ]
+          },
+          "id": "c3a212f7-e607-5d60-9df7-7af7ac8f34bd"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 4,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 106.84,
+        "eval_count": 2063
+      }
+    }
+  ]
+}

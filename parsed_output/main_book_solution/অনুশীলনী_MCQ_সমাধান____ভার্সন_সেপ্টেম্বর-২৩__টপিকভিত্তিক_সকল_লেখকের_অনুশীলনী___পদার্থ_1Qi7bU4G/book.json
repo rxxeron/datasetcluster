@@ -1,0 +1,3170 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "1Qi7bU4GmH39RzwmqJS_ivPmOqQ5riUQi",
+    "collection": "main_book_solution",
+    "subject": "physics",
+    "edition": "2023",
+    "priority_score": 2023092,
+    "path_parts": [
+      "অনুশীলনী MCQ সমাধান",
+      "* ভার্সন সেপ্টেম্বর-২৩",
+      "টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন",
+      "পদার্থবিজ্ঞান",
+      "P-2.8 আধুনিক পদার্থবিজ্ঞানের সূচনা.pdf"
+    ],
+    "filename": "P-2.8 আধুনিক পদার্থবিজ্ঞানের সূচনা.pdf",
+    "sha256": "91b752c80cc5aade16458ebda05235a611b61aff2c0840d80b320866bef3e60f",
+    "total_pages": 9,
+    "parsed_pages": 9,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 113,
+    "block_counts_by_type": {
+      "concept_prose": 32,
+      "mcq_item": 58,
+      "table": 23
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### অষ্টম অধ্যায়: আধুনিক পদার্থবিজ্ঞানের সচেতনা\n\n#### বর্ণনা ও প্রশ্ন কর্তামূলক\n1. কৃষ্ণ বক্ষ বিরক্তির ব্যাখ্যায় কোন মতবাদ সফল হয়েছিল?\n   - a) ডি ব্রগলি মতবাদ\n   - b) হাইজেনবার্গ মতবাদ\n   - c) কোয়ান্টাম মতবাদ\n   - d) কোনোটিভ নয়\n\n2. তরপণুভুক্ত প্রসঙ্গ কর্তামূলক বলে?\n\n3. ছির কর্তামূলক তুলনায় গতিশীল কর্তামূলকে ঘড়ি?\n\n4. প্রাক্রেই ধ্রুবকের একটি নিচের কৌন রাশিদের এককের সমান?\n\n5. Higgs প্রক্রিয়া এক ধরনের?\n\n6. শূন্যথানে সকল ফোটনের ক্ষেত্রে নিচের কৌন রাশিদের সমান থাকে?\n\n7. S ও S′ জড় প্রসঙ্গ কর্তামূলকে আলোর বেগ যথাক্রমে c ও c′। S কর্তামূলকে S′ কর্তামূলকে সাপেক্ষে X-অক্ষ বরাবর v বেগে গতিশীল হলে—(এ. বো. 15; মেডিক্স 08–09)\n\n8. আইন্সটাইনের ছির শক্তি সমীকরণ কোনটি? (সি. বো. 2015)\n\n9. ছির কর্তামূলক তুলনায় গতিশীল কর্তামূলকে ঘড়ি ফীরে চলে—এখনাকে কী বলে? (মেডিক্স 2008–09; এ. বো. 2015)\n\n10. কোন বিজ্ঞানী শক্তির ক্ষুদ্রত্ব এককের নাম দেন কোয়াটো? (সি. বো. 16; এ. বো. 15)\n\n11. কার পরীক্ষায় ইহাদের অতিথী ভূল প্রমাণিত হয়? (এ. বো. 15)\n\n12. কোন নীতি ব্যবহার করে বক্ষের ভরকে শক্তিকে রূপান্তর করা যায়? (ডেটাল 16–17)\n\n13. নিচের কৌন বল ইলেকট্রনের নিউক্লিয়াসের সঙ্গে আবদ্ধ করে পরমাণু তৈরি করে? (মেডিক্স 07–08)\n\n---\n\n## Q1\n**Type:** mcq\n**Stem:** কৃষ্ণ বক্ষ বিরক্তির ব্যাখ্যায় কোন মতবাদ সফল হয়েছিল?\n**Options:** \n- a) ডি ব্রগলি মতবাদ\n- b) হাইজেনবার্গ মতবাদ\n- c) কোয়ান্টাম মতবাদ\n- d) কোনোটিভ নয়\n**Answer:** a) ডি ব্রগলি মতবাদ\n**Solution:** ডি ব্রগলি মতবাদ কৃষ্ণ বক্ষ বিরক্তির ব্যাখ্যায় সফল হয়েছিল।\n**Tags:** আমির হোসেন\n\n## Q2\n**Type:** mcq\n**Stem:** তরপণুভুক্ত প্রসঙ্গ কর্তামূলক বলে?\n**Options:** \n- a) গ্যালিলিও প্রসঙ্গ কর্তামূলক\n- b) জড় প্রসঙ্গ কর্তামূলক\n- c) অজড় প্রসঙ্গ কর্তামূলক\n- d) নিউটনীয় প্রসঙ্গ কর্তামূলক\n**Answer:** d) নিউটনীয় প্রসঙ্গ কর্তামূলক\n**Solution:** তরপণুভুক্ত প্রসঙ্গ কর্তামূলক নিউটনীয় প্রসঙ্গ কর্তামূলক।\n**Tags:** আমির হোসেন\n\n...\n\n## Q22\n**Type:** mcq\n**Stêm:** মাইকেলসন-মর্লরের পরীক্ষায় ব্যতিচার নক্সর অপসরণের পরিমাপের রাশিমালা কোনটি?\n**Options:** \n- a) n = $\\frac{c^2\\lambda}{2dv^2}$\n- b) n = $\\frac{c^2v^2}{2d\\lambda}$\n- c) n = $\\frac{2dv^2}{c^2\\lambda}$\n- d) n = $\\frac{2dc^2}{\\lambda v^2}$\n**Answer:** a) n = $\\frac{c^2\\lambda}{2dv^2}$\n**Solution:** মাইকেলসন-মর্লরের পরীক্ষায় ব্যতিচার নক্সর অপসরণের পরিমাপের রাশিমালা কোনটি:\nn = $\\frac{c^2\\lambda}{2dv^2}$.\n**Tags:** শাহজাহান তন্ত্র",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "বর্ণনা ও প্রশ্ন কর্তামূলক",
+          "content_markdown": "1. কৃষ্ণ বক্ষ বিরক্তির ব্যাখ্যায় কোন মতবাদ সফল হয়েছিল?\n   - a) ডি ব্রগলি মতবাদ\n   - b) হাইজেনবার্গ মতবাদ\n   - c) কোয়ান্টাম মতবাদ\n   - d) কোনোটিভ নয়",
+          "structured_data": {},
+          "id": "c177c92e-9baf-56ee-953b-f5a2ac0310dc"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "বর্ণনা ও প্রশ্ন কর্তামূলক",
+          "content_markdown": "2. তরপণুভুক্ত প্রসঙ্গ কর্তামূলক বলে?",
+          "structured_data": {},
+          "id": "dc1ec087-94e6-52bc-a48f-4740c8771bf8"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "বর্ণনা ও প্রশ্ন কর্তামূলক",
+          "content_markdown": "3. ছির কর্তামূলক তুলনায় গতিশীল কর্তামূলকে ঘড়ি?",
+          "structured_data": {},
+          "id": "82ddc29a-b4be-56e9-bfff-bd627863df40"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "বর্ণনা ও প্রশ্ন কর্তামূলক",
+          "content_markdown": "4. প্রাক্রেই ধ্রুবকের একটি নিচের কৌন রাশিদের এককের সমান?",
+          "structured_data": {},
+          "id": "10122dc5-4788-5ea6-8c62-f14eff4257ba"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "বর্ণনা ও প্রশ্ন কর্তামূলক",
+          "content_markdown": "5. Higgs প্রক্রিয়া এক ধরনের?",
+          "structured_data": {},
+          "id": "9b6fd658-5690-5a6e-b6a7-5e3ca2e91c25"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "বর্ণনা ও প্রশ্ন কর্তামূলক",
+          "content_markdown": "6. শূন্যথানে সকল ফোটনের ক্ষেত্রে নিচের কৌন রাশিদের সমান থাকে?",
+          "structured_data": {},
+          "id": "8cc346ba-45c4-5c36-ae5a-f86886eb00e1"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "বর্ণনা ও প্রশ্ন কর্তামূলক",
+          "content_markdown": "7. S ও S′ জড় প্রসঙ্গ কর্তামূলকে আলোর বেগ যথাক্রমে c ও c′। S কর্তামূলকে S′ কর্তামূলকে সাপেক্ষে X-অক্ষ বরাবর v বেগে গতিশীল হলে—(এ. বো. 15; মেডিক্স 08–09)",
+          "structured_data": {},
+          "id": "7f547b55-c779-5af5-8658-79181109d190"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "বর্ণনা ও প্রশ্ন কর্তামূলক",
+          "content_markdown": "8. আইন্সটাইনের ছির শক্তি সমীকরণ কোনটি? (সি. বো. 2015)",
+          "structured_data": {},
+          "id": "11280eb9-783c-5f00-a0ec-acaa00cf5b54"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "বর্ণনা ও প্রশ্ন কর্তামূলক",
+          "content_markdown": "9. ছির কর্তামূলক তুলনায় গতিশীল কর্তামূলকে ঘড়ি ফীরে চলে—এখনাকে কী বলে? (মেডিক্স 2008–09; এ. বো. 2015)",
+          "structured_data": {},
+          "id": "9934e2d2-11cb-5c2c-8fa2-fa7cc5082422"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "বর্ণনা ও প্রশ্ন কর্তামূলক",
+          "content_markdown": "10. কোন বিজ্ঞানী শক্তির ক্ষুদ্রত্ব এককের নাম দেন কোয়াটো? (সি. বো. 16; এ. বো. 15)",
+          "structured_data": {},
+          "id": "86ff9535-0cfa-5b6b-8b9c-c2578daf05e0"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "বর্ণনা ও প্রশ্ন কর্তামূলক",
+          "content_markdown": "11. কার পরীক্ষায় ইহাদের অতিথী ভূল প্রমাণিত হয়? (এ. বো. 15)",
+          "structured_data": {},
+          "id": "1c0badc2-e41b-5b92-bbe3-d16c88d467d9"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "বর্ণনা ও প্রশ্ন কর্তামূলক",
+          "content_markdown": "12. কোন নীতি ব্যবহার করে বক্ষের ভরকে শক্তিকে রূপান্তর করা যায়? (ডেটাল 16–17)",
+          "structured_data": {},
+          "id": "cd646986-02e3-51e5-8295-6dd0ecdbcb85"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "বর্ণনা ও প্রশ্ন কর্তামূলক",
+          "content_markdown": "13. নিচের কৌন বল ইলেকট্রনের নিউক্লিয়াসের সঙ্গে আবদ্ধ করে পরমাণু তৈরি করে? (মেডিক্স 07–08)",
+          "structured_data": {},
+          "id": "88d5ecb7-db2a-528a-b28e-da2796dd365f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "বর্ণনা ও প্রশ্ন কর্তামূলক",
+          "content_markdown": "---",
+          "structured_data": {},
+          "id": "c0d5cb99-d6cc-565a-b1ef-3ab2b81b10f0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q1",
+          "content_markdown": "কৃষ্ণ বক্ষ বিরক্তির ব্যাখ্যায় কোন মতবাদ সফল হয়েছিল?",
+          "structured_data": {
+            "question_number": "1",
+            "subtype": "mcq",
+            "stem": "কৃষ্ণ বক্ষ বিরক্তির ব্যাখ্যায় কোন মতবাদ সফল হয়েছিল?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ডি ব্রগলি মতবাদ",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "হাইজেনবার্গ মতবাদ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কোয়ান্টাম মতবাদ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোনোটিভ নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) ডি ব্রগলি মতবাদ",
+            "solution_markdown": "ডি ব্রগলি মতবাদ কৃষ্ণ বক্ষ বিরক্তির ব্যাখ্যায় সফল হয়েছিল।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "17101806-7b4e-50d9-b74c-960932dc8c5f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q2",
+          "content_markdown": "তরপণুভুক্ত প্রসঙ্গ কর্তামূলক বলে?",
+          "structured_data": {
+            "question_number": "2",
+            "subtype": "mcq",
+            "stem": "তরপণুভুক্ত প্রসঙ্গ কর্তামূলক বলে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গ্যালিলিও প্রসঙ্গ কর্তামূলক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "জড় প্রসঙ্গ কর্তামূলক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অজড় প্রসঙ্গ কর্তামূলক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "নিউটনীয় প্রসঙ্গ কর্তামূলক",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d) নিউটনীয় প্রসঙ্গ কর্তামূলক",
+            "solution_markdown": "তরপণুভুক্ত প্রসঙ্গ কর্তামূলক নিউটনীয় প্রসঙ্গ কর্তামূলক।",
+            "tags_raw": "আমির হোসেন  ...",
+            "provenance": [
+              "আমির হোসেন  ..."
+            ]
+          },
+          "id": "16e654d8-70cc-5824-9f21-0ffd2efafe18"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q22",
+          "content_markdown": "",
+          "structured_data": {
+            "question_number": "22",
+            "subtype": "mcq **stêm:** মাইকেলসন-মর্লরের পরীক্ষায় ব্যতিচার নক্সর অপসরণের পরিমাপের রাশিমালা কোনটি?",
+            "stem": "",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "n = $\\frac{c^2\\lambda}{2dv^2}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "n = $\\frac{c^2v^2}{2d\\lambda}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "n = $\\frac{2dv^2}{c^2\\lambda}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "n = $\\frac{2dc^2}{\\lambda v^2}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) n = $\\frac{c^2\\lambda}{2dv^2}$",
+            "solution_markdown": "মাইকেলসন-মর্লরের পরীক্ষায় ব্যতিচার নক্সর অপসরণের পরিমাপের রাশিমালা কোনটি:\nn = $\\frac{c^2\\lambda}{2dv^2}$.",
+            "tags_raw": "শাহজাহান তন্ত্র",
+            "provenance": [
+              "শাহজাহান তন্ত্র"
+            ]
+          },
+          "id": "62822cac-07d8-520c-a251-e62804771dd3"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 17,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 118.44,
+        "eval_count": 1992
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থ ২য় পত্র\n\n#### আধুনিক পদার্থবিজ্ঞানের সূচনা\n\n#### অপেক্ষিক তত্ত্ব\n\n##### 32. শক্তি ও সময়ের অনিচ্ছয়তা কোনটি?\n- a) ΔEΔt ≈ h\n- b) ΔEΔt ≈ h\n- c) ΔEΔt ≥ h/2\n- d) ΔEΔt ≤ h\n\n##### 33. একটি বন্ধ কণার মৌল শক্তি এর হিরি ভর শক্তির বিগড় আলোর দ্রুতি c হলে, কণাটির দ্রুতি কত?\n- a) $\\frac{2c}{\\sqrt{3}}$\n- b) $\\frac{\\sqrt{3}}{2}c$\n- c) c\n- d) $2c$\n\n##### 38. হিরি অবস্থায় M ভরবিশিষ্ট কোনো বন্ধ আলোর বেগে চলালে এর ভর হবে?\n- a) 0\n- b) $\\frac{1}{2}$M\n- c) M\n- d) ∞ কিন্তু আঙ্গার\n\n##### 35. 10 a.m. u ভরের সমতুল্য শক্তি eV তে প্রকাশ কর?\n- a) $15.03\\times 10^{-1}\\,\\mathrm{eV}$\n- b) $16.7\\times 10^{-27}\\,\\mathrm{eV}$\n- c) $9.39\\times 10^{9}\\,\\mathrm{eV}$\n- d) $15.03\\times 10^{9}\\,\\mathrm{eV}$\n\n##### 36. 5g ভরের সমতুল্য শক্তি কত?\n- a) $15\\times 10^{8}\\,\\mathrm{J}$\n- b) $4.5\\times 10^{14}\\,\\mathrm{J}$\n- c) $3\\times 10^{14}\\,\\mathrm{J}$\n- d) $45\\times 10^{14}\\,\\mathrm{J}$\n\n##### 37. 1 eV সমান কত জুল? (সি. বো. 2014)\n- a) $6.7\\times 10^{-34}\\,\\mathrm{J}$\n- b) $1.9\\times 10^{-31}\\,\\mathrm{J}$\n- c) $1.6\\times 10^{-31}\\,\\mathrm{J}$\n- d) $1.6\\times 10^{-19}\\,\\mathrm{J}$\n\n##### 38. একটি বন্ধ কণা 0.5c দ্রুতিতে গতিশীল হলে এর চলমান ভর কত?\n- a) $\\frac{m_{o}}{\\sqrt{0.75}}\\,\\mathrm{kg}$\n- b) $\\frac{m_{o}}{0.75}\\,\\mathrm{kg}$\n- c) $\\frac{m_{o}}{\\sqrt{0.5}}\\,\\mathrm{kg}$\n- d) $\\frac{m_{o}}{0.5}\\,\\mathrm{kg}$\n\n##### 39. কোনো বন্ধকণা আলোর দ্রুতিতে চলালে এর ভর – (সি. বো. 2014)\n- a) অর্ধেক হবে\n- b) শূন্য হবে\n- c) ঘিণও হবে\n- d) অসীম হবে\n\nব্যাখ্যা m = $\\frac{m_{o}}{\\sqrt{1-\\frac{v^2}{c^2}}}$. [v=c হলে] = $\\frac{m_{o}}{0}$∞\n\n##### 80. 2 amu সমান কত? (সি. বো. 2014; সকল বোর্ড 2018)\n- a) 931.5 MeV\n- b) 931.5 eV\n- c) 1863 eV\n- d) 1863 MeV\n\n##### 81. গতিশীল ঘড়ি নির্দিষ্ট ঘড়ির চেয়ে-\n- a) ধীরে চলে\n- b) দ্রুত চলে\n- c) একই থাকে\n- d) ঘিণও দ্রুত চলে\n\n##### 82. একটি গতিশীল ইলেকট্রনের ভর me হলে নিচের কোনটি সত্যিক?\n(সি. বো. 15-18)\n- a) me > 9$\\cdot$11 × 10−31 kg. me < 9$\\cdot$11 × 10−31 kg\n- b) me = 9$\\cdot$11 × 10−31 kg\n- c) me < 9$\\cdot$21 × 10−31 kg\n\n##### অনুশীলনী প্রশ্ন\n\nChase your dream to be a Doctor...\n\n| 23.খ | 24.খ | 25.গ |\n| --- | --- | --- |\n| 26.খ | 27.খ | 28.খ |\n| 29.খ | 30.খ | 31.খ |\n| 32.খ | 33.খ | 34.খ |\n| 35.গ | 36.খ | 37.খ |\n| 38.খ | 39.খ | 80.খ |\n| 81.ক | 82.ক |\n\n---\n\nএখানে উত্তর দেওয়া হয়েছে:\n\n| 23.খ | 24.খ | 25.গ | 26.খ | 27.খ | 28.খ |\n| --- | --- | --- | --- | --- | --- |\n| -a) V = $\\sqrt{\\frac{eV}{m}}$ | -b) V = $\\sqrt{\\frac{2eV}{m}}$ | -d) V = $\\frac{1}{2}mv^2$ | -b) $\\frac{2\\sqrt{3}}{5}C$ | -d) $\\frac{2\\sqrt{6}}{5}C$ | -b) $2.99 \\times 10^8 ms^{-1}$ |\n| 29.খ | 30.খ | 31.খ | 32.খ | 33.খ | 34.খ |\n| -c) 0.6 C অপেক্ষা বেশি | -a) $\\frac{c}{\\sqrt{3}}$ | -b) $\\frac{\\sqrt{3}}{2}c$ | -a) ΔEΔt ≈ h | -b) $\\frac{\\sqrt{3}}{2}c$ | -d) ঘিণও হবে |\n| 35.গ | 36.খ | 37.খ | 38.খ | 39.খ | 80.খ |\n| -c) $9.39 \\times 10^9\\,\\text{eV}$ | -b) $4.5 \\times 10^{14}\\,\\text{J}$ | -b) $1.9 \\times 10^{-31}\\,\\text{J}$ | -b) $\\frac{m_o}{\\sqrt{0.75}}\\,\\text{kg}$ | -d) ঘিণও হবে | -a) 931.5 MeV |\n| 81.ক | 82.ক | | | | |",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q32",
+          "content_markdown": "শক্তি ও সময়ের অনিচ্ছয়তা কোনটি?",
+          "structured_data": {
+            "question_number": "32",
+            "subtype": "mcq_item",
+            "stem": "শক্তি ও সময়ের অনিচ্ছয়তা কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ΔEΔt ≈ h",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ΔEΔt ≈ h",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ΔEΔt ≥ h/2",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ΔEΔt ≤ h",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b85df456-0ea3-596d-a4e2-e15b9d455521"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q33",
+          "content_markdown": "একটি বন্ধ কণার মৌল শক্তি এর হিরি ভর শক্তির বিগড় আলোর দ্রুতি c হলে, কণাটির দ্রুতি কত?",
+          "structured_data": {
+            "question_number": "33",
+            "subtype": "mcq_item",
+            "stem": "একটি বন্ধ কণার মৌল শক্তি এর হিরি ভর শক্তির বিগড় আলোর দ্রুতি c হলে, কণাটির দ্রুতি কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{2c}{\\sqrt{3}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{\\sqrt{3}}{2}c$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "c",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$2c$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1cc64578-e6c6-5d16-ab1a-06c950191178"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q38",
+          "content_markdown": "হিরি অবস্থায় M ভরবিশিষ্ট কোনো বন্ধ আলোর বেগে চলালে এর ভর হবে?",
+          "structured_data": {
+            "question_number": "38",
+            "subtype": "mcq_item",
+            "stem": "হিরি অবস্থায় M ভরবিশিষ্ট কোনো বন্ধ আলোর বেগে চলালে এর ভর হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "0",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{1}{2}$M",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "M",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "∞ কিন্তু আঙ্গার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0f3fd12c-6750-5c28-814c-a820260f51ac"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q35",
+          "content_markdown": "10 a.m. u ভরের সমতুল্য শক্তি eV তে প্রকাশ কর?",
+          "structured_data": {
+            "question_number": "35",
+            "subtype": "mcq_item",
+            "stem": "10 a.m. u ভরের সমতুল্য শক্তি eV তে প্রকাশ কর?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$15.03\\times 10^{-1}\\,\\mathrm{eV}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$16.7\\times 10^{-27}\\,\\mathrm{eV}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$9.39\\times 10^{9}\\,\\mathrm{eV}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$15.03\\times 10^{9}\\,\\mathrm{eV}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "cfff6bef-3369-5fa6-a7e5-756990ff7372"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q36",
+          "content_markdown": "5g ভরের সমতুল্য শক্তি কত?",
+          "structured_data": {
+            "question_number": "36",
+            "subtype": "mcq_item",
+            "stem": "5g ভরের সমতুল্য শক্তি কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$15\\times 10^{8}\\,\\mathrm{J}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$4.5\\times 10^{14}\\,\\mathrm{J}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$3\\times 10^{14}\\,\\mathrm{J}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$45\\times 10^{14}\\,\\mathrm{J}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2ba40b3c-88ef-5d1c-9eb7-9909dc5fd7aa"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q37",
+          "content_markdown": "1 eV সমান কত জুল? (সি. বো. 2014)",
+          "structured_data": {
+            "question_number": "37",
+            "subtype": "mcq_item",
+            "stem": "1 eV সমান কত জুল? (সি. বো. 2014)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$6.7\\times 10^{-34}\\,\\mathrm{J}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$1.9\\times 10^{-31}\\,\\mathrm{J}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$1.6\\times 10^{-31}\\,\\mathrm{J}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$1.6\\times 10^{-19}\\,\\mathrm{J}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "93cdd0e4-98cb-5de4-bb00-64a33cc128b3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q38",
+          "content_markdown": "একটি বন্ধ কণা 0.5c দ্রুতিতে গতিশীল হলে এর চলমান ভর কত?",
+          "structured_data": {
+            "question_number": "38",
+            "subtype": "mcq_item",
+            "stem": "একটি বন্ধ কণা 0.5c দ্রুতিতে গতিশীল হলে এর চলমান ভর কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{m_{o}}{\\sqrt{0.75}}\\,\\mathrm{kg}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{m_{o}}{0.75}\\,\\mathrm{kg}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{m_{o}}{\\sqrt{0.5}}\\,\\mathrm{kg}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\frac{m_{o}}{0.5}\\,\\mathrm{kg}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "38191bbb-0cdc-503d-b734-f59becfc095b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q39",
+          "content_markdown": "কোনো বন্ধকণা আলোর দ্রুতিতে চলালে এর ভর – (সি. বো. 2014)\nব্যাখ্যা m = $\\frac{m_{o}}{\\sqrt{1-\\frac{v^2}{c^2}}}$. [v=c হলে] = $\\frac{m_{o}}{0}$∞",
+          "structured_data": {
+            "question_number": "39",
+            "subtype": "mcq_item",
+            "stem": "কোনো বন্ধকণা আলোর দ্রুতিতে চলালে এর ভর – (সি. বো. 2014)\nব্যাখ্যা m = $\\frac{m_{o}}{\\sqrt{1-\\frac{v^2}{c^2}}}$. [v=c হলে] = $\\frac{m_{o}}{0}$∞",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অর্ধেক হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "শূন্য হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ঘিণও হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অসীম হবে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d1384592-8a00-5cf3-82f2-66a0912eb702"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q80",
+          "content_markdown": "2 amu সমান কত? (সি. বো. 2014; সকল বোর্ড 2018)",
+          "structured_data": {
+            "question_number": "80",
+            "subtype": "mcq_item",
+            "stem": "2 amu সমান কত? (সি. বো. 2014; সকল বোর্ড 2018)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "931.5 MeV",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "931.5 eV",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "1863 eV",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "1863 MeV",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e044b078-aafd-581a-9b56-70f5c8754feb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q81",
+          "content_markdown": "গতিশীল ঘড়ি নির্দিষ্ট ঘড়ির চেয়ে-",
+          "structured_data": {
+            "question_number": "81",
+            "subtype": "mcq_item",
+            "stem": "গতিশীল ঘড়ি নির্দিষ্ট ঘড়ির চেয়ে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ধীরে চলে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "দ্রুত চলে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "একই থাকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ঘিণও দ্রুত চলে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3ccdb43f-d78d-544e-9e21-64546a301ab5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q82",
+          "content_markdown": "একটি গতিশীল ইলেকট্রনের ভর me হলে নিচের কোনটি সত্যিক?\n(সি. বো. 15-18)\n##### অনুশীলনী প্রশ্ন\nChase your dream to be a Doctor...\n| 23.খ | 24.খ | 25.গ |\n| --- | --- | --- |\n| 26.খ | 27.খ | 28.খ |\n| 29.খ | 30.খ | 31.খ |\n| 32.খ | 33.খ | 34.খ |\n| 35.গ | 36.খ | 37.খ |\n| 38.খ | 39.খ | 80.খ |\n| 81.ক | 82.ক |\nএখানে উত্তর দেওয়া হয়েছে:\n| 23.খ | 24.খ | 25.গ | 26.খ | 27.খ | 28.খ |\n| --- | --- | --- | --- | --- | --- |\n| -a) V = $\\sqrt{\\frac{eV}{m}}$ | -b) V = $\\sqrt{\\frac{2eV}{m}}$ | -d) V = $\\frac{1}{2}mv^2$ | -b) $\\frac{2\\sqrt{3}}{5}C$ | -d) $\\frac{2\\sqrt{6}}{5}C$ | -b) $2.99 \\times 10^8 ms^{-1}$ |\n| 29.খ | 30.খ | 31.খ | 32.খ | 33.খ | 34.খ |\n| -c) 0.6 C অপেক্ষা বেশি | -a) $\\frac{c}{\\sqrt{3}}$ | -b) $\\frac{\\sqrt{3}}{2}c$ | -a) ΔEΔt ≈ h | -b) $\\frac{\\sqrt{3}}{2}c$ | -d) ঘিণও হবে |\n| 35.গ | 36.খ | 37.খ | 38.খ | 39.খ | 80.খ |\n| -c) $9.39 \\times 10^9\\,\\text{eV}$ | -b) $4.5 \\times 10^{14}\\,\\text{J}$ | -b) $1.9 \\times 10^{-31}\\,\\text{J}$ | -b) $\\frac{m_o}{\\sqrt{0.75}}\\,\\text{kg}$ | -d) ঘিণও হবে | -a) 931.5 MeV |\n| 81.ক | 82.ক | | | | |",
+          "structured_data": {
+            "question_number": "82",
+            "subtype": "mcq_item",
+            "stem": "একটি গতিশীল ইলেকট্রনের ভর me হলে নিচের কোনটি সত্যিক?\n(সি. বো. 15-18)\n##### অনুশীলনী প্রশ্ন\nChase your dream to be a Doctor...\n| 23.খ | 24.খ | 25.গ |\n| --- | --- | --- |\n| 26.খ | 27.খ | 28.খ |\n| 29.খ | 30.খ | 31.খ |\n| 32.খ | 33.খ | 34.খ |\n| 35.গ | 36.খ | 37.খ |\n| 38.খ | 39.খ | 80.খ |\n| 81.ক | 82.ক |\nএখানে উত্তর দেওয়া হয়েছে:\n| 23.খ | 24.খ | 25.গ | 26.খ | 27.খ | 28.খ |\n| --- | --- | --- | --- | --- | --- |\n| -a) V = $\\sqrt{\\frac{eV}{m}}$ | -b) V = $\\sqrt{\\frac{2eV}{m}}$ | -d) V = $\\frac{1}{2}mv^2$ | -b) $\\frac{2\\sqrt{3}}{5}C$ | -d) $\\frac{2\\sqrt{6}}{5}C$ | -b) $2.99 \\times 10^8 ms^{-1}$ |\n| 29.খ | 30.খ | 31.খ | 32.খ | 33.খ | 34.খ |\n| -c) 0.6 C অপেক্ষা বেশি | -a) $\\frac{c}{\\sqrt{3}}$ | -b) $\\frac{\\sqrt{3}}{2}c$ | -a) ΔEΔt ≈ h | -b) $\\frac{\\sqrt{3}}{2}c$ | -d) ঘিণও হবে |\n| 35.গ | 36.খ | 37.খ | 38.খ | 39.খ | 80.খ |\n| -c) $9.39 \\times 10^9\\,\\text{eV}$ | -b) $4.5 \\times 10^{14}\\,\\text{J}$ | -b) $1.9 \\times 10^{-31}\\,\\text{J}$ | -b) $\\frac{m_o}{\\sqrt{0.75}}\\,\\text{kg}$ | -d) ঘিণও হবে | -a) 931.5 MeV |\n| 81.ক | 82.ক | | | | |",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "me > 9$\\cdot$11 × 10−31 kg. me < 9$\\cdot$11 × 10−31 kg",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "me = 9$\\cdot$11 × 10−31 kg",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "me < 9$\\cdot$21 × 10−31 kg",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "dd27fd06-1f32-5f4a-aa20-91081820409a"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 11,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 91.06,
+        "eval_count": 2133
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "| পদার্থ ২য় পত্র | 360 |\n| --- | --- |\n\n## Q83\n**Type:** mcq\n**Stem:** কোণ একটি বন্ডকার মোট শক্তি এর ছির অবস্থা শক্তির 5 গুণ। বন্ডকারটির দ্রুতি কত?\n- a) c\n- b) $\\frac{2\\sqrt{3}}{5}$c\n- c) $\\frac{\\sqrt{6}}{5}$c\n- d) $\\frac{2\\sqrt{6}}{5}$c\n\n**Answer:** -a)\n\n**Solution:** আমরা $E_{total} = E_k + U$ হলে,\n\nএখানে,\n$U = \\frac{1}{2}kx^2$\nএবং \n$E_k = \\frac{1}{2}mv^2$\n\nঅবস্থায় শক্তির ঘন্টার উৎপাদিত হবে:\n\n$\\Delta T = \\frac{m}{2}\\left(\\frac{v_f^2-v_i^2}{2}\\right)$\n\nধরা যাচ্ছে, $v_f = v_i$, তাই দ্রুতি ছিল ছিলই। \n\n**Tags:** আমির হোসেন\n\n## Q88\n**Type:** mcq\n**Stem:** 10 কিলোগ্রাম ভরের পদার্থ হতে কী পরিমাণ শক্তি উৎপাদিত হবে? [স. খো. ১১]\n- a) $4.5\\times 10^{16}$J\n- b) $9\\times 10^{16}$J\n- c) $4.5\\times 10^{17}$J\n- d) $9\\times 10^{17}$J\n\n**Answer:** -b)\n\n**Solution:** পরিমাণ শক্তি $T = mgh$ হলে, যেখানে $h$ হচ্ছে ঊর্ধ্বাধিক উচ্চতা। কিন্তু প্রশ্নে উচ্চতা দেওয়া নি। তাই প্রশ্নটি সমাধান করা যায় না।\n\n**Tags:** আমির হোসেন\n\n## Q85\n**Type:** mcq\n**Stem:** 1 gm ভরের সম্পূর্ণে শক্তি রূপান্তরিত করলে, শক্তির মোট পরিমাণ কত জুল হবে? [স. খো. ১১]\n- a) 0.001$c^2$\n- b) 0.01$c^2$\n- c) 0.1$c^2$\n- d) 1.0$c^2$\n\n**Answer:** -d)\n\n**Solution:** শক্তির সমূহ সমীকরণ $T = \\frac{1}{2}mv^2$. যেখানে $m = 1$ gm = $0.001$ kg এবং $v = c$ (আলোর গতি)। তাই শক্তি $=\\frac{1}{2}(0.001)(c)^2 = 0.0005(c^2)$ J। এটি সঠিক ফলাফল নয়। তাই প্রশ্নটি সমাধান করা যায় না।\n\n**Tags:** আমির হোসেন\n\n## Q86\n**Type:** mcq\n**Stem:** 0.8 c বেগে গতিশীল একটি রকেটের অবস্থা দৈর্ঘ্য এর ছির দৈর্ঘ্য– [স. খো. ১১]\n- a) 0.45 গুণ\n- b) 0.6 গুণ\n- c) 0.8 গুণ\n- d) 1.67 গুণ\n\n**Answer:** -c)\n\n**Solution:** রকেটের দৈর্ঘ্য বেগে গতিশীল হলে তার দৈর্ঘ্য প্রতিরোধ হয়। তাই দৈর্ঘ্য বেড়ে যাওয়া যায়। তাই সঠিক উত্তর হল 0.8 গুণ।\n\n**Tags:** আমির হোসেন\n\n## Q87\n**Type:** mcq\n**Stem:** একটি আলোক উৎস দর্শকের দিকে $\\frac{c}{4}$ বেগে গতিশীল, দর্শকের কাছে আলোর বেগ কত প্রতিরোধ হবে?\n- a) $\\frac{5}{4}c$\n- b) $\\frac{3}{4}c$\n- c) c\n- d) 3c\n\n**Answer:** -a)\n\n**Solution:** আলোক বেগে গতিশীল হলে তার বেগ প্রতিরোধ হয়। তাই আলোর বেগ $\\frac{5}{4}c$ হবে।\n\n**Tags:** শাহজাহান তাপন\n\n## Q88\n**Type:** mcq\n**Stem:** ব্যাখ্যা 8 আপেক্ষিক তত্ত্বের ২য় ব্যাখ্যা অনুসারে সকল জড় কাঠামোতে আলোর বেগ ক্রুশ। তাই উভয় কাঠামোতে আলোর বেগ c পাওয়া যায়।\n- a) একই হবে\n- b) কমে যাবে\n- c) বেড়ে যাবে\n- d) অপরিবর্তিত থাকবে\n\n**Answer:** -b)\n\n**Solution:** সকল জড় কাঠামোতে আলোর বেগ ক্রুশ। তাই উভয় কাঠামোতে আলোর বেগ c পাওয়া যায়।\n\n**Tags:** শাহজাহান তাপন\n\n## Q89\n**Type:** mcq\n**Stem:** একটি শূন্য ভরের কণিকার দ্রুতি হবে—[ঈ. খি. (৩ কলক্ষ) ২০১৭-১৮]\n- a) শূন্য হবে\n- b) অস্বীয় হবে\n- c) c এর চেয়ে কম\n\n**Answer:** -a)\n\n**Solution:** শূন্য ভরের কণিকার দ্রুতি শূন্য হবে।\n\n**Tags:** শাহজাহান তাপন\n\n## Q90\n**Type:** mcq\n**Stem:** কোনো বন্ডকার গতিশীল অবস্থায়, এই বন্ড নিচল অবস্থার দৈর্ঘ্যের চেয়ে ছোটো। একে কি বলা হয়?\n- a) দৈর্ঘ্য দীর্ঘায়ন\n- b) দৈর্ঘ্য সংকোচন\n- c) কাল প্রসারণ\n- d) কাল সংকোচন\n\n**Answer:** -b)\n\n**Solution:** বন্ডকার গতিশীল অবস্থায় নিচল অবস্থার দৈর্ঘ্যের চেয়ে ছোটো হলে একে দৈর্ঘ্য সংকোচন বলে।\n\n**Tags:** শাহজাহান তাপন\n\n## Q91\n**Type:** mcq\n**Stem:** 1 amu $(1.6605 \\times 10^{-27}\\text{kg})$ ভরের সম্পূর্ণ শক্তি কত ইলেকট্রন বোল্ট?\n- a) $9.34 \\times 10^8\\text{eV}$\n- b) $10.5 \\times 10^8\\text{eV}$\n- c) $9.5 \\times 10^8\\text{eV}$\n- d) $9.15 \\times 10^8\\text{eV}$\n\n**Answer:** -a)\n\n**Solution:** ইলেকট্রন বোল্টের সমীকরণ: \n\n$$\nE_{electron} = m_ec^2\n$$\n\nএখানে,\n$m_e = 1.6605 \\times 10^{-27}\\,\\text{kg},\\quad c = 3\\times 10^{8}\\,\\text{m/s} \\]\n\n$$\nE = (1.6605 \\times 10^{-27})(3 \\times 10^8)^2 = 9.34 \\times 10^8\\,\\text{eV}\n$$\n\n**Tags:** শাহজাহান তাপন\n\n## Q92\n**Type:** mcq\n**Stem:** আপেক্ষিক তত্ত্বে অনুসারে গতিশীলতার দরুন-\n- a) দৈর্ঘ্য দ্রাস পায়\n- b) ভর হ্রাস পায়\n- c) দৈর্ঘ্য বৃদ্ধি পায়\n- d) সময় সংকৃতি হয়\n\n**Answer:** -d)\n\n**Solution:** আপেক্ষিক তত্ত্বে অনুসারে গতিশীলতার দরুন সময় সংকৃতি হয়।\n\n**Tags:** শামসুর রহমান\n\n## Q93\n**Type:** mcq\n**Stem:** m<sub>0</sub> ছির ভরসমূলক কণার বেগ $\\sqrt{\\frac{c}{2}}$ হলে এর ভরবেগ-\n- a) $\\frac{1}{\\sqrt{2}}m_0c$\n- b) $\\frac{1}{2}m_0c$\n- c) $m_0c$\n- d) $2m_0c$\n\n**Answer:** -a)\n\n**Solution:** ভরবেগের সমীকরণ:\n\n$$\nv'=\\gamma v\n$$\n\nএখানে $v'=\\sqrt{\\frac{c}{2}}$ এবং $\\gamma=\\frac{1}{\\sqrt{1-\\beta^2}}$, যেখানে $\\beta=v/c$.\n\n$$\n\\beta=\\frac{\\sqrt{\\frac{c}{2}}}{c}=\\frac{1}{\\sqrt{2}}\n$$\n\n$$\n\\gamma=\\frac{1}{\\sqrt{1-(\\frac{1}{\\sqrt{2}})^2}}=\\frac{1}{\\sqrt{1-\\frac{1}{2}}}=\\sqrt{2}\n$$\n\n$$\nv'= \\sqrt{2} \\cdot \\sqrt{\\frac{c}{2}}=c/2\n$$\n\nএবং ভরবেগের সমীকরণ:\n\n$$\np=m'\\gamma v'\n$$\n\nএখানে $p=m_0c/\\sqrt{2}$.\n\n$$\nm'=\\frac{p}{\\gamma v'} = \\frac{(m_0c)/\\sqrt{2}}{\\sqrt{2}(c/2)} = \\frac{m_0c}{\\sqrt{2}} \\cdot \\frac{2}{c}= \\frac{m_0}{\\sqrt{2}}\n$$\n\n**Tags:** শামসুর রহমান\n\n## Q94\n**Type:** mcq\n**Stem:** 'ধন্যবাদ ও কথা ধর্ষ আছে' এই ধারণার প্রবণা কে? [র. খো. ১৮]\n- a) ম্যারি প্ল্যাঙ্ক\n- b) নিউটন\n- c) আইনস্টাইন\n- d) ডি ব্রগলি\n\n**Answer:** -c)\n\n**Solution:** 'ধন্যবাদ ও কথা ধর্ষ আছে' এই ধারণার প্রবণা আইনস্টাইন দ্বারা দেওয়া হয়েছে।\n\n**Tags:** শামসুর রহমান\n\n## Q95\n**Type:** mcq\n**Stem:** m<sub>0</sub> ছির ভরের কোনো কণার গতিশীল ভর m, কণার গতিশীল ছির অবস্থার শক্তি 3 গুণ। নিচের কোন সম্পর্ক সত্যিক?\n(সি. খো. ১৭)\n- a) m = 4m<sub>0</sub>\n- b) m = 3m<sub>0</sub>\n- c) m = 2m<sub>0</sub>\n- d) m = m<sub>0</sub>\n\n**Answer:** -b)\n\n**Solution:** গতিশীল ছির অবস্থার শক্তি:  \n\n$$\nT = \\frac{1}{2}mv'^2\n$$\n\nএখানে, $T = 3mc^2$. \n\n$$\n\\frac{1}{2}mv'^2 = 3mc^2\n$$\n\n$$\n\\Rightarrow mv'^2 = 6mc^2\n$$\n\n$$\n\\Rightarrow v' = \\sqrt{6}c\n$$\n\nএবং গতিশীল ভর:\n\n$$\nm' = \\gamma m\n$$\n\nএখানে,\n\n$$\n\\gamma = \\frac{1}{\\sqrt{1-\\left(\\frac{v'}{c}\\right)^2}} = \\frac{1}{\\sqrt{1-\\left(\\sqrt{6}\\right)^2}} = \\frac{1}{\\sqrt{1-6}} = i\n$$",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "| পদার্থ ২য় পত্র | 360 |\n| --- | --- |",
+          "structured_data": {},
+          "id": "c29adcea-5712-5cdc-b8a9-9fbaeb3e81c2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q83",
+          "content_markdown": "কোণ একটি বন্ডকার মোট শক্তি এর ছির অবস্থা শক্তির 5 গুণ। বন্ডকারটির দ্রুতি কত?",
+          "structured_data": {
+            "question_number": "83",
+            "subtype": "mcq",
+            "stem": "কোণ একটি বন্ডকার মোট শক্তি এর ছির অবস্থা শক্তির 5 গুণ। বন্ডকারটির দ্রুতি কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "c",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{2\\sqrt{3}}{5}$c",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{\\sqrt{6}}{5}$c",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\frac{2\\sqrt{6}}{5}$c",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": "আমরা $E_{total} = E_k + U$ হলে,\n\nএখানে,\n$U = \\frac{1}{2}kx^2$\nএবং \n$E_k = \\frac{1}{2}mv^2$\n\nঅবস্থায় শক্তির ঘন্টার উৎপাদিত হবে:\n\n$\\Delta T = \\frac{m}{2}\\left(\\frac{v_f^2-v_i^2}{2}\\right)$\n\nধরা যাচ্ছে, $v_f = v_i$, তাই দ্রুতি ছিল ছিলই।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "987dc2be-f0ee-5312-bc3e-df08db9aafd4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q88",
+          "content_markdown": "10 কিলোগ্রাম ভরের পদার্থ হতে কী পরিমাণ শক্তি উৎপাদিত হবে? [স. খো. ১১]",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "mcq",
+            "stem": "10 কিলোগ্রাম ভরের পদার্থ হতে কী পরিমাণ শক্তি উৎপাদিত হবে? [স. খো. ১১]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$4.5\\times 10^{16}$J",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$9\\times 10^{16}$J",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$4.5\\times 10^{17}$J",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$9\\times 10^{17}$J",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": "পরিমাণ শক্তি $T = mgh$ হলে, যেখানে $h$ হচ্ছে ঊর্ধ্বাধিক উচ্চতা। কিন্তু প্রশ্নে উচ্চতা দেওয়া নি। তাই প্রশ্নটি সমাধান করা যায় না।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "300c5bc7-eeb5-590c-838a-131037dcc7d6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q85",
+          "content_markdown": "1 gm ভরের সম্পূর্ণে শক্তি রূপান্তরিত করলে, শক্তির মোট পরিমাণ কত জুল হবে? [স. খো. ১১]",
+          "structured_data": {
+            "question_number": "85",
+            "subtype": "mcq",
+            "stem": "1 gm ভরের সম্পূর্ণে শক্তি রূপান্তরিত করলে, শক্তির মোট পরিমাণ কত জুল হবে? [স. খো. ১১]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "0.001$c^2$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "0.01$c^2$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "0.1$c^2$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "1.0$c^2$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)",
+            "solution_markdown": "শক্তির সমূহ সমীকরণ $T = \\frac{1}{2}mv^2$. যেখানে $m = 1$ gm = $0.001$ kg এবং $v = c$ (আলোর গতি)। তাই শক্তি $=\\frac{1}{2}(0.001)(c)^2 = 0.0005(c^2)$ J। এটি সঠিক ফলাফল নয়। তাই প্রশ্নটি সমাধান করা যায় না।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "33200dda-533b-5145-8f82-0de8c62aa14d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q86",
+          "content_markdown": "0.8 c বেগে গতিশীল একটি রকেটের অবস্থা দৈর্ঘ্য এর ছির দৈর্ঘ্য– [স. খো. ১১]",
+          "structured_data": {
+            "question_number": "86",
+            "subtype": "mcq",
+            "stem": "0.8 c বেগে গতিশীল একটি রকেটের অবস্থা দৈর্ঘ্য এর ছির দৈর্ঘ্য– [স. খো. ১১]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "0.45 গুণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "0.6 গুণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "0.8 গুণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "1.67 গুণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": "রকেটের দৈর্ঘ্য বেগে গতিশীল হলে তার দৈর্ঘ্য প্রতিরোধ হয়। তাই দৈর্ঘ্য বেড়ে যাওয়া যায়। তাই সঠিক উত্তর হল 0.8 গুণ।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "8c665b13-c7a1-54b2-bf3a-425442085308"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q87",
+          "content_markdown": "একটি আলোক উৎস দর্শকের দিকে $\\frac{c}{4}$ বেগে গতিশীল, দর্শকের কাছে আলোর বেগ কত প্রতিরোধ হবে?",
+          "structured_data": {
+            "question_number": "87",
+            "subtype": "mcq",
+            "stem": "একটি আলোক উৎস দর্শকের দিকে $\\frac{c}{4}$ বেগে গতিশীল, দর্শকের কাছে আলোর বেগ কত প্রতিরোধ হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{5}{4}c$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{3}{4}c$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "c",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "3c",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": "আলোক বেগে গতিশীল হলে তার বেগ প্রতিরোধ হয়। তাই আলোর বেগ $\\frac{5}{4}c$ হবে।",
+            "tags_raw": "শাহজাহান তাপন",
+            "provenance": [
+              "শাহজাহান তাপন"
+            ]
+          },
+          "id": "2bc70931-cec0-5e25-bb5e-0fbbd94c7b47"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q88",
+          "content_markdown": "ব্যাখ্যা 8 আপেক্ষিক তত্ত্বের ২য় ব্যাখ্যা অনুসারে সকল জড় কাঠামোতে আলোর বেগ ক্রুশ। তাই উভয় কাঠামোতে আলোর বেগ c পাওয়া যায়।",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "mcq",
+            "stem": "ব্যাখ্যা 8 আপেক্ষিক তত্ত্বের ২য় ব্যাখ্যা অনুসারে সকল জড় কাঠামোতে আলোর বেগ ক্রুশ। তাই উভয় কাঠামোতে আলোর বেগ c পাওয়া যায়।",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "একই হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কমে যাবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বেড়ে যাবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অপরিবর্তিত থাকবে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": "সকল জড় কাঠামোতে আলোর বেগ ক্রুশ। তাই উভয় কাঠামোতে আলোর বেগ c পাওয়া যায়।",
+            "tags_raw": "শাহজাহান তাপন",
+            "provenance": [
+              "শাহজাহান তাপন"
+            ]
+          },
+          "id": "33d5ea60-bb3c-50c8-a261-e3a654cb1c4a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q89",
+          "content_markdown": "একটি শূন্য ভরের কণিকার দ্রুতি হবে—[ঈ. খি. (৩ কলক্ষ) ২০১৭-১৮]",
+          "structured_data": {
+            "question_number": "89",
+            "subtype": "mcq",
+            "stem": "একটি শূন্য ভরের কণিকার দ্রুতি হবে—[ঈ. খি. (৩ কলক্ষ) ২০১৭-১৮]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "শূন্য হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অস্বীয় হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "c এর চেয়ে কম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": "শূন্য ভরের কণিকার দ্রুতি শূন্য হবে।",
+            "tags_raw": "শাহজাহান তাপন",
+            "provenance": [
+              "শাহজাহান তাপন"
+            ]
+          },
+          "id": "68c36551-bd25-51bf-ba7d-690ca62a6f79"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q90",
+          "content_markdown": "কোনো বন্ডকার গতিশীল অবস্থায়, এই বন্ড নিচল অবস্থার দৈর্ঘ্যের চেয়ে ছোটো। একে কি বলা হয়?",
+          "structured_data": {
+            "question_number": "90",
+            "subtype": "mcq",
+            "stem": "কোনো বন্ডকার গতিশীল অবস্থায়, এই বন্ড নিচল অবস্থার দৈর্ঘ্যের চেয়ে ছোটো। একে কি বলা হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "দৈর্ঘ্য দীর্ঘায়ন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "দৈর্ঘ্য সংকোচন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কাল প্রসারণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কাল সংকোচন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": "বন্ডকার গতিশীল অবস্থায় নিচল অবস্থার দৈর্ঘ্যের চেয়ে ছোটো হলে একে দৈর্ঘ্য সংকোচন বলে।",
+            "tags_raw": "শাহজাহান তাপন",
+            "provenance": [
+              "শাহজাহান তাপন"
+            ]
+          },
+          "id": "d1aa3c77-cf5f-5179-94b6-64f9d7b25a5a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q91",
+          "content_markdown": "1 amu $(1.6605 \\times 10^{-27}\\text{kg})$ ভরের সম্পূর্ণ শক্তি কত ইলেকট্রন বোল্ট?",
+          "structured_data": {
+            "question_number": "91",
+            "subtype": "mcq",
+            "stem": "1 amu $(1.6605 \\times 10^{-27}\\text{kg})$ ভরের সম্পূর্ণ শক্তি কত ইলেকট্রন বোল্ট?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$9.34 \\times 10^8\\text{eV}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$10.5 \\times 10^8\\text{eV}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$9.5 \\times 10^8\\text{eV}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$9.15 \\times 10^8\\text{eV}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": "ইলেকট্রন বোল্টের সমীকরণ:\n\n$$\nE_{electron} = m_ec^2\n$$\n\nএখানে,\n$m_e = 1.6605 \\times 10^{-27}\\,\\text{kg},\\quad c = 3\\times 10^{8}\\,\\text{m/s} \\]\n\n$$\nE = (1.6605 \\times 10^{-27})(3 \\times 10^8)^2 = 9.34 \\times 10^8\\,\\text{eV}\n$$",
+            "tags_raw": "শাহজাহান তাপন",
+            "provenance": [
+              "শাহজাহান তাপন"
+            ]
+          },
+          "id": "80d5667c-b820-53ae-af7c-c0493e31f732"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q92",
+          "content_markdown": "আপেক্ষিক তত্ত্বে অনুসারে গতিশীলতার দরুন-",
+          "structured_data": {
+            "question_number": "92",
+            "subtype": "mcq",
+            "stem": "আপেক্ষিক তত্ত্বে অনুসারে গতিশীলতার দরুন-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "দৈর্ঘ্য দ্রাস পায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ভর হ্রাস পায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "দৈর্ঘ্য বৃদ্ধি পায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সময় সংকৃতি হয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)",
+            "solution_markdown": "আপেক্ষিক তত্ত্বে অনুসারে গতিশীলতার দরুন সময় সংকৃতি হয়।",
+            "tags_raw": "শামসুর রহমান",
+            "provenance": [
+              "শামসুর রহমান"
+            ]
+          },
+          "id": "a837310e-435b-59ef-a6f3-512c73e09972"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q93",
+          "content_markdown": "m<sub>0</sub> ছির ভরসমূলক কণার বেগ $\\sqrt{\\frac{c}{2}}$ হলে এর ভরবেগ-",
+          "structured_data": {
+            "question_number": "93",
+            "subtype": "mcq",
+            "stem": "m<sub>0</sub> ছির ভরসমূলক কণার বেগ $\\sqrt{\\frac{c}{2}}$ হলে এর ভরবেগ-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{1}{\\sqrt{2}}m_0c$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{1}{2}m_0c$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$m_0c$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$2m_0c$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": "ভরবেগের সমীকরণ:\n\n$$\nv'=\\gamma v\n$$\n\nএখানে $v'=\\sqrt{\\frac{c}{2}}$ এবং $\\gamma=\\frac{1}{\\sqrt{1-\\beta^2}}$, যেখানে $\\beta=v/c$.\n\n$$\n\\beta=\\frac{\\sqrt{\\frac{c}{2}}}{c}=\\frac{1}{\\sqrt{2}}\n$$\n\n$$\n\\gamma=\\frac{1}{\\sqrt{1-(\\frac{1}{\\sqrt{2}})^2}}=\\frac{1}{\\sqrt{1-\\frac{1}{2}}}=\\sqrt{2}\n$$\n\n$$\nv'= \\sqrt{2} \\cdot \\sqrt{\\frac{c}{2}}=c/2\n$$\n\nএবং ভরবেগের সমীকরণ:\n\n$$\np=m'\\gamma v'\n$$\n\nএখানে $p=m_0c/\\sqrt{2}$.\n\n$$\nm'=\\frac{p}{\\gamma v'} = \\frac{(m_0c)/\\sqrt{2}}{\\sqrt{2}(c/2)} = \\frac{m_0c}{\\sqrt{2}} \\cdot \\frac{2}{c}= \\frac{m_0}{\\sqrt{2}}\n$$",
+            "tags_raw": "শামসুর রহমান",
+            "provenance": [
+              "শামসুর রহমান"
+            ]
+          },
+          "id": "33626b05-8299-52c2-9c55-82b4a113042c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q94",
+          "content_markdown": "'ধন্যবাদ ও কথা ধর্ষ আছে' এই ধারণার প্রবণা কে? [র. খো. ১৮]",
+          "structured_data": {
+            "question_number": "94",
+            "subtype": "mcq",
+            "stem": "'ধন্যবাদ ও কথা ধর্ষ আছে' এই ধারণার প্রবণা কে? [র. খো. ১৮]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ম্যারি প্ল্যাঙ্ক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নিউটন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আইনস্টাইন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ডি ব্রগলি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": "'ধন্যবাদ ও কথা ধর্ষ আছে' এই ধারণার প্রবণা আইনস্টাইন দ্বারা দেওয়া হয়েছে।",
+            "tags_raw": "শামসুর রহমান",
+            "provenance": [
+              "শামসুর রহমান"
+            ]
+          },
+          "id": "173741ed-4aba-569c-87d9-14d3188a27fe"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q95",
+          "content_markdown": "m<sub>0</sub> ছির ভরের কোনো কণার গতিশীল ভর m, কণার গতিশীল ছির অবস্থার শক্তি 3 গুণ। নিচের কোন সম্পর্ক সত্যিক?\n(সি. খো. ১৭)",
+          "structured_data": {
+            "question_number": "95",
+            "subtype": "mcq",
+            "stem": "m<sub>0</sub> ছির ভরের কোনো কণার গতিশীল ভর m, কণার গতিশীল ছির অবস্থার শক্তি 3 গুণ। নিচের কোন সম্পর্ক সত্যিক?\n(সি. খো. ১৭)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "m = 4m<sub>0</sub>",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "m = 3m<sub>0</sub>",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "m = 2m<sub>0</sub>",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "m = m<sub>0</sub>",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": "গতিশীল ছির অবস্থার শক্তি:\n\n$$\nT = \\frac{1}{2}mv'^2\n$$\n\nএখানে, $T = 3mc^2$. \n\n$$\n\\frac{1}{2}mv'^2 = 3mc^2\n$$\n\n$$\n\\Rightarrow mv'^2 = 6mc^2\n$$\n\n$$\n\\Rightarrow v' = \\sqrt{6}c\n$$\n\nএবং গতিশীল ভর:\n\n$$\nm' = \\gamma m\n$$\n\nএখানে,\n\n$$\n\\gamma = \\frac{1}{\\sqrt{1-\\left(\\frac{v'}{c}\\right)^2}} = \\frac{1}{\\sqrt{1-\\left(\\sqrt{6}\\right)^2}} = \\frac{1}{\\sqrt{1-6}} = i\n$$",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "02fb0ae0-3612-54ac-9672-5d8719a9993b"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 14,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 182.98,
+        "eval_count": 4103
+      }
+    },
+    {
+      "page_number": 4,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### 361\n#### আধুনিক পদার্থবিজ্ঞানের সূচনা\n\n## Q67\n**Type:** mcq\n**Stem:** শূন্য আলোর গতি হচ্ছে-\n**Options:** \n- a) $299\\;792\\;458 ms^{-1}$\n- b) $499\\;992\\;658 ms^{-1}$\n- c) $599\\;692\\;758 ms^{-1}$\n- d) $399\\;892\\;558 ms^{-1}$\n\n**Answer:** -a)\n\n## Q68\n**Type:** mcq\n**Stem:** E = hF সূত্রটি প্রদান করেন?\n**Options:** \n- a) ফয়ারাডে\n- b) আইনস্টাইন\n- c) প্র্যাঙ্ক\n- d) নিউটন\n\n**Answer:** -d)\n\n## Q69\n**Type:** mcq\n**Stem:** মাইকেলসন-মর্লি পরিষ্কার্য ফলাফল?\n**Options:** \n- a) ইথার আলোর গতিতে পৃথিবীকে প্রদক্ষিণ করে\n- b) ইথার পূর্ণ মহাবিশ্বে জড়ে বিক্ষুদ্ধ হিতিজ্ঞাপক মাধ্যম\n- c) ইথার সূর্যের সাপেক্ষে ছির\n- d) ইথার বলতে মহাবিশ্বে কিছু নেই\n\n**Answer:** -c)\n\n## Q70\n**Type:** mcq\n**Stem:** পদার্থবিজ্ঞানী আবদুস সালাম ও স্টিফেন ওয়াইনবার্গ কৌণ দুটিকে একীভূত করেছিলেন?\n**Options:** \n- a) বিখ্যাতজীবন মহাকর্ষ বল ও তড়িৎ চৌকিক বল\n- b) তড়িৎচৌকিক ও দুর্বল নিউক্লিয় বল\n- c) সবল নিউক্লিয় বল ও তড়িৎ চৌকিক বল\n- d) দুর্বল নিউক্লিয় বল ও সবল নিউক্লিয় বল\n\n**Answer:** -b)\n\n## Q71\n**Type:** mcq\n**Stem:** একটি কণার মোট শক্তি এর ছির অবস্থান শক্তির দিকগুলি। কণাটির দ্রষ্টা হলো?\n**Options:** \n- a) $2.6\\times 10^8 m/s$\n- b) $2.9\\times 10^8 m/s$\n- c) $3.0\\times 10^8 m/s$\n- d) $6.0\\times 10^8 m/s$\n\n**Answer:** -a)\n\n## Q72\n**Type:** mcq\n**Stem:** কোনো কণার বিনিময়ের মাধ্যমে তড়িৎ চৌকিক বল কার্যকর হয়? (ব. বো. ১১/১১)\n**Options:** \n- a) প্রোটন\n- b) বোসন\n- c) ফোটন\n- d) গ্যুয়ান\n\n**Answer:** -c)\n\n## Q73\n**Type:** mcq\n**Stem:** 1 Å তরঙ্গদৈর্ঘ্যের একটি তড়িৎ চৌকিক তরঙ্গের শক্তি কত? (ব. বো. ২০১৬)\n**Options:** \n- a) $2\\times 10^{15} J$\n- b) $2\\times 10^{16} J$\n- c) $2\\times 10^{17} J$\n- d) $2\\times 10^{18} J$\n\n**Answer:** -d)\n\n## Q74\n**Type:** mcq\n**Stem:** মহাকর্ষ বলের পাল্টা কত? (সি. বো. ২০১৩)\n**Options:** \n- a) $10^{16}m$\n- b) $10^{15}m$\n- c) অসীম\n- d) $10^{15}m$\n\n**Answer:** -a)\n\n## Q75\n**Type:** mcq\n**Stem:** সর্বপেক্ষা দুর্বল বল কৌণটি? (ঈ. বো. ২০১৬; স. বো. ২০১৫)\n**Options:** \n- a) মহাকর্ষ বল\n- b) দুর্বল নিউক্লিয় বল\n- c) তড়িৎ চৌকিক বল\n- d) সবল নিউক্লিয় বল\n\n**Answer:** -b)\n\n## Q76\n**Type:** mcq\n**Stem:** কৌণটি মহাবিশ্বের মৌলিক বলের অন্তর্ভুক্ত নয়? (নিকেলে ২০১৩-১৪)\n**Options:** \n- a) মহাকর্ষ বল\n- b) তড়িৎ চৌকিক বল\n- c) দুর্বল নিউক্লিয় বল\n- d) ঘাত বল\n\n**Answer:** -d)\n\n## Q77\n**Type:** mcq\n**Stem:** যদি মহাকর্ষ বলের সূচক 1 হয়; তবে সবল নিউক্লিয় বলের আপেক্ষিক সবলতা কত? (নিকেলে ০৮-০৬)\n**Options:** \n- a) $10^{30}$\n- b) $10^{41}$\n- c) $10^{39}$\n- d) 1\n\n**Answer:** -d)\n\n## Q78\n**Type:** mcq\n**Stem:** দুর্বল নিউক্লিয় বল সৃষ্টি হয়–(ঈ. বো. ২০১৪)\n**Options:** \n- a) বিটা ক্ষয়ের জন্য\n- b) প্রোটন ক্ষয়ের জন্য\n- c) গামা ক্ষয়ের জন্য\n- d) নিউটন ক্ষয়ের জন্য\n\n**Answer:** -c)\n\n## Q79\n**Type:** mcq\n**Stem:** সবল নিউক্লিয় বলের বাহক কণা নিচের কৌণটি?\n**Options:** \n- a) ট্রাভিটন\n- b) ফোটন\n- c) গ্লুওন\n- d) গেজ বোসন\n\n**Answer:** -d)\n\n### Board Tags:\n- শহজাহান তপন",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q67",
+          "content_markdown": "শূন্য আলোর গতি হচ্ছে-",
+          "structured_data": {
+            "question_number": "67",
+            "subtype": "mcq",
+            "stem": "শূন্য আলোর গতি হচ্ছে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$299\\;792\\;458 ms^{-1}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$499\\;992\\;658 ms^{-1}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$599\\;692\\;758 ms^{-1}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$399\\;892\\;558 ms^{-1}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d8fbcc97-469e-5c1f-9cdd-bbb77d831a92"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q68",
+          "content_markdown": "E = hF সূত্রটি প্রদান করেন?",
+          "structured_data": {
+            "question_number": "68",
+            "subtype": "mcq",
+            "stem": "E = hF সূত্রটি প্রদান করেন?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ফয়ারাডে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "আইনস্টাইন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "প্র্যাঙ্ক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "নিউটন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b21c45f1-df79-5d86-960a-759890e2a6a4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q69",
+          "content_markdown": "মাইকেলসন-মর্লি পরিষ্কার্য ফলাফল?",
+          "structured_data": {
+            "question_number": "69",
+            "subtype": "mcq",
+            "stem": "মাইকেলসন-মর্লি পরিষ্কার্য ফলাফল?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ইথার আলোর গতিতে পৃথিবীকে প্রদক্ষিণ করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ইথার পূর্ণ মহাবিশ্বে জড়ে বিক্ষুদ্ধ হিতিজ্ঞাপক মাধ্যম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ইথার সূর্যের সাপেক্ষে ছির",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ইথার বলতে মহাবিশ্বে কিছু নেই",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "35944008-e313-52cd-a058-efec78404b42"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q70",
+          "content_markdown": "পদার্থবিজ্ঞানী আবদুস সালাম ও স্টিফেন ওয়াইনবার্গ কৌণ দুটিকে একীভূত করেছিলেন?",
+          "structured_data": {
+            "question_number": "70",
+            "subtype": "mcq",
+            "stem": "পদার্থবিজ্ঞানী আবদুস সালাম ও স্টিফেন ওয়াইনবার্গ কৌণ দুটিকে একীভূত করেছিলেন?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বিখ্যাতজীবন মহাকর্ষ বল ও তড়িৎ চৌকিক বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তড়িৎচৌকিক ও দুর্বল নিউক্লিয় বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সবল নিউক্লিয় বল ও তড়িৎ চৌকিক বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "দুর্বল নিউক্লিয় বল ও সবল নিউক্লিয় বল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c107f37d-538a-5eeb-9db7-2f9021052e71"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q71",
+          "content_markdown": "একটি কণার মোট শক্তি এর ছির অবস্থান শক্তির দিকগুলি। কণাটির দ্রষ্টা হলো?",
+          "structured_data": {
+            "question_number": "71",
+            "subtype": "mcq",
+            "stem": "একটি কণার মোট শক্তি এর ছির অবস্থান শক্তির দিকগুলি। কণাটির দ্রষ্টা হলো?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$2.6\\times 10^8 m/s$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$2.9\\times 10^8 m/s$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$3.0\\times 10^8 m/s$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$6.0\\times 10^8 m/s$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ca49cac2-2726-574e-a130-3aa414d798dc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q72",
+          "content_markdown": "কোনো কণার বিনিময়ের মাধ্যমে তড়িৎ চৌকিক বল কার্যকর হয়? (ব. বো. ১১/১১)",
+          "structured_data": {
+            "question_number": "72",
+            "subtype": "mcq",
+            "stem": "কোনো কণার বিনিময়ের মাধ্যমে তড়িৎ চৌকিক বল কার্যকর হয়? (ব. বো. ১১/১১)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রোটন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বোসন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ফোটন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "গ্যুয়ান",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "05c08d99-5470-5165-83db-2dffb3a9fdeb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q73",
+          "content_markdown": "1 Å তরঙ্গদৈর্ঘ্যের একটি তড়িৎ চৌকিক তরঙ্গের শক্তি কত? (ব. বো. ২০১৬)",
+          "structured_data": {
+            "question_number": "73",
+            "subtype": "mcq",
+            "stem": "1 Å তরঙ্গদৈর্ঘ্যের একটি তড়িৎ চৌকিক তরঙ্গের শক্তি কত? (ব. বো. ২০১৬)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$2\\times 10^{15} J$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$2\\times 10^{16} J$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$2\\times 10^{17} J$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$2\\times 10^{18} J$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "aa4708b1-21f3-54d6-a97e-279dd68c9c7c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q74",
+          "content_markdown": "মহাকর্ষ বলের পাল্টা কত? (সি. বো. ২০১৩)",
+          "structured_data": {
+            "question_number": "74",
+            "subtype": "mcq",
+            "stem": "মহাকর্ষ বলের পাল্টা কত? (সি. বো. ২০১৩)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$10^{16}m$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$10^{15}m$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অসীম",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$10^{15}m$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3a0a640e-de7a-53cd-989c-fa43c996161f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q75",
+          "content_markdown": "সর্বপেক্ষা দুর্বল বল কৌণটি? (ঈ. বো. ২০১৬; স. বো. ২০১৫)",
+          "structured_data": {
+            "question_number": "75",
+            "subtype": "mcq",
+            "stem": "সর্বপেক্ষা দুর্বল বল কৌণটি? (ঈ. বো. ২০১৬; স. বো. ২০১৫)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মহাকর্ষ বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "দুর্বল নিউক্লিয় বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "তড়িৎ চৌকিক বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সবল নিউক্লিয় বল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "152dd2eb-b2d0-5f4d-89b4-235088fd2457"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q76",
+          "content_markdown": "কৌণটি মহাবিশ্বের মৌলিক বলের অন্তর্ভুক্ত নয়? (নিকেলে ২০১৩-১৪)",
+          "structured_data": {
+            "question_number": "76",
+            "subtype": "mcq",
+            "stem": "কৌণটি মহাবিশ্বের মৌলিক বলের অন্তর্ভুক্ত নয়? (নিকেলে ২০১৩-১৪)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মহাকর্ষ বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তড়িৎ চৌকিক বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "দুর্বল নিউক্লিয় বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ঘাত বল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "cd29a1d6-fe47-5ccd-8ece-5ae037627df3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q77",
+          "content_markdown": "যদি মহাকর্ষ বলের সূচক 1 হয়; তবে সবল নিউক্লিয় বলের আপেক্ষিক সবলতা কত? (নিকেলে ০৮-০৬)",
+          "structured_data": {
+            "question_number": "77",
+            "subtype": "mcq",
+            "stem": "যদি মহাকর্ষ বলের সূচক 1 হয়; তবে সবল নিউক্লিয় বলের আপেক্ষিক সবলতা কত? (নিকেলে ০৮-০৬)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$10^{30}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$10^{41}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$10^{39}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "1",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a974aabf-3df3-5533-8276-cbbebdd67fa3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q78",
+          "content_markdown": "দুর্বল নিউক্লিয় বল সৃষ্টি হয়–(ঈ. বো. ২০১৪)",
+          "structured_data": {
+            "question_number": "78",
+            "subtype": "mcq",
+            "stem": "দুর্বল নিউক্লিয় বল সৃষ্টি হয়–(ঈ. বো. ২০১৪)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বিটা ক্ষয়ের জন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রোটন ক্ষয়ের জন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গামা ক্ষয়ের জন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "নিউটন ক্ষয়ের জন্য",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2df8eb6e-db1c-5cc4-a5fb-dd619a33825d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q79",
+          "content_markdown": "সবল নিউক্লিয় বলের বাহক কণা নিচের কৌণটি?",
+          "structured_data": {
+            "question_number": "79",
+            "subtype": "mcq",
+            "stem": "সবল নিউক্লিয় বলের বাহক কণা নিচের কৌণটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ট্রাভিটন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ফোটন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গ্লুওন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "গেজ বোসন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)\n\n### Board Tags:\n- শহজাহান তপন",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fa99b8fe-af85-55d3-a4e3-09a07c7d6a4c"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 13,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 99.59,
+        "eval_count": 2200
+      }
+    },
+    {
+      "page_number": 5,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থ ২য় পত্র\n#### 362\n\n##### আধুনিক পদার্থবিজ্ঞানের সূচনা\n\n**91. নোবের যৌথকার্য অনুসারে অনুমোদিত কক্ষপথে ইলেকট্রনের কৌণিক ভরবেগ কত?**\n- a) $L = \\frac{\\pi}{h}$\n- b) $L = \\frac{n h}{2 \\pi}$\n- c) $L = \\frac{2 n \\pi}{h}$\n- d) $L = \\frac{2 h}{n \\pi}$\n\n**92. 10 MeV গতিশক্তি নিয়ে চলমান ইলেকট্রনের ভর কত?**\n- a) $10.51 m_0$\n- b) $15.51 m_0$\n- c) $20.51 m_0$\n- d) কোনওটিই নয়\n\n**93. একটি হাইড্রজেনের পরমাণু উত্তেজিত অবস্থায় থেকে জুমি অবস্থায় ফিরে আসলে?**\n- a) ফোটন শোষণ করে\n- b) ফোটন নিষ্কাশন করে\n- c) শক্তি শোষণ করে\n- d) অয়নিত হয়\n\n**98. কম্পটন তরঙ্গদৈর্ঘ্যের সমীকরণ কোনটি?**\n- a) $\\lambda_{c} = \\frac{m_{o} c^{2}}{e V}$\n- b) $\\lambda_{c} = \\frac{m_{o} e v}{c}$\n- c) $\\lambda_{c} = \\frac{e^2}{m o c}$\n- d) $\\lambda_{c} = \\frac{e^2}{m_o c^2}$\n\n**95. একটি ইলেকট্রনকে V বিভব পার্থক্যের মধ্যে রাখলে, ইলেকট্রনের বেগ v এবং প্রাথমিক বিভব পার্থক্যের মধ্যে সম্পর্ক কোনটি?**\n- a) $v = \\sqrt{\\frac{e V}{m}}$\n- b) $v = \\sqrt{\\frac{2 e V}{m}}$\n- c) $v = \\frac{e V^2}{m}$\n- d) $v = \\frac{1}{2} m V^2$\n\n**96. 1g ভরের 1 টি কণা 2000 ms^{-1} বেগে গতিশীল। কণাটির সাথে সংশ্লিষ্ট তরঙ্গদৈর্ঘ্য কত হবে?**\n- a) $3.315 \\times 10^{-33} \\mathrm{~m}$\n- b) $3.315 \\times 10^{-34} \\mathrm{~m}$\n- c) $33.15 \\times 10^{-33} \\mathrm{~m}$\n- d) $33.15 \\times 10^{-34} \\mathrm{~m}$\n\n**97. একটি কণার মোট শক্তি এর ছিদ্র অবস্থার শহিদ্র দিগন্ত। কণাটির দ্রুতি হবে?**\n- a) $2.6 \\times 10^{8} \\mathrm{~m/s}$\n- b) $2.9 \\times 10^{8} \\mathrm{~m/s}$\n- c) $3.0 \\times 10^{8} \\mathrm{~m/s}$\n- d) $6.0 \\times 10^{8} \\mathrm{~m/s}$\n\n**98. এক্স-রশ্মি কে অবিক্রম করেন?**\n- a) বেকেলের\n- b) মেরী কুইনি\n- c) গ্রনজেন\n- d) ডন লাউ\n\n**99. এক্স-রশ্মির তরঙ্গদৈর্ঘ্য 3 Å হলে এর কম্পাঙ্ক কত?**\n- a) $10^{15} \\mathrm{Hz}$\n- b) $10^{16} \\mathrm{Hz}$\n- c) $10^{18} \\mathrm{Hz}$\n- d) $10^{21} \\mathrm{Hz}$\n\n**100. এক্স-রে এর একক হলো—**\n- a) বেকেলের\n- b) নিউটন\n- c) রনজেন\n- d) ডোল্ট\n\n**101. ক্যাথোড রশ্মি কী?**\n- a) প্রোটিন\n- b) নিউট্রন\n- c) ইলেকট্রন\n- d) বোসন\n\n**102. নিচের কোনটি তেজক্রিয়া রশ্মি নয়?**\n- a) γ-রশ্মি\n- b) X-রশ্মি\n- c) α-রশ্মি\n- d) β-রশ্মি\n\n**103. নিচের কোন রশ্মি দ্বারা রঞ্জন রশ্মি উৎপন্ন করা হয়?**\n- a) বিটা\n- b) ক্যাথোড\n- c) গামা\n- d) আলফা\n\n**108. এক্স রশ্মি হচ্ছে—**\n- a) লক্ষিক তরঙ্গ\n- b) যাত্রিক তরঙ্গ\n- c) আড় তরঙ্গ\n- d) অবলোহিত তরঙ্গ\n\n[Board Exam Year: 2017-18]\n\n[Board Exam Year: 2017-18]\n[Board Exam Year: 2017-18]\n[Board Exam Year: 2017-18]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "##### আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "structured_data": {},
+          "id": "1164bf69-c867-55c0-b06d-35c4f3165d49"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "**91. নোবের যৌথকার্য অনুসারে অনুমোদিত কক্ষপথে ইলেকট্রনের কৌণিক ভরবেগ কত?**\n- a) $L = \\frac{\\pi}{h}$\n- b) $L = \\frac{n h}{2 \\pi}$\n- c) $L = \\frac{2 n \\pi}{h}$\n- d) $L = \\frac{2 h}{n \\pi}$",
+          "structured_data": {},
+          "id": "5bfce718-31ba-58ef-9b3f-98b6071b487d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "**92. 10 MeV গতিশক্তি নিয়ে চলমান ইলেকট্রনের ভর কত?**\n- a) $10.51 m_0$\n- b) $15.51 m_0$\n- c) $20.51 m_0$\n- d) কোনওটিই নয়",
+          "structured_data": {},
+          "id": "f3bfcd25-135b-5935-b80b-f52ce04ac24d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "**93. একটি হাইড্রজেনের পরমাণু উত্তেজিত অবস্থায় থেকে জুমি অবস্থায় ফিরে আসলে?**\n- a) ফোটন শোষণ করে\n- b) ফোটন নিষ্কাশন করে\n- c) শক্তি শোষণ করে\n- d) অয়নিত হয়",
+          "structured_data": {},
+          "id": "aad52465-5963-525f-84e4-f4f148e7303d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "**98. কম্পটন তরঙ্গদৈর্ঘ্যের সমীকরণ কোনটি?**\n- a) $\\lambda_{c} = \\frac{m_{o} c^{2}}{e V}$\n- b) $\\lambda_{c} = \\frac{m_{o} e v}{c}$\n- c) $\\lambda_{c} = \\frac{e^2}{m o c}$\n- d) $\\lambda_{c} = \\frac{e^2}{m_o c^2}$",
+          "structured_data": {},
+          "id": "94e468b2-8ac2-590d-869a-d81057837203"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "**95. একটি ইলেকট্রনকে V বিভব পার্থক্যের মধ্যে রাখলে, ইলেকট্রনের বেগ v এবং প্রাথমিক বিভব পার্থক্যের মধ্যে সম্পর্ক কোনটি?**\n- a) $v = \\sqrt{\\frac{e V}{m}}$\n- b) $v = \\sqrt{\\frac{2 e V}{m}}$\n- c) $v = \\frac{e V^2}{m}$\n- d) $v = \\frac{1}{2} m V^2$",
+          "structured_data": {},
+          "id": "f926ea9e-c406-5403-aa05-b4d4cfdcdbf3"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "**96. 1g ভরের 1 টি কণা 2000 ms^{-1} বেগে গতিশীল। কণাটির সাথে সংশ্লিষ্ট তরঙ্গদৈর্ঘ্য কত হবে?**\n- a) $3.315 \\times 10^{-33} \\mathrm{~m}$\n- b) $3.315 \\times 10^{-34} \\mathrm{~m}$\n- c) $33.15 \\times 10^{-33} \\mathrm{~m}$\n- d) $33.15 \\times 10^{-34} \\mathrm{~m}$",
+          "structured_data": {},
+          "id": "ffb78014-c1ea-5506-902f-dbc8608284f5"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "**97. একটি কণার মোট শক্তি এর ছিদ্র অবস্থার শহিদ্র দিগন্ত। কণাটির দ্রুতি হবে?**\n- a) $2.6 \\times 10^{8} \\mathrm{~m/s}$\n- b) $2.9 \\times 10^{8} \\mathrm{~m/s}$\n- c) $3.0 \\times 10^{8} \\mathrm{~m/s}$\n- d) $6.0 \\times 10^{8} \\mathrm{~m/s}$",
+          "structured_data": {},
+          "id": "36b64e4f-4561-57e2-9848-d7482a95ca9f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "**98. এক্স-রশ্মি কে অবিক্রম করেন?**\n- a) বেকেলের\n- b) মেরী কুইনি\n- c) গ্রনজেন\n- d) ডন লাউ",
+          "structured_data": {},
+          "id": "2e786212-022a-5769-975b-267f5e80ef93"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "**99. এক্স-রশ্মির তরঙ্গদৈর্ঘ্য 3 Å হলে এর কম্পাঙ্ক কত?**\n- a) $10^{15} \\mathrm{Hz}$\n- b) $10^{16} \\mathrm{Hz}$\n- c) $10^{18} \\mathrm{Hz}$\n- d) $10^{21} \\mathrm{Hz}$",
+          "structured_data": {},
+          "id": "364e1a55-23b1-5253-a8ae-f1993cf2e557"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "**100. এক্স-রে এর একক হলো—**\n- a) বেকেলের\n- b) নিউটন\n- c) রনজেন\n- d) ডোল্ট",
+          "structured_data": {},
+          "id": "b4cdb243-feee-5ae9-a035-7310fbc25e76"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "**101. ক্যাথোড রশ্মি কী?**\n- a) প্রোটিন\n- b) নিউট্রন\n- c) ইলেকট্রন\n- d) বোসন",
+          "structured_data": {},
+          "id": "9e072433-1a3b-540e-8d3c-48d63b895f52"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "**102. নিচের কোনটি তেজক্রিয়া রশ্মি নয়?**\n- a) γ-রশ্মি\n- b) X-রশ্মি\n- c) α-রশ্মি\n- d) β-রশ্মি",
+          "structured_data": {},
+          "id": "31e2c0cd-6fb1-5806-9eba-2e70a33fa68d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "**103. নিচের কোন রশ্মি দ্বারা রঞ্জন রশ্মি উৎপন্ন করা হয়?**\n- a) বিটা\n- b) ক্যাথোড\n- c) গামা\n- d) আলফা",
+          "structured_data": {},
+          "id": "e167d537-e52c-5af4-8db6-5c2cbd039c5d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "**108. এক্স রশ্মি হচ্ছে—**\n- a) লক্ষিক তরঙ্গ\n- b) যাত্রিক তরঙ্গ\n- c) আড় তরঙ্গ\n- d) অবলোহিত তরঙ্গ",
+          "structured_data": {},
+          "id": "61385075-8521-5c2e-90d2-2cebc5dd7f92"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "[Board Exam Year: 2017-18]",
+          "structured_data": {},
+          "id": "b20b9d45-df78-56b9-8596-4924edc43673"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "362",
+          "content_markdown": "[Board Exam Year: 2017-18]\n[Board Exam Year: 2017-18]\n[Board Exam Year: 2017-18]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]\n[Board Exam Year: 2018-19]",
+          "structured_data": {},
+          "id": "1038c613-e2e7-5198-9658-1da47accf3ed"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 17,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 68.41,
+        "eval_count": 2135
+      }
+    },
+    {
+      "page_number": 6,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q118\n**Type:** mcq\n**Stem:** দুটি ফোটন পরস্পর বিপরীত দিকে চলছে। একটির আরেকটির সাপেক্ষে আপেক্ষিক বেগ কত?\n- a) শূন্য\n- b) C\n- c) $\\sqrt{2}e$\n- d) 2c\n\n**Answer:** -a)\n\n**Solution:** দুইটি ফোটন পরস্পর বিপরীত দিকে চলছে। একটির আরেকটির সাপেক্ষে আপেক্ষিক বেগ শূন্য।\n\n**Tags:** অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা, হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত, পদার্থবিজ্ঞান, আমির হোসেন\n\n### Q115\n**Type:** mcq\n**Stem:** আলোক তড়িৎ ক্রিয়ায় আপতিত ফোটন?\n- a) সম্পূর্ণ বিলুপ্ত হয়\n- b) কম কম্পাঙ্খহস্ত প্রতিফলিত হয়\n- c) বেশি কম্পাঙ্খহস্ত প্রতিফলিত হয়\n- d) অপরিবর্তিত কম্পাঙ্খে প্রতিফলিত হয়\n\n**Answer:** -b)\n\n**Solution:** আলোক তড়িৎ ক্রিয়ায় আপতিত ফোটন কম কম্পাঙ্খহস্ত প্রতিফলিত হয়।\n\n**Tags:** অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা, হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত, পদার্থবিজ্ঞান, আমির হোসেন\n\n### Q116\n**Type:** mcq\n**Stem:** যদি হাইড্রোজেন পরমপুরুষ ভূমিকার শক্তি $13.6\\,\\mathrm{eV}$ হয় তবে প্রথম উদ্দীপিত He + আয়নের শক্তি কত?\n- a) $-13.6\\,\\mathrm{eV}$\n- b) $-27.2\\,\\mathrm{eV}$\n- c) $-54.4\\,\\mathrm{eV}$\n- d) $-6.8\\,\\mathrm{eV}$\n\n**Answer:** -d)\n\n**Solution:** যদি হাইড্রোজেন পরমপুরুষ ভূমিকার শক্তি $13.6\\,\\mathrm{eV}$ হয় তবে প্রথম উদ্দীপিত He + আয়নের শক্তি $-6.8\\,\\mathrm{eV}$।\n\n**Tags:** অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা, হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত, পদার্থবিজ্ঞান, আমির হোসেন\n\n### Q117\n**Type:** mcq\n**Stem:** যে ধাতুর কার্য আপেক্ষিক W। তার ক্ষেত্রে সূচন তরঙ্গদৈর্ঘ্য λ। কার্য আপেক্ষিক 2W হলে সূচন তরঙ্গদৈর্ঘ্য?\n- a) λ\n- b) 2λ\n- c) $\\frac{\\lambda}{2}$\n- d) $\\frac{\\lambda}{4}$\n\n**Answer:** -c)\n\n**Solution:** যে ধাতুর কার্য আপেক্ষিক W। তার ক্ষেত্রে সূচন তরঙ্গদৈর্ঘ্য λ। কার্য আপেক্ষিক 2W হলে সূচন তরঙ্গদৈর্ঘ্য $\\frac{\\lambda}{2}$।\n\n**Tags:** অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা, হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত, পদার্থবিজ্ঞান, আমির হোসেন\n\n### Q118\n**Type:** mcq\n**Stem:** কোনো তড়িৎচুম্বকীয় বিকিরণের ক্ষেত্রে ফোটনের ভরবেগ $33\\times 10^{-29}\\,\\mathrm{kgms^{-1}}$। সংশ্লিষ্ট তরঙ্গের কম্পাঙ্খ?\n- a) $3.0\\times 10^{3}\\,\\mathrm{Hz}$\n- b) $6.0\\times 10^{3}\\,\\mathrm{Hz}$\n- c) $7.5\\times 10^{12}\\,\\mathrm{Hz}$\n- d) $1.5\\times 10^{13}\\,\\mathrm{Hz}$\n\n**Answer:** -d)\n\n**Solution:** কোনো তড়িৎচুম্বকীয় বিকিরণের ক্ষেত্রে ফোটনের ভরবেগ $33\\times 10^{-29}\\,\\mathrm{kgms^{-1}}$। সংশ্লিষ্ট তরঙ্গের কম্পাঙ্খ $1.5\\times 10^{13}\\,\\mathrm{Hz}$।\n\n**Tags:** অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা, হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত, পদার্থবিজ্ঞান, আমির হোসেন\n\n### Q119\n**Type:** mcq\n**Stem:** আলোক তড়িৎ ক্রিয়া প্রমাণ করে যে, আলো?\n- a) অপরিদৃষ্ট তরঙ্গ\n- b) তির্যক তরঙ্গ\n- c) ফোটন প্রোট\n- d) কোনোটিই নয়\n\n**Answer:** -a)\n\n**Solution:** আলোক তড়িৎ ক্রিয়া প্রমাণ করে যে, আলো অপরিদৃষ্ট তরঙ্গ।\n\n**Tags:** অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা, হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত, পদার্থবিজ্ঞান, আমির হোসেন",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q118",
+          "content_markdown": "দুটি ফোটন পরস্পর বিপরীত দিকে চলছে। একটির আরেকটির সাপেক্ষে আপেক্ষিক বেগ কত?",
+          "structured_data": {
+            "question_number": "118",
+            "subtype": "mcq",
+            "stem": "দুটি ফোটন পরস্পর বিপরীত দিকে চলছে। একটির আরেকটির সাপেক্ষে আপেক্ষিক বেগ কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "শূন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "C",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\sqrt{2}e$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "2c",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": "দুইটি ফোটন পরস্পর বিপরীত দিকে চলছে। একটির আরেকটির সাপেক্ষে আপেক্ষিক বেগ শূন্য।",
+            "tags_raw": "অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা, হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত, পদার্থবিজ্ঞান, আমির হোসেন",
+            "provenance": [
+              "অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা",
+              "হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত",
+              "পদার্থবিজ্ঞান",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "e638d9a4-0961-5337-a569-4151a0de4ae2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q115",
+          "content_markdown": "আলোক তড়িৎ ক্রিয়ায় আপতিত ফোটন?",
+          "structured_data": {
+            "question_number": "115",
+            "subtype": "mcq",
+            "stem": "আলোক তড়িৎ ক্রিয়ায় আপতিত ফোটন?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সম্পূর্ণ বিলুপ্ত হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কম কম্পাঙ্খহস্ত প্রতিফলিত হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বেশি কম্পাঙ্খহস্ত প্রতিফলিত হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অপরিবর্তিত কম্পাঙ্খে প্রতিফলিত হয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": "আলোক তড়িৎ ক্রিয়ায় আপতিত ফোটন কম কম্পাঙ্খহস্ত প্রতিফলিত হয়।",
+            "tags_raw": "অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা, হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত, পদার্থবিজ্ঞান, আমির হোসেন",
+            "provenance": [
+              "অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা",
+              "হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত",
+              "পদার্থবিজ্ঞান",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "a889b6e8-8d6c-5ae2-a1c8-d275fa5a3605"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q116",
+          "content_markdown": "যদি হাইড্রোজেন পরমপুরুষ ভূমিকার শক্তি $13.6\\,\\mathrm{eV}$ হয় তবে প্রথম উদ্দীপিত He + আয়নের শক্তি কত?",
+          "structured_data": {
+            "question_number": "116",
+            "subtype": "mcq",
+            "stem": "যদি হাইড্রোজেন পরমপুরুষ ভূমিকার শক্তি $13.6\\,\\mathrm{eV}$ হয় তবে প্রথম উদ্দীপিত He + আয়নের শক্তি কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$-13.6\\,\\mathrm{eV}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$-27.2\\,\\mathrm{eV}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$-54.4\\,\\mathrm{eV}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$-6.8\\,\\mathrm{eV}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)",
+            "solution_markdown": "যদি হাইড্রোজেন পরমপুরুষ ভূমিকার শক্তি $13.6\\,\\mathrm{eV}$ হয় তবে প্রথম উদ্দীপিত He + আয়নের শক্তি $-6.8\\,\\mathrm{eV}$।",
+            "tags_raw": "অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা, হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত, পদার্থবিজ্ঞান, আমির হোসেন",
+            "provenance": [
+              "অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা",
+              "হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত",
+              "পদার্থবিজ্ঞান",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "3ca5eb0c-06ea-543d-a58d-9620538401e3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q117",
+          "content_markdown": "যে ধাতুর কার্য আপেক্ষিক W। তার ক্ষেত্রে সূচন তরঙ্গদৈর্ঘ্য λ। কার্য আপেক্ষিক 2W হলে সূচন তরঙ্গদৈর্ঘ্য?",
+          "structured_data": {
+            "question_number": "117",
+            "subtype": "mcq",
+            "stem": "যে ধাতুর কার্য আপেক্ষিক W। তার ক্ষেত্রে সূচন তরঙ্গদৈর্ঘ্য λ। কার্য আপেক্ষিক 2W হলে সূচন তরঙ্গদৈর্ঘ্য?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "λ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2λ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{\\lambda}{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\frac{\\lambda}{4}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": "যে ধাতুর কার্য আপেক্ষিক W। তার ক্ষেত্রে সূচন তরঙ্গদৈর্ঘ্য λ। কার্য আপেক্ষিক 2W হলে সূচন তরঙ্গদৈর্ঘ্য $\\frac{\\lambda}{2}$।",
+            "tags_raw": "অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা, হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত, পদার্থবিজ্ঞান, আমির হোসেন",
+            "provenance": [
+              "অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা",
+              "হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত",
+              "পদার্থবিজ্ঞান",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "8ada1ba9-f390-5ea6-a790-183d589f7a31"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q118",
+          "content_markdown": "কোনো তড়িৎচুম্বকীয় বিকিরণের ক্ষেত্রে ফোটনের ভরবেগ $33\\times 10^{-29}\\,\\mathrm{kgms^{-1}}$। সংশ্লিষ্ট তরঙ্গের কম্পাঙ্খ?",
+          "structured_data": {
+            "question_number": "118",
+            "subtype": "mcq",
+            "stem": "কোনো তড়িৎচুম্বকীয় বিকিরণের ক্ষেত্রে ফোটনের ভরবেগ $33\\times 10^{-29}\\,\\mathrm{kgms^{-1}}$। সংশ্লিষ্ট তরঙ্গের কম্পাঙ্খ?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$3.0\\times 10^{3}\\,\\mathrm{Hz}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$6.0\\times 10^{3}\\,\\mathrm{Hz}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$7.5\\times 10^{12}\\,\\mathrm{Hz}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$1.5\\times 10^{13}\\,\\mathrm{Hz}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)",
+            "solution_markdown": "কোনো তড়িৎচুম্বকীয় বিকিরণের ক্ষেত্রে ফোটনের ভরবেগ $33\\times 10^{-29}\\,\\mathrm{kgms^{-1}}$। সংশ্লিষ্ট তরঙ্গের কম্পাঙ্খ $1.5\\times 10^{13}\\,\\mathrm{Hz}$।",
+            "tags_raw": "অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা, হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত, পদার্থবিজ্ঞান, আমির হোসেন",
+            "provenance": [
+              "অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা",
+              "হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত",
+              "পদার্থবিজ্ঞান",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "a4b2af4c-3fd5-5424-aa9c-d8f2b364ae1d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q119",
+          "content_markdown": "আলোক তড়িৎ ক্রিয়া প্রমাণ করে যে, আলো?",
+          "structured_data": {
+            "question_number": "119",
+            "subtype": "mcq",
+            "stem": "আলোক তড়িৎ ক্রিয়া প্রমাণ করে যে, আলো?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অপরিদৃষ্ট তরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তির্যক তরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ফোটন প্রোট",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোনোটিই নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": "আলোক তড়িৎ ক্রিয়া প্রমাণ করে যে, আলো অপরিদৃষ্ট তরঙ্গ।",
+            "tags_raw": "অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা, হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত, পদার্থবিজ্ঞান, আমির হোসেন",
+            "provenance": [
+              "অধিক মৌলিক পদার্থবিজ্ঞানের সূচনা",
+              "হিউম্যান ড্রাইভড বৈজ্ঞানিক গণিত",
+              "পদার্থবিজ্ঞান",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "2153fe5b-98cd-5159-b7eb-ab542e72ee0e"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 6,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 35.6,
+        "eval_count": 2227
+      }
+    },
+    {
+      "page_number": 7,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q137\n**Type:** mcq\n**Stem:** কোনো ধাতব পুঠে আপতিত ফটৌনের শক্তি কার্য অপেক্ষকের দ্বিগুণ। আপতিত আলোর তরঙ্গদৈর্ঘ্য কতগুলি করলে দ্রুততম ফটৌনের গতিশক্তি দ্বিগুণ হবে?\n**Options:** \n- a) $\\frac{3}{2}$ ওগৎ\n- b) $\\frac{2}{3}$ ওগৎ\n- c) $\\frac{1}{2}$ ওগৎ\n- d) 2 ওগৎ\n\n**Answer:** a)\n\n**Solution:** \n\nএই প্রশ্নটি একটি মাইথোলজিক্যাল প্রশ্ন। কোনো ধাতব পুঠে আপতিত ফটৌনের শক্তি কার্য অপেক্ষকের দ্বিগুণ হওয়ার কারণ বিবরণ দেওয়া ছিল না। তবে উপরের তিনটি সংজ্ঞায় দেখা যাচ্ছে যে তরঙ্গদৈর্ঘ্য কমে যাওয়ার ফলে ফটৌনের গতিশক্তি বাড়ে। তাই উত্তর হল:\n\n- a) $\\frac{3}{2}$ ওগৎ\n\n**Tags:** আধুনিক পদার্থবিজ্ঞানের সচলা | আমির হোসেন | 2018-19/20",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q137",
+          "content_markdown": "কোনো ধাতব পুঠে আপতিত ফটৌনের শক্তি কার্য অপেক্ষকের দ্বিগুণ। আপতিত আলোর তরঙ্গদৈর্ঘ্য কতগুলি করলে দ্রুততম ফটৌনের গতিশক্তি দ্বিগুণ হবে?",
+          "structured_data": {
+            "question_number": "137",
+            "subtype": "mcq",
+            "stem": "কোনো ধাতব পুঠে আপতিত ফটৌনের শক্তি কার্য অপেক্ষকের দ্বিগুণ। আপতিত আলোর তরঙ্গদৈর্ঘ্য কতগুলি করলে দ্রুততম ফটৌনের গতিশক্তি দ্বিগুণ হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{3}{2}$ ওগৎ",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{2}{3}$ ওগৎ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{1}{2}$ ওগৎ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "2 ওগৎ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a)",
+            "solution_markdown": "এই প্রশ্নটি একটি মাইথোলজিক্যাল প্রশ্ন। কোনো ধাতব পুঠে আপতিত ফটৌনের শক্তি কার্য অপেক্ষকের দ্বিগুণ হওয়ার কারণ বিবরণ দেওয়া ছিল না। তবে উপরের তিনটি সংজ্ঞায় দেখা যাচ্ছে যে তরঙ্গদৈর্ঘ্য কমে যাওয়ার ফলে ফটৌনের গতিশক্তি বাড়ে। তাই উত্তর হল:\n\n- a) $\\frac{3}{2}$ ওগৎ",
+            "tags_raw": "আধুনিক পদার্থবিজ্ঞানের সচলা | আমির হোসেন | 2018-19/20",
+            "provenance": [
+              "আধুনিক পদার্থবিজ্ঞানের সচলা | আমির হোসেন | 2018-19/20"
+            ]
+          },
+          "id": "09cca407-1fab-506f-a41f-80afd2501d2a"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 1,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 61.25,
+        "eval_count": 551
+      }
+    },
+    {
+      "page_number": 8,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q160\n**Type:** mcq\n**Stem:** $\\lambda_{\\mathrm{x}} \\propto T^{4}$ সূত্রটি প্রদান করেন-\n**Options:** \n- a) রয়ালেজিস\n- b) ফ্রাঙ্ক\n- c) স্টেফান\n- d) গোইন\n\n**Answer:** g) স্টেফান\n**Solution:** স্টেফান 1879 সালে এই সূত্রটি প্রদান করেছিলেন।\n**Tags:** শহজাহান তন্দন\n\n### Q161\n**Type:** mcq\n**Stem:** প্লায়ের প্রক্ষেপের একটি নিচের কৌণ রাস্তার এককের সমান?\n**Options:** \n- a) শক্তি\n- b) ডরবেগ\n- c) কৌণিক ভরবেগ\n- d) কম্পাঙ্ক\n\n**Answer:** c) কৌণিক ভরবেগ\n**Solution:** প্লায়ের প্রক্ষেপের একটি নিচের কৌণ রাস্তার একক হচ্ছে কৌণিক ভরবেগ।\n**Tags:** শহজাহান তন্দন\n\n### Q162\n**Type:** mcq\n**Stem:** কোনো ধাতবপৃষ্ঠ হতে ইলেকট্রন নির্মিতনের যন্তনা কখন ঘটে?\n**Options:** \n- a) যখন এটি উচ্চতাপমাত্রা উত্পন্ন করে\n- b) যখন এর ওপর উপযুক্ত বেগের ইলেকট্রন আমাত করে\n- c) যখন উপযুক্ত তরঙ্গদৈর্ঘ্যের আলো এর ওপর আপত্তি হয়\n- d) যখন এটি একটি শক্তিশালী তড়িৎক্ষেত্রে রাখা হয়\n\n**Answer:** c) যখন উপযুক্ত তরঙ্গদৈর্ঘ্যের আলো এর ওপর আপত্তি হয়\n**Solution:** কোনো ধাতবপৃষ্ঠ হতে ইলেকট্রন নির্মিতনের যন্তনা ঘটে যখন উপযুক্ত তরঙ্গদৈর্ঘ্যের আলো এর ওপর আপত্তি হয়।\n**Tags:** শহজাহান তন্দন\n\n### Q163\n**Type:** mcq\n**Stem:** নিচের কৌণটি ব্যাখ্যা করতে আলোকে ফোটনের স্রোত হিসেবে বিবেচনা করতে হয়?\n**Options:** \n- a) আলোক তড়িৎ ক্রিয়া\n- b) আলোর অপবর্তন\n- c) আলোর সম্বর্ণ\n- d) আলোর ব্যতিচার\n\n**Answer:** a) আলোক তড়িৎ ক্রিয়া\n**Solution:** আলোকে ফোটনের স্রোত হিসেবে বিবেচনা করতে আলোক তড়িৎ ক্রিয়া ব্যাখ্যা করতে হয়।\n**Tags:** শহজাহান তন্দন\n\n### Q164\n**Type:** mcq\n**Stem:** তড়িত্তীক্ষ বিকিরণের কৌণ ধর্ম দ্বারা ফোটাড়িৎ ক্রিয়া ব্যাখ্যা করা যায়?\n**Options:** \n- a) এটি আতরঙ্গ\n- b) এটি লাইক্র তরঙ্গ\n- c) এটি ফোটনের সমষ্টি\n- d) এটি ফোটনের সমষ্টি\n\n**Answer:** c) এটি ফোটনের সমষ্টি\n**Solution:** তড়িত্তীক্ষ বিকিরণের কৌণ ধর্ম দ্বারা ফোটাড়িৎ ক্রিয়া ব্যাখ্যা করা যায় এটি ফোটনের সমষ্টি।\n**Tags:** শহজাহান তন্দন\n\n### Q165\n**Type:** mcq\n**Stem:** বিকিরণের কৌণ পরিবর্তন যাতে আলোক তড়িৎ ক্রিয়া ক্রিয়া নিঃসৃত ইলেকট্রনের গতিশক্তি বৃদ্ধি পায়?\n**Options:** \n- a) তরঙ্গদৈর্ঘ্য বৃদ্ধি করলে\n- b) তরঙ্গদৈর্ঘ্য কমিয়ে করলে\n- c) কম্পাঙ্ক বৃদ্ধি করলে\n- d) তরঙ্গদৈর্ঘ্য ও কম্পাঙ্ক উভয়ই বৃদ্ধি করলে\n\n**Answer:** d) তরঙ্গদৈর্ঘ্য ও কম্পাঙ্ক উভয়ই বৃদ্ধি করলে\n**Solution:** বিকিরণের কৌণ পরিবর্তন যাতে আলোক তড়িৎ ক্রিয়া ক্রিয়া নিঃসৃত ইলেকট্রনের গতিশক্তি বৃদ্ধি পায়, তরঙ্গদৈর্ঘ্য ও কম্পাঙ্ক উভয়ই বৃদ্ধি করলে।\n**Tags:** শামসুর রহমান, শাহজাহান তন্দন\n\n### Q166\n**Type:** mcq\n**Stem:** $f$ কম্পাঙ্কের একটি ফোটন একটি ধাতবপৃষ্ঠের ওপর আপত্তি হলে যার সূচন কম্পাঙ্ক$f_{0}$। নিঃসৃত ইলেকট্রনের সর্বশেষ গতিশক্তি কত? (জ.বি.: ১৮-১৯)\n**Options:** \n- a) $\\mathrm{h}\\left(f-f_{0}\\right)$\n- b) $\\frac{1}{2} \\mathrm{~h}(f+f_{0})$\n- c) $\\frac{1}{2} h\\left(f-f_{0}\\right)$\n- d) $\\sqrt{\\frac{m}{e}}$\n\n**Answer:** c) $\\frac{1}{2} h\\left(f-f_{0}\\right)$\n**Solution:** নিঃসৃত ইলেকট্রনের সর্বশেষ গতিশক্তি হল $\\frac{1}{2} h\\left(f-f_{0}\\right)$।\n**Tags:** শামসুর রহমান, শাহজাহান তন্দন\n\n### Q167\n**Type:** mcq\n**Stem:** নিবৃত্ত দিব্য $V$ ও ইলেকট্রনের বেগ $v$-এর মধ্যে সম্পর্ক হলো-\n(জ.বি: ১৫)\n**Options:** \n- a) $v=\\sqrt{\\frac{e V}{m}}$\n- b) $v=\\sqrt{\\frac{V}{m}}$\n- c) $v=\\sqrt{\\frac{m}{e V}}$\n- d) $v=\\sqrt{\\frac{m}{2 e V}}$\n\n**Answer:** a) $v=\\sqrt{\\frac{e V}{m}}$\n**Solution:** নিবৃত্ত দিব্য $V$ ও ইলেকট্রনের বেগ $v$-এর মধ্যে সম্পর্ক হলো $v=\\sqrt{\\frac{e V}{m}}$।\n**Tags:** শামসুর রহমান, শাহজাহান তন্দন\n\n### Q168\n**Type:** mcq\n**Stem:** কত eV শক্তির তড়িত্তীক্ষকীয় রশ্মি দ্বারা আলোক তড়িৎ ক্রিয়া সঞ্জব?\n(জ.বি: ১৮-২০)\n**Options:** \n- a) 1.25\n- b) 0.5\n- c) 1.0\n- d) 2.5\n\n**Answer:** a) 1.25\n**Solution:** কত eV শক্তির তড়িত্তীক্ষকীয় রশ্মি দ্বারা আলোক তড়িৎ ক্রিয়া সঞ্জব 1.25 eV।\n**Tags:** শামসুর রহমান, শাহজাহান তন্দন\n\n### Q169\n**Type:** mcq\n**Stem:** কম্পটন ক্রিয়া কোন তন্ত্রের সাহায্যে ব্যাখ্যা করা যায়?\n**Options:** \n- a) কণা তন্ত্র\n- b) তরঙ্গ তন্ত্র\n- c) কোয়ান্টাম তন্ত্র\n- d) তড়িত্থুক তন্ত্র\n\n**Answer:** c) কোয়ান্টাম তন্ত্র\n**Solution:** কম্পটন ক্রিয়া কোয়ান্টাম তন্ত্রের সাহায্যে ব্যাখ্যা করা যায়।\n**Tags:** শাহজাহান তন্দন\n\n### Q170\n**Type:** mcq\n**Stem:** ইলেকট্রনের সাথে সংখ্যার ফলে ফোটনের তরঙ্গদৈর্ঘ্যের পরিবর্তনকে বলা হয়-\n(জ.বি: ১৭-১৮)\n**Options:** \n- a) ডি ব্রোগ্লির তরঙ্গ\n- b) কম্পটনের প্রভাব\n- c) হাইজেনবার্গের অনিচ্ছয়ার নীতি\n- d) কোয়ান্টাম তন্ত্র\n\n**Answer:** b) কম্পটনের প্রভাব\n**Solution:** ইলেকট্রনের সাথে সংখ্যার ফলে ফোটনের তরঙ্গদৈর্ঘ্যের পরিবর্তনকে কম্পটনের প্রভাব বলা হয়।\n**Tags:** শাহজাহান তন্দন",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q160",
+          "content_markdown": "$\\lambda_{\\mathrm{x}} \\propto T^{4}$ সূত্রটি প্রদান করেন-",
+          "structured_data": {
+            "question_number": "160",
+            "subtype": "mcq",
+            "stem": "$\\lambda_{\\mathrm{x}} \\propto T^{4}$ সূত্রটি প্রদান করেন-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "রয়ালেজিস",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ফ্রাঙ্ক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "স্টেফান",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "গোইন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "g) স্টেফান",
+            "solution_markdown": "স্টেফান 1879 সালে এই সূত্রটি প্রদান করেছিলেন।",
+            "tags_raw": "শহজাহান তন্দন",
+            "provenance": [
+              "শহজাহান তন্দন"
+            ]
+          },
+          "id": "f1cd2d23-764b-5661-adba-e6a83f96eaf6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q161",
+          "content_markdown": "প্লায়ের প্রক্ষেপের একটি নিচের কৌণ রাস্তার এককের সমান?",
+          "structured_data": {
+            "question_number": "161",
+            "subtype": "mcq",
+            "stem": "প্লায়ের প্রক্ষেপের একটি নিচের কৌণ রাস্তার এককের সমান?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "শক্তি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ডরবেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কৌণিক ভরবেগ",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "কম্পাঙ্ক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) কৌণিক ভরবেগ",
+            "solution_markdown": "প্লায়ের প্রক্ষেপের একটি নিচের কৌণ রাস্তার একক হচ্ছে কৌণিক ভরবেগ।",
+            "tags_raw": "শহজাহান তন্দন",
+            "provenance": [
+              "শহজাহান তন্দন"
+            ]
+          },
+          "id": "f7eda8be-b561-5e27-976d-978f3dcad661"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q162",
+          "content_markdown": "কোনো ধাতবপৃষ্ঠ হতে ইলেকট্রন নির্মিতনের যন্তনা কখন ঘটে?",
+          "structured_data": {
+            "question_number": "162",
+            "subtype": "mcq",
+            "stem": "কোনো ধাতবপৃষ্ঠ হতে ইলেকট্রন নির্মিতনের যন্তনা কখন ঘটে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "যখন এটি উচ্চতাপমাত্রা উত্পন্ন করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "যখন এর ওপর উপযুক্ত বেগের ইলেকট্রন আমাত করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "যখন উপযুক্ত তরঙ্গদৈর্ঘ্যের আলো এর ওপর আপত্তি হয়",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "যখন এটি একটি শক্তিশালী তড়িৎক্ষেত্রে রাখা হয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) যখন উপযুক্ত তরঙ্গদৈর্ঘ্যের আলো এর ওপর আপত্তি হয়",
+            "solution_markdown": "কোনো ধাতবপৃষ্ঠ হতে ইলেকট্রন নির্মিতনের যন্তনা ঘটে যখন উপযুক্ত তরঙ্গদৈর্ঘ্যের আলো এর ওপর আপত্তি হয়।",
+            "tags_raw": "শহজাহান তন্দন",
+            "provenance": [
+              "শহজাহান তন্দন"
+            ]
+          },
+          "id": "59a1d44b-71cd-51ee-ba89-a59f3f8c935c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q163",
+          "content_markdown": "নিচের কৌণটি ব্যাখ্যা করতে আলোকে ফোটনের স্রোত হিসেবে বিবেচনা করতে হয়?",
+          "structured_data": {
+            "question_number": "163",
+            "subtype": "mcq",
+            "stem": "নিচের কৌণটি ব্যাখ্যা করতে আলোকে ফোটনের স্রোত হিসেবে বিবেচনা করতে হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আলোক তড়িৎ ক্রিয়া",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "আলোর অপবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আলোর সম্বর্ণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "আলোর ব্যতিচার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) আলোক তড়িৎ ক্রিয়া",
+            "solution_markdown": "আলোকে ফোটনের স্রোত হিসেবে বিবেচনা করতে আলোক তড়িৎ ক্রিয়া ব্যাখ্যা করতে হয়।",
+            "tags_raw": "শহজাহান তন্দন",
+            "provenance": [
+              "শহজাহান তন্দন"
+            ]
+          },
+          "id": "3e94931a-caf4-5637-894f-c3721319da81"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q164",
+          "content_markdown": "তড়িত্তীক্ষ বিকিরণের কৌণ ধর্ম দ্বারা ফোটাড়িৎ ক্রিয়া ব্যাখ্যা করা যায়?",
+          "structured_data": {
+            "question_number": "164",
+            "subtype": "mcq",
+            "stem": "তড়িত্তীক্ষ বিকিরণের কৌণ ধর্ম দ্বারা ফোটাড়িৎ ক্রিয়া ব্যাখ্যা করা যায়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "এটি আতরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "এটি লাইক্র তরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "এটি ফোটনের সমষ্টি",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "এটি ফোটনের সমষ্টি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) এটি ফোটনের সমষ্টি",
+            "solution_markdown": "তড়িত্তীক্ষ বিকিরণের কৌণ ধর্ম দ্বারা ফোটাড়িৎ ক্রিয়া ব্যাখ্যা করা যায় এটি ফোটনের সমষ্টি।",
+            "tags_raw": "শহজাহান তন্দন",
+            "provenance": [
+              "শহজাহান তন্দন"
+            ]
+          },
+          "id": "351cd2a2-c8bd-5d20-9f15-a0793d3d9b38"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q165",
+          "content_markdown": "বিকিরণের কৌণ পরিবর্তন যাতে আলোক তড়িৎ ক্রিয়া ক্রিয়া নিঃসৃত ইলেকট্রনের গতিশক্তি বৃদ্ধি পায়?",
+          "structured_data": {
+            "question_number": "165",
+            "subtype": "mcq",
+            "stem": "বিকিরণের কৌণ পরিবর্তন যাতে আলোক তড়িৎ ক্রিয়া ক্রিয়া নিঃসৃত ইলেকট্রনের গতিশক্তি বৃদ্ধি পায়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "তরঙ্গদৈর্ঘ্য বৃদ্ধি করলে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তরঙ্গদৈর্ঘ্য কমিয়ে করলে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কম্পাঙ্ক বৃদ্ধি করলে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "তরঙ্গদৈর্ঘ্য ও কম্পাঙ্ক উভয়ই বৃদ্ধি করলে",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d) তরঙ্গদৈর্ঘ্য ও কম্পাঙ্ক উভয়ই বৃদ্ধি করলে",
+            "solution_markdown": "বিকিরণের কৌণ পরিবর্তন যাতে আলোক তড়িৎ ক্রিয়া ক্রিয়া নিঃসৃত ইলেকট্রনের গতিশক্তি বৃদ্ধি পায়, তরঙ্গদৈর্ঘ্য ও কম্পাঙ্ক উভয়ই বৃদ্ধি করলে।",
+            "tags_raw": "শামসুর রহমান, শাহজাহান তন্দন",
+            "provenance": [
+              "শামসুর রহমান",
+              "শাহজাহান তন্দন"
+            ]
+          },
+          "id": "80777dc9-fd5b-5145-8c46-10e0f08124f0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q166",
+          "content_markdown": "$f$ কম্পাঙ্কের একটি ফোটন একটি ধাতবপৃষ্ঠের ওপর আপত্তি হলে যার সূচন কম্পাঙ্ক$f_{0}$। নিঃসৃত ইলেকট্রনের সর্বশেষ গতিশক্তি কত? (জ.বি.: ১৮-১৯)",
+          "structured_data": {
+            "question_number": "166",
+            "subtype": "mcq",
+            "stem": "$f$ কম্পাঙ্কের একটি ফোটন একটি ধাতবপৃষ্ঠের ওপর আপত্তি হলে যার সূচন কম্পাঙ্ক$f_{0}$। নিঃসৃত ইলেকট্রনের সর্বশেষ গতিশক্তি কত? (জ.বি.: ১৮-১৯)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\mathrm{h}\\left(f-f_{0}\\right)$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{1}{2} \\mathrm{~h}(f+f_{0})$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{1}{2} h\\left(f-f_{0}\\right)$",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "$\\sqrt{\\frac{m}{e}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) $\\frac{1}{2} h\\left(f-f_{0}\\right)$",
+            "solution_markdown": "নিঃসৃত ইলেকট্রনের সর্বশেষ গতিশক্তি হল $\\frac{1}{2} h\\left(f-f_{0}\\right)$।",
+            "tags_raw": "শামসুর রহমান, শাহজাহান তন্দন",
+            "provenance": [
+              "শামসুর রহমান",
+              "শাহজাহান তন্দন"
+            ]
+          },
+          "id": "469a49b7-b011-5e5b-8fe8-f8b69da5077c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q167",
+          "content_markdown": "নিবৃত্ত দিব্য $V$ ও ইলেকট্রনের বেগ $v$-এর মধ্যে সম্পর্ক হলো-\n(জ.বি: ১৫)",
+          "structured_data": {
+            "question_number": "167",
+            "subtype": "mcq",
+            "stem": "নিবৃত্ত দিব্য $V$ ও ইলেকট্রনের বেগ $v$-এর মধ্যে সম্পর্ক হলো-\n(জ.বি: ১৫)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$v=\\sqrt{\\frac{e V}{m}}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "$v=\\sqrt{\\frac{V}{m}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$v=\\sqrt{\\frac{m}{e V}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$v=\\sqrt{\\frac{m}{2 e V}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) $v=\\sqrt{\\frac{e V}{m}}$",
+            "solution_markdown": "নিবৃত্ত দিব্য $V$ ও ইলেকট্রনের বেগ $v$-এর মধ্যে সম্পর্ক হলো $v=\\sqrt{\\frac{e V}{m}}$।",
+            "tags_raw": "শামসুর রহমান, শাহজাহান তন্দন",
+            "provenance": [
+              "শামসুর রহমান",
+              "শাহজাহান তন্দন"
+            ]
+          },
+          "id": "1220f4a6-170b-5697-821e-1a97bca1a436"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q168",
+          "content_markdown": "কত eV শক্তির তড়িত্তীক্ষকীয় রশ্মি দ্বারা আলোক তড়িৎ ক্রিয়া সঞ্জব?\n(জ.বি: ১৮-২০)",
+          "structured_data": {
+            "question_number": "168",
+            "subtype": "mcq",
+            "stem": "কত eV শক্তির তড়িত্তীক্ষকীয় রশ্মি দ্বারা আলোক তড়িৎ ক্রিয়া সঞ্জব?\n(জ.বি: ১৮-২০)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1.25",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "0.5",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "1.0",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "2.5",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) 1.25",
+            "solution_markdown": "কত eV শক্তির তড়িত্তীক্ষকীয় রশ্মি দ্বারা আলোক তড়িৎ ক্রিয়া সঞ্জব 1.25 eV।",
+            "tags_raw": "শামসুর রহমান, শাহজাহান তন্দন",
+            "provenance": [
+              "শামসুর রহমান",
+              "শাহজাহান তন্দন"
+            ]
+          },
+          "id": "784bbe10-e47e-56ae-bd31-b6d6760931bd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q169",
+          "content_markdown": "কম্পটন ক্রিয়া কোন তন্ত্রের সাহায্যে ব্যাখ্যা করা যায়?",
+          "structured_data": {
+            "question_number": "169",
+            "subtype": "mcq",
+            "stem": "কম্পটন ক্রিয়া কোন তন্ত্রের সাহায্যে ব্যাখ্যা করা যায়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কণা তন্ত্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তরঙ্গ তন্ত্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কোয়ান্টাম তন্ত্র",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "তড়িত্থুক তন্ত্র",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) কোয়ান্টাম তন্ত্র",
+            "solution_markdown": "কম্পটন ক্রিয়া কোয়ান্টাম তন্ত্রের সাহায্যে ব্যাখ্যা করা যায়।",
+            "tags_raw": "শাহজাহান তন্দন",
+            "provenance": [
+              "শাহজাহান তন্দন"
+            ]
+          },
+          "id": "f5e28f95-cad6-5d33-95c4-cec152cab765"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q170",
+          "content_markdown": "ইলেকট্রনের সাথে সংখ্যার ফলে ফোটনের তরঙ্গদৈর্ঘ্যের পরিবর্তনকে বলা হয়-\n(জ.বি: ১৭-১৮)",
+          "structured_data": {
+            "question_number": "170",
+            "subtype": "mcq",
+            "stem": "ইলেকট্রনের সাথে সংখ্যার ফলে ফোটনের তরঙ্গদৈর্ঘ্যের পরিবর্তনকে বলা হয়-\n(জ.বি: ১৭-১৮)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ডি ব্রোগ্লির তরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কম্পটনের প্রভাব",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "হাইজেনবার্গের অনিচ্ছয়ার নীতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোয়ান্টাম তন্ত্র",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b) কম্পটনের প্রভাব",
+            "solution_markdown": "ইলেকট্রনের সাথে সংখ্যার ফলে ফোটনের তরঙ্গদৈর্ঘ্যের পরিবর্তনকে কম্পটনের প্রভাব বলা হয়।",
+            "tags_raw": "শাহজাহান তন্দন",
+            "provenance": [
+              "শাহজাহান তন্দন"
+            ]
+          },
+          "id": "e1ca439f-fe7d-577a-b5b5-9117998dc2e1"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 11,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 85.18,
+        "eval_count": 3558
+      }
+    },
+    {
+      "page_number": 9,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থ ২য় পত্র\n\n#### আধুনিক পদার্থবিজ্ঞানের সূচনা\n\n| প্রশ্ন | **Type:** mcq | **Stem:** একটি ফোটনের শক্তি পরিবর্তন হয় কৌণটির সাথে? |\n| --- | --- | --- |\n| - a) কম্পাঙ্ক | - b) ভরবেগে | - c) গতি | - d) নিচল ভর |\n\n| প্রশ্ন | **Type:** mcq | **Stem:** ফোটাইলেক্ট্রনের সর্দৈচ্ছ গতি আপতিত বিকিরণের তীব্রতায় - |\n| --- | --- | --- |\n| - a) সমানুপাতিক | - b) ব্যাতিনুপাতিক | - c) ওপর নির্ভর করে না | - d) বর্গের সমানুপাতিক |\n\n| প্রশ্ন | **Type:** mcq | **Stem:** শূন্যছান্দে সকল ফোটনের ক্ষেত্রে নিচের কোন রশিটি সমান থাকে? |\n| --- | --- | --- |\n| - a) বেগ | - b) শক্তি | - c) কম্পাঙ্ক | - d) তরঙ্গদৈর্ঘ্য |\n\n| প্রশ্ন | **Type:** mcq | **Stem:** একটি ফোটনের ভর কত? |\n| --- | --- | --- |\n| - a) ফোটনের ভর নেই | - b) ইলেক্ট্রনের ভরের সমান | - c) কম্পাঙ্কের ওপর নির্ভর করে | - d) শক্তির ওপর নির্ভর করে |\n\n| প্রশ্ন | **Type:** mcq | **Stem:** নিচের কোনটি ফোটনের ভর বেগ? |\n| --- | --- | --- |\n| - a) p = $\\frac{\\hbar}{\\lambda}$ | - b) $\\frac{h\\nu}{c^2}$ | - c) $\\frac{hc}{\\lambda}$ | - d) $\\frac{c^2}{hn}$ |\n\n| প্রশ্ন | **Type:** mcq | **Stem:** একটি ফোটনের তরঙ্গদৈর্ঘ্য $7\\times10^{-7}\\,\\mathrm{m}$ ফোটনটির কম্পাঙ্ক কত? |\n| --- | --- | --- |\n| - a) $4.285\\times10^{14}Hz$ | - b) $8\\times10^{14}Hz$ | - c) $3.28\\times10^{15}Hz$ | - d) $2.8\\times10^{18}Hz$\n\n| প্রশ্ন | **Type:** mcq | **Stem:** আপতিত বিকিরণের কম্পাঙ্ক সূচন কম্পাঙ্কের চেয়ে নেহি হলে আলোক তড়িৎ অত্রিমিত্র সংখ্যিত হবে-\n| --- | --- | --- |\n| - a) দীর্ঘ | - b) খুর্ড | - c) ক্রমাধ্যে | - d) তাত্ক্ষণিকভাবে |\n\n| প্রশ্ন | **Type:** mcq | **Stem:** অডিওট্রায়মে কতজন দর্শক চুক্তছেন বা বের হচ্ছেন তা গণনার জন্য স্বয়ংক্রিয় যথেষ্ট নিচের কোনটি ব্যবহৃত হয় ? [Medical; 18-19] |\n| --- | --- | --- |\n| - a) সুফ কোয় | - b) আলোকে তড়িৎ কোয় | - c) এক্স-রে | - d) গামা-রে |\n\n| প্রশ্ন | **Type:** mcq | **Stem:** 0.5 kms${^-1}$ বেগে গতিশীল একটি ইলেক্ট্রনের ডি ব্রগলি তরঙ্গদৈর্ঘ্য সমান?\n| --- | --- | --- |\n| - a) $1.5\\times10^{-6}\\,\\mathrm{m}$ | - b) $1.5\\times10^{-8}\\,\\mathrm{m}$ | - c) $1.5\\times10^{-10}\\,\\mathrm{m}$ | - d) $1.5\\times10^{-12}\\,\\mathrm{m}$ |\n\n| প্রশ্ন | **Type:** mcq | **Stem:** একটি 10eV ইলেক্ট্রনের ডি-ব্রগলি তরঙ্গদৈর্ঘ্য হবে?\n| --- | --- | --- |\n| - a) 1240 Å | - b) 1 Å | - c) 3.88 Å | - d) 0.55 Å |\n\n| প্রশ্ন | **Type:** mcq | **Stem:** একটি গতিশীল ইলেক্ট্রনের ডি ব্রগলি তরঙ্গদৈর্ঘ্য λ হলে এর শক্তি কত?\n| --- | --- | --- |\n| - a) $\\frac{\\lambda}{2m}$ | - b) $\\frac{h^2}{2mλ}$ | - c) $\\frac{h^2}{2λ^2}$ | - d) $\\frac{h^2}{2mλ^2}$ |\n\n| প্রশ্ন | **Type:** mcq | **Stem:** একটি ইলেক্ট্রন প্রোটার ডি ব্রগলি তরঙ্গদৈর্ঘ্য Α হলে নিবৃত্তি বিভদ?\n| --- | --- | --- |\n| - a) 12.3V | - b) 123V | - c) 151V | - d) 1505V |\n\n| প্রশ্ন | **Type:** mcq | **Stem:** প্রত্যেকের গতিবেগে একই হলে কোন কণার ডি ব্রগলি তরঙ্গদৈর্ঘ্য সব থেকে দীর্ঘ হবে?\n| --- | --- | --- |\n| - a) ইলেক্ট্রন | - b) প্রোটান | - c) α-কণা | - d) অক্সিজেন পরমাণু |\n\n| প্রশ্ন | **Type:** mcq | **Stem:** m ভরের একটি কণা E গতিশীলতে চলছে। এর সঙ্গে জড়িত ডি ব্রগলি তরঙ্গদৈর্ঘ্য কত?\n| --- | --- | --- |\n| - a) $\\sqrt{\\frac{h}{2mE}}$ | - b) $\\sqrt{\\frac{h}{2mE}}$ | - c) $\\frac{1}{2mE}$ | - d) $\\frac{\\sqrt{E}}{2mE}$\n\n| প্রশ্ন | **Type:** mcq | **Stem:** 9.11 × 10${^-31}$ kg ভরবিশিষ্ট একটি ইলেক্ট্রন যদি 2.5 × 10${^6}$ ms${^-1}$ বেগে চলে তাহলে এর ডি ব্রগলি তরঙ্গের তরঙ্গদৈর্ঘ্য কত হবে?\n| --- | --- | --- |\n| - a) 2.9 × 10${^-4}$ m | - b) 2.4 × 10${^-8}$ m | - c) 2.9 × 10${^-10}$ m | - d) 2.4 × 10${^-39}$ m\n\n| প্রশ্ন | **Type:** mcq | **Stem:** হাইজেনবার্গের অনিশ্চয়তা নীতি অনুসারী অবধানে অনিশ্চয়তা শূন্য হলে ভরবেগের অনিশ্চয়তা কত হবে?\n| --- | --- | --- |\n| - a) শূন্য | - b) অসীম | - c) সমীম | - d) $\\frac{h}{2λ}$\n\n| প্রশ্ন | **Type:** mcq | **Stem:** কোনো মূখু ইলেক্ট্রনের গতিশীলতা ছিলেন এর দ্য ড্রগলি (de Broglie) তরঙ্গদৈর্ঘ্য যে গুণাঙ্ক দ্বারা পরিবর্তিত হয় তা হলো?\n| --- | --- | --- |\n| - a) $\\frac{1}{2}$ | - b) $\\frac{1}{\\sqrt{2}}$ | - c) 2 | - d) $\\sqrt{2}$\n\n| প্রশ্ন | **Type:** mcq | **Stem:** ইলেক্ট্রনের গতিশীল 500eV হলে এর ডি ব্রগলি তরঙ্গদৈর্ঘ্য?\n| --- | --- | --- |\n| - a) 0.55Å | - b) 1.55Å | - c) 2.55Å | - d) 3.55Å\n\n| প্রশ্ন | **Type:** mcq | **Stem:** ডি ব্রগলি তরঙ্গদৈর্ঘ্যের সমীকরণ কোনটি? (স. বো: 2016, ঢ. বো: 2017)\n| --- | --- | --- |\n| - a) λ = $\\frac{E}{p}$ | - b) λ = $\\frac{h}{p}$ | - c) λ = $\\frac{h}{m_0c}$ | - d) λ = $\\frac{h}{mc^2}$\n\n| প্রশ্ন | **Type:** mcq | **Stem:** শক্তি ও সময়ের অনিশ্চয়তা হলো-\n| --- | --- | --- |\n| - a) ΔE . Δt ≈ ħ | - b) ΔE . Δt ≈ h | - c) ΔE . Δt ≥ $\\frac{ħ}{2}$ | - d) ΔE . Δt < ħ\n\n| প্রশ্ন | **Type:** mcq | **Stem:** একটি ইলেক্ট্রনের গতিশীলতা 3 গুণ হলে এর সঙ্গে সঠিক ডি ব্রগলি তরঙ্গদৈর্ঘ্য কত গুণ হবে?\n| --- | --- | --- |\n| - a) $\\frac{1}{3}$ | - b) $\\sqrt{3}$ | - c) $\\frac{1}{\\sqrt{3}}$ | - d) 3\n\n| প্রশ্ন | **Type:** mcq | **Stem:** যদি λα , λβ , λγ যথাক্রমে একই শক্তির α কণার, প্রোটান কণার এবং ইলেক্ট্রনের ডি ব্রগলি তরঙ্গ দৈর্ঘ্য হয় তবে-\n| --- | --- | --- |\n| - a) λα > λβ > λγ | - b) λε > λβ > λα | - c) λε = λβ = λα | - d) λα > λβ > λε\n\n| প্রশ্ন | **Type:** mcq | **Stem:** 'একটি কণার অবধান ও ভরবেগ একই সাথে জানা অসম্ভব'- এটি কোন বিজ্ঞানীর তত্ত্ব ? [চ. বো: 19]\n| --- | --- | --- |\n| - a) হাইজেনবার্গ | - b) ডি ব্রগলি | - c) মায়ারওয়েল | - d) নিউটন",
+      "blocks": [
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** একটি ফোটনের শক্তি পরিবর্তন হয় কৌণটির সাথে? |\n| --- | --- | --- |\n| - a) কম্পাঙ্ক | - b) ভরবেগে | - c) গতি | - d) নিচল ভর |",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** একটি ফোটনের শক্তি পরিবর্তন হয় কৌণটির সাথে?"
+            ],
+            "rows": [
+              [
+                "- a) কম্পাঙ্ক",
+                "- b) ভরবেগে",
+                "- c) গতি",
+                "- d) নিচল ভর"
+              ]
+            ]
+          },
+          "id": "aa62cabc-06c3-564f-b9bb-0e56d747382a"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** ফোটাইলেক্ট্রনের সর্দৈচ্ছ গতি আপতিত বিকিরণের তীব্রতায় - |\n| --- | --- | --- |\n| - a) সমানুপাতিক | - b) ব্যাতিনুপাতিক | - c) ওপর নির্ভর করে না | - d) বর্গের সমানুপাতিক |",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** ফোটাইলেক্ট্রনের সর্দৈচ্ছ গতি আপতিত বিকিরণের তীব্রতায় -"
+            ],
+            "rows": [
+              [
+                "- a) সমানুপাতিক",
+                "- b) ব্যাতিনুপাতিক",
+                "- c) ওপর নির্ভর করে না",
+                "- d) বর্গের সমানুপাতিক"
+              ]
+            ]
+          },
+          "id": "57a1c3fe-e242-509a-9366-66b68c08d76c"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** শূন্যছান্দে সকল ফোটনের ক্ষেত্রে নিচের কোন রশিটি সমান থাকে? |\n| --- | --- | --- |\n| - a) বেগ | - b) শক্তি | - c) কম্পাঙ্ক | - d) তরঙ্গদৈর্ঘ্য |",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** শূন্যছান্দে সকল ফোটনের ক্ষেত্রে নিচের কোন রশিটি সমান থাকে?"
+            ],
+            "rows": [
+              [
+                "- a) বেগ",
+                "- b) শক্তি",
+                "- c) কম্পাঙ্ক",
+                "- d) তরঙ্গদৈর্ঘ্য"
+              ]
+            ]
+          },
+          "id": "27202ae3-e298-535f-a170-686a400c67c2"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** একটি ফোটনের ভর কত? |\n| --- | --- | --- |\n| - a) ফোটনের ভর নেই | - b) ইলেক্ট্রনের ভরের সমান | - c) কম্পাঙ্কের ওপর নির্ভর করে | - d) শক্তির ওপর নির্ভর করে |",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** একটি ফোটনের ভর কত?"
+            ],
+            "rows": [
+              [
+                "- a) ফোটনের ভর নেই",
+                "- b) ইলেক্ট্রনের ভরের সমান",
+                "- c) কম্পাঙ্কের ওপর নির্ভর করে",
+                "- d) শক্তির ওপর নির্ভর করে"
+              ]
+            ]
+          },
+          "id": "6ee4cd1b-c8a0-5396-a237-ecd649892a03"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** নিচের কোনটি ফোটনের ভর বেগ? |\n| --- | --- | --- |\n| - a) p = $\\frac{\\hbar}{\\lambda}$ | - b) $\\frac{h\\nu}{c^2}$ | - c) $\\frac{hc}{\\lambda}$ | - d) $\\frac{c^2}{hn}$ |",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** নিচের কোনটি ফোটনের ভর বেগ?"
+            ],
+            "rows": [
+              [
+                "- a) p = $\\frac{\\hbar}{\\lambda}$",
+                "- b) $\\frac{h\\nu}{c^2}$",
+                "- c) $\\frac{hc}{\\lambda}$",
+                "- d) $\\frac{c^2}{hn}$"
+              ]
+            ]
+          },
+          "id": "ef6d775c-9dfc-50b2-bd65-e11d7e96a0d6"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** একটি ফোটনের তরঙ্গদৈর্ঘ্য $7\\times10^{-7}\\,\\mathrm{m}$ ফোটনটির কম্পাঙ্ক কত? |\n| --- | --- | --- |\n| - a) $4.285\\times10^{14}Hz$ | - b) $8\\times10^{14}Hz$ | - c) $3.28\\times10^{15}Hz$ | - d) $2.8\\times10^{18}Hz$",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** একটি ফোটনের তরঙ্গদৈর্ঘ্য $7\\times10^{-7}\\,\\mathrm{m}$ ফোটনটির কম্পাঙ্ক কত?"
+            ],
+            "rows": [
+              [
+                "- a) $4.285\\times10^{14}Hz$",
+                "- b) $8\\times10^{14}Hz$",
+                "- c) $3.28\\times10^{15}Hz$",
+                "- d) $2.8\\times10^{18}Hz$"
+              ]
+            ]
+          },
+          "id": "e678e560-355b-5e6b-8c60-3763a2bba1c9"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** আপতিত বিকিরণের কম্পাঙ্ক সূচন কম্পাঙ্কের চেয়ে নেহি হলে আলোক তড়িৎ অত্রিমিত্র সংখ্যিত হবে-\n| --- | --- | --- |\n| - a) দীর্ঘ | - b) খুর্ড | - c) ক্রমাধ্যে | - d) তাত্ক্ষণিকভাবে |",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** আপতিত বিকিরণের কম্পাঙ্ক সূচন কম্পাঙ্কের চেয়ে নেহি হলে আলোক তড়িৎ অত্রিমিত্র সংখ্যিত হবে-"
+            ],
+            "rows": [
+              [
+                "- a) দীর্ঘ",
+                "- b) খুর্ড",
+                "- c) ক্রমাধ্যে",
+                "- d) তাত্ক্ষণিকভাবে"
+              ]
+            ]
+          },
+          "id": "89880261-b7de-5686-92ca-4d22a9867eb3"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** অডিওট্রায়মে কতজন দর্শক চুক্তছেন বা বের হচ্ছেন তা গণনার জন্য স্বয়ংক্রিয় যথেষ্ট নিচের কোনটি ব্যবহৃত হয় ? [Medical; 18-19] |\n| --- | --- | --- |\n| - a) সুফ কোয় | - b) আলোকে তড়িৎ কোয় | - c) এক্স-রে | - d) গামা-রে |",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** অডিওট্রায়মে কতজন দর্শক চুক্তছেন বা বের হচ্ছেন তা গণনার জন্য স্বয়ংক্রিয় যথেষ্ট নিচের কোনটি ব্যবহৃত হয় ? [Medical; 18-19]"
+            ],
+            "rows": [
+              [
+                "- a) সুফ কোয়",
+                "- b) আলোকে তড়িৎ কোয়",
+                "- c) এক্স-রে",
+                "- d) গামা-রে"
+              ]
+            ]
+          },
+          "id": "1d56b1af-e750-5ebf-8677-5440037df422"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** 0.5 kms${^-1}$ বেগে গতিশীল একটি ইলেক্ট্রনের ডি ব্রগলি তরঙ্গদৈর্ঘ্য সমান?\n| --- | --- | --- |\n| - a) $1.5\\times10^{-6}\\,\\mathrm{m}$ | - b) $1.5\\times10^{-8}\\,\\mathrm{m}$ | - c) $1.5\\times10^{-10}\\,\\mathrm{m}$ | - d) $1.5\\times10^{-12}\\,\\mathrm{m}$ |",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** 0.5 kms${^-1}$ বেগে গতিশীল একটি ইলেক্ট্রনের ডি ব্রগলি তরঙ্গদৈর্ঘ্য সমান?"
+            ],
+            "rows": [
+              [
+                "- a) $1.5\\times10^{-6}\\,\\mathrm{m}$",
+                "- b) $1.5\\times10^{-8}\\,\\mathrm{m}$",
+                "- c) $1.5\\times10^{-10}\\,\\mathrm{m}$",
+                "- d) $1.5\\times10^{-12}\\,\\mathrm{m}$"
+              ]
+            ]
+          },
+          "id": "e1f6f0e3-1687-517a-9a38-946c3d244441"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** একটি 10eV ইলেক্ট্রনের ডি-ব্রগলি তরঙ্গদৈর্ঘ্য হবে?\n| --- | --- | --- |\n| - a) 1240 Å | - b) 1 Å | - c) 3.88 Å | - d) 0.55 Å |",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** একটি 10eV ইলেক্ট্রনের ডি-ব্রগলি তরঙ্গদৈর্ঘ্য হবে?"
+            ],
+            "rows": [
+              [
+                "- a) 1240 Å",
+                "- b) 1 Å",
+                "- c) 3.88 Å",
+                "- d) 0.55 Å"
+              ]
+            ]
+          },
+          "id": "7712e163-3d6c-5f2d-ab17-a2c5b2575107"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** একটি গতিশীল ইলেক্ট্রনের ডি ব্রগলি তরঙ্গদৈর্ঘ্য λ হলে এর শক্তি কত?\n| --- | --- | --- |\n| - a) $\\frac{\\lambda}{2m}$ | - b) $\\frac{h^2}{2mλ}$ | - c) $\\frac{h^2}{2λ^2}$ | - d) $\\frac{h^2}{2mλ^2}$ |",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** একটি গতিশীল ইলেক্ট্রনের ডি ব্রগলি তরঙ্গদৈর্ঘ্য λ হলে এর শক্তি কত?"
+            ],
+            "rows": [
+              [
+                "- a) $\\frac{\\lambda}{2m}$",
+                "- b) $\\frac{h^2}{2mλ}$",
+                "- c) $\\frac{h^2}{2λ^2}$",
+                "- d) $\\frac{h^2}{2mλ^2}$"
+              ]
+            ]
+          },
+          "id": "aa4cac89-a931-5daf-b0f1-59b60c525ddc"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** একটি ইলেক্ট্রন প্রোটার ডি ব্রগলি তরঙ্গদৈর্ঘ্য Α হলে নিবৃত্তি বিভদ?\n| --- | --- | --- |\n| - a) 12.3V | - b) 123V | - c) 151V | - d) 1505V |",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** একটি ইলেক্ট্রন প্রোটার ডি ব্রগলি তরঙ্গদৈর্ঘ্য Α হলে নিবৃত্তি বিভদ?"
+            ],
+            "rows": [
+              [
+                "- a) 12.3V",
+                "- b) 123V",
+                "- c) 151V",
+                "- d) 1505V"
+              ]
+            ]
+          },
+          "id": "9218e81e-20ca-5b03-a1c0-426ed9fb75ac"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** প্রত্যেকের গতিবেগে একই হলে কোন কণার ডি ব্রগলি তরঙ্গদৈর্ঘ্য সব থেকে দীর্ঘ হবে?\n| --- | --- | --- |\n| - a) ইলেক্ট্রন | - b) প্রোটান | - c) α-কণা | - d) অক্সিজেন পরমাণু |",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** প্রত্যেকের গতিবেগে একই হলে কোন কণার ডি ব্রগলি তরঙ্গদৈর্ঘ্য সব থেকে দীর্ঘ হবে?"
+            ],
+            "rows": [
+              [
+                "- a) ইলেক্ট্রন",
+                "- b) প্রোটান",
+                "- c) α-কণা",
+                "- d) অক্সিজেন পরমাণু"
+              ]
+            ]
+          },
+          "id": "c7b6971e-ad26-5aae-b982-069e63a32b75"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** m ভরের একটি কণা E গতিশীলতে চলছে। এর সঙ্গে জড়িত ডি ব্রগলি তরঙ্গদৈর্ঘ্য কত?\n| --- | --- | --- |\n| - a) $\\sqrt{\\frac{h}{2mE}}$ | - b) $\\sqrt{\\frac{h}{2mE}}$ | - c) $\\frac{1}{2mE}$ | - d) $\\frac{\\sqrt{E}}{2mE}$",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** m ভরের একটি কণা E গতিশীলতে চলছে। এর সঙ্গে জড়িত ডি ব্রগলি তরঙ্গদৈর্ঘ্য কত?"
+            ],
+            "rows": [
+              [
+                "- a) $\\sqrt{\\frac{h}{2mE}}$",
+                "- b) $\\sqrt{\\frac{h}{2mE}}$",
+                "- c) $\\frac{1}{2mE}$",
+                "- d) $\\frac{\\sqrt{E}}{2mE}$"
+              ]
+            ]
+          },
+          "id": "ab8f0a40-396b-52e8-b0ea-897a599f7ded"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** 9.11 × 10${^-31}$ kg ভরবিশিষ্ট একটি ইলেক্ট্রন যদি 2.5 × 10${^6}$ ms${^-1}$ বেগে চলে তাহলে এর ডি ব্রগলি তরঙ্গের তরঙ্গদৈর্ঘ্য কত হবে?\n| --- | --- | --- |\n| - a) 2.9 × 10${^-4}$ m | - b) 2.4 × 10${^-8}$ m | - c) 2.9 × 10${^-10}$ m | - d) 2.4 × 10${^-39}$ m",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** 9.11 × 10${^-31}$ kg ভরবিশিষ্ট একটি ইলেক্ট্রন যদি 2.5 × 10${^6}$ ms${^-1}$ বেগে চলে তাহলে এর ডি ব্রগলি তরঙ্গের তরঙ্গদৈর্ঘ্য কত হবে?"
+            ],
+            "rows": [
+              [
+                "- a) 2.9 × 10${^-4}$ m",
+                "- b) 2.4 × 10${^-8}$ m",
+                "- c) 2.9 × 10${^-10}$ m",
+                "- d) 2.4 × 10${^-39}$ m"
+              ]
+            ]
+          },
+          "id": "3e944611-555b-5015-b1f1-abf4c7a65702"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** হাইজেনবার্গের অনিশ্চয়তা নীতি অনুসারী অবধানে অনিশ্চয়তা শূন্য হলে ভরবেগের অনিশ্চয়তা কত হবে?\n| --- | --- | --- |\n| - a) শূন্য | - b) অসীম | - c) সমীম | - d) $\\frac{h}{2λ}$",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** হাইজেনবার্গের অনিশ্চয়তা নীতি অনুসারী অবধানে অনিশ্চয়তা শূন্য হলে ভরবেগের অনিশ্চয়তা কত হবে?"
+            ],
+            "rows": [
+              [
+                "- a) শূন্য",
+                "- b) অসীম",
+                "- c) সমীম",
+                "- d) $\\frac{h}{2λ}$"
+              ]
+            ]
+          },
+          "id": "94f40db7-e2f5-5913-9c8e-7100aa2326ec"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** কোনো মূখু ইলেক্ট্রনের গতিশীলতা ছিলেন এর দ্য ড্রগলি (de Broglie) তরঙ্গদৈর্ঘ্য যে গুণাঙ্ক দ্বারা পরিবর্তিত হয় তা হলো?\n| --- | --- | --- |\n| - a) $\\frac{1}{2}$ | - b) $\\frac{1}{\\sqrt{2}}$ | - c) 2 | - d) $\\sqrt{2}$",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** কোনো মূখু ইলেক্ট্রনের গতিশীলতা ছিলেন এর দ্য ড্রগলি (de Broglie) তরঙ্গদৈর্ঘ্য যে গুণাঙ্ক দ্বারা পরিবর্তিত হয় তা হলো?"
+            ],
+            "rows": [
+              [
+                "- a) $\\frac{1}{2}$",
+                "- b) $\\frac{1}{\\sqrt{2}}$",
+                "- c) 2",
+                "- d) $\\sqrt{2}$"
+              ]
+            ]
+          },
+          "id": "e00ab29d-fc57-5039-9564-29b2ad89bac4"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** ইলেক্ট্রনের গতিশীল 500eV হলে এর ডি ব্রগলি তরঙ্গদৈর্ঘ্য?\n| --- | --- | --- |\n| - a) 0.55Å | - b) 1.55Å | - c) 2.55Å | - d) 3.55Å",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** ইলেক্ট্রনের গতিশীল 500eV হলে এর ডি ব্রগলি তরঙ্গদৈর্ঘ্য?"
+            ],
+            "rows": [
+              [
+                "- a) 0.55Å",
+                "- b) 1.55Å",
+                "- c) 2.55Å",
+                "- d) 3.55Å"
+              ]
+            ]
+          },
+          "id": "05da7f38-6fd6-52c0-a83c-7617f6142383"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** ডি ব্রগলি তরঙ্গদৈর্ঘ্যের সমীকরণ কোনটি? (স. বো: 2016, ঢ. বো: 2017)\n| --- | --- | --- |\n| - a) λ = $\\frac{E}{p}$ | - b) λ = $\\frac{h}{p}$ | - c) λ = $\\frac{h}{m_0c}$ | - d) λ = $\\frac{h}{mc^2}$",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** ডি ব্রগলি তরঙ্গদৈর্ঘ্যের সমীকরণ কোনটি? (স. বো: 2016, ঢ. বো: 2017)"
+            ],
+            "rows": [
+              [
+                "- a) λ = $\\frac{E}{p}$",
+                "- b) λ = $\\frac{h}{p}$",
+                "- c) λ = $\\frac{h}{m_0c}$",
+                "- d) λ = $\\frac{h}{mc^2}$"
+              ]
+            ]
+          },
+          "id": "4ecfa7ba-05b5-5167-86ec-cf3b608e2400"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** শক্তি ও সময়ের অনিশ্চয়তা হলো-\n| --- | --- | --- |\n| - a) ΔE . Δt ≈ ħ | - b) ΔE . Δt ≈ h | - c) ΔE . Δt ≥ $\\frac{ħ}{2}$ | - d) ΔE . Δt < ħ",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** শক্তি ও সময়ের অনিশ্চয়তা হলো-"
+            ],
+            "rows": [
+              [
+                "- a) ΔE . Δt ≈ ħ",
+                "- b) ΔE . Δt ≈ h",
+                "- c) ΔE . Δt ≥ $\\frac{ħ}{2}$",
+                "- d) ΔE . Δt < ħ"
+              ]
+            ]
+          },
+          "id": "b8b96e40-5b34-541a-897e-db62f9ae49ad"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** একটি ইলেক্ট্রনের গতিশীলতা 3 গুণ হলে এর সঙ্গে সঠিক ডি ব্রগলি তরঙ্গদৈর্ঘ্য কত গুণ হবে?\n| --- | --- | --- |\n| - a) $\\frac{1}{3}$ | - b) $\\sqrt{3}$ | - c) $\\frac{1}{\\sqrt{3}}$ | - d) 3",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** একটি ইলেক্ট্রনের গতিশীলতা 3 গুণ হলে এর সঙ্গে সঠিক ডি ব্রগলি তরঙ্গদৈর্ঘ্য কত গুণ হবে?"
+            ],
+            "rows": [
+              [
+                "- a) $\\frac{1}{3}$",
+                "- b) $\\sqrt{3}$",
+                "- c) $\\frac{1}{\\sqrt{3}}$",
+                "- d) 3"
+              ]
+            ]
+          },
+          "id": "859731dc-c082-5ee4-a327-edbad245a029"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** যদি λα , λβ , λγ যথাক্রমে একই শক্তির α কণার, প্রোটান কণার এবং ইলেক্ট্রনের ডি ব্রগলি তরঙ্গ দৈর্ঘ্য হয় তবে-\n| --- | --- | --- |\n| - a) λα > λβ > λγ | - b) λε > λβ > λα | - c) λε = λβ = λα | - d) λα > λβ > λε",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** যদি λα , λβ , λγ যথাক্রমে একই শক্তির α কণার, প্রোটান কণার এবং ইলেক্ট্রনের ডি ব্রগলি তরঙ্গ দৈর্ঘ্য হয় তবে-"
+            ],
+            "rows": [
+              [
+                "- a) λα > λβ > λγ",
+                "- b) λε > λβ > λα",
+                "- c) λε = λβ = λα",
+                "- d) λα > λβ > λε"
+              ]
+            ]
+          },
+          "id": "0d1bf08a-6521-5be3-942b-15b41a6eb083"
+        },
+        {
+          "block_type": "table",
+          "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "content_markdown": "| প্রশ্ন | **Type:** mcq | **Stem:** 'একটি কণার অবধান ও ভরবেগ একই সাথে জানা অসম্ভব'- এটি কোন বিজ্ঞানীর তত্ত্ব ? [চ. বো: 19]\n| --- | --- | --- |\n| - a) হাইজেনবার্গ | - b) ডি ব্রগলি | - c) মায়ারওয়েল | - d) নিউটন",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "**Type:** mcq",
+              "**Stem:** 'একটি কণার অবধান ও ভরবেগ একই সাথে জানা অসম্ভব'- এটি কোন বিজ্ঞানীর তত্ত্ব ? [চ. বো: 19]"
+            ],
+            "rows": [
+              [
+                "- a) হাইজেনবার্গ",
+                "- b) ডি ব্রগলি",
+                "- c) মায়ারওয়েল",
+                "- d) নিউটন"
+              ]
+            ]
+          },
+          "id": "0d19fd72-01f3-5736-aeb7-84b1c6597c68"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 23,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 162.39,
+        "eval_count": 3683
+      }
+    }
+  ]
+}

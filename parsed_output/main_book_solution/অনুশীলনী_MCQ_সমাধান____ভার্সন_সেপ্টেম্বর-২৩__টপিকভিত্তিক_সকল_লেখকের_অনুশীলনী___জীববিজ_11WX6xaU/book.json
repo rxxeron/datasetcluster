@@ -1,0 +1,2006 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "11WX6xaUFvpf1utVXNY5PfBwOTiXc7VPC",
+    "collection": "main_book_solution",
+    "subject": "biology",
+    "edition": "2023",
+    "priority_score": 2023092,
+    "path_parts": [
+      "অনুশীলনী MCQ সমাধান",
+      "* ভার্সন সেপ্টেম্বর-২৩",
+      "টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন",
+      "জীববিজ্ঞান",
+      "B-1.8 টিস্যু ও টিস্যুতন্ত্র.pdf"
+    ],
+    "filename": "B-1.8 টিস্যু ও টিস্যুতন্ত্র.pdf",
+    "sha256": "f8e8dad7bb60de0411548db952b2faee696d6cc4359de220bcc75d827f19dea4",
+    "total_pages": 3,
+    "parsed_pages": 3,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 79,
+    "block_counts_by_type": {
+      "concept_prose": 23,
+      "mcq_item": 50,
+      "exercise_solution": 6
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "```none\nঝিবিজ্ঞান প্রথম পত্র\n\nঅষ্টম অধ্যয় : টিস্যু ও টিস্যুত্তর\n\nটিস্যু প্রকারভেদ\n\n01. একই উৎপন্ন থেকে উৎপন্ন এবং একই জৈবিক কর্মে নির্যাতিত\nকোষগুচ্ছকে কী বলে?\n- ক. টিস্যু\n- খ. অ্যা\n- গ. অপ\n- ঘ. বাড়ল\n\n02. ভাজক টিস্যুর কৌণ্ঠমুহু-\n(দ. বো-১৫)\n- ক. অবিভাজনক্ষম\n- খ. পুরু কোষপ্রাচীরবিশিষ্ট\n- গ. আঙ্কোডীয় ফাইবারহীন\n- ঘ. সাইটোপ্রাম যন্ত্র\n\n03. উত্পত্তি অনুসারে ভাজক টিস্যু কৃত প্রকার?\n- ক. ২\n- খ. ৩\n- গ. ৮\n- ঘ. ৫\n\n04. কোষ বিদ্যান অনুসারে ভাজক টিস্যু কৃত প্রকার?\n- ক. ২\n- খ. ৩\n- গ. ৮\n- ঘ. ৫\n\n05. কাজ অনুসারে ভাজক টিস্যুর প্রকার হলো-\n- ক. ২\n- খ. ৩\n- গ. ৮\n- ঘ. ৫\n\n06. প্রাথমিক ভাজক টিস্যুর সৃষ্টি হয় কোনটি থেকে?\n- ক. এপিক্যাল মেরিস্টেম\n- খ. প্রোটোটার্ম\n- গ. প্রোক্যাথিয়ম\n- ঘ. প্রো-মেরিস্টেম\n\n07. উদিনের দৈর্ঘ্য বৃদ্ধির জন্য নিয়মিত টিস্যু কোনটি?\n- ক. ভাজক টিস্যু\n- খ. প্যারানকৈমা\n- গ. কোলেনকৈমা\n- ঘ. জাইলেম টিস্যু\n\n08. তরম মূলে কোন ভাজক টিস্যু দেখা যায়?\n- ক. রিব ভাজক টিস্যু\n- খ. নিবেশিত ভাজক টিস্যু\n- গ. প্লেট ভাজক টিস্যু\n- ঘ. মাস ভাজক টিস্যু (আছিল+মাছে)\n\n09. সরকারি ক্রমে মোটা হয় কোন টিস্যু ফলে?\n- ক. পার্শ্বী ভাজক টিস্যু\n- খ. শীর্ষী ভাজক টিস্যু\n- গ. প্রাইমারি ভাজক টিস্যু\n- ঘ. ইটারক্যালার ভাজক টিস্যু\n\n10. কাঁদের পরিবর্ত্ত বৃদ্ধির জন্য নিচের কোন টিস্যু দায়ী? (দ. বো-২১-২২, দি. বো-১৫)\n- ক. ক্যাথিয়াম\n- খ. জাইলেম\n- গ. ফ্রোয়েম\n- ঘ. কর্টেক্স (আছিল+মাছে+এপিডার্মিস)\n\n11. পাটের আঁশ কোন জাতীয় টিস্যু?\n- ক. সেকেন্ডারি ফ্রোয়েম টিস্যু\n- খ. সেকেন্ডারি জাইলেম টিস্যু\n- গ. প্রাইমারি জাইলেম টিস্যু\n- ঘ. এপিক্যাল মেরিস্টেম (আছিল+মাছে)\n\n12. কোন টিস্যুর কারণে ঢুক ও পাতা সৃষ্টি হয়?\n- ক. প্লেট ভাজক টিস্যু\n- খ. রিব ভাজক টিস্যু\n- গ. মাস ভাজক টিস্যু\n- ঘ. পার্শ্বী ভাজক টিস্যু (আছিল)\n\n13. উদিনের কর্টেক্সে কোন ধরনের ভাজক টিস্যু পাওয়া যায়?\n- ক. প্রোক্যাথিয়ম\n- খ. প্রাইউট মেরিস্টেম\n- গ. ফ্যাসিকুলার ক্যাথিয়াম\n- ঘ. প্রোমেরিস্টেম (আছিল)\n\n14. সেকেন্ডারি ভাজক টিস্যুর উদাহরণ কোনটি?\n- ক. মেরিস্টেম\n- খ. কর্ক ক্যাথিয়াম\n- গ. ফেলোজেন\n- ঘ. কর্টেক্স (আছিল)\n\n15. উদিনের এপিডার্মিস ও এপিলেমা গঠন করে কোনটি?\n- ক. প্রোটোটার্ম\n- খ. প্রোক্যাথিয়ম\n- গ. প্রাইউট মেরিস্টেম\n- ঘ. রিব ভাজক টিস্যু (আছিল+মাছে)\n\n16. প্রোটোটার্ম নিচের কোন অঞ্চল তৈরি করে?\n- ক. ঢুক\n- খ. শাখা\n- গ. পাতা\n- ঘ. মূল (আছিল)\n\n17. পাতা কোন ভাজক টিস্যুর উদাহরণ? (দ. বো-২০১৯)\n- ক. মাস\n- খ. প্রোটোটার্ম\n- গ. প্লেট\n- ঘ. রিব [আছিল+মাছে]\n\n18. কোন ভাজক টিস্যুর কারণে উদিনের আয়তন বৃদ্ধি পায়? (দ. বো-২০১৭)\n- ক. মাস\n- খ. প্রাইমারি\n- গ. প্লেট\n- ঘ. রিব [আছিল+মাছে+এপিডার্মিস+এপিডার্মিস]\n\n### Q19\n**Type:** mcq\n**Stem:** যে ভাজক টিস্যুর কৌণ্ঠগুচ্ছ একত্রে বিভক্তিত হয় তাকে কী বলে?\n(দ. বো-২১, চ. বো-১৬)\n- a) রিব\n- b) পার্শ্বী\n- c) প্লেট\n- d) মাস\n\n### Q20\n**Type:** mcq\n**Stem:** ভাজক বাণিজের সৃষ্টি হয় কোন ধরনের ভাজক টিস্যু হতেছ?\n(দ. ২১)\n- a) প্রোটোডার্ম\n- b) প্রোক্যাথিয়ম\n- c) প্রাউভ মেরিস্টেম\n- d) প্রোমেরিস্টেম\n\n### Q21\n**Type:** mcq\n**Stem:** উদিনের বর্ধিত অংশে কোন টিস্যু থাকে?\n- a) অগ্রস্থ ভাজক টিস্যু\n- b) পার্শ্বী ভাজক টিস্যু\n- g) নিবেশিত ভাজক টিস্যু\n- h) মাস ভাজক টিস্যু\n\n### Q22\n**Type:** mcq\n**Stem:** কর্ক ক্যাথিয়াম কোন ধরনের ভাজক টিস্যু?\n- a) প্রার্থিক\n- b) প্রাইমারি\n- c) সেকেন্ডারি\n- d) টারসিয়ারি\n\n### Q23\n**Type:** mcq\n**Stem:** যে ভাজক টিস্যু বিভক্তিত হয়ে উদিনের তৃতীয় সৃষ্টি করে তাকে কী বলে?\n- a) প্রোটোডাম\n- b) প্রোক্যাথিয়ম\n- g) মাস মেরিস্টেম\n- h) গ্রাইড মেরিস্টেম (অধিষ্ঠিত+বহুল)\n\n### Q24\n**Type:** mcq\n**Stem:** উদিনের অধিষ্ঠিত অংশে কোন টিস্যু থাকে?\n- a) প্রোটোডাম\n- b) প্রোক্যাথিয়ম\n- g) মাস মেরিস্টেম\n- h) গ্রাইড মেরিস্টেম (অধিষ্ঠিত+বহুল)\n\n### Q25\n**Type:** mcq\n**Stem:** কোথায় জাইলেম ইঞ্জেরিং Y বা V আকৃতির?\n- a) একবীজপ্রতী কাগও\n- b) বিবিজপ্রতী কাগও\n- g) একবীজপ্রতী মূল\n- h) বিবিজপ্রতী মূল (আছিল)\n\n### Q26\n**Type:** mcq\n**Stem:** উৎপত্তি অনুযায়ী ভাজক টিস্যুর ধরন কোনটি?\n- a) প্লেট ভাজক টিস্যু\n- b) মাস মেরিস্টেম\n- g) রিব ভাজক টিস্যু\n- h) প্রার্থিক ভাজক টিস্যু (আছিল)\n\n### Q27\n**Type:** mcq\n**Stem:** ক্যাথিয়াম যে ভাজক টিস্যুর উদাহরণ-\n(মেইনক্লাস: ০০-০১)\n- a) শীর্ষী ভাজক টিস্যু\n- b) গ্রাউট ভাজক টিস্যু\n- g) নিবেশিত ভাজক টিস্যু\n- h) পার্শ্বী ভাজক টিস্যু (মিজেনা)\n\n### Q28\n**Type:** mcq\n**Stem:** প্রতিটি কোনে প্রয়োজনীয় পানি পৌঁছে দেওয়ার ভূমিকা পালন করে কোন টিস্যু? (মেইনক্লাস: ০৮-০৫)\n- a) ফ্রোয়েম\n- b) গ্রাউট\n- g) জাইলেম\n- h) এপিডার্মিস (মাছে)\n\n### Q29\n**Type:** mcq\n**Stem:** কোনটি ভাঙ্গুলার বাঁকা তথা পরিবর্তন কলাত্ত্বের বিভিন্ন প্রকারভেদের অঙ্গুলু নয়? (ফেব্রুয়ারি: ০২-০৩)\n- a) সমাপ্তিয়\n- b) সমাধিপ্রায়\n- g) মেডুলারি\n- h) হ্যাড্রোসেন্ট্রিক বা জাইলেম কেন্দ্রিক (মাছে)\n\n### Q30\n**Type:** mcq\n**Stem:** নিচের কোনটি ভাঙ্গুলার বাঁকালের প্রকারভেদে পড়ে নামেছিলেন: ১০-১৬/\n- a) প্রতিসাম্য\n- b) কেন্দ্রিক\n- g) অরীয়",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "```none\nঝিবিজ্ঞান প্রথম পত্র",
+          "structured_data": {},
+          "id": "50fb5c4d-da8f-5f90-9ac7-1afa473de4bc"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "অষ্টম অধ্যয় : টিস্যু ও টিস্যুত্তর",
+          "structured_data": {},
+          "id": "54d6feb5-70c5-5834-83ec-e441577a1702"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "টিস্যু প্রকারভেদ",
+          "structured_data": {},
+          "id": "fb1e9ca9-3ab1-5274-81ad-1e418d51339d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "01. একই উৎপন্ন থেকে উৎপন্ন এবং একই জৈবিক কর্মে নির্যাতিত\nকোষগুচ্ছকে কী বলে?\n- ক. টিস্যু\n- খ. অ্যা\n- গ. অপ\n- ঘ. বাড়ল",
+          "structured_data": {},
+          "id": "59ded439-38a3-5459-8d89-e172ce2df466"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "02. ভাজক টিস্যুর কৌণ্ঠমুহু-\n(দ. বো-১৫)\n- ক. অবিভাজনক্ষম\n- খ. পুরু কোষপ্রাচীরবিশিষ্ট\n- গ. আঙ্কোডীয় ফাইবারহীন\n- ঘ. সাইটোপ্রাম যন্ত্র",
+          "structured_data": {},
+          "id": "d798d292-1483-598e-a4bd-ea3123d0499d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "03. উত্পত্তি অনুসারে ভাজক টিস্যু কৃত প্রকার?\n- ক. ২\n- খ. ৩\n- গ. ৮\n- ঘ. ৫",
+          "structured_data": {},
+          "id": "806b33af-e8c1-5bb0-bd4e-5f5296ffbc9e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "04. কোষ বিদ্যান অনুসারে ভাজক টিস্যু কৃত প্রকার?\n- ক. ২\n- খ. ৩\n- গ. ৮\n- ঘ. ৫",
+          "structured_data": {},
+          "id": "de820a1c-cffd-5598-8c9d-7fba97735b42"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "05. কাজ অনুসারে ভাজক টিস্যুর প্রকার হলো-\n- ক. ২\n- খ. ৩\n- গ. ৮\n- ঘ. ৫",
+          "structured_data": {},
+          "id": "653a58ad-fa3f-566b-ad3a-ff81de1079fc"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "06. প্রাথমিক ভাজক টিস্যুর সৃষ্টি হয় কোনটি থেকে?\n- ক. এপিক্যাল মেরিস্টেম\n- খ. প্রোটোটার্ম\n- গ. প্রোক্যাথিয়ম\n- ঘ. প্রো-মেরিস্টেম",
+          "structured_data": {},
+          "id": "a3c9f90d-8d70-53f4-a15f-b6f505c4159e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "07. উদিনের দৈর্ঘ্য বৃদ্ধির জন্য নিয়মিত টিস্যু কোনটি?\n- ক. ভাজক টিস্যু\n- খ. প্যারানকৈমা\n- গ. কোলেনকৈমা\n- ঘ. জাইলেম টিস্যু",
+          "structured_data": {},
+          "id": "0d0ed474-b99d-5b8d-b1ef-f3d93ff17dbc"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "08. তরম মূলে কোন ভাজক টিস্যু দেখা যায়?\n- ক. রিব ভাজক টিস্যু\n- খ. নিবেশিত ভাজক টিস্যু\n- গ. প্লেট ভাজক টিস্যু\n- ঘ. মাস ভাজক টিস্যু (আছিল+মাছে)",
+          "structured_data": {},
+          "id": "34ae0409-5300-54f1-b693-a8b73f680089"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "09. সরকারি ক্রমে মোটা হয় কোন টিস্যু ফলে?\n- ক. পার্শ্বী ভাজক টিস্যু\n- খ. শীর্ষী ভাজক টিস্যু\n- গ. প্রাইমারি ভাজক টিস্যু\n- ঘ. ইটারক্যালার ভাজক টিস্যু",
+          "structured_data": {},
+          "id": "7b3c1b24-a966-5a31-b518-fc4a3de57582"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "10. কাঁদের পরিবর্ত্ত বৃদ্ধির জন্য নিচের কোন টিস্যু দায়ী? (দ. বো-২১-২২, দি. বো-১৫)\n- ক. ক্যাথিয়াম\n- খ. জাইলেম\n- গ. ফ্রোয়েম\n- ঘ. কর্টেক্স (আছিল+মাছে+এপিডার্মিস)",
+          "structured_data": {},
+          "id": "63726cb3-77ee-53a7-9c83-cc3b18694937"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "11. পাটের আঁশ কোন জাতীয় টিস্যু?\n- ক. সেকেন্ডারি ফ্রোয়েম টিস্যু\n- খ. সেকেন্ডারি জাইলেম টিস্যু\n- গ. প্রাইমারি জাইলেম টিস্যু\n- ঘ. এপিক্যাল মেরিস্টেম (আছিল+মাছে)",
+          "structured_data": {},
+          "id": "7d4e8650-b16a-5c0e-ba59-6bc2a8af4e00"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "12. কোন টিস্যুর কারণে ঢুক ও পাতা সৃষ্টি হয়?\n- ক. প্লেট ভাজক টিস্যু\n- খ. রিব ভাজক টিস্যু\n- গ. মাস ভাজক টিস্যু\n- ঘ. পার্শ্বী ভাজক টিস্যু (আছিল)",
+          "structured_data": {},
+          "id": "aaa8c450-f39c-563b-b8c1-d375b0f99564"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "13. উদিনের কর্টেক্সে কোন ধরনের ভাজক টিস্যু পাওয়া যায়?\n- ক. প্রোক্যাথিয়ম\n- খ. প্রাইউট মেরিস্টেম\n- গ. ফ্যাসিকুলার ক্যাথিয়াম\n- ঘ. প্রোমেরিস্টেম (আছিল)",
+          "structured_data": {},
+          "id": "cede76b5-0ec9-55d4-865c-a66494c29358"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "14. সেকেন্ডারি ভাজক টিস্যুর উদাহরণ কোনটি?\n- ক. মেরিস্টেম\n- খ. কর্ক ক্যাথিয়াম\n- গ. ফেলোজেন\n- ঘ. কর্টেক্স (আছিল)",
+          "structured_data": {},
+          "id": "d29eba78-8bae-594c-9127-9d2198f831d7"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "15. উদিনের এপিডার্মিস ও এপিলেমা গঠন করে কোনটি?\n- ক. প্রোটোটার্ম\n- খ. প্রোক্যাথিয়ম\n- গ. প্রাইউট মেরিস্টেম\n- ঘ. রিব ভাজক টিস্যু (আছিল+মাছে)",
+          "structured_data": {},
+          "id": "096f4b91-702c-5026-bde2-192bb2e85a24"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "16. প্রোটোটার্ম নিচের কোন অঞ্চল তৈরি করে?\n- ক. ঢুক\n- খ. শাখা\n- গ. পাতা\n- ঘ. মূল (আছিল)",
+          "structured_data": {},
+          "id": "9b3c803d-9e36-5d58-a17d-889ab9c3d610"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "17. পাতা কোন ভাজক টিস্যুর উদাহরণ? (দ. বো-২০১৯)\n- ক. মাস\n- খ. প্রোটোটার্ম\n- গ. প্লেট\n- ঘ. রিব [আছিল+মাছে]",
+          "structured_data": {},
+          "id": "fcc67934-1fed-556a-9043-6b99435d886e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "18. কোন ভাজক টিস্যুর কারণে উদিনের আয়তন বৃদ্ধি পায়? (দ. বো-২০১৭)\n- ক. মাস\n- খ. প্রাইমারি\n- গ. প্লেট\n- ঘ. রিব [আছিল+মাছে+এপিডার্মিস+এপিডার্মিস]",
+          "structured_data": {},
+          "id": "cf9b428c-ce53-576e-9c42-6c3c4e085992"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q19",
+          "content_markdown": "যে ভাজক টিস্যুর কৌণ্ঠগুচ্ছ একত্রে বিভক্তিত হয় তাকে কী বলে?\n(দ. বো-২১, চ. বো-১৬)",
+          "structured_data": {
+            "question_number": "19",
+            "subtype": "mcq",
+            "stem": "যে ভাজক টিস্যুর কৌণ্ঠগুচ্ছ একত্রে বিভক্তিত হয় তাকে কী বলে?\n(দ. বো-২১, চ. বো-১৬)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "রিব",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "পার্শ্বী",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "প্লেট",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "মাস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e74396f9-ffa9-5381-ba16-fcf0e28d4783"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q20",
+          "content_markdown": "ভাজক বাণিজের সৃষ্টি হয় কোন ধরনের ভাজক টিস্যু হতেছ?\n(দ. ২১)",
+          "structured_data": {
+            "question_number": "20",
+            "subtype": "mcq",
+            "stem": "ভাজক বাণিজের সৃষ্টি হয় কোন ধরনের ভাজক টিস্যু হতেছ?\n(দ. ২১)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রোটোডার্ম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রোক্যাথিয়ম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "প্রাউভ মেরিস্টেম",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "প্রোমেরিস্টেম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0cbad476-48a1-5198-a44c-6a7ae9ea6fba"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q21",
+          "content_markdown": "উদিনের বর্ধিত অংশে কোন টিস্যু থাকে?\n- g) নিবেশিত ভাজক টিস্যু\n- h) মাস ভাজক টিস্যু",
+          "structured_data": {
+            "question_number": "21",
+            "subtype": "mcq",
+            "stem": "উদিনের বর্ধিত অংশে কোন টিস্যু থাকে?\n- g) নিবেশিত ভাজক টিস্যু\n- h) মাস ভাজক টিস্যু",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অগ্রস্থ ভাজক টিস্যু",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "পার্শ্বী ভাজক টিস্যু",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "be312ee4-62fb-53d3-9d6d-34bcb2aa0bd5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q22",
+          "content_markdown": "কর্ক ক্যাথিয়াম কোন ধরনের ভাজক টিস্যু?",
+          "structured_data": {
+            "question_number": "22",
+            "subtype": "mcq",
+            "stem": "কর্ক ক্যাথিয়াম কোন ধরনের ভাজক টিস্যু?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রার্থিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রাইমারি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সেকেন্ডারি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "টারসিয়ারি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ee258be2-e4b0-597f-be6f-5961876fcdd9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q23",
+          "content_markdown": "যে ভাজক টিস্যু বিভক্তিত হয়ে উদিনের তৃতীয় সৃষ্টি করে তাকে কী বলে?\n- g) মাস মেরিস্টেম\n- h) গ্রাইড মেরিস্টেম (অধিষ্ঠিত+বহুল)",
+          "structured_data": {
+            "question_number": "23",
+            "subtype": "mcq",
+            "stem": "যে ভাজক টিস্যু বিভক্তিত হয়ে উদিনের তৃতীয় সৃষ্টি করে তাকে কী বলে?\n- g) মাস মেরিস্টেম\n- h) গ্রাইড মেরিস্টেম (অধিষ্ঠিত+বহুল)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রোটোডাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রোক্যাথিয়ম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d44feb02-995c-5a5d-b493-5c155c3aa687"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q24",
+          "content_markdown": "উদিনের অধিষ্ঠিত অংশে কোন টিস্যু থাকে?\n- g) মাস মেরিস্টেম\n- h) গ্রাইড মেরিস্টেম (অধিষ্ঠিত+বহুল)",
+          "structured_data": {
+            "question_number": "24",
+            "subtype": "mcq",
+            "stem": "উদিনের অধিষ্ঠিত অংশে কোন টিস্যু থাকে?\n- g) মাস মেরিস্টেম\n- h) গ্রাইড মেরিস্টেম (অধিষ্ঠিত+বহুল)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রোটোডাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রোক্যাথিয়ম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "32db21d1-f3fe-5975-9aab-d720db661534"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q25",
+          "content_markdown": "কোথায় জাইলেম ইঞ্জেরিং Y বা V আকৃতির?\n- g) একবীজপ্রতী মূল\n- h) বিবিজপ্রতী মূল (আছিল)",
+          "structured_data": {
+            "question_number": "25",
+            "subtype": "mcq",
+            "stem": "কোথায় জাইলেম ইঞ্জেরিং Y বা V আকৃতির?\n- g) একবীজপ্রতী মূল\n- h) বিবিজপ্রতী মূল (আছিল)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "একবীজপ্রতী কাগও",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বিবিজপ্রতী কাগও",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d2545aaf-1dc6-529e-bf51-2a2ca0beb620"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q26",
+          "content_markdown": "উৎপত্তি অনুযায়ী ভাজক টিস্যুর ধরন কোনটি?\n- g) রিব ভাজক টিস্যু\n- h) প্রার্থিক ভাজক টিস্যু (আছিল)",
+          "structured_data": {
+            "question_number": "26",
+            "subtype": "mcq",
+            "stem": "উৎপত্তি অনুযায়ী ভাজক টিস্যুর ধরন কোনটি?\n- g) রিব ভাজক টিস্যু\n- h) প্রার্থিক ভাজক টিস্যু (আছিল)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্লেট ভাজক টিস্যু",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মাস মেরিস্টেম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0fa87c11-9217-5cb1-9a19-c6e2bb3cf068"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q27",
+          "content_markdown": "ক্যাথিয়াম যে ভাজক টিস্যুর উদাহরণ-\n(মেইনক্লাস: ০০-০১)\n- g) নিবেশিত ভাজক টিস্যু\n- h) পার্শ্বী ভাজক টিস্যু (মিজেনা)",
+          "structured_data": {
+            "question_number": "27",
+            "subtype": "mcq",
+            "stem": "ক্যাথিয়াম যে ভাজক টিস্যুর উদাহরণ-\n(মেইনক্লাস: ০০-০১)\n- g) নিবেশিত ভাজক টিস্যু\n- h) পার্শ্বী ভাজক টিস্যু (মিজেনা)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "শীর্ষী ভাজক টিস্যু",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "গ্রাউট ভাজক টিস্যু",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ce836f82-e5e9-56a0-bef4-009094ef69e7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q28",
+          "content_markdown": "প্রতিটি কোনে প্রয়োজনীয় পানি পৌঁছে দেওয়ার ভূমিকা পালন করে কোন টিস্যু? (মেইনক্লাস: ০৮-০৫)\n- g) জাইলেম\n- h) এপিডার্মিস (মাছে)",
+          "structured_data": {
+            "question_number": "28",
+            "subtype": "mcq",
+            "stem": "প্রতিটি কোনে প্রয়োজনীয় পানি পৌঁছে দেওয়ার ভূমিকা পালন করে কোন টিস্যু? (মেইনক্লাস: ০৮-০৫)\n- g) জাইলেম\n- h) এপিডার্মিস (মাছে)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ফ্রোয়েম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "গ্রাউট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5707f12f-65e7-558c-8a53-eaa9e38d13de"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q29",
+          "content_markdown": "কোনটি ভাঙ্গুলার বাঁকা তথা পরিবর্তন কলাত্ত্বের বিভিন্ন প্রকারভেদের অঙ্গুলু নয়? (ফেব্রুয়ারি: ০২-০৩)\n- g) মেডুলারি\n- h) হ্যাড্রোসেন্ট্রিক বা জাইলেম কেন্দ্রিক (মাছে)",
+          "structured_data": {
+            "question_number": "29",
+            "subtype": "mcq",
+            "stem": "কোনটি ভাঙ্গুলার বাঁকা তথা পরিবর্তন কলাত্ত্বের বিভিন্ন প্রকারভেদের অঙ্গুলু নয়? (ফেব্রুয়ারি: ০২-০৩)\n- g) মেডুলারি\n- h) হ্যাড্রোসেন্ট্রিক বা জাইলেম কেন্দ্রিক (মাছে)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সমাপ্তিয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সমাধিপ্রায়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6afb0dba-d37c-5416-81b6-e88dbabaae68"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q30",
+          "content_markdown": "নিচের কোনটি ভাঙ্গুলার বাঁকালের প্রকারভেদে পড়ে নামেছিলেন: ১০-১৬/\n- g) অরীয়",
+          "structured_data": {
+            "question_number": "30",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটি ভাঙ্গুলার বাঁকালের প্রকারভেদে পড়ে নামেছিলেন: ১০-১৬/\n- g) অরীয়",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রতিসাম্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কেন্দ্রিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2bd61be3-3e0f-50ba-a2b3-ffe3fa05bb30"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 33,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc4",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 69.89,
+        "eval_count": 4322
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "```none\n80. নিচের কোণটি ফ্রোয়াম টিসুর উপাদান?\nক. ট্রাইডিড   খ. ক্লেরেনকাইমা    গ. সীভিনল     ঘ. ভেসেল\n\n81. কেন্দ্রিক ভাঙ্কুলার বাংল কত প্রকার?\nক. ২      খ. ৩       গ. ৪        ঘ. ৫\n\n82. কোন উদ্ধেদের কাছে সমদিপাশ্যি ভাঙ্কুলার বাংল দেখা যায়?\nক. লাইট , কুমড়া         খ. জবা , থুতুরা\nগ. আম , জাম            ঘ. ধান , গম\n\n83. অবৃত্তবীজি উদ্ধেদের কোথায় অরিয় ভাঙ্কুলার বাংল দেখা যায়?\nক. মূলে          খ. কাণ্ডে           গ. পাতায়        ঘ. ফুলে\n\n88. অরিয় ভাঙ্কুলার বাংল দেখা যায় কোন উদ্ধেদে?\nক. নগ্নবীজি    খ. অবৃত্তবীজি    গ. টেরিডোফাইট    ঘ. ব্রায়োফাইট\n\n85. Lycopodium উদ্ধেদে কোন ধরনের ভাঙ্কুলার বাংল উপচিত?\nক. কেন্দ্রিক             খ. হ্যাড্রেসেন্ট্রিক\nগ. লেন্টোসেন্ট্রিক       ঘ. সংযুক্ত\n\n86. একবীজপত্রী কাণ্ডের ভাঙ্কুলার বাংল কোন ধরনের? (খ. বো. ২০১৬)\nক. মুত সমপাশ্যি          খ. বদ্ধ সমপাশ্যি\nগ. সমদিপাশ্যি            ঘ. কেন্দ্রিক\n\n87. ফুটা উদ্ধেদের কাছে নিচের কোন ধরনের ভাঙ্কুলার বাংল দেখা যায়? (দি. বো. ১৬)\nক. মুত                খ. সমপাশ্যি              গ. অরিয়               ঘ. কেন্দ্রিক\n\n88. প্যারেনকাইমা কোষের আকৃতি কেমন?\nক. নলাকার          খ. যড়ুজাকার          গ. অশ্বধূরাকার          ঘ. গোলাকার\n\n89. পরিণত জাইলেম টিসুর সজীব কোষ কোনটি?\nক. ট্রাইডিড          খ. ভেসেল\nগ. জাইলেম প্যারেনকাইমা          ঘ. ট্রাইকিয়া\n\n90. মূলের এপিক্রেমা কোন কোষ নিয়ে গঠিত?\nক. প্যারেনকাইমা          খ. কোলেনকাইমা\nগ. স্ক্লেরেনকাইমা          ঘ. অ্যারেনকাইমা\n\nঅনুশীলনীর প্রশ্ন\n\n51. একবিজপ্তী উদ্ভিদের কান্ডের মজ্জারশি কোন কোষ ধারা গঠিত?\n- a) প্যারেনকাইমা\n- b) অ্যারেনকাইমা\n- c) কোলেনকাইমা\n- d) স্লেরেনকাইমা\n\n52. থাউভ টিসুত্বের অংশ কোনটি? [ছ. বো. ১৯]\n- a) মূলরোম\n- b) মজ্জা\n- c) তুক\n- d) ফ্রোয়েম\n\n53. বিশেষ ধরনের বহুকৌণি ট্রাইকোমকে কী বলে? [গ্রাহো. ২০২৩]\n- a) কোলেটার্সথ\n- b) শঙ্খ\n- c) রাঢার\n- d) স্টেম্যাটা\n\n54. নিচের কোন উদ্ভিদে হাইডাওহোড বিদ্যমান?\n[ছ. বো. ২০১৯; দি. বো. ২০১৬]\n- a) শসা\n- b) কচু\n- c) বেগুন\n- d) মরিচ\n\n55. নিচের কোনটিতে বায়ুবীজ অংশের তুকে অবস্থিত দুইটি বিশেষ কোষ দিয়ে বেগিত ও নিয়ন্ত্রিত ছিদ্রপথটি রাতের বেলায় থাকে? [ছ. বো. ১৭]\n- a) কার্পাস তুলা\n- b) নল খাগড়া\n- c) পাথরকুটি\n- d) মেটাপাট\n\n56. থাউভ মেরিস্টেম কলা বিভাজিত হয়ে কোনটি সৃষ্টি হয়? [ছ. বো. ২০১৬]\n- a) এপিডার্মিস\n- b) জাইলেম\n- c) ফ্রোয়েম\n- d) মজ্জা\n\n57. নিচের কোনটি অজ্ঞস্টিলিয়া অধুনার অংশ? [ব. বো. ২০১৬]\n- a) পরিচ্ছর\n- b) বহিষ্টুক\n- c) অধুন্তুক\n- d) কর্টেক্স\n\n58. লেপ্টোসেন্ট্রিক ভাঙ্কুলার বান্ডলের উদাহরণ হলো— [সি. বো. ২০২১]\n- a) Dracaena sp\n- b) Mangifera sp\n- c) Oryza sp\n- d) Triticum sp\n\n59. কোনটিতে হায়ড্রোসেন্ট্রিক ভাঙ্কুলার বান্ডল থাকে? [ছ. বো. ২০১৯]\n- a) Riccia\n- b) Pteris\n- c) Cycas\n- d) Oryza\n\n60. নিচের কোনটি জাইলেম ও ফ্রোয়েম উভয় টিসুতেই বিদ্যমান? [দি. বো. ১১]\n- a) ট্রাইকিড\n- b) ভোসেল\n- c) ফাইবার\n- d) সিভনল\n\n61. কুমড়া উদ্ভিদের কান্ডের ভাঙ্কুলার বান্ডল— [সি. বো. ১১]\n- a) অরীয়\n- b) সমদ্বিপাশ্র্যীয়\n- c) হ্যাণ্ড্রোসেন্ট্রিক\n- d) লেপ্টোসেন্ট্রিক\n\n62. জাইলেম কেন্দ্রিক ভাঙ্কুলার বান্ডল দেখা যায়— [ছ. বো. ১৭]\n- a) টেরিডোফাইটায়\n- b) ব্যক্তিবীজ উদ্ভিদে\n- c) একবিজপ্তী উদ্ভিদে\n- d) দ্বিবিজপ্তী উদ্ভিদে\n\n```none\nক. অরিয়া\nখ. সম্পদপার্শ্বি\n\nগ. হ্যাড্রোসেট্টিক\nঘ. লেপটোসেট্টিক\n\n62. জাইলেম কেন্দ্রিক ভাঙ্গুলার বান্ডল দেয়া যায়—[বো. ১৭]\nক. টেরিডোফাইটায়\nখ. ব্যত্তবীজি উডিদে\nগ. একবীজপ্রতী উডিদে\nঘ. দ্বৈজপ্রতী উডিদে\n\n63. কচূর মুলের ভাঙ্গুলার বান্ডল হলো-\nক. লেপটোসেট্টিক\nখ. হ্যাড্রোসেট্টিক\nগ. অরিয়া\nঘ. সংযুক্ত\n\n64. স্পাইকলেট পুষ্পবিন্যাসযুক্ত উডিদের কাভে-স্থ। [বো. ২০১৭]\nক. পরিবহন কলাণ্ডছ সংযুক্ত ও বন্ধ\nখ. পরিবহন কলাণ্ডছ চক্রাকারে সজ্জিত\nগ. অধিষ্ঠুত একসারি কোষে গঠিত\nঘ. মজ্জারশি সুস্পষ্ট ও বড়\n\n65. একবীজপ্রতী উডিদের মূলের বৈশিষ্ট্য কৌণটি? [বো. ২০১৭]\nক. মূলতুক কিউটিক্লযুক্ত\nখ. ভাঙ্গুলার বান্ডল সংযুক্ত\nগ. অধিষ্ঠুত অনুপস্থিত\nঘ. ভাঙ্গুলার বান্ডল এর সংখ্যা চার\n\n66. একবীজপ্রতী মূলের অঙ্গর্থনগত শনাক্তকারী বৈশিষ্ট্য কৌণটি?[দি. বো. ১৯]\nক. বহিষ্ঠুকে কিউটিক্ল উপস্থিত\nখ. অধিষ্ঠুকে ক্লেরেনকাইমা ঢিস্যু আছে\nগ. জাইলেম V বা Y আকৃতিবিশিষ্ট\nঘ. ভাঙ্গুলার বান্ডল অরিয়া প্রকৃতির\n\n| 31.খ | 32.গ | 33.খ | 34.গ | 35.ঘ | 36.ঘ |\n| --- | --- | --- | --- | --- | --- |\n| 37.গ | 38.গ | 39.গ | 40.গ | 41.ক | 42.ক |\n| 43.ক | 48.খ | 45.খ | 46.খ | 47.খ | 48.ঘ |\n| 49.গ | 50.ক | 51.ক | 52.খ | 53.ক | 54.খ |\n| 55.গ | 56.ঘ | 57.ক | 58.ক | 59.খ | 60.গ |\n| 61.খ | 62.ক | 63.গ | 64.ক | 65.গ | 66.ঘ |\n\nChase your dream to be a Doctor...",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "```none",
+          "structured_data": {},
+          "id": "5a421112-534d-557c-8857-cd82b0db1b7f"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q80",
+          "content_markdown": "নিচের কোণটি ফ্রোয়াম টিসুর উপাদান?",
+          "structured_data": {
+            "question_number": "80",
+            "subtype": "exercise_solution",
+            "stem": "নিচের কোণটি ফ্রোয়াম টিসুর উপাদান?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "ট্রাইডিড   খ. ক্লেরেনকাইমা    গ. সীভিনল     ঘ. ভেসেল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "613077ef-eac7-5d0a-8a96-9f6a4e8de780"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q81",
+          "content_markdown": "কেন্দ্রিক ভাঙ্কুলার বাংল কত প্রকার?",
+          "structured_data": {
+            "question_number": "81",
+            "subtype": "exercise_solution",
+            "stem": "কেন্দ্রিক ভাঙ্কুলার বাংল কত প্রকার?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "২      খ. ৩       গ. ৪        ঘ. ৫",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e05f093f-e033-5ee2-a5c5-c69ed1bae83f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q82",
+          "content_markdown": "কোন উদ্ধেদের কাছে সমদিপাশ্যি ভাঙ্কুলার বাংল দেখা যায়?",
+          "structured_data": {
+            "question_number": "82",
+            "subtype": "mcq_item",
+            "stem": "কোন উদ্ধেদের কাছে সমদিপাশ্যি ভাঙ্কুলার বাংল দেখা যায়?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "লাইট , কুমড়া         খ. জবা , থুতুরা",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "আম , জাম            ঘ. ধান , গম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d709e484-b0c4-59af-bff5-ea3df97848d9"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q83",
+          "content_markdown": "অবৃত্তবীজি উদ্ধেদের কোথায় অরিয় ভাঙ্কুলার বাংল দেখা যায়?",
+          "structured_data": {
+            "question_number": "83",
+            "subtype": "exercise_solution",
+            "stem": "অবৃত্তবীজি উদ্ধেদের কোথায় অরিয় ভাঙ্কুলার বাংল দেখা যায়?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "মূলে          খ. কাণ্ডে           গ. পাতায়        ঘ. ফুলে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "18199e8d-4b91-50a9-81de-064afcfd5f35"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q88",
+          "content_markdown": "অরিয় ভাঙ্কুলার বাংল দেখা যায় কোন উদ্ধেদে?",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "exercise_solution",
+            "stem": "অরিয় ভাঙ্কুলার বাংল দেখা যায় কোন উদ্ধেদে?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "নগ্নবীজি    খ. অবৃত্তবীজি    গ. টেরিডোফাইট    ঘ. ব্রায়োফাইট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e5e42d8a-4bae-52f7-9fec-81eb671f1e7a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q85",
+          "content_markdown": "Lycopodium উদ্ধেদে কোন ধরনের ভাঙ্কুলার বাংল উপচিত?",
+          "structured_data": {
+            "question_number": "85",
+            "subtype": "mcq_item",
+            "stem": "Lycopodium উদ্ধেদে কোন ধরনের ভাঙ্কুলার বাংল উপচিত?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "কেন্দ্রিক             খ. হ্যাড্রেসেন্ট্রিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "লেন্টোসেন্ট্রিক       ঘ. সংযুক্ত",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ac4bc8ac-037c-5ab1-a3f4-4bb8eadc8ecb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q86",
+          "content_markdown": "একবীজপত্রী কাণ্ডের ভাঙ্কুলার বাংল কোন ধরনের? (খ. বো. ২০১৬)",
+          "structured_data": {
+            "question_number": "86",
+            "subtype": "mcq_item",
+            "stem": "একবীজপত্রী কাণ্ডের ভাঙ্কুলার বাংল কোন ধরনের? (খ. বো. ২০১৬)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "মুত সমপাশ্যি          খ. বদ্ধ সমপাশ্যি",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "সমদিপাশ্যি            ঘ. কেন্দ্রিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "98038cf7-3cb6-563e-bf70-832f9694a111"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q87",
+          "content_markdown": "ফুটা উদ্ধেদের কাছে নিচের কোন ধরনের ভাঙ্কুলার বাংল দেখা যায়? (দি. বো. ১৬)",
+          "structured_data": {
+            "question_number": "87",
+            "subtype": "exercise_solution",
+            "stem": "ফুটা উদ্ধেদের কাছে নিচের কোন ধরনের ভাঙ্কুলার বাংল দেখা যায়? (দি. বো. ১৬)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "মুত                খ. সমপাশ্যি              গ. অরিয়               ঘ. কেন্দ্রিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "aadfe39d-9e0a-5be7-bc32-f2fd86ea4f57"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q88",
+          "content_markdown": "প্যারেনকাইমা কোষের আকৃতি কেমন?",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "exercise_solution",
+            "stem": "প্যারেনকাইমা কোষের আকৃতি কেমন?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "নলাকার          খ. যড়ুজাকার          গ. অশ্বধূরাকার          ঘ. গোলাকার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e017d6c4-6a43-5ad5-a983-2912f600c359"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q89",
+          "content_markdown": "পরিণত জাইলেম টিসুর সজীব কোষ কোনটি?",
+          "structured_data": {
+            "question_number": "89",
+            "subtype": "mcq_item",
+            "stem": "পরিণত জাইলেম টিসুর সজীব কোষ কোনটি?",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "ট্রাইডিড          খ. ভেসেল",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "জাইলেম প্যারেনকাইমা          ঘ. ট্রাইকিয়া",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4ef7e6f2-6f4f-55d8-9dc4-5bc930e8ef7e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q90",
+          "content_markdown": "মূলের এপিক্রেমা কোন কোষ নিয়ে গঠিত?\nঅনুশীলনীর প্রশ্ন",
+          "structured_data": {
+            "question_number": "90",
+            "subtype": "mcq_item",
+            "stem": "মূলের এপিক্রেমা কোন কোষ নিয়ে গঠিত?\nঅনুশীলনীর প্রশ্ন",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "প্যারেনকাইমা          খ. কোলেনকাইমা",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "স্ক্লেরেনকাইমা          ঘ. অ্যারেনকাইমা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "af7eed2f-a3d7-5baf-85e4-303fa7acf1d1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q51",
+          "content_markdown": "একবিজপ্তী উদ্ভিদের কান্ডের মজ্জারশি কোন কোষ ধারা গঠিত?",
+          "structured_data": {
+            "question_number": "51",
+            "subtype": "mcq_item",
+            "stem": "একবিজপ্তী উদ্ভিদের কান্ডের মজ্জারশি কোন কোষ ধারা গঠিত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্যারেনকাইমা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অ্যারেনকাইমা",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কোলেনকাইমা",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "স্লেরেনকাইমা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d86ab265-62f2-5fed-95db-9ab422f5dd35"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q52",
+          "content_markdown": "থাউভ টিসুত্বের অংশ কোনটি? [ছ. বো. ১৯]",
+          "structured_data": {
+            "question_number": "52",
+            "subtype": "mcq_item",
+            "stem": "থাউভ টিসুত্বের অংশ কোনটি? [ছ. বো. ১৯]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মূলরোম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মজ্জা",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "তুক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ফ্রোয়েম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "26d2c2cd-3cdf-58ca-9aa0-fa7a5a5189dc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q53",
+          "content_markdown": "বিশেষ ধরনের বহুকৌণি ট্রাইকোমকে কী বলে? [গ্রাহো. ২০২৩]",
+          "structured_data": {
+            "question_number": "53",
+            "subtype": "mcq_item",
+            "stem": "বিশেষ ধরনের বহুকৌণি ট্রাইকোমকে কী বলে? [গ্রাহো. ২০২৩]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কোলেটার্সথ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "শঙ্খ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রাঢার",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "স্টেম্যাটা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5d97f490-c844-5db3-97b1-49438db34c65"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q54",
+          "content_markdown": "নিচের কোন উদ্ভিদে হাইডাওহোড বিদ্যমান?\n[ছ. বো. ২০১৯; দি. বো. ২০১৬]",
+          "structured_data": {
+            "question_number": "54",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোন উদ্ভিদে হাইডাওহোড বিদ্যমান?\n[ছ. বো. ২০১৯; দি. বো. ২০১৬]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "শসা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কচু",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বেগুন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "মরিচ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d597f594-c385-57eb-baf6-48c99c2b2fd0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q55",
+          "content_markdown": "নিচের কোনটিতে বায়ুবীজ অংশের তুকে অবস্থিত দুইটি বিশেষ কোষ দিয়ে বেগিত ও নিয়ন্ত্রিত ছিদ্রপথটি রাতের বেলায় থাকে? [ছ. বো. ১৭]",
+          "structured_data": {
+            "question_number": "55",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটিতে বায়ুবীজ অংশের তুকে অবস্থিত দুইটি বিশেষ কোষ দিয়ে বেগিত ও নিয়ন্ত্রিত ছিদ্রপথটি রাতের বেলায় থাকে? [ছ. বো. ১৭]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কার্পাস তুলা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নল খাগড়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পাথরকুটি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "মেটাপাট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "576c007f-76dd-5c58-bfb8-c9eb43563e55"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q56",
+          "content_markdown": "থাউভ মেরিস্টেম কলা বিভাজিত হয়ে কোনটি সৃষ্টি হয়? [ছ. বো. ২০১৬]",
+          "structured_data": {
+            "question_number": "56",
+            "subtype": "mcq_item",
+            "stem": "থাউভ মেরিস্টেম কলা বিভাজিত হয়ে কোনটি সৃষ্টি হয়? [ছ. বো. ২০১৬]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "এপিডার্মিস",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "জাইলেম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ফ্রোয়েম",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "মজ্জা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "40a633f0-40e2-5f54-a053-ff8380b070ab"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q57",
+          "content_markdown": "নিচের কোনটি অজ্ঞস্টিলিয়া অধুনার অংশ? [ব. বো. ২০১৬]",
+          "structured_data": {
+            "question_number": "57",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি অজ্ঞস্টিলিয়া অধুনার অংশ? [ব. বো. ২০১৬]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "পরিচ্ছর",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বহিষ্টুক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অধুন্তুক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কর্টেক্স",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d9477ecd-623c-5a1d-9b8b-708af7d3be57"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q58",
+          "content_markdown": "লেপ্টোসেন্ট্রিক ভাঙ্কুলার বান্ডলের উদাহরণ হলো— [সি. বো. ২০২১]",
+          "structured_data": {
+            "question_number": "58",
+            "subtype": "mcq_item",
+            "stem": "লেপ্টোসেন্ট্রিক ভাঙ্কুলার বান্ডলের উদাহরণ হলো— [সি. বো. ২০২১]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Dracaena sp",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Mangifera sp",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Oryza sp",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Triticum sp",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "44ee9368-ece5-5431-9807-9fb6a7291141"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q59",
+          "content_markdown": "কোনটিতে হায়ড্রোসেন্ট্রিক ভাঙ্কুলার বান্ডল থাকে? [ছ. বো. ২০১৯]",
+          "structured_data": {
+            "question_number": "59",
+            "subtype": "mcq_item",
+            "stem": "কোনটিতে হায়ড্রোসেন্ট্রিক ভাঙ্কুলার বান্ডল থাকে? [ছ. বো. ২০১৯]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Riccia",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Pteris",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Cycas",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Oryza",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3470279a-29f2-5737-b01e-fe94496a5881"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q60",
+          "content_markdown": "নিচের কোনটি জাইলেম ও ফ্রোয়েম উভয় টিসুতেই বিদ্যমান? [দি. বো. ১১]",
+          "structured_data": {
+            "question_number": "60",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি জাইলেম ও ফ্রোয়েম উভয় টিসুতেই বিদ্যমান? [দি. বো. ১১]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ট্রাইকিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ভোসেল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ফাইবার",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সিভনল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fbda9fb4-8bd0-59cc-b6d6-2441f3b5ed7a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q61",
+          "content_markdown": "কুমড়া উদ্ভিদের কান্ডের ভাঙ্কুলার বান্ডল— [সি. বো. ১১]",
+          "structured_data": {
+            "question_number": "61",
+            "subtype": "mcq_item",
+            "stem": "কুমড়া উদ্ভিদের কান্ডের ভাঙ্কুলার বান্ডল— [সি. বো. ১১]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অরীয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সমদ্বিপাশ্র্যীয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "হ্যাণ্ড্রোসেন্ট্রিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "লেপ্টোসেন্ট্রিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "28a2b109-fce2-599a-a4c8-8b10cddb9cca"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q62",
+          "content_markdown": "জাইলেম কেন্দ্রিক ভাঙ্কুলার বান্ডল দেখা যায়— [ছ. বো. ১৭]\n```none",
+          "structured_data": {
+            "question_number": "62",
+            "subtype": "mcq_item",
+            "stem": "জাইলেম কেন্দ্রিক ভাঙ্কুলার বান্ডল দেখা যায়— [ছ. বো. ১৭]\n```none",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "টেরিডোফাইটায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ব্যক্তিবীজ উদ্ভিদে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "একবিজপ্তী উদ্ভিদে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "দ্বিবিজপ্তী উদ্ভিদে",
+                "is_correct": false
+              },
+              {
+                "key_original": "ক",
+                "text": "অরিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "সম্পদপার্শ্বি",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "হ্যাড্রোসেট্টিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "লেপটোসেট্টিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9aa1e73a-5840-52ae-8269-9951e5712c9b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q62",
+          "content_markdown": "জাইলেম কেন্দ্রিক ভাঙ্গুলার বান্ডল দেয়া যায়—[বো. ১৭]",
+          "structured_data": {
+            "question_number": "62",
+            "subtype": "mcq_item",
+            "stem": "জাইলেম কেন্দ্রিক ভাঙ্গুলার বান্ডল দেয়া যায়—[বো. ১৭]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "টেরিডোফাইটায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "ব্যত্তবীজি উডিদে",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "একবীজপ্রতী উডিদে",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "দ্বৈজপ্রতী উডিদে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3d0b85b4-bc6f-5ce6-a910-b6bb499d9e99"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q63",
+          "content_markdown": "কচূর মুলের ভাঙ্গুলার বান্ডল হলো-",
+          "structured_data": {
+            "question_number": "63",
+            "subtype": "mcq_item",
+            "stem": "কচূর মুলের ভাঙ্গুলার বান্ডল হলো-",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "লেপটোসেট্টিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "হ্যাড্রোসেট্টিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "অরিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "সংযুক্ত",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "25a9bb04-2a48-53e2-a9d8-3463a4ae5809"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q64",
+          "content_markdown": "স্পাইকলেট পুষ্পবিন্যাসযুক্ত উডিদের কাভে-স্থ। [বো. ২০১৭]",
+          "structured_data": {
+            "question_number": "64",
+            "subtype": "mcq_item",
+            "stem": "স্পাইকলেট পুষ্পবিন্যাসযুক্ত উডিদের কাভে-স্থ। [বো. ২০১৭]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "পরিবহন কলাণ্ডছ সংযুক্ত ও বন্ধ",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "পরিবহন কলাণ্ডছ চক্রাকারে সজ্জিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "অধিষ্ঠুত একসারি কোষে গঠিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "মজ্জারশি সুস্পষ্ট ও বড়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "524f21f2-e161-5c95-9c01-96ccac59cbec"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q65",
+          "content_markdown": "একবীজপ্রতী উডিদের মূলের বৈশিষ্ট্য কৌণটি? [বো. ২০১৭]",
+          "structured_data": {
+            "question_number": "65",
+            "subtype": "mcq_item",
+            "stem": "একবীজপ্রতী উডিদের মূলের বৈশিষ্ট্য কৌণটি? [বো. ২০১৭]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "মূলতুক কিউটিক্লযুক্ত",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "ভাঙ্গুলার বান্ডল সংযুক্ত",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "অধিষ্ঠুত অনুপস্থিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "ভাঙ্গুলার বান্ডল এর সংখ্যা চার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "98cf4d2b-ec10-559d-9f23-ae1148176e03"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q66",
+          "content_markdown": "একবীজপ্রতী মূলের অঙ্গর্থনগত শনাক্তকারী বৈশিষ্ট্য কৌণটি?[দি. বো. ১৯]\n| 31.খ | 32.গ | 33.খ | 34.গ | 35.ঘ | 36.ঘ |\n| --- | --- | --- | --- | --- | --- |\n| 37.গ | 38.গ | 39.গ | 40.গ | 41.ক | 42.ক |\n| 43.ক | 48.খ | 45.খ | 46.খ | 47.খ | 48.ঘ |\n| 49.গ | 50.ক | 51.ক | 52.খ | 53.ক | 54.খ |\n| 55.গ | 56.ঘ | 57.ক | 58.ক | 59.খ | 60.গ |\n| 61.খ | 62.ক | 63.গ | 64.ক | 65.গ | 66.ঘ |\nChase your dream to be a Doctor...",
+          "structured_data": {
+            "question_number": "66",
+            "subtype": "mcq_item",
+            "stem": "একবীজপ্রতী মূলের অঙ্গর্থনগত শনাক্তকারী বৈশিষ্ট্য কৌণটি?[দি. বো. ১৯]\n| 31.খ | 32.গ | 33.খ | 34.গ | 35.ঘ | 36.ঘ |\n| --- | --- | --- | --- | --- | --- |\n| 37.গ | 38.গ | 39.গ | 40.গ | 41.ক | 42.ক |\n| 43.ক | 48.খ | 45.খ | 46.খ | 47.খ | 48.ঘ |\n| 49.গ | 50.ক | 51.ক | 52.খ | 53.ক | 54.খ |\n| 55.গ | 56.ঘ | 57.ক | 58.ক | 59.খ | 60.গ |\n| 61.খ | 62.ক | 63.গ | 64.ক | 65.গ | 66.ঘ |\nChase your dream to be a Doctor...",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "বহিষ্ঠুকে কিউটিক্ল উপস্থিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "অধিষ্ঠুকে ক্লেরেনকাইমা ঢিস্যু আছে",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "জাইলেম V বা Y আকৃতিবিশিষ্ট",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "ভাঙ্গুলার বান্ডল অরিয়া প্রকৃতির",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b0f4fcbf-34c5-522f-9756-fcc568e52ba0"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 29,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc4",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 70.0,
+        "eval_count": 3908
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "ঝিাবিজ্ঞান প্রথম পত্র\n\n### Q67\n**Type:** mcq\n**Stem:** একটি উদ্দেশ্যের কাঠের ভাড়াগুলি - (সিকল নং ২০১৮)\n**Options:** \n- a) জাইলেম ও ফ্রোয়েম দিয়ে ভিন্ন ব্যাসার্থ থাকে\n- b) জাইলেম তিস্তুর গণ্ঠ অনেকটা V বা Y আকৃতির\n- c) ফ্রোয়েম দ্বারা জাইলেম চতুর্ভুজে নেষ্টিত থাকে\n- d) জাইলেম ও ফ্রোয়েমের মধ্যে ক্যাথারাম থাকে\n**Answer:** c) ফ্রোয়েম দ্বারা জাইলেম চতুর্ভুজে নেষ্টিত থাকে\n**Solution:** জাইলেম ও ফ্রোয়েমের মধ্যে ক্যাথারাম থাকে।\n**Tags:** সিকল নং ২০১৮\n\n### Q84\n**Type:** mcq\n**Stem:** নিচের কৌনটি নাইড্রোজেন জাতীয় খাদ্য সংক্ষর করে?\n**Options:** \n- a) মজ্জা\n- b) অঙ্গতুক\n- g) পরিচক\n- h) মূত্তুতুকলেক্স\n**Answer:** a) মজ্জা\n**Solution:** নাইড্রোজেন জাতীয় খাদ্য হচ্ছে মজ্জা।\n**Tags:** ডেফিনিশন ১০-১১\n\n### Q86\n**Type:** mcq\n**Stem:** নিচের কৌনটিতে অসংখ্য ক্রোরোপ্লাস্ট থাকে? (ডেফিনিশন ১০-১১)\n**Options:** \n- a) পালিসেড প্যারেনেকাইমা\n- b) নিদ্রাক্ষ\n- g) উৎপর্ণক\n- h) পাঙ্গি প্যারেনেকাইমা\n**Answer:** e) পালিসেড প্যারেনেকাইমা\n**Solution:** পালিসেড প্যারেনেকাইমা এই কৌন্টিতে অসংখ্য ক্রোরোপ্লাস্ট থাকে।\n**Tags:** ডেফিনিশন ১০-১১\n\n### Q87\n**Type:** mcq\n**Stem:** দ্বিজপত্রী উদ্দেশ্যের কাঠের তিস্তুপ্রের বহিঃচিত্তিয় অংশের অংশ\n**Options:** \n- a) অঙ্গতুক\n- b) কর্টেক্স\n- g) অঙ্গতুক\n- h) পেরিসাইকল\n**Answer:** f) পেরিসাইকল\n**Solution:** দ্বিজপত্রী উদ্দেশ্যের কাঠের তিস্তুপ্রের বহিঃচিত্তিয় অংশের অংশ হল পেরিসাইকল।\n**Tags:** ডেফিনিশন ০৩-০৪\n\n### Q88\n**Type:** mcq\n**Stem:** নিচের কৌনটি সঠিক নয়? (ডেফিনিশন ০৩-০৪)\n**Options:** \n- a) বিয়ামপৃষ্ঠ পাতার উভয়পৃষ্ঠে প্রায় সমানভাবে আলোক পড়ে\n- b) পাতাদ্রের মাধ্যমে গ্যাস বিনিময় হয়\n- g) বিয়ামপৃষ্ঠ পাতার প্রতিন্দা সাধারণত নির্দিষ্টকে থাকে\n- h) পাতার মেসোফিল্ট টিস্তুর কাজ খাদ্য ওষুধ করা\n**Answer:** h) পাতার মেসোফিল্ট টিস্তুর কাজ খাদ্য ওষুধ করা\n**Solution:** পাতার মেসোফিল্ট টিস্তুর কাজ খাদ্য ওষুধ করা নয়।\n**Tags:** ডেফিনিশন ০৩-০৪\n\n### Q90\n**Type:** mcq\n**Stem:** মূলের তুককে কি বলে?\n**Options:** \n- a) এপিডোর্মিস\n- b) এপিরেমা\n- g) হাইপোডার্মিস\n- h) কর্টেক্স\n**Answer:** a) এপিডোর্মিস\n**Solution:** মূলের তুককে এপিডোর্মিস বলে।\n**Tags:** অধ্যয়+আজীবন\n\n### Q91\n**Type:** mcq\n**Stem:** কোধার জাইলেম ইংরেজি Y বা V আকৃতি?\n**Options:** \n- a) একটি জপত্রী কাঠে\n- b) একটি জপত্রী মূলে\n- g) দ্বিজপত্রী কাঠে\n- h) দ্বিজপত্রী মূলে\n**Answer:** b) একটি জপত্রী মূলে\n**Solution:** কোধার জাইলেম ইংরেজি Y বা V আকৃতি।\n**Tags:** অধ্যয়+আজীবন\n\n### Q92\n**Type:** mcq\n**Stem:** উদ্দেশ্যের কাঠে প্রোক্যাথিয়াম ঘৃণ্ট অর্থ বৃদ্ধি পেয়েছে কি সৃষ্টি করে?\n**Options:** \n- a) মজ্জা\n- b) কর্টেক্স\n- g) পরিচক\n- h) জাইলেম\n**Answer:** b) কর্টেক্স\n**Solution:** উদ্দেশ্যের কাঠে প্রোক্যাথিয়াম ঘৃণ্ট অর্থ বৃদ্ধি পেয়েছে কি সৃষ্টি করে কর্টেক্স।\n**Tags:** অধ্যয়\n\n### Q93\n**Type:** mcq\n**Stem:** মূল বা কাঠের বাড়িতে বিদ্যমান কৌনটি?\n**Options:** \n- a) মজ্জা\n- b) মজ্জারাশি\n- g) পরিচক\n- h) কর্টেক্স\n**Answer:** c) মজ্জারাশি\n**Solution:** মূল বা কাঠের বাড়িতে বিদ্যমান কৌনটি হল মজ্জারাশি।\n**Tags:** অধ্যয়\n\n### Q94\n**Type:** mcq\n**Stem:** ভাড়াগুলি - ৬ এর অধিক কৌনটিতে?\n**Options:** \n- a) একটি জপত্রী উদ্দেশ্য মূলে\n- b) দ্বিজপত্রী উদ্দেশ্য মূলে\n- g) একটি জপত্রী উদ্দেশ্য কাঠে\n- h) দ্বিজপত্রী উদ্দেশ্য কাঠে\n**Answer:** d) দ্বিজপত্রী উদ্দেশ্য কাঠে\n**Solution:** ভাড়াগুলি - ৬ এর অধিক কৌনটিতে দ্বিজপত্রী উদ্দেশ্য কাঠে।\n**Tags:** অধ্যয়\n\n### Q95\n**Type:** mcq\n**Stem:** ফ্যানাঞ্চি উদ্দেশ্যের ভাড়াগুলি পাওয়া কোন প্রকৃতির?\n**Options:** \n- a) অত্রীয়\n- b) স্যাম্যুক\n- g) হ্যাঙ্গোসেন্টিক\n- h) লেন্টোসেন্টিক\n**Answer:** e) লেন্টোসেন্টিক\n**Solution:** ফ্যানাঞ্চি উদ্দেশ্যের ভাড়াগুলি পাওয়া কোন প্রকৃতির হল লেন্টোসেন্টিক।\n**Tags:** অধ্যয়\n\n### Q96\n**Type:** mcq\n**Stem:** উদ্দেশ্যের মূলে কোন ধরনের ভাড়াগুলি থাকে?\n**Options:** \n- a) সম্পাদ্যীয়\n- b) সম্পাদ্যীয়\n- g. অরীয়\n- h. কেন্দ্রিক\n**Answer:** f) কেন্দ্রিক\n**Solution:** উদ্দেশ্যের মূলে কোন ধরনের ভাড়াগুলি থাকে কেন্দ্রিক।\n**Tags:** মাঝেন্দ্র\n\n### Q97\n**Type:** mcq\n**Stem:** নিচের কৌনটির পরিবহন টিস্তু গঠনভাবে দূর্লভ?\n(সিকল নং ২০১৭)\n**Options:** \n- a) শাপলা\n- b) সুন্দরী\n- g. জবা\n- h. ধান (মাঝেন্দ্র)\n**Answer:** a) শাপলা\n**Solution:** নিচের কৌনটির পরিবহন টিস্তু গঠনভাবে দূর্লভ হচ্ছে শাপলা।\n**Tags:** সিকল নং ২০১৭\n\n### Q98\n**Type:** mcq\n**Stem:** পাতার প্রাউইড টিস্তুর কী সৃষ্টি?\n(ডেফিনিশন: ০৮-০৭)\n**Options:** \n- a) কর্টেক্স\n- b) মেসোফিল্ট\n- g. পেরিসাইকল\n- h. মজ্জা\n**Answer:** b) মেসোফিল্ট\n**Solution:** পাতার প্রাউইড টিস্তুর কী সৃষ্টি হচ্ছে মেসোফিল্ট।\n**Tags:** ডেফিনিশন: ০৮-০৭\n\n### Q99\n**Type:** mcq\n**Stem:** Petris এর ভাড়াগুলি কোন ধরনের থাকেন?\n(স্থা ১১)\n**Options:** \n- a) হ্যাঙ্গোসেন্টিক\n- b) লেন্টোসেন্টিক\n- g. সংযুক্ত\n- h. অরীয়\n**Answer:** c) সংযুক্ত\n**Solution:** Petris এর ভাড়াগুলি কোন ধরনের থাকেন সংযুক্ত।\n**Tags:** স্থা ১১\n\n### Q100\n**Type:** mcq\n**Stem:** নিচের কৌনটি প্রথম খাদ্য বাণিজ্য প্রযোজ্য? (ডেফিনিশন: ০৩-০৭)\n**Options:** \n- a) কর্টেক্স\n- b) মেসোফিল্ট\n- g. পেরিসাইকল\n- h. মজ্জা\n**Answer:** b) মেসোফিল্ট\n**Solution:** নিচের কৌনটি প্রথম খাদ্য বাণিজ্য প্রযোজ্য হচ্ছে মেসোফিল্ট।\n**Tags:** ডেফিনিশন: ০৩-০৭",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "ঝিাবিজ্ঞান প্রথম পত্র",
+          "structured_data": {},
+          "id": "4d07b5bd-69b5-54a7-8a40-9cff056407d7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q67",
+          "content_markdown": "একটি উদ্দেশ্যের কাঠের ভাড়াগুলি - (সিকল নং ২০১৮)",
+          "structured_data": {
+            "question_number": "67",
+            "subtype": "mcq",
+            "stem": "একটি উদ্দেশ্যের কাঠের ভাড়াগুলি - (সিকল নং ২০১৮)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "জাইলেম ও ফ্রোয়েম দিয়ে ভিন্ন ব্যাসার্থ থাকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "জাইলেম তিস্তুর গণ্ঠ অনেকটা V বা Y আকৃতির",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ফ্রোয়েম দ্বারা জাইলেম চতুর্ভুজে নেষ্টিত থাকে",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "জাইলেম ও ফ্রোয়েমের মধ্যে ক্যাথারাম থাকে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) ফ্রোয়েম দ্বারা জাইলেম চতুর্ভুজে নেষ্টিত থাকে",
+            "solution_markdown": "জাইলেম ও ফ্রোয়েমের মধ্যে ক্যাথারাম থাকে।",
+            "tags_raw": "সিকল নং ২০১৮",
+            "provenance": [
+              "সিকল নং ২০১৮"
+            ]
+          },
+          "id": "8f0a7c82-1e36-5a00-8a1e-607952330af6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q84",
+          "content_markdown": "নিচের কৌনটি নাইড্রোজেন জাতীয় খাদ্য সংক্ষর করে?",
+          "structured_data": {
+            "question_number": "84",
+            "subtype": "mcq",
+            "stem": "নিচের কৌনটি নাইড্রোজেন জাতীয় খাদ্য সংক্ষর করে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মজ্জা",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "অঙ্গতুক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) মজ্জা",
+            "solution_markdown": "নাইড্রোজেন জাতীয় খাদ্য হচ্ছে মজ্জা।",
+            "tags_raw": "ডেফিনিশন ১০-১১",
+            "provenance": [
+              "ডেফিনিশন ১০-১১"
+            ]
+          },
+          "id": "b06b5fea-4970-5e57-91d0-ed91ca6b6afd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q86",
+          "content_markdown": "নিচের কৌনটিতে অসংখ্য ক্রোরোপ্লাস্ট থাকে? (ডেফিনিশন ১০-১১)",
+          "structured_data": {
+            "question_number": "86",
+            "subtype": "mcq",
+            "stem": "নিচের কৌনটিতে অসংখ্য ক্রোরোপ্লাস্ট থাকে? (ডেফিনিশন ১০-১১)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "পালিসেড প্যারেনেকাইমা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নিদ্রাক্ষ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "e) পালিসেড প্যারেনেকাইমা",
+            "solution_markdown": "পালিসেড প্যারেনেকাইমা এই কৌন্টিতে অসংখ্য ক্রোরোপ্লাস্ট থাকে।",
+            "tags_raw": "ডেফিনিশন ১০-১১",
+            "provenance": [
+              "ডেফিনিশন ১০-১১"
+            ]
+          },
+          "id": "5ea95146-aa0f-5d6e-ad86-a7614dc97973"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q87",
+          "content_markdown": "দ্বিজপত্রী উদ্দেশ্যের কাঠের তিস্তুপ্রের বহিঃচিত্তিয় অংশের অংশ",
+          "structured_data": {
+            "question_number": "87",
+            "subtype": "mcq",
+            "stem": "দ্বিজপত্রী উদ্দেশ্যের কাঠের তিস্তুপ্রের বহিঃচিত্তিয় অংশের অংশ",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অঙ্গতুক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কর্টেক্স",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "f) পেরিসাইকল",
+            "solution_markdown": "দ্বিজপত্রী উদ্দেশ্যের কাঠের তিস্তুপ্রের বহিঃচিত্তিয় অংশের অংশ হল পেরিসাইকল।",
+            "tags_raw": "ডেফিনিশন ০৩-০৪",
+            "provenance": [
+              "ডেফিনিশন ০৩-০৪"
+            ]
+          },
+          "id": "cd1a8148-e444-5b3e-99f6-6694322edb28"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q88",
+          "content_markdown": "নিচের কৌনটি সঠিক নয়? (ডেফিনিশন ০৩-০৪)",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "mcq",
+            "stem": "নিচের কৌনটি সঠিক নয়? (ডেফিনিশন ০৩-০৪)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বিয়ামপৃষ্ঠ পাতার উভয়পৃষ্ঠে প্রায় সমানভাবে আলোক পড়ে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "পাতাদ্রের মাধ্যমে গ্যাস বিনিময় হয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "h) পাতার মেসোফিল্ট টিস্তুর কাজ খাদ্য ওষুধ করা",
+            "solution_markdown": "পাতার মেসোফিল্ট টিস্তুর কাজ খাদ্য ওষুধ করা নয়।",
+            "tags_raw": "ডেফিনিশন ০৩-০৪",
+            "provenance": [
+              "ডেফিনিশন ০৩-০৪"
+            ]
+          },
+          "id": "3c4141bb-896c-5375-824a-d005d50a97ca"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q90",
+          "content_markdown": "মূলের তুককে কি বলে?",
+          "structured_data": {
+            "question_number": "90",
+            "subtype": "mcq",
+            "stem": "মূলের তুককে কি বলে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "এপিডোর্মিস",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "এপিরেমা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) এপিডোর্মিস",
+            "solution_markdown": "মূলের তুককে এপিডোর্মিস বলে।",
+            "tags_raw": "অধ্যয়+আজীবন",
+            "provenance": [
+              "অধ্যয়+আজীবন"
+            ]
+          },
+          "id": "00108f58-88fc-55d4-8a8e-334cd6751a5e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q91",
+          "content_markdown": "কোধার জাইলেম ইংরেজি Y বা V আকৃতি?",
+          "structured_data": {
+            "question_number": "91",
+            "subtype": "mcq",
+            "stem": "কোধার জাইলেম ইংরেজি Y বা V আকৃতি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "একটি জপত্রী কাঠে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "একটি জপত্রী মূলে",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "b) একটি জপত্রী মূলে",
+            "solution_markdown": "কোধার জাইলেম ইংরেজি Y বা V আকৃতি।",
+            "tags_raw": "অধ্যয়+আজীবন",
+            "provenance": [
+              "অধ্যয়+আজীবন"
+            ]
+          },
+          "id": "5484e7f3-34d9-5950-a84b-4a7e69773593"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q92",
+          "content_markdown": "উদ্দেশ্যের কাঠে প্রোক্যাথিয়াম ঘৃণ্ট অর্থ বৃদ্ধি পেয়েছে কি সৃষ্টি করে?",
+          "structured_data": {
+            "question_number": "92",
+            "subtype": "mcq",
+            "stem": "উদ্দেশ্যের কাঠে প্রোক্যাথিয়াম ঘৃণ্ট অর্থ বৃদ্ধি পেয়েছে কি সৃষ্টি করে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মজ্জা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কর্টেক্স",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "b) কর্টেক্স",
+            "solution_markdown": "উদ্দেশ্যের কাঠে প্রোক্যাথিয়াম ঘৃণ্ট অর্থ বৃদ্ধি পেয়েছে কি সৃষ্টি করে কর্টেক্স।",
+            "tags_raw": "অধ্যয়",
+            "provenance": [
+              "অধ্যয়"
+            ]
+          },
+          "id": "58a1f51f-0780-57d6-adbf-aa0cbbd29aa5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q93",
+          "content_markdown": "মূল বা কাঠের বাড়িতে বিদ্যমান কৌনটি?",
+          "structured_data": {
+            "question_number": "93",
+            "subtype": "mcq",
+            "stem": "মূল বা কাঠের বাড়িতে বিদ্যমান কৌনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মজ্জা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মজ্জারাশি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) মজ্জারাশি",
+            "solution_markdown": "মূল বা কাঠের বাড়িতে বিদ্যমান কৌনটি হল মজ্জারাশি।",
+            "tags_raw": "অধ্যয়",
+            "provenance": [
+              "অধ্যয়"
+            ]
+          },
+          "id": "0ec28381-712b-5074-8b45-5f0fe018b8d8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q94",
+          "content_markdown": "ভাড়াগুলি - ৬ এর অধিক কৌনটিতে?",
+          "structured_data": {
+            "question_number": "94",
+            "subtype": "mcq",
+            "stem": "ভাড়াগুলি - ৬ এর অধিক কৌনটিতে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "একটি জপত্রী উদ্দেশ্য মূলে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "দ্বিজপত্রী উদ্দেশ্য মূলে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "d) দ্বিজপত্রী উদ্দেশ্য কাঠে",
+            "solution_markdown": "ভাড়াগুলি - ৬ এর অধিক কৌনটিতে দ্বিজপত্রী উদ্দেশ্য কাঠে।",
+            "tags_raw": "অধ্যয়",
+            "provenance": [
+              "অধ্যয়"
+            ]
+          },
+          "id": "7701142c-1366-5d91-93cd-0f340203e146"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q95",
+          "content_markdown": "ফ্যানাঞ্চি উদ্দেশ্যের ভাড়াগুলি পাওয়া কোন প্রকৃতির?",
+          "structured_data": {
+            "question_number": "95",
+            "subtype": "mcq",
+            "stem": "ফ্যানাঞ্চি উদ্দেশ্যের ভাড়াগুলি পাওয়া কোন প্রকৃতির?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অত্রীয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "স্যাম্যুক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "e) লেন্টোসেন্টিক",
+            "solution_markdown": "ফ্যানাঞ্চি উদ্দেশ্যের ভাড়াগুলি পাওয়া কোন প্রকৃতির হল লেন্টোসেন্টিক।",
+            "tags_raw": "অধ্যয়",
+            "provenance": [
+              "অধ্যয়"
+            ]
+          },
+          "id": "12f5ca29-6900-5706-a7f7-2128156c38ad"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q96",
+          "content_markdown": "উদ্দেশ্যের মূলে কোন ধরনের ভাড়াগুলি থাকে?",
+          "structured_data": {
+            "question_number": "96",
+            "subtype": "mcq",
+            "stem": "উদ্দেশ্যের মূলে কোন ধরনের ভাড়াগুলি থাকে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সম্পাদ্যীয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সম্পাদ্যীয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "f) কেন্দ্রিক",
+            "solution_markdown": "উদ্দেশ্যের মূলে কোন ধরনের ভাড়াগুলি থাকে কেন্দ্রিক।",
+            "tags_raw": "মাঝেন্দ্র",
+            "provenance": [
+              "মাঝেন্দ্র"
+            ]
+          },
+          "id": "370fb28d-b609-5821-a9e9-fbe9b171e56d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q97",
+          "content_markdown": "নিচের কৌনটির পরিবহন টিস্তু গঠনভাবে দূর্লভ?\n(সিকল নং ২০১৭)",
+          "structured_data": {
+            "question_number": "97",
+            "subtype": "mcq",
+            "stem": "নিচের কৌনটির পরিবহন টিস্তু গঠনভাবে দূর্লভ?\n(সিকল নং ২০১৭)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "শাপলা",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "সুন্দরী",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) শাপলা",
+            "solution_markdown": "নিচের কৌনটির পরিবহন টিস্তু গঠনভাবে দূর্লভ হচ্ছে শাপলা।",
+            "tags_raw": "সিকল নং ২০১৭",
+            "provenance": [
+              "সিকল নং ২০১৭"
+            ]
+          },
+          "id": "ca9916a1-6fc8-5e6d-b472-c8efa836fc91"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q98",
+          "content_markdown": "পাতার প্রাউইড টিস্তুর কী সৃষ্টি?\n(ডেফিনিশন: ০৮-০৭)",
+          "structured_data": {
+            "question_number": "98",
+            "subtype": "mcq",
+            "stem": "পাতার প্রাউইড টিস্তুর কী সৃষ্টি?\n(ডেফিনিশন: ০৮-০৭)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কর্টেক্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মেসোফিল্ট",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "b) মেসোফিল্ট",
+            "solution_markdown": "পাতার প্রাউইড টিস্তুর কী সৃষ্টি হচ্ছে মেসোফিল্ট।",
+            "tags_raw": "ডেফিনিশন: ০৮-০৭",
+            "provenance": [
+              "ডেফিনিশন: ০৮-০৭"
+            ]
+          },
+          "id": "7c13aacc-ec03-51b2-873a-be8c62358f77"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q99",
+          "content_markdown": "Petris এর ভাড়াগুলি কোন ধরনের থাকেন?\n(স্থা ১১)",
+          "structured_data": {
+            "question_number": "99",
+            "subtype": "mcq",
+            "stem": "Petris এর ভাড়াগুলি কোন ধরনের থাকেন?\n(স্থা ১১)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "হ্যাঙ্গোসেন্টিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "লেন্টোসেন্টিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) সংযুক্ত",
+            "solution_markdown": "Petris এর ভাড়াগুলি কোন ধরনের থাকেন সংযুক্ত।",
+            "tags_raw": "স্থা ১১",
+            "provenance": [
+              "স্থা ১১"
+            ]
+          },
+          "id": "f9b77748-0bb2-5420-acb4-00d053146d21"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q100",
+          "content_markdown": "নিচের কৌনটি প্রথম খাদ্য বাণিজ্য প্রযোজ্য? (ডেফিনিশন: ০৩-০৭)",
+          "structured_data": {
+            "question_number": "100",
+            "subtype": "mcq",
+            "stem": "নিচের কৌনটি প্রথম খাদ্য বাণিজ্য প্রযোজ্য? (ডেফিনিশন: ০৩-০৭)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কর্টেক্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মেসোফিল্ট",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "b) মেসোফিল্ট",
+            "solution_markdown": "নিচের কৌনটি প্রথম খাদ্য বাণিজ্য প্রযোজ্য হচ্ছে মেসোফিল্ট।",
+            "tags_raw": "ডেফিনিশন: ০৩-০৭",
+            "provenance": [
+              "ডেফিনিশন: ০৩-০৭"
+            ]
+          },
+          "id": "49c5f442-cd92-52fe-9ce4-6bf459a13692"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 17,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc6",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 71.38,
+        "eval_count": 4104
+      }
+    }
+  ]
+}

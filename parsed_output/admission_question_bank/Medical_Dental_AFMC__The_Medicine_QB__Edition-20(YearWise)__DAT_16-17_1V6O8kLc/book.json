@@ -1,0 +1,3744 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "1V6O8kLcmQb1W6oXaNDcXvprvDOY7CGnP",
+    "collection": "admission_question_bank",
+    "subject": "mixed_or_general",
+    "edition": "2023",
+    "priority_score": 2023501,
+    "path_parts": [
+      "Medical Dental AFMC",
+      "The Medicine QB",
+      "Edition-20(YearWise)",
+      "DAT 16-17.pdf"
+    ],
+    "filename": "DAT 16-17.pdf",
+    "sha256": "b200c1501bc4bfb5c7e58d6f3c6d3b5df9f155cc86602a3170515900a7c12884",
+    "total_pages": 11,
+    "parsed_pages": 11,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 127,
+    "block_counts_by_type": {
+      "concept_prose": 38,
+      "mcq_item": 82,
+      "callout_tip": 2,
+      "written_item": 5
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "BDS ADMISSION TEST: 2016-2017\n\n## Q01\nরুই মাছের তাপমাত্রা কত?\nA. 24°C  \nB. 16°C  \nC. 14°C  \nD. 20°C  \n\nSolve: 14°C তাপমাত্রার নীচে রুই মাছ বাঁচতে পারে না।\n\nNote: জেনে নাও রুই মাছের সম্পর্কিত কিছু থথা || [আজমল]\n\n## Q02\nCa²⁺ সালফাক্টরে কোনটি নবাভূত?\nA. K₂H₂Sb₂O₇ \nB. (NH₄)₂C₂O₄ \nC. AgNO₃ \nD. K₂H₄Sb₂O₇ \n\nSolve: সত্যিক উত্তর অপশন 'B' আর্থিং (NH₄)₂C₂O₄\n\nNote: Visit MBBS 2016-17 সেসনের ২ নং প্রশ্নের বাখ্শ\n\n## Q03\nভূগোল মাপার যত্রের নাম কি?\nA. স্পিডোমিটার \nB. হাইড্রোমিটার \nC. দ্যার্মোমিটার \nD. সিসমোগ্রাফ \n\nSolve: সত্যিক উত্তর অপশন 'D' আর্থিং সিসমোগ্রাফ।\n\nNote: জেনে নাও কিছু প্রযোজনীয় যন্ত্র ও ব্যবহার [বিভিন্ন লেখক]\n\n## Q04\nশুনছিলে নিচের কোন শব্দটি সচিক? We shall discuss—it later.\nA. about \nB. in \nC. on \nD. for \n\nSolve: এখনে উত্তর Blank হবে; কেননা discuss এর পরে কোনো preposition বলে না।\n\nNote: দেখে নাও কিছু প্রযোজনীয় preposition এর ব্যবহার:\n\n## ConceptNote: Prepositions\n- Excuse from/of – ফ্রমা করা\n- Excuse for – কারণ\n- Exhausted with – ক্ষুত\n- Engaged to – বাণিজ্য\n- Engaged in – নিমগ্ন\n\n## Q05\nএ বছর সাহিত্যে নোবেল পুরস্কার পেয়েছেন-\nA. সঙ্গেলানা আলেকজিয়েভিচ \nB. বব ডিলাম \nC. এলিস মুনরো \nD. প্যাট্রিক মোডিয়ানো \n\nSolve: সত্যিক উত্তর অপশন 'C' আর্থিং এলিস মুনরো।\n\n## Q06\nকোন কোষ হতে পাকস্থলিতে HCl তৈরি হয়?\nA. চীফ কোষ \nB. G কোষ \nC. প্যারাইটাল কোষ \nD. বিটা কোষ \n\nSolve: প্যারাইটাল কোষ থেকে পাকস্থলিতে HCl তৈরি হয়।\n\n## Q07\nল্যাবরেটরিতে যখন এসিড, ক্ষার ও বিভিন্ন বিশ্বাস্ত পদার্থ নিয়ে কাজ করা হয়, তখন কোন ধরনের সাবধানতা অবলম্বন করা উচিত?\nA. এগ্রোন পরা \nB. গণগলস ব্যবহার করা \nC. মাঙ্ক ব্যবহার করা \nD. গ্লাভস ব্যবহার করা \n\nSolve: সত্যিক উত্তর অপশন 'D' আর্থিং গ্লাভস ব্যবহার করা।\n\n## Q08\nএকটি গাড়ি স্থির অবস্থান থেকে 10 ms⁻² সমতুল্যরে চলতে শুরু করে। 10 সেকেন্ড পরে এটি কত দূরত্ব অতিক্রম করবে?\nA. 10 m \nB. 20 m \nC. 500 m \nD. 100 m \n\nSolve: আমরা জানি,\ns = ut + $\\frac{1}{2}$at² .\n= o × t + $\\frac{1}{2}$×10×(10)²\n= $\\frac{1}{2}$×10×100\n= 500\nঅতএব সত্যিক উত্তর অপশন 'C'",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "BDS ADMISSION TEST: 2016-2017",
+          "structured_data": {},
+          "id": "3e8540d7-8667-5a53-b189-4714df6164f2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q01",
+          "content_markdown": "রুই মাছের তাপমাত্রা কত?\n\nSolve: 14°C তাপমাত্রার নীচে রুই মাছ বাঁচতে পারে না।\n\nNote: জেনে নাও রুই মাছের সম্পর্কিত কিছু থথা || [আজমল]",
+          "structured_data": {
+            "question_number": "01",
+            "subtype": "mcq_item",
+            "stem": "রুই মাছের তাপমাত্রা কত?\n\nSolve: 14°C তাপমাত্রার নীচে রুই মাছ বাঁচতে পারে না।\n\nNote: জেনে নাও রুই মাছের সম্পর্কিত কিছু থথা || [আজমল]",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "24°C",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "16°C",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "14°C",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "20°C",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e84909b4-a4fd-5033-86f3-38d0e8c5e9e7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q02",
+          "content_markdown": "Ca²⁺ সালফাক্টরে কোনটি নবাভূত?\n\nSolve: সত্যিক উত্তর অপশন 'B' আর্থিং (NH₄)₂C₂O₄\n\nNote: Visit MBBS 2016-17 সেসনের ২ নং প্রশ্নের বাখ্শ",
+          "structured_data": {
+            "question_number": "02",
+            "subtype": "mcq_item",
+            "stem": "Ca²⁺ সালফাক্টরে কোনটি নবাভূত?\n\nSolve: সত্যিক উত্তর অপশন 'B' আর্থিং (NH₄)₂C₂O₄\n\nNote: Visit MBBS 2016-17 সেসনের ২ নং প্রশ্নের বাখ্শ",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "K₂H₂Sb₂O₇",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "(NH₄)₂C₂O₄",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "AgNO₃",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "K₂H₄Sb₂O₇",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b005dc4b-8b44-54a8-b0dc-1afe8905b02d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q03",
+          "content_markdown": "ভূগোল মাপার যত্রের নাম কি?\n\nSolve: সত্যিক উত্তর অপশন 'D' আর্থিং সিসমোগ্রাফ।\n\nNote: জেনে নাও কিছু প্রযোজনীয় যন্ত্র ও ব্যবহার [বিভিন্ন লেখক]",
+          "structured_data": {
+            "question_number": "03",
+            "subtype": "mcq_item",
+            "stem": "ভূগোল মাপার যত্রের নাম কি?\n\nSolve: সত্যিক উত্তর অপশন 'D' আর্থিং সিসমোগ্রাফ।\n\nNote: জেনে নাও কিছু প্রযোজনীয় যন্ত্র ও ব্যবহার [বিভিন্ন লেখক]",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "স্পিডোমিটার",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "হাইড্রোমিটার",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "দ্যার্মোমিটার",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "সিসমোগ্রাফ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1fb8cfb1-43bf-5f34-96c9-6124eb4a04f1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q04",
+          "content_markdown": "শুনছিলে নিচের কোন শব্দটি সচিক? We shall discuss—it later.\n\nSolve: এখনে উত্তর Blank হবে; কেননা discuss এর পরে কোনো preposition বলে না।\n\nNote: দেখে নাও কিছু প্রযোজনীয় preposition এর ব্যবহার:",
+          "structured_data": {
+            "question_number": "04",
+            "subtype": "mcq_item",
+            "stem": "শুনছিলে নিচের কোন শব্দটি সচিক? We shall discuss—it later.\n\nSolve: এখনে উত্তর Blank হবে; কেননা discuss এর পরে কোনো preposition বলে না।\n\nNote: দেখে নাও কিছু প্রযোজনীয় preposition এর ব্যবহার:",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "about",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "in",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "on",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "for",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "dfc14876-eff6-5e48-95c6-2589ff7e92ea"
+        },
+        {
+          "block_type": "callout_tip",
+          "title": "Prepositions",
+          "content_markdown": "- Excuse from/of – ফ্রমা করা\n- Excuse for – কারণ\n- Exhausted with – ক্ষুত\n- Engaged to – বাণিজ্য\n- Engaged in – নিমগ্ন",
+          "structured_data": {},
+          "id": "beb26a09-6646-5bdf-87cd-1252b8bdca76"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q05",
+          "content_markdown": "এ বছর সাহিত্যে নোবেল পুরস্কার পেয়েছেন-\n\nSolve: সত্যিক উত্তর অপশন 'C' আর্থিং এলিস মুনরো।",
+          "structured_data": {
+            "question_number": "05",
+            "subtype": "mcq_item",
+            "stem": "এ বছর সাহিত্যে নোবেল পুরস্কার পেয়েছেন-\n\nSolve: সত্যিক উত্তর অপশন 'C' আর্থিং এলিস মুনরো।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "সঙ্গেলানা আলেকজিয়েভিচ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "বব ডিলাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "এলিস মুনরো",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "প্যাট্রিক মোডিয়ানো",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "bcf69cac-45d9-5004-9253-a21aa822c186"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q06",
+          "content_markdown": "কোন কোষ হতে পাকস্থলিতে HCl তৈরি হয়?\n\nSolve: প্যারাইটাল কোষ থেকে পাকস্থলিতে HCl তৈরি হয়।",
+          "structured_data": {
+            "question_number": "06",
+            "subtype": "mcq_item",
+            "stem": "কোন কোষ হতে পাকস্থলিতে HCl তৈরি হয়?\n\nSolve: প্যারাইটাল কোষ থেকে পাকস্থলিতে HCl তৈরি হয়।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "চীফ কোষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "G কোষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "প্যারাইটাল কোষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "বিটা কোষ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "07997c73-29b8-56c1-8ef3-96bf9e08ae7c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q07",
+          "content_markdown": "ল্যাবরেটরিতে যখন এসিড, ক্ষার ও বিভিন্ন বিশ্বাস্ত পদার্থ নিয়ে কাজ করা হয়, তখন কোন ধরনের সাবধানতা অবলম্বন করা উচিত?\n\nSolve: সত্যিক উত্তর অপশন 'D' আর্থিং গ্লাভস ব্যবহার করা।",
+          "structured_data": {
+            "question_number": "07",
+            "subtype": "mcq_item",
+            "stem": "ল্যাবরেটরিতে যখন এসিড, ক্ষার ও বিভিন্ন বিশ্বাস্ত পদার্থ নিয়ে কাজ করা হয়, তখন কোন ধরনের সাবধানতা অবলম্বন করা উচিত?\n\nSolve: সত্যিক উত্তর অপশন 'D' আর্থিং গ্লাভস ব্যবহার করা।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "এগ্রোন পরা",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "গণগলস ব্যবহার করা",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "মাঙ্ক ব্যবহার করা",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "গ্লাভস ব্যবহার করা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3132c899-3fa9-596b-9293-c1c940d25589"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q08",
+          "content_markdown": "একটি গাড়ি স্থির অবস্থান থেকে 10 ms⁻² সমতুল্যরে চলতে শুরু করে। 10 সেকেন্ড পরে এটি কত দূরত্ব অতিক্রম করবে?\n\nSolve: আমরা জানি,\ns = ut + $\\frac{1}{2}$at² .\n= o × t + $\\frac{1}{2}$×10×(10)²\n= $\\frac{1}{2}$×10×100\n= 500\nঅতএব সত্যিক উত্তর অপশন 'C'",
+          "structured_data": {
+            "question_number": "08",
+            "subtype": "mcq_item",
+            "stem": "একটি গাড়ি স্থির অবস্থান থেকে 10 ms⁻² সমতুল্যরে চলতে শুরু করে। 10 সেকেন্ড পরে এটি কত দূরত্ব অতিক্রম করবে?\n\nSolve: আমরা জানি,\ns = ut + $\\frac{1}{2}$at² .\n= o × t + $\\frac{1}{2}$×10×(10)²\n= $\\frac{1}{2}$×10×100\n= 500\nঅতএব সত্যিক উত্তর অপশন 'C'",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "10 m",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "20 m",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "500 m",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "100 m",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "22876a17-2575-55aa-85ff-08d9b68fbbcf"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 10,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 99.56,
+        "eval_count": 1600
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "বাক্যের সাথে এই বাক্যের সঠিক ইংরেজী অনুবাদ কোনটি?\n\nA. This is out of my power\nB. This is beyond my ability\nC. This is beyond my reach\nD. This is out of my function\n\nSolve সঠিক উত্তর 'C' আর্থিঃ This is beyond my reach.\n\nঅল্লেখযোগ্য শহর কোন দেশের অন্তর্ভুক্ত?\n\nA. তুরস্ক\nB. ইরাক\nC. ফিলিস্তিন\nD. সিরিয়া-\n\nAdams Apple কোথায় থাকে?\n\nA. শ্বরমণ্ডল\nB. শ্বাসনালী\nC. ব্রহ্মাণ্ড\nD. ফুপফুস\n\nইউরিয়া (H₂N-CO-NH₂) প্রস্তুতির প্রধান কাঠামোল হলো:\n\nA. তরল বায়ু\nB. তরলভৌত পেট্রোলিয়াম গ্যাস\nC. কার্বনাইট্রাইল\nD. কার্বমেট\n\nকোন কণার বিনিময়ের কারণে তড়িৎ চৈত্রকীর্তি বল ক্রিয়াশীল হয়?\n\nA. বোসন\nB. ফোটন\nC. মেসন\nD. ওভিটন\n\n‘চুম্বন’ বাক্যের জন্য খণ্ডিকর ‘এই বাক্যের সঠিক ইংরেজী অনুবাদ কোনটি?’\n\nA. Smoking is injurious for health.\nB. Smoking is injurious to health.\nC. Smoking is injurious on health.\nD. Smoking is injurious with health.\n\nসঠিক উত্তর 'B' আর্থিঃ Smoking is injurious to health.\n\nNote : জেনে নাও কিছু preposition এর ব্যবহার।\n\nIntimate with - ঘনিষ্ঠ\nIntimate to - জানানো\nTaste of - স্বাদ\nTaste for - পছন্দ\nTired with - ক্লাস্ট\nTired of - বিরক্ত\nTrue to - অটল\nTrust to - নির্ভর করা\nTrust with/in - বিশ্বাস করা\nUse for/of - প্রয়োজন\nVain of - গর্বিত\n\nVest in/with - অর্পণ করা\nVexed with - বিরক্ত\nWait for - অপেক্ষা করা\nWait upon - সেবা করা\nYield to - নতি-শীকার করা\nZest for - অনুরাগ/ভালোবাসা\nZeal for - উৎসাহী\n\nবর্তমানে যুক্তরাজ্যের প্রধানমন্ত্রী কে?\n\nA. ডেভিড ক্যামেরন\nB. জন কেরি\nC. মার্শারেট থ্যাচার\nD. থেরেসা মে\n\nবৃষ্কের কাজ নয় কোনটি?\n\nA. রক্তচাপ নিয়ন্ত্রণ করা\nB. অঙ্গ ও ক্ষেত্রের সমতা রক্ষা করা\nC. তাপ নিয়ন্ত্রণ করা\nD. রক্তের আয়ন নিয়ন্ত্রণ করা\n\nসঠিক উত্তর 'C' বৃষ্কের কাজ নয়।\n\nCI(17) এর ইলেকট্রন বিন্যাস কোনটি?\n\nA. ls² 2s² 2p⁶ 3s³ 3p⁵\nB. Is² 2s² 2p¹ 3s¹ 3p⁵\nC. Is² 2s² 2p⁵ 3s³ 3p⁵\nD. Is² 2s² 2p⁵ 3s³ 3p⁴\n\nসঠিক উত্তর 'A' আর্থিঃ Is² 2s² 2p⁶ 3s³ 3p⁵\n\nপয়সনের অনুপাতের সঠিক সীমা কোনটি?\n\nA. 1 হতে 2 এর মধ্যে\nB. −1 হতে $\\frac{1}{2}$ এর মধ্যে\nC. 1 হতে +1 এর মধ্যে\nD. $-\\frac{1}{2}$ হতে 1 এর মধ্যে\n\nসঠিক উত্তর 'A' আর্থিঃ পয়সনের অনুপাত, σ = পার্শ্ব বিকৃতি ধীর্ঘ বিকৃতি এবং এই অনুপাতের মান –1 থেকে $\\frac{1}{2}$ এর মধ্যে সীমাবদ্ধ।\n\nWhich one is the correct active sentence of the passive form? 'Promises should be kept'\n\nA. You should keep your promises.\nB. One should keep one's promises.\nC. He should keep his promises.\nD. One should keep his promises.\n\nসঠিক উত্তর 'B' আর্থিঃ One should keep one’s promises.\n\nNote : দেখে নাও কিছু প্রয়োজনীয় Voice পরিবর্তন।\n\nDo the work\n= Let the work be done\nWrite the letter without any delay\n= Let the letter be written without any delay\nDo not do the work\n= Do not let the work be done\nDo not shut the door\n= Let not the door be shut",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "বাক্যের সাথে এই বাক্যের সঠিক ইংরেজী অনুবাদ কোনটি?",
+          "structured_data": {},
+          "id": "b166696b-537c-5caa-99d7-3574a2993a30"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. This is out of my power\nB. This is beyond my ability\nC. This is beyond my reach\nD. This is out of my function",
+          "structured_data": {},
+          "id": "d2cad2fa-3df6-569e-8be6-75e6f1dcfc26"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Solve সঠিক উত্তর 'C' আর্থিঃ This is beyond my reach.",
+          "structured_data": {},
+          "id": "5947b7d3-fb03-5a84-98ca-8690fc5b0a9f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "অল্লেখযোগ্য শহর কোন দেশের অন্তর্ভুক্ত?",
+          "structured_data": {},
+          "id": "e2edb0bb-c840-5793-91c4-07f1af25c117"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. তুরস্ক\nB. ইরাক\nC. ফিলিস্তিন\nD. সিরিয়া-",
+          "structured_data": {},
+          "id": "9efaad4c-6c79-550a-af3b-1871faec8391"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Adams Apple কোথায় থাকে?",
+          "structured_data": {},
+          "id": "d3dc16eb-f8c3-5c5e-addf-37fdea6ec47c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. শ্বরমণ্ডল\nB. শ্বাসনালী\nC. ব্রহ্মাণ্ড\nD. ফুপফুস",
+          "structured_data": {},
+          "id": "16d77414-33a1-5415-a726-5bacc054c9ec"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "ইউরিয়া (H₂N-CO-NH₂) প্রস্তুতির প্রধান কাঠামোল হলো:",
+          "structured_data": {},
+          "id": "193b849f-39c7-532d-bb79-b75beb9118c1"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. তরল বায়ু\nB. তরলভৌত পেট্রোলিয়াম গ্যাস\nC. কার্বনাইট্রাইল\nD. কার্বমেট",
+          "structured_data": {},
+          "id": "f2b451b7-e6ae-5ead-9e75-68a7f7129b15"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "কোন কণার বিনিময়ের কারণে তড়িৎ চৈত্রকীর্তি বল ক্রিয়াশীল হয়?",
+          "structured_data": {},
+          "id": "34306783-2dc7-570a-8914-394b1743e9bd"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. বোসন\nB. ফোটন\nC. মেসন\nD. ওভিটন",
+          "structured_data": {},
+          "id": "7f6d0408-95b6-5156-b4f4-f5bd838c9023"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "‘চুম্বন’ বাক্যের জন্য খণ্ডিকর ‘এই বাক্যের সঠিক ইংরেজী অনুবাদ কোনটি?’",
+          "structured_data": {},
+          "id": "65e77606-2b71-5879-bd62-aacdd757911b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. Smoking is injurious for health.\nB. Smoking is injurious to health.\nC. Smoking is injurious on health.\nD. Smoking is injurious with health.",
+          "structured_data": {},
+          "id": "e8f880dd-bd37-5c79-b646-0c7e3528038c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "সঠিক উত্তর 'B' আর্থিঃ Smoking is injurious to health.",
+          "structured_data": {},
+          "id": "2d05fec0-18fe-5799-b2df-350349ca2372"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Note : জেনে নাও কিছু preposition এর ব্যবহার।",
+          "structured_data": {},
+          "id": "40b22d9c-64ee-5fa9-a263-79381c3497d1"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Intimate with - ঘনিষ্ঠ\nIntimate to - জানানো\nTaste of - স্বাদ\nTaste for - পছন্দ\nTired with - ক্লাস্ট\nTired of - বিরক্ত\nTrue to - অটল\nTrust to - নির্ভর করা\nTrust with/in - বিশ্বাস করা\nUse for/of - প্রয়োজন\nVain of - গর্বিত",
+          "structured_data": {},
+          "id": "d6fa9faf-b37a-50ff-b4c3-fd14c832dd5d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Vest in/with - অর্পণ করা\nVexed with - বিরক্ত\nWait for - অপেক্ষা করা\nWait upon - সেবা করা\nYield to - নতি-শীকার করা\nZest for - অনুরাগ/ভালোবাসা\nZeal for - উৎসাহী",
+          "structured_data": {},
+          "id": "17caaa62-42a7-5a85-9c09-f0399be5f209"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "বর্তমানে যুক্তরাজ্যের প্রধানমন্ত্রী কে?",
+          "structured_data": {},
+          "id": "78e1479e-ee6e-58b9-a19f-4fdf14a97604"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. ডেভিড ক্যামেরন\nB. জন কেরি\nC. মার্শারেট থ্যাচার\nD. থেরেসা মে",
+          "structured_data": {},
+          "id": "bf6047ac-84fc-5465-8934-29732b574c69"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "বৃষ্কের কাজ নয় কোনটি?",
+          "structured_data": {},
+          "id": "f43fdbaa-8f65-5598-b3da-40b6e7000c8e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. রক্তচাপ নিয়ন্ত্রণ করা\nB. অঙ্গ ও ক্ষেত্রের সমতা রক্ষা করা\nC. তাপ নিয়ন্ত্রণ করা\nD. রক্তের আয়ন নিয়ন্ত্রণ করা",
+          "structured_data": {},
+          "id": "49d5cc36-cf7c-5b03-9c0b-9977c52fb976"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "সঠিক উত্তর 'C' বৃষ্কের কাজ নয়।",
+          "structured_data": {},
+          "id": "028e6515-ee0a-5677-af49-8d45f3f55f31"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "CI(17) এর ইলেকট্রন বিন্যাস কোনটি?",
+          "structured_data": {},
+          "id": "563d142c-848a-5e0c-b581-252bebaeed7e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. ls² 2s² 2p⁶ 3s³ 3p⁵\nB. Is² 2s² 2p¹ 3s¹ 3p⁵\nC. Is² 2s² 2p⁵ 3s³ 3p⁵\nD. Is² 2s² 2p⁵ 3s³ 3p⁴",
+          "structured_data": {},
+          "id": "db9f7fe3-c599-5b6b-a54d-2b71b49d1c72"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "সঠিক উত্তর 'A' আর্থিঃ Is² 2s² 2p⁶ 3s³ 3p⁵",
+          "structured_data": {},
+          "id": "533aff64-da0a-59c9-aba0-425a28ddf050"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "পয়সনের অনুপাতের সঠিক সীমা কোনটি?",
+          "structured_data": {},
+          "id": "718bccd8-e967-5b76-a412-62fedbed84f5"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. 1 হতে 2 এর মধ্যে\nB. −1 হতে $\\frac{1}{2}$ এর মধ্যে\nC. 1 হতে +1 এর মধ্যে\nD. $-\\frac{1}{2}$ হতে 1 এর মধ্যে",
+          "structured_data": {},
+          "id": "12204188-1c2e-5db1-ab4d-4ca9dc0b48c5"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "সঠিক উত্তর 'A' আর্থিঃ পয়সনের অনুপাত, σ = পার্শ্ব বিকৃতি ধীর্ঘ বিকৃতি এবং এই অনুপাতের মান –1 থেকে $\\frac{1}{2}$ এর মধ্যে সীমাবদ্ধ।",
+          "structured_data": {},
+          "id": "b5620230-07b7-589e-8ec1-8385f54b4bbf"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Which one is the correct active sentence of the passive form? 'Promises should be kept'",
+          "structured_data": {},
+          "id": "ff79b1bf-f841-565a-b6a4-e91b65e98b8c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "A. You should keep your promises.\nB. One should keep one's promises.\nC. He should keep his promises.\nD. One should keep his promises.",
+          "structured_data": {},
+          "id": "a45938c1-ff88-5e8f-9779-aba7690b8db4"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "সঠিক উত্তর 'B' আর্থিঃ One should keep one’s promises.",
+          "structured_data": {},
+          "id": "cfe9816c-2706-55f6-a3cb-61a7435107e5"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Note : দেখে নাও কিছু প্রয়োজনীয় Voice পরিবর্তন।",
+          "structured_data": {},
+          "id": "4ceb6b45-8cd7-5765-9f95-aa28be9b17e2"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "Do the work\n= Let the work be done\nWrite the letter without any delay\n= Let the letter be written without any delay\nDo not do the work\n= Do not let the work be done\nDo not shut the door\n= Let not the door be shut",
+          "structured_data": {},
+          "id": "fa5d1f49-8444-5cae-8ade-ec8b208b6163"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 33,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 115.69,
+        "eval_count": 1822
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "## Q20\n**Type:** mcq\n**Stem:** স্বাভাবিক মুভের রং খড়ের রং– এর মন্তব্য হবার কারণ-\nA. ইউরিয়া\nB. ইউরোজেলম\nC. অ্যামোনিয়া\nD. বিলিরবিন\n\nNote: জেনে নাও ছিড়ু প্রয়োগীয় থথ্য। [আজমান+আলীম]\n→ বৃক্ষে মূত্র তৈরি হয় এবং প্রতি মিনিটে ১ ঘন সেমি, মূত্র সৃষ্টি হয়\n→ মানুষের প্রধান নাইট্রোজেন ঘটিদ চেচন বর্জ্ঞ ৪ ইউরিয়া, ইউরিক এসিড, অ্যামোনিয়া, ক্রিটিনিন ইত্যাদি\n→ যখনওই ইউরিয়া তৈরি হয়\n→ বিজ্ঞানী কৃশনী– এর মতে মূত্র সৃষ্টির ধাপ ৩টি। যথা:\ni.অতি পরিশ্রাণ\nii.নির্বিচার মূলক পুনঃপোশায়\niii.সক্রিয় ফরণ\n→ মানুষদেহে প্রতি মিনিটে 125 cm³ গ্লোমুরার ফিল্ট্রেট উৎপন্ন হয় যার 124 cm³ পুনঃপোশিত হয় (৮০% প্রক্রিয়াল প্যাচানো নালিকায়, বাকী ২০% হেনলি, ডিটিল্যান্ড প্যাচানো নালিকা, সঙ্গাঠী নালীতে শোমিত হয়।)\n→ একজন সুস্থ মানুষ প্রতিদিন ১৫০০ মিলি মূত্র তাঙ্গ করে\n→ বৃক্ষে দৈনিক ০.৫ - ২.৫ লিটার মূত্র উৎপন্ন হয়\n→ ইউরোজেলম নামক পদার্থ থাকায় মূত্র খড় বর্ণের হয়\n→ মূত্রে pH মান ৬.৫ এবং আঠা঳কৃত ১.০১-১.৫০\n\n## Q21\n**Type:** mcq\n**Stem:** তড়িৎ চুম্বকীয় বলের বাহক কৌনটি?\nA. ইলেক্ট্রন\nB. প্রোটিন\nC. ফোটন\nD. নিউট্রন\n\n## Solve\nতড়িৎ চুম্বকীয় বলের বাহক হচ্ছে ফোটন।\n\n## Q22\n**Type:** mcq\n**Stem:** মানুষের কণাল কোন অস্থি দিয়ে তৈরি হয়?\nA. অফ্রিপটাল\nB. ফ্রুন্টাল\nC. প্যারাইটাল\nD. টেম্পোরাল\n\n## Solve\nমানুষের কণাল ফ্রুন্টাল অস্থি দিয়ে তৈরি।\n\n## Q23\n**Type:** mcq\n**Stem:** একটি এনার্জি বাষ্পের গায়ে 220 V – 20 W লেখা আছে। বাষ্টির ভেতর দিয়ে তড়িৎ প্রবাহ কত?\nA. $\\frac{3}{30}$ A\nB. $\\frac{1}{11}$ A\nC. $\\frac{1}{5}$ A\nD. $\\frac{5}{11}$ A\n\n## Solve\nআমার জানি,\nP = VI\n$\\Rightarrow$ I = $\\frac{P}{V}$\n= $\\frac{20}{220}$\n∴ I = $\\frac{1}{11}$ A.\nএখানে,\nক্ষমতা, P = 20W\nবিভব, V = 220V .\nতড়িৎ প্রবাহ, I = ?\n∴ I = $\\frac{1}{11}$ A.\nঅতএব সঠিক উত্তর অপশন 'B'.\n\n## Q24\n**Type:** mcq\n**Stem:** সিসাময়েড অস্থি কৌনটি?\nA. পর্ষ্কা\nB. প্যাটেলা\nC. কিউবয়েড\nD. টিবিয়া\n\n## Solve\nপ্যাটেলা অস্থি পেশির টেনন থেকে উৎপন্ন হয় এবং এটি একটি সিসাময়েড অস্থি।\n\n## Q25\n**Type:** mcq\n**Stem:** পর্যায়িত সারণী p-ব্লকের নৌল সমূহকে বলা হয়-\nA. মূখ্যফার মৌল\nB. প্রতিরোদ্ধ মৌল\nC. ভারী ধাতু\nD. অবস্থান্ত মৌল\n\n## Solve\nসঠিক উত্তর অপশন 'B' অর্থং প্রতিরোদ্ধ মৌল।\n\n## Note: Visit MBBS → 2016 – 2017 শেষের ৩০ নং প্রশ্নের ব্যাখ্যা\n\n## Q26\n**Type:** mcq\n**Stem:** উন্নত হাড়ভাঙ্গার অপর নাম-\nA. সাধারণ হাড়ভাঙ্গা\nB. গোপিক হাড়ভাঙ্গা\nC. জটিল হাড়ভাঙ্গা\nD. কয়েক টুকরা বিশিষ্ট হাড়ভাঙ্গা\n\n## Solve\nউন্নত হাড়ভাঙ্গার অপর নাম হলো গোপিক হাড়ভাঙ্গা।\n\n## Q27\n**Type:** mcq\n**Stem:** ফ্রেমিং এর বাম হস্ত সুত্রে, বাম হাতের মধ্যমা কি নির্দেশ করে?\nA. চৌম্বক ক্ষেত্র\nB. তড়িৎ প্রবাহ\nC. বল\nD. ঢুঁকের দিক\n\n## Solve\nফ্রেমিং এর বাম হস্ত সুত্রে, বাম হাতের মধ্যমা → তড়িৎ প্রবাহ,\nতজ্জনি → চৌম্বক ক্ষেত্র, বৃত্তাঙ্গী বালের দিক নির্দেশ করে।",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q20",
+          "content_markdown": "স্বাভাবিক মুভের রং খড়ের রং– এর মন্তব্য হবার কারণ-\n\nNote: জেনে নাও ছিড়ু প্রয়োগীয় থথ্য। [আজমান+আলীম]\n→ বৃক্ষে মূত্র তৈরি হয় এবং প্রতি মিনিটে ১ ঘন সেমি, মূত্র সৃষ্টি হয়\n→ মানুষের প্রধান নাইট্রোজেন ঘটিদ চেচন বর্জ্ঞ ৪ ইউরিয়া, ইউরিক এসিড, অ্যামোনিয়া, ক্রিটিনিন ইত্যাদি\n→ যখনওই ইউরিয়া তৈরি হয়\n→ বিজ্ঞানী কৃশনী– এর মতে মূত্র সৃষ্টির ধাপ ৩টি। যথা:\ni.অতি পরিশ্রাণ\nii.নির্বিচার মূলক পুনঃপোশায়\niii.সক্রিয় ফরণ\n→ মানুষদেহে প্রতি মিনিটে 125 cm³ গ্লোমুরার ফিল্ট্রেট উৎপন্ন হয় যার 124 cm³ পুনঃপোশিত হয় (৮০% প্রক্রিয়াল প্যাচানো নালিকায়, বাকী ২০% হেনলি, ডিটিল্যান্ড প্যাচানো নালিকা, সঙ্গাঠী নালীতে শোমিত হয়।)\n→ একজন সুস্থ মানুষ প্রতিদিন ১৫০০ মিলি মূত্র তাঙ্গ করে\n→ বৃক্ষে দৈনিক ০.৫ - ২.৫ লিটার মূত্র উৎপন্ন হয়\n→ ইউরোজেলম নামক পদার্থ থাকায় মূত্র খড় বর্ণের হয়\n→ মূত্রে pH মান ৬.৫ এবং আঠা঳কৃত ১.০১-১.৫০",
+          "structured_data": {
+            "question_number": "20",
+            "subtype": "mcq",
+            "stem": "স্বাভাবিক মুভের রং খড়ের রং– এর মন্তব্য হবার কারণ-\n\nNote: জেনে নাও ছিড়ু প্রয়োগীয় থথ্য। [আজমান+আলীম]\n→ বৃক্ষে মূত্র তৈরি হয় এবং প্রতি মিনিটে ১ ঘন সেমি, মূত্র সৃষ্টি হয়\n→ মানুষের প্রধান নাইট্রোজেন ঘটিদ চেচন বর্জ্ঞ ৪ ইউরিয়া, ইউরিক এসিড, অ্যামোনিয়া, ক্রিটিনিন ইত্যাদি\n→ যখনওই ইউরিয়া তৈরি হয়\n→ বিজ্ঞানী কৃশনী– এর মতে মূত্র সৃষ্টির ধাপ ৩টি। যথা:\ni.অতি পরিশ্রাণ\nii.নির্বিচার মূলক পুনঃপোশায়\niii.সক্রিয় ফরণ\n→ মানুষদেহে প্রতি মিনিটে 125 cm³ গ্লোমুরার ফিল্ট্রেট উৎপন্ন হয় যার 124 cm³ পুনঃপোশিত হয় (৮০% প্রক্রিয়াল প্যাচানো নালিকায়, বাকী ২০% হেনলি, ডিটিল্যান্ড প্যাচানো নালিকা, সঙ্গাঠী নালীতে শোমিত হয়।)\n→ একজন সুস্থ মানুষ প্রতিদিন ১৫০০ মিলি মূত্র তাঙ্গ করে\n→ বৃক্ষে দৈনিক ০.৫ - ২.৫ লিটার মূত্র উৎপন্ন হয়\n→ ইউরোজেলম নামক পদার্থ থাকায় মূত্র খড় বর্ণের হয়\n→ মূত্রে pH মান ৬.৫ এবং আঠা঳কৃত ১.০১-১.৫০",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ইউরিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ইউরোজেলম",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "অ্যামোনিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "বিলিরবিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "73f3086c-fda1-5fa1-87c5-b7dd2a89fcff"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q21",
+          "content_markdown": "তড়িৎ চুম্বকীয় বলের বাহক কৌনটি?\n\n## Solve\nতড়িৎ চুম্বকীয় বলের বাহক হচ্ছে ফোটন।",
+          "structured_data": {
+            "question_number": "21",
+            "subtype": "mcq",
+            "stem": "তড়িৎ চুম্বকীয় বলের বাহক কৌনটি?\n\n## Solve\nতড়িৎ চুম্বকীয় বলের বাহক হচ্ছে ফোটন।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ইলেক্ট্রন",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "প্রোটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ফোটন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "নিউট্রন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "31b4ca18-586a-5c25-946b-26bfd10c1834"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q22",
+          "content_markdown": "মানুষের কণাল কোন অস্থি দিয়ে তৈরি হয়?\n\n## Solve\nমানুষের কণাল ফ্রুন্টাল অস্থি দিয়ে তৈরি।",
+          "structured_data": {
+            "question_number": "22",
+            "subtype": "mcq",
+            "stem": "মানুষের কণাল কোন অস্থি দিয়ে তৈরি হয়?\n\n## Solve\nমানুষের কণাল ফ্রুন্টাল অস্থি দিয়ে তৈরি।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "অফ্রিপটাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ফ্রুন্টাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "প্যারাইটাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "টেম্পোরাল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e5502125-d42d-562f-badc-093e11c6d859"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q23",
+          "content_markdown": "একটি এনার্জি বাষ্পের গায়ে 220 V – 20 W লেখা আছে। বাষ্টির ভেতর দিয়ে তড়িৎ প্রবাহ কত?\n\n## Solve\nআমার জানি,\nP = VI\n$\\Rightarrow$ I = $\\frac{P}{V}$\n= $\\frac{20}{220}$\n∴ I = $\\frac{1}{11}$ A.\nএখানে,\nক্ষমতা, P = 20W\nবিভব, V = 220V .\nতড়িৎ প্রবাহ, I = ?\n∴ I = $\\frac{1}{11}$ A.\nঅতএব সঠিক উত্তর অপশন 'B'.",
+          "structured_data": {
+            "question_number": "23",
+            "subtype": "mcq",
+            "stem": "একটি এনার্জি বাষ্পের গায়ে 220 V – 20 W লেখা আছে। বাষ্টির ভেতর দিয়ে তড়িৎ প্রবাহ কত?\n\n## Solve\nআমার জানি,\nP = VI\n$\\Rightarrow$ I = $\\frac{P}{V}$\n= $\\frac{20}{220}$\n∴ I = $\\frac{1}{11}$ A.\nএখানে,\nক্ষমতা, P = 20W\nবিভব, V = 220V .\nতড়িৎ প্রবাহ, I = ?\n∴ I = $\\frac{1}{11}$ A.\nঅতএব সঠিক উত্তর অপশন 'B'.",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "$\\frac{3}{30}$ A",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "$\\frac{1}{11}$ A",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "$\\frac{1}{5}$ A",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "$\\frac{5}{11}$ A",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "74dbc235-db3c-5d6b-9d34-02f688b41a01"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q24",
+          "content_markdown": "সিসাময়েড অস্থি কৌনটি?\n\n## Solve\nপ্যাটেলা অস্থি পেশির টেনন থেকে উৎপন্ন হয় এবং এটি একটি সিসাময়েড অস্থি।",
+          "structured_data": {
+            "question_number": "24",
+            "subtype": "mcq",
+            "stem": "সিসাময়েড অস্থি কৌনটি?\n\n## Solve\nপ্যাটেলা অস্থি পেশির টেনন থেকে উৎপন্ন হয় এবং এটি একটি সিসাময়েড অস্থি।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "পর্ষ্কা",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "প্যাটেলা",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "কিউবয়েড",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "টিবিয়া",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ab670247-09d6-5328-8b58-433ccda8c88b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q25",
+          "content_markdown": "পর্যায়িত সারণী p-ব্লকের নৌল সমূহকে বলা হয়-\n\n## Solve\nসঠিক উত্তর অপশন 'B' অর্থং প্রতিরোদ্ধ মৌল।\n\n## Note: Visit MBBS → 2016 – 2017 শেষের ৩০ নং প্রশ্নের ব্যাখ্যা",
+          "structured_data": {
+            "question_number": "25",
+            "subtype": "mcq",
+            "stem": "পর্যায়িত সারণী p-ব্লকের নৌল সমূহকে বলা হয়-\n\n## Solve\nসঠিক উত্তর অপশন 'B' অর্থং প্রতিরোদ্ধ মৌল।\n\n## Note: Visit MBBS → 2016 – 2017 শেষের ৩০ নং প্রশ্নের ব্যাখ্যা",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "মূখ্যফার মৌল",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "প্রতিরোদ্ধ মৌল",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ভারী ধাতু",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "অবস্থান্ত মৌল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fbe81def-5a34-5e1b-a68e-7e920c254c58"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q26",
+          "content_markdown": "উন্নত হাড়ভাঙ্গার অপর নাম-\n\n## Solve\nউন্নত হাড়ভাঙ্গার অপর নাম হলো গোপিক হাড়ভাঙ্গা।",
+          "structured_data": {
+            "question_number": "26",
+            "subtype": "mcq",
+            "stem": "উন্নত হাড়ভাঙ্গার অপর নাম-\n\n## Solve\nউন্নত হাড়ভাঙ্গার অপর নাম হলো গোপিক হাড়ভাঙ্গা।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "সাধারণ হাড়ভাঙ্গা",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "গোপিক হাড়ভাঙ্গা",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "জটিল হাড়ভাঙ্গা",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কয়েক টুকরা বিশিষ্ট হাড়ভাঙ্গা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "724c2c2f-d008-5792-8727-ba132928e4d4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q27",
+          "content_markdown": "ফ্রেমিং এর বাম হস্ত সুত্রে, বাম হাতের মধ্যমা কি নির্দেশ করে?\n\n## Solve\nফ্রেমিং এর বাম হস্ত সুত্রে, বাম হাতের মধ্যমা → তড়িৎ প্রবাহ,\nতজ্জনি → চৌম্বক ক্ষেত্র, বৃত্তাঙ্গী বালের দিক নির্দেশ করে।",
+          "structured_data": {
+            "question_number": "27",
+            "subtype": "mcq",
+            "stem": "ফ্রেমিং এর বাম হস্ত সুত্রে, বাম হাতের মধ্যমা কি নির্দেশ করে?\n\n## Solve\nফ্রেমিং এর বাম হস্ত সুত্রে, বাম হাতের মধ্যমা → তড়িৎ প্রবাহ,\nতজ্জনি → চৌম্বক ক্ষেত্র, বৃত্তাঙ্গী বালের দিক নির্দেশ করে।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "চৌম্বক ক্ষেত্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "তড়িৎ প্রবাহ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ঢুঁকের দিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "efcdc933-23cb-5683-b18f-3a058ef18e59"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 8,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 140.25,
+        "eval_count": 2408
+      }
+    },
+    {
+      "page_number": 4,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "```plaintext\n## Q28\n**Type:** mcq\n**Stem:** মুসলাহের এইচডি সেন্ট্রেল কর্ডের নির্বাচন করে মনে?\nA. ৭ই জুলাই, ২০১৬\nB. ১২ই জুলাই, ২০১৬\nC. ১৫ই জুলাই, ২০১৬\nD. ৩১শে ডিসেম্বর, ২০১৬\n\n## Q29\n**Type:** mcq\n**Stem:** লেখাগোলের ছবিতে সাংযোগকারী খণ্ড অঙ্কের নাম-\nA. কপৎস আলফিনিকা\nB. কপৎস আইটারিটিকাম\nC. কপৎস ক্যালোগাম\nD. কপৎস লুট্টাম\n\n## Solve\nসঠিক উত্তর অপশন 'C' অর্থাৎ কপৎস ক্যালোসোম।\n\n## Q30\n**Type:** mcq\n**Stem:** শৈলীর এজিডাইলের মধ্যে কৌনিকটি ‘পাইথো’ এসিড?\nA. HClO₄\nB. H₂PO₃\nC. H₂SO₄\nD. H₂S₂O₇\n\n## Solve\nসঠিক উত্তর অপশন 'D' অর্থাৎ H₂S₂O₇\n\n## Q31\n**Type:** mcq\n**Stem:** পাকছালীতে কোন করাওটিক স্লাইভ কার্যক্ষম বিদ্যমান?\nA. অপটিক\nB. অডিটরি\nC. ডেগাস\nD. অকুলোমেটর\n\n## Solve\nসঠিক উত্তর অপশন 'C' অর্থাৎ ডেগাস।\n\n## Q32\n**Type:** mcq\n**Stem:** ঢাকা শহরের বিন্ডি (৪) কত?\nA. ২১°N\nB. ১৩°N\nC. ৩১°N\nD. ৩১°S\n\n## Solve\nঢাকা শহরের বিন্ডি (৪) হলো ৩১°N。\n\n## Q33\n**Type:** mcq\n**Stem:** 'Love' শব্দের সঠিক antonym নিচের কোনটি?\nA. dislike\nB. intolerant\nC. hate\nD. abhor\n\n## Solve\nLove শব্দটির অর্থ হলো ভালোবাসা, দেখে করা; অপরদিকে Hate শব্দটির অর্থ ঘৃণা করা। সুতরাং সঠিক উত্তর অপশন 'C'\n\n## Q34\n**Type:** mcq\n**Stem:** রক্তে Na⁺ ও K⁺ এর সমতা রক্ষা করে কোন হরমোন?\nA. ইনসুলিন\nB. গ্লুকোগন\nC. এড্রেনালিন\nD. অ্যালোডোস্টেরন\n\n## Solve\nসঠিক উত্তর অপশন 'D' অর্থাৎ অ্যালোডোস্টেরন।\n\n## Q35\n**Type:** mcq\n**Stem:** কৌনিকটি পোলার অণু?\nA. CH₄\nB. CCl₄\nC. H₂O\nD. HCl\n\n## Solve\nআমরা জানি, সামোজী মৌগের অত্যন্ত মোলার তড়িৎ ঝগড়াকাতর পার্থক্য ০.৫–১.৭ এর মধ্যে হলে মৌগটি পোলার হয় অর্থাৎ মৌগটির দুই পাশে দুইটি বিপরীত চার্জ/মেরুর সৃষ্টি হয়। যেহেতু H₂O মৌগে H ও O এর মধ্যকার তড়িৎ ঝগড়াকাতর পার্থক্য: 1.4 [3.5(O) – 2.1(H) = 1.4]; সুতরাং H₂O একটি পোলার মৌগ। তেমনি HClও একটি পোলার মৌগ।\n\n## Q36\n**Type:** mcq\n**Stem:** মানব দেহের সর্ববৃহৎ অঙ্ক কোনটি?\nA. মুকুট\nB. তুক\nC. মস্তিষ্ক\nD. প্রীথা\n\n## Solve\nসঠিক উত্তর অপশন 'B' অর্থাৎ তুক। উল্লেখ্য যে, মানব দেহের সর্ববৃহৎ গ্রন্থি এবং মানবদেহের অভ্যন্তরে সবচেয়ে বড় অঙ্ক হচ্ছে যুক্ত।\n\nNote : জেনে নাও নিচের তথ্যগুলো [বিভিন্ন লেখক]\n→ মানবদেহের সর্বপেশা বড় গ্রন্থি → যুক্ত (Liver)\n→ মানবদেহের লিঙ্গী তন্ত্রের সর্বপেশা বড় গ্রন্থি → প্রীথা।\n→ মানবদেহের সর্বপেশা বড় অঙ্কগুলো অঞ্চলে → থাইরোয়েড।\n\n## Q37\n**Type:** mcq\n**Stem:** - 4 ডায়াপটার লেন্সের ফেরে কৌনিকটি সঠিক?\nA. উত্তল লেন্স, f=+25 cm\nB. অবতল লেন্স, f=-25 cm\nC. অবতল লেন্স,f=+25 cm\nD. উত্তল লেন্স,f=+25 cm\n\n## Solve\nসঠিক উত্তর অপশন 'A' অর্থাৎ উত্তল লেন্স।\n\n## Q38\n**Type:** mcq\n**Stem:** Which one is the correct sentence given below:\nA. I neither eat mangoes nor bananas.\nB. I eat mangoes neither bananas nor.\nC. I eat neither mangoes nor bananas.\nD. Neither I eat mangoes nor I eat bananas.\n\n## Solve\nসঠিক উত্তর অপশন 'C' অর্থাৎ I eat neither mangoes nor bananas.\n\n## Q39\n**Type:** mcq\n**Stem:** নিক্রিয় ভাড়ক্স কোনটি?\nA. পোলিও ভাড়ক্স\nB. টিটেনাস ভাড়ক্স\nC. হেপাটাইটিস B ভাড়ক্স\nD. হিউমান প্যাপিলোমা ভাইরাস ভাড়ক্স\n\n## Solve\nসঠিক উত্তর অপশন 'A' অর্থাৎ পোলিও ভাড়ক্স।\n\nNote : জেনে নাও ভাড়ক্স সম্পর্কিত কিছু তথ্য[অজমল] \n→ উৎপন্নদানের ধরনের ভিত্তিতে ভাড়ক্স ৫ প্রকার। যথা\ni. নিক্রিয় : ইনফ্লুয়েঞ্জ, কলেরা, পোলিও, হেপাটাইটিস A , রাবিস ইত্যাদি রোগের ভাড়ক্স\nii. শক্তিঃ মিজলজ (হাম), মাস্পিস, পানি বসন্ত, টাইফয়েড প্রভৃতি রোগের ভাড়ক্স\niii. টক্ক্রায় : টিটেনাস (ধূম্বিকার), ডিপথেরিয়া প্রভৃতির ভাড়ক্স\niv. সাবইউনটি : হেপাটাইটিস B, হিউমান প্যাপিলোমা ভাইরাস ভাড়ক্স\nv. কনজুটেটি : হিমোফাইলাস ইনফ্রয়েঞ্জ টাইপ B (Hib) ভাড়ক্স\nvi. ড. ঐদওয়ার জেনার ১৭৯৬ সালে সর্বপ্রথম ৩০০ বসন্তের ভাড়ক্স আবিষ্কার করেন\n→ MMR হচ্ছে একটি মিশ্র ভাড়ক্স যা Measles, Mumps, Rubella এই তিনটি রোগের ভাড়ক্স\n→ DPT ভাড়ক্স ডিপথেরিয়া, টিটেনাস (ধূম্বিকার) ও পার্টসিস(হুপিংকাশি) রোগের জন্য ব্যবহৃত হয়; এটিও একটি মিশ্র ভাড়ক্স",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "```plaintext",
+          "structured_data": {},
+          "id": "c5934995-c23f-5b59-bcf6-fcfbaf68b570"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q28",
+          "content_markdown": "মুসলাহের এইচডি সেন্ট্রেল কর্ডের নির্বাচন করে মনে?",
+          "structured_data": {
+            "question_number": "28",
+            "subtype": "mcq",
+            "stem": "মুসলাহের এইচডি সেন্ট্রেল কর্ডের নির্বাচন করে মনে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "৭ই জুলাই, ২০১৬",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "১২ই জুলাই, ২০১৬",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "১৫ই জুলাই, ২০১৬",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "৩১শে ডিসেম্বর, ২০১৬",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3ca8b1df-82fb-517d-aa1a-993ba8b90435"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q29",
+          "content_markdown": "লেখাগোলের ছবিতে সাংযোগকারী খণ্ড অঙ্কের নাম-\n\n## Solve\nসঠিক উত্তর অপশন 'C' অর্থাৎ কপৎস ক্যালোসোম।",
+          "structured_data": {
+            "question_number": "29",
+            "subtype": "mcq",
+            "stem": "লেখাগোলের ছবিতে সাংযোগকারী খণ্ড অঙ্কের নাম-\n\n## Solve\nসঠিক উত্তর অপশন 'C' অর্থাৎ কপৎস ক্যালোসোম।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "কপৎস আলফিনিকা",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "কপৎস আইটারিটিকাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "কপৎস ক্যালোগাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কপৎস লুট্টাম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7fd8d031-ecf7-5df6-b3ff-e85f4126cc5c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q30",
+          "content_markdown": "শৈলীর এজিডাইলের মধ্যে কৌনিকটি ‘পাইথো’ এসিড?\n\n## Solve\nসঠিক উত্তর অপশন 'D' অর্থাৎ H₂S₂O₇",
+          "structured_data": {
+            "question_number": "30",
+            "subtype": "mcq",
+            "stem": "শৈলীর এজিডাইলের মধ্যে কৌনিকটি ‘পাইথো’ এসিড?\n\n## Solve\nসঠিক উত্তর অপশন 'D' অর্থাৎ H₂S₂O₇",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "HClO₄",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "H₂PO₃",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "H₂SO₄",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "H₂S₂O₇",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8da17bc4-504b-5324-9f15-945feb46c074"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q31",
+          "content_markdown": "পাকছালীতে কোন করাওটিক স্লাইভ কার্যক্ষম বিদ্যমান?\n\n## Solve\nসঠিক উত্তর অপশন 'C' অর্থাৎ ডেগাস।",
+          "structured_data": {
+            "question_number": "31",
+            "subtype": "mcq",
+            "stem": "পাকছালীতে কোন করাওটিক স্লাইভ কার্যক্ষম বিদ্যমান?\n\n## Solve\nসঠিক উত্তর অপশন 'C' অর্থাৎ ডেগাস।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "অপটিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "অডিটরি",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ডেগাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "অকুলোমেটর",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4f81a624-3b51-51c9-a492-ef7c85139643"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q32",
+          "content_markdown": "ঢাকা শহরের বিন্ডি (৪) কত?\n\n## Solve\nঢাকা শহরের বিন্ডি (৪) হলো ৩১°N。",
+          "structured_data": {
+            "question_number": "32",
+            "subtype": "mcq",
+            "stem": "ঢাকা শহরের বিন্ডি (৪) কত?\n\n## Solve\nঢাকা শহরের বিন্ডি (৪) হলো ৩১°N。",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "২১°N",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "১৩°N",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "৩১°N",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "৩১°S",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "eebad079-0935-57b2-8449-2df39f870c96"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q33",
+          "content_markdown": "'Love' শব্দের সঠিক antonym নিচের কোনটি?\n\n## Solve\nLove শব্দটির অর্থ হলো ভালোবাসা, দেখে করা; অপরদিকে Hate শব্দটির অর্থ ঘৃণা করা। সুতরাং সঠিক উত্তর অপশন 'C'",
+          "structured_data": {
+            "question_number": "33",
+            "subtype": "mcq",
+            "stem": "'Love' শব্দের সঠিক antonym নিচের কোনটি?\n\n## Solve\nLove শব্দটির অর্থ হলো ভালোবাসা, দেখে করা; অপরদিকে Hate শব্দটির অর্থ ঘৃণা করা। সুতরাং সঠিক উত্তর অপশন 'C'",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "dislike",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "intolerant",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "hate",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "abhor",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3e024555-c740-5fc0-9812-97d39e455083"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q34",
+          "content_markdown": "রক্তে Na⁺ ও K⁺ এর সমতা রক্ষা করে কোন হরমোন?\n\n## Solve\nসঠিক উত্তর অপশন 'D' অর্থাৎ অ্যালোডোস্টেরন।",
+          "structured_data": {
+            "question_number": "34",
+            "subtype": "mcq",
+            "stem": "রক্তে Na⁺ ও K⁺ এর সমতা রক্ষা করে কোন হরমোন?\n\n## Solve\nসঠিক উত্তর অপশন 'D' অর্থাৎ অ্যালোডোস্টেরন।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ইনসুলিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "গ্লুকোগন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "এড্রেনালিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "অ্যালোডোস্টেরন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d4bd6ec3-e136-502d-871f-69ec078b4f0c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q35",
+          "content_markdown": "কৌনিকটি পোলার অণু?\n\n## Solve\nআমরা জানি, সামোজী মৌগের অত্যন্ত মোলার তড়িৎ ঝগড়াকাতর পার্থক্য ০.৫–১.৭ এর মধ্যে হলে মৌগটি পোলার হয় অর্থাৎ মৌগটির দুই পাশে দুইটি বিপরীত চার্জ/মেরুর সৃষ্টি হয়। যেহেতু H₂O মৌগে H ও O এর মধ্যকার তড়িৎ ঝগড়াকাতর পার্থক্য: 1.4 [3.5(O) – 2.1(H) = 1.4]; সুতরাং H₂O একটি পোলার মৌগ। তেমনি HClও একটি পোলার মৌগ।",
+          "structured_data": {
+            "question_number": "35",
+            "subtype": "mcq",
+            "stem": "কৌনিকটি পোলার অণু?\n\n## Solve\nআমরা জানি, সামোজী মৌগের অত্যন্ত মোলার তড়িৎ ঝগড়াকাতর পার্থক্য ০.৫–১.৭ এর মধ্যে হলে মৌগটি পোলার হয় অর্থাৎ মৌগটির দুই পাশে দুইটি বিপরীত চার্জ/মেরুর সৃষ্টি হয়। যেহেতু H₂O মৌগে H ও O এর মধ্যকার তড়িৎ ঝগড়াকাতর পার্থক্য: 1.4 [3.5(O) – 2.1(H) = 1.4]; সুতরাং H₂O একটি পোলার মৌগ। তেমনি HClও একটি পোলার মৌগ।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "CH₄",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "CCl₄",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "H₂O",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "HCl",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "31317432-25dc-514f-838d-6f7d63e84323"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q36",
+          "content_markdown": "মানব দেহের সর্ববৃহৎ অঙ্ক কোনটি?\n\n## Solve\nসঠিক উত্তর অপশন 'B' অর্থাৎ তুক। উল্লেখ্য যে, মানব দেহের সর্ববৃহৎ গ্রন্থি এবং মানবদেহের অভ্যন্তরে সবচেয়ে বড় অঙ্ক হচ্ছে যুক্ত।\n\nNote : জেনে নাও নিচের তথ্যগুলো [বিভিন্ন লেখক]\n→ মানবদেহের সর্বপেশা বড় গ্রন্থি → যুক্ত (Liver)\n→ মানবদেহের লিঙ্গী তন্ত্রের সর্বপেশা বড় গ্রন্থি → প্রীথা।\n→ মানবদেহের সর্বপেশা বড় অঙ্কগুলো অঞ্চলে → থাইরোয়েড।",
+          "structured_data": {
+            "question_number": "36",
+            "subtype": "mcq",
+            "stem": "মানব দেহের সর্ববৃহৎ অঙ্ক কোনটি?\n\n## Solve\nসঠিক উত্তর অপশন 'B' অর্থাৎ তুক। উল্লেখ্য যে, মানব দেহের সর্ববৃহৎ গ্রন্থি এবং মানবদেহের অভ্যন্তরে সবচেয়ে বড় অঙ্ক হচ্ছে যুক্ত।\n\nNote : জেনে নাও নিচের তথ্যগুলো [বিভিন্ন লেখক]\n→ মানবদেহের সর্বপেশা বড় গ্রন্থি → যুক্ত (Liver)\n→ মানবদেহের লিঙ্গী তন্ত্রের সর্বপেশা বড় গ্রন্থি → প্রীথা।\n→ মানবদেহের সর্বপেশা বড় অঙ্কগুলো অঞ্চলে → থাইরোয়েড।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "মুকুট",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "তুক",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "মস্তিষ্ক",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "প্রীথা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4f2bd8e5-b6b5-589b-9c41-c27de4c1ec01"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q37",
+          "content_markdown": "- 4 ডায়াপটার লেন্সের ফেরে কৌনিকটি সঠিক?\n\n## Solve\nসঠিক উত্তর অপশন 'A' অর্থাৎ উত্তল লেন্স।",
+          "structured_data": {
+            "question_number": "37",
+            "subtype": "mcq",
+            "stem": "- 4 ডায়াপটার লেন্সের ফেরে কৌনিকটি সঠিক?\n\n## Solve\nসঠিক উত্তর অপশন 'A' অর্থাৎ উত্তল লেন্স।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "উত্তল লেন্স, f=+25 cm",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "অবতল লেন্স, f=-25 cm",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "অবতল লেন্স,f=+25 cm",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "উত্তল লেন্স,f=+25 cm",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5a9fc3ce-902e-5e3f-a6ad-f7ff751f7031"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q38",
+          "content_markdown": "Which one is the correct sentence given below:\n\n## Solve\nসঠিক উত্তর অপশন 'C' অর্থাৎ I eat neither mangoes nor bananas.",
+          "structured_data": {
+            "question_number": "38",
+            "subtype": "mcq",
+            "stem": "Which one is the correct sentence given below:\n\n## Solve\nসঠিক উত্তর অপশন 'C' অর্থাৎ I eat neither mangoes nor bananas.",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "I neither eat mangoes nor bananas.",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "I eat mangoes neither bananas nor.",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "I eat neither mangoes nor bananas.",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "Neither I eat mangoes nor I eat bananas.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "000116bd-54a4-54f4-9708-58c4dadf4f8f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q39",
+          "content_markdown": "নিক্রিয় ভাড়ক্স কোনটি?\n\n## Solve\nসঠিক উত্তর অপশন 'A' অর্থাৎ পোলিও ভাড়ক্স।\n\nNote : জেনে নাও ভাড়ক্স সম্পর্কিত কিছু তথ্য[অজমল] \n→ উৎপন্নদানের ধরনের ভিত্তিতে ভাড়ক্স ৫ প্রকার। যথা\ni. নিক্রিয় : ইনফ্লুয়েঞ্জ, কলেরা, পোলিও, হেপাটাইটিস A , রাবিস ইত্যাদি রোগের ভাড়ক্স\nii. শক্তিঃ মিজলজ (হাম), মাস্পিস, পানি বসন্ত, টাইফয়েড প্রভৃতি রোগের ভাড়ক্স\niii. টক্ক্রায় : টিটেনাস (ধূম্বিকার), ডিপথেরিয়া প্রভৃতির ভাড়ক্স\niv. সাবইউনটি : হেপাটাইটিস B, হিউমান প্যাপিলোমা ভাইরাস ভাড়ক্স\nv. কনজুটেটি : হিমোফাইলাস ইনফ্রয়েঞ্জ টাইপ B (Hib) ভাড়ক্স\nvi. ড. ঐদওয়ার জেনার ১৭৯৬ সালে সর্বপ্রথম ৩০০ বসন্তের ভাড়ক্স আবিষ্কার করেন\n→ MMR হচ্ছে একটি মিশ্র ভাড়ক্স যা Measles, Mumps, Rubella এই তিনটি রোগের ভাড়ক্স\n→ DPT ভাড়ক্স ডিপথেরিয়া, টিটেনাস (ধূম্বিকার) ও পার্টসিস(হুপিংকাশি) রোগের জন্য ব্যবহৃত হয়; এটিও একটি মিশ্র ভাড়ক্স",
+          "structured_data": {
+            "question_number": "39",
+            "subtype": "mcq",
+            "stem": "নিক্রিয় ভাড়ক্স কোনটি?\n\n## Solve\nসঠিক উত্তর অপশন 'A' অর্থাৎ পোলিও ভাড়ক্স।\n\nNote : জেনে নাও ভাড়ক্স সম্পর্কিত কিছু তথ্য[অজমল] \n→ উৎপন্নদানের ধরনের ভিত্তিতে ভাড়ক্স ৫ প্রকার। যথা\ni. নিক্রিয় : ইনফ্লুয়েঞ্জ, কলেরা, পোলিও, হেপাটাইটিস A , রাবিস ইত্যাদি রোগের ভাড়ক্স\nii. শক্তিঃ মিজলজ (হাম), মাস্পিস, পানি বসন্ত, টাইফয়েড প্রভৃতি রোগের ভাড়ক্স\niii. টক্ক্রায় : টিটেনাস (ধূম্বিকার), ডিপথেরিয়া প্রভৃতির ভাড়ক্স\niv. সাবইউনটি : হেপাটাইটিস B, হিউমান প্যাপিলোমা ভাইরাস ভাড়ক্স\nv. কনজুটেটি : হিমোফাইলাস ইনফ্রয়েঞ্জ টাইপ B (Hib) ভাড়ক্স\nvi. ড. ঐদওয়ার জেনার ১৭৯৬ সালে সর্বপ্রথম ৩০০ বসন্তের ভাড়ক্স আবিষ্কার করেন\n→ MMR হচ্ছে একটি মিশ্র ভাড়ক্স যা Measles, Mumps, Rubella এই তিনটি রোগের ভাড়ক্স\n→ DPT ভাড়ক্স ডিপথেরিয়া, টিটেনাস (ধূম্বিকার) ও পার্টসিস(হুপিংকাশি) রোগের জন্য ব্যবহৃত হয়; এটিও একটি মিশ্র ভাড়ক্স",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "পোলিও ভাড়ক্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "টিটেনাস ভাড়ক্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "হেপাটাইটিস B ভাড়ক্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "হিউমান প্যাপিলোমা ভাইরাস ভাড়ক্স",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "991d9d40-3a83-5259-bb69-36499a4fbbfc"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 13,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 179.73,
+        "eval_count": 3107
+      }
+    },
+    {
+      "page_number": 5,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "## Q40\n**Type:** mcq\n**Stem:** $H_2NCONH_2 + H_2O \\rightarrow 2NH_3 + CO_2$ বিক্রিয়ায় কোন জৈব প্রভাবকটি ব্যবহৃত হয়েছে?\n**Options:** - A) অড্রিজিনেজ - B) আস্টাইলাইড্রেস - C) জাইমেস - D) ইউরিয়েস\n**Answer:** D\n**Solution:** সচিত্র উত্তর 'D' অর্ধাং উইরিয়েস।\n\n## Q41\n**Type:** mcq\n**Stem:** নিচের কোন অঙ্গের মাইটোকন্ড্রিয়ার উপস্থিতি বেশি থাকে?\n**Options:** - A) তুক - B) পাকহুলী - C) যুক্ত - D) চোখ\n**Answer:** C\n**Solution:** যুক্তে মাইটোকন্ড্রিয়ার উপস্থিতি সবচেয়ে বেশি এবং সংখ্যা প্রায় 1000 বা ভোগ্যধিক।\n\n## Note : জেনে নাও মাইটোকন্ড্রিয়া সম্পর্কিত কিছু তথ্য [হাসান+আজিবুর]\n→ 1850 সালে বিজ্ঞানী কলিকার মাইটোকন্ড্রিয়া আবিষ্কার করেন, 1898 সালে অন্তম্যান মাইটোকন্ড্রিয়া এর উপস্থিতি লক্ষ করেন এবং 1898 সালে কার্ল বেত্তা মাইটোকন্ড্রিয়া নামকরণ করেন।\n→ এটি কোষের ‘পাওয়ার হাউস’ বা শক্তির কেন্দ্র’ নামে পরিচিত।\n→ প্রতিটি মাইটোকন্ড্রিয়ার দৈর্ঘ্য সাধারণত 0.3–40.0 μιক্রিন তবে বৃত্তাকার মাইটোকন্ড্রিয়ার ব্যাস 0.2–2.0 μিক্রিন, যুক্তকার মাইটোকন্ড্রিয়ার দৈর্ঘ্য 40–70 μিক্রিন, দ্বারকার মাইটোকন্ড্রিয়ার দৈর্ঘ্য 9 μিক্রিন এবং প্রশ্ন 0.5 μিক্রিন।\n→ মাইটোকন্ড্রিয়াতে 65% প্রোটিন, 29% ফ্টিসাইডসমূহ, 4% লেপিডিন ও সেফলিন, 2% কোলেস্টেরল রয়েছে। [65% প্রোটিন, 25–30% লিপিড, 0.5% RNA ও সামান্য DNA থাকে।]\n\n→ লিপিডের মধ্যে 90% ফসফোলিপিড এবং 10% ফ্যাটি এসিড, ক্যারোটিনোলেড ও ভিটামিন-E বিদামান লিপিডের মধ্যে 10% ফসফোলিপিড, 5% কোলেস্টেরল, খনিজ ধাত্র অ্যান (Ca²⁺, Mg²⁺, Mn²⁺, Ag⁺) ও ভিটামিন (B₆ B₁₂ K, E) থাকে।]\n→ এতে প্রায় 100 প্রকারের এনজাইম ও কো-এনজাইম রয়েছে।\n→ এতে 0.5% RNA থাকে\n→ মাইটোকন্ড্রিয়ার অভিন্নতার অনিয়মিত ভাঁজকে ক্রিস্টি বলে।\n→ কোষে আয়তনের প্রায় 20 ভাগ হলো মাইটোকন্ড্রিয়া।\n→ গড়ে প্রতি কোষে এদের সংখ্যা 300–400, যুক্ত কোষে 1000 বা ভোগ্যধিক, উচ্চ শ্রেণীর উদ্ভিদ কোষে 100–2000\n→ মাইটোকন্ড্রিয়া সাধারণত আবরণী বা পার্দা, প্রোকোষ্ঠ, ক্রিস্টি, অক্সিসোম, ATP-Synthases ও ETC, DNA ও রাইবোসোম নিয়ে গঠিত।\n→ মাইটোকন্ড্রিয়াতে 70S ধন্যবাদের রাইবোসোম থাকে।\n→ এর দুটি পার্দা বা আবরণীর মাঝে 6–8 nm ফাঁকা স্থান থাকে।\n\n### কাজ\ni. ব্রেক্স চক্র, ইন্টারন্ট্রাঙ্গেপ্ট, অক্সিডেটিভ ফসফোরাইলেশন সম্প্রস্ত করা\nii. প্রোটিন সংগ্রহ ও স্নেহ বিপাকে সাহায্য করা।\niii. Ca, K প্রভাব পদার্থে সক্রিয় পরিবর্তনে সহায়তা।\niv. খুশনের জন্য প্রযোজনীয় এনজাইম, কো-এনজাইম প্রুতি ধারণ করা।\nv. নিম্ন ডিএনএ, ডিএনএ উৎপন্ন করা এবং বংশগতিতে ভূমিকা রাখা।\nvi. প্রোটিন সংগ্রহ ও স্নেহ বিপাকে সাহায্য করা।\nvii. স্থানু ও দিম্বাণু গঠনে অংশগ্রহণ করা।\nviii. কোষের বিভিন্ন অংশ ক্যালসিয়াম আয়নের সঠিক ঘনত্ব রক্ষা করা\nix. কোষের পূর্বনির্ধারিত মৃত্যু (apoptosis) নিয়ন্ত্রণ করা।\nx. রক্ত কন্ডিকা ও হরমোন উৎপাদনে সহায়তা করা।\nxi. এতে বিভিন্ন ধরনের ক্যাটায়ন, যেমন- Ca²⁺, S²⁺, Fe²⁺, Mn²⁺ ইত্যাদি সংক্ষিপ্ত রাখা।\n\n## Q42\n**Type:** mcq\n**Stem:** নীচের কোন পদার্থ সেমিকন্ডাক্টর বা অর্ধপরিবাহী?\n**Options:** - A) কাঁচ - B) কাট - C) লোহা - D) গিলিকন\n**Answer:** D\n**Solution:** গিলিকন হচ্ছে সেমিকন্ডাক্টর বা অর্ধপরিবাহী।\n\n## Q43\n'আমার উপর রাগ করো না' বাক্যটির সঠিক ইংরেজি অনুবাদ হলো:\nA. Do not be angry with me.\nB. Do not be angry upon me.\nC. Do not be angry for me.\nD. Do not be angry on me.\n\n**Solution:** Angry শব্দটির সাথে preposition হিসেবে with বারে প্রতি/উপর রাগাঞ্চিত হওয়া বুঝায়। সুতরাং সচিত্র উত্তর 'A' অর্ধাং Do not be angry with me.\n\n## Q44\nনীচের কৌনটির ক্রোমোজোমের সংখ্যা সচিত্র নয়?\n\n| উদ্ভিদের | বৈজ্ঞানিক | ক্রোমোজোম | প্রাণীর | বৈজ্ঞানিক | ক্রোমোজোম |\n|-----------|------------|---------------|---------|------------|---------------|\n| ধান      | Oryza sativa   | 24           | মানুষ    | Homo sapiens     | 46            |\n| গম       | Triticum aestivum | 42          | গরু     | Bos taurus        | 60            |\n| ভুট্টা    | Zea mays      | 20           | ছাগল    | Capra hircus      | 60            |\n| পিঁয়াজ   | Allium cepa   | 16           | কবুতর  | Columba livia     | 80            |\n| শসা      | Cucumis sativus | 14           | সোনান্যাঙ্গ | Rana pipiens      | 26            |\n| গোল আঙ্গুল | Solanum tuberosum | 48         | খর্পোশ  | Oryctolagus cuniculus | 44            |\n| টমেটো    | Lycopersicon esculentum | 24         | গরিলা   | Gorilla gorilla   | 48            |\n| তামাক    | Nicotiana tabacum | 28           | পিনিপিপ | Cavia porcellus    | 64            |\n| পেপে     | Carica papaya  | 18           | গুহমাছি | Musca domestica   | 12            |\n| বাঁধাকপি | Brassica oleracea | 18           | ফলের মাছি | Drosophila melanogaster | 08            |\n| পাট      | Corchorus capsularis | 14         | কিউইলেস মথা | Culex pipiens     | 06            |\n| চীনবাদাম | Arachis hypogaea | 40           | কেটে ক্রিনি/গোল ক্রিনি | Ascaris megalacephala | 2             |\n\n## Note : নিচের ব্যাখ্যাটি জোগায় [হাসান+আজিবুর]\nNote: নিচের ব্যাখ্যাটি জোগায় [হাসান+আজিবুর]\n\n## Q45\nবিশুদ্ধ পানিতে $(H^+)$ এর মান কত?\n\nA. $10^{-6} \\text{ mol/L}$ \nB. $10^{-4} \\text{ mol/L}$ \nC. $10^{-7} \\text{ mol/L}$ \nD. $10^{7} \\text{ mol/L}$ \n\n**Solution:** বিশুদ্ধ পানিতে $(H^+)$ এর মান হলো $10^{-7} \\text{ mol/L};$ কেননা বিশুদ্ধ পানিতে pH = 7.",
+      "blocks": [
+        {
+          "block_type": "written_item",
+          "title": "Q40",
+          "content_markdown": "$H_2NCONH_2 + H_2O \\rightarrow 2NH_3 + CO_2$ বিক্রিয়ায় কোন জৈব প্রভাবকটি ব্যবহৃত হয়েছে?",
+          "structured_data": {
+            "question_number": "40",
+            "subtype": "mcq",
+            "stem": "$H_2NCONH_2 + H_2O \\rightarrow 2NH_3 + CO_2$ বিক্রিয়ায় কোন জৈব প্রভাবকটি ব্যবহৃত হয়েছে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "অড্রিজিনেজ - B) আস্টাইলাইড্রেস - C) জাইমেস - D) ইউরিয়েস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "সচিত্র উত্তর 'D' অর্ধাং উইরিয়েস।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1911d4b6-705e-51b9-965a-6b85dc6d01d1"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q41",
+          "content_markdown": "নিচের কোন অঙ্গের মাইটোকন্ড্রিয়ার উপস্থিতি বেশি থাকে?",
+          "structured_data": {
+            "question_number": "41",
+            "subtype": "mcq",
+            "stem": "নিচের কোন অঙ্গের মাইটোকন্ড্রিয়ার উপস্থিতি বেশি থাকে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "তুক - B) পাকহুলী - C) যুক্ত - D) চোখ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "যুক্তে মাইটোকন্ড্রিয়ার উপস্থিতি সবচেয়ে বেশি এবং সংখ্যা প্রায় 1000 বা ভোগ্যধিক।\n\n## Note : জেনে নাও মাইটোকন্ড্রিয়া সম্পর্কিত কিছু তথ্য [হাসান+আজিবুর]\n→ 1850 সালে বিজ্ঞানী কলিকার মাইটোকন্ড্রিয়া আবিষ্কার করেন, 1898 সালে অন্তম্যান মাইটোকন্ড্রিয়া এর উপস্থিতি লক্ষ করেন এবং 1898 সালে কার্ল বেত্তা মাইটোকন্ড্রিয়া নামকরণ করেন।\n→ এটি কোষের ‘পাওয়ার হাউস’ বা শক্তির কেন্দ্র’ নামে পরিচিত।\n→ প্রতিটি মাইটোকন্ড্রিয়ার দৈর্ঘ্য সাধারণত 0.3–40.0 μιক্রিন তবে বৃত্তাকার মাইটোকন্ড্রিয়ার ব্যাস 0.2–2.0 μিক্রিন, যুক্তকার মাইটোকন্ড্রিয়ার দৈর্ঘ্য 40–70 μিক্রিন, দ্বারকার মাইটোকন্ড্রিয়ার দৈর্ঘ্য 9 μিক্রিন এবং প্রশ্ন 0.5 μিক্রিন।\n→ মাইটোকন্ড্রিয়াতে 65% প্রোটিন, 29% ফ্টিসাইডসমূহ, 4% লেপিডিন ও সেফলিন, 2% কোলেস্টেরল রয়েছে। [65% প্রোটিন, 25–30% লিপিড, 0.5% RNA ও সামান্য DNA থাকে।]\n\n→ লিপিডের মধ্যে 90% ফসফোলিপিড এবং 10% ফ্যাটি এসিড, ক্যারোটিনোলেড ও ভিটামিন-E বিদামান লিপিডের মধ্যে 10% ফসফোলিপিড, 5% কোলেস্টেরল, খনিজ ধাত্র অ্যান (Ca²⁺, Mg²⁺, Mn²⁺, Ag⁺) ও ভিটামিন (B₆ B₁₂ K, E) থাকে।]\n→ এতে প্রায় 100 প্রকারের এনজাইম ও কো-এনজাইম রয়েছে।\n→ এতে 0.5% RNA থাকে\n→ মাইটোকন্ড্রিয়ার অভিন্নতার অনিয়মিত ভাঁজকে ক্রিস্টি বলে।\n→ কোষে আয়তনের প্রায় 20 ভাগ হলো মাইটোকন্ড্রিয়া।\n→ গড়ে প্রতি কোষে এদের সংখ্যা 300–400, যুক্ত কোষে 1000 বা ভোগ্যধিক, উচ্চ শ্রেণীর উদ্ভিদ কোষে 100–2000\n→ মাইটোকন্ড্রিয়া সাধারণত আবরণী বা পার্দা, প্রোকোষ্ঠ, ক্রিস্টি, অক্সিসোম, ATP-Synthases ও ETC, DNA ও রাইবোসোম নিয়ে গঠিত।\n→ মাইটোকন্ড্রিয়াতে 70S ধন্যবাদের রাইবোসোম থাকে।\n→ এর দুটি পার্দা বা আবরণীর মাঝে 6–8 nm ফাঁকা স্থান থাকে।\n\n### কাজ\ni. ব্রেক্স চক্র, ইন্টারন্ট্রাঙ্গেপ্ট, অক্সিডেটিভ ফসফোরাইলেশন সম্প্রস্ত করা\nii. প্রোটিন সংগ্রহ ও স্নেহ বিপাকে সাহায্য করা।\niii. Ca, K প্রভাব পদার্থে সক্রিয় পরিবর্তনে সহায়তা।\niv. খুশনের জন্য প্রযোজনীয় এনজাইম, কো-এনজাইম প্রুতি ধারণ করা।\nv. নিম্ন ডিএনএ, ডিএনএ উৎপন্ন করা এবং বংশগতিতে ভূমিকা রাখা।\nvi. প্রোটিন সংগ্রহ ও স্নেহ বিপাকে সাহায্য করা।\nvii. স্থানু ও দিম্বাণু গঠনে অংশগ্রহণ করা।\nviii. কোষের বিভিন্ন অংশ ক্যালসিয়াম আয়নের সঠিক ঘনত্ব রক্ষা করা\nix. কোষের পূর্বনির্ধারিত মৃত্যু (apoptosis) নিয়ন্ত্রণ করা।\nx. রক্ত কন্ডিকা ও হরমোন উৎপাদনে সহায়তা করা।\nxi. এতে বিভিন্ন ধরনের ক্যাটায়ন, যেমন- Ca²⁺, S²⁺, Fe²⁺, Mn²⁺ ইত্যাদি সংক্ষিপ্ত রাখা।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3d264b00-5599-5e15-9e97-57d17de837ab"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q42",
+          "content_markdown": "নীচের কোন পদার্থ সেমিকন্ডাক্টর বা অর্ধপরিবাহী?",
+          "structured_data": {
+            "question_number": "42",
+            "subtype": "mcq",
+            "stem": "নীচের কোন পদার্থ সেমিকন্ডাক্টর বা অর্ধপরিবাহী?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "কাঁচ - B) কাট - C) লোহা - D) গিলিকন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "গিলিকন হচ্ছে সেমিকন্ডাক্টর বা অর্ধপরিবাহী।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b336cf83-61df-5515-9da2-616c00eda400"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q43",
+          "content_markdown": "'আমার উপর রাগ করো না' বাক্যটির সঠিক ইংরেজি অনুবাদ হলো:",
+          "structured_data": {
+            "question_number": "43",
+            "subtype": "mcq_item",
+            "stem": "'আমার উপর রাগ করো না' বাক্যটির সঠিক ইংরেজি অনুবাদ হলো:",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "Do not be angry with me.",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "Do not be angry upon me.",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "Do not be angry for me.",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "Do not be angry on me.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "Angry শব্দটির সাথে preposition হিসেবে with বারে প্রতি/উপর রাগাঞ্চিত হওয়া বুঝায়। সুতরাং সচিত্র উত্তর 'A' অর্ধাং Do not be angry with me.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9f348a0c-fcba-581b-b551-2b478e4fcccf"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q44",
+          "content_markdown": "নীচের কৌনটির ক্রোমোজোমের সংখ্যা সচিত্র নয়?\n\n| উদ্ভিদের | বৈজ্ঞানিক | ক্রোমোজোম | প্রাণীর | বৈজ্ঞানিক | ক্রোমোজোম |\n|-----------|------------|---------------|---------|------------|---------------|\n| ধান      | Oryza sativa   | 24           | মানুষ    | Homo sapiens     | 46            |\n| গম       | Triticum aestivum | 42          | গরু     | Bos taurus        | 60            |\n| ভুট্টা    | Zea mays      | 20           | ছাগল    | Capra hircus      | 60            |\n| পিঁয়াজ   | Allium cepa   | 16           | কবুতর  | Columba livia     | 80            |\n| শসা      | Cucumis sativus | 14           | সোনান্যাঙ্গ | Rana pipiens      | 26            |\n| গোল আঙ্গুল | Solanum tuberosum | 48         | খর্পোশ  | Oryctolagus cuniculus | 44            |\n| টমেটো    | Lycopersicon esculentum | 24         | গরিলা   | Gorilla gorilla   | 48            |\n| তামাক    | Nicotiana tabacum | 28           | পিনিপিপ | Cavia porcellus    | 64            |\n| পেপে     | Carica papaya  | 18           | গুহমাছি | Musca domestica   | 12            |\n| বাঁধাকপি | Brassica oleracea | 18           | ফলের মাছি | Drosophila melanogaster | 08            |\n| পাট      | Corchorus capsularis | 14         | কিউইলেস মথা | Culex pipiens     | 06            |\n| চীনবাদাম | Arachis hypogaea | 40           | কেটে ক্রিনি/গোল ক্রিনি | Ascaris megalacephala | 2             |\n\n## Note : নিচের ব্যাখ্যাটি জোগায় [হাসান+আজিবুর]\nNote: নিচের ব্যাখ্যাটি জোগায় [হাসান+আজিবুর]",
+          "structured_data": {
+            "question_number": "44",
+            "subtype": "written_item",
+            "stem": "নীচের কৌনটির ক্রোমোজোমের সংখ্যা সচিত্র নয়?\n\n| উদ্ভিদের | বৈজ্ঞানিক | ক্রোমোজোম | প্রাণীর | বৈজ্ঞানিক | ক্রোমোজোম |\n|-----------|------------|---------------|---------|------------|---------------|\n| ধান      | Oryza sativa   | 24           | মানুষ    | Homo sapiens     | 46            |\n| গম       | Triticum aestivum | 42          | গরু     | Bos taurus        | 60            |\n| ভুট্টা    | Zea mays      | 20           | ছাগল    | Capra hircus      | 60            |\n| পিঁয়াজ   | Allium cepa   | 16           | কবুতর  | Columba livia     | 80            |\n| শসা      | Cucumis sativus | 14           | সোনান্যাঙ্গ | Rana pipiens      | 26            |\n| গোল আঙ্গুল | Solanum tuberosum | 48         | খর্পোশ  | Oryctolagus cuniculus | 44            |\n| টমেটো    | Lycopersicon esculentum | 24         | গরিলা   | Gorilla gorilla   | 48            |\n| তামাক    | Nicotiana tabacum | 28           | পিনিপিপ | Cavia porcellus    | 64            |\n| পেপে     | Carica papaya  | 18           | গুহমাছি | Musca domestica   | 12            |\n| বাঁধাকপি | Brassica oleracea | 18           | ফলের মাছি | Drosophila melanogaster | 08            |\n| পাট      | Corchorus capsularis | 14         | কিউইলেস মথা | Culex pipiens     | 06            |\n| চীনবাদাম | Arachis hypogaea | 40           | কেটে ক্রিনি/গোল ক্রিনি | Ascaris megalacephala | 2             |\n\n## Note : নিচের ব্যাখ্যাটি জোগায় [হাসান+আজিবুর]\nNote: নিচের ব্যাখ্যাটি জোগায় [হাসান+আজিবুর]",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "313bc970-7419-5bb1-b0f1-764be0476bc8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q45",
+          "content_markdown": "বিশুদ্ধ পানিতে $(H^+)$ এর মান কত?",
+          "structured_data": {
+            "question_number": "45",
+            "subtype": "mcq_item",
+            "stem": "বিশুদ্ধ পানিতে $(H^+)$ এর মান কত?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "$10^{-6} \\text{ mol/L}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "$10^{-4} \\text{ mol/L}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "$10^{-7} \\text{ mol/L}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "$10^{7} \\text{ mol/L}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "বিশুদ্ধ পানিতে $(H^+)$ এর মান হলো $10^{-7} \\text{ mol/L};$ কেননা বিশুদ্ধ পানিতে pH = 7.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8f7e6355-c87e-5032-9bd8-b76945ca15ca"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 6,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 223.27,
+        "eval_count": 3779
+      }
+    },
+    {
+      "page_number": 6,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "```none\nবীজেন্দ্র বাণী - মধ্যযুগের সাহিত্য\n\n## Q47\n**Type:** mcq\n**Stem:** 'তুমি ভলিতে চেও না আমার মনেরঙ কথা'- এই গণচিত্রের রচয়িতা কে?\n- a) রবিশ্রদ্ধানাথ ঠাকুর\n- b) ছিজেশ্বরলাল রায়\n- c) কাজী নজরুল ইসলাম\n- d) রজনীকান্ত সেন\n**Answer:** Ans: C\n**Solution:** সঠিক উত্তর অপশন 'C' অর্থাৎ কাজী নজরুল ইসলাম।\n**Tags:** [Ans: C]\n\n## Q48\n**Type:** mcq\n**Stem:** জিকা ডায়ারিস মানুষের দেহে সংক্রমিত হয় কোন বাহকের মাধ্যমে?\n- a) ঐডিস মশক\n- b) ঐডিস মশকী\n- c) অ্যানোফিলিস মশক\n- d) অ্যানোফিলিস মশকী\n**Answer:** Ans: B\n**Solution:** সঠিক উত্তর অপশন 'B' অর্থাৎ ঐডিস মশকী।\n**Tags:** [Ans: B]\n\n## Q49\n**Type:** mcq\n**Stem:** 5% NaOH এর 1000 ml দ্বারে কত গ্রাম NaOH থাকে?\n- a) 5 g\n- b) 25 g\n- c) 40 g\n- d) 50 g\n**Answer:** Ans: D\n**Solution:** NaOH এর পরিমাণ = $\\frac{\\% \\times 100}{100}$\n= $\\frac{5 \\times 1000}{100}$\n= $50\\mathrm{g}$\n\n$\\therefore$ সঠিক উত্তর অপশন 'D'\n**Tags:** [Ans: D]\n\n## Q50\n**Type:** mcq\n**Stem:** তাপগতিবিদ্যার প্রথম সৃষ্টি কোন দুটির মধ্যে সম্পর্ক স্থাপন করে?\n- a) বল ও শক্তি\n- b) কাজ ও শক্তি\n- c) তাপ ও বল\n- d) তাপ ও কাজ\n**Answer:** Ans: A\n**Solution:** তাপগতিবিদ্যার প্রথম সৃষ্টি হলো-'খখন কাজ সম্পূর্ণভাবে তাপে বা তাপ সম্পূর্ণভাবে কাজে রূপান্তরিত হয় তখন কাজ ও তাপ পরস্পরের সম্পৃক্তিকর হয়।' অর্থাৎ W পরিমাণ কাজ সম্পূর্ণভাবে তাপে পরিণত হলে যদি Q পরিমাণ তাপ উপন্যাস হয় তবে তাপগতিবিদ্যার প্রথম সৃষ্টি তাপ ও কাজ দুটির মধ্যে সম্পর্ক স্থাপন করে।\n**Tags:** [Ans: A]\n\n## Q51\n**Type:** mcq\n**Stem:** ‘Only an honest man is happy’ Its negative form without any change of meaning is -\n- a) An honest man is not only happy.\n- b) None but an honest man is happy.\n- c) No honest man is unhappy.\n- d) An honest man is not happy only.\n**Answer:** Ans: B\n**Solution:** সঠিক উত্তর অপশন 'B' অর্থাৎ None but an honest man is happy.\n**Tags:** [Ans: B]\n\n## Q52\n**Type:** mcq\n**Stem:** যৌনবাহিত রোগের জন্য দায়ী কোন ব্যাকটেরিয়া?\n- a) Vibrio cholerae\n- b) Clostridium tetani\n- c) Diplococcus pneumoniae\n- d) Chlamydia trachomatis\n**Answer:** Ans: D\n**Solution:** সঠিক উত্তর অপশন 'D' অর্থাৎ Chlamydia trachomatis.\n**Tags:** [Ans: D]\n\n## Q53\n**Type:** mcq\n**Stem:** কোন ক্রিস্ট প্রতিষ্ঠে লুট্রিকেট হিসেবে ব্যবহৃত হয় কোনটি?\n- a) তরল প্যারাফিন\n- b) গ্লিসারিন\n- c) প্রোপাইল প্যারাফিন\n- d) মোম\n**Answer:** Ans: A\n**Solution:** সঠিক উত্তর অপশন 'A' অর্থাৎ তরল প্যারাফিন।\n**Tags:** [Ans: A]\n\n## Q54\n**Type:** mcq\n**Stem:** কার্যে চেতনার প্রথম ধাপের কেন্দ্রে নীচের কোনটি সঠিক?\n- a) তাপমাত্রা বৃদ্ধি পায়\n- b) অপ্রস্থ শক্তি-হাস পায়\n- c) তাপমাত্রা স্থির থাকে\n- d) তাপের বিকিরণ হয়\n**Answer:** Ans: A\n**Solution:** সঠিক উত্তর অপশন 'A' অর্থাৎ তাপমাত্রা বৃদ্ধি পায়।\n**Tags:** [Ans: A]",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "```none\nবীজেন্দ্র বাণী - মধ্যযুগের সাহিত্য",
+          "structured_data": {},
+          "id": "9faf2c9c-bd23-5964-a64a-5fa18149262d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q47",
+          "content_markdown": "'তুমি ভলিতে চেও না আমার মনেরঙ কথা'- এই গণচিত্রের রচয়িতা কে?",
+          "structured_data": {
+            "question_number": "47",
+            "subtype": "mcq",
+            "stem": "'তুমি ভলিতে চেও না আমার মনেরঙ কথা'- এই গণচিত্রের রচয়িতা কে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "রবিশ্রদ্ধানাথ ঠাকুর",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ছিজেশ্বরলাল রায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কাজী নজরুল ইসলাম",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "রজনীকান্ত সেন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "সঠিক উত্তর অপশন 'C' অর্থাৎ কাজী নজরুল ইসলাম।",
+            "tags_raw": "[Ans: C]",
+            "provenance": [
+              "[Ans: C]"
+            ]
+          },
+          "id": "36f1461d-742f-59b1-8037-040333287ca7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q48",
+          "content_markdown": "জিকা ডায়ারিস মানুষের দেহে সংক্রমিত হয় কোন বাহকের মাধ্যমে?",
+          "structured_data": {
+            "question_number": "48",
+            "subtype": "mcq",
+            "stem": "জিকা ডায়ারিস মানুষের দেহে সংক্রমিত হয় কোন বাহকের মাধ্যমে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ঐডিস মশক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ঐডিস মশকী",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "অ্যানোফিলিস মশক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অ্যানোফিলিস মশকী",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "সঠিক উত্তর অপশন 'B' অর্থাৎ ঐডিস মশকী।",
+            "tags_raw": "[Ans: B]",
+            "provenance": [
+              "[Ans: B]"
+            ]
+          },
+          "id": "f9b0421b-3ab8-5b47-8fbc-e844ece4c5f4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q49",
+          "content_markdown": "5% NaOH এর 1000 ml দ্বারে কত গ্রাম NaOH থাকে?",
+          "structured_data": {
+            "question_number": "49",
+            "subtype": "mcq",
+            "stem": "5% NaOH এর 1000 ml দ্বারে কত গ্রাম NaOH থাকে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "5 g",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "25 g",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "40 g",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "50 g",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "NaOH এর পরিমাণ = $\\frac{\\% \\times 100}{100}$\n= $\\frac{5 \\times 1000}{100}$\n= $50\\mathrm{g}$\n\n$\\therefore$ সঠিক উত্তর অপশন 'D'",
+            "tags_raw": "[Ans: D]",
+            "provenance": [
+              "[Ans: D]"
+            ]
+          },
+          "id": "0b7aef9a-c907-5029-897b-0088e8a44a5e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q50",
+          "content_markdown": "তাপগতিবিদ্যার প্রথম সৃষ্টি কোন দুটির মধ্যে সম্পর্ক স্থাপন করে?",
+          "structured_data": {
+            "question_number": "50",
+            "subtype": "mcq",
+            "stem": "তাপগতিবিদ্যার প্রথম সৃষ্টি কোন দুটির মধ্যে সম্পর্ক স্থাপন করে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বল ও শক্তি",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "কাজ ও শক্তি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "তাপ ও বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "তাপ ও কাজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "তাপগতিবিদ্যার প্রথম সৃষ্টি হলো-'খখন কাজ সম্পূর্ণভাবে তাপে বা তাপ সম্পূর্ণভাবে কাজে রূপান্তরিত হয় তখন কাজ ও তাপ পরস্পরের সম্পৃক্তিকর হয়।' অর্থাৎ W পরিমাণ কাজ সম্পূর্ণভাবে তাপে পরিণত হলে যদি Q পরিমাণ তাপ উপন্যাস হয় তবে তাপগতিবিদ্যার প্রথম সৃষ্টি তাপ ও কাজ দুটির মধ্যে সম্পর্ক স্থাপন করে।",
+            "tags_raw": "[Ans: A]",
+            "provenance": [
+              "[Ans: A]"
+            ]
+          },
+          "id": "0e7bd453-811b-530d-80c5-768a32c08872"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q51",
+          "content_markdown": "‘Only an honest man is happy’ Its negative form without any change of meaning is -",
+          "structured_data": {
+            "question_number": "51",
+            "subtype": "mcq",
+            "stem": "‘Only an honest man is happy’ Its negative form without any change of meaning is -",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "An honest man is not only happy.",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "None but an honest man is happy.",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "No honest man is unhappy.",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "An honest man is not happy only.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "সঠিক উত্তর অপশন 'B' অর্থাৎ None but an honest man is happy.",
+            "tags_raw": "[Ans: B]",
+            "provenance": [
+              "[Ans: B]"
+            ]
+          },
+          "id": "edc13073-f933-5a36-9342-fa84017b64d6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q52",
+          "content_markdown": "যৌনবাহিত রোগের জন্য দায়ী কোন ব্যাকটেরিয়া?",
+          "structured_data": {
+            "question_number": "52",
+            "subtype": "mcq",
+            "stem": "যৌনবাহিত রোগের জন্য দায়ী কোন ব্যাকটেরিয়া?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Vibrio cholerae",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Clostridium tetani",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Diplococcus pneumoniae",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Chlamydia trachomatis",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "সঠিক উত্তর অপশন 'D' অর্থাৎ Chlamydia trachomatis.",
+            "tags_raw": "[Ans: D]",
+            "provenance": [
+              "[Ans: D]"
+            ]
+          },
+          "id": "a01b06c5-5b73-58e0-a2ad-ee71d0f50efa"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q53",
+          "content_markdown": "কোন ক্রিস্ট প্রতিষ্ঠে লুট্রিকেট হিসেবে ব্যবহৃত হয় কোনটি?",
+          "structured_data": {
+            "question_number": "53",
+            "subtype": "mcq",
+            "stem": "কোন ক্রিস্ট প্রতিষ্ঠে লুট্রিকেট হিসেবে ব্যবহৃত হয় কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "তরল প্যারাফিন",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "গ্লিসারিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "প্রোপাইল প্যারাফিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "মোম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "সঠিক উত্তর অপশন 'A' অর্থাৎ তরল প্যারাফিন।",
+            "tags_raw": "[Ans: A]",
+            "provenance": [
+              "[Ans: A]"
+            ]
+          },
+          "id": "67e97bf4-04e2-5c06-becd-ceb79c271354"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q54",
+          "content_markdown": "কার্যে চেতনার প্রথম ধাপের কেন্দ্রে নীচের কোনটি সঠিক?",
+          "structured_data": {
+            "question_number": "54",
+            "subtype": "mcq",
+            "stem": "কার্যে চেতনার প্রথম ধাপের কেন্দ্রে নীচের কোনটি সঠিক?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "তাপমাত্রা বৃদ্ধি পায়",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "অপ্রস্থ শক্তি-হাস পায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "তাপমাত্রা স্থির থাকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "তাপের বিকিরণ হয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "সঠিক উত্তর অপশন 'A' অর্থাৎ তাপমাত্রা বৃদ্ধি পায়।",
+            "tags_raw": "[Ans: A]",
+            "provenance": [
+              "[Ans: A]"
+            ]
+          },
+          "id": "d43f2ee3-c6ee-5e63-aace-bbfad16df77b"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 9,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 106.92,
+        "eval_count": 1858
+      }
+    },
+    {
+      "page_number": 7,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "## Q55\n**Type:** mcq\n**Stem:** প্রতিটি ক্রেবস চার্জে ATP উৎপন্ন হয়?\n**Options:** - A) 24টি  \n               - B) 28টি  \n               - C) 12টি  \n               - D) 16টি\n**Answer:** [Ans: ...]\n**Solution:** প্রতিটি ক্রেবস চার্জে ২৪টি ATP উৎপন্ন হয়।\n**Tags:** [RUET'10-11]\n\n## Solve\nনিচের ব্যাখ্যাটি লক্ষ্য করুন\n→ প্রতিটি ক্রেবস চার্জে ২৪টি ATP উৎপন্ন হয়।\n→ প্রতিটি সভাত শখনে ৩৬টি ATP উৎপন্ন হয়।\n→ প্রতিটি অবাত শখনে ২টি ATP উৎপন্ন হয়।\n\n## Q56\n**Type:** mcq\n**Stem:** জৈব যৌগের কার্যক্রিমূলক সান্দ্রকরণে বর্ণালীমিতির সর্বোচ্চ কোনটি?\n**Options:** - A) UV \n               - B) IR \n               - C) NMR \n               - D) MASS\n**Answer:** [Ans: ...]\n**Solution:** জৈব যৌগের কার্যক্রিমূলক সান্দ্রকরণে বর্ণালীমিতির সর্বোচ্চ পদ্ধতি হলো IR পদ্ধতি।\n\n## Q57\n**Type:** mcq\n**Stem:** প্রতিফলক দূরবিক্রম যন্ত্রের উদাহরণ কোনটি?\n**Options:** - A) নিউটনের দূরবিক্রম যন্ত্র \n               - B) জোহাভির দূরবিক্রম যন্ত্র \n               - C) ডু-দূরবিক্রম যন্ত্র \n               - D) গ্যালিলো দূরবিক্রম যন্ত্র\n**Answer:** [Ans: ...]\n**Solution:** সত্যিক উত্তর অপশন 'A' অর্থাৎ নিউটনের দূরবিক্রম যন্ত্র।\n\n## Note: দেখে নাও বিভিন্ন প্রতিফলক দূরবিক্রম যন্ত্রের উদাহরণ (ইসহাক)\n\n- প্রতিফলক দূরবিক্রম যন্ত্র:\n    1. নিউটনের দূরবিক্রম যন্ত্র।\n    2. আগ্নেয়ির দূরবিক্রম যন্ত্র।\n    3. হারসেলের দূরবিক্রম যন্ত্র।\n- প্রতিসরণ দূরবিক্রম যন্ত্র:\n    1. নতো বা জোহাভির দূরবিক্রম যন্ত্র।\n    2. ডু-দূরবিক্রম যন্ত্র।\n    3. গ্যালিলীয় দূরবিক্রম যন্ত্র।\n\n## Q58\n**Type:** mcq\n**Stem:** আজ ৮ষ্ঠ নভেম্বর ২০১৬। আজকের দিনটি বাঙালি ১৪২৩ সনের কোন মাসের কত তারিখ?\n**Options:** - A) ২০শে আধিষ্ঠান \n               - B) ১০ই কার্তিক \n               - C) ২০শে কার্তিক \n               - D) ১৫ই অগ্রহায়ণ\n**Answer:** [Ans: ...]\n**Solution:** প্রথম পরিবর্তনশীল হলেও তারিখটি নির্দিষ্ট। অর্থাৎ ২০১৬ সালের ৮ষ্ঠ নভেম্বর ছিল বাঙালি ১৪২৩ সনের ২০শে কার্তিক।\n\n## Q59\n**Type:** mcq\n**Stem:** আর্মিলো প্রাপ্তিকে উপস্থিতি কোন মহাদেশে পাওয়া যায়?\n**Options:** - A) ইউরোপ \n               - B) দক্ষিণ আমেরিকা \n               - C) আফ্রিকা \n               - D) উত্তর আমেরিকা\n**Answer:** [Ans: ...]\n**Solution:** সত্যিক উত্তর অপশন 'C' অর্থাৎ আফ্রিকা।\n\n## Q60\n**Type:** mcq\n**Stem:** জিঞ্জামের রাসায়নিক সংকেত কোনটি?\n**Options:** - A) ZnSO₄·7H₂O \n               - B) CaSO₄·5H₂O \n               - C) CaSO₄·2H₂O \n               - D) ZnSO₄·2H₂O\n**Answer:** [Ans: ...]\n**Solution:** জিঞ্জামের রাসায়নিক সংকেত হলো: CaSO₄·2H₂O\n\nNote : জেনে নাও আরও কিছু প্রয়োজনীয় সংকেত [বিভিন্ন দৃষ্টি]\n\n| নাম | রাসায়নিক সংকেত |\n| --- | --- |\n| অরগিমেন্ট | As₂S₃ |\n| অলিয়াম | H₂S₂O₇ |\n| অ্যাক্রোলিন | H₂C=CH—CHO |\n| অ্যানিসোলু | C₆H₅—O—CH₃ |\n| দার্শিনকের লবণ | SO₃ |\n| পটাস অ্যালাম/ফিটকিরি | [K₂SO₄.Al₂(SO₄)₃ . 24H₂O] |\n| পাইরিন | CCl₄ |\n| প্লাস্টার অব পারিস | (CaSO₄)₂.H₂O |\n\n## Q61\n**Type:** mcq\n**Stem:** 980 N ওজনের একটি বস্তুকে 1 ms⁻² তুলনা দিতে কত বল প্রয়োগ করতে হবে?\n**Options:** - A) 100 N  \n               - B) 10 N  \n               - C) 50 N  \n               - D) 1000 N\n**Answer:** [Ans: ...]\n**Solution:** এখানে, <br>\nF = ma<br>\n⇒ F = $\\frac{w}{g} \\times a$<br>\n= $=\\frac{980}{9.8}\\times 1$<br>\n= 100N<br>\n∴ সত্যিক উত্তর অপশন 'A'\n\n## Solve\nআমার জানি,\nF = ma\nওজন, w = বর (m) × অভিকর্ষ\nতুলনা (g)\nবল, F = ?\nএখানে,\n\n## Q62\n**Type:** mcq\n**Stem:** প্রকৃত ফল (True fruit) কোনটি?\n**Options:** - A) লিচু \n               - B) আম \n               - C) কাল জাম \n               - D) আপেল\n**Answer:** [Ans: ...]\n**Solution:** আপেল প্রকৃত ফল নয়; কারণ- এটি গভার্ষয় ব্যতীত অন্য কোনো অংশ থেকে উৎপন্ন হয়।\n\n## Q63\n**Type:** mcq\n**Stem:** ETP কী?\n**Options:** - A) বায়ু দূষণ অপসারণ \n               - B) পানি দূষণ প্রক্রিয়া \n               - C) শিল্পের তরল বর্জ্য দূষণমূক করা \n               - D) পরিবেশ দূষণমূক করা\n**Answer:** [Ans: ...]\n**Solution:** ETP এর পূর্ণ রূপ হচ্ছে Effluent Treatment plant; যার প্রধান কাজ হচ্ছে শিল্পের তরল বর্জ্য দূষণমূক করা।\n\n## Q64\n**Type:** mcq\n**Stem:** সৌর চৌম্বক ভাত রান্না করলে, কোন শক্তি তাপশক্তির রূপান্তরিত হয়?\n**Options:** - A) যান্ত্রিক শক্তি \n               - B) শৈদ শক্তি \n               - C) রাসায়নিক শক্তি \n               - D) আলোক শক্তি\n**Answer:** [Ans: ...]\n**Solution:** সত্যিক উত্তর অপশন 'D' অর্থাৎ আলোক শক্তি।\n\n## Q65\n**Type:** mcq\n**Stem:** Kuffer's cell থাকে কোথায়?\n**Options:** - A) গ্রীষ্ম \n               - B) মস্তিষ্ক \n               - C) ঘৃত \n               - D) অঞ্চায়ন\n**Answer:** [Ans: ...]\n**Solution:** সত্যিক উত্তর অপশন 'C' অর্থাৎ ঘৃত।\n\nNote : বিভিন্ন কোষ/ছড়ি/নালীর অবস্থান [আজমাল+আলীম]\n\n| কোষ/ছড়ি/নালী | অবস্থান |\n| --- | --- |\n| গবলেট ও শোষণক্রম কোষ পাওয়া যায় | ফুটপ্রেসে |\n| সার্টলী ও লিডিং কোষ পাওয়া যায় | গুপ্তাশয়ে |\n| পারকিনজি কোষ পাওয়া যায় | মতিশঙ্কে |\n| আইলেন্ট অব ল্যাঙ্গারহ্যাস পাওয়া যায় | অগ্নাশয়ে |\n| গ্যাস্ট্রিক ছ্রু খাকে | পাক্ষীতে |\n| বোম্যাল্স ক্যাপসুল /গোমেলুলস/বৃক্ষনালী থাকে | বুর্কে |\n| Basket cell থাকে | লালয়ম্বিতে |\n| সেমিনিফেরাস নালীর থাকে | শূন্যশয়ে |",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q55",
+          "content_markdown": "প্রতিটি ক্রেবস চার্জে ATP উৎপন্ন হয়?",
+          "structured_data": {
+            "question_number": "55",
+            "subtype": "mcq",
+            "stem": "প্রতিটি ক্রেবস চার্জে ATP উৎপন্ন হয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "24টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "28টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "12টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "16টি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "...",
+            "solution_markdown": "প্রতিটি ক্রেবস চার্জে ২৪টি ATP উৎপন্ন হয়।",
+            "tags_raw": "[RUET'10-11]  ## Solve নিচের ব্যাখ্যাটি লক্ষ্য করুন → প্রতিটি ক্রেবস চার্জে ২৪টি ATP উৎপন্ন হয়। → প্রতিটি সভাত শখনে ৩৬টি ATP উৎপন্ন হয়। → প্রতিটি অবাত শখনে ২টি ATP উৎপন্ন হয়।",
+            "provenance": [
+              "RUET'10-11"
+            ]
+          },
+          "id": "d5f3ce86-913c-526c-88ad-b444e10e3a56"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q56",
+          "content_markdown": "জৈব যৌগের কার্যক্রিমূলক সান্দ্রকরণে বর্ণালীমিতির সর্বোচ্চ কোনটি?",
+          "structured_data": {
+            "question_number": "56",
+            "subtype": "mcq",
+            "stem": "জৈব যৌগের কার্যক্রিমূলক সান্দ্রকরণে বর্ণালীমিতির সর্বোচ্চ কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "UV",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "IR",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "NMR",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "MASS",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "...",
+            "solution_markdown": "জৈব যৌগের কার্যক্রিমূলক সান্দ্রকরণে বর্ণালীমিতির সর্বোচ্চ পদ্ধতি হলো IR পদ্ধতি।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f01abc2c-ddf6-57db-b0aa-debd2d0a48cc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q57",
+          "content_markdown": "প্রতিফলক দূরবিক্রম যন্ত্রের উদাহরণ কোনটি?",
+          "structured_data": {
+            "question_number": "57",
+            "subtype": "mcq",
+            "stem": "প্রতিফলক দূরবিক্রম যন্ত্রের উদাহরণ কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "নিউটনের দূরবিক্রম যন্ত্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "জোহাভির দূরবিক্রম যন্ত্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ডু-দূরবিক্রম যন্ত্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "গ্যালিলো দূরবিক্রম যন্ত্র",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "...",
+            "solution_markdown": "সত্যিক উত্তর অপশন 'A' অর্থাৎ নিউটনের দূরবিক্রম যন্ত্র।\n\n## Note: দেখে নাও বিভিন্ন প্রতিফলক দূরবিক্রম যন্ত্রের উদাহরণ (ইসহাক)\n\n- প্রতিফলক দূরবিক্রম যন্ত্র:\n    1. নিউটনের দূরবিক্রম যন্ত্র।\n    2. আগ্নেয়ির দূরবিক্রম যন্ত্র।\n    3. হারসেলের দূরবিক্রম যন্ত্র।\n- প্রতিসরণ দূরবিক্রম যন্ত্র:\n    1. নতো বা জোহাভির দূরবিক্রম যন্ত্র।\n    2. ডু-দূরবিক্রম যন্ত্র।\n    3. গ্যালিলীয় দূরবিক্রম যন্ত্র।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "66854af8-be7c-5f62-ad8f-dec73442f5b0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q58",
+          "content_markdown": "আজ ৮ষ্ঠ নভেম্বর ২০১৬। আজকের দিনটি বাঙালি ১৪২৩ সনের কোন মাসের কত তারিখ?",
+          "structured_data": {
+            "question_number": "58",
+            "subtype": "mcq",
+            "stem": "আজ ৮ষ্ঠ নভেম্বর ২০১৬। আজকের দিনটি বাঙালি ১৪২৩ সনের কোন মাসের কত তারিখ?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "২০শে আধিষ্ঠান",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "১০ই কার্তিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "২০শে কার্তিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "১৫ই অগ্রহায়ণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "...",
+            "solution_markdown": "প্রথম পরিবর্তনশীল হলেও তারিখটি নির্দিষ্ট। অর্থাৎ ২০১৬ সালের ৮ষ্ঠ নভেম্বর ছিল বাঙালি ১৪২৩ সনের ২০শে কার্তিক।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "96b54726-9610-54ae-922e-6855009c15c1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q59",
+          "content_markdown": "আর্মিলো প্রাপ্তিকে উপস্থিতি কোন মহাদেশে পাওয়া যায়?",
+          "structured_data": {
+            "question_number": "59",
+            "subtype": "mcq",
+            "stem": "আর্মিলো প্রাপ্তিকে উপস্থিতি কোন মহাদেশে পাওয়া যায়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ইউরোপ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "দক্ষিণ আমেরিকা",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "আফ্রিকা",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "উত্তর আমেরিকা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "...",
+            "solution_markdown": "সত্যিক উত্তর অপশন 'C' অর্থাৎ আফ্রিকা।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c227efa9-9d4e-5e57-acef-c7e1c035d42d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q60",
+          "content_markdown": "জিঞ্জামের রাসায়নিক সংকেত কোনটি?",
+          "structured_data": {
+            "question_number": "60",
+            "subtype": "mcq",
+            "stem": "জিঞ্জামের রাসায়নিক সংকেত কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ZnSO₄·7H₂O",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "CaSO₄·5H₂O",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "CaSO₄·2H₂O",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ZnSO₄·2H₂O",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "...",
+            "solution_markdown": "জিঞ্জামের রাসায়নিক সংকেত হলো: CaSO₄·2H₂O\n\nNote : জেনে নাও আরও কিছু প্রয়োজনীয় সংকেত [বিভিন্ন দৃষ্টি]\n\n| নাম | রাসায়নিক সংকেত |\n| --- | --- |\n| অরগিমেন্ট | As₂S₃ |\n| অলিয়াম | H₂S₂O₇ |\n| অ্যাক্রোলিন | H₂C=CH—CHO |\n| অ্যানিসোলু | C₆H₅—O—CH₃ |\n| দার্শিনকের লবণ | SO₃ |\n| পটাস অ্যালাম/ফিটকিরি | [K₂SO₄.Al₂(SO₄)₃ . 24H₂O] |\n| পাইরিন | CCl₄ |\n| প্লাস্টার অব পারিস | (CaSO₄)₂.H₂O |",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4031cf03-71b6-5023-a484-a05bde84e33f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q61",
+          "content_markdown": "980 N ওজনের একটি বস্তুকে 1 ms⁻² তুলনা দিতে কত বল প্রয়োগ করতে হবে?",
+          "structured_data": {
+            "question_number": "61",
+            "subtype": "mcq",
+            "stem": "980 N ওজনের একটি বস্তুকে 1 ms⁻² তুলনা দিতে কত বল প্রয়োগ করতে হবে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "100 N",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "10 N",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "50 N",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "1000 N",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "...",
+            "solution_markdown": "এখানে, <br>\nF = ma<br>\n⇒ F = $\\frac{w}{g} \\times a$<br>\n= $=\\frac{980}{9.8}\\times 1$<br>\n= 100N<br>\n∴ সত্যিক উত্তর অপশন 'A'\n\n## Solve\nআমার জানি,\nF = ma\nওজন, w = বর (m) × অভিকর্ষ\nতুলনা (g)\nবল, F = ?\nএখানে,",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ced85484-294c-54c0-87a1-580f7672eff8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q62",
+          "content_markdown": "প্রকৃত ফল (True fruit) কোনটি?",
+          "structured_data": {
+            "question_number": "62",
+            "subtype": "mcq",
+            "stem": "প্রকৃত ফল (True fruit) কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "লিচু",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "আম",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "কাল জাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "আপেল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "...",
+            "solution_markdown": "আপেল প্রকৃত ফল নয়; কারণ- এটি গভার্ষয় ব্যতীত অন্য কোনো অংশ থেকে উৎপন্ন হয়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c115bb81-924c-5aef-b41f-0e334ef3498c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q63",
+          "content_markdown": "ETP কী?",
+          "structured_data": {
+            "question_number": "63",
+            "subtype": "mcq",
+            "stem": "ETP কী?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "বায়ু দূষণ অপসারণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "পানি দূষণ প্রক্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "শিল্পের তরল বর্জ্য দূষণমূক করা",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "পরিবেশ দূষণমূক করা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "...",
+            "solution_markdown": "ETP এর পূর্ণ রূপ হচ্ছে Effluent Treatment plant; যার প্রধান কাজ হচ্ছে শিল্পের তরল বর্জ্য দূষণমূক করা।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1db05400-c0a2-542c-8b89-0e6f33cf7a58"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q64",
+          "content_markdown": "সৌর চৌম্বক ভাত রান্না করলে, কোন শক্তি তাপশক্তির রূপান্তরিত হয়?",
+          "structured_data": {
+            "question_number": "64",
+            "subtype": "mcq",
+            "stem": "সৌর চৌম্বক ভাত রান্না করলে, কোন শক্তি তাপশক্তির রূপান্তরিত হয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "যান্ত্রিক শক্তি",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "শৈদ শক্তি",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "রাসায়নিক শক্তি",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "আলোক শক্তি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "...",
+            "solution_markdown": "সত্যিক উত্তর অপশন 'D' অর্থাৎ আলোক শক্তি।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4a43e4a9-2329-563b-a2a3-b31344a6a9c8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q65",
+          "content_markdown": "Kuffer's cell থাকে কোথায়?",
+          "structured_data": {
+            "question_number": "65",
+            "subtype": "mcq",
+            "stem": "Kuffer's cell থাকে কোথায়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "গ্রীষ্ম",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "মস্তিষ্ক",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ঘৃত",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "অঞ্চায়ন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "...",
+            "solution_markdown": "সত্যিক উত্তর অপশন 'C' অর্থাৎ ঘৃত।\n\nNote : বিভিন্ন কোষ/ছড়ি/নালীর অবস্থান [আজমাল+আলীম]\n\n| কোষ/ছড়ি/নালী | অবস্থান |\n| --- | --- |\n| গবলেট ও শোষণক্রম কোষ পাওয়া যায় | ফুটপ্রেসে |\n| সার্টলী ও লিডিং কোষ পাওয়া যায় | গুপ্তাশয়ে |\n| পারকিনজি কোষ পাওয়া যায় | মতিশঙ্কে |\n| আইলেন্ট অব ল্যাঙ্গারহ্যাস পাওয়া যায় | অগ্নাশয়ে |\n| গ্যাস্ট্রিক ছ্রু খাকে | পাক্ষীতে |\n| বোম্যাল্স ক্যাপসুল /গোমেলুলস/বৃক্ষনালী থাকে | বুর্কে |\n| Basket cell থাকে | লালয়ম্বিতে |\n| সেমিনিফেরাস নালীর থাকে | শূন্যশয়ে |",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "009cf9dd-57a3-5ec6-a552-85613e4c09a0"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 11,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 211.31,
+        "eval_count": 3550
+      }
+    },
+    {
+      "page_number": 8,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "## Q67\n**Type:** mcq\n**Stem:** 'Are you blind-your own interests?'\n**Options:** - A) of  \n           - B) for  \n           - C) to  \n           - D) by\n\n**Answer:** C\n**Solution:** সঠিক উত্তর অপশন 'C' আর্থিং to.\n**Tags:** [Ans: C]\n\n## Q68\n**Type:** mcq\n**Stem:** ৫০ মিনিটে ৭০ বার ছাড়ালে ঘড়িয়ে কত?\n**Options:** - A) ০.৬০ সেকেন্ড  \n           - B) ০.৭৫ সেকেন্ড  \n           - C) ৭.৫০ সেকেন্ড  \n           - D) ০.৮০ সেকেন্ড  \n\n**Answer:** B\n**Solution:** এমারা জানি,\n   ঘড়িয়ে/কার্ডিয়াক চক্র = $\\frac{\\text{সময়}}{\\text{ছবি কম্পন সংখ্যা}}$\n   $=\\frac{60}{\\frac{70}{50}} = 0.75$ সেকেন্ড\n**Tags:** [Ans: B]\n\n## Q69\n**Type:** mcq\n**Stem:** Acid Rain –এ কোন এসিড থাকে?\n**Options:** - A) H₂SO₄ ও HCl  \n           - B) H₂SO₄ ও HNO₃  \n           - C) H₂SO₄ ও H₂CO₃  \n           - D) HNO₃ ও HCl  \n\n**Answer:** B\n**Solution:** এসিড বুটি বা Acid Rain–এ মূলত H₂SO₃, H₂SO₄, HNO₃ –এ তিনটি এসিড থাকে।\n**Tags:** [Ans: B]\n\n## Q70\n**Type:** mcq\n**Stem:** ‘He is fond of playing cricket’. Here ‘playing’ is a-\n**Options:** - A) noun clause  \n           - B) gerund  \n           - C) verb phrase  \n           - D) irregular verb  \n\n**Answer:** B\n**Solution:** সঠিক উত্তর অপশন 'B' আর্থিং gerund. কেননা আমরা জানি Gerund (Verb + ing) একই সাথে Noun এবং Verb এর কাজ করে। প্রথমে উল্লেখিত বাক্যটিতে 'Playing' মূলত preposition এর object হয়ে Gerund হিসেবে ব্যবহৃত হয়েছে।\n**Tags:** [Ans: B]\n\n## Q71\n**Type:** mcq\n**Stem:** করোনারি ধমনী সূক্ষ্ম যায়া নির্ণয়ে যুগ্মভাবে ব্যবচ্ছিন্ন হয় কোন পরীক্ষা?\n**Options:** - A) ইকোকাইওগ্রাম  \n           - B) এনজিওগ্রাম  \n           - C) ইটিটি  \n           - D) ইসিজি  \n\n**Answer:** B\n**Solution:** সঠিক উত্তর অপশন 'B' আর্থিং এনজিওগ্রাম।\n**Tags:** [Ans: B]\n\n## Q72\n**Type:** mcq\n**Stem:** মাইলার নামক প্লাস্টিক ফিস্টা বা রেকর্ডিং টেপ তৈরি হয় কোথা থেকে?\n**Options:** - A) নাইলন  \n           - B) টেফ্রলন  \n           - C) ডেক্রোন  \n           - D) টেরিলিন  \n\n**Answer:** C\n**Solution:** সঠিক উত্তর অপশন 'C' আর্থিং ডেক্রোন। উল্লেখ্য যে, ডেক্রোন এর অপর নাম টেরিলিন। ডাইকার্বিয়ালিক এসিড ও ইথিলিন গ্লাইকল এসিড প্রভাবকের উপস্থিতিতে প্রায় ২০০℃ অপমানের ডেক্রোন প্রস্তুত করা হয়। ডেক্রোনের আরও উল্লেখযোগ্য ব্যবহার হলো: সোয়ার্টার, মোজা, সাইটি কাপড়, শাড়ি ইত্যাদি\n**Tags:** [Ans: C]\n\n## Q73\n**Type:** mcq\n**Stem:** Pick up the correct sentence from the followings-\nA) Wait until I do not return.\nB) He is the most best boy in the class.\nC) Try heart and soul.\nD) I do not know nothing\n\n**Options:** - A) \n           - B) \n           - C) \n           - D)\n\n**Answer:** C\n**Solution:** সঠিক উত্তর অপশন 'C' আর্থিং Try heart and soul.\n**Tags:** [Ans: C]\n\n## Q74\n**Type:** mcq\n**Stem:** কোনটি মানবদেহের রক্ত জমাট বাঁধার কাজে সহযোগিতা করে না?\n**Options:** - A) ফাইব্রিনোজেন  \n           - B) প্রোথ্রোম্বিন  \n           - C) প্রোথ্রোপ্লাস্টিন  \n           - D) ইওসিনোফিল\n\n**Answer:** D\n**Solution:** ইওসিনোফিল মানবদেহের রক্ত জমাট বাঁধার কাজে সহযোগিতা করে না।\n**Tags:** [Ans: D]\n\n## ConceptNote: Blood Clotting Factors\n| Factor | Substances |\n|--------|------------|\n| Factor I |- Fibrinogen |\n| Factor II|- Prothrombin |\n| Factor III|- Thromboplastin |\n| Factor IV|- Calcium ion |\n| Factor V|- Proaccelerin |\n| Factor VI|- Does not exist |\n| Factor VII|- Proconvertin |\n| Factor VIII|- Antihaemophilic factor A |\n| Factor IX|- Chrismas factor |\n| Factor X|- Antihaemophilic factor B |\n| Factor XI|- Antihaemophilic factor C |\n| Factor XII|- Hageman factor |\n| Factor XIII|- Fibrin stabilising factor |\n\n## Q75\n**Type:** mcq\n**Stem:** এক মৌল ইলেকট্রনের মোট চার্জ কত?\n**Options:** - A) 96288  \n           - B) 94388  \n           - C) 96566  \n           - D) 96473  \n\n**Answer:** D\n**Solution:** সঠিক উত্তর অপশন 'D' আর্থিং 96473\n**Tags:** [Ans: D]",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q67",
+          "content_markdown": "'Are you blind-your own interests?'",
+          "structured_data": {
+            "question_number": "67",
+            "subtype": "mcq",
+            "stem": "'Are you blind-your own interests?'",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "of",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "for",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "to",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "by",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "সঠিক উত্তর অপশন 'C' আর্থিং to.",
+            "tags_raw": "[Ans: C]",
+            "provenance": [
+              "[Ans: C]"
+            ]
+          },
+          "id": "5732df4a-3e5c-5c50-ae12-61ede89c5db8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q68",
+          "content_markdown": "৫০ মিনিটে ৭০ বার ছাড়ালে ঘড়িয়ে কত?",
+          "structured_data": {
+            "question_number": "68",
+            "subtype": "mcq",
+            "stem": "৫০ মিনিটে ৭০ বার ছাড়ালে ঘড়িয়ে কত?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "০.৬০ সেকেন্ড",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "০.৭৫ সেকেন্ড",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "৭.৫০ সেকেন্ড",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "০.৮০ সেকেন্ড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "এমারা জানি,\n   ঘড়িয়ে/কার্ডিয়াক চক্র = $\\frac{\\text{সময়}}{\\text{ছবি কম্পন সংখ্যা}}$\n   $=\\frac{60}{\\frac{70}{50}} = 0.75$ সেকেন্ড",
+            "tags_raw": "[Ans: B]",
+            "provenance": [
+              "[Ans: B]"
+            ]
+          },
+          "id": "98a1060d-f6fa-5081-940d-e578b60ce465"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q69",
+          "content_markdown": "Acid Rain –এ কোন এসিড থাকে?",
+          "structured_data": {
+            "question_number": "69",
+            "subtype": "mcq",
+            "stem": "Acid Rain –এ কোন এসিড থাকে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "H₂SO₄ ও HCl",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "H₂SO₄ ও HNO₃",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "H₂SO₄ ও H₂CO₃",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "HNO₃ ও HCl",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "এসিড বুটি বা Acid Rain–এ মূলত H₂SO₃, H₂SO₄, HNO₃ –এ তিনটি এসিড থাকে।",
+            "tags_raw": "[Ans: B]",
+            "provenance": [
+              "[Ans: B]"
+            ]
+          },
+          "id": "99d05a6a-7d7e-5aad-ac18-bcdad700f0dc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q70",
+          "content_markdown": "‘He is fond of playing cricket’. Here ‘playing’ is a-",
+          "structured_data": {
+            "question_number": "70",
+            "subtype": "mcq",
+            "stem": "‘He is fond of playing cricket’. Here ‘playing’ is a-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "noun clause",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "gerund",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "verb phrase",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "irregular verb",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "সঠিক উত্তর অপশন 'B' আর্থিং gerund. কেননা আমরা জানি Gerund (Verb + ing) একই সাথে Noun এবং Verb এর কাজ করে। প্রথমে উল্লেখিত বাক্যটিতে 'Playing' মূলত preposition এর object হয়ে Gerund হিসেবে ব্যবহৃত হয়েছে।",
+            "tags_raw": "[Ans: B]",
+            "provenance": [
+              "[Ans: B]"
+            ]
+          },
+          "id": "8038491f-24a7-5b9f-842e-4d4ac39eef99"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q71",
+          "content_markdown": "করোনারি ধমনী সূক্ষ্ম যায়া নির্ণয়ে যুগ্মভাবে ব্যবচ্ছিন্ন হয় কোন পরীক্ষা?",
+          "structured_data": {
+            "question_number": "71",
+            "subtype": "mcq",
+            "stem": "করোনারি ধমনী সূক্ষ্ম যায়া নির্ণয়ে যুগ্মভাবে ব্যবচ্ছিন্ন হয় কোন পরীক্ষা?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ইকোকাইওগ্রাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "এনজিওগ্রাম",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "ইটিটি",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ইসিজি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "সঠিক উত্তর অপশন 'B' আর্থিং এনজিওগ্রাম।",
+            "tags_raw": "[Ans: B]",
+            "provenance": [
+              "[Ans: B]"
+            ]
+          },
+          "id": "4522860f-4268-5bb1-a440-4e733d5f02c6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q72",
+          "content_markdown": "মাইলার নামক প্লাস্টিক ফিস্টা বা রেকর্ডিং টেপ তৈরি হয় কোথা থেকে?",
+          "structured_data": {
+            "question_number": "72",
+            "subtype": "mcq",
+            "stem": "মাইলার নামক প্লাস্টিক ফিস্টা বা রেকর্ডিং টেপ তৈরি হয় কোথা থেকে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "নাইলন",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "টেফ্রলন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ডেক্রোন",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "টেরিলিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "সঠিক উত্তর অপশন 'C' আর্থিং ডেক্রোন। উল্লেখ্য যে, ডেক্রোন এর অপর নাম টেরিলিন। ডাইকার্বিয়ালিক এসিড ও ইথিলিন গ্লাইকল এসিড প্রভাবকের উপস্থিতিতে প্রায় ২০০℃ অপমানের ডেক্রোন প্রস্তুত করা হয়। ডেক্রোনের আরও উল্লেখযোগ্য ব্যবহার হলো: সোয়ার্টার, মোজা, সাইটি কাপড়, শাড়ি ইত্যাদি",
+            "tags_raw": "[Ans: C]",
+            "provenance": [
+              "[Ans: C]"
+            ]
+          },
+          "id": "68774ff7-3d64-51a8-a415-a8e301424278"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q73",
+          "content_markdown": "Pick up the correct sentence from the followings-\nA) Wait until I do not return.\nB) He is the most best boy in the class.\nC) Try heart and soul.\nD) I do not know nothing",
+          "structured_data": {
+            "question_number": "73",
+            "subtype": "mcq",
+            "stem": "Pick up the correct sentence from the followings-\nA) Wait until I do not return.\nB) He is the most best boy in the class.\nC) Try heart and soul.\nD) I do not know nothing",
+            "options": [],
+            "correct_answer": "C",
+            "solution_markdown": "সঠিক উত্তর অপশন 'C' আর্থিং Try heart and soul.",
+            "tags_raw": "[Ans: C]",
+            "provenance": [
+              "[Ans: C]"
+            ]
+          },
+          "id": "0b542664-b6ed-5325-9639-031f3da65fc3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q74",
+          "content_markdown": "কোনটি মানবদেহের রক্ত জমাট বাঁধার কাজে সহযোগিতা করে না?",
+          "structured_data": {
+            "question_number": "74",
+            "subtype": "mcq",
+            "stem": "কোনটি মানবদেহের রক্ত জমাট বাঁধার কাজে সহযোগিতা করে না?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ফাইব্রিনোজেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "প্রোথ্রোম্বিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "প্রোথ্রোপ্লাস্টিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ইওসিনোফিল",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "ইওসিনোফিল মানবদেহের রক্ত জমাট বাঁধার কাজে সহযোগিতা করে না।",
+            "tags_raw": "[Ans: D]",
+            "provenance": [
+              "[Ans: D]"
+            ]
+          },
+          "id": "33437c7c-582e-50cf-9d2d-db87dfa70a2b"
+        },
+        {
+          "block_type": "callout_tip",
+          "title": "Blood Clotting Factors",
+          "content_markdown": "| Factor | Substances |\n|--------|------------|\n| Factor I |- Fibrinogen |\n| Factor II|- Prothrombin |\n| Factor III|- Thromboplastin |\n| Factor IV|- Calcium ion |\n| Factor V|- Proaccelerin |\n| Factor VI|- Does not exist |\n| Factor VII|- Proconvertin |\n| Factor VIII|- Antihaemophilic factor A |\n| Factor IX|- Chrismas factor |\n| Factor X|- Antihaemophilic factor B |\n| Factor XI|- Antihaemophilic factor C |\n| Factor XII|- Hageman factor |\n| Factor XIII|- Fibrin stabilising factor |",
+          "structured_data": {},
+          "id": "55613e4e-a598-5130-9a10-484056124892"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q75",
+          "content_markdown": "এক মৌল ইলেকট্রনের মোট চার্জ কত?",
+          "structured_data": {
+            "question_number": "75",
+            "subtype": "mcq",
+            "stem": "এক মৌল ইলেকট্রনের মোট চার্জ কত?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "96288",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "94388",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "96566",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "96473",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "সঠিক উত্তর অপশন 'D' আর্থিং 96473",
+            "tags_raw": "[Ans: D]",
+            "provenance": [
+              "[Ans: D]"
+            ]
+          },
+          "id": "22829daa-768a-56fd-9f54-27636fbfaf00"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 10,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 121.64,
+        "eval_count": 2085
+      }
+    },
+    {
+      "page_number": 9,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "```none\n76. বাংলাদেশের বর্তমান সংসদ কত তম?\nA. সপ্তম সংসদ\nB. অষ্টম সংসদ\nC. নবম সংসদ\nD. দশম সংসদ\n\n77. বিশ্বখালী রক্ষণযুক্তার প্রধানমন্ত্রী করণ কি?\nA. ভিটামিন সি ঘাটতিজনিত\nB. লোহ ঘাটতিজনিত\nC. জনগত রক্ষণাব\nD. ভিটামিন বি-১২ ঘাটতিজনিত\n\n78. বড় পুরুষিয়া খনিজ ক্যালরিক মান কত?\nA. 11,000 BTU/lb\nB. 11,040 BTU/lb\nC. 17,000 BTU/lb\nD. 15,000 BTU/lb\n\n79. কৌন বর্তমান আজন্তা রোধ নির্ণয়ে কোন যাত্রি ব্যবহৃত হয়?\nA. পোস্টঅফিস ব্রক্স\nB. মিটার ব্রিজ\nC. পোস্টেশনওমিটার\nD. ক্যালকুলেটর\n\n80. 'I have hardly any money' বাক্যটির সচিক্রিয় অনুবাদ-\nA. আমার কোন টাকা নেই বললেই চলে।\nB. আমার কিছু টাকা আছে।\nC. আমার কোন টাকা নেই।\nD. আমার কঠিনভিত্ত টাকা আছে।\n\n81. AB রোগের দাতা কোন এন্ডোক্রিন রক্ত দিতে পারবে?\nA. O গ্রুপ\nB. B গ্রুপ\nC. AB গ্রুপ\nD. A গ্রুপ\n\n82. ন্যানো কণার আকৃতি হলো-\nA. 1 - 10 nm\nB. 1 - 50 nm\nC. 1 - 100 nm\nD. 1 - 200 nm\n\nNote : জেনে নাও ন্যানো কণা সম্পর্কিত কিছু তথ্যঃ [হাজারী]\n• ন্যানো পার্টিক্যালের প্রকারভেদঃ\n    ন্যানো কণা\n        ব্যাস অনুসারে\n            বৃহদকার সৃষ্ট কণা ন্যানো কণা\n                (10,000-2500 nm)(2500-100 nm)(1-100 nm)\n                    ন্যানো উৎপাদ\n                        (এক দিকের দৈর্ঘ্য 1-10 nm)\n                            100 nm এর কম)\n                    ন্যানো ফেলাস\n                        (এক দিকের দৈর্ঘ্য 100 nm এর কম)\n\n83. দোলক ঘড়ির ক্ষেত্রে গ্রীষ্মকালের জন্য সঠিক কোনটি?\nA. তারের দৈর্ঘ্য কমে যায়\nB. ঘড়ি দ্রুত চলে\nC. ঘড়ি ধীরে চলে\nD. দোলন কাল অপরিবর্তিত থাকে\n\n84. বাহিনী দেশ হিসেবে বাংলাদেশকে প্রথম স্বীকৃতি দেয় কোন দেশ?\nA. ভারত\nB. ভূটান\nC. রাশিয়া\nD. জাপান\n\nNote : বাংলাদেশকে স্বীকৃতিদানকারী বিভিন্ন দেশঃ\n• প্রথম দেশ— ভূটান (৬ ডিসেম্বর, ১৯৭১)\n• দ্বিতীয় দেশ— ভারত (৬ ডিসেম্বর, ১৯৭১)\n• প্রথম আরব দেশ— ইরাক (৮ জুলাই, ১৯৭২)\n• প্রথম অ-আরব মুসলিম দেশ— মালয়েশিয়া (২৫ ফেব্রুয়ারি, ১৯৭২)\n• প্রথম মধ্যাচ্ছাদের দেশ— ইরাক (৮ জুলাই, ১৯৭২)\n• প্রথম ইউরোপীয় দেশ— শোল্যাঙ্গ ও বুলগেরিয়া (১ ফেব্রুয়ারি, ১৯৭২)\n• প্রথম আফ্রিকার দেশ— সেনেগাল (১ ফেব্রুয়ারি, ১৯৭২)\n• প্রথম অমেরিকার দেশ— কানাডা (১৪ ফেব্রুয়ারি, ১৯৭২)\n• প্রথম সমাজতান্ত্রিক দেশ— পোল্যান্ড (১২ জানুয়ারি, ১৯৭২)\n• উল্লেখ্য যে, যুক্তরাষ্ট্র ও চীন বাংলাদেশের মুক্তিযুদ্ধের বিরোধী ছিল",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "```none",
+          "structured_data": {},
+          "id": "08aac5f7-e592-5b0d-96b0-e7486e66da70"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q76",
+          "content_markdown": "বাংলাদেশের বর্তমান সংসদ কত তম?",
+          "structured_data": {
+            "question_number": "76",
+            "subtype": "mcq_item",
+            "stem": "বাংলাদেশের বর্তমান সংসদ কত তম?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "সপ্তম সংসদ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "অষ্টম সংসদ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "নবম সংসদ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "দশম সংসদ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d7047ac8-8ee5-5a1f-a89f-b4e02023f9a2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q77",
+          "content_markdown": "বিশ্বখালী রক্ষণযুক্তার প্রধানমন্ত্রী করণ কি?",
+          "structured_data": {
+            "question_number": "77",
+            "subtype": "mcq_item",
+            "stem": "বিশ্বখালী রক্ষণযুক্তার প্রধানমন্ত্রী করণ কি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ভিটামিন সি ঘাটতিজনিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "লোহ ঘাটতিজনিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "জনগত রক্ষণাব",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ভিটামিন বি-১২ ঘাটতিজনিত",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "95753725-27c0-513e-aa86-decf094fda62"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q78",
+          "content_markdown": "বড় পুরুষিয়া খনিজ ক্যালরিক মান কত?",
+          "structured_data": {
+            "question_number": "78",
+            "subtype": "mcq_item",
+            "stem": "বড় পুরুষিয়া খনিজ ক্যালরিক মান কত?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "11,000 BTU/lb",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "11,040 BTU/lb",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "17,000 BTU/lb",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "15,000 BTU/lb",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f68170a3-9c45-5e3a-911e-eccd8ca54cb2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q79",
+          "content_markdown": "কৌন বর্তমান আজন্তা রোধ নির্ণয়ে কোন যাত্রি ব্যবহৃত হয়?",
+          "structured_data": {
+            "question_number": "79",
+            "subtype": "mcq_item",
+            "stem": "কৌন বর্তমান আজন্তা রোধ নির্ণয়ে কোন যাত্রি ব্যবহৃত হয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "পোস্টঅফিস ব্রক্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "মিটার ব্রিজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "পোস্টেশনওমিটার",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ক্যালকুলেটর",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "982c9f9b-dc05-55f5-b0ea-c2ad360de280"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q80",
+          "content_markdown": "'I have hardly any money' বাক্যটির সচিক্রিয় অনুবাদ-",
+          "structured_data": {
+            "question_number": "80",
+            "subtype": "mcq_item",
+            "stem": "'I have hardly any money' বাক্যটির সচিক্রিয় অনুবাদ-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "আমার কোন টাকা নেই বললেই চলে।",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "আমার কিছু টাকা আছে।",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "আমার কোন টাকা নেই।",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "আমার কঠিনভিত্ত টাকা আছে।",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a46c094d-b262-56ae-a377-8e46a8733e6d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q81",
+          "content_markdown": "AB রোগের দাতা কোন এন্ডোক্রিন রক্ত দিতে পারবে?",
+          "structured_data": {
+            "question_number": "81",
+            "subtype": "mcq_item",
+            "stem": "AB রোগের দাতা কোন এন্ডোক্রিন রক্ত দিতে পারবে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "O গ্রুপ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "B গ্রুপ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "AB গ্রুপ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "A গ্রুপ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d5c01d7c-9774-57d4-b7bd-fb87cb85940b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q82",
+          "content_markdown": "ন্যানো কণার আকৃতি হলো-\nNote : জেনে নাও ন্যানো কণা সম্পর্কিত কিছু তথ্যঃ [হাজারী]\n• ন্যানো পার্টিক্যালের প্রকারভেদঃ\nন্যানো কণা\nব্যাস অনুসারে\nবৃহদকার সৃষ্ট কণা ন্যানো কণা\n(10,000-2500 nm)(2500-100 nm)(1-100 nm)\nন্যানো উৎপাদ\n(এক দিকের দৈর্ঘ্য 1-10 nm)\n100 nm এর কম)\nন্যানো ফেলাস\n(এক দিকের দৈর্ঘ্য 100 nm এর কম)",
+          "structured_data": {
+            "question_number": "82",
+            "subtype": "mcq_item",
+            "stem": "ন্যানো কণার আকৃতি হলো-\nNote : জেনে নাও ন্যানো কণা সম্পর্কিত কিছু তথ্যঃ [হাজারী]\n• ন্যানো পার্টিক্যালের প্রকারভেদঃ\nন্যানো কণা\nব্যাস অনুসারে\nবৃহদকার সৃষ্ট কণা ন্যানো কণা\n(10,000-2500 nm)(2500-100 nm)(1-100 nm)\nন্যানো উৎপাদ\n(এক দিকের দৈর্ঘ্য 1-10 nm)\n100 nm এর কম)\nন্যানো ফেলাস\n(এক দিকের দৈর্ঘ্য 100 nm এর কম)",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "1 - 10 nm",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "1 - 50 nm",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "1 - 100 nm",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "1 - 200 nm",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "A. 1 - 10, B. 1 - 50, C. 1 - 10, D. 1 - 20",
+            "provenance": [
+              "A. 1 - 10",
+              "B. 1 - 50",
+              "C. 1 - 10",
+              "D. 1 - 20"
+            ]
+          },
+          "id": "bad0df15-bdbd-5661-9996-06ad07e803b4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q83",
+          "content_markdown": "দোলক ঘড়ির ক্ষেত্রে গ্রীষ্মকালের জন্য সঠিক কোনটি?",
+          "structured_data": {
+            "question_number": "83",
+            "subtype": "mcq_item",
+            "stem": "দোলক ঘড়ির ক্ষেত্রে গ্রীষ্মকালের জন্য সঠিক কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "তারের দৈর্ঘ্য কমে যায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ঘড়ি দ্রুত চলে",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ঘড়ি ধীরে চলে",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "দোলন কাল অপরিবর্তিত থাকে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "074f616e-96ac-5e98-88f4-20c46e0715f8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q84",
+          "content_markdown": "বাহিনী দেশ হিসেবে বাংলাদেশকে প্রথম স্বীকৃতি দেয় কোন দেশ?\nNote : বাংলাদেশকে স্বীকৃতিদানকারী বিভিন্ন দেশঃ\n• প্রথম দেশ— ভূটান (৬ ডিসেম্বর, ১৯৭১)\n• দ্বিতীয় দেশ— ভারত (৬ ডিসেম্বর, ১৯৭১)\n• প্রথম আরব দেশ— ইরাক (৮ জুলাই, ১৯৭২)\n• প্রথম অ-আরব মুসলিম দেশ— মালয়েশিয়া (২৫ ফেব্রুয়ারি, ১৯৭২)\n• প্রথম মধ্যাচ্ছাদের দেশ— ইরাক (৮ জুলাই, ১৯৭২)\n• প্রথম ইউরোপীয় দেশ— শোল্যাঙ্গ ও বুলগেরিয়া (১ ফেব্রুয়ারি, ১৯৭২)\n• প্রথম আফ্রিকার দেশ— সেনেগাল (১ ফেব্রুয়ারি, ১৯৭২)\n• প্রথম অমেরিকার দেশ— কানাডা (১৪ ফেব্রুয়ারি, ১৯৭২)\n• প্রথম সমাজতান্ত্রিক দেশ— পোল্যান্ড (১২ জানুয়ারি, ১৯৭২)\n• উল্লেখ্য যে, যুক্তরাষ্ট্র ও চীন বাংলাদেশের মুক্তিযুদ্ধের বিরোধী ছিল",
+          "structured_data": {
+            "question_number": "84",
+            "subtype": "mcq_item",
+            "stem": "বাহিনী দেশ হিসেবে বাংলাদেশকে প্রথম স্বীকৃতি দেয় কোন দেশ?\nNote : বাংলাদেশকে স্বীকৃতিদানকারী বিভিন্ন দেশঃ\n• প্রথম দেশ— ভূটান (৬ ডিসেম্বর, ১৯৭১)\n• দ্বিতীয় দেশ— ভারত (৬ ডিসেম্বর, ১৯৭১)\n• প্রথম আরব দেশ— ইরাক (৮ জুলাই, ১৯৭২)\n• প্রথম অ-আরব মুসলিম দেশ— মালয়েশিয়া (২৫ ফেব্রুয়ারি, ১৯৭২)\n• প্রথম মধ্যাচ্ছাদের দেশ— ইরাক (৮ জুলাই, ১৯৭২)\n• প্রথম ইউরোপীয় দেশ— শোল্যাঙ্গ ও বুলগেরিয়া (১ ফেব্রুয়ারি, ১৯৭২)\n• প্রথম আফ্রিকার দেশ— সেনেগাল (১ ফেব্রুয়ারি, ১৯৭২)\n• প্রথম অমেরিকার দেশ— কানাডা (১৪ ফেব্রুয়ারি, ১৯৭২)\n• প্রথম সমাজতান্ত্রিক দেশ— পোল্যান্ড (১২ জানুয়ারি, ১৯৭২)\n• উল্লেখ্য যে, যুক্তরাষ্ট্র ও চীন বাংলাদেশের মুক্তিযুদ্ধের বিরোধী ছিল",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ভারত",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ভূটান",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "রাশিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "জাপান",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "df725e88-5049-5a0f-8a7d-990cea054106"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 10,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 119.84,
+        "eval_count": 1962
+      }
+    },
+    {
+      "page_number": 10,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "```plaintext\n85. উচ্চারের প্রধান ডাইসাকারাইড হলো-\nA. ম্যালটোজ\nB. মানোজ\nC. ল্যাকটোজ\nD. সুকরোজ\n\n86. সেলুলোজ কোন বদ্ধাটি বিদ্যমান?\nA. α-গ্লাইকোসাইডিক\nB. β-গ্লাইকোসাইডিক\nC. হাইড্রোজেন\nD. পেপ্টাইড\n\n87. কোন বক্তব্যে মেভেই রাখা হয় যে কেন তার ওজন একটি বিন্দুর মধ্য দিয়ে ব্যত্যাগ উপর সর্বশেষ করে। এই বিন্দুকে বলে—\nA. অভিকর্ষ কেন্দ্র\nB. ভরকেন্দ্র\nC. মহাকর্ষীয় প্রবক্তা\nD. অভিকর্ষক ফুরণ\n\n88. Antonym for ‘aware’ is-\nA. harmony\nB. kindness\nC. ignorant\nD. retain\n\n89. বাংলাদেশের ময়মনসিংহ জেলা 'কালিসিন্দুর' আমাটি কিসের জন্য বিখ্যাত?\n\nA. জামদানী শাড়ি উৎপাদন কেন্দ্র\nB. পাঞ্চন কেন্দ্র\nC. অনুর্ধ্ব যৌথ মহিলা ফুটবল দল\nD. চা বাগান\n\n90. প্রাণ্যাশ্রী এন্টিবেশন বা পৃষ্ঠাঙ্গ বিনাসার উদাহরণ কোনটি?\nA. বাবলা\nB. গণ্ডরাজ\nC. জবা\nD. মটরভটি\n\n91. দুধ থেকে ছানা পাওয়ার প্রক্রিয়া হলো-\nA. অগ্র বিশ্রেণ্য\nB. ফারমেন্টেশন\nC. কোয়াইওলেশন\nD. অরিডেশন\n\n92. মানুষের কান সংখ্যায় মূদ্রা যে শব্দ ঘনত্বে পায়, তার উত্তরতা কত?\nA. 10^-6 Wm^2\nB. 10^-8 Wm^2\nC. 10^-12 Wm^2\nD. 10^-10 Wm^2\n\n93. 'He had gone away before I came'. Here the word 'before' is a-\nA. adverb\nB. conjunction\nC. preposition\nD. adjective\n\n94. প্রোটিন পরিপক্কারী এনজাইম নাম কোনটি?\nA. ট্রিপসিন\nB. আমাইনোপেপ্টাইডেজ\nC. কাইসোপ্রিসিন\nD. আমাইলেজ\n\n95. নিচের কোনটি সাধারণ অবস্থায় তরল?\nA. F_2\nB. Cl_2\nC. Br_2\nD. I_2\n\n96. পারদ ও কাঁচের মধ্যবর্তী স্পর্শ কোণ কত?\nA. 104°\nB. 14°\nC. 140°\nD. 40°\n\n97. Synonym for the word ‘accuracy’ is-\nA. authenticity\nB. reality\nC. perfection\nD. precision",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "```plaintext",
+          "structured_data": {},
+          "id": "d58c568a-f8fa-5ba9-85b2-ccb471d248e7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q85",
+          "content_markdown": "উচ্চারের প্রধান ডাইসাকারাইড হলো-",
+          "structured_data": {
+            "question_number": "85",
+            "subtype": "mcq_item",
+            "stem": "উচ্চারের প্রধান ডাইসাকারাইড হলো-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ম্যালটোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "মানোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ল্যাকটোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "সুকরোজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "89293e9c-aded-547f-a7cb-f29e1ceda165"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q86",
+          "content_markdown": "সেলুলোজ কোন বদ্ধাটি বিদ্যমান?",
+          "structured_data": {
+            "question_number": "86",
+            "subtype": "mcq_item",
+            "stem": "সেলুলোজ কোন বদ্ধাটি বিদ্যমান?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "α-গ্লাইকোসাইডিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "β-গ্লাইকোসাইডিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "হাইড্রোজেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "পেপ্টাইড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9316260d-0c8a-5f50-a8b6-887e3f649d6c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q87",
+          "content_markdown": "কোন বক্তব্যে মেভেই রাখা হয় যে কেন তার ওজন একটি বিন্দুর মধ্য দিয়ে ব্যত্যাগ উপর সর্বশেষ করে। এই বিন্দুকে বলে—",
+          "structured_data": {
+            "question_number": "87",
+            "subtype": "mcq_item",
+            "stem": "কোন বক্তব্যে মেভেই রাখা হয় যে কেন তার ওজন একটি বিন্দুর মধ্য দিয়ে ব্যত্যাগ উপর সর্বশেষ করে। এই বিন্দুকে বলে—",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "অভিকর্ষ কেন্দ্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ভরকেন্দ্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "মহাকর্ষীয় প্রবক্তা",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "অভিকর্ষক ফুরণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f78684a0-a53e-57a2-9736-a80cda66bcb7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q88",
+          "content_markdown": "Antonym for ‘aware’ is-",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "mcq_item",
+            "stem": "Antonym for ‘aware’ is-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "harmony",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "kindness",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ignorant",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "retain",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "bedf39ce-1def-5b43-b14d-8003bda5bfe0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q89",
+          "content_markdown": "বাংলাদেশের ময়মনসিংহ জেলা 'কালিসিন্দুর' আমাটি কিসের জন্য বিখ্যাত?",
+          "structured_data": {
+            "question_number": "89",
+            "subtype": "mcq_item",
+            "stem": "বাংলাদেশের ময়মনসিংহ জেলা 'কালিসিন্দুর' আমাটি কিসের জন্য বিখ্যাত?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "জামদানী শাড়ি উৎপাদন কেন্দ্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "পাঞ্চন কেন্দ্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "অনুর্ধ্ব যৌথ মহিলা ফুটবল দল",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "চা বাগান",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "aa493af2-d219-507a-b951-6f056e4bc348"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q90",
+          "content_markdown": "প্রাণ্যাশ্রী এন্টিবেশন বা পৃষ্ঠাঙ্গ বিনাসার উদাহরণ কোনটি?",
+          "structured_data": {
+            "question_number": "90",
+            "subtype": "mcq_item",
+            "stem": "প্রাণ্যাশ্রী এন্টিবেশন বা পৃষ্ঠাঙ্গ বিনাসার উদাহরণ কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "বাবলা",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "গণ্ডরাজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "জবা",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "মটরভটি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "aaa8830d-a881-5d50-b5df-25cfbb3bc3f8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q91",
+          "content_markdown": "দুধ থেকে ছানা পাওয়ার প্রক্রিয়া হলো-",
+          "structured_data": {
+            "question_number": "91",
+            "subtype": "mcq_item",
+            "stem": "দুধ থেকে ছানা পাওয়ার প্রক্রিয়া হলো-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "অগ্র বিশ্রেণ্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ফারমেন্টেশন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "কোয়াইওলেশন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "অরিডেশন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4b89d920-e7d7-5300-8a38-efde5976e293"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q92",
+          "content_markdown": "মানুষের কান সংখ্যায় মূদ্রা যে শব্দ ঘনত্বে পায়, তার উত্তরতা কত?",
+          "structured_data": {
+            "question_number": "92",
+            "subtype": "mcq_item",
+            "stem": "মানুষের কান সংখ্যায় মূদ্রা যে শব্দ ঘনত্বে পায়, তার উত্তরতা কত?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "10^-6 Wm^2",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "10^-8 Wm^2",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "10^-12 Wm^2",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "10^-10 Wm^2",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a1a631c6-0927-520e-bbd9-9ee5267424e5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q93",
+          "content_markdown": "'He had gone away before I came'. Here the word 'before' is a-",
+          "structured_data": {
+            "question_number": "93",
+            "subtype": "mcq_item",
+            "stem": "'He had gone away before I came'. Here the word 'before' is a-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "adverb",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "conjunction",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "preposition",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "adjective",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "21d7f92c-da52-5019-bf7f-1e82809f2307"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q94",
+          "content_markdown": "প্রোটিন পরিপক্কারী এনজাইম নাম কোনটি?",
+          "structured_data": {
+            "question_number": "94",
+            "subtype": "mcq_item",
+            "stem": "প্রোটিন পরিপক্কারী এনজাইম নাম কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ট্রিপসিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "আমাইনোপেপ্টাইডেজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "কাইসোপ্রিসিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "আমাইলেজ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e21ac637-54b0-5966-b288-2322cc99af9b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q95",
+          "content_markdown": "নিচের কোনটি সাধারণ অবস্থায় তরল?",
+          "structured_data": {
+            "question_number": "95",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি সাধারণ অবস্থায় তরল?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "F_2",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "Cl_2",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "Br_2",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "I_2",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "eb723943-c276-555d-b0bd-9e07021825df"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q96",
+          "content_markdown": "পারদ ও কাঁচের মধ্যবর্তী স্পর্শ কোণ কত?",
+          "structured_data": {
+            "question_number": "96",
+            "subtype": "mcq_item",
+            "stem": "পারদ ও কাঁচের মধ্যবর্তী স্পর্শ কোণ কত?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "104°",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "14°",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "140°",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "40°",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1e177f80-a1e0-52f7-b863-190d5c44717f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q97",
+          "content_markdown": "Synonym for the word ‘accuracy’ is-",
+          "structured_data": {
+            "question_number": "97",
+            "subtype": "mcq_item",
+            "stem": "Synonym for the word ‘accuracy’ is-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "authenticity",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "reality",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "perfection",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "precision",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "641db2e9-cfe0-5c89-828a-d0daf8eb9b23"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 14,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 70.16,
+        "eval_count": 1218
+      }
+    },
+    {
+      "page_number": 11,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "## Q98\n**Type:** mcq\n**Stem:** 'জোছা ও জননীর গল্লা' উপন্যাসটির রচয়িতা কে?\n- A) শৈখড় শামসুল হক\n- B) মুহাম্মদ জাফর ইকবাল\n- C) হৃষ্মানু আহমেদ\n- D) মুনতাসীর মামূন\n\n**Solution:** সঠিক উত্তর অপশন 'C' অর্থাৎ হৃষ্মানু আহমেদ।\n**Tags:** [The Medicine QB]\n\n## Q99\nZn^{2+} নিচ্ছিদকরণের বিকারকের নাম কী?\n- A) পটাসিয়াম ফেরিনায়াইনাইড\n- B) পটাসিয়াম ফেরোসায়ানাইড\n- C) পটাসিয়াম ক্রোমেট\n- D) পটাসিয়াম পাইরো অ্যাটিমোলেট\n\n**Solution:** সঠিক উত্তর অপশন 'B' অর্থাৎ পটাসিয়াম ফেরোসায়ানাইড।\n**Tags:** [The Medicine QB]\n\n## Q100\nগনোরিয়া রোগের জীবাণু একটি-\n- A) ভাইরাস\n- B) ব্যাকটেরিয়া\n- C) ফাঙ্গাস\n- D) পারাসাইট\n\n**Solution:** সঠিক উত্তর অপশন 'B' অর্থাৎ ব্যাকটেরিয়া।\n**Tags:** [The Medicine QB]",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q98",
+          "content_markdown": "'জোছা ও জননীর গল্লা' উপন্যাসটির রচয়িতা কে?",
+          "structured_data": {
+            "question_number": "98",
+            "subtype": "mcq",
+            "stem": "'জোছা ও জননীর গল্লা' উপন্যাসটির রচয়িতা কে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "শৈখড় শামসুল হক",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "মুহাম্মদ জাফর ইকবাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "হৃষ্মানু আহমেদ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "মুনতাসীর মামূন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সঠিক উত্তর অপশন 'C' অর্থাৎ হৃষ্মানু আহমেদ।",
+            "tags_raw": "[The Medicine QB]",
+            "provenance": [
+              "[The Medicine QB]"
+            ]
+          },
+          "id": "a715dd29-cad2-520d-b2a4-ffc263e0fc96"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q99",
+          "content_markdown": "Zn^{2+} নিচ্ছিদকরণের বিকারকের নাম কী?",
+          "structured_data": {
+            "question_number": "99",
+            "subtype": "mcq_item",
+            "stem": "Zn^{2+} নিচ্ছিদকরণের বিকারকের নাম কী?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "পটাসিয়াম ফেরিনায়াইনাইড",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "পটাসিয়াম ফেরোসায়ানাইড",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "পটাসিয়াম ক্রোমেট",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "পটাসিয়াম পাইরো অ্যাটিমোলেট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সঠিক উত্তর অপশন 'B' অর্থাৎ পটাসিয়াম ফেরোসায়ানাইড।",
+            "tags_raw": "[The Medicine QB]",
+            "provenance": [
+              "[The Medicine QB]"
+            ]
+          },
+          "id": "e3db0c25-ef0d-5296-9b86-f58c5943cf4e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q100",
+          "content_markdown": "গনোরিয়া রোগের জীবাণু একটি-",
+          "structured_data": {
+            "question_number": "100",
+            "subtype": "mcq_item",
+            "stem": "গনোরিয়া রোগের জীবাণু একটি-",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ভাইরাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ব্যাকটেরিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ফাঙ্গাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "পারাসাইট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সঠিক উত্তর অপশন 'B' অর্থাৎ ব্যাকটেরিয়া।",
+            "tags_raw": "[The Medicine QB]",
+            "provenance": [
+              "[The Medicine QB]"
+            ]
+          },
+          "id": "5ab3a244-f9f3-5a47-93e0-d5be16dd8a86"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 3,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 33.23,
+        "eval_count": 590
+      }
+    }
+  ]
+}

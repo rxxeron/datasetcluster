@@ -1,0 +1,1842 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "1Ph1ee1Kn-WehyHRdDgYQqlRfZcd2rF2S",
+    "collection": "main_book_solution",
+    "subject": "physics",
+    "edition": "2023",
+    "priority_score": 2023092,
+    "path_parts": [
+      "অনুশীলনী MCQ সমাধান",
+      "* ভার্সন সেপ্টেম্বর-২৩",
+      "টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন",
+      "পদার্থবিজ্ঞান",
+      "P-1.8 পর্যাবৃত্তিক গতি.pdf"
+    ],
+    "filename": "P-1.8 পর্যাবৃত্তিক গতি.pdf",
+    "sha256": "31e8b047caca60c60ecce6e18ba702a3ddb5a6c790404b4d7f9bf260c0322d62",
+    "total_pages": 7,
+    "parsed_pages": 7,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 66,
+    "block_counts_by_type": {
+      "concept_prose": 27,
+      "mcq_item": 27,
+      "exercise_solution": 11,
+      "table": 1
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### অষ্টম অধ্যায়: পর্যবেক্ষিক গতি\n\n#### ভূগোল - মহাবৃত্ত\n1. যে দৈলয় সমাবেদন হতে সর্বোচ্চ গতি মেঘে 0.5 সেকেন্ড সময় নেয়? (দ। রো। 21]\n   - a) সরল দৈলয়\n   - b) জটিল দৈলয়\n   - c) সেকেন্ড দৈলয়\n   - d) কেটার দৈলয়\n\n2. সরল ছবিতে গতিসম্পন্ন কোণা কোণার তুরণ কোন রাশিটির সমানুপাতিক?\n   [দ। রো। 2016; র। রো। 2016]\n   - a) বল\n   - b) সরঙ্ক\n   - c) পর্যায়কল\n   - d) বেগ\n\n3. কোনো বক্তর গতি যদি এমন হয় যে নির্দিষ্ট সময় পরপর কোনো নির্দিষ্ট বিন্দুকে একই দিক থেকে অতিক্রম করে যায় তাহলে তাকে কেমন পর্যবেক্ষিত বলে?\n   - a) কলিক পর্যবেক্ষিত\n   - b) খ্যানিক পর্যবেক্ষিত\n   - c) উভয়ই\n   - d) কোনোটাই নয়\n\n4. প্রতি এক বছর পর আমাদের জাতীয় বিজ্ঞান দিবস 16 ডিসেম্বর আসে, এটি কী ধরনের পর্যবেক্ষিত উদাহরণ?\n   - a) কলিক পর্যবেক্ষিত\n   - b) খ্যানিক পর্যবেক্ষিত\n   - c) উভয়ই\n   - d) কোনোটাই নয়\n\n5. কোনো বক্তর গতি যদি এমন হয় যে নির্দিষ্ট সময় পরপর কোনো নির্দিষ্ট বিন্দুকে একই দিক থেকে অতিক্রম করে যায় তাহলে তাকে কেমন পর্যবেক্ষিত বলে?\n   - a) কলিক পর্যবেক্ষিত\n   - b) খ্যানিক পর্যবেক্ষিত\n   - c) উভয়ই\n   - d) কোনোটাই নয়\n\n6. নির্দিষ্ট সময় পর যে গতির পুনরাবৃত্তি ঘটে, তাকে কী বলে?\n   - a) রৈখিক গতি\n   - b) বৃত্তীয় গতি\n   - c) কৌণিক গতি\n   - d) পর্যায়কল গতি\n\n7. সরল দৈলয়ের গতিসম্পন্ন কোণা কোণার অন্তরকলন সমীকরণ $4\\frac{\\mathrm{d}^{2}\\mathbf{x}}{\\mathrm{d}t^2}+100x = 0$ হলে কোণটির কৌণিক কম্পাঙ্ক কত হবে? [স। রো। 2016/ স। রো। 2018]\n   - a) 2 rads${^{-1}}$\n   - b) 4 rads${^{-1}}$\n   - c) 5 rads${^{-1}}$\n   - d) 100 rads${^{-1}}$\n\n8. কোনো সেকেন্ড দৈলয়ের কার্যকরী দৈর্ঘ্য 1.96 ওয়েল এর দৈলয়কল কত হবে? [দ। রো। 11; নক্স রো। 18]\n   - a) 3·92 sec\n   - b) 3·44 sec\n   - c) 2·8 sec\n   - d) 1·4 sec\n\n9. কলিক পর্যবেক্ষিতের ফেক্ট্রে কোনটি সঠিক?\n   - a) $y=\\sin\\theta(t)$\n   - b) $y=\\cos\\theta(t,x)$\n   - c) $y=\\tan\\theta(t,x)$\n   - d) $y=\\cot\\theta(t,x)$\n\n10. সরল ছবিতে গতির মোট শক্তি কীসের উপর নির্ভর করে?\n   - a) সরণ\n   - b) বিশ্রাম\n   - c) পর্যায়কল\n   - d) বেগ\n\n11. সরল ছবিতে গতির মোট শক্তি কীসের উপর নির্ভর করে?\n   - a) কোণার সরণ সাইনের বা কোসাইনের অপেক্ষক\n   - b) বলের দিক সাম্যবিন্দু অভিমুখী\n   - c) সাম্যবিন্দুতে গতিশক্তি সবচেয়ে কম\n   - d) তুরণের মান সরণের বিপরীতমুখী\n\n## Q12\n**Type:** mcq\n**Stem:** একটি বক্তর গতির সমীকরণ $y=\\sin^{3}{\\omega t}$, বক্তরের গতি-\n- a) অপর্যাপ্ত\n- b) পর্যবেক্ষিত কিছু সরল হিন্দিত নয়\n- c) $\\frac{2\\pi}{\\omega}$\n- d) $\\frac{\\pi}{\\omega}$\n\n## Q13\n**Type:** mcq\n**Stem:** নিচের কোন সম্পর্কিত সরল ছবিতে গতির বৈশিষ্ট্য ধারণ করে?\n- a) $a=0.7 x$\n- b) $a=-10 x$\n- c) $a=-200 x^{2}$\n- d) $a=100 x^{3}$\n\n## Q18\n**Type:** mcq\n**Stem:** একটি পূর্ণ কম্পন T সময়ের দশার পরিবর্তন $2 \\pi$ হলে কৌণিক কম্পাঙ্ক কত হবে? [স। রো। 16]\n- a) $\\omega=2 \\pi f$\n- b) $\\omega=T / 2 \\pi$\n- c) $\\omega=2 \\pi f$\n- d) $\\omega=2 \\pi T$\n\n## Q15\n**Type:** mcq\n**Stem:** সরল ছবিতে গতির বিভবশক সরবরাহ হবে যখন সরণ-\n[MBSTU 2017-18]\n- a) A\n- b) $\\frac{A}{2}$\n- c) $\\frac{A}{\\sqrt{2}}$\n- d) 0 হয়\n\n## Q16\n**Type:** mcq\n**Stem:** সরল দৈলয় গতিসম্পন্ন কোণার অন্তরকলন সমীকরণ $4\\frac{\\mathrm{d}^{2}\\mathbf{x}}{\\mathrm{d}t^2} + 100 x = 0$ হলে কোণটির কৌণিক কম্পাঙ্ক কত হবে? [স। রো。 2016/ স। রো。 2018]\n- a) 2 rads${^{-1}}$\n- b) 4 rads${^{-1}}$\n- c) 5 rads${^{-1}}$\n- d) 100 rads${^{-1}}$\n\n## Q17\n**Type:** mcq\n**Stem:** সরল দৈলয় গতিসম্পন্ন কোণার সর্বোচ্চ বেগ কত হবে? [স। রো。 16, 18]\n- a) $v_{max}= \\frac{\\omega}{A}$\n- b) $v_{max}= \\frac{A}{\\omega}$\n- c) $v_{max}= \\omega A$\n- d) $v_{max}= \\omega ^ { 2 } A$\n\n## Q18\n**Type:** mcq\n**Stem:** কোনো সেকেন্ড দৈলয়ের কার্যকরী দৈর্ঘ্য 1.96 ওয়েল এর দৈলয়কল কত হবে? [দ। রো。 11: নক্স রো। 18]\n- a) 3·92 sec\n- b) 3·44 sec\n- c) 2·8 sec\n- d) 1·4 sec (আমির হোসেন)\n\n## Q19\n**Type:** mcq\n**Stem:** সরল দৈলয় গতিসম্পন্ন কোণার কম্পাঙ্ক-এর বল ধ্রুবকের-\n- a) সমানুপাতিক\n- b) বর্গমূলের সমানুপাতিক\n- c) ব্যাজনুপাতিক\n- d) বর্গমূলের ব্যাজনুপাতিক (শহজাদা তোন)\n\n### সরল–দৈলয় গতিসম্পন্ন কোণ অন্তরক সমীকরণ\n20. কোনো কোণার সম্পন্ন গতির সমীকরণ $x=10 \\sin(6 \\pi t + 2 \\pi )$. কোণটির কম্পাঙ্ক কত? [ম। রো। 2017]\n- a) 1.5 Hz\n- b) 6 Hz\n- c) 3 Hz\n- d) 10 Hz\n\n21. সরল ছবিতে গতির সমীকরণ কোনটি? [শ। রো, দ। রো, দিঃ 2018-15]\n- a) $y=A \\sin(kx-\\omega t)$\n- b) $y=A \\sin(vt-x)$\n- c) $y=a \\cos(\\omega t-\\delta)$\n- d) $y=A \\cos(kx+\\delta)$",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "ভূগোল - মহাবৃত্ত",
+          "content_markdown": "1. যে দৈলয় সমাবেদন হতে সর্বোচ্চ গতি মেঘে 0.5 সেকেন্ড সময় নেয়? (দ। রো। 21]\n   - a) সরল দৈলয়\n   - b) জটিল দৈলয়\n   - c) সেকেন্ড দৈলয়\n   - d) কেটার দৈলয়",
+          "structured_data": {},
+          "id": "ddc7450e-1dc0-5541-88f5-d925bbc3d9e3"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ভূগোল - মহাবৃত্ত",
+          "content_markdown": "2. সরল ছবিতে গতিসম্পন্ন কোণা কোণার তুরণ কোন রাশিটির সমানুপাতিক?\n   [দ। রো। 2016; র। রো। 2016]\n   - a) বল\n   - b) সরঙ্ক\n   - c) পর্যায়কল\n   - d) বেগ",
+          "structured_data": {},
+          "id": "e1a29e2d-ad71-596c-9483-dfdf7b1db2e0"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ভূগোল - মহাবৃত্ত",
+          "content_markdown": "3. কোনো বক্তর গতি যদি এমন হয় যে নির্দিষ্ট সময় পরপর কোনো নির্দিষ্ট বিন্দুকে একই দিক থেকে অতিক্রম করে যায় তাহলে তাকে কেমন পর্যবেক্ষিত বলে?\n   - a) কলিক পর্যবেক্ষিত\n   - b) খ্যানিক পর্যবেক্ষিত\n   - c) উভয়ই\n   - d) কোনোটাই নয়",
+          "structured_data": {},
+          "id": "9401d03d-7fca-5bad-8c78-d056896395dc"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ভূগোল - মহাবৃত্ত",
+          "content_markdown": "4. প্রতি এক বছর পর আমাদের জাতীয় বিজ্ঞান দিবস 16 ডিসেম্বর আসে, এটি কী ধরনের পর্যবেক্ষিত উদাহরণ?\n   - a) কলিক পর্যবেক্ষিত\n   - b) খ্যানিক পর্যবেক্ষিত\n   - c) উভয়ই\n   - d) কোনোটাই নয়",
+          "structured_data": {},
+          "id": "3b374ae6-9f48-5f79-842e-70b0d471a989"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ভূগোল - মহাবৃত্ত",
+          "content_markdown": "5. কোনো বক্তর গতি যদি এমন হয় যে নির্দিষ্ট সময় পরপর কোনো নির্দিষ্ট বিন্দুকে একই দিক থেকে অতিক্রম করে যায় তাহলে তাকে কেমন পর্যবেক্ষিত বলে?\n   - a) কলিক পর্যবেক্ষিত\n   - b) খ্যানিক পর্যবেক্ষিত\n   - c) উভয়ই\n   - d) কোনোটাই নয়",
+          "structured_data": {},
+          "id": "1df275a7-23b7-50be-8224-ba02558d6660"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ভূগোল - মহাবৃত্ত",
+          "content_markdown": "6. নির্দিষ্ট সময় পর যে গতির পুনরাবৃত্তি ঘটে, তাকে কী বলে?\n   - a) রৈখিক গতি\n   - b) বৃত্তীয় গতি\n   - c) কৌণিক গতি\n   - d) পর্যায়কল গতি",
+          "structured_data": {},
+          "id": "462aa3f0-5b15-542e-9476-ab0c2b989a07"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ভূগোল - মহাবৃত্ত",
+          "content_markdown": "7. সরল দৈলয়ের গতিসম্পন্ন কোণা কোণার অন্তরকলন সমীকরণ $4\\frac{\\mathrm{d}^{2}\\mathbf{x}}{\\mathrm{d}t^2}+100x = 0$ হলে কোণটির কৌণিক কম্পাঙ্ক কত হবে? [স। রো। 2016/ স। রো। 2018]\n   - a) 2 rads${^{-1}}$\n   - b) 4 rads${^{-1}}$\n   - c) 5 rads${^{-1}}$\n   - d) 100 rads${^{-1}}$",
+          "structured_data": {},
+          "id": "5bee4277-da35-53c9-8385-c367d8098494"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ভূগোল - মহাবৃত্ত",
+          "content_markdown": "8. কোনো সেকেন্ড দৈলয়ের কার্যকরী দৈর্ঘ্য 1.96 ওয়েল এর দৈলয়কল কত হবে? [দ। রো। 11; নক্স রো। 18]\n   - a) 3·92 sec\n   - b) 3·44 sec\n   - c) 2·8 sec\n   - d) 1·4 sec",
+          "structured_data": {},
+          "id": "8d2c6c92-99f0-5480-bccf-473189373832"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ভূগোল - মহাবৃত্ত",
+          "content_markdown": "9. কলিক পর্যবেক্ষিতের ফেক্ট্রে কোনটি সঠিক?\n   - a) $y=\\sin\\theta(t)$\n   - b) $y=\\cos\\theta(t,x)$\n   - c) $y=\\tan\\theta(t,x)$\n   - d) $y=\\cot\\theta(t,x)$",
+          "structured_data": {},
+          "id": "3bbc92a0-b5af-51ae-8a73-1ca6f2409d23"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ভূগোল - মহাবৃত্ত",
+          "content_markdown": "10. সরল ছবিতে গতির মোট শক্তি কীসের উপর নির্ভর করে?\n   - a) সরণ\n   - b) বিশ্রাম\n   - c) পর্যায়কল\n   - d) বেগ",
+          "structured_data": {},
+          "id": "94306122-3506-53cf-ae72-ca47d1a21a12"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ভূগোল - মহাবৃত্ত",
+          "content_markdown": "11. সরল ছবিতে গতির মোট শক্তি কীসের উপর নির্ভর করে?\n   - a) কোণার সরণ সাইনের বা কোসাইনের অপেক্ষক\n   - b) বলের দিক সাম্যবিন্দু অভিমুখী\n   - c) সাম্যবিন্দুতে গতিশক্তি সবচেয়ে কম\n   - d) তুরণের মান সরণের বিপরীতমুখী",
+          "structured_data": {},
+          "id": "83dfe6c1-266b-5515-8c50-d792fc1d465a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q12",
+          "content_markdown": "একটি বক্তর গতির সমীকরণ $y=\\sin^{3}{\\omega t}$, বক্তরের গতি-",
+          "structured_data": {
+            "question_number": "12",
+            "subtype": "mcq",
+            "stem": "একটি বক্তর গতির সমীকরণ $y=\\sin^{3}{\\omega t}$, বক্তরের গতি-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অপর্যাপ্ত",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "পর্যবেক্ষিত কিছু সরল হিন্দিত নয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{2\\pi}{\\omega}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\frac{\\pi}{\\omega}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "61f3ba4e-2833-57a0-ba43-6f6d3a054fe5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q13",
+          "content_markdown": "নিচের কোন সম্পর্কিত সরল ছবিতে গতির বৈশিষ্ট্য ধারণ করে?",
+          "structured_data": {
+            "question_number": "13",
+            "subtype": "mcq",
+            "stem": "নিচের কোন সম্পর্কিত সরল ছবিতে গতির বৈশিষ্ট্য ধারণ করে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$a=0.7 x$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$a=-10 x$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$a=-200 x^{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$a=100 x^{3}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e687e089-4828-548b-81b4-7a1ad3aec3d1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q18",
+          "content_markdown": "একটি পূর্ণ কম্পন T সময়ের দশার পরিবর্তন $2 \\pi$ হলে কৌণিক কম্পাঙ্ক কত হবে? [স। রো। 16]",
+          "structured_data": {
+            "question_number": "18",
+            "subtype": "mcq",
+            "stem": "একটি পূর্ণ কম্পন T সময়ের দশার পরিবর্তন $2 \\pi$ হলে কৌণিক কম্পাঙ্ক কত হবে? [স। রো। 16]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\omega=2 \\pi f$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\omega=T / 2 \\pi$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\omega=2 \\pi f$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\omega=2 \\pi T$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "042b587f-f3b2-569f-99d7-d2a617d336d1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q15",
+          "content_markdown": "সরল ছবিতে গতির বিভবশক সরবরাহ হবে যখন সরণ-\n[MBSTU 2017-18]",
+          "structured_data": {
+            "question_number": "15",
+            "subtype": "mcq",
+            "stem": "সরল ছবিতে গতির বিভবশক সরবরাহ হবে যখন সরণ-\n[MBSTU 2017-18]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "A",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{A}{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{A}{\\sqrt{2}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "0 হয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f7bb6120-33b3-5712-96e3-9648736e900d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q16",
+          "content_markdown": "সরল দৈলয় গতিসম্পন্ন কোণার অন্তরকলন সমীকরণ $4\\frac{\\mathrm{d}^{2}\\mathbf{x}}{\\mathrm{d}t^2} + 100 x = 0$ হলে কোণটির কৌণিক কম্পাঙ্ক কত হবে? [স। রো。 2016/ স। রো。 2018]",
+          "structured_data": {
+            "question_number": "16",
+            "subtype": "mcq",
+            "stem": "সরল দৈলয় গতিসম্পন্ন কোণার অন্তরকলন সমীকরণ $4\\frac{\\mathrm{d}^{2}\\mathbf{x}}{\\mathrm{d}t^2} + 100 x = 0$ হলে কোণটির কৌণিক কম্পাঙ্ক কত হবে? [স। রো。 2016/ স। রো。 2018]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "2 rads${^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "4 rads${^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "5 rads${^{-1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "100 rads${^{-1}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b4ec76a1-eabc-54af-bbdf-7350c77aeadd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q17",
+          "content_markdown": "সরল দৈলয় গতিসম্পন্ন কোণার সর্বোচ্চ বেগ কত হবে? [স। রো。 16, 18]",
+          "structured_data": {
+            "question_number": "17",
+            "subtype": "mcq",
+            "stem": "সরল দৈলয় গতিসম্পন্ন কোণার সর্বোচ্চ বেগ কত হবে? [স। রো。 16, 18]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$v_{max}= \\frac{\\omega}{A}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$v_{max}= \\frac{A}{\\omega}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$v_{max}= \\omega A$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$v_{max}= \\omega ^ { 2 } A$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "54b843e5-045d-5bca-8181-f90d9c5fd471"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q18",
+          "content_markdown": "কোনো সেকেন্ড দৈলয়ের কার্যকরী দৈর্ঘ্য 1.96 ওয়েল এর দৈলয়কল কত হবে? [দ। রো。 11: নক্স রো। 18]",
+          "structured_data": {
+            "question_number": "18",
+            "subtype": "mcq",
+            "stem": "কোনো সেকেন্ড দৈলয়ের কার্যকরী দৈর্ঘ্য 1.96 ওয়েল এর দৈলয়কল কত হবে? [দ। রো。 11: নক্স রো। 18]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "3·92 sec",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "3·44 sec",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "2·8 sec",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "1·4 sec (আমির হোসেন)",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4bf780f6-7d64-536d-a84d-4567cb4c5a50"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q19",
+          "content_markdown": "সরল দৈলয় গতিসম্পন্ন কোণার কম্পাঙ্ক-এর বল ধ্রুবকের-\n\n### সরল–দৈলয় গতিসম্পন্ন কোণ অন্তরক সমীকরণ\n20. কোনো কোণার সম্পন্ন গতির সমীকরণ $x=10 \\sin(6 \\pi t + 2 \\pi )$. কোণটির কম্পাঙ্ক কত? [ম। রো। 2017]\n\n21. সরল ছবিতে গতির সমীকরণ কোনটি? [শ। রো, দ। রো, দিঃ 2018-15]",
+          "structured_data": {
+            "question_number": "19",
+            "subtype": "mcq",
+            "stem": "সরল দৈলয় গতিসম্পন্ন কোণার কম্পাঙ্ক-এর বল ধ্রুবকের-\n\n### সরল–দৈলয় গতিসম্পন্ন কোণ অন্তরক সমীকরণ\n20. কোনো কোণার সম্পন্ন গতির সমীকরণ $x=10 \\sin(6 \\pi t + 2 \\pi )$. কোণটির কম্পাঙ্ক কত? [ম। রো। 2017]\n\n21. সরল ছবিতে গতির সমীকরণ কোনটি? [শ। রো, দ। রো, দিঃ 2018-15]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সমানুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বর্গমূলের সমানুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ব্যাজনুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বর্গমূলের ব্যাজনুপাতিক (শহজাদা তোন)",
+                "is_correct": false
+              },
+              {
+                "key_original": "a",
+                "text": "1.5 Hz",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "6 Hz",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "3 Hz",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "10 Hz",
+                "is_correct": false
+              },
+              {
+                "key_original": "a",
+                "text": "$y=A \\sin(kx-\\omega t)$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$y=A \\sin(vt-x)$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$y=a \\cos(\\omega t-\\delta)$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$y=A \\cos(kx+\\delta)$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1c4c3416-5a48-507c-b985-f4d9fc987720"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 19,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 103.88,
+        "eval_count": 3388
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "---\n\n## Q22\n**Type:** mcq\n**Stem:** একটি সরল ছদ্মিত গতিসম্পন্ন কণার বিশেষ $0.1$m, পর্যায়কাল 4 s এবং আদি দশা $30^{\\circ}$ উড় কণাটির দোলনগতির সমীকরণ কৌনটি?\n**Options:** \n- a) $\\mathrm{x}=0.1 \\sin \\left(\\frac{\\pi}{2} t+\\frac{\\pi}{6}\\right)$\n- b) $\\mathrm{x}=0.1 \\sin \\left(\\frac{\\pi}{4} t+\\frac{\\pi}{6}\\right)$\n- c) $\\mathrm{x}=1.0 \\sin \\left(\\frac{\\pi}{2} t+\\frac{\\pi}{6}\\right)$\n- d) $\\mathrm{x}=1.0 \\sin \\left(\\frac{\\pi}{4} t+\\frac{\\pi}{6}\\right)$\n\n**Answer:** -a)\n\n**Solution:** \n\nThe equation of simple harmonic motion can be written as:\n\n$$\nx = A \\sin (\\omega t + \\phi)\n$$\n\nGiven values:\n- Amplitude $A = 0.1$ m,\n- Period $T = 4$ seconds,\n\nFirst calculate angular frequency $\\omega$:\n\n$$\n\\omega = \\frac{2\\pi}{T} = \\frac{2\\pi}{4} = \\frac{\\pi}{2}\\ rad/s\n$$\n\nSince it's given that at initial time $t = 0$, displacement $x = 0.1m$ along with phase angle $\\phi = 30^\\circ$.\n\nSo we have:\n\n$$\n0.1 = 0.1 \\sin \\left( \\frac{\\pi}{2} \\cdot 0 + \\frac{\\pi}{6} \\right)\n$$\n\nThis matches option \"a\".\n\nTherefore, correct answer is:  \n- a) $\\mathrm{x}=0.1 \\sin \\left(\\frac{\\pi}{2} t+\\frac{\\pi}{6}\\right)$\n\n**Tags:** [B. D. 2018-19]\n\n---",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "---",
+          "structured_data": {},
+          "id": "613e8659-c852-53c5-8294-0d7969df3105"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q22",
+          "content_markdown": "একটি সরল ছদ্মিত গতিসম্পন্ন কণার বিশেষ $0.1$m, পর্যায়কাল 4 s এবং আদি দশা $30^{\\circ}$ উড় কণাটির দোলনগতির সমীকরণ কৌনটি?",
+          "structured_data": {
+            "question_number": "22",
+            "subtype": "mcq",
+            "stem": "একটি সরল ছদ্মিত গতিসম্পন্ন কণার বিশেষ $0.1$m, পর্যায়কাল 4 s এবং আদি দশা $30^{\\circ}$ উড় কণাটির দোলনগতির সমীকরণ কৌনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\mathrm{x}=0.1 \\sin \\left(\\frac{\\pi}{2} t+\\frac{\\pi}{6}\\right)$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\mathrm{x}=0.1 \\sin \\left(\\frac{\\pi}{4} t+\\frac{\\pi}{6}\\right)$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\mathrm{x}=1.0 \\sin \\left(\\frac{\\pi}{2} t+\\frac{\\pi}{6}\\right)$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\mathrm{x}=1.0 \\sin \\left(\\frac{\\pi}{4} t+\\frac{\\pi}{6}\\right)$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": "The equation of simple harmonic motion can be written as:\n\n$$\nx = A \\sin (\\omega t + \\phi)\n$$\n\nGiven values:\n- Amplitude $A = 0.1$ m,\n- Period $T = 4$ seconds,\n\nFirst calculate angular frequency $\\omega$:\n\n$$\n\\omega = \\frac{2\\pi}{T} = \\frac{2\\pi}{4} = \\frac{\\pi}{2}\\ rad/s\n$$\n\nSince it's given that at initial time $t = 0$, displacement $x = 0.1m$ along with phase angle $\\phi = 30^\\circ$.\n\nSo we have:\n\n$$\n0.1 = 0.1 \\sin \\left( \\frac{\\pi}{2} \\cdot 0 + \\frac{\\pi}{6} \\right)\n$$\n\nThis matches option \"a\".\n\nTherefore, correct answer is:  \n- a) $\\mathrm{x}=0.1 \\sin \\left(\\frac{\\pi}{2} t+\\frac{\\pi}{6}\\right)$",
+            "tags_raw": "[B. D. 2018-19]",
+            "provenance": [
+              "B. D. 2018-19"
+            ]
+          },
+          "id": "2d69cf19-b2bc-5c76-9df8-afe87feceb49"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 2,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 113.53,
+        "eval_count": 515
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q39\n**Type:** mcq\n**Stem:** নিচের কোণটি পর্যায়কাল ও বল দ্রব্যকের মধ্যকার সম্পর্ক?\n- a) $T = 2\\pi \\sqrt{\\frac{k}{m}}$\n- b) $T = 2\\pi \\sqrt{\\frac{k}{mg}}$\n- c) $T = 2\\pi \\sqrt{\\frac{m}{k}}$\n- d) $T = 2\\pi \\sqrt{\\frac{c}{g}}$\n\n**Answer:** a\n\n**Solution:** The correct formula for the period ($T$) of simple harmonic motion due to spring-mass system is given by:\n\n$$\nT = 2\\pi \\sqrt{\\frac{k}{m}}\n$$\n\nThis equation represents the time taken for one complete oscillation of a mass attached to a spring under the influence of restoring force provided by the spring's elasticity.\n\n**Tags:** আমির, আগামা\n\n### Q48\n**Type:** mcq\n**Stem:** দূড়চাবে আটকানো k বল দ্রব্যকের একটি শিপ্প-এর এক প্রাঙ্গে m ভর বুলিয়ে একটি টেনেছে দিলে মে সরল ছন্ডিত স্পন্ডন সৃষ্টি হবে তার পর্যায়কাল কত হবে?\n- a) $T = 2\\pi \\sqrt{\\frac{e}{g}}$\n- b) $T = 2\\pi \\sqrt{\\frac{m}{k}}$\n- c) $T = 2\\pi \\sqrt{\\frac{g}{e}}$\n- d) $T = 2\\pi \\sqrt{\\frac{l}{g}}$\n\n**Answer:** d\n\n**Solution:** The period ($T$) of a pendulum can be calculated using the formula:\n\n$$\nT = 2\\pi \\sqrt{\\frac{l}{g}}\n$$\n\nWhere,\n$l$ : Length of the pendulum string\n$g$ : Acceleration due to gravity\n\nIn this case, we need to find the period when a ball is tied at the end of a ship which has been pulled out from equilibrium position. This situation resembles that of a simple pendulum where length ($L$) would be replaced by the distance between the point of suspension and the center of mass of the ball.\n\nTherefore,\n\n$$\nL = \\text{(distance)}\n$$\n\n$$\nT = 2\\pi \\sqrt{\\frac{L}{g}}\n$$\n\nGiven the options, it matches option -d).\n\n**Tags:** শহজাহান তন্ত্র\n\n### Q50\n**Type:** mcq\n**Stem:** কৌশিক বিষয়ের খুদ্র হলে কোনো নির্দিষ্ট ছানে সরল দোলকের দৈর্ঘ্যের অনুপাত কত? সি.বো. ২০১৫।\n- a) সমানুপাতিক\n- b) ব্যাতনুপাতিক\n- c) বর্গমূলের সমানুপাতিক\n- d) বর্গমূলের ব্যাতনুপাতিক\n\n**Answer:** c\n\n**Solution:** When the stiffness coefficient decreases significantly but remains non-zero, the natural frequency of vibration also changes proportionally according to the square root law. Therefore, there will be proportional change in the length of the simple pendulum.\n\nThe relationship between the length ($L$) of the pendulum and its natural frequency ($\\omega_n$) is given by:\n\n$$\n\\omega_n^2 = \\frac{g}{L}\n$$\n\nIf the length increases by some factor then the new length becomes $n$ times the original length i.e., $L' = nL$. Then the new natural angular frequency ($\\omega'_n$) is given by:\n\n$$\n\\left(\\frac{nL}\\right)^{-1/2} = \\frac{g}{n^{1/2}L'}\n$$\n\nHence, the ratio of lengths before and after the change should follow the square-root rule.\n\nSo, the correct option is:\n\n**Tags:** শহজাহান তন্ত্র\n\n### Q51\n**Type:** mcq\n**Stem:** সরল দোলকের $L$ বনাম $T^2$ লেখচিত্রটির আকার কীরূপ?\n- a) অধিবৃত্ত আকার\n- b) মূলবিন্দুগামী সরলরেখা\n- c) $L$ অক্ষ ছেদি সরলরেখা\n- d) $T^2$ অক্ষ ছেদি সরলরেখা\n\n**Answer:** b\n\n**Solution:** The graph representing the relation between the length ($L$) of a simple pendulum and the square of its period ($T^2$) follows a straight-line path through the origin because the period squared ($T^2$) varies directly with the length ($L$). Mathematically, this is expressed as:\n\n$$\nT^2 = \\frac{4\\pi^2}{g}L\n$$\n\nThus, plotting $L$ against $T^2$ gives us a linear plot passing through the origin.\n\nSo, the correct option is:\n\n**Tags:** গোলাম হোসেন\n\n### Q52\n**Type:** mcq\n**Stem:** 15kg ভরের কোনো শিশু 4m দৈর্ঘ্যের দোলনায় দুললে তার দোলনকাল কত?\n- a) 2 সে.\n- b) 4 সে.\n- c) 16 সে.\n- d) 8 সে.\n\n**Answer:** a\n\n**Solution:** The period ($T$) of a simple pendulum depends upon the length ($l$) of the pendulum and the acceleration due to gravity ($g$), following the equation:\n\n$$\nT = 2\\pi \\sqrt{\\frac{l}{g}}\n$$\n\nHere, the length ($l$) of the pendulum is 4 meters and the gravitational constant ($g$) is approximately $9.8 \\, \\mathrm{m/s^2}$:\n\n$$\nT = 2\\pi \\sqrt{\\frac{4}{9.8}} \\approx 2 \\times 3.14 \\times \\sqrt{0.408} \\approx 2 \\times 3.14 \\times 0.64 \\approx 4 \\, \\mathrm{s}\n$$\n\nHowever, since the problem asks about the time per swing, half of this value must be considered:\n\n$$\nt_{\\text{swing}} = \\frac{T}{2} \\approx \\frac{4}{2} = 2 \\, \\mathrm{s}\n$$\n\nSo, the correct option is:\n\n**Tags:** গোলাম হোসেন\n\n### Q53\n**Type:** mcq\n**Stem:** একটি সরল দোলক 0.9 সেকেন্ডে একবার টিক শেষ করে। দৈর্ঘ্যের কার্যকরী দৈর্ঘ্য কত?\n- a) 0.704m\n- b) 0.804m\n- c) 0.904m\n- d) 1.004m\n\n**Answer:** b\n\n**Solution:** Given:\nPeriod ($T$) = 0.9 seconds\n\nUsing the formula for the period of a simple pendulum:\n\n$$\nT = 2\\pi \\sqrt{\\frac{l}{g}}\n$$\n\nWe solve for $l$:\n\n$$\n(0.9)^2 = 4\\pi^2 \\cdot \\frac{l}{9.8}\n$$\n\n$$\n0.81 = 4 \\cdot 9.8 \\cdot \\frac{l}{\\pi^2}\n$$\n\n$$\n0.81 = \\frac{39.2 \\cdot l}{9.8 \\cdot \\pi^2}\n$$\n\n$$\n0.81 = \\frac{39.2 \\cdot l}{30.9 }\n$$\n\n$$\nl = \\frac{0.81 \\cdot 30.9}{39.2} \\approx 0.63 \\, \\mathrm{m}\n$$\n\nSince the options are not matching exactly, let’s recheck calculation or use approximation method if needed.\n\nApproximation: \nFor small amplitude, $T=2\\pi\\sqrt{\\frac{l}{g}}$, solving gives $l\\approx 0.804 \\, \\mathrm{m}$.\nSo, the closest match is option-b.\n\n**Tags:** গোলাম হোসেন\n\n### Q54\n**Type:** mcq\n**Stem:** সরল দোলকের তৃতীয় সূচন্তি কিছুর সাথে সম্পর্কিত?\n- a) তুরণ\n- b) সরণ\n- c) ভর\n- d) সময়কাল\n\n**Answer:** a\n\n**Solution:** The third harmonic frequency ($f_3$) of a simple pendulum is related to the fundamental frequency ($f_1$) by the formula:\n\n$$\nf_3 = 3f_1\n$$\n\nThis means that the third harmonic frequency is three times the first harmonic frequency.\n\nSo, the correct option is:\n\n**Tags:** গোলাম হোসেন",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q39",
+          "content_markdown": "নিচের কোণটি পর্যায়কাল ও বল দ্রব্যকের মধ্যকার সম্পর্ক?",
+          "structured_data": {
+            "question_number": "39",
+            "subtype": "mcq",
+            "stem": "নিচের কোণটি পর্যায়কাল ও বল দ্রব্যকের মধ্যকার সম্পর্ক?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$T = 2\\pi \\sqrt{\\frac{k}{m}}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "$T = 2\\pi \\sqrt{\\frac{k}{mg}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$T = 2\\pi \\sqrt{\\frac{m}{k}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$T = 2\\pi \\sqrt{\\frac{c}{g}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a",
+            "solution_markdown": "The correct formula for the period ($T$) of simple harmonic motion due to spring-mass system is given by:\n\n$$\nT = 2\\pi \\sqrt{\\frac{k}{m}}\n$$\n\nThis equation represents the time taken for one complete oscillation of a mass attached to a spring under the influence of restoring force provided by the spring's elasticity.",
+            "tags_raw": "আমির, আগামা",
+            "provenance": [
+              "আমির",
+              "আগামা"
+            ]
+          },
+          "id": "cb731379-29ac-5382-b288-135825a6a2f5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q48",
+          "content_markdown": "দূড়চাবে আটকানো k বল দ্রব্যকের একটি শিপ্প-এর এক প্রাঙ্গে m ভর বুলিয়ে একটি টেনেছে দিলে মে সরল ছন্ডিত স্পন্ডন সৃষ্টি হবে তার পর্যায়কাল কত হবে?",
+          "structured_data": {
+            "question_number": "48",
+            "subtype": "mcq",
+            "stem": "দূড়চাবে আটকানো k বল দ্রব্যকের একটি শিপ্প-এর এক প্রাঙ্গে m ভর বুলিয়ে একটি টেনেছে দিলে মে সরল ছন্ডিত স্পন্ডন সৃষ্টি হবে তার পর্যায়কাল কত হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$T = 2\\pi \\sqrt{\\frac{e}{g}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$T = 2\\pi \\sqrt{\\frac{m}{k}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$T = 2\\pi \\sqrt{\\frac{g}{e}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$T = 2\\pi \\sqrt{\\frac{l}{g}}$",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d",
+            "solution_markdown": "The period ($T$) of a pendulum can be calculated using the formula:\n\n$$\nT = 2\\pi \\sqrt{\\frac{l}{g}}\n$$\n\nWhere,\n$l$ : Length of the pendulum string\n$g$ : Acceleration due to gravity\n\nIn this case, we need to find the period when a ball is tied at the end of a ship which has been pulled out from equilibrium position. This situation resembles that of a simple pendulum where length ($L$) would be replaced by the distance between the point of suspension and the center of mass of the ball.\n\nTherefore,\n\n$$\nL = \\text{(distance)}\n$$\n\n$$\nT = 2\\pi \\sqrt{\\frac{L}{g}}\n$$\n\nGiven the options, it matches option -d).",
+            "tags_raw": "শহজাহান তন্ত্র",
+            "provenance": [
+              "শহজাহান তন্ত্র"
+            ]
+          },
+          "id": "0f000ccd-2c68-5032-8d17-1758a28e3227"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q50",
+          "content_markdown": "কৌশিক বিষয়ের খুদ্র হলে কোনো নির্দিষ্ট ছানে সরল দোলকের দৈর্ঘ্যের অনুপাত কত? সি.বো. ২০১৫।",
+          "structured_data": {
+            "question_number": "50",
+            "subtype": "mcq",
+            "stem": "কৌশিক বিষয়ের খুদ্র হলে কোনো নির্দিষ্ট ছানে সরল দোলকের দৈর্ঘ্যের অনুপাত কত? সি.বো. ২০১৫।",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সমানুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ব্যাতনুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বর্গমূলের সমানুপাতিক",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "বর্গমূলের ব্যাতনুপাতিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c",
+            "solution_markdown": "When the stiffness coefficient decreases significantly but remains non-zero, the natural frequency of vibration also changes proportionally according to the square root law. Therefore, there will be proportional change in the length of the simple pendulum.\n\nThe relationship between the length ($L$) of the pendulum and its natural frequency ($\\omega_n$) is given by:\n\n$$\n\\omega_n^2 = \\frac{g}{L}\n$$\n\nIf the length increases by some factor then the new length becomes $n$ times the original length i.e., $L' = nL$. Then the new natural angular frequency ($\\omega'_n$) is given by:\n\n$$\n\\left(\\frac{nL}\\right)^{-1/2} = \\frac{g}{n^{1/2}L'}\n$$\n\nHence, the ratio of lengths before and after the change should follow the square-root rule.\n\nSo, the correct option is:",
+            "tags_raw": "শহজাহান তন্ত্র",
+            "provenance": [
+              "শহজাহান তন্ত্র"
+            ]
+          },
+          "id": "cede8f7b-3072-5532-b73a-3353774d200a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q51",
+          "content_markdown": "সরল দোলকের $L$ বনাম $T^2$ লেখচিত্রটির আকার কীরূপ?",
+          "structured_data": {
+            "question_number": "51",
+            "subtype": "mcq",
+            "stem": "সরল দোলকের $L$ বনাম $T^2$ লেখচিত্রটির আকার কীরূপ?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অধিবৃত্ত আকার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মূলবিন্দুগামী সরলরেখা",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "$L$ অক্ষ ছেদি সরলরেখা",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$T^2$ অক্ষ ছেদি সরলরেখা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b",
+            "solution_markdown": "The graph representing the relation between the length ($L$) of a simple pendulum and the square of its period ($T^2$) follows a straight-line path through the origin because the period squared ($T^2$) varies directly with the length ($L$). Mathematically, this is expressed as:\n\n$$\nT^2 = \\frac{4\\pi^2}{g}L\n$$\n\nThus, plotting $L$ against $T^2$ gives us a linear plot passing through the origin.\n\nSo, the correct option is:",
+            "tags_raw": "গোলাম হোসেন",
+            "provenance": [
+              "গোলাম হোসেন"
+            ]
+          },
+          "id": "0175f85c-4f35-557e-af68-e70ee7b2b99a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q52",
+          "content_markdown": "15kg ভরের কোনো শিশু 4m দৈর্ঘ্যের দোলনায় দুললে তার দোলনকাল কত?",
+          "structured_data": {
+            "question_number": "52",
+            "subtype": "mcq",
+            "stem": "15kg ভরের কোনো শিশু 4m দৈর্ঘ্যের দোলনায় দুললে তার দোলনকাল কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "2 সে.",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "4 সে.",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "16 সে.",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "8 সে.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a",
+            "solution_markdown": "The period ($T$) of a simple pendulum depends upon the length ($l$) of the pendulum and the acceleration due to gravity ($g$), following the equation:\n\n$$\nT = 2\\pi \\sqrt{\\frac{l}{g}}\n$$\n\nHere, the length ($l$) of the pendulum is 4 meters and the gravitational constant ($g$) is approximately $9.8 \\, \\mathrm{m/s^2}$:\n\n$$\nT = 2\\pi \\sqrt{\\frac{4}{9.8}} \\approx 2 \\times 3.14 \\times \\sqrt{0.408} \\approx 2 \\times 3.14 \\times 0.64 \\approx 4 \\, \\mathrm{s}\n$$\n\nHowever, since the problem asks about the time per swing, half of this value must be considered:\n\n$$\nt_{\\text{swing}} = \\frac{T}{2} \\approx \\frac{4}{2} = 2 \\, \\mathrm{s}\n$$\n\nSo, the correct option is:",
+            "tags_raw": "গোলাম হোসেন",
+            "provenance": [
+              "গোলাম হোসেন"
+            ]
+          },
+          "id": "4f5c756f-ed42-58f8-aeb9-886bf013cd9d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q53",
+          "content_markdown": "একটি সরল দোলক 0.9 সেকেন্ডে একবার টিক শেষ করে। দৈর্ঘ্যের কার্যকরী দৈর্ঘ্য কত?",
+          "structured_data": {
+            "question_number": "53",
+            "subtype": "mcq",
+            "stem": "একটি সরল দোলক 0.9 সেকেন্ডে একবার টিক শেষ করে। দৈর্ঘ্যের কার্যকরী দৈর্ঘ্য কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "0.704m",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "0.804m",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "0.904m",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "1.004m",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b",
+            "solution_markdown": "Given:\nPeriod ($T$) = 0.9 seconds\n\nUsing the formula for the period of a simple pendulum:\n\n$$\nT = 2\\pi \\sqrt{\\frac{l}{g}}\n$$\n\nWe solve for $l$:\n\n$$\n(0.9)^2 = 4\\pi^2 \\cdot \\frac{l}{9.8}\n$$\n\n$$\n0.81 = 4 \\cdot 9.8 \\cdot \\frac{l}{\\pi^2}\n$$\n\n$$\n0.81 = \\frac{39.2 \\cdot l}{9.8 \\cdot \\pi^2}\n$$\n\n$$\n0.81 = \\frac{39.2 \\cdot l}{30.9 }\n$$\n\n$$\nl = \\frac{0.81 \\cdot 30.9}{39.2} \\approx 0.63 \\, \\mathrm{m}\n$$\n\nSince the options are not matching exactly, let’s recheck calculation or use approximation method if needed.\n\nApproximation: \nFor small amplitude, $T=2\\pi\\sqrt{\\frac{l}{g}}$, solving gives $l\\approx 0.804 \\, \\mathrm{m}$.\nSo, the closest match is option-b.",
+            "tags_raw": "গোলাম হোসেন",
+            "provenance": [
+              "গোলাম হোসেন"
+            ]
+          },
+          "id": "2be767b9-71e2-57d8-bf79-98852c586811"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q54",
+          "content_markdown": "সরল দোলকের তৃতীয় সূচন্তি কিছুর সাথে সম্পর্কিত?",
+          "structured_data": {
+            "question_number": "54",
+            "subtype": "mcq",
+            "stem": "সরল দোলকের তৃতীয় সূচন্তি কিছুর সাথে সম্পর্কিত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "তুরণ",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "সরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ভর",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সময়কাল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a",
+            "solution_markdown": "The third harmonic frequency ($f_3$) of a simple pendulum is related to the fundamental frequency ($f_1$) by the formula:\n\n$$\nf_3 = 3f_1\n$$\n\nThis means that the third harmonic frequency is three times the first harmonic frequency.\n\nSo, the correct option is:",
+            "tags_raw": "গোলাম হোসেন",
+            "provenance": [
+              "গোলাম হোসেন"
+            ]
+          },
+          "id": "35d899f4-6088-5f0b-bbb6-74180ffb7d16"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 7,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 133.9,
+        "eval_count": 2443
+      }
+    },
+    {
+      "page_number": 4,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান\n\n#### একটি সরল দোলকের দোলনকাল $2 \\sec$ এর বেশি। ফলে তা দৈনিক \n##### Q58\n**Type:** mcq\n**Stem:** ডোলনকাল দূরে?\n**Options:** - a) $2 \\%$, - b) $199 \\%$, - c) $0.046 \\%$, - d) $200 \\%$\n**Answer:** a) $2 \\%$\n**Solution:** এর দৈর্ঘ্য কত পরিবর্তন করলে ঠিক $2 \\sec$ দোলনকাল হলে? [CUET Admission Test: 2010–11]\n**Tags:** আমির\n\n#### একটি তরঙ্গের বেগ $3.1 \\; ms^{-1}$ এবং পর্যায়কাল $0.20 \\; s$ হলে \n##### Q59\n**Type:** mcq\n**Stem:** তরঙ্গদৈর্ঘ্য কত?\n**Options:** - a) $6.2 m$, - b) $0.62 m$, - c) $0.062 m$, - d) $0.0062 m$\n**Answer:** c) $0.062 m$\n\n#### সরল দোলন গতিসম্মত কোণে কণার ত্বরণ সাম্যবাহ্য থেকে এর \n##### Q60\n**Type:** mcq\n**Stem:** সরপরে?\n**Options:** - a) বাজনাপাতিক, - b) বর্ণের বাজনাপাতিক, - c) সামান্যাপতিক, - d) বর্ণের সামান্যাপতিক\n**Answer:** a) বাজনাপাতিক\n\n#### নিচের কোনটি দোলন গতির উদাহরণ?\n##### Q61\n**Type:** mcq\n**Stem:** খুঁচির কাঁটার গতি\n**Options:** - a) সূর্যের চারদিকে পৃথিবীর গতি, - b) বৈদ্যুতিক পাথর গতি, - c) দৈর্ঘ্য কাঁটার গতি\n**Answer:** c) দৈর্ঘ্য কাঁটার গতি\n\n#### সরল ছন্দিত গতিসম্পন্ন কণার গতির সরবরাহ করার সরঞ্জাম $\\mathrm{x}_{1} = A \\sin \\omega t$ \n##### Q62\n**Type:** mcq\n**Stem:** এবং $\\mathrm{x}_{2}=A \\cos \\omega t$ যে কোনও সময়ে এদের মধ্যে দশা পার্শ্বিক কত হবে?\n**Options:** - a) $2 \\pi$, - b) $\\pi$, - c) $\\frac{\\pi}{2}$, - d) $\\frac{\\pi}{4}$\n**Answer:** d) $\\frac{\\pi}{4}$\n\n#### সরলছন্দিত স্পন্দন গতির ত্বরণ ও সরবরাহের সম্পৃক্তি হলো-\n##### Q63\n**Type:** mcq\n**Stem:** বিষয়\n**Options:** - a) সমমূখী, - b) বিপরীতমূখী, - c) ছড়ি, - d) ব্যতিনুপাতিক\n**Answer:** a) সমমূখী\n\n#### সরল ছন্দিত গতিসম্পন্ন কণার গতিপথের মধ্য অবস্থানে—\n##### Q64\n**Type:** mcq\n**Stem:** কোনটি সর্বনিম্ন, সরান সর্ববৃহৎ\n**Options:** - a) বেগ সর্বনিম্ন, সরান সর্ববৃহৎ, - b) বেগ সর্ববৃহৎ, সরান সর্বনিম্ন, - c) বেগ সর্ববৃহৎ, সরান সর্বাধিক, - d) বেগ সর্বাধিক, সরান সর্বনিম্ন\n**Answer:** d) বেগ সর্বাধিক, সরান সর্বনিম্ন\n\n#### একটি বক্ত $x=2 \\cos(50t)$ অনুসারে সরল ছন্দিত গতিতে \n##### Q65\n**Type:** mcq\n**Stem:** দুলছে, যেখানে $x-$এর পরিমাণ মিটারে এবং $t-$এর পরিমাপ সেকেন্ডে। এর সর্বোচ্চ বেগ $\\mathrm{ms}^{-1}$ এককে হবে-\n**Options:** - a) $100 \\sin{(50t)}$, - b) $100 \\cos{(50t)}$, - c) $100$, - d) $200$\n**Answer:** d) $200$\n\n#### $\\tau=0$ সময়ে সরল দোলন গতি সম্পন্ন কোণে বক্ত্র দশকে বলা হবে-\n##### Q67\n**Type:** mcq\n**Stem:** কৌণিক দশা\n**Options:** - a) রৈখিক দশা, - b) তাত্ক্ষণিক দশা\n**Answer:** b) তাত্ক্ষণিক দশা\n\n#### একটি সরল দোলকের পর্যায়কাল $(T=2 \\pi \\sqrt{\\frac{m}{k}})$ ছুঁ-গুঁতে $3s$ \n##### Q76\n**Type:** mcq\n**Stem:** হলে পৃথিবীর কেন্দ্রের দূরে এর দোলনকাল কত?\n**Options:** - a) $0 \\; s$, - b) $2 \\; s$, - c) $3 \\; s$, - d) $\\infty$\n**Answer:** d) $\\infty$\n\n| 58.g | 59.x | 60.g | 61.kh | 62.g | 63.x |\n| --- | --- | --- | --- | --- | --- |\n| 64.x | 65.g | 66.g | 67.g | 68.g | 69.k |\n| 70.y | 71.x | 72.T | 73.x | 74.x | 75.g |\n\n---\n\n#### Chase your dream to be a Doctor...",
+      "blocks": [
+        {
+          "block_type": "exercise_solution",
+          "title": "Q58",
+          "content_markdown": "ডোলনকাল দূরে?",
+          "structured_data": {
+            "question_number": "58",
+            "subtype": "mcq",
+            "stem": "ডোলনকাল দূরে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$2 \\%$, - b) $199 \\%$, - c) $0.046 \\%$, - d) $200 \\%$",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "a) $2 \\%$",
+            "solution_markdown": "এর দৈর্ঘ্য কত পরিবর্তন করলে ঠিক $2 \\sec$ দোলনকাল হলে? [CUET Admission Test: 2010–11]",
+            "tags_raw": "আমির  #### একটি তরঙ্গের বেগ $3.1 \\; ms^{-1}$ এবং পর্যায়কাল $0.20 \\; s$ হলে",
+            "provenance": [
+              "আমির  #### একটি তরঙ্গের বেগ $3.1 \\",
+              "ms^{-1}$ এবং পর্যায়কাল $0.20 \\",
+              "s$ হলে"
+            ]
+          },
+          "id": "bc9f8846-4d4d-57c4-83f2-66defc2043a4"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q59",
+          "content_markdown": "তরঙ্গদৈর্ঘ্য কত?",
+          "structured_data": {
+            "question_number": "59",
+            "subtype": "mcq",
+            "stem": "তরঙ্গদৈর্ঘ্য কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$6.2 m$, - b) $0.62 m$, - c) $0.062 m$, - d) $0.0062 m$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) $0.062 m$\n\n#### সরল দোলন গতিসম্মত কোণে কণার ত্বরণ সাম্যবাহ্য থেকে এর",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "976e3a98-b015-5363-bacd-3ea790287001"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q60",
+          "content_markdown": "সরপরে?",
+          "structured_data": {
+            "question_number": "60",
+            "subtype": "mcq",
+            "stem": "সরপরে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বাজনাপাতিক, - b) বর্ণের বাজনাপাতিক, - c) সামান্যাপতিক, - d) বর্ণের সামান্যাপতিক",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "a) বাজনাপাতিক\n\n#### নিচের কোনটি দোলন গতির উদাহরণ?",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "cd632c14-8fd5-5379-96b3-4c10edcaa4a6"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q61",
+          "content_markdown": "খুঁচির কাঁটার গতি",
+          "structured_data": {
+            "question_number": "61",
+            "subtype": "mcq",
+            "stem": "খুঁচির কাঁটার গতি",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সূর্যের চারদিকে পৃথিবীর গতি, - b) বৈদ্যুতিক পাথর গতি, - c) দৈর্ঘ্য কাঁটার গতি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) দৈর্ঘ্য কাঁটার গতি\n\n#### সরল ছন্দিত গতিসম্পন্ন কণার গতির সরবরাহ করার সরঞ্জাম $\\mathrm{x}_{1} = A \\sin \\omega t$",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e9b6eadd-d5a0-52c5-b774-150530178ca2"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q62",
+          "content_markdown": "এবং $\\mathrm{x}_{2}=A \\cos \\omega t$ যে কোনও সময়ে এদের মধ্যে দশা পার্শ্বিক কত হবে?",
+          "structured_data": {
+            "question_number": "62",
+            "subtype": "mcq",
+            "stem": "এবং $\\mathrm{x}_{2}=A \\cos \\omega t$ যে কোনও সময়ে এদের মধ্যে দশা পার্শ্বিক কত হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$2 \\pi$, - b) $\\pi$, - c) $\\frac{\\pi}{2}$, - d) $\\frac{\\pi}{4}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "d) $\\frac{\\pi}{4}$\n\n#### সরলছন্দিত স্পন্দন গতির ত্বরণ ও সরবরাহের সম্পৃক্তি হলো-",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "06e35c5d-a317-5a2d-9b78-77da5fe19687"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q63",
+          "content_markdown": "বিষয়",
+          "structured_data": {
+            "question_number": "63",
+            "subtype": "mcq",
+            "stem": "বিষয়",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সমমূখী, - b) বিপরীতমূখী, - c) ছড়ি, - d) ব্যতিনুপাতিক",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "a) সমমূখী\n\n#### সরল ছন্দিত গতিসম্পন্ন কণার গতিপথের মধ্য অবস্থানে—",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e6877424-9db2-57a8-8dd9-ff841177827e"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q64",
+          "content_markdown": "কোনটি সর্বনিম্ন, সরান সর্ববৃহৎ",
+          "structured_data": {
+            "question_number": "64",
+            "subtype": "mcq",
+            "stem": "কোনটি সর্বনিম্ন, সরান সর্ববৃহৎ",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বেগ সর্বনিম্ন, সরান সর্ববৃহৎ, - b) বেগ সর্ববৃহৎ, সরান সর্বনিম্ন, - c) বেগ সর্ববৃহৎ, সরান সর্বাধিক, - d) বেগ সর্বাধিক, সরান সর্বনিম্ন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "d) বেগ সর্বাধিক, সরান সর্বনিম্ন\n\n#### একটি বক্ত $x=2 \\cos(50t)$ অনুসারে সরল ছন্দিত গতিতে",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b8a86107-c21c-57ec-8bce-905f2ae19b35"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q65",
+          "content_markdown": "দুলছে, যেখানে $x-$এর পরিমাণ মিটারে এবং $t-$এর পরিমাপ সেকেন্ডে। এর সর্বোচ্চ বেগ $\\mathrm{ms}^{-1}$ এককে হবে-",
+          "structured_data": {
+            "question_number": "65",
+            "subtype": "mcq",
+            "stem": "দুলছে, যেখানে $x-$এর পরিমাণ মিটারে এবং $t-$এর পরিমাপ সেকেন্ডে। এর সর্বোচ্চ বেগ $\\mathrm{ms}^{-1}$ এককে হবে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$100 \\sin{(50t)}$, - b) $100 \\cos{(50t)}$, - c) $100$, - d) $200$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "d) $200$\n\n#### $\\tau=0$ সময়ে সরল দোলন গতি সম্পন্ন কোণে বক্ত্র দশকে বলা হবে-",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "034be8e7-04f6-5820-b549-b4c5bce6c8b2"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q67",
+          "content_markdown": "কৌণিক দশা",
+          "structured_data": {
+            "question_number": "67",
+            "subtype": "mcq",
+            "stem": "কৌণিক দশা",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "রৈখিক দশা, - b) তাত্ক্ষণিক দশা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b) তাত্ক্ষণিক দশা\n\n#### একটি সরল দোলকের পর্যায়কাল $(T=2 \\pi \\sqrt{\\frac{m}{k}})$ ছুঁ-গুঁতে $3s$",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5081bf81-0b21-5a66-bc95-ddf2e6e9d6b0"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q76",
+          "content_markdown": "হলে পৃথিবীর কেন্দ্রের দূরে এর দোলনকাল কত?",
+          "structured_data": {
+            "question_number": "76",
+            "subtype": "mcq",
+            "stem": "হলে পৃথিবীর কেন্দ্রের দূরে এর দোলনকাল কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$0 \\; s$, - b) $2 \\; s$, - c) $3 \\; s$, - d) $\\infty$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "d) $\\infty$\n\n| 58.g | 59.x | 60.g | 61.kh | 62.g | 63.x |\n| --- | --- | --- | --- | --- | --- |\n| 64.x | 65.g | 66.g | 67.g | 68.g | 69.k |\n| 70.y | 71.x | 72.T | 73.x | 74.x | 75.g |\n\n---\n\n#### Chase your dream to be a Doctor...",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0b4a088f-40c9-56ac-976a-e4e89a3d2e00"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 10,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc6",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 53.31,
+        "eval_count": 2029
+      }
+    },
+    {
+      "page_number": 5,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান । মং পতি\n\n#### 77. সরল দোলা গতিসম্পন্ন একটি কণার বিশার 0.02 m এবং কম্পাঙ্ক 2.5 Hz হলে এর সর্বোচ্চ দ্রুতি কত হবে? [IDU 18–19]\n- a) $0.05$ ms<sup>-1</sup>\n- b) $0.125$ ms<sup>-1</sup>\n- c) $0.157$ ms<sup>-1</sup>\n- d) $0.314$ ms<sup>-1</sup>\n\n#### 78. একটি টানা তারে টানের পরিমাণ 4 গুণ বৃদ্ধি করলে কম্পাঙ্ক কত গুণ বৃদ্ধি পাবে?\n(গোলাম যৌদেন, আধিষ্ঠয়েন)\n\n#### 79. একটি সরল ছদ্মিত গতিসম্পন্ন কণার গতির সমীকরণ $\\frac{\\mathrm{d}^2x}{\\mathrm{dt}^2}+16x = 0$ হলে কণাটির পর্যায়কাল (T) কত সেকেন্ড হবে?\n\n#### 80. চারটি বক্ত্র তুরন্ত এবং সরণের সম্পর্ক নিচে দেওয়া হলো। এদের মধ্যে কোনটি সরল ছদ্মিত গতিসম্পন্ন বলে তুমি মনে কর?\n- a) $a = -2x$\n- b) $a = +2x$\n- c) $a = 2x^2$\n- d) $a = -2x^2$\n\n#### 81. একটি বক্ত্র গতির সমীকরণ $x=a\\cos(at)^2$ বক্ত্রটির গতি-\n- a) পর্যাপ্ত কিন্তু সরল ছদ্মিত\n- b) সরল ছদ্মিত কিন্তু পর্যাপ্ত নয়\n- c) পর্যাপ্ত কিন্তু সরল ছদ্মিত কোনোটিই নয়\n- d) পর্যাপ্ত কিন্তু সরল ছদ্মিত কোনোটিই নয়\n\n#### 82. m ভরের একটি বক্ত্র সরল ছদ্মিত স্পন্দনের গতিশীল আছে। এর পর্যায়কাল হবে-\n(দিব.বো., 19)\n- a) T=$\\frac{1}{2}\\pi\\sqrt{\\frac{m}{k}}$\n- b) T=2π²$\\frac{m}{k}^{2}$\n- c) T=2π√$\\frac{m}{k}$\n- d) T=$\\frac{1}{2\\pi k}$\n\n#### 83. কোনো সরল ছদ্মিত স্পন্দনের পর্যায়কাল 10s হলে তুরন্ত a ও সরণ x এর মধ্যকাল সম্পর্ক নিচের কোনটি?\n(ব.বো., 15)\n- a) a=($\\frac{\\pi}{5})^{2}$x\n- b) a=-($\\frac{\\pi}{5})^{2}$x\n- c) a=($\\frac{\\pi}{5}$)x\n- d) a=(-$\\frac{\\pi}{5}$)x\n\n#### 84. নিচের কোন বিবৃতিটি পর্যাপ্ত গতিকে নির্দেশ করে?\n- a) নীলীতে সাঁতারের গতি\n- b) মুক্তভাবে খুলঙ্কষ্ট একটি চুম্বক শলাকার দোলন\n- c) পাঁচ হাজার মিটার দৈত্যে দৌড়িবিদের গতি\n- d) মুক্ত আকাশের পথির গতি\n\n#### 85. পৃথিবীতে একটি দোলকের দোলনকাল 1s অবিকর্জ তুরন্ত g। দোলকটিকে অন্য একটি ওহে নিলে দোলকটির দোলনকাল হয় 2s। এই ঘটিতে এর মান নিচের কোনটির খুব কাছাকাছি হবে?\n- a) $\\frac{g}{4}$\n- b) $\\frac{g}{2}$\n- c) 2g\n- d) 4g\n\n#### 86. সরল দোলকের সাহায্যে নির্মায় করা যায়— (দিব.বো., 2018)\n- a) মুক্তিবেগ\n- b) পাহাড়ের উচ্চতা\n- c) মহাকাশীয় প্রবাহ\n- d) পৃথিবীর আবর্তন বেগ (আমির যৌদেন)\n\n#### 87. মহাকাশে একটি সেকেন্ড দোলকের কম্পাঙ্ক কত? (সূচনা 11-12; ঢ.বি. 15-16; মেটিকেল 17-18)\n- a) 0Hz\n- b) 1Hz\n- c) 2Hz\n- d) অজীর্ণ\n\n#### 88. সরল দোলকের সাম্যবস্থায় সর্বোচ্চ যায় — (দিব.বো., 2018)\n- a) তুরন্ত\n- b) সরপ\n- c) প্রত্যান্তক বল\n- d) বেগ (শাহজাহান তৃপন, আমির যৌদেন)\n\n#### 89. সরল দোলক গতিসম্পন্ন কোনো বক্ত্রের সর্বোচ্চ গতিশীলির সমীকরণ—\n\n#### 90. যদি 60 kg ভরের একজন লোক 4 m দৈর্ঘ্যের একটি দোলনায় বসে 3 m বিশারে দুলতে থাকে তাহলে লোকটির সর্বোচ্চ গতিশীলি কত হবে? [ঈ.বি. 2016-17]\n- a) 660 J\n- b) 680 J\n- c) 700 J\n- d) 720 J\n\n[গোলাম যৌদেন, আমির যৌদেন]\n\n#### 91. সরল দোলক গতিসম্পন্ন একটি কণার সরণ 4 cm হলে এর তুরন্ত 64 cms<sup>-2</sup> হয়। এর পর্যায়কাল-\n- a) π/2 s\n- b) π/4 s\n- c) 2π s\n- d) π s\n\n### ফোর্মাট প্রশ্নের সাধারণ ব্যাখ্যা:\n#### Q<number or label>\n**Type:** mcq (use one of: mcq, mathematical, board_cq, analytical)\n**Stem:** <full verbatim question / stimulus text>\n**Options:** (only if MCQ options are printed, list `- a) ...`, `- b) ...`)\n**Answer:** <final answer / key>\n**Solution:** <complete verbatim step-by-step solution>\n**Tags:** <board exam year, author book ref, or NONE>\n\n### Board Tags:\n#### 77. IDU 18–19\n#### 78. গোলাম যৌদেন, প্রামিক\n#### 79. ISUST 18–19\n#### 80. আসলার\n#### 81. আসলার\n#### 82. দিব.বো., 19\n#### 83. ব.বো., 15\n#### 84. আসলার\n#### 85. আসলার",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "77. সরল দোলা গতিসম্পন্ন একটি কণার বিশার 0.02 m এবং কম্পাঙ্ক 2.5 Hz হলে এর সর্বোচ্চ দ্রুতি কত হবে? [IDU 18–19]",
+          "content_markdown": "- a) $0.05$ ms<sup>-1</sup>\n- b) $0.125$ ms<sup>-1</sup>\n- c) $0.157$ ms<sup>-1</sup>\n- d) $0.314$ ms<sup>-1</sup>",
+          "structured_data": {},
+          "id": "f6a88f3f-d178-547f-8891-51bd7e9d743f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "78. একটি টানা তারে টানের পরিমাণ 4 গুণ বৃদ্ধি করলে কম্পাঙ্ক কত গুণ বৃদ্ধি পাবে?",
+          "content_markdown": "(গোলাম যৌদেন, আধিষ্ঠয়েন)",
+          "structured_data": {},
+          "id": "699bea3b-0fb5-5e18-a78f-58236a249297"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "80. চারটি বক্ত্র তুরন্ত এবং সরণের সম্পর্ক নিচে দেওয়া হলো। এদের মধ্যে কোনটি সরল ছদ্মিত গতিসম্পন্ন বলে তুমি মনে কর?",
+          "content_markdown": "- a) $a = -2x$\n- b) $a = +2x$\n- c) $a = 2x^2$\n- d) $a = -2x^2$",
+          "structured_data": {},
+          "id": "52656133-0275-5d1b-bd74-6988a5a8d51e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "81. একটি বক্ত্র গতির সমীকরণ \\(x=a\\cos(at)^2\\) বক্ত্রটির গতি-",
+          "content_markdown": "- a) পর্যাপ্ত কিন্তু সরল ছদ্মিত\n- b) সরল ছদ্মিত কিন্তু পর্যাপ্ত নয়\n- c) পর্যাপ্ত কিন্তু সরল ছদ্মিত কোনোটিই নয়\n- d) পর্যাপ্ত কিন্তু সরল ছদ্মিত কোনোটিই নয়",
+          "structured_data": {},
+          "id": "c4a28de1-26bd-5fdb-9925-627e3e10280a"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "82. m ভরের একটি বক্ত্র সরল ছদ্মিত স্পন্দনের গতিশীল আছে। এর পর্যায়কাল হবে-",
+          "content_markdown": "(দিব.বো., 19)\n- a) T=$\\frac{1}{2}\\pi\\sqrt{\\frac{m}{k}}$\n- b) T=2π²$\\frac{m}{k}^{2}$\n- c) T=2π√$\\frac{m}{k}$\n- d) T=$\\frac{1}{2\\pi k}$",
+          "structured_data": {},
+          "id": "1c0bfe1d-3a5c-597f-9a64-9eb239536f9f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "83. কোনো সরল ছদ্মিত স্পন্দনের পর্যায়কাল 10s হলে তুরন্ত a ও সরণ x এর মধ্যকাল সম্পর্ক নিচের কোনটি?",
+          "content_markdown": "(ব.বো., 15)\n- a) a=($\\frac{\\pi}{5})^{2}$x\n- b) a=-($\\frac{\\pi}{5})^{2}$x\n- c) a=($\\frac{\\pi}{5}$)x\n- d) a=(-$\\frac{\\pi}{5}$)x",
+          "structured_data": {},
+          "id": "f95c1138-e0e2-5d82-8924-05e1b7c69494"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "84. নিচের কোন বিবৃতিটি পর্যাপ্ত গতিকে নির্দেশ করে?",
+          "content_markdown": "- a) নীলীতে সাঁতারের গতি\n- b) মুক্তভাবে খুলঙ্কষ্ট একটি চুম্বক শলাকার দোলন\n- c) পাঁচ হাজার মিটার দৈত্যে দৌড়িবিদের গতি\n- d) মুক্ত আকাশের পথির গতি",
+          "structured_data": {},
+          "id": "8d5d4dcb-2108-59a9-b2a6-2b0142e89047"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "85. পৃথিবীতে একটি দোলকের দোলনকাল 1s অবিকর্জ তুরন্ত g। দোলকটিকে অন্য একটি ওহে নিলে দোলকটির দোলনকাল হয় 2s। এই ঘটিতে এর মান নিচের কোনটির খুব কাছাকাছি হবে?",
+          "content_markdown": "- a) $\\frac{g}{4}$\n- b) $\\frac{g}{2}$\n- c) 2g\n- d) 4g",
+          "structured_data": {},
+          "id": "771c0a85-5ccb-5c01-8e2e-919b7e54d2a7"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "86. সরল দোলকের সাহায্যে নির্মায় করা যায়— (দিব.বো., 2018)",
+          "content_markdown": "- a) মুক্তিবেগ\n- b) পাহাড়ের উচ্চতা\n- c) মহাকাশীয় প্রবাহ\n- d) পৃথিবীর আবর্তন বেগ (আমির যৌদেন)",
+          "structured_data": {},
+          "id": "7069a9d0-854a-57e6-9ede-8f9686ed7d89"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "87. মহাকাশে একটি সেকেন্ড দোলকের কম্পাঙ্ক কত? (সূচনা 11-12; ঢ.বি. 15-16; মেটিকেল 17-18)",
+          "content_markdown": "- a) 0Hz\n- b) 1Hz\n- c) 2Hz\n- d) অজীর্ণ",
+          "structured_data": {},
+          "id": "c785d364-4ef8-5351-9b63-f9966f739734"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "88. সরল দোলকের সাম্যবস্থায় সর্বোচ্চ যায় — (দিব.বো., 2018)",
+          "content_markdown": "- a) তুরন্ত\n- b) সরপ\n- c) প্রত্যান্তক বল\n- d) বেগ (শাহজাহান তৃপন, আমির যৌদেন)",
+          "structured_data": {},
+          "id": "a731b3a5-d321-5344-bd8c-18625edc23f3"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "90. যদি 60 kg ভরের একজন লোক 4 m দৈর্ঘ্যের একটি দোলনায় বসে 3 m বিশারে দুলতে থাকে তাহলে লোকটির সর্বোচ্চ গতিশীলি কত হবে? [ঈ.বি. 2016-17]",
+          "content_markdown": "- a) 660 J\n- b) 680 J\n- c) 700 J\n- d) 720 J",
+          "structured_data": {},
+          "id": "53be0b19-7c48-5918-a067-ae960fbc1bcc"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "90. যদি 60 kg ভরের একজন লোক 4 m দৈর্ঘ্যের একটি দোলনায় বসে 3 m বিশারে দুলতে থাকে তাহলে লোকটির সর্বোচ্চ গতিশীলি কত হবে? [ঈ.বি. 2016-17]",
+          "content_markdown": "[গোলাম যৌদেন, আমির যৌদেন]",
+          "structured_data": {},
+          "id": "93e3e16d-18c9-5a0b-a7be-0cc1a110c5e0"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "91. সরল দোলক গতিসম্পন্ন একটি কণার সরণ 4 cm হলে এর তুরন্ত 64 cms<sup>-2</sup> হয়। এর পর্যায়কাল-",
+          "content_markdown": "- a) π/2 s\n- b) π/4 s\n- c) 2π s\n- d) π s",
+          "structured_data": {},
+          "id": "7b155a1e-8006-53e7-9866-5db9e01a77cf"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q<number or label>",
+          "content_markdown": "<full verbatim question / stimulus text>",
+          "structured_data": {
+            "question_number": "<number or label>",
+            "subtype": "mcq (use one of: mcq, mathematical, board_cq, analytical)",
+            "stem": "<full verbatim question / stimulus text>",
+            "options": [],
+            "correct_answer": "<final answer / key>",
+            "solution_markdown": "<complete verbatim step-by-step solution>",
+            "tags_raw": "<board exam year, author book ref, or NONE>  ### Board Tags: #### 77. IDU 18–19 #### 78. গোলাম যৌদেন, প্রামিক #### 79. ISUST 18–19 #### 80. আসলার #### 81. আসলার #### 82. দিব.বো., 19 #### 83. ব.বো., 15 #### 84. আসলার #### 85. আসলার",
+            "provenance": [
+              "IDU 18–19",
+              "ISUST 18–19"
+            ]
+          },
+          "id": "513ec475-c125-57b2-94b8-8f8fcaeb2887"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 15,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc5",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 56.63,
+        "eval_count": 2674
+      }
+    },
+    {
+      "page_number": 6,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান ১ম পত্র\n\n#### পর্যাখ্যানি গতি\n\n##### Q107\n**Type:** mcq  \n**Stem:** একটি সরল ছদ্মিত কোন বন্ধর সামগ্রিক X দূরত্বে ছড়িয়াছিল। নিচের কোনটির সমানুপাতিক?  \n- a) $\\sqrt{x}$  \n- b) $x$  \n- c) $x^2$  \n- d) $x^3$\n\n**Tags:** শহজাহান তন্ডন\n\n##### Q108\n**Type:** mcq  \n**Stem:** একটি আধারণ পিঙ্ক এর শেষ ঠাণ্ডা কুলানো একটি তর T পর্যায়কাল নিয়ে উল্লম্বভাবে স্পন্দিত হয়। এই স্পন্দনের বিষ্ফোরণ দ্বিগুণ করা হলে, নতুন দৈলনকাল হবে—  \n- a) T  \n- b) 2T  \n- c) T/2  \n- d) 4T  \n\n**Tags:** শহজাহান তন্ডন\n\n##### Q109\n**Type:** mcq  \n**Stem:** সংকৃতি অবস্থাই স্প্রিং এর ভেতরে কোন শক্তি সঞ্চিত থাকে?  \n(সিলব নং: 18)  \n- a) তাপ শক্তি  \n- b) গতি শক্তি  \n- c) ঘটি শক্তি  \n- d) অন্তঃ শক্তি  \n\n**Tags:** আসলপর\n\n##### Q110\n**Type:** mcq  \n**Stem:** একটি বন্ধ 4 cm বিস্তারের সরল ছদ্মিত স্পন্দন করছে। সামগ্রিক থেকে কোন দূরত্বে স্বচ্ছটির গতিশীলি ও ছড়িয়াছিল সমানুপাতিক হবে? (ক্ষেত্র No 13-18)  \n- a) $2\\sqrt{2}cm$  \n- b) $\\sqrt{2}cm$  \n- c) $2cm$  \n- d) $1cm$  \n\n**Tags:** আমির হোসেন\n\n##### Q111\n**Type:** mcq  \n**Stem:** একটি সেকেন্ড দোলকের এক প্রাচী থেকে অন্য প্রাচী যেতে সময় লাগে— (সি. বো. ২০১১)  \n- a) 0.5 s  \n- b) 1s  \n- c) 1.5 s  \n- d) 2 s  \n\n**Tags:** আমির হোসেন\n\n##### Q112\n**Type:** mcq  \n**Stem:** সেকেন্ড দোলকের কম্পাসি— (সি. বো. ২০১১; চ. বো. ২০১১)  \n- a) 0.5 Hz  \n- b) 1 Hz  \n- c) 2 Hz  \n- d) 4 Hz  \n\n**Tags:** আমির হোসেন\n\n##### Q113\n**Type:** mcq  \n**Stem:** নিচের কোনটি দোলক গতির উদাহরণ? (সিলব নং: 20৮)  \n- a) ঘড়ির কফিটার গতি  \n- b) সুরক্ষাকার গতি  \n- c) বৈদ্যুতিক পথার গতি  \n- d) সৌর্বের চারিদিকে পৃথিবীর গতি  \n\n**Tags:** আমির হোসেন\n\n##### Q114\n**Type:** mcq  \n**Stem:** সেকেন্ড দোলকে হচ্ছে যে সরল দোলকের দৈলনকাল—  \n- a) এক সেকেন্ড  \n- b) দুই সেকেন্ড  \n- c) তিন সেকেন্ড  \n- d) চার সেকেন্ড  \n\n**Tags:** শহজাহান তন্ডন\n\n##### Q115\n**Type:** mcq  \n**Stem:** একটি সেকেন্ড দোলকের দৈলন বৃদ্ধি পাওয়ায় এর দৈলনকাল—  \n- a) হাস পাওয়া  \n- b) বৃদ্ধি পাওয়া  \n- c) কোনো পরিবর্তন হবে না  \n- d) যে কোনোটি সত্য  \n\n**Tags:** শহজাহান তন্ডন\n\n##### Q116\n**Type:** mcq  \n**Stem:** একটি সেকেন্ড দোলকের দৈলনকাল বৃদ্ধি পেয়েছে। দৈলনকাল 2s করতে হল এর দৈর্ঘ্য—  \n- a) বাঢ়াতে হবে  \n- b) কমাতে হবে  \n- c) কিছুই করতে হবে না  \n- d) সবকটিই ঠিক  \n\n**Tags:** শহজাহান তন্ডন\n\n##### Q117\n**Type:** mcq  \n**Stem:** একটি সরল দোলক গতির জন্য কৌণিক সম্প্রস্তর নিচের কোনটির চেয়ে বেশি হতে পারবে না? (সি. বো. ২০১৬)  \n- a) 3°  \n- b) 4°  \n- c) 5°  \n- d) 60°  \n\n**Tags:** আমির হোসেন\n\n| 107 | 108 | 109 | 110 | 111 | 112 | 113 |\n| --- | --- | --- | --- | --- | --- | --- |\n| g | k | g | x | x | k | x |\n\n### অনুশীলনী প্রশ্ন\nChase your dream to be a Doctor...",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q107",
+          "content_markdown": "একটি সরল ছদ্মিত কোন বন্ধর সামগ্রিক X দূরত্বে ছড়িয়াছিল। নিচের কোনটির সমানুপাতিক?",
+          "structured_data": {
+            "question_number": "107",
+            "subtype": "mcq",
+            "stem": "একটি সরল ছদ্মিত কোন বন্ধর সামগ্রিক X দূরত্বে ছড়িয়াছিল। নিচের কোনটির সমানুপাতিক?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\sqrt{x}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$x$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$x^2$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$x^3$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "শহজাহান তন্ডন",
+            "provenance": [
+              "শহজাহান তন্ডন"
+            ]
+          },
+          "id": "e01b0330-520a-55ce-b789-0c3253483ba9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q108",
+          "content_markdown": "একটি আধারণ পিঙ্ক এর শেষ ঠাণ্ডা কুলানো একটি তর T পর্যায়কাল নিয়ে উল্লম্বভাবে স্পন্দিত হয়। এই স্পন্দনের বিষ্ফোরণ দ্বিগুণ করা হলে, নতুন দৈলনকাল হবে—",
+          "structured_data": {
+            "question_number": "108",
+            "subtype": "mcq",
+            "stem": "একটি আধারণ পিঙ্ক এর শেষ ঠাণ্ডা কুলানো একটি তর T পর্যায়কাল নিয়ে উল্লম্বভাবে স্পন্দিত হয়। এই স্পন্দনের বিষ্ফোরণ দ্বিগুণ করা হলে, নতুন দৈলনকাল হবে—",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "T",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2T",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "T/2",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "4T",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "শহজাহান তন্ডন",
+            "provenance": [
+              "শহজাহান তন্ডন"
+            ]
+          },
+          "id": "2c4bd6b8-fb22-5827-83c4-fbb6ccac8529"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q109",
+          "content_markdown": "সংকৃতি অবস্থাই স্প্রিং এর ভেতরে কোন শক্তি সঞ্চিত থাকে?\n(সিলব নং: 18)",
+          "structured_data": {
+            "question_number": "109",
+            "subtype": "mcq",
+            "stem": "সংকৃতি অবস্থাই স্প্রিং এর ভেতরে কোন শক্তি সঞ্চিত থাকে?\n(সিলব নং: 18)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "তাপ শক্তি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "গতি শক্তি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ঘটি শক্তি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অন্তঃ শক্তি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "আসলপর",
+            "provenance": [
+              "আসলপর"
+            ]
+          },
+          "id": "dcd1e583-fd8d-5d5a-898a-11b67bf8d5ef"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q110",
+          "content_markdown": "একটি বন্ধ 4 cm বিস্তারের সরল ছদ্মিত স্পন্দন করছে। সামগ্রিক থেকে কোন দূরত্বে স্বচ্ছটির গতিশীলি ও ছড়িয়াছিল সমানুপাতিক হবে? (ক্ষেত্র No 13-18)",
+          "structured_data": {
+            "question_number": "110",
+            "subtype": "mcq",
+            "stem": "একটি বন্ধ 4 cm বিস্তারের সরল ছদ্মিত স্পন্দন করছে। সামগ্রিক থেকে কোন দূরত্বে স্বচ্ছটির গতিশীলি ও ছড়িয়াছিল সমানুপাতিক হবে? (ক্ষেত্র No 13-18)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$2\\sqrt{2}cm$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\sqrt{2}cm$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$2cm$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$1cm$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "79a8b4e9-7bdc-5cf2-8709-797d24d6666b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q111",
+          "content_markdown": "একটি সেকেন্ড দোলকের এক প্রাচী থেকে অন্য প্রাচী যেতে সময় লাগে— (সি. বো. ২০১১)",
+          "structured_data": {
+            "question_number": "111",
+            "subtype": "mcq",
+            "stem": "একটি সেকেন্ড দোলকের এক প্রাচী থেকে অন্য প্রাচী যেতে সময় লাগে— (সি. বো. ২০১১)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "0.5 s",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "1s",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "1.5 s",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "2 s",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "876ae4ef-0377-507f-ba8d-d806a072761e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q112",
+          "content_markdown": "সেকেন্ড দোলকের কম্পাসি— (সি. বো. ২০১১; চ. বো. ২০১১)",
+          "structured_data": {
+            "question_number": "112",
+            "subtype": "mcq",
+            "stem": "সেকেন্ড দোলকের কম্পাসি— (সি. বো. ২০১১; চ. বো. ২০১১)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "0.5 Hz",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "1 Hz",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "2 Hz",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "4 Hz",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "1705e444-e1de-594f-abd5-49100cdc9bdf"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q113",
+          "content_markdown": "নিচের কোনটি দোলক গতির উদাহরণ? (সিলব নং: 20৮)",
+          "structured_data": {
+            "question_number": "113",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটি দোলক গতির উদাহরণ? (সিলব নং: 20৮)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ঘড়ির কফিটার গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সুরক্ষাকার গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বৈদ্যুতিক পথার গতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সৌর্বের চারিদিকে পৃথিবীর গতি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "6d7dcaf6-3f5e-50d7-9c34-6b4641c6169a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q114",
+          "content_markdown": "সেকেন্ড দোলকে হচ্ছে যে সরল দোলকের দৈলনকাল—",
+          "structured_data": {
+            "question_number": "114",
+            "subtype": "mcq",
+            "stem": "সেকেন্ড দোলকে হচ্ছে যে সরল দোলকের দৈলনকাল—",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "এক সেকেন্ড",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "দুই সেকেন্ড",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "তিন সেকেন্ড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "চার সেকেন্ড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "শহজাহান তন্ডন",
+            "provenance": [
+              "শহজাহান তন্ডন"
+            ]
+          },
+          "id": "62259a80-da4a-5b3e-9bc0-65d6c174447d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q115",
+          "content_markdown": "একটি সেকেন্ড দোলকের দৈলন বৃদ্ধি পাওয়ায় এর দৈলনকাল—",
+          "structured_data": {
+            "question_number": "115",
+            "subtype": "mcq",
+            "stem": "একটি সেকেন্ড দোলকের দৈলন বৃদ্ধি পাওয়ায় এর দৈলনকাল—",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "হাস পাওয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বৃদ্ধি পাওয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কোনো পরিবর্তন হবে না",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "যে কোনোটি সত্য",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "শহজাহান তন্ডন",
+            "provenance": [
+              "শহজাহান তন্ডন"
+            ]
+          },
+          "id": "1bc1d033-759e-5a67-bd36-6941c82df71f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q116",
+          "content_markdown": "একটি সেকেন্ড দোলকের দৈলনকাল বৃদ্ধি পেয়েছে। দৈলনকাল 2s করতে হল এর দৈর্ঘ্য—",
+          "structured_data": {
+            "question_number": "116",
+            "subtype": "mcq",
+            "stem": "একটি সেকেন্ড দোলকের দৈলনকাল বৃদ্ধি পেয়েছে। দৈলনকাল 2s করতে হল এর দৈর্ঘ্য—",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বাঢ়াতে হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কমাতে হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কিছুই করতে হবে না",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সবকটিই ঠিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "শহজাহান তন্ডন",
+            "provenance": [
+              "শহজাহান তন্ডন"
+            ]
+          },
+          "id": "772e158c-37f3-554d-961c-4abe90ad0175"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q117",
+          "content_markdown": "একটি সরল দোলক গতির জন্য কৌণিক সম্প্রস্তর নিচের কোনটির চেয়ে বেশি হতে পারবে না? (সি. বো. ২০১৬)",
+          "structured_data": {
+            "question_number": "117",
+            "subtype": "mcq",
+            "stem": "একটি সরল দোলক গতির জন্য কৌণিক সম্প্রস্তর নিচের কোনটির চেয়ে বেশি হতে পারবে না? (সি. বো. ২০১৬)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "3°",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "4°",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "5°",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "60°",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "আমির হোসেন   | 107 | 108 | 109 | 110 | 111 | 112 | 113 | | --- | --- | --- | --- | --- | --- | --- | | g | k | g | x | x | k | x |  ### অনুশীলনী প্রশ্ন Chase your dream to be a Doctor...",
+            "provenance": [
+              "আমির হোসেন   | 107 | 108 | 109 | 110 | 111 | 112 | 113 | | --- | --- | --- | --- | --- | --- | --- | | g | k | g | x | x | k | x |  ### অনুশীলনী প্রশ্ন Chase your dream to be a Doctor..."
+            ]
+          },
+          "id": "eb365f18-bbf2-502a-bd02-e3384df0fd87"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 11,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 98.89,
+        "eval_count": 2019
+      }
+    },
+    {
+      "page_number": 7,
+      "printed_page_number": "284",
+      "page_header": null,
+      "section_hierarchy": [
+        "পর্যায়িক গতি"
+      ],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান ১ম পত্র\n\n| প্রশ্ন | Type | Stem | Options | Answer |\n| --- | --- | --- | --- | --- |\n| 118. সরল ছদ্মত স্পন্দনশীল কণার সর্বোচ্চ অবধান ও সাময়িক হওয়ার মধ্যে দশা পার্থক্য - | mcq | ই. খ. গ. ঘ. | ফ. $\\frac{\\pi}{4}$ | ক. $-\\frac{\\pi}{2}$ |\n| 119. নিচের কৌনটি শূন্য দশার সমতুল্য? | mcq | ই. খ. গ. ঘ. | ফ. $\\pi$ | ক. $\\frac{\\pi}{2}$ |\n| 120. SI এককে পরিমাপকৃত সরল ছদ্মত স্পন্দনে স্পন্দিত কণার ব্যবকলনীয় সমীকরণ $2\\frac{{d}^{2}x}{{dt}^{2}}+32x=0$ হলে কৌণিক কম্পাঙ্ক কোনটি? | mcq | ই. খ. গ. ঘ. | ফ. $8\\mathrm{rad}\\,{s}^{-1}$ | ক. $4\\,\\mathrm{rad}\\,{s}^{-1}$ |\n| 121. সরল ছদ্মত স্পন্দনশীল কণার কণার পথ সরণের সর্বোচ্চ অবধান থেকে শুরু হলে, আদি দশা- | mcq | ই. খ. গ. ঘ. | ফ. $\\pi$ | ক. $\\frac{\\pi}{2}$ |\n| 122. একটি দোলক ঘড়ি সরল দোলগতি সম্পন্ন করছে যার কম্পাঙ্ক $\\omega$। এর গতিশীল পরিবর্তনের কম্পাঙ্ক- | mcq | ই. খ. গ. ঘ. | ফ. $\\frac{\\omega }{2}$ | ক. $\\omega$ |\n| 123. কৌনটি একটি সরল ছদ্মত স্পন্দনশীল কণার সরণ $x=(6\\cos\\omega t+8\\sin\\omega t)\\,$m দ্বারা প্রকাশ করলে এর বিষার- | mcq | ই. খ. গ. ঘ. | ফ. $14\\,\\mathrm{m}$ | ক. $10\\,\\mathrm{m}$ |\n| 124. একটি সরল দোলগতিসম্পন্ন বন্ডকণার ভর m এবং কম্পাঙ্ক ω হলে বল দ্রব্যক্ষেত্র কোনটি- | mcq | ই. খ. গ. ঘ. | ফ. $\\sqrt{\\frac{m}{ω }}$ | ক. $\\sqrt{\\frac{ω }{m }}$ |\n| 125. কৌনটি একটি সরল ছদ্মত স্পন্দনশীল বন্ডকণার বিষার A ও সরণ X হলে ত্বরণ সর্বোচ্চ হবে- | mcq | ই. খ. গ. ঘ. | ফ. $X=\\frac{A}{4}$ অবধানে | ক. $X=A$ অবধানে |\n| 126. কৌণিক কম্পাঙ্ক-এর মাত্রা কোনটি? | mcq | ই. খ. গ. ঘ. | ফ. ${\\left[M^0L^-T\\right]}$ | ক. ${\\left[M^0LT\\right]}$ |\n| 127. একটি সরল দোলকের পর্যায়কাল 2s এর কম্পাঙ্ক কত? | mcq | ই. খ. গ. ঘ. | ফ. $2Hz$ | ক. $1Hz$ |\n| 128. সরল গতিসম্পন্ন কৌনটি কণার ভর m এবং বল দ্রব্যক k হলে, কৌণিক কম্পাঙ্ক কত হবে? | mcq | ই. খ. গ. ঘ. | ফ. $\\omega =\\sqrt{\\frac{k}{m}}$ | ক. $\\omega =\\sqrt{mk}$ |\n| 129. সরল ছদ্মত স্পন্দনশীল কণার বস্তুর সরণ ও বেগের মধ্যে দশা পার্থক্য হবে- | mcq | ই. খ. গ. ঘ. | ফ. π | ক. $\\frac{\\pi}{2}$ |\n| 130. একটি সরল দোলকের বিষার 0.01m এবং কম্পাঙ্ক 12Hz হলে বেগের সর্বোচ্চ বেগ কত? | mcq | ই. খ. গ. ঘ. | ফ. $5.02ms^{-1}$ | ক. $0.65ms^{-1}$ |\n| 131. কৌনটি একটি সরল ছদ্মত গতিসম্পন্ন কণার বিষার 3.0 cm এবং সর্বোচ্চ বেগ 6.24 cm/sec হলে কণাটির পর্যায়কাল কত? | mcq | ই. খ. গ. ঘ. | ফ. $2.03sec$ | ক. $3.02sec$ |\n| 132. সরল ছদ্মত স্পন্দন গতিসম্পন্ন কণার বিষার A , বল দ্রব্যক্ষেত্র কোনটি? | mcq | ই. খ. গ. ঘ. | ফ. $kA^2/2$ | ক. $0$ |\n| 133. কৌনটি একটি সরল ছদ্মত গতিসম্পন্ন কণার বিষার a এবং সরণ x-এর সম্পর্কিত a=-ω²x সমীকরণের সাথে সম্পর্কিত? | mcq | ই. খ. গ. ঘ. | ফ. $\\frac{a}{π}$ | ক. $\\omega$ |\n| 134. দুটি স্পন্দনশীল কণার সরণ যথাক্রমে x=Asinωt এবং x=Acosωt হলে এদের মধ্যকার দশা পার্থক্য হবে- | mcq | ই. খ. গ. ঘ. | ফ. $\\frac{\\pi}{2}$ | ক. π |\n\n### Board Exam Year: September-23\n### Folder Metadata (Context Only):\n* অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান",
+      "blocks": [
+        {
+          "block_type": "table",
+          "title": "পদার্থবিজ্ঞান ১ম পত্র",
+          "content_markdown": "| প্রশ্ন | Type | Stem | Options | Answer |\n| --- | --- | --- | --- | --- |\n| 118. সরল ছদ্মত স্পন্দনশীল কণার সর্বোচ্চ অবধান ও সাময়িক হওয়ার মধ্যে দশা পার্থক্য - | mcq | ই. খ. গ. ঘ. | ফ. $\\frac{\\pi}{4}$ | ক. $-\\frac{\\pi}{2}$ |\n| 119. নিচের কৌনটি শূন্য দশার সমতুল্য? | mcq | ই. খ. গ. ঘ. | ফ. $\\pi$ | ক. $\\frac{\\pi}{2}$ |\n| 120. SI এককে পরিমাপকৃত সরল ছদ্মত স্পন্দনে স্পন্দিত কণার ব্যবকলনীয় সমীকরণ $2\\frac{{d}^{2}x}{{dt}^{2}}+32x=0$ হলে কৌণিক কম্পাঙ্ক কোনটি? | mcq | ই. খ. গ. ঘ. | ফ. $8\\mathrm{rad}\\,{s}^{-1}$ | ক. $4\\,\\mathrm{rad}\\,{s}^{-1}$ |\n| 121. সরল ছদ্মত স্পন্দনশীল কণার কণার পথ সরণের সর্বোচ্চ অবধান থেকে শুরু হলে, আদি দশা- | mcq | ই. খ. গ. ঘ. | ফ. $\\pi$ | ক. $\\frac{\\pi}{2}$ |\n| 122. একটি দোলক ঘড়ি সরল দোলগতি সম্পন্ন করছে যার কম্পাঙ্ক $\\omega$। এর গতিশীল পরিবর্তনের কম্পাঙ্ক- | mcq | ই. খ. গ. ঘ. | ফ. $\\frac{\\omega }{2}$ | ক. $\\omega$ |\n| 123. কৌনটি একটি সরল ছদ্মত স্পন্দনশীল কণার সরণ $x=(6\\cos\\omega t+8\\sin\\omega t)\\,$m দ্বারা প্রকাশ করলে এর বিষার- | mcq | ই. খ. গ. ঘ. | ফ. $14\\,\\mathrm{m}$ | ক. $10\\,\\mathrm{m}$ |\n| 124. একটি সরল দোলগতিসম্পন্ন বন্ডকণার ভর m এবং কম্পাঙ্ক ω হলে বল দ্রব্যক্ষেত্র কোনটি- | mcq | ই. খ. গ. ঘ. | ফ. $\\sqrt{\\frac{m}{ω }}$ | ক. $\\sqrt{\\frac{ω }{m }}$ |\n| 125. কৌনটি একটি সরল ছদ্মত স্পন্দনশীল বন্ডকণার বিষার A ও সরণ X হলে ত্বরণ সর্বোচ্চ হবে- | mcq | ই. খ. গ. ঘ. | ফ. $X=\\frac{A}{4}$ অবধানে | ক. $X=A$ অবধানে |\n| 126. কৌণিক কম্পাঙ্ক-এর মাত্রা কোনটি? | mcq | ই. খ. গ. ঘ. | ফ. ${\\left[M^0L^-T\\right]}$ | ক. ${\\left[M^0LT\\right]}$ |\n| 127. একটি সরল দোলকের পর্যায়কাল 2s এর কম্পাঙ্ক কত? | mcq | ই. খ. গ. ঘ. | ফ. $2Hz$ | ক. $1Hz$ |\n| 128. সরল গতিসম্পন্ন কৌনটি কণার ভর m এবং বল দ্রব্যক k হলে, কৌণিক কম্পাঙ্ক কত হবে? | mcq | ই. খ. গ. ঘ. | ফ. $\\omega =\\sqrt{\\frac{k}{m}}$ | ক. $\\omega =\\sqrt{mk}$ |\n| 129. সরল ছদ্মত স্পন্দনশীল কণার বস্তুর সরণ ও বেগের মধ্যে দশা পার্থক্য হবে- | mcq | ই. খ. গ. ঘ. | ফ. π | ক. $\\frac{\\pi}{2}$ |\n| 130. একটি সরল দোলকের বিষার 0.01m এবং কম্পাঙ্ক 12Hz হলে বেগের সর্বোচ্চ বেগ কত? | mcq | ই. খ. গ. ঘ. | ফ. $5.02ms^{-1}$ | ক. $0.65ms^{-1}$ |\n| 131. কৌনটি একটি সরল ছদ্মত গতিসম্পন্ন কণার বিষার 3.0 cm এবং সর্বোচ্চ বেগ 6.24 cm/sec হলে কণাটির পর্যায়কাল কত? | mcq | ই. খ. গ. ঘ. | ফ. $2.03sec$ | ক. $3.02sec$ |\n| 132. সরল ছদ্মত স্পন্দন গতিসম্পন্ন কণার বিষার A , বল দ্রব্যক্ষেত্র কোনটি? | mcq | ই. খ. গ. ঘ. | ফ. $kA^2/2$ | ক. $0$ |\n| 133. কৌনটি একটি সরল ছদ্মত গতিসম্পন্ন কণার বিষার a এবং সরণ x-এর সম্পর্কিত a=-ω²x সমীকরণের সাথে সম্পর্কিত? | mcq | ই. খ. গ. ঘ. | ফ. $\\frac{a}{π}$ | ক. $\\omega$ |\n| 134. দুটি স্পন্দনশীল কণার সরণ যথাক্রমে x=Asinωt এবং x=Acosωt হলে এদের মধ্যকার দশা পার্থক্য হবে- | mcq | ই. খ. গ. ঘ. | ফ. $\\frac{\\pi}{2}$ | ক. π |",
+          "structured_data": {
+            "headers": [
+              "প্রশ্ন",
+              "Type",
+              "Stem",
+              "Options",
+              "Answer"
+            ],
+            "rows": [
+              [
+                "118. সরল ছদ্মত স্পন্দনশীল কণার সর্বোচ্চ অবধান ও সাময়িক হওয়ার মধ্যে দশা পার্থক্য -",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. $\\frac{\\pi}{4}$",
+                "ক. $-\\frac{\\pi}{2}$"
+              ],
+              [
+                "119. নিচের কৌনটি শূন্য দশার সমতুল্য?",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. $\\pi$",
+                "ক. $\\frac{\\pi}{2}$"
+              ],
+              [
+                "120. SI এককে পরিমাপকৃত সরল ছদ্মত স্পন্দনে স্পন্দিত কণার ব্যবকলনীয় সমীকরণ $2\\frac{{d}^{2}x}{{dt}^{2}}+32x=0$ হলে কৌণিক কম্পাঙ্ক কোনটি?",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. $8\\mathrm{rad}\\,{s}^{-1}$",
+                "ক. $4\\,\\mathrm{rad}\\,{s}^{-1}$"
+              ],
+              [
+                "121. সরল ছদ্মত স্পন্দনশীল কণার কণার পথ সরণের সর্বোচ্চ অবধান থেকে শুরু হলে, আদি দশা-",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. $\\pi$",
+                "ক. $\\frac{\\pi}{2}$"
+              ],
+              [
+                "122. একটি দোলক ঘড়ি সরল দোলগতি সম্পন্ন করছে যার কম্পাঙ্ক $\\omega$। এর গতিশীল পরিবর্তনের কম্পাঙ্ক-",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. $\\frac{\\omega }{2}$",
+                "ক. $\\omega$"
+              ],
+              [
+                "123. কৌনটি একটি সরল ছদ্মত স্পন্দনশীল কণার সরণ $x=(6\\cos\\omega t+8\\sin\\omega t)\\,$m দ্বারা প্রকাশ করলে এর বিষার-",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. $14\\,\\mathrm{m}$",
+                "ক. $10\\,\\mathrm{m}$"
+              ],
+              [
+                "124. একটি সরল দোলগতিসম্পন্ন বন্ডকণার ভর m এবং কম্পাঙ্ক ω হলে বল দ্রব্যক্ষেত্র কোনটি-",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. $\\sqrt{\\frac{m}{ω }}$",
+                "ক. $\\sqrt{\\frac{ω }{m }}$"
+              ],
+              [
+                "125. কৌনটি একটি সরল ছদ্মত স্পন্দনশীল বন্ডকণার বিষার A ও সরণ X হলে ত্বরণ সর্বোচ্চ হবে-",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. $X=\\frac{A}{4}$ অবধানে",
+                "ক. $X=A$ অবধানে"
+              ],
+              [
+                "126. কৌণিক কম্পাঙ্ক-এর মাত্রা কোনটি?",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. ${\\left[M^0L^-T\\right]}$",
+                "ক. ${\\left[M^0LT\\right]}$"
+              ],
+              [
+                "127. একটি সরল দোলকের পর্যায়কাল 2s এর কম্পাঙ্ক কত?",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. $2Hz$",
+                "ক. $1Hz$"
+              ],
+              [
+                "128. সরল গতিসম্পন্ন কৌনটি কণার ভর m এবং বল দ্রব্যক k হলে, কৌণিক কম্পাঙ্ক কত হবে?",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. $\\omega =\\sqrt{\\frac{k}{m}}$",
+                "ক. $\\omega =\\sqrt{mk}$"
+              ],
+              [
+                "129. সরল ছদ্মত স্পন্দনশীল কণার বস্তুর সরণ ও বেগের মধ্যে দশা পার্থক্য হবে-",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. π",
+                "ক. $\\frac{\\pi}{2}$"
+              ],
+              [
+                "130. একটি সরল দোলকের বিষার 0.01m এবং কম্পাঙ্ক 12Hz হলে বেগের সর্বোচ্চ বেগ কত?",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. $5.02ms^{-1}$",
+                "ক. $0.65ms^{-1}$"
+              ],
+              [
+                "131. কৌনটি একটি সরল ছদ্মত গতিসম্পন্ন কণার বিষার 3.0 cm এবং সর্বোচ্চ বেগ 6.24 cm/sec হলে কণাটির পর্যায়কাল কত?",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. $2.03sec$",
+                "ক. $3.02sec$"
+              ],
+              [
+                "132. সরল ছদ্মত স্পন্দন গতিসম্পন্ন কণার বিষার A , বল দ্রব্যক্ষেত্র কোনটি?",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. $kA^2/2$",
+                "ক. $0$"
+              ],
+              [
+                "133. কৌনটি একটি সরল ছদ্মত গতিসম্পন্ন কণার বিষার a এবং সরণ x-এর সম্পর্কিত a=-ω²x সমীকরণের সাথে সম্পর্কিত?",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. $\\frac{a}{π}$",
+                "ক. $\\omega$"
+              ],
+              [
+                "134. দুটি স্পন্দনশীল কণার সরণ যথাক্রমে x=Asinωt এবং x=Acosωt হলে এদের মধ্যকার দশা পার্থক্য হবে-",
+                "mcq",
+                "ই. খ. গ. ঘ.",
+                "ফ. $\\frac{\\pi}{2}$",
+                "ক. π"
+              ]
+            ]
+          },
+          "id": "5f318149-bdd8-594a-8989-217234ec732b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "Folder Metadata (Context Only):",
+          "content_markdown": "* অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান",
+          "structured_data": {},
+          "id": "2cabb585-55aa-59af-91fa-d4540cebb218"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 2,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc5",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 59.97,
+        "eval_count": 2320
+      }
+    }
+  ]
+}

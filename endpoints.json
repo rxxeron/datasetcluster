@@ -2,38 +2,30 @@
   {
     "name": "benchly_labpc",
     "base_url": "https://labpc.benchly.live",
-    "model": "qwen2.5vl:7B",
-    "workers": 3,
-    "timeout_sec": 180,
-    "enabled": true
-  },
-  {
-    "name": "benchly_labpc26",
-    "base_url": "https://labpc26.benchly.live",
     "model": "qwen2.5vl:7b",
     "workers": 3,
     "timeout_sec": 180,
     "enabled": true
   },
   {
-    "name": "benchly_labpc30",
-    "base_url": "https://labpc30.benchly.live",
+    "name": "benchly_labpc1",
+    "base_url": "https://labpc1.benchly.live",
     "model": "qwen2.5vl:7b",
     "workers": 3,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc2",
+    "base_url": "https://labpc2.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 2,
     "timeout_sec": 180,
     "enabled": true
   },
   {
     "name": "benchly_labpc4",
     "base_url": "https://labpc4.benchly.live",
-    "model": "qwen2.5vl:7b",
-    "workers": 3,
-    "timeout_sec": 180,
-    "enabled": true
-  },
-  {
-    "name": "benchly_labpc7",
-    "base_url": "https://labpc7.benchly.live",
     "model": "qwen2.5vl:7b",
     "workers": 3,
     "timeout_sec": 180,
@@ -48,8 +40,80 @@
     "enabled": true
   },
   {
+    "name": "benchly_labpc6",
+    "base_url": "https://labpc6.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 3,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc7",
+    "base_url": "https://labpc7.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 3,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc8",
+    "base_url": "https://labpc8.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 2,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
     "name": "benchly_labpc10",
     "base_url": "https://labpc10.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 3,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc11",
+    "base_url": "https://labpc11.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 2,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc21",
+    "base_url": "https://labpc21.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 2,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc22",
+    "base_url": "https://labpc22.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 2,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc23",
+    "base_url": "https://labpc23.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 2,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc26",
+    "base_url": "https://labpc26.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 3,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc27",
+    "base_url": "https://labpc27.benchly.live",
     "model": "qwen2.5vl:7b",
     "workers": 2,
     "timeout_sec": 180,
@@ -58,6 +122,22 @@
   {
     "name": "benchly_labpc28",
     "base_url": "https://labpc28.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 2,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc30",
+    "base_url": "https://labpc30.benchly.live",
+    "model": "qwen2.5vl:7b",
+    "workers": 3,
+    "timeout_sec": 180,
+    "enabled": true
+  },
+  {
+    "name": "benchly_labpc31",
+    "base_url": "https://labpc31.benchly.live",
     "model": "qwen2.5vl:7b",
     "workers": 2,
     "timeout_sec": 180,

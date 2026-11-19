@@ -1,0 +1,3050 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "1dTKK9QzRO6NZivLk_Y4_ehzGxN2kW-bk",
+    "collection": "main_book_solution",
+    "subject": "biology",
+    "edition": "2023",
+    "priority_score": 2023092,
+    "path_parts": [
+      "অনুশীলনী MCQ সমাধান",
+      "* ভার্সন সেপ্টেম্বর-২৩",
+      "টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন",
+      "জীববিজ্ঞান",
+      "B-1.5 শৈবাল ও ছত্রাক.pdf"
+    ],
+    "filename": "B-1.5 শৈবাল ও ছত্রাক.pdf",
+    "sha256": "1af45012cf633470482717fcb46fc7c3cc2fa0699771935d6c66f16feeb3ff03",
+    "total_pages": 4,
+    "parsed_pages": 4,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 98,
+    "block_counts_by_type": {
+      "concept_prose": 23,
+      "mcq_item": 72,
+      "exercise_solution": 3
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "```none\nঝিববিজ্ঞান প্রথম পর্ষ\n\nপঠতম অধ্যয় : শৈবাল ও ছটক\n\nশৈবাল : ভূমিকা ও গণন\n\n01. ক্রেওডিফি বিশিষ্ট হ্যালোফাইটিক উদিগোগৌটিকে কী বলে?\n  - ক. ব্যাকটেরিয়া\n  - খ. ছড়াক\n  - গ. হাইড্রোফাইট\n  - ঘ. শৈবাল\n\n(আভিস্কৃ)\n\n02. কোনটি সামান্যভাবে ক্রেটিয়ারিয়ার সচিত্ত খাদ্য?\n  - ক. স্টার্চ\n  - খ. প্লাইকোজেন\n  - গ. লিপিড\n  - ঘ. তেল বিন্দু\n\n(আভিস্কৃ)\n\n03. এককোষী নিশ্চল শৈবাল কোনটি?\n  - ক. Pediastrum\n  - খ. Euglena\n  - গ. Chlorococcus\n  - ঘ. Hydrodictyon\n\n(আভিস্কৃ)\n\n04. কোনটি পাতা সদৃশ শৈবাল?\n    (স্থ. বো. ২০১৯)\n  - ক. Ulothrix\n  - খ. Chlorella\n  - গ. Chara\n  - ঘ. Ulva\n\n(অভিস্কৃ+ মাজেদা+আশীম)\n\n05. নিচের কোনটি থেকে এগার এগার পাতা যায়? (স্থ. বো. ২০১৯)\n  - ক. সবুজ শৈবাল\n  - খ. অপ্রি শৈবাল\n  - গ. বাদামী শৈবাল\n  - ঘ. লাল শৈবাল\n\n(অভিস্কৃ+ মাজেদা)\n\n06. পাথরের পায়ে জন্যায় যে শৈবাল তাকে কী বলে? (স্থ. বো. ২০১৭)\n  - ক. হ্যালোফাইট\n  - খ. লিথোফাইট\n  - গ. এপিফাইট\n  - ঘ. জেরোফাইট (অভিস্কৃ+ মাজেদা+আশীম)\n\n07. Chlamydomonas-এর ক্রোরোপ্লাস্ট কোন ধরনের? (স্থ. বো. ২০১৩)\n  - ক. জলিকাকার\n  - খ. সপ্লিকাকার\n  - গ. পেয়ালাকৃতির\n  - ঘ. তারিকাকার\n\n(অভিস্কৃ)\n\n08. নিচের কোনটি এককোষী শৈবাল? (স্থ. বো. ২০১৩)\n  - ক. Chara\n  - খ. Navicula\n  - গ. Zygnema\n  - ঘ. Chaetophora\n\n(অভিস্কৃ+ মাজেদা)\n\n09. পর্ব ও পর্বমাধ্যমিক্ষিত শৈবাল কোনটি?\n   (স্থ. বো. ২০১৭)\n  - ক. Ulothrix\n  - খ. Chlorella\n  - গ. Chara\n  - ঘ. Volvox\n\n(অভিস্কৃ+ মাজেদা+আশীম)\n\n10. কোনটি লোহিত শৈবাল? (স্থ. বো. ২০১৬)\n  - ক. Ulothrix sp.\n  - খ. Polysiphonia sp.\n  - গ. Chaetophora sp.\n  - ঘ. Volvox sp.(অভিস্কৃ+ মাজেদা+আশীম)\n\n11. সবুজ শৈবালে কোন খাদ্য সচিত্ত থাকে? (স্থ. বো. ২০১৬)\n  - ক. স্টার্চ\n  - খ. সামান্য ফাইসিন স্টার্চ\n  - গ. ফ্রেইডিয়ান স্টার্চ\n  - ঘ. ল্যামিনারিন স্টার্চ\n\n(অভিস্কৃ+ মাজেদা)\n\n12. নিচের কোনটি সচিত্ত?\n     (সংকলন বোর্ড ২০১৮)\n  - ক. Chlorella হলো এককোষী, সাল শৈবাল\n  - খ. Agaricus আলু বিক্রিত ধারা রোগ সৃষ্টি করে\n  - গ. Ulothrix-এর জাইগোট ৪-ফ্লোজালবিশিষ্ট\n  - ঘ. Penicillium কনিডিয়ার দ্বারা যৌনজনন ঘটে\n\n(অভিস্কৃ)\n\n13. এককোষী সাল শৈবাল হলো-\n  - ক. Navicula\n  - খ. Chlorella\n  - গ. Chlorococcus\n  - ঘ. Chlamydomonius\n\n(আশীম)\n\n14. কোনটি ডায়াটম?\n  - ক. Spirogyra\n  - খ. Navicula\n  - গ. Polysiphonia\n  - ঘ. Volvox\n\n(আশীম)\n\n15. এককোষী নিশ্চল শৈবাল কোনটি?\n  - ক. Navicula\n  - খ. Volvox\n  - গ. Hydrodictyon\n  - ঘ. Chlorella\n\n(আশীম)\n\n16. ডেনড্রয়েড গঠন বিশিষ্ট শৈবাল কোনটি?\n  - ক. Chara\n  - খ. Prasinocladus\n  - গ. Spirogyra\n  - ঘ. Polysiphonia\n\n[আশীম]\n\n17. একটি পূর্ণাঙ্গ ডায়াটমের সিলিকামাস কোম্প্রাটিরকে কি বলে?\n  - ক. পেরিপ্লাস্ট\n  - খ. পাহিরিনয়েড\n  - গ. ভলিউটিন\n  - ঘ. ফুটিউল\n\n[আশীম]\n\n18. শৈবালের লাল বর্ণের জন্য দায়ী কোন পদার্থ?\n  - ক. ফিওফাইসিন\n  - খ. ফিউকোজ্যাক্ট্রিন\n  - গ. ফাইকোইরিপ্রিন\n  - ঘ. ফাইকোসাম্বানিন\n\n[আশীম]\n\n19. শৈবালের বাদামী বর্ণের জন্য দায়ী কোন পদার্থ?\n  - ক. ফিওফাইসিন\n  - খ. ফিউকোজ্যাক্ট্রিন\n  - গ. ফাইকোইরিপ্রিন\n  - ঘ. ফাইকোসাম্বানিন\n\n[আশীম]\n\n20. হ্যান্ড-সোনালি শৈবালের সচিত্ত খাদ্য কী?\n  - ক. ল্যামিনারিন\n  - খ. ভলিউটিন\n  - গ. ফ্রেরিডিয়ান স্টার্চ\n  - ঘ. স্টার্চ\n\n[আশীম]\n\n21. লাল বর্ণের শৈবালের সচিত্ত খাদ্য কী?\n  - ক. ল্যামিনারিন\n  - খ. ভলিউটিন\n  - গ. ফ্রেরিডিয়ান স্টার্চ\n  - ঘ. স্টার্চ\n\n[আশীম]\n\n22. সাল ও কলেনী গণনকারী শৈবাল কোনটি?\n  - ক. Euglena\n  - খ. Volvox\n  - গ. chlorella\n  - ঘ. Azotabacter\n\n[আজকল]\n\n23. কেন্দ্র ফেনেট গণনকারী শৈবাল কোনটি?\n  - ক. Spirogyra\n  - খ. Volvox\n  - গ. Macrozystis\n  - ঘ. Polysiphonia\n\n[আসিম]\n\n28. নিচের কোনটি বাদামী শৈবালের (Phaeophyta) সচিত্ত খাদ্য\n    [নয়? / মেধিকে: ১৮-১৯]\n  - ক. ম্যানিটোল\n  - খ. স্টার্চ\n  - গ. ল্যামিনারিন\n  - ঘ. এলপিন\n\n[মাজেদা]\n\n25. অগ্নিশৈবাল (Fire Algae) নামে পরিচিত নিচের কোনটি?\n    [মেধিকে: ১৭-১৮]\n  - ক. Euglenophyta\n  - খ. Pyrrhophyta\n  - গ. Chrysophyta\n  - ঘ. Phaeophyta\n\n[মাজেদা]\n\n26. জীবগতের সুপার ক্রিয়াম ইউক্যারিওটার ফ্রিডম ফানজাই-এর\n    বৈশিষ্ট্র্যের ক্ষেত্রে প্রথমজ নয় কোনটি?(মেধিকে: ০২-০৩)\n  - ক. এদের কোষপ্রতি কাইটিন দিয়ে গঠিত\n  - খ. জাইগোটে মায়েসিস হয়\n  - গ. উন্নত ঢিস্যু বিন্যাস বিদ্যমান\n  - ঘ. হ্যাপ্লোয়েড স্পোর দিয়ে বংশগতি ঘটে\n\n[মাজেদা]\n\n27. Ulothix এর ক্রোরোপ্লাস্ট এর অকৃতি কোনটি?\n   - ক. পেয়ালাকৃতি\n   - খ. সপ্লিকাকার\n   - গ. জলিকাকার\n   - ঘ. ফিতাকৃতির\n\n[আলিম]\n\n28. Ulothix এর ম্যাক্রোচারেগুলে কতটি ফ্লাজেলা থাকে?\n     - ক. ১টি\n     - খ. ২টি\n     - গ. ৪টি\n\n[আভিস্কৃ]\n\n| 01.g | 02.x | 03.g | 08.y | 05.y | 06.x |\n|------|------|------|------|------|------|\n| 08.x | 09.g | 10.x | 11.k | 12.g | 13.y |\n| 15.x | 16.x | 17.x | 18.g | 19.k | 20.x |\n| 21.g | 22.g | 23.g | 24.x | 25.x | 26.g |\n| 27.x | 28.g |\n\nঅনুশীলনীর প্রশ্ন\nChase your dream to be a Doctor...",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "```none\nঝিববিজ্ঞান প্রথম পর্ষ",
+          "structured_data": {},
+          "id": "7fd4310e-5ac6-561a-bf53-14e2c666c457"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "পঠতম অধ্যয় : শৈবাল ও ছটক",
+          "structured_data": {},
+          "id": "a5c7df8f-ae78-5747-aa83-6aa92e6ca944"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "শৈবাল : ভূমিকা ও গণন",
+          "structured_data": {},
+          "id": "47fd7a5f-fa77-56bb-826f-c9e672c74ab0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q01",
+          "content_markdown": "ক্রেওডিফি বিশিষ্ট হ্যালোফাইটিক উদিগোগৌটিকে কী বলে?\n(আভিস্কৃ)",
+          "structured_data": {
+            "question_number": "01",
+            "subtype": "mcq_item",
+            "stem": "ক্রেওডিফি বিশিষ্ট হ্যালোফাইটিক উদিগোগৌটিকে কী বলে?\n(আভিস্কৃ)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "ব্যাকটেরিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "ছড়াক",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "হাইড্রোফাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "শৈবাল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f8c8b0e6-bf14-5660-b233-da3f4659b95f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q02",
+          "content_markdown": "কোনটি সামান্যভাবে ক্রেটিয়ারিয়ার সচিত্ত খাদ্য?\n(আভিস্কৃ)",
+          "structured_data": {
+            "question_number": "02",
+            "subtype": "mcq_item",
+            "stem": "কোনটি সামান্যভাবে ক্রেটিয়ারিয়ার সচিত্ত খাদ্য?\n(আভিস্কৃ)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "স্টার্চ",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "প্লাইকোজেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "লিপিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "তেল বিন্দু",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "99e7f874-5e28-5fb5-b68d-6b6b94d264d0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q03",
+          "content_markdown": "এককোষী নিশ্চল শৈবাল কোনটি?\n(আভিস্কৃ)",
+          "structured_data": {
+            "question_number": "03",
+            "subtype": "mcq_item",
+            "stem": "এককোষী নিশ্চল শৈবাল কোনটি?\n(আভিস্কৃ)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Pediastrum",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Euglena",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Chlorococcus",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Hydrodictyon",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e9e88a6e-0b95-5b2a-ac38-117a3def0f13"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q04",
+          "content_markdown": "কোনটি পাতা সদৃশ শৈবাল?\n(স্থ. বো. ২০১৯)\n(অভিস্কৃ+ মাজেদা+আশীম)",
+          "structured_data": {
+            "question_number": "04",
+            "subtype": "mcq_item",
+            "stem": "কোনটি পাতা সদৃশ শৈবাল?\n(স্থ. বো. ২০১৯)\n(অভিস্কৃ+ মাজেদা+আশীম)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Ulothrix",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Chlorella",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Chara",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Ulva",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "75de81f1-e886-5d7d-a1b2-e78bfb5a6b52"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q05",
+          "content_markdown": "নিচের কোনটি থেকে এগার এগার পাতা যায়? (স্থ. বো. ২০১৯)\n(অভিস্কৃ+ মাজেদা)",
+          "structured_data": {
+            "question_number": "05",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি থেকে এগার এগার পাতা যায়? (স্থ. বো. ২০১৯)\n(অভিস্কৃ+ মাজেদা)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "সবুজ শৈবাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "অপ্রি শৈবাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "বাদামী শৈবাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "লাল শৈবাল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "20f08dc8-5e87-5236-b0f4-9f20131cff03"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q06",
+          "content_markdown": "পাথরের পায়ে জন্যায় যে শৈবাল তাকে কী বলে? (স্থ. বো. ২০১৭)",
+          "structured_data": {
+            "question_number": "06",
+            "subtype": "mcq_item",
+            "stem": "পাথরের পায়ে জন্যায় যে শৈবাল তাকে কী বলে? (স্থ. বো. ২০১৭)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "হ্যালোফাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "লিথোফাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "এপিফাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "জেরোফাইট (অভিস্কৃ+ মাজেদা+আশীম)",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b0768113-6458-5674-8b9f-04b89f4627e5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q07",
+          "content_markdown": "Chlamydomonas-এর ক্রোরোপ্লাস্ট কোন ধরনের? (স্থ. বো. ২০১৩)\n(অভিস্কৃ)",
+          "structured_data": {
+            "question_number": "07",
+            "subtype": "mcq_item",
+            "stem": "Chlamydomonas-এর ক্রোরোপ্লাস্ট কোন ধরনের? (স্থ. বো. ২০১৩)\n(অভিস্কৃ)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "জলিকাকার",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "সপ্লিকাকার",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "পেয়ালাকৃতির",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "তারিকাকার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "889b9bd0-5900-548c-958d-701658f5f3f2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q08",
+          "content_markdown": "নিচের কোনটি এককোষী শৈবাল? (স্থ. বো. ২০১৩)\n(অভিস্কৃ+ মাজেদা)",
+          "structured_data": {
+            "question_number": "08",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি এককোষী শৈবাল? (স্থ. বো. ২০১৩)\n(অভিস্কৃ+ মাজেদা)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Chara",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Navicula",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Zygnema",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Chaetophora",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "47bfacba-673a-54bc-8ffc-54ec8aed2128"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q09",
+          "content_markdown": "পর্ব ও পর্বমাধ্যমিক্ষিত শৈবাল কোনটি?\n(স্থ. বো. ২০১৭)\n(অভিস্কৃ+ মাজেদা+আশীম)",
+          "structured_data": {
+            "question_number": "09",
+            "subtype": "mcq_item",
+            "stem": "পর্ব ও পর্বমাধ্যমিক্ষিত শৈবাল কোনটি?\n(স্থ. বো. ২০১৭)\n(অভিস্কৃ+ মাজেদা+আশীম)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Ulothrix",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Chlorella",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Chara",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Volvox",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c7ec08ea-7450-52d5-b77a-5f447c7470f2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q10",
+          "content_markdown": "কোনটি লোহিত শৈবাল? (স্থ. বো. ২০১৬)",
+          "structured_data": {
+            "question_number": "10",
+            "subtype": "mcq_item",
+            "stem": "কোনটি লোহিত শৈবাল? (স্থ. বো. ২০১৬)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Ulothrix sp.",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Polysiphonia sp.",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Chaetophora sp.",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Volvox sp.(অভিস্কৃ+ মাজেদা+আশীম)",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "08f35ed0-776b-56d4-86e6-fad6b42be4e4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q11",
+          "content_markdown": "সবুজ শৈবালে কোন খাদ্য সচিত্ত থাকে? (স্থ. বো. ২০১৬)\n(অভিস্কৃ+ মাজেদা)",
+          "structured_data": {
+            "question_number": "11",
+            "subtype": "mcq_item",
+            "stem": "সবুজ শৈবালে কোন খাদ্য সচিত্ত থাকে? (স্থ. বো. ২০১৬)\n(অভিস্কৃ+ মাজেদা)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "স্টার্চ",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "সামান্য ফাইসিন স্টার্চ",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "ফ্রেইডিয়ান স্টার্চ",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "ল্যামিনারিন স্টার্চ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3b13057a-1a53-5bc3-af20-f7165fbd1fd3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q12",
+          "content_markdown": "নিচের কোনটি সচিত্ত?\n(সংকলন বোর্ড ২০১৮)\n(অভিস্কৃ)",
+          "structured_data": {
+            "question_number": "12",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি সচিত্ত?\n(সংকলন বোর্ড ২০১৮)\n(অভিস্কৃ)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Chlorella হলো এককোষী, সাল শৈবাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Agaricus আলু বিক্রিত ধারা রোগ সৃষ্টি করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Ulothrix-এর জাইগোট ৪-ফ্লোজালবিশিষ্ট",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Penicillium কনিডিয়ার দ্বারা যৌনজনন ঘটে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a4f25fb6-f543-5a77-a18c-6c63bdc5c4d8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q13",
+          "content_markdown": "এককোষী সাল শৈবাল হলো-\n(আশীম)",
+          "structured_data": {
+            "question_number": "13",
+            "subtype": "mcq_item",
+            "stem": "এককোষী সাল শৈবাল হলো-\n(আশীম)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Navicula",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Chlorella",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Chlorococcus",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Chlamydomonius",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ae8ebb43-b229-5d73-a0cc-5ddba251a4f8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q14",
+          "content_markdown": "কোনটি ডায়াটম?\n(আশীম)",
+          "structured_data": {
+            "question_number": "14",
+            "subtype": "mcq_item",
+            "stem": "কোনটি ডায়াটম?\n(আশীম)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Spirogyra",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Navicula",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Polysiphonia",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Volvox",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "62c40d98-7aa5-54d3-bb36-82a57e03b516"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q15",
+          "content_markdown": "এককোষী নিশ্চল শৈবাল কোনটি?\n(আশীম)",
+          "structured_data": {
+            "question_number": "15",
+            "subtype": "mcq_item",
+            "stem": "এককোষী নিশ্চল শৈবাল কোনটি?\n(আশীম)",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Navicula",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Volvox",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Hydrodictyon",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Chlorella",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "099f9533-7f2e-54b8-9dcb-755e8a892a5e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q16",
+          "content_markdown": "ডেনড্রয়েড গঠন বিশিষ্ট শৈবাল কোনটি?\n[আশীম]",
+          "structured_data": {
+            "question_number": "16",
+            "subtype": "mcq_item",
+            "stem": "ডেনড্রয়েড গঠন বিশিষ্ট শৈবাল কোনটি?\n[আশীম]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Chara",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Prasinocladus",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Spirogyra",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Polysiphonia",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e6171a6e-4f1d-5b1c-aec5-5fd9cd8ce7b0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q17",
+          "content_markdown": "একটি পূর্ণাঙ্গ ডায়াটমের সিলিকামাস কোম্প্রাটিরকে কি বলে?\n[আশীম]",
+          "structured_data": {
+            "question_number": "17",
+            "subtype": "mcq_item",
+            "stem": "একটি পূর্ণাঙ্গ ডায়াটমের সিলিকামাস কোম্প্রাটিরকে কি বলে?\n[আশীম]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "পেরিপ্লাস্ট",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "পাহিরিনয়েড",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "ভলিউটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "ফুটিউল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "77d574a5-9fd1-5735-8f11-16ac2a771b45"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q18",
+          "content_markdown": "শৈবালের লাল বর্ণের জন্য দায়ী কোন পদার্থ?\n[আশীম]",
+          "structured_data": {
+            "question_number": "18",
+            "subtype": "mcq_item",
+            "stem": "শৈবালের লাল বর্ণের জন্য দায়ী কোন পদার্থ?\n[আশীম]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "ফিওফাইসিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "ফিউকোজ্যাক্ট্রিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "ফাইকোইরিপ্রিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "ফাইকোসাম্বানিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6e941228-ba6a-52d3-b097-42007a463861"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q19",
+          "content_markdown": "শৈবালের বাদামী বর্ণের জন্য দায়ী কোন পদার্থ?\n[আশীম]",
+          "structured_data": {
+            "question_number": "19",
+            "subtype": "mcq_item",
+            "stem": "শৈবালের বাদামী বর্ণের জন্য দায়ী কোন পদার্থ?\n[আশীম]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "ফিওফাইসিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "ফিউকোজ্যাক্ট্রিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "ফাইকোইরিপ্রিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "ফাইকোসাম্বানিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f1b3b7ca-9018-5805-b5c1-71eaddaf1771"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q20",
+          "content_markdown": "হ্যান্ড-সোনালি শৈবালের সচিত্ত খাদ্য কী?\n[আশীম]",
+          "structured_data": {
+            "question_number": "20",
+            "subtype": "mcq_item",
+            "stem": "হ্যান্ড-সোনালি শৈবালের সচিত্ত খাদ্য কী?\n[আশীম]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "ল্যামিনারিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "ভলিউটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "ফ্রেরিডিয়ান স্টার্চ",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "স্টার্চ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6993679e-14ba-5fc7-908a-75e08b0a025f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q21",
+          "content_markdown": "লাল বর্ণের শৈবালের সচিত্ত খাদ্য কী?\n[আশীম]",
+          "structured_data": {
+            "question_number": "21",
+            "subtype": "mcq_item",
+            "stem": "লাল বর্ণের শৈবালের সচিত্ত খাদ্য কী?\n[আশীম]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "ল্যামিনারিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "ভলিউটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "ফ্রেরিডিয়ান স্টার্চ",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "স্টার্চ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "94f86947-f360-57e3-8851-498f82752d86"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q22",
+          "content_markdown": "সাল ও কলেনী গণনকারী শৈবাল কোনটি?\n[আজকল]",
+          "structured_data": {
+            "question_number": "22",
+            "subtype": "mcq_item",
+            "stem": "সাল ও কলেনী গণনকারী শৈবাল কোনটি?\n[আজকল]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Euglena",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Volvox",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "chlorella",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Azotabacter",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d06f11b5-e550-5900-aa42-450c1b71592f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q23",
+          "content_markdown": "কেন্দ্র ফেনেট গণনকারী শৈবাল কোনটি?\n[আসিম]",
+          "structured_data": {
+            "question_number": "23",
+            "subtype": "mcq_item",
+            "stem": "কেন্দ্র ফেনেট গণনকারী শৈবাল কোনটি?\n[আসিম]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Spirogyra",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Volvox",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Macrozystis",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Polysiphonia",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b0058e75-468c-503f-a91a-3bbdd1b9d2ff"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q28",
+          "content_markdown": "নিচের কোনটি বাদামী শৈবালের (Phaeophyta) সচিত্ত খাদ্য\n[মাজেদা]",
+          "structured_data": {
+            "question_number": "28",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি বাদামী শৈবালের (Phaeophyta) সচিত্ত খাদ্য\n[মাজেদা]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "ম্যানিটোল",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "স্টার্চ",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "ল্যামিনারিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "এলপিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "নয়? / মেধিকে: ১৮-১৯",
+            "provenance": [
+              "নয়? / মেধিকে: ১৮-১৯"
+            ]
+          },
+          "id": "63317732-2ac8-5cd0-95e2-3f3905d836c9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q25",
+          "content_markdown": "অগ্নিশৈবাল (Fire Algae) নামে পরিচিত নিচের কোনটি?\n[মাজেদা]",
+          "structured_data": {
+            "question_number": "25",
+            "subtype": "mcq_item",
+            "stem": "অগ্নিশৈবাল (Fire Algae) নামে পরিচিত নিচের কোনটি?\n[মাজেদা]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "Euglenophyta",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "Pyrrhophyta",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "Chrysophyta",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "Phaeophyta",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "মেধিকে: ১৭-১৮",
+            "provenance": [
+              "মেধিকে: ১৭-১৮"
+            ]
+          },
+          "id": "05112c52-cc87-5111-ab26-d9b1fe123168"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q26",
+          "content_markdown": "জীবগতের সুপার ক্রিয়াম ইউক্যারিওটার ফ্রিডম ফানজাই-এর\nবৈশিষ্ট্র্যের ক্ষেত্রে প্রথমজ নয় কোনটি?(মেধিকে: ০২-০৩)\n[মাজেদা]",
+          "structured_data": {
+            "question_number": "26",
+            "subtype": "mcq_item",
+            "stem": "জীবগতের সুপার ক্রিয়াম ইউক্যারিওটার ফ্রিডম ফানজাই-এর\nবৈশিষ্ট্র্যের ক্ষেত্রে প্রথমজ নয় কোনটি?(মেধিকে: ০২-০৩)\n[মাজেদা]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "এদের কোষপ্রতি কাইটিন দিয়ে গঠিত",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "জাইগোটে মায়েসিস হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "উন্নত ঢিস্যু বিন্যাস বিদ্যমান",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "হ্যাপ্লোয়েড স্পোর দিয়ে বংশগতি ঘটে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "13862659-8695-5c12-a1bb-d133a0945d26"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q27",
+          "content_markdown": "Ulothix এর ক্রোরোপ্লাস্ট এর অকৃতি কোনটি?\n[আলিম]",
+          "structured_data": {
+            "question_number": "27",
+            "subtype": "mcq_item",
+            "stem": "Ulothix এর ক্রোরোপ্লাস্ট এর অকৃতি কোনটি?\n[আলিম]",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "পেয়ালাকৃতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "সপ্লিকাকার",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "জলিকাকার",
+                "is_correct": false
+              },
+              {
+                "key_original": "ঘ",
+                "text": "ফিতাকৃতির",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2b1e6883-46e6-5680-8523-f5d764d41979"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q28",
+          "content_markdown": "Ulothix এর ম্যাক্রোচারেগুলে কতটি ফ্লাজেলা থাকে?\n[আভিস্কৃ]\n| 01.g | 02.x | 03.g | 08.y | 05.y | 06.x |\n|------|------|------|------|------|------|\n| 08.x | 09.g | 10.x | 11.k | 12.g | 13.y |\n| 15.x | 16.x | 17.x | 18.g | 19.k | 20.x |\n| 21.g | 22.g | 23.g | 24.x | 25.x | 26.g |\n| 27.x | 28.g |\nঅনুশীলনীর প্রশ্ন\nChase your dream to be a Doctor...",
+          "structured_data": {
+            "question_number": "28",
+            "subtype": "mcq_item",
+            "stem": "Ulothix এর ম্যাক্রোচারেগুলে কতটি ফ্লাজেলা থাকে?\n[আভিস্কৃ]\n| 01.g | 02.x | 03.g | 08.y | 05.y | 06.x |\n|------|------|------|------|------|------|\n| 08.x | 09.g | 10.x | 11.k | 12.g | 13.y |\n| 15.x | 16.x | 17.x | 18.g | 19.k | 20.x |\n| 21.g | 22.g | 23.g | 24.x | 25.x | 26.g |\n| 27.x | 28.g |\nঅনুশীলনীর প্রশ্ন\nChase your dream to be a Doctor...",
+            "options": [
+              {
+                "key_original": "ক",
+                "text": "১টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "খ",
+                "text": "২টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "গ",
+                "text": "৪টি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "56ed4478-7eee-5a44-b150-55c0f257ee73"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 31,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc7",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 79.08,
+        "eval_count": 3782
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### জীববিজ্ঞান প্রথম পত্র\n\n#### শৈক্ষণির জ্ঞান\n\n29. Ectocarpus এ কোন ধরনের অযৌন বংশোদ্ভূত যায়?\n   - a) জুপ্পোর\n   - b) হিমগ্লোস্পোর\n   - c) আটোফ্লোর\n   - d) অ্যাকিনিটি\n\n30. কোনটিতে পুরুষ সিদ্ধ দেখা যায়?\n   - a) Gloeotrichcea\n   - b) Microspora\n   - c) Ectocarpus\n   - d) Pediastrum\n\n31. জীবের ভিত্তিগত যৌন কর্তৃক প্রকৃত কোন জনন?\n   - a) দুই\n   - b) তিন\n   - c) চার\n   - d) পাঁচ\n\n32. কোনটি শৈক্ষণির অযৌন জনন?\n   - a) হরমোগনিয়া\n   - b) খড়ভাণ\n   - c) বাড়িঙ্গ\n   - d) জুপ্পোর\n\n33. ফ্লাজেলাবাই সেপারকে কী বলে? {দ. ব. ১৯-২০; ক. ব. ২০১৯}\n   - a) আপ্পোনোস্পোর\n   - b) হিপনোস্পোর\n   - c) অ্যাকিনিটি\n   - d) জুপ্পোর\n\n34. বহুকোষী ফিলামেন্টস শৈক্ষণির অযৌন জননে ঘটে— {ঈ. ব. ২০১৯}\n   - a) অ্যাপ্রোনোস্পোর\n   - b) উৎপাদন\n   - c) বিবিজান\n   - d) খড়ভাণ\n\n35. পামেলা দশা সৃষ্টির শৈক্ষণির কোনটি?\n   - a) Chlamydomonas\n   - b) Volvox\n   - c) Chlorococcus\n   - d) Vaucheria\n\n36. হরমোগনিয়া দ্বারা অযৌন জনন ঘটায় কোনটি?\n   - a) Ulothrix\n   - b) Nostoc\n   - c) Spirogyra\n   - d) Gloeocapsa\n\n37. বহু ফ্লাজেলাবাই জুওন্স্পোর সৃষ্টি হয় কোন শৈক্ষণির?\n   - a) Chlamydomonas\n   - b) Oedogonium\n   - c) Vaucheria\n   - d) Spirogyra\n\n38. যুগ্মনিক্ত টাইপ জীবচক্র ঘটে কোন শৈক্ষণির?\n   - a) Ulothrix\n   - b) Sargassum\n   - c) Urospora\n   - d) Coleochaete\n\n39. কোন শৈক্ষণির হিপনোস্পোর সৃষ্টি হয়?\n   - a) Ulothrix\n   - b) Vaucheria\n   - c) Nostoc\n   - d) Gloeocapsa\n\n#### শৈক্ষণির গুরুত্ব\n\n40. অরামি ও কুমারবী শৈক্ষণির কোন ফাঁকে ব্যবহৃত হয়?\n   - a) জৈব সার\n   - b) ওধু\n   - c) মানুষের খাদ্য\n   - d) মাছের খাদ্য\n\n### Ulothrix\n\n41. Ulothrix-এর ক্রোরোপ্লাস্ট এর অযৌক্তি কোনটি? {ম. ব. প. ১৫-১৬}\n   - a) পেয়ালা\n   - b) জালিকাকার\n   - c) সর্পিলকার\n   - d) ব্যাঢ অযৌক্তি\n\n42. ইউলাথ্রিক্স-এ মায়োসিস ঘটে-\n   - a) ফিলামেন্ট কোষে\n   - b) জাইগোপটে\n   - c) যোড়ফস্টে\n   - d) গ্যামিটে\n\n43. Ulothrix-এর যৌন জননে কোষের প্রোটোগ্লাস্ট কতগুলো খণ্ডে বিভক্ত হয়?\n   - a) ৮-১০টি\n   - b) ১৬-৬৪টি\n   - c) ৭০-৮০টি\n   - d) ১০০-১৬০টি\n\n48. Ulothrix-এর জাইগোপট কতটি ফ্লাজেলা নিয়ে গঠিত?\n   - a) দুটি\n   - b) চারটি\n   - c) আটটি\n   - d) যোলটি\n\n### শৈক্ষণির জ্ঞান\n\n85. আংটি আকৃতির ক্রোরোপ্লাস্ট পাওয়া যায় নিচের কোনটিতে? {ঈ. ব. ১১}\n   - a) Spirogyra\n   - b) Oedogonium\n   - c) Volvox\n   - d) Ulothrix\n\n86. Ulothrix এর অযৌন জননের জুজ্জ্বল কতটি ফ্লাজেলা থাকে?\n   - a) ১টি\n   - b) ২টি\n   - c) ৩টি\n   - d) ৪টি\n\n87. একটি প্যামিট থেকে পূর্ণাঙ্গ Ulothrix তৈরির প্রক্রিয়া কোনটি?\n   - a) অ্যাপোস্পোর\n   - b) পার্শ্বনোজেনেসিস\n   - c) ডিপ্লেড পার্শ্বনোজেনেসিস\n   - d) ডিপ্লেড পার্শ্বনোজেনেসিস\n\n88. কোন উদ্ভিদের ক্রোরোপ্লাস্ট পারিনয়নযোগ্য থাকে? {ঈ. ব. ২০১৬}\n   - a) Nostoc\n   - b) Ulothrix\n   - c) Riccia\n   - d) Cycas\n\n89. Ulothrix sp. এ কোন প্রকার গ্যামিটের মিল?\n   - a) আইসোগ্যামাস\n   - b) আনাইসোগ্যামাস\n   - c) উপ্যামাস\n   - d) গ্যামিটোজেনেসিস\n\nছবিক : তুমিকা ও গঠন\n\n50. ছাতকের অগুলুখোলা একটে যে দেখা গণন করে তাকে কী বলে?\n   - a) হোলফাস্ট\n   - b) মাইনেলিয়াম\n   - c) হাইফি\n   - d) সিনোসাইট\n\n51. কোন ছাতকে Coenocyctic মাইনেলিয়াম থাকে?\n   - a) Penicillium\n   - b) Agaricus\n   - c) Aspergillus\n   - d) Mucor\n\n52. ছাতকের কোষ প্রাচীরের প্রধান উপাদান কোনটি? {ম. ব. ১৯-২০; ২০-২১; চ. ব. ১১}\n   - a) কাইটিন\n   - b) সেলুজ\n   - c) স্টার্ট\n   - d) গ্লাইকোজেন\n\n53. ছাতকের সাধারণ বৈশিষ্ট্য কোনটি? {দ. ব. ২০১৯}\n   - a) আলোর উপর নির্ভরশীল\n   - b) জনাদ্যু বহুকোষী\n   - c) পরিবর্তন টিস্যু আছে\n   - d) কোষ প্রাচীর কাইটিন নির্মিত\n\n54. কোন ছাতকটি জলজ? {ঈ. ব. ২০১৯}\n   - a) Saprolegnia\n   - b) Rhizopus\n   - c) Aspergillus\n   - d) Cercospora\n\n55. পরজীবী ছাতকের দোষক অপ হিসেবে ব্যবহৃত হয় কোনটি? {মে. ব. প. ১৬-১৭; দ. ব. ১১}\n   - a) রাইজওর্ফ\n   - b) হেস্টেরিয়াম\n   - c) আলুৎস\n   - d) স্টাইপ\n\n56. কোন উদ্ভিদের সক্ষম খাদ্য গ্লাইকোজেন?\n   - a) মস\n   - b) ফরান\n   - c) শৈবাল\n   - d) ছাত্রক\n\n57. ছাতকের জট পাকনোর অবচত্রকে কী বলে?\n   - a) হাইফা\n   - b) মাইনেলিয়াম\n   - c) রাইজয়েড\n   - d) সিনোসাইট\n\n58. প্রথাগত বীজন বহনিত্বক্রিয়াযুক্ত ছাতকের মাইনেলিয়ামকে কী বলে?\n   - a) হাইফা\n   - b) রাইজয়েড\n   - c) সিনোসাইট\n   - d) ডোম (আলী)\n\n59. কোন ছাতক অন্ধকারে আলোর বিচ্ছুরণ ঘটায়?\n   - a) Armillaria\n   - b) Dermea\n   - c) Penicillium\n   - d) Agaricus",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q29",
+          "content_markdown": "Ectocarpus এ কোন ধরনের অযৌন বংশোদ্ভূত যায়?",
+          "structured_data": {
+            "question_number": "29",
+            "subtype": "mcq_item",
+            "stem": "Ectocarpus এ কোন ধরনের অযৌন বংশোদ্ভূত যায়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "জুপ্পোর",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "হিমগ্লোস্পোর",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আটোফ্লোর",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অ্যাকিনিটি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d107f38d-0012-5f8f-95b2-493e1a12e80e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q30",
+          "content_markdown": "কোনটিতে পুরুষ সিদ্ধ দেখা যায়?",
+          "structured_data": {
+            "question_number": "30",
+            "subtype": "mcq_item",
+            "stem": "কোনটিতে পুরুষ সিদ্ধ দেখা যায়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Gloeotrichcea",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Microspora",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Ectocarpus",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Pediastrum",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "49d7cebc-06b9-586e-8a2e-98545cb8d844"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q31",
+          "content_markdown": "জীবের ভিত্তিগত যৌন কর্তৃক প্রকৃত কোন জনন?",
+          "structured_data": {
+            "question_number": "31",
+            "subtype": "mcq_item",
+            "stem": "জীবের ভিত্তিগত যৌন কর্তৃক প্রকৃত কোন জনন?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "দুই",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "চার",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "পাঁচ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d99e2fd0-6360-590a-b0dc-8f50ec16b2c1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q32",
+          "content_markdown": "কোনটি শৈক্ষণির অযৌন জনন?",
+          "structured_data": {
+            "question_number": "32",
+            "subtype": "mcq_item",
+            "stem": "কোনটি শৈক্ষণির অযৌন জনন?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "হরমোগনিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "খড়ভাণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বাড়িঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "জুপ্পোর",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0114da6e-67ca-5aa0-b2f5-ec3c6f5656ce"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q33",
+          "content_markdown": "ফ্লাজেলাবাই সেপারকে কী বলে? {দ. ব. ১৯-২০; ক. ব. ২০১৯}",
+          "structured_data": {
+            "question_number": "33",
+            "subtype": "mcq_item",
+            "stem": "ফ্লাজেলাবাই সেপারকে কী বলে? {দ. ব. ১৯-২০; ক. ব. ২০১৯}",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আপ্পোনোস্পোর",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "হিপনোস্পোর",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অ্যাকিনিটি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "জুপ্পোর",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "57691c44-3746-51d6-866e-4ed30f920c1d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q34",
+          "content_markdown": "বহুকোষী ফিলামেন্টস শৈক্ষণির অযৌন জননে ঘটে— {ঈ. ব. ২০১৯}",
+          "structured_data": {
+            "question_number": "34",
+            "subtype": "mcq_item",
+            "stem": "বহুকোষী ফিলামেন্টস শৈক্ষণির অযৌন জননে ঘটে— {ঈ. ব. ২০১৯}",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অ্যাপ্রোনোস্পোর",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "উৎপাদন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বিবিজান",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "খড়ভাণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "db348b6e-e640-5fc7-b310-26b836100aea"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q35",
+          "content_markdown": "পামেলা দশা সৃষ্টির শৈক্ষণির কোনটি?",
+          "structured_data": {
+            "question_number": "35",
+            "subtype": "mcq_item",
+            "stem": "পামেলা দশা সৃষ্টির শৈক্ষণির কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Chlamydomonas",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Volvox",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Chlorococcus",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Vaucheria",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7364f498-73b7-5b98-9a31-5833d976b537"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q36",
+          "content_markdown": "হরমোগনিয়া দ্বারা অযৌন জনন ঘটায় কোনটি?",
+          "structured_data": {
+            "question_number": "36",
+            "subtype": "mcq_item",
+            "stem": "হরমোগনিয়া দ্বারা অযৌন জনন ঘটায় কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Ulothrix",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Nostoc",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Spirogyra",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Gloeocapsa",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "44eb8a61-3473-5c09-af5d-d408d6524b50"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q37",
+          "content_markdown": "বহু ফ্লাজেলাবাই জুওন্স্পোর সৃষ্টি হয় কোন শৈক্ষণির?",
+          "structured_data": {
+            "question_number": "37",
+            "subtype": "mcq_item",
+            "stem": "বহু ফ্লাজেলাবাই জুওন্স্পোর সৃষ্টি হয় কোন শৈক্ষণির?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Chlamydomonas",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Oedogonium",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Vaucheria",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Spirogyra",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fa8e23c2-c830-5b10-99cf-1d1cd5110023"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q38",
+          "content_markdown": "যুগ্মনিক্ত টাইপ জীবচক্র ঘটে কোন শৈক্ষণির?",
+          "structured_data": {
+            "question_number": "38",
+            "subtype": "mcq_item",
+            "stem": "যুগ্মনিক্ত টাইপ জীবচক্র ঘটে কোন শৈক্ষণির?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Ulothrix",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Sargassum",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Urospora",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Coleochaete",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b4b5f06f-8f8b-505c-8b96-04b4c50dcd7b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q39",
+          "content_markdown": "কোন শৈক্ষণির হিপনোস্পোর সৃষ্টি হয়?",
+          "structured_data": {
+            "question_number": "39",
+            "subtype": "mcq_item",
+            "stem": "কোন শৈক্ষণির হিপনোস্পোর সৃষ্টি হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Ulothrix",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Vaucheria",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Nostoc",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Gloeocapsa",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7d9c440e-cc1f-5919-b366-0faeec43a6dc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q40",
+          "content_markdown": "অরামি ও কুমারবী শৈক্ষণির কোন ফাঁকে ব্যবহৃত হয়?",
+          "structured_data": {
+            "question_number": "40",
+            "subtype": "mcq_item",
+            "stem": "অরামি ও কুমারবী শৈক্ষণির কোন ফাঁকে ব্যবহৃত হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "জৈব সার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ওধু",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "মানুষের খাদ্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "মাছের খাদ্য",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0b037e0b-2f35-5fd5-9102-dd27b481f905"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q41",
+          "content_markdown": "Ulothrix-এর ক্রোরোপ্লাস্ট এর অযৌক্তি কোনটি? {ম. ব. প. ১৫-১৬}",
+          "structured_data": {
+            "question_number": "41",
+            "subtype": "mcq_item",
+            "stem": "Ulothrix-এর ক্রোরোপ্লাস্ট এর অযৌক্তি কোনটি? {ম. ব. প. ১৫-১৬}",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "পেয়ালা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "জালিকাকার",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সর্পিলকার",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ব্যাঢ অযৌক্তি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "27564674-d4af-5566-b776-ce4f2427ca7a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q42",
+          "content_markdown": "ইউলাথ্রিক্স-এ মায়োসিস ঘটে-",
+          "structured_data": {
+            "question_number": "42",
+            "subtype": "mcq_item",
+            "stem": "ইউলাথ্রিক্স-এ মায়োসিস ঘটে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ফিলামেন্ট কোষে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "জাইগোপটে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "যোড়ফস্টে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "গ্যামিটে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "cdf5c55c-f92c-5ccd-aa31-d95c944966b6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q43",
+          "content_markdown": "Ulothrix-এর যৌন জননে কোষের প্রোটোগ্লাস্ট কতগুলো খণ্ডে বিভক্ত হয়?",
+          "structured_data": {
+            "question_number": "43",
+            "subtype": "mcq_item",
+            "stem": "Ulothrix-এর যৌন জননে কোষের প্রোটোগ্লাস্ট কতগুলো খণ্ডে বিভক্ত হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "৮-১০টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "১৬-৬৪টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "৭০-৮০টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "১০০-১৬০টি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5a3cb6a5-a69d-5b4b-b6c7-a2662361a254"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q48",
+          "content_markdown": "Ulothrix-এর জাইগোপট কতটি ফ্লাজেলা নিয়ে গঠিত?",
+          "structured_data": {
+            "question_number": "48",
+            "subtype": "mcq_item",
+            "stem": "Ulothrix-এর জাইগোপট কতটি ফ্লাজেলা নিয়ে গঠিত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "দুটি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "চারটি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আটটি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "যোলটি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2435283e-e47a-58a2-a562-bd8108972b12"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q85",
+          "content_markdown": "আংটি আকৃতির ক্রোরোপ্লাস্ট পাওয়া যায় নিচের কোনটিতে? {ঈ. ব. ১১}",
+          "structured_data": {
+            "question_number": "85",
+            "subtype": "mcq_item",
+            "stem": "আংটি আকৃতির ক্রোরোপ্লাস্ট পাওয়া যায় নিচের কোনটিতে? {ঈ. ব. ১১}",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Spirogyra",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Oedogonium",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Volvox",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Ulothrix",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "59324ffd-5b24-5a45-b250-0e8233f87c1a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q86",
+          "content_markdown": "Ulothrix এর অযৌন জননের জুজ্জ্বল কতটি ফ্লাজেলা থাকে?",
+          "structured_data": {
+            "question_number": "86",
+            "subtype": "mcq_item",
+            "stem": "Ulothrix এর অযৌন জননের জুজ্জ্বল কতটি ফ্লাজেলা থাকে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "১টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "২টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "৩টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "৪টি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "991c537d-3b31-5c33-b01a-5cf6dbc6b684"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q87",
+          "content_markdown": "একটি প্যামিট থেকে পূর্ণাঙ্গ Ulothrix তৈরির প্রক্রিয়া কোনটি?",
+          "structured_data": {
+            "question_number": "87",
+            "subtype": "mcq_item",
+            "stem": "একটি প্যামিট থেকে পূর্ণাঙ্গ Ulothrix তৈরির প্রক্রিয়া কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অ্যাপোস্পোর",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "পার্শ্বনোজেনেসিস",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ডিপ্লেড পার্শ্বনোজেনেসিস",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ডিপ্লেড পার্শ্বনোজেনেসিস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "caf6abe1-79bd-5c71-bce5-3eaa608f53f1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q88",
+          "content_markdown": "কোন উদ্ভিদের ক্রোরোপ্লাস্ট পারিনয়নযোগ্য থাকে? {ঈ. ব. ২০১৬}",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "mcq_item",
+            "stem": "কোন উদ্ভিদের ক্রোরোপ্লাস্ট পারিনয়নযোগ্য থাকে? {ঈ. ব. ২০১৬}",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Nostoc",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Ulothrix",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Riccia",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Cycas",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b81a44d6-48f8-5cc1-b7ad-fcb1422f5d34"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q89",
+          "content_markdown": "Ulothrix sp. এ কোন প্রকার গ্যামিটের মিল?\nছবিক : তুমিকা ও গঠন",
+          "structured_data": {
+            "question_number": "89",
+            "subtype": "mcq_item",
+            "stem": "Ulothrix sp. এ কোন প্রকার গ্যামিটের মিল?\nছবিক : তুমিকা ও গঠন",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আইসোগ্যামাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "আনাইসোগ্যামাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "উপ্যামাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "গ্যামিটোজেনেসিস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5af61ef6-cca1-553c-98bf-a2fddb9a2890"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q50",
+          "content_markdown": "ছাতকের অগুলুখোলা একটে যে দেখা গণন করে তাকে কী বলে?",
+          "structured_data": {
+            "question_number": "50",
+            "subtype": "mcq_item",
+            "stem": "ছাতকের অগুলুখোলা একটে যে দেখা গণন করে তাকে কী বলে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "হোলফাস্ট",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মাইনেলিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "হাইফি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সিনোসাইট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b82dfb74-931d-58fe-b196-c86c97abc415"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q51",
+          "content_markdown": "কোন ছাতকে Coenocyctic মাইনেলিয়াম থাকে?",
+          "structured_data": {
+            "question_number": "51",
+            "subtype": "mcq_item",
+            "stem": "কোন ছাতকে Coenocyctic মাইনেলিয়াম থাকে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Penicillium",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Agaricus",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Aspergillus",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Mucor",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "520f145d-35ec-5a42-a5b4-0a038206d6c9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q52",
+          "content_markdown": "ছাতকের কোষ প্রাচীরের প্রধান উপাদান কোনটি? {ম. ব. ১৯-২০; ২০-২১; চ. ব. ১১}",
+          "structured_data": {
+            "question_number": "52",
+            "subtype": "mcq_item",
+            "stem": "ছাতকের কোষ প্রাচীরের প্রধান উপাদান কোনটি? {ম. ব. ১৯-২০; ২০-২১; চ. ব. ১১}",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কাইটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সেলুজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "স্টার্ট",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "গ্লাইকোজেন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d85f03ab-3cc7-5ce3-a012-91586aaf7660"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q53",
+          "content_markdown": "ছাতকের সাধারণ বৈশিষ্ট্য কোনটি? {দ. ব. ২০১৯}",
+          "structured_data": {
+            "question_number": "53",
+            "subtype": "mcq_item",
+            "stem": "ছাতকের সাধারণ বৈশিষ্ট্য কোনটি? {দ. ব. ২০১৯}",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আলোর উপর নির্ভরশীল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "জনাদ্যু বহুকোষী",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পরিবর্তন টিস্যু আছে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোষ প্রাচীর কাইটিন নির্মিত",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7e607e38-e6d5-5986-b666-cad125137ccc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q54",
+          "content_markdown": "কোন ছাতকটি জলজ? {ঈ. ব. ২০১৯}",
+          "structured_data": {
+            "question_number": "54",
+            "subtype": "mcq_item",
+            "stem": "কোন ছাতকটি জলজ? {ঈ. ব. ২০১৯}",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Saprolegnia",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Rhizopus",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Aspergillus",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Cercospora",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7d59b7f5-4bea-51c3-aabb-2784061508ad"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q55",
+          "content_markdown": "পরজীবী ছাতকের দোষক অপ হিসেবে ব্যবহৃত হয় কোনটি? {মে. ব. প. ১৬-১৭; দ. ব. ১১}",
+          "structured_data": {
+            "question_number": "55",
+            "subtype": "mcq_item",
+            "stem": "পরজীবী ছাতকের দোষক অপ হিসেবে ব্যবহৃত হয় কোনটি? {মে. ব. প. ১৬-১৭; দ. ব. ১১}",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "রাইজওর্ফ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "হেস্টেরিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আলুৎস",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "স্টাইপ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1f6cffd3-cfc9-5ed5-acad-0778dd0f7191"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q56",
+          "content_markdown": "কোন উদ্ভিদের সক্ষম খাদ্য গ্লাইকোজেন?",
+          "structured_data": {
+            "question_number": "56",
+            "subtype": "mcq_item",
+            "stem": "কোন উদ্ভিদের সক্ষম খাদ্য গ্লাইকোজেন?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মস",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ফরান",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "শৈবাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ছাত্রক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "be79d136-15a7-551b-bc54-337b2bdc99c3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q57",
+          "content_markdown": "ছাতকের জট পাকনোর অবচত্রকে কী বলে?",
+          "structured_data": {
+            "question_number": "57",
+            "subtype": "mcq_item",
+            "stem": "ছাতকের জট পাকনোর অবচত্রকে কী বলে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "হাইফা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মাইনেলিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রাইজয়েড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সিনোসাইট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ea7ad363-9b5b-5e53-9b6e-9a2983810a91"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q58",
+          "content_markdown": "প্রথাগত বীজন বহনিত্বক্রিয়াযুক্ত ছাতকের মাইনেলিয়ামকে কী বলে?",
+          "structured_data": {
+            "question_number": "58",
+            "subtype": "mcq_item",
+            "stem": "প্রথাগত বীজন বহনিত্বক্রিয়াযুক্ত ছাতকের মাইনেলিয়ামকে কী বলে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "হাইফা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "রাইজয়েড",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সিনোসাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ডোম (আলী)",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3df2d487-56c9-5f54-a310-f80320777870"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q59",
+          "content_markdown": "কোন ছাতক অন্ধকারে আলোর বিচ্ছুরণ ঘটায়?",
+          "structured_data": {
+            "question_number": "59",
+            "subtype": "mcq_item",
+            "stem": "কোন ছাতক অন্ধকারে আলোর বিচ্ছুরণ ঘটায়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Armillaria",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Dermea",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Penicillium",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Agaricus",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f88ec05a-1e04-53d2-9dd3-bd1f525abbb8"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 31,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 53.68,
+        "eval_count": 3413
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### জীববিজ্ঞান প্রথম পত্র\n\n#### ৬০. বংদা নেই, এম উডি হলে—(যেধিকে: ১৩-১৪)\n- a) ছাওক \n- b) ব্যাকটেরিয়া \n- c) শৈবাল  \n- d) মস \n\n#### ৬১. ছাওকের সফলতা খাদ্য—(যেধিকে: ১২-১৩)\n- a) সেলুলোজ \n- b) চর্বি ও প্রোটিন \n- c) গ্লাইকোজেন ও সেলুলোজ \n- d) গ্লাইকোজেন ও তৈল বিন্দু  \n\n#### ৬২. নিচের উল্লিখিত কোন পদ্ধতিতে ছাওক বংশগতি করে না? (তেজলে: ০৭-০৮)\n- a) ফিবিভাজন \n- b) যৌন প্রজনন \n- c) অযৌন প্রজনন \n- d) মাইটোসিস \n\n#### ৬৩. ফণজাই-এর নৈশিষ্ট কোনটি নয়? (যেধিকে: ০৬-০৭)\n- a) সালোকসংশ্রেষণকারী রংক পদার্থ নেই \n- b) অধিকাংশই বহুকোষী \n- c) এর প্রধানত মৃতজীবী \n- d) কোষথাটির সেলুলোজ নির্মিত \n\n#### ৬৪. কোন ছাওকের বৈশিষ্ট্য নয়? (যেধিকে: ০৮-০৫)\n- a) সালোকসংশ্রেষণে অক্ষম \n- b) এর পরজীবী হিসেবে বাস করে \n- c) এদের জন্মান্ড এককোষী \n- d) এদের পরিবর্তনশীল খুব সক্রিয় \n\n#### ৬৫. কোনটি ফণজাই এর নৈশিষ্ট নয়? (যেধিকে: ০০-০৮)\n- a) পরবর্তী পরিবর্তনে এককোষী \n- b) খাদ্য এগ্রণ পদ্ধতি শোষণ \n- c) এরা সুকেন্দ্রিক \n- d) এরা মূলত জলজ \n\n#### ৬৬. প্রচুরাণবিহীন ও বছকেন্দ্রিক বিশিষ্ট উদ্ভিদের দেখে কোনটি?\n- a) সিনোসাইট \n- b) লিউকোসাইট \n- c) প্যারাসাইট \n- d) গ্যামেটোফাইট \n\n#### ৬৭. মাশরুম নিচের কোন প্রেরণ অন্তর্ভুক্ত?\n- a) Ascomycetes \n- b) Basidiomycetes \n- c) Deuteromycetes \n- d) Zygomycetes \n\n#### ৬৮. ছাওকের সাধারণ বৈশিষ্ট্য কোনটি?\n- a) আলোর উপর নির্ভরশীল \n- b) জন্মান্ড বহুকোষী \n- c) পরিবর্তন তিন্তু আছে \n- d) কোষথাটির কাইটিন নির্মিত \n\n### ছাওকের জ্ঞান\n\n#### ৬৯. বাড়ি-এর সময় ছাওকের মাতৃকোষের নিউক্লিয়াসটি কোন প্রক্রিয়ায় বিভক্ত হয়?\n- a) ময়োসিস \n- b) দ্বিভাজন \n- c) অ্যামাইটোসিস \n- d) মাইটোসিস \n\n### শৈবাল ও ছাওক\n\n#### ৭০. ফীসের সাহায্যে ছাওকের উৎপাদের অঙ্কুরোদগম ঘটে?\n- a) প্রোটোপ্লাস্ট \n- b) জার্মানালি \n- c) কনিডিওফোর \n- d) চলরেণু \n\n#### ৭১. ব্যাবহিত ছাওকের রেণু কি সৃষ্টি করে?\n- a) অ্যালার্জি \n- b) দাঁদ \n- c) খাসনালির প্রদাহ \n- d) ফিডিনার রোগ \n\n#### ৭২. ছাওকের কনিডিওর সক্রিয় বন্ধ কী? (স্ন. বো. ২০১৬)\n- a) সেলুলোজ \n- b) গ্লাইকোজেন \n- c) তৈলবিন্দু \n- d) স্টার্চ \n\n#### ৭৩. ছাওকের যৌন জননের ধাপ কয়টি? (দি. বো. ১৬)\n- a) ২ \n- b) ৩ \n- c) ৪ \n- d) ৫ \n\n#### ৭৪. কোন ছাওকের মূলত আণুবীক্ষিক জ্ঞান অন্ত বেশিদিয়াম ঠাকে?\n- a) Candida \n- b) Agaricus \n- c) Rhizopus \n- d) Mucor \n\n#### ৭৫. নিচের কোনটি আইডিয়া স্থির মাধ্যমে অযৌন জনন ঘটায়?\n- a) Rhizopus \n- b) Penicillium \n- c) Aspergillus \n- d) Saprolegnia \n\n#### ৭৬. নিচের কোনটি ছাওকের যৌন প্রক্রিয়া?\n- a) কনিডিও সৃষ্টি \n- b) জুল্পের সৃষ্টি \n- c) কোরকোদাগম \n- d) প্রাজমোগ্যামি \n\n### ছাওকের গুরুত্ব\n\n#### ৭৭. নিচের কোনটি গোল আলুর কিষ্কিত ধাঙ্গা রোগের প্রাথমেজন?\n(স্ন. বো., ঢ. বো., ব. বো., ২০১৬; ব. বো, ২০১৫)\n- a) Trichophyton \n- b) Microsporum \n- c) Phytophthora \n- d) Xanthomonus \n\n#### ৭৮. আলুর কিষ্কিত ধাঙ্গা রোগে কোনটি ব্যবহার করা হয়নি? (বো. ২০১৬, ২০১৫)\n- a) ১% বোর্ডো মিশ্রণ \n- b) ১% বার্গেন্ডি মিশ্রণ \n- c) ৩% সোডিয়াম \n- d) ৩% ম্যাপেনেসিয়াম \n\n#### ৭৯. সাইক্লোপোরিন ওয়াথ তৈরি করা হয় কোন ছাওক থেকে?\n- a) Tolypocladium \n- b) Agaricus \n- c) Penicillium \n- d) Gibberella \n\n## Q60\n**Type:** mcq\n**Stem:** বংদা নেই, এম উডি হলে—(যেধিকে: 13-14)\n**Options:** - a) ছাওক , - b) ব্যাকটেরিয়া , - c) শৈবাল , - d) মস\n**Answer:** ছাওক\n**Solution:** বংদা নেই এবং এম উডি হলে, এটি একটি বৈশিষ্ট্য যা ছাওকের ক্ষেত্রে দেখা যায়। বংদা নেই এবং এম উডি হলে, এটি ছাওকের ক্ষেত্রে দেখা যায়।\n**Tags:** NONE\n\n## Q61\n**Type:** mcq\n**Stem:** ছাওকের সফলতা খাদ্য—(যেধিকে: 12-13)\n**Options:** - a) সেলুলোজ , - b) চর্বি ও প্রোটিন , - c) গ্লাইকোজেন ও সেলুলোজ , - d) গ্লাইকোজেন ও তৈল বিন্দু\n**Answer:** গ্লাইকোজেন ও সেলুলোজ\n**Solution:** ছাওকের সফলতা খাদ্য হচ্ছে গ্লাইকোজেন ও সেলুলোজ।\n**Tags:** NONE\n\n## Q62\n**Type:** mcq\n**Stem:** নিচের উল্লিখিত কোন পদ্ধতিতে ছাওক বংশগতি করে না? (তেজলে: 07-08)\n**Options:** - a) ফিবিভাজন , - b) যৌন প্রজনন , - c) অযৌন প্রজনন , - d) মাইটোসিস\n**Answer:** অযৌন প্রজনন\n**Solution:** ছাওক বংশগতি করতে পারে ফিবিভাজন, যৌন প্রজনন এবং মাইটোসিস পদ্ধতিতে। অযৌন প্রজনন ছাওকের বংশগতি করতে পারে না।\n**Tags:** NONE",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "৬০. বংদা নেই, এম উডি হলে—(যেধিকে: ১৩-১৪)",
+          "content_markdown": "- a) ছাওক \n- b) ব্যাকটেরিয়া \n- c) শৈবাল  \n- d) মস",
+          "structured_data": {},
+          "id": "f73e16a1-e3da-56e8-b869-c46747d34343"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৬১. ছাওকের সফলতা খাদ্য—(যেধিকে: ১২-১৩)",
+          "content_markdown": "- a) সেলুলোজ \n- b) চর্বি ও প্রোটিন \n- c) গ্লাইকোজেন ও সেলুলোজ \n- d) গ্লাইকোজেন ও তৈল বিন্দু",
+          "structured_data": {},
+          "id": "7bb6b7f0-f634-5f3c-9590-53752f853197"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৬২. নিচের উল্লিখিত কোন পদ্ধতিতে ছাওক বংশগতি করে না? (তেজলে: ০৭-০৮)",
+          "content_markdown": "- a) ফিবিভাজন \n- b) যৌন প্রজনন \n- c) অযৌন প্রজনন \n- d) মাইটোসিস",
+          "structured_data": {},
+          "id": "bb7287b7-28c6-536c-bed4-8c367145edb7"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৬৩. ফণজাই-এর নৈশিষ্ট কোনটি নয়? (যেধিকে: ০৬-০৭)",
+          "content_markdown": "- a) সালোকসংশ্রেষণকারী রংক পদার্থ নেই \n- b) অধিকাংশই বহুকোষী \n- c) এর প্রধানত মৃতজীবী \n- d) কোষথাটির সেলুলোজ নির্মিত",
+          "structured_data": {},
+          "id": "16a6d5a9-16f3-5e09-a41c-a34cb237850a"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৬৪. কোন ছাওকের বৈশিষ্ট্য নয়? (যেধিকে: ০৮-০৫)",
+          "content_markdown": "- a) সালোকসংশ্রেষণে অক্ষম \n- b) এর পরজীবী হিসেবে বাস করে \n- c) এদের জন্মান্ড এককোষী \n- d) এদের পরিবর্তনশীল খুব সক্রিয়",
+          "structured_data": {},
+          "id": "60ef3322-92c9-58fd-a121-e4b6e31a4de6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৬৫. কোনটি ফণজাই এর নৈশিষ্ট নয়? (যেধিকে: ০০-০৮)",
+          "content_markdown": "- a) পরবর্তী পরিবর্তনে এককোষী \n- b) খাদ্য এগ্রণ পদ্ধতি শোষণ \n- c) এরা সুকেন্দ্রিক \n- d) এরা মূলত জলজ",
+          "structured_data": {},
+          "id": "b378868f-e7da-5228-9700-145b5a73657f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৬৬. প্রচুরাণবিহীন ও বছকেন্দ্রিক বিশিষ্ট উদ্ভিদের দেখে কোনটি?",
+          "content_markdown": "- a) সিনোসাইট \n- b) লিউকোসাইট \n- c) প্যারাসাইট \n- d) গ্যামেটোফাইট",
+          "structured_data": {},
+          "id": "948e3796-0851-53cf-befa-e8a518a971cc"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৬৭. মাশরুম নিচের কোন প্রেরণ অন্তর্ভুক্ত?",
+          "content_markdown": "- a) Ascomycetes \n- b) Basidiomycetes \n- c) Deuteromycetes \n- d) Zygomycetes",
+          "structured_data": {},
+          "id": "d778b524-ec66-57bc-8f05-4b4d9e3acd8f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৬৮. ছাওকের সাধারণ বৈশিষ্ট্য কোনটি?",
+          "content_markdown": "- a) আলোর উপর নির্ভরশীল \n- b) জন্মান্ড বহুকোষী \n- c) পরিবর্তন তিন্তু আছে \n- d) কোষথাটির কাইটিন নির্মিত",
+          "structured_data": {},
+          "id": "674fc5b7-15af-550c-a3f2-465bd328c6e9"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৬৯. বাড়ি-এর সময় ছাওকের মাতৃকোষের নিউক্লিয়াসটি কোন প্রক্রিয়ায় বিভক্ত হয়?",
+          "content_markdown": "- a) ময়োসিস \n- b) দ্বিভাজন \n- c) অ্যামাইটোসিস \n- d) মাইটোসিস",
+          "structured_data": {},
+          "id": "5c1ee0c6-fbef-58be-ad5e-dfb35d20edd2"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৭০. ফীসের সাহায্যে ছাওকের উৎপাদের অঙ্কুরোদগম ঘটে?",
+          "content_markdown": "- a) প্রোটোপ্লাস্ট \n- b) জার্মানালি \n- c) কনিডিওফোর \n- d) চলরেণু",
+          "structured_data": {},
+          "id": "7252a935-9eca-5c1f-86ba-2abb767af918"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৭১. ব্যাবহিত ছাওকের রেণু কি সৃষ্টি করে?",
+          "content_markdown": "- a) অ্যালার্জি \n- b) দাঁদ \n- c) খাসনালির প্রদাহ \n- d) ফিডিনার রোগ",
+          "structured_data": {},
+          "id": "49b57e47-418e-5233-93d0-ceb2e44ce124"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৭২. ছাওকের কনিডিওর সক্রিয় বন্ধ কী? (স্ন. বো. ২০১৬)",
+          "content_markdown": "- a) সেলুলোজ \n- b) গ্লাইকোজেন \n- c) তৈলবিন্দু \n- d) স্টার্চ",
+          "structured_data": {},
+          "id": "40611010-53d3-509d-882f-03c882f4b297"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৭৩. ছাওকের যৌন জননের ধাপ কয়টি? (দি. বো. ১৬)",
+          "content_markdown": "- a) ২ \n- b) ৩ \n- c) ৪ \n- d) ৫",
+          "structured_data": {},
+          "id": "2ca8991b-ac6b-50fd-8b0a-85d8c5c49e86"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৭৪. কোন ছাওকের মূলত আণুবীক্ষিক জ্ঞান অন্ত বেশিদিয়াম ঠাকে?",
+          "content_markdown": "- a) Candida \n- b) Agaricus \n- c) Rhizopus \n- d) Mucor",
+          "structured_data": {},
+          "id": "b454edc8-0018-5b36-8fbb-f323aad60a72"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৭৫. নিচের কোনটি আইডিয়া স্থির মাধ্যমে অযৌন জনন ঘটায়?",
+          "content_markdown": "- a) Rhizopus \n- b) Penicillium \n- c) Aspergillus \n- d) Saprolegnia",
+          "structured_data": {},
+          "id": "8509d132-6e25-50a9-8699-c17e443d95ee"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৭৬. নিচের কোনটি ছাওকের যৌন প্রক্রিয়া?",
+          "content_markdown": "- a) কনিডিও সৃষ্টি \n- b) জুল্পের সৃষ্টি \n- c) কোরকোদাগম \n- d) প্রাজমোগ্যামি",
+          "structured_data": {},
+          "id": "a134d3c7-c554-5bf1-b067-d411ed58bde1"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৭৭. নিচের কোনটি গোল আলুর কিষ্কিত ধাঙ্গা রোগের প্রাথমেজন?",
+          "content_markdown": "(স্ন. বো., ঢ. বো., ব. বো., ২০১৬; ব. বো, ২০১৫)\n- a) Trichophyton \n- b) Microsporum \n- c) Phytophthora \n- d) Xanthomonus",
+          "structured_data": {},
+          "id": "e6bcd65e-c390-5700-b0eb-ecabf7a62117"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৭৮. আলুর কিষ্কিত ধাঙ্গা রোগে কোনটি ব্যবহার করা হয়নি? (বো. ২০১৬, ২০১৫)",
+          "content_markdown": "- a) ১% বোর্ডো মিশ্রণ \n- b) ১% বার্গেন্ডি মিশ্রণ \n- c) ৩% সোডিয়াম \n- d) ৩% ম্যাপেনেসিয়াম",
+          "structured_data": {},
+          "id": "d1983705-20fa-5e30-b395-024f103a618b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "৭৯. সাইক্লোপোরিন ওয়াথ তৈরি করা হয় কোন ছাওক থেকে?",
+          "content_markdown": "- a) Tolypocladium \n- b) Agaricus \n- c) Penicillium \n- d) Gibberella",
+          "structured_data": {},
+          "id": "79a84a91-1490-5453-ae40-1ee2904476fd"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q60",
+          "content_markdown": "বংদা নেই, এম উডি হলে—(যেধিকে: 13-14)",
+          "structured_data": {
+            "question_number": "60",
+            "subtype": "mcq",
+            "stem": "বংদা নেই, এম উডি হলে—(যেধিকে: 13-14)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ছাওক , - b) ব্যাকটেরিয়া , - c) শৈবাল , - d) মস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "ছাওক",
+            "solution_markdown": "বংদা নেই এবং এম উডি হলে, এটি একটি বৈশিষ্ট্য যা ছাওকের ক্ষেত্রে দেখা যায়। বংদা নেই এবং এম উডি হলে, এটি ছাওকের ক্ষেত্রে দেখা যায়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e93e11cf-2cfd-5a60-8cbe-76b417a7bee6"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q61",
+          "content_markdown": "ছাওকের সফলতা খাদ্য—(যেধিকে: 12-13)",
+          "structured_data": {
+            "question_number": "61",
+            "subtype": "mcq",
+            "stem": "ছাওকের সফলতা খাদ্য—(যেধিকে: 12-13)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সেলুলোজ , - b) চর্বি ও প্রোটিন , - c) গ্লাইকোজেন ও সেলুলোজ , - d) গ্লাইকোজেন ও তৈল বিন্দু",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "গ্লাইকোজেন ও সেলুলোজ",
+            "solution_markdown": "ছাওকের সফলতা খাদ্য হচ্ছে গ্লাইকোজেন ও সেলুলোজ।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "41bdd91e-7a1a-5bd7-8641-6e1506c58b24"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q62",
+          "content_markdown": "নিচের উল্লিখিত কোন পদ্ধতিতে ছাওক বংশগতি করে না? (তেজলে: 07-08)",
+          "structured_data": {
+            "question_number": "62",
+            "subtype": "mcq",
+            "stem": "নিচের উল্লিখিত কোন পদ্ধতিতে ছাওক বংশগতি করে না? (তেজলে: 07-08)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ফিবিভাজন , - b) যৌন প্রজনন , - c) অযৌন প্রজনন , - d) মাইটোসিস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "অযৌন প্রজনন",
+            "solution_markdown": "ছাওক বংশগতি করতে পারে ফিবিভাজন, যৌন প্রজনন এবং মাইটোসিস পদ্ধতিতে। অযৌন প্রজনন ছাওকের বংশগতি করতে পারে না।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1eec780d-41ed-51c2-a78d-9f9468ae9ef0"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 23,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc7",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 131.68,
+        "eval_count": 3377
+      }
+    },
+    {
+      "page_number": 4,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q82\n**Type:** mcq\n**Stem:** আগারিকাস এর জনন দেহ কোনটি?\n**Options:** \n- a) মাইসেলিয়াম\n- b) ফুটকডি\n- c) রাইজয়েড\n- d) রাইজোমফ\n\n**Answer:** - a)\n\n**Solution:** আগারিকাস এর জনন দেহ হচ্ছে মাইসেলিয়াম। \n\n**Tags:** 13-111, শৈলীবাল ও চত্রাক\n\n### Q83\n**Type:** mcq\n**Stem:** কোনটি Agaricus এর ফুটবডির অংশ? (দ. খ. ২০১৯)\n**Options:** \n- a) ইতুগিয়াম\n- b) অ্যানুলাস\n- c) স্টেমিয়াম\n- d) রাইজোমফ\n\n**Answer:** - c)\n\n**Solution:** Agaricus এর ফুটবডির অংশ হচ্ছে স্টেমিয়াম।\n\n**Tags:** অধিকরণ, শৈলীবাল ও মাজেনা\n\n### Q84\n**Type:** mcq\n**Stem:** Agaricus এর ফুটবডির নাম কী? (দ. খ. ২০১৯)\n**Options:** \n- a) ব্যাসিডওকার্গ\n- b) কনিডিয়োফোর\n- c) অ্যাসকোকার্গ\n- d) রাইজোমফ\n\n**Answer:** - b)\n\n**Solution:** Agaricus এর ফুটবডির নাম হচ্ছে কনিডিয়োফোর।\n\n**Tags:** অধিকরণ, শৈলীবাল ও মাজেনা\n\n### Q85\n**Type:** mcq\n**Stem:** কোন উড়িদের ব্যাসিডিওস্পোর তৈরি করে? (দ. খ. ২০১৯)\n**Options:** \n- a) Pteris sp.\n- b) Penicillium sp.\n- c) Agaricus sp.\n- d) Riccia sp.\n\n**Answer:** - c)\n\n**Solution:** কোন উড়িদের ব্যাসিডিওস্পোর তৈরি করে Agaricus sp.\n\n**Tags:** অধিকরণ, শৈলীবাল ও মাজেনা\n\n### Q86\n**Type:** mcq\n**Stem:** নিচের কোন অংশে Agaricus-এর ব্যাসিডিওম উৎপন্ন হয়গাঁ? (দ. খ. ২০১৬)\n**Options:** \n- a) স্ট্রিটপ\n- b) অ্যানুলাস\n- c) পাইলিয়াস\n- d) গিল\n\n**Answer:** - c)\n\n**Solution:** Agaricus-এর ব্যাসিডিওম উৎপন্ন হয়গাঁ পাইলিয়াসে।\n\n**Tags:** অধিকরণ, শৈলীবাল ও মাজেনা\n\n### Q87\n**Type:** mcq\n**Stem:** Agaricus-এর ছাতার মতো অংশের নাম কী?\n**Options:** \n- a) মাইসেলিয়াম\n- b) স্ট্রিটপ\n- c) রাইজোমফ\n- d) পাইলিয়াস\n\n**Answer:** - d)\n\n**Solution:** Agaricus-এর ছাতার মতো অংশের নাম হচ্ছে পাইলিয়াস।\n\n**Tags:** অধিকরণ, শৈলীবাল ও মাজেনা\n\n### Q88\n**Type:** mcq\n**Stem:** Agaricus-এর প্রতিটি ব্যাসিডিওম থেকে কতটি ব্যাসিডিওস্পোর উৎপন্ন হয়? (দ. খ. ১৯)\n**Options:** \n- a) 1\n- b) 2\n- c) 8\n- d) 8\n\n**Answer:** - c)\n\n**Solution:** Agaricus-এর প্রতিটি ব্যাসিডিওম থেকে 8টি ব্যাসিডিওস্পোর উৎপন্ন হয়।\n\n**Tags:** অধিকরণ, শৈলীবাল ও মাজেনা\n\n### Q89\n**Type:** mcq\n**Stem:** Agaricus এর ব্যাষ্টি অংশে কী বলে?\n**Options:** \n- a) পাইলিয়াস\n- b) মাইসেলিয়াম\n- c) ব্যাসিডওকার্গ\n- d) ল্যামিলা\n\n**Answer:** - b)\n\n**Solution:** Agaricus এর ব্যাষ্টি অংশে মাইসেলিয়াম বলে।\n\n**Tags:** অধিকরণ, শৈলীবাল ও মাজেনা\n\n### Q90\n**Type:** mcq\n**Stem:** Agaricus এর সঠিক খাদ্য কোনটি? (অধিকরণ: ১৪-১৫)\n**Options:** \n- a) গ্লাইকোজেন\n- b) স্টার্ট\n- c) সেলুলোজ\n- d) টেইল বিন্দু\n\n**Answer:** - c)\n\n**Solution:** Agaricus এর সঠিক খাদ্য হচ্ছে সেলুলোজ।\n\n**Tags:** মাজেনা\n\n### Q91\n**Type:** mcq\n**Stem:** মাশরুমের মধ্যে নিচের কোন উপাদানটি অনুপস্থিত?\n(মৌলিকগত ১১-১২)\n**Options:** \n- a) প্রথম শ্রেণির আমিষ\n- b) স্টেক্স জাতীয় চর্বি\n- c) পলিস্যাকারাইড জাতীয় শর্করা\n- d) পেপটাইডোগ্লাইকান\n\n**Answer:** - d)\n\n**Solution:** মাশরুমের মধ্যে নিচের কোন উপাদানটি অনুপস্থিত হচ্ছে পেপটাইডোগ্লাইকান।\n\n**Tags:** মাজেনা\n\n### Q92\n**Type:** mcq\n**Stem:** লাইকেন শৈলীবাল ও ছত্রাকের সহাবস্থান কোনটি?\n**Options:** \n- a) মিথোজীবী\n- b) মৃতজীবী\n- c) পরজীবী\n- d) পরভোজী\n\n**Answer:** - c)\n\n**Solution:** লাইকেন শৈলীবাল ও ছত্রাকের সহাবস্থান হচ্ছে পরজীবী।\n\n**Tags:** অধিকরণ, শৈলীবাল ও মাজেনা\n\n### Q93\n**Type:** mcq\n**Stem:** কোনটি ফুটকডি লাইকেন?\n(দ. খ. ১৩)\n**Options:** \n- a) Cladonia\n- b) Lecanora\n- c) Physica\n- d) Permelia\n\n**Answer:** - b)\n\n**Solution:** কোনটি ফুটকডি লাইকেন হচ্ছে Lecanora।\n\n**Tags:** অধিকরণ, শৈলীবাল ও মাজেনা\n\n### Q94\n**Type:** mcq\n**Stem:** লাইকেন থেকে কী পাওয়া যায়?\n**Options:** \n- a) অ্যাসিটিক অ্যাসিড\n- b) উষ্ণিক অ্যাসিড\n- c) পামিটিক অ্যাসিড\n- d) অ্যাসিপারিটিক অ্যাসিড\n\n**Answer:** - c)\n\n**Solution:** লাইকেন থেকে পাওয়া যায় পামিটিক অ্যাসিড।\n\n**Tags:** অধিকরণ",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q82",
+          "content_markdown": "আগারিকাস এর জনন দেহ কোনটি?",
+          "structured_data": {
+            "question_number": "82",
+            "subtype": "mcq",
+            "stem": "আগারিকাস এর জনন দেহ কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মাইসেলিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ফুটকডি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রাইজয়েড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "রাইজোমফ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": "আগারিকাস এর জনন দেহ হচ্ছে মাইসেলিয়াম।",
+            "tags_raw": "13-111, শৈলীবাল ও চত্রাক",
+            "provenance": [
+              "13-111",
+              "শৈলীবাল ও চত্রাক"
+            ]
+          },
+          "id": "b350caaf-509a-5738-ac38-0c013f76a9c0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q83",
+          "content_markdown": "কোনটি Agaricus এর ফুটবডির অংশ? (দ. খ. ২০১৯)",
+          "structured_data": {
+            "question_number": "83",
+            "subtype": "mcq",
+            "stem": "কোনটি Agaricus এর ফুটবডির অংশ? (দ. খ. ২০১৯)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ইতুগিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অ্যানুলাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "স্টেমিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "রাইজোমফ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": "Agaricus এর ফুটবডির অংশ হচ্ছে স্টেমিয়াম।",
+            "tags_raw": "অধিকরণ, শৈলীবাল ও মাজেনা",
+            "provenance": [
+              "অধিকরণ",
+              "শৈলীবাল ও মাজেনা"
+            ]
+          },
+          "id": "60a730ba-3c0c-564f-b579-ceeeaf37d6cc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q84",
+          "content_markdown": "Agaricus এর ফুটবডির নাম কী? (দ. খ. ২০১৯)",
+          "structured_data": {
+            "question_number": "84",
+            "subtype": "mcq",
+            "stem": "Agaricus এর ফুটবডির নাম কী? (দ. খ. ২০১৯)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ব্যাসিডওকার্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কনিডিয়োফোর",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অ্যাসকোকার্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "রাইজোমফ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b)",
+            "solution_markdown": "Agaricus এর ফুটবডির নাম হচ্ছে কনিডিয়োফোর।",
+            "tags_raw": "অধিকরণ, শৈলীবাল ও মাজেনা",
+            "provenance": [
+              "অধিকরণ",
+              "শৈলীবাল ও মাজেনা"
+            ]
+          },
+          "id": "fad9ffe3-14fe-5e20-8c18-1d5e28e521d2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q85",
+          "content_markdown": "কোন উড়িদের ব্যাসিডিওস্পোর তৈরি করে? (দ. খ. ২০১৯)",
+          "structured_data": {
+            "question_number": "85",
+            "subtype": "mcq",
+            "stem": "কোন উড়িদের ব্যাসিডিওস্পোর তৈরি করে? (দ. খ. ২০১৯)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Pteris sp.",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Penicillium sp.",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Agaricus sp.",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Riccia sp.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": "কোন উড়িদের ব্যাসিডিওস্পোর তৈরি করে Agaricus sp.",
+            "tags_raw": "অধিকরণ, শৈলীবাল ও মাজেনা",
+            "provenance": [
+              "অধিকরণ",
+              "শৈলীবাল ও মাজেনা"
+            ]
+          },
+          "id": "6afaafda-ee5b-5de6-a51e-4a50403ee7e8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q86",
+          "content_markdown": "নিচের কোন অংশে Agaricus-এর ব্যাসিডিওম উৎপন্ন হয়গাঁ? (দ. খ. ২০১৬)",
+          "structured_data": {
+            "question_number": "86",
+            "subtype": "mcq",
+            "stem": "নিচের কোন অংশে Agaricus-এর ব্যাসিডিওম উৎপন্ন হয়গাঁ? (দ. খ. ২০১৬)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "স্ট্রিটপ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অ্যানুলাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পাইলিয়াস",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "গিল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": "Agaricus-এর ব্যাসিডিওম উৎপন্ন হয়গাঁ পাইলিয়াসে।",
+            "tags_raw": "অধিকরণ, শৈলীবাল ও মাজেনা",
+            "provenance": [
+              "অধিকরণ",
+              "শৈলীবাল ও মাজেনা"
+            ]
+          },
+          "id": "35fd823d-3766-5cb6-831f-5a318c7de7a5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q87",
+          "content_markdown": "Agaricus-এর ছাতার মতো অংশের নাম কী?",
+          "structured_data": {
+            "question_number": "87",
+            "subtype": "mcq",
+            "stem": "Agaricus-এর ছাতার মতো অংশের নাম কী?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মাইসেলিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "স্ট্রিটপ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রাইজোমফ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "পাইলিয়াস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- d)",
+            "solution_markdown": "Agaricus-এর ছাতার মতো অংশের নাম হচ্ছে পাইলিয়াস।",
+            "tags_raw": "অধিকরণ, শৈলীবাল ও মাজেনা",
+            "provenance": [
+              "অধিকরণ",
+              "শৈলীবাল ও মাজেনা"
+            ]
+          },
+          "id": "09f8bc59-3a8c-5d94-92da-4e328d03648d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q88",
+          "content_markdown": "Agaricus-এর প্রতিটি ব্যাসিডিওম থেকে কতটি ব্যাসিডিওস্পোর উৎপন্ন হয়? (দ. খ. ১৯)",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "mcq",
+            "stem": "Agaricus-এর প্রতিটি ব্যাসিডিওম থেকে কতটি ব্যাসিডিওস্পোর উৎপন্ন হয়? (দ. খ. ১৯)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "8",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "8",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": "Agaricus-এর প্রতিটি ব্যাসিডিওম থেকে 8টি ব্যাসিডিওস্পোর উৎপন্ন হয়।",
+            "tags_raw": "অধিকরণ, শৈলীবাল ও মাজেনা",
+            "provenance": [
+              "অধিকরণ",
+              "শৈলীবাল ও মাজেনা"
+            ]
+          },
+          "id": "a11fc3d5-b852-5174-997e-57478a8d3695"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q89",
+          "content_markdown": "Agaricus এর ব্যাষ্টি অংশে কী বলে?",
+          "structured_data": {
+            "question_number": "89",
+            "subtype": "mcq",
+            "stem": "Agaricus এর ব্যাষ্টি অংশে কী বলে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "পাইলিয়াস",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মাইসেলিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ব্যাসিডওকার্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ল্যামিলা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b)",
+            "solution_markdown": "Agaricus এর ব্যাষ্টি অংশে মাইসেলিয়াম বলে।",
+            "tags_raw": "অধিকরণ, শৈলীবাল ও মাজেনা",
+            "provenance": [
+              "অধিকরণ",
+              "শৈলীবাল ও মাজেনা"
+            ]
+          },
+          "id": "f53e1f9e-677b-514b-af10-e698f8ef6cc8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q90",
+          "content_markdown": "Agaricus এর সঠিক খাদ্য কোনটি? (অধিকরণ: ১৪-১৫)",
+          "structured_data": {
+            "question_number": "90",
+            "subtype": "mcq",
+            "stem": "Agaricus এর সঠিক খাদ্য কোনটি? (অধিকরণ: ১৪-১৫)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গ্লাইকোজেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "স্টার্ট",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সেলুলোজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "টেইল বিন্দু",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": "Agaricus এর সঠিক খাদ্য হচ্ছে সেলুলোজ।",
+            "tags_raw": "মাজেনা",
+            "provenance": [
+              "মাজেনা"
+            ]
+          },
+          "id": "60f246ba-edfd-5b71-a5e4-10b7f7a4c7e4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q91",
+          "content_markdown": "মাশরুমের মধ্যে নিচের কোন উপাদানটি অনুপস্থিত?\n(মৌলিকগত ১১-১২)",
+          "structured_data": {
+            "question_number": "91",
+            "subtype": "mcq",
+            "stem": "মাশরুমের মধ্যে নিচের কোন উপাদানটি অনুপস্থিত?\n(মৌলিকগত ১১-১২)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রথম শ্রেণির আমিষ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "স্টেক্স জাতীয় চর্বি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পলিস্যাকারাইড জাতীয় শর্করা",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "পেপটাইডোগ্লাইকান",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- d)",
+            "solution_markdown": "মাশরুমের মধ্যে নিচের কোন উপাদানটি অনুপস্থিত হচ্ছে পেপটাইডোগ্লাইকান।",
+            "tags_raw": "মাজেনা",
+            "provenance": [
+              "মাজেনা"
+            ]
+          },
+          "id": "82f690bd-6942-58e9-ab58-32f884716359"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q92",
+          "content_markdown": "লাইকেন শৈলীবাল ও ছত্রাকের সহাবস্থান কোনটি?",
+          "structured_data": {
+            "question_number": "92",
+            "subtype": "mcq",
+            "stem": "লাইকেন শৈলীবাল ও ছত্রাকের সহাবস্থান কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মিথোজীবী",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মৃতজীবী",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পরজীবী",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "পরভোজী",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": "লাইকেন শৈলীবাল ও ছত্রাকের সহাবস্থান হচ্ছে পরজীবী।",
+            "tags_raw": "অধিকরণ, শৈলীবাল ও মাজেনা",
+            "provenance": [
+              "অধিকরণ",
+              "শৈলীবাল ও মাজেনা"
+            ]
+          },
+          "id": "5fb03efe-dd8d-5f67-96dd-d7daa44e9573"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q93",
+          "content_markdown": "কোনটি ফুটকডি লাইকেন?\n(দ. খ. ১৩)",
+          "structured_data": {
+            "question_number": "93",
+            "subtype": "mcq",
+            "stem": "কোনটি ফুটকডি লাইকেন?\n(দ. খ. ১৩)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Cladonia",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Lecanora",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Physica",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Permelia",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b)",
+            "solution_markdown": "কোনটি ফুটকডি লাইকেন হচ্ছে Lecanora।",
+            "tags_raw": "অধিকরণ, শৈলীবাল ও মাজেনা",
+            "provenance": [
+              "অধিকরণ",
+              "শৈলীবাল ও মাজেনা"
+            ]
+          },
+          "id": "5c90efa4-3d16-534e-8d80-b17a8ab25e05"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q94",
+          "content_markdown": "লাইকেন থেকে কী পাওয়া যায়?",
+          "structured_data": {
+            "question_number": "94",
+            "subtype": "mcq",
+            "stem": "লাইকেন থেকে কী পাওয়া যায়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অ্যাসিটিক অ্যাসিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "উষ্ণিক অ্যাসিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পামিটিক অ্যাসিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অ্যাসিপারিটিক অ্যাসিড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": "লাইকেন থেকে পাওয়া যায় পামিটিক অ্যাসিড।",
+            "tags_raw": "অধিকরণ",
+            "provenance": [
+              "অধিকরণ"
+            ]
+          },
+          "id": "594c6223-0bb0-5d4a-9033-e8ee52bf2b5b"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 13,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 230.07,
+        "eval_count": 2662
+      }
+    }
+  ]
+}

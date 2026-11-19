@@ -1,0 +1,3511 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "14BbkgVj6l6LUge4DnJfgH-IQos3rsBgO",
+    "collection": "main_book_solution",
+    "subject": "physics",
+    "edition": "2023",
+    "priority_score": 2023092,
+    "path_parts": [
+      "অনুশীলনী MCQ সমাধান",
+      "* ভার্সন সেপ্টেম্বর-২৩",
+      "টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন",
+      "পদার্থবিজ্ঞান",
+      "P-2.7 ভৌত  আলোকবিজ্ঞান.pdf"
+    ],
+    "filename": "P-2.7 ভৌত  আলোকবিজ্ঞান.pdf",
+    "sha256": "63d4a379bbd20522483544fd62c1ceb02e35f77db3517381fe90869b975701c0",
+    "total_pages": 8,
+    "parsed_pages": 8,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 104,
+    "block_counts_by_type": {
+      "concept_prose": 21,
+      "mcq_item": 81,
+      "exercise_solution": 1,
+      "table": 1
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান তথ্যি পত্র\n\n#### 350\n##### ভৌত আলোকবিজ্ঞান\n\n## Q1\n**Type:** mcq\n**Stem:** পয়েন্টিং ভেক্টরের একটি কোণটি?\n**Options:** \n- a) Js m⁻¹\n- b) Js² m²\n- c) Js⁻¹m⁻²\n- d) Js⁻¹m²\n**Answer:** - c)\n\n## Q2\n**Type:** mcq\n**Stem:** পয়েন্টিং ভেক্টরের একটি হলো?\n**Options:** \n- a) Wm⁻¹\n- b) Wm⁻²\n- c) Wm⁻¹s⁻¹\n- d) Wm⁻¹s⁻¹\n**Answer:** - c)\n\n## Q3\n**Type:** mcq\n**Stem:** $(\\varepsilon_0 \\mu_0)^{\\frac{1}{2}}$ এর মান কোনটি?\n**Options:** \n- a) $8.85 \\times 10^{-12} C^2 N^{-1} m^{-2}$\n- b) $9 \\times 10^{9} Nm^{-2} C^2$\n- c) $4\\pi \\times 10^{-7}$ TmA⁻²\n- d) $3 \\times 10^{8}$ ms⁻¹\n**Answer:** - a)\n\n## Q4\n**Type:** mcq\n**Stem:** কোনটি চুম্বকীয় তরঙ্গদৈর্ঘ্য 3500 Å হলে এর কম্পাঙ্ক কত?\n**Options:** \n- a) $6.5 \\times 10^{14}$ Hz\n- b) $7.57 \\times 10^{15}$ Hz\n- c) $8.57 \\times 10^{14}$ Hz\n- d) $9.67 \\times 10^{14}$ Hz\n**Answer:** - c)\n\n## Q5\n**Type:** mcq\n**Stem:** মধ্যমের পরিবর্তন হলে আলোর বৈশিষ্ট্রের কী পরিবর্তন ঘটে?\n**Options:** \n- a) তরঙ্গদৈর্ঘ্য\n- b) কম্পাঙ্ক\n- c) বর্ণ\n- d) কোনোটি নয়\n**Answer:** - a)\n\n## Q6\n**Type:** mcq\n**Stem:** পয়েন্টিং ভেক্টর $\\vec S$ হলো-\n**Options:** \n- a) $\\overrightarrow E \\times \\overrightarrow H$\n- b) $\\overrightarrow H \\times \\overrightarrow E$\n- c) $\\overrightarrow E . \\overrightarrow H$\n- d) $\\overrightarrow H . \\overrightarrow E$\n**Answer:** - a)\n\n## Q7\n**Type:** mcq\n**Stem:** নিচের কোন তরঙ্গটির পোলারাইজ সভার নয়? (বা. দ্বো. ২০১৫)\n**Options:** \n- a) আলোর তরঙ্গ\n- b) পানি তরঙ্গ\n- c) বেতার তরঙ্গ\n- d) শব্দ তরঙ্গ\n**Answer:** - c)\n\n## Q8\n**Type:** mcq\n**Stem:** আলোক তরঙ্গের বেগের নিচের কোনটি মিখ্যা?\n**Options:** \n- a) এর তরঙ্গ দৈর্ঘ্য অতিক্রম কুষ্ঠ\n- b) ইহা একটি লক্ষিত তরঙ্গ\n- c) এর অতিক্রম চোখে অনুভূত হয়\n- d) এর সমবর্তন হতে পারে\n**Answer:** - c)\n\n## Q9\n**Type:** mcq\n**Stem:** প্রাথমিক বর্ণ নয়। কোনটি?\n**Options:** \n- a) লাল\n- b) সবুজ\n- c) বেগুনি\n- d) নীল\n**Answer:** - a)\n\n## Q10\n**Type:** mcq\n**Stem:** $\\in_{0}\\mu_{0}$ এর একটি নিচের কোনটির এককের সমান?\n**Options:** \n- a) (velocity)²\n- b) (velocity)½\n- c) $\\frac{1}{\\mathrm{velocity}}$\n- d) (velocity)⁻²\n**Answer:** - b)\n\n## Q11\n**Type:** mcq\n**Stem:** কোনটি সত্য নয়? (জ.বি. ২০১৬-১৭)\n**Options:** \n- a) আলোক এক প্রকার শক্তি\n- b) আলোকে তরঙ্গ প্রবাহের জন্য মাধ্যম প্রয়োজন হয়\n- c) আলো একটি তরঙ্গ\n- d) আলোর ভরবেগ আছে\n**Answer:** - a)\n\n## Q12\n**Type:** mcq\n**Stem:** আলোর অনুদৈর্ঘ্য এবং অনুপ্রস্থ উচ্চতা প্রকার তরঙ্গ সম্বন্ধ—(জ.বি. ২০১৩-১৪)\n**Options:** \n- a) বৃত্তিকার\n- b) অপবর্তন\n- c) সমবর্তন\n- d) কোনোটিই নয় (আমির হোসেন)\n**Answer:** - a)\n\n## Q13\n**Type:** mcq\n**Stem:** একটি কম্পানি ডিফকে আলোর সামনে ধরা হলো মেন আলো প্রতিফলিত হয়ে বিভিন্ন বর্ণের আলোকছাটা দেখা যায়। এর কারণ আলোর—(জ.বি. ২০১৪-১৫)\n**Options:** \n- a) বৃত্তিকার\n- b) অপবর্তন\n- c) সমবর্তন\n- d) কোনোটিই নয়\n**Answer:** - b)\n\n## Q14\n**Type:** mcq\n**Stem:** আলোর কোনটার নাম দেন কে? (জ.বি. ২০১৪-১৫)\n**Options:** \n- a) ম্যাক্স প্র্যাক\n- b) গিলবার্ট/লুইস\n- c) আইনস্টাইন\n- d) কোনোটিই নয়\n**Answer:** - a)\n\n## Q15\n**Type:** mcq\n**Stem:** $\\sqrt{\\mu_{0}}$ এর মাত্রা কত? [র. বি. ২০১৭-১৮]\n**Options:** \n- a) [LT⁻¹]\n- b) [L⁻¹T]\n- c) [L⁰T⁻²]\n- d) [L²T⁻¹]\n**Answer:** - b)\n\n## Q16\n**Type:** mcq\n**Stem:** শূন্য মাধ্যমে আলোর বেগ, কোনটি সত্যি? [সৌদিলে ২০০৫-০৬]\n**Options:** \n- a) $c = \\sqrt{\\epsilon_{0}\\mu_{0}}$\n- b) $c = \\dfrac{1}{\\sqrt{\\epsilon_{0}\\mu_{0}}}$\n- c) $c = \\sqrt{\\dfrac{\\epsilon_{0}}{\\mu_{0}}}$\n- d) $c = \\sqrt{\\dfrac{\\mu_{0}}{\\epsilon_{0}}}$\n**Answer:** - c)\n\n## Q17\n**Type:** mcq\n**Stem:** আলোর কপিকা তরঙ্গের প্রথমক কে? [স.বি. ২০১৭-১৮]\n**Options:** \n- a) টমাস ইয়ং\n- b) নিউটন\n- c) আইনস্টাইন\n- d) ম্যাক্স প্র্যাক\n**Answer:** - a)\n\n## Q18\n**Type:** mcq\n**Stem:** কোন বিজ্ঞানী সর্বপ্রথম আলোর তরঙ্গ তড়িৎ প্রবাহ করেন? [স.বি. ১৬-১৭]\n**Options:** \n- a) নিউটন\n- b) আইনস্টাইন\n- c) ম্যাকওয়েল\n- d) হাইগেন\n**Answer:** - c)\n\n## Q19\n**Type:** mcq\n**Stem:** শূন্য মাধ্যমে প্রবাহিত একটি সমতল তরঙ্গমুখের তড়িৎ চুম্বকীয় তরঙ্গের বিভিন্ন ও চৌম্বক ক্ষেত্রের বিভিন্নের অনুপাত E/B এর মান SI এককে হলো—[স.বি. ২০১৬-১৮]\n**Options:** \n- a) শূন্য তরঙ্গের কোণিক কম্পাঙ্ক ω\n- b) শূন্য মাধ্যমে তরঙ্গদৈর্ঘ্য λ\n- c) শূন্য মধ্যমে আলোর বেগ c\n- d) প্লাফের গ্রুবক h\n**Answer:** - c)\n\n## Q20\n**Type:** mcq\n**Stem:** পৃথিবীর চারপাশে যদি ব্যান্ডল না থাকতো, তাহলে পৃথিবী থেকে আকাশের রং কী রকম দেখা যেত?\n[BUE Admission Test.2006-07]\n**Options:** \n- a) সাদা\n- b) নীল\n- c) কালো\n- d) গোলাপি\n**Answer:** - a)\n\n## Q21\n**Type:** mcq\n**Stem:** বৃষ্টি দিনে পানির ওপর তেলের ফিঝিয়া সুন্দর সুন্দর রং দেখায়। [BUE Admission Test.2005-06]\n**Options:** \n- a) বিচ্ছুরণ\n- b) সমবর্তন\n- c) বাতিচার\n- d) অপবর্তন\n**Answer:** - b)\n\n## Q22\n**Type:** mcq\n**Stem:** আলোক তরঙ্গের মাধ্যমে সংগ্রহিত হয়-\n**Options:** \n- a) বেগ\n- b) তুরন্ত\n- c) ভরবেগ\n- d) শক্তি\n**Answer:** - c)\n\n## Q23\n**Type:** mcq\n**Stem:** তড়িৎচুম্বকীয় তরঙ্গ শূন্যাখান থেকে কোনো মাধ্যমে প্রবেশ করলে তার মেধমি অপরিবর্তিত থাকে তা হলো–\n**Options:** \n- a) বেগ\n- b) তরঙ্গদৈর্ঘ্য\n- c) কম্পাঙ্ক\n- d) বিস্তর\n**Answer:** - a)\n\n### Tags:\n- জ.বি.\n- আমির হোসেন",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "350",
+          "content_markdown": "##### ভৌত আলোকবিজ্ঞান",
+          "structured_data": {},
+          "id": "c6c4b73e-2f03-5634-8f4c-f8959a0f0136"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q1",
+          "content_markdown": "পয়েন্টিং ভেক্টরের একটি কোণটি?",
+          "structured_data": {
+            "question_number": "1",
+            "subtype": "mcq",
+            "stem": "পয়েন্টিং ভেক্টরের একটি কোণটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Js m⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Js² m²",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Js⁻¹m⁻²",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Js⁻¹m²",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "bec46395-c773-54e8-a9fd-a4f4a7643cf9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q2",
+          "content_markdown": "পয়েন্টিং ভেক্টরের একটি হলো?",
+          "structured_data": {
+            "question_number": "2",
+            "subtype": "mcq",
+            "stem": "পয়েন্টিং ভেক্টরের একটি হলো?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "Wm⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "Wm⁻²",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "Wm⁻¹s⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "Wm⁻¹s⁻¹",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "def3bc67-6239-59ac-9260-1e4f79f82eef"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q3",
+          "content_markdown": "$(\\varepsilon_0 \\mu_0)^{\\frac{1}{2}}$ এর মান কোনটি?",
+          "structured_data": {
+            "question_number": "3",
+            "subtype": "mcq",
+            "stem": "$(\\varepsilon_0 \\mu_0)^{\\frac{1}{2}}$ এর মান কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$8.85 \\times 10^{-12} C^2 N^{-1} m^{-2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$9 \\times 10^{9} Nm^{-2} C^2$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$4\\pi \\times 10^{-7}$ TmA⁻²",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$3 \\times 10^{8}$ ms⁻¹",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5c4fb426-f38f-5ed4-b414-8939110fce14"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q4",
+          "content_markdown": "কোনটি চুম্বকীয় তরঙ্গদৈর্ঘ্য 3500 Å হলে এর কম্পাঙ্ক কত?",
+          "structured_data": {
+            "question_number": "4",
+            "subtype": "mcq",
+            "stem": "কোনটি চুম্বকীয় তরঙ্গদৈর্ঘ্য 3500 Å হলে এর কম্পাঙ্ক কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$6.5 \\times 10^{14}$ Hz",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$7.57 \\times 10^{15}$ Hz",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$8.57 \\times 10^{14}$ Hz",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$9.67 \\times 10^{14}$ Hz",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "bc7f74e2-fda2-58d7-b8be-23194dd8c357"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q5",
+          "content_markdown": "মধ্যমের পরিবর্তন হলে আলোর বৈশিষ্ট্রের কী পরিবর্তন ঘটে?",
+          "structured_data": {
+            "question_number": "5",
+            "subtype": "mcq",
+            "stem": "মধ্যমের পরিবর্তন হলে আলোর বৈশিষ্ট্রের কী পরিবর্তন ঘটে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "তরঙ্গদৈর্ঘ্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কম্পাঙ্ক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বর্ণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোনোটি নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "74b2ad5b-8897-50f9-aa2d-219d32af0529"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q6",
+          "content_markdown": "পয়েন্টিং ভেক্টর $\\vec S$ হলো-",
+          "structured_data": {
+            "question_number": "6",
+            "subtype": "mcq",
+            "stem": "পয়েন্টিং ভেক্টর $\\vec S$ হলো-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\overrightarrow E \\times \\overrightarrow H$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\overrightarrow H \\times \\overrightarrow E$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\overrightarrow E . \\overrightarrow H$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\overrightarrow H . \\overrightarrow E$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c7da7f7c-8dd0-53c3-9709-1c86da869625"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q7",
+          "content_markdown": "নিচের কোন তরঙ্গটির পোলারাইজ সভার নয়? (বা. দ্বো. ২০১৫)",
+          "structured_data": {
+            "question_number": "7",
+            "subtype": "mcq",
+            "stem": "নিচের কোন তরঙ্গটির পোলারাইজ সভার নয়? (বা. দ্বো. ২০১৫)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আলোর তরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "পানি তরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বেতার তরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "শব্দ তরঙ্গ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "137d7042-3782-5461-a62e-70c3554ffd11"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q8",
+          "content_markdown": "আলোক তরঙ্গের বেগের নিচের কোনটি মিখ্যা?",
+          "structured_data": {
+            "question_number": "8",
+            "subtype": "mcq",
+            "stem": "আলোক তরঙ্গের বেগের নিচের কোনটি মিখ্যা?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "এর তরঙ্গ দৈর্ঘ্য অতিক্রম কুষ্ঠ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ইহা একটি লক্ষিত তরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "এর অতিক্রম চোখে অনুভূত হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "এর সমবর্তন হতে পারে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d21bcec7-684b-5d6c-988d-dd958c40c09c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q9",
+          "content_markdown": "প্রাথমিক বর্ণ নয়। কোনটি?",
+          "structured_data": {
+            "question_number": "9",
+            "subtype": "mcq",
+            "stem": "প্রাথমিক বর্ণ নয়। কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "লাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সবুজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বেগুনি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "নীল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6147878a-b83a-5e55-9390-40df9186630f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q10",
+          "content_markdown": "$\\in_{0}\\mu_{0}$ এর একটি নিচের কোনটির এককের সমান?",
+          "structured_data": {
+            "question_number": "10",
+            "subtype": "mcq",
+            "stem": "$\\in_{0}\\mu_{0}$ এর একটি নিচের কোনটির এককের সমান?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "(velocity)²",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "(velocity)½",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{1}{\\mathrm{velocity}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "(velocity)⁻²",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "558dbfec-c3e9-5564-8a3b-dec1fa82f130"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q11",
+          "content_markdown": "কোনটি সত্য নয়? (জ.বি. ২০১৬-১৭)",
+          "structured_data": {
+            "question_number": "11",
+            "subtype": "mcq",
+            "stem": "কোনটি সত্য নয়? (জ.বি. ২০১৬-১৭)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আলোক এক প্রকার শক্তি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "আলোকে তরঙ্গ প্রবাহের জন্য মাধ্যম প্রয়োজন হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আলো একটি তরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "আলোর ভরবেগ আছে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8c9d01f7-c8b6-58ae-b175-c31c7661a150"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q12",
+          "content_markdown": "আলোর অনুদৈর্ঘ্য এবং অনুপ্রস্থ উচ্চতা প্রকার তরঙ্গ সম্বন্ধ—(জ.বি. ২০১৩-১৪)",
+          "structured_data": {
+            "question_number": "12",
+            "subtype": "mcq",
+            "stem": "আলোর অনুদৈর্ঘ্য এবং অনুপ্রস্থ উচ্চতা প্রকার তরঙ্গ সম্বন্ধ—(জ.বি. ২০১৩-১৪)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বৃত্তিকার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অপবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সমবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোনোটিই নয় (আমির হোসেন)",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "36f60b18-c7b7-5ad3-942b-e13a3a7f00d0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q13",
+          "content_markdown": "একটি কম্পানি ডিফকে আলোর সামনে ধরা হলো মেন আলো প্রতিফলিত হয়ে বিভিন্ন বর্ণের আলোকছাটা দেখা যায়। এর কারণ আলোর—(জ.বি. ২০১৪-১৫)",
+          "structured_data": {
+            "question_number": "13",
+            "subtype": "mcq",
+            "stem": "একটি কম্পানি ডিফকে আলোর সামনে ধরা হলো মেন আলো প্রতিফলিত হয়ে বিভিন্ন বর্ণের আলোকছাটা দেখা যায়। এর কারণ আলোর—(জ.বি. ২০১৪-১৫)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বৃত্তিকার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অপবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সমবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোনোটিই নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6dc6e711-9cdd-5624-8bfe-24346f892d27"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q14",
+          "content_markdown": "আলোর কোনটার নাম দেন কে? (জ.বি. ২০১৪-১৫)",
+          "structured_data": {
+            "question_number": "14",
+            "subtype": "mcq",
+            "stem": "আলোর কোনটার নাম দেন কে? (জ.বি. ২০১৪-১৫)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ম্যাক্স প্র্যাক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "গিলবার্ট/লুইস",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আইনস্টাইন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোনোটিই নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4771d6fe-8d65-5ad1-8c3e-22313c6c609d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q15",
+          "content_markdown": "$\\sqrt{\\mu_{0}}$ এর মাত্রা কত? [র. বি. ২০১৭-১৮]",
+          "structured_data": {
+            "question_number": "15",
+            "subtype": "mcq",
+            "stem": "$\\sqrt{\\mu_{0}}$ এর মাত্রা কত? [র. বি. ২০১৭-১৮]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "[LT⁻¹]",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "[L⁻¹T]",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "[L⁰T⁻²]",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "[L²T⁻¹]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "cab01c07-5bf1-5e87-aff0-47c457574fcd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q16",
+          "content_markdown": "শূন্য মাধ্যমে আলোর বেগ, কোনটি সত্যি? [সৌদিলে ২০০৫-০৬]",
+          "structured_data": {
+            "question_number": "16",
+            "subtype": "mcq",
+            "stem": "শূন্য মাধ্যমে আলোর বেগ, কোনটি সত্যি? [সৌদিলে ২০০৫-০৬]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$c = \\sqrt{\\epsilon_{0}\\mu_{0}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$c = \\dfrac{1}{\\sqrt{\\epsilon_{0}\\mu_{0}}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$c = \\sqrt{\\dfrac{\\epsilon_{0}}{\\mu_{0}}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$c = \\sqrt{\\dfrac{\\mu_{0}}{\\epsilon_{0}}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6811e4e0-70ba-5698-bfe1-e0fec77d924f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q17",
+          "content_markdown": "আলোর কপিকা তরঙ্গের প্রথমক কে? [স.বি. ২০১৭-১৮]",
+          "structured_data": {
+            "question_number": "17",
+            "subtype": "mcq",
+            "stem": "আলোর কপিকা তরঙ্গের প্রথমক কে? [স.বি. ২০১৭-১৮]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "টমাস ইয়ং",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নিউটন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আইনস্টাইন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ম্যাক্স প্র্যাক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "501f7909-a612-5f1c-8e24-5d4f5e3a0e09"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q18",
+          "content_markdown": "কোন বিজ্ঞানী সর্বপ্রথম আলোর তরঙ্গ তড়িৎ প্রবাহ করেন? [স.বি. ১৬-১৭]",
+          "structured_data": {
+            "question_number": "18",
+            "subtype": "mcq",
+            "stem": "কোন বিজ্ঞানী সর্বপ্রথম আলোর তরঙ্গ তড়িৎ প্রবাহ করেন? [স.বি. ১৬-১৭]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "নিউটন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "আইনস্টাইন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ম্যাকওয়েল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "হাইগেন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2903768d-d1c5-5cf4-9fc9-9c5f39725e54"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q19",
+          "content_markdown": "শূন্য মাধ্যমে প্রবাহিত একটি সমতল তরঙ্গমুখের তড়িৎ চুম্বকীয় তরঙ্গের বিভিন্ন ও চৌম্বক ক্ষেত্রের বিভিন্নের অনুপাত E/B এর মান SI এককে হলো—[স.বি. ২০১৬-১৮]",
+          "structured_data": {
+            "question_number": "19",
+            "subtype": "mcq",
+            "stem": "শূন্য মাধ্যমে প্রবাহিত একটি সমতল তরঙ্গমুখের তড়িৎ চুম্বকীয় তরঙ্গের বিভিন্ন ও চৌম্বক ক্ষেত্রের বিভিন্নের অনুপাত E/B এর মান SI এককে হলো—[স.বি. ২০১৬-১৮]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "শূন্য তরঙ্গের কোণিক কম্পাঙ্ক ω",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "শূন্য মাধ্যমে তরঙ্গদৈর্ঘ্য λ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "শূন্য মধ্যমে আলোর বেগ c",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "প্লাফের গ্রুবক h",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "09c456e4-8085-5d6b-860c-2778bf8b8cba"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q20",
+          "content_markdown": "পৃথিবীর চারপাশে যদি ব্যান্ডল না থাকতো, তাহলে পৃথিবী থেকে আকাশের রং কী রকম দেখা যেত?\n[BUE Admission Test.2006-07]",
+          "structured_data": {
+            "question_number": "20",
+            "subtype": "mcq",
+            "stem": "পৃথিবীর চারপাশে যদি ব্যান্ডল না থাকতো, তাহলে পৃথিবী থেকে আকাশের রং কী রকম দেখা যেত?\n[BUE Admission Test.2006-07]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সাদা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নীল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কালো",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "গোলাপি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0eb0e416-5387-5efc-b085-080bd83da4b3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q21",
+          "content_markdown": "বৃষ্টি দিনে পানির ওপর তেলের ফিঝিয়া সুন্দর সুন্দর রং দেখায়। [BUE Admission Test.2005-06]",
+          "structured_data": {
+            "question_number": "21",
+            "subtype": "mcq",
+            "stem": "বৃষ্টি দিনে পানির ওপর তেলের ফিঝিয়া সুন্দর সুন্দর রং দেখায়। [BUE Admission Test.2005-06]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বিচ্ছুরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সমবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বাতিচার",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অপবর্তন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c82878c2-ac2a-5ab7-96db-9b7c28cca0e9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q22",
+          "content_markdown": "আলোক তরঙ্গের মাধ্যমে সংগ্রহিত হয়-",
+          "structured_data": {
+            "question_number": "22",
+            "subtype": "mcq",
+            "stem": "আলোক তরঙ্গের মাধ্যমে সংগ্রহিত হয়-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তুরন্ত",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ভরবেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "শক্তি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d9168cba-c0c4-53a6-8b99-4659d1a3107a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q23",
+          "content_markdown": "তড়িৎচুম্বকীয় তরঙ্গ শূন্যাখান থেকে কোনো মাধ্যমে প্রবেশ করলে তার মেধমি অপরিবর্তিত থাকে তা হলো–",
+          "structured_data": {
+            "question_number": "23",
+            "subtype": "mcq",
+            "stem": "তড়িৎচুম্বকীয় তরঙ্গ শূন্যাখান থেকে কোনো মাধ্যমে প্রবেশ করলে তার মেধমি অপরিবর্তিত থাকে তা হলো–",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তরঙ্গদৈর্ঘ্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কম্পাঙ্ক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বিস্তর",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": null,
+            "tags_raw": "- জ.বি. - আমির হোসেন",
+            "provenance": [
+              "- জ.বি. - আমির হোসেন"
+            ]
+          },
+          "id": "6d61e73c-a7c6-520e-a089-313bc1539fa6"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 24,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 137.05,
+        "eval_count": 3559
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান দ্বিতীয় পত্র\n\n#### 351\n##### ভৌত আলোকবিজ্ঞান\n\n## Q24\n**Type:** mcq\n**Stem:** তড়িৎচুম্বকীয় তরঙ্গ উপস্থিত করে-\n- a) গতিশীল আধান\n- b) ছির আধান\n- c) তরণগতুষ আধান\n- d) কোনোটিই নয়\n**Answer:** - d) কোনোটিই নয়\n**Solution:** তড়িৎচুম্বকীয় তরঙ্গ একটি অভিযোগ্য সূত্র। এই তরঙ্গ মহাবিশ্বের ধৈর্য ও চালক হিসেবে কাজ করে।\n**Tags:** আমির হোসেন\n\n## Q25\n**Type:** mcq\n**Stem:** নিচের কোনটি আলোর তরঙ্গ ধর্ম প্রকাশ করে না?\n- a) ব্যতিচার\n- b) অপবর্তন\n- c) প্রতিসরণ\n- d) আলোর তড়িৎ ক্রিয়া\n**Answer:** - a) ব্যতিচার\n**Solution:** আলোর তরঙ্গ ধর্ম প্রকাশ করে না বলে বিবেচিত হয় যখন তরঙ্গ ধর্ম প্রকাশ করে না। এটি ব্যতিচার নয়।\n**Tags:** শাহজাহান তন্দন\n\n## Q26\n**Type:** mcq\n**Stem:** শুনছানো কোনো তাড়িতচুম্বকীয় তরঙ্গের তরঙ্গদৈর্ঘ্য $0.03\\ cm$ হলে,\nতরঙ্গটির ক্ষেপণা কত? [স্ব. বো. ২০১৫]\n- a) $10^{-12}\\ Hz$\n- b) $10^{10}\\ Hz$\n- c) $10^{12}\\ Hz$\n- d) $10^{14}\\ Hz$\n**Answer:** - c) $10^{12}\\ Hz$\n**Solution:** তরঙ্গদৈর্ঘ্য $λ = 0.03\\ cm$, তাড়িতচুম্বকীয় তরঙ্গের প্রকাশিত প্রতি ক্ষেপণা $f = \\frac{c}{λ}$. \n$f = \\frac{3\\times 10^8\\ ms^{-1}}{0.03\\ cm}$ \n$f = \\frac{3\\times 10^8\\ ms^{-1}}{0.03\\times 10^{-2}\\ m}$ \n$f = \\frac{3\\times 10^8\\ ms^{-1}}{3\\times 10^{-4}\\ m}$ \n$f = 10^{12}\\ Hz$\n**Tags:** শাহজাহান তন্দন\n\n## Q27\n**Type:** mcq\n**Stem:** তিনটি বর্ণের জন্য নিচের কোনটি সত্যিক?\n[স্ব. বো. ২০১৫; র. বো. ২০১৭]\n- a) $\\lambda_R > \\lambda_Y > \\lambda_V$\n- b) $\\lambda_Y < \\lambda_R < \\lambda_V$\n- c) $\\lambda_V > \\lambda_R > \\lambda_Y$\n- d) $\\lambda_Y > \\lambda_R > \\lambda_V$\n**Answer:** - a) $\\lambda_R > \\lambda_Y > \\lambda_V$\n**Solution:** রং বর্ণের তরঙ্গদৈর্ঘ্য সত্যিক হলে $\\lambda_R > \\lambda_Y > \\lambda_V$।\n**Tags:** শাহজাহান তন্দন\n\n## Q28\n**Type:** mcq\n**Stem:** আলোক বর্ষ কিসের একক? [স্ব. বো. ২০১৫]\n- a) দ্রুতির\n- b) দরুত্বের\n- c) সময়ের\n- d) কম্পক্ষের\n**Answer:** - a) দ্রুতির\n**Solution:** আলোক বর্ষ দ্রুতিরের একক।\n**Tags:** শাহজাহান তন্দন\n\n## Q29\n**Type:** mcq\n**Stem:** পানি ও কাঠের প্রতিসরণক্ষমতা যথাক্রমে $1.33$ ও $1.5$. কাঁচে আলোর বেগ\n$2.02 \\times 10^8\\ ms^{-1}$ হলে পানিতে আলোর বেগ কত? [স্ব. বো. ২০১৬]\n- a) $2.28 \\times 10^8\\ ms^{-1}$\n- b) $1.79 \\times 10^8\\ ms^{-1}$\n- c) $3 \\times 10^8\\ ms^{-1}$\n- d) $4.03 \\times 10^8\\ ms^{-1}$\n**Answer:** - b) $1.79 \\times 10^8\\ ms^{-1}$\n**Solution:** পানি ও কাঠের প্রতিসরণক্ষমতা যথাক্রমে $1.33$ ও $1.5$। কাঁচে আলোর বেগ $v_1=2.02 \\times 10^8\\ ms^{-1}$ হলে পানিতে আলোর বেগ $v_2=\\sqrt{\\mu_g/\\mu_w} v_1=\\sqrt{1/1.33} \\times 2.02 \\times 10^8\\ ms^{-1}=1.79 \\times 10^8\\ ms^{-1}$।\n**Tags:** শাহজাহান তন্দন\n\n## Q30\n**Type:** mcq\n**Stem:** আলো শূন্য মধ্যে $10$ বছরে কত দূরত্ব অতিক্রম করে? [ঈ. বি.: ২০১৫-১৬]\n- a) $2.5 \\times 10^{13}\\ km$\n- b) $4.5 \\times 10^{13}\\ km$\n- c) $9.5 \\times 10^{13}\\ km$\n- d) $7.5 \\times 10^{13}\\ km$\n**Answer:** - b) $4.5 \\times 10^{13}\\ km$\n**Solution:** আলো শূন্য মধ্যে $10$ বছরে অতিক্রম করে $d=v t=(3 \\times 10^8\\ ms^{-1}) (10 \\times 365 \\times 24 \\times 60 \\times 60)\\ s=4.5 \\times 10^{13}\\ km$।\n**Tags:** শাহজাহান তন্দন\n\n## Q31\n**Type:** mcq\n**Stem:** নিচের কোন তরঙ্গ তড়িৎ অথবা চুম্বকীয় ক্ষেত্র দ্বারা প্রতিষ্ঠিত নয়?\n[ঈ. বি.: ২০১৫-১৬]\n- a) আলোক তরঙ্গ\n- b) বেতার তরঙ্গ\n- c) শৃঙ্খল তরঙ্গ\n- d) এক্সে তরঙ্গ\n**Answer:** - c) শৃঙ্খল তরঙ্গ\n**Solution:** শৃঙ্খল তরঙ্গ তড়িৎ অথবা চুম্বকীয় ক্ষেত্র দ্বারা প্রতিষ্ঠিত নয়।\n**Tags:** শাহজাহান তন্দন\n\n## Q32\n**Type:** mcq\n**Stem:** এক আলোক বর্ষকে কিলোমিটারে প্রকাশ কর-\n[ঈ. বি.: ২০১৩-১৬]\n- a) $9.4 \\times 10^{12}\\ km$\n- b) $9.4 \\times 10^{18}\\ km$\n- c) $9.4 \\times 10^{15}\\ km$\n- d) $9.4 \\times 10^{21}\\ km$\n**Answer:** - c) $9.4 \\times 10^{15}\\ km$\n**Solution:** এক আলোক বর্ষকে কিলোমিটারে প্রকাশ করে $(3 \\times 10^8\\ ms^{-1})(365 \\times 24 \\times 60 \\times 60)$ $s=9.4 \\times 10^{15}\\ km$।\n**Tags:** শাহজাহান তন্দন\n\n## Q33\n**Type:** mcq\n**Stem:** তড়িৎচুম্বকীয় তরঙ্গ নিচের কোনটির দিক বরাবর অগ্রসর হয়?\n- a) $\\vec E$\n- b) $\\vec E \\times \\vec B$\n- c) $\\vec E, \\vec B$\n- d) $\\vec B$\n**Answer:** - b) $\\vec E \\times \\vec B$\n**Solution:** তড়িৎচুম্বকীয় তরঙ্গ নিচের কোনটির দিক বরাবর অগ্রসর হয় $\\vec E \\times \\vec B$।\n**Tags:** শহজাহান তন্দন\n\n## Q34\n**Type:** mcq\n**Stem:** নিচের কোন রশির একক $\\frac{1}{ε_{0}μ_{0}}$ এর এককের সমান?\n[ঈ. বি.: ২০১৮-১৯]\n- a) (বেগ)\n- b) (রোধ)\n- c) চৌধুক্কের\n- d) বৈদ্যুতিক বিভব\n**Answer:** - c) চৌধুক্কের\n**Solution:** নিচের কোন রশির একক $\\frac{1}{ε_{0}μ_{0}}$ এর এককের সমান চৌধুক্কের।\n**Tags:** শহজাহান তন্দন\n\n## Q35\n**Type:** mcq\n**Stem:** দশা পার্থক্য পথ পার্শ্বের কতগুলো?\n[ঈ. বো., ২০১৫]\n- a) $2π$\n- b) $2λ$\n- c) $\\frac{2π}{λ}$\n- d) $\\frac{λ}{2π}$\n**Answer:** - c) $\\frac{2π}{λ}$\n**Solution:** দশা পার্থক্য পথ পার্শ্বের কতগুলো $\\frac{2π}{λ}$।\n**Tags:** শাহজাহান তন্দন\n\n## Q36\n**Type:** mcq\n**Stем:** কৃষ্ণ বন্ডর তাপমাত্রা ছিঙ্গল বৃদ্ধি করলে বিকিরণ হার কত গুণ বৃদ্ধি পাবে?\n[ঈ. বি.: ১৩-১৪]\n- a) $16$\n- b) $2$\n- c) $4$\n- d) $10$\n**Answer:** - c) $4$\n**Solution:** কৃষ্ণ বন্ডর তাপমাত্রা ছিঙ্গল বৃদ্ধি করলে বিকিরণ হার কত গুণ বৃদ্ধি পাবে $4$।\n**Tags:** শামসুর রহমান\n\n### Q37\n**Type:** mcq\n**Stem:** বক্তর কোন বৈশিষ্ট্য পাইরোমিটারে ব্যবহৃত হয়? [মেডিকেল '২০-২১']\n- a) অপটিক্যাল বৈশিষ্ট্য\n- b) দৈর্ঘ্য সম্প্রসারণ বৈশিষ্ট্য\n- c) বিকিরণ বৈশিষ্ট্য\n- d) বৈদ্যুতিক বৈশিষ্ট্য [শামসুর রহমান]\n\n### Q38\n**Type:** mcq\n**Stem:** একটি আলোক তরঙ্গ জিঞ্জ আলোকীয় ঘনত্বের মাধ্যমে প্রবেশ করলে নিচের কোনটি ঘটে?\n- a) বেগ ও কম্পক্ষের পরিবর্তন হয়\n- b) বেগ ও তরঙ্গদৈর্ঘ্যের পরিবর্তন হয়\n- c) কম্পক্ষে ও তরঙ্গদৈর্ঘ্যের পরিবর্তন হয়\n- d) বেগ, কম্পক্ষ এবং তরঙ্গদৈর্ঘ্যের পরিবর্তন হয় [আলী আসপার]\n\n### Q39\n**Type:** mcq\n**Stem:** তড়িৎ চুম্বকীয় বর্ণালী ও তরঙ্গমুখ\n#### তড়িৎ চুম্বকীয় বর্ণালী ও তরঙ্গমুখ\n##### 39. দৃশ্যমান আলো তরঙ্গদৈর্ঘ্যের পার্থক্য কতটি?\n- a) $100nm$ হতে $300nm$\n- b) $400 nm$ হতে $780nm$\n- c) $1000nm$ হতে $1200nm$\n- d) $5000nm$ হতে $10000nm$\n\n### Q40\n**Type:** mcq\n**Stem:** একটি তড়িৎচুম্বকীয় তরঙ্গের তড়িৎ ক্ষেত্রের সর্বোচ্চ মান $54V^{-1}$ হলে টোয়াক্সক্রেভের সর্বোচ্চ মান কত?\n- a) $1.62\\times 10^{10}\\ Wb m^{-2}$\n- b) $1.8\\times 10^{7}\\ Wb m^{-2}$\n- c) $1.8\\times 10^{-7}\\ Wb m^{-2}$\n- d) $1.62\\times 10^{-10}\\ Wb m^{-2}$\n\n### Q41\n**Type:** mcq\n**Stem:** তড়িৎ চুম্বকীয় তরঙ্গের বেগ $C=\\sqrt{\\frac{1}{μ_0 ε_0}}$ প্রতিদিন হয়েছে যে তত্ত্ব তার প্রভা হলেন?\n- a) মার্য প্ল্যাক\n- b) মার্যওয়েল\n- c) আইনস্টাইন\n- d) নিউটন\n\n### Q42\n**Type:** mcq\n**Stem:** নিচের কোনটির কম্পাঙ্ক সবচেয়ে বেশি?\n- a) বোটার তরঙ্গ\n- b) মাইক্রোওয়েল\n- c) অবলোহিত রশি\n- d) অতিবেগুনি রশি\n\n### Q43\n**Type:** mcq\n**Stem:** শৃঙ্খল চিকিৎসায় যোগাযোগ জীবাণুমূলক করতে ব্যবহৃত হয়?\n- a) এক্স-রে\n- b) অতিবেগুনি রশি\n- g) গামা-রে\n- h) অবলোহিত রশি\n\n### Q44\n**Type:** mcq\n**Stem:** নিচের কোনটি তড়িৎ চুম্বকীয় তরঙ্গ তুল্য ধারা ব্যাখ্যা করা যায় না?\n- a) সমবর্তন\n- b) অপবর্তন\n- c) আলোক তডিং\n- d) ব্যতিচার\n\n### Q45\n**Type:** mcq\n**Stem:** কোনটি তড়িৎচুম্বকীয় তরঙ্গ নয়?\n- a) দৃশ্যমান আলো\n- b) এক্স-রশি\n- c) গামা রশি\n- d) অলফার রশি",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "351",
+          "content_markdown": "##### ভৌত আলোকবিজ্ঞান",
+          "structured_data": {},
+          "id": "aaf1016f-ec42-5599-bdfe-a17e767b1396"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q24",
+          "content_markdown": "তড়িৎচুম্বকীয় তরঙ্গ উপস্থিত করে-",
+          "structured_data": {
+            "question_number": "24",
+            "subtype": "mcq",
+            "stem": "তড়িৎচুম্বকীয় তরঙ্গ উপস্থিত করে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গতিশীল আধান",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ছির আধান",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "তরণগতুষ আধান",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোনোটিই নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- d) কোনোটিই নয়",
+            "solution_markdown": "তড়িৎচুম্বকীয় তরঙ্গ একটি অভিযোগ্য সূত্র। এই তরঙ্গ মহাবিশ্বের ধৈর্য ও চালক হিসেবে কাজ করে।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "a7225b9f-0b7f-55b6-a379-5d7f710b6ed9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q25",
+          "content_markdown": "নিচের কোনটি আলোর তরঙ্গ ধর্ম প্রকাশ করে না?",
+          "structured_data": {
+            "question_number": "25",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটি আলোর তরঙ্গ ধর্ম প্রকাশ করে না?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ব্যতিচার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অপবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "প্রতিসরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "আলোর তড়িৎ ক্রিয়া",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a) ব্যতিচার",
+            "solution_markdown": "আলোর তরঙ্গ ধর্ম প্রকাশ করে না বলে বিবেচিত হয় যখন তরঙ্গ ধর্ম প্রকাশ করে না। এটি ব্যতিচার নয়।",
+            "tags_raw": "শাহজাহান তন্দন",
+            "provenance": [
+              "শাহজাহান তন্দন"
+            ]
+          },
+          "id": "04157779-79b4-53f1-9813-9a30ab7433bd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q26",
+          "content_markdown": "শুনছানো কোনো তাড়িতচুম্বকীয় তরঙ্গের তরঙ্গদৈর্ঘ্য $0.03\\ cm$ হলে,\nতরঙ্গটির ক্ষেপণা কত? [স্ব. বো. ২০১৫]",
+          "structured_data": {
+            "question_number": "26",
+            "subtype": "mcq",
+            "stem": "শুনছানো কোনো তাড়িতচুম্বকীয় তরঙ্গের তরঙ্গদৈর্ঘ্য $0.03\\ cm$ হলে,\nতরঙ্গটির ক্ষেপণা কত? [স্ব. বো. ২০১৫]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$10^{-12}\\ Hz$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$10^{10}\\ Hz$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$10^{12}\\ Hz$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$10^{14}\\ Hz$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) $10^{12}\\ Hz$",
+            "solution_markdown": "তরঙ্গদৈর্ঘ্য $λ = 0.03\\ cm$, তাড়িতচুম্বকীয় তরঙ্গের প্রকাশিত প্রতি ক্ষেপণা $f = \\frac{c}{λ}$.\n$f = \\frac{3\\times 10^8\\ ms^{-1}}{0.03\\ cm}$ \n$f = \\frac{3\\times 10^8\\ ms^{-1}}{0.03\\times 10^{-2}\\ m}$ \n$f = \\frac{3\\times 10^8\\ ms^{-1}}{3\\times 10^{-4}\\ m}$ \n$f = 10^{12}\\ Hz$",
+            "tags_raw": "শাহজাহান তন্দন",
+            "provenance": [
+              "শাহজাহান তন্দন"
+            ]
+          },
+          "id": "e1fcaaf4-50de-528e-ba94-156e4a619862"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q27",
+          "content_markdown": "তিনটি বর্ণের জন্য নিচের কোনটি সত্যিক?\n[স্ব. বো. ২০১৫; র. বো. ২০১৭]",
+          "structured_data": {
+            "question_number": "27",
+            "subtype": "mcq",
+            "stem": "তিনটি বর্ণের জন্য নিচের কোনটি সত্যিক?\n[স্ব. বো. ২০১৫; র. বো. ২০১৭]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\lambda_R > \\lambda_Y > \\lambda_V$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\lambda_Y < \\lambda_R < \\lambda_V$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\lambda_V > \\lambda_R > \\lambda_Y$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\lambda_Y > \\lambda_R > \\lambda_V$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a) $\\lambda_R > \\lambda_Y > \\lambda_V$",
+            "solution_markdown": "রং বর্ণের তরঙ্গদৈর্ঘ্য সত্যিক হলে $\\lambda_R > \\lambda_Y > \\lambda_V$।",
+            "tags_raw": "শাহজাহান তন্দন",
+            "provenance": [
+              "শাহজাহান তন্দন"
+            ]
+          },
+          "id": "f80d6487-a119-5b77-9426-a54597c9dc29"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q28",
+          "content_markdown": "আলোক বর্ষ কিসের একক? [স্ব. বো. ২০১৫]",
+          "structured_data": {
+            "question_number": "28",
+            "subtype": "mcq",
+            "stem": "আলোক বর্ষ কিসের একক? [স্ব. বো. ২০১৫]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "দ্রুতির",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "দরুত্বের",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সময়ের",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কম্পক্ষের",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a) দ্রুতির",
+            "solution_markdown": "আলোক বর্ষ দ্রুতিরের একক।",
+            "tags_raw": "শাহজাহান তন্দন",
+            "provenance": [
+              "শাহজাহান তন্দন"
+            ]
+          },
+          "id": "9c576a68-b39c-5a80-b1c3-7dd928ea0432"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q29",
+          "content_markdown": "পানি ও কাঠের প্রতিসরণক্ষমতা যথাক্রমে $1.33$ ও $1.5$. কাঁচে আলোর বেগ\n$2.02 \\times 10^8\\ ms^{-1}$ হলে পানিতে আলোর বেগ কত? [স্ব. বো. ২০১৬]",
+          "structured_data": {
+            "question_number": "29",
+            "subtype": "mcq",
+            "stem": "পানি ও কাঠের প্রতিসরণক্ষমতা যথাক্রমে $1.33$ ও $1.5$. কাঁচে আলোর বেগ\n$2.02 \\times 10^8\\ ms^{-1}$ হলে পানিতে আলোর বেগ কত? [স্ব. বো. ২০১৬]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$2.28 \\times 10^8\\ ms^{-1}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$1.79 \\times 10^8\\ ms^{-1}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$3 \\times 10^8\\ ms^{-1}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$4.03 \\times 10^8\\ ms^{-1}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) $1.79 \\times 10^8\\ ms^{-1}$",
+            "solution_markdown": "পানি ও কাঠের প্রতিসরণক্ষমতা যথাক্রমে $1.33$ ও $1.5$। কাঁচে আলোর বেগ $v_1=2.02 \\times 10^8\\ ms^{-1}$ হলে পানিতে আলোর বেগ $v_2=\\sqrt{\\mu_g/\\mu_w} v_1=\\sqrt{1/1.33} \\times 2.02 \\times 10^8\\ ms^{-1}=1.79 \\times 10^8\\ ms^{-1}$।",
+            "tags_raw": "শাহজাহান তন্দন",
+            "provenance": [
+              "শাহজাহান তন্দন"
+            ]
+          },
+          "id": "8462ef03-05a9-5c94-ad9b-1a81d61b7ae9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q30",
+          "content_markdown": "আলো শূন্য মধ্যে $10$ বছরে কত দূরত্ব অতিক্রম করে? [ঈ. বি.: ২০১৫-১৬]",
+          "structured_data": {
+            "question_number": "30",
+            "subtype": "mcq",
+            "stem": "আলো শূন্য মধ্যে $10$ বছরে কত দূরত্ব অতিক্রম করে? [ঈ. বি.: ২০১৫-১৬]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$2.5 \\times 10^{13}\\ km$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$4.5 \\times 10^{13}\\ km$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$9.5 \\times 10^{13}\\ km$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$7.5 \\times 10^{13}\\ km$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) $4.5 \\times 10^{13}\\ km$",
+            "solution_markdown": "আলো শূন্য মধ্যে $10$ বছরে অতিক্রম করে $d=v t=(3 \\times 10^8\\ ms^{-1}) (10 \\times 365 \\times 24 \\times 60 \\times 60)\\ s=4.5 \\times 10^{13}\\ km$।",
+            "tags_raw": "শাহজাহান তন্দন",
+            "provenance": [
+              "শাহজাহান তন্দন"
+            ]
+          },
+          "id": "772bd41b-9332-508d-bcd4-7b0962ce8ea0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q31",
+          "content_markdown": "নিচের কোন তরঙ্গ তড়িৎ অথবা চুম্বকীয় ক্ষেত্র দ্বারা প্রতিষ্ঠিত নয়?\n[ঈ. বি.: ২০১৫-১৬]",
+          "structured_data": {
+            "question_number": "31",
+            "subtype": "mcq",
+            "stem": "নিচের কোন তরঙ্গ তড়িৎ অথবা চুম্বকীয় ক্ষেত্র দ্বারা প্রতিষ্ঠিত নয়?\n[ঈ. বি.: ২০১৫-১৬]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আলোক তরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বেতার তরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "শৃঙ্খল তরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "এক্সে তরঙ্গ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) শৃঙ্খল তরঙ্গ",
+            "solution_markdown": "শৃঙ্খল তরঙ্গ তড়িৎ অথবা চুম্বকীয় ক্ষেত্র দ্বারা প্রতিষ্ঠিত নয়।",
+            "tags_raw": "শাহজাহান তন্দন",
+            "provenance": [
+              "শাহজাহান তন্দন"
+            ]
+          },
+          "id": "bf614976-b9fe-53b3-95c4-6d30058f1911"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q32",
+          "content_markdown": "এক আলোক বর্ষকে কিলোমিটারে প্রকাশ কর-\n[ঈ. বি.: ২০১৩-১৬]",
+          "structured_data": {
+            "question_number": "32",
+            "subtype": "mcq",
+            "stem": "এক আলোক বর্ষকে কিলোমিটারে প্রকাশ কর-\n[ঈ. বি.: ২০১৩-১৬]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$9.4 \\times 10^{12}\\ km$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$9.4 \\times 10^{18}\\ km$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$9.4 \\times 10^{15}\\ km$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$9.4 \\times 10^{21}\\ km$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) $9.4 \\times 10^{15}\\ km$",
+            "solution_markdown": "এক আলোক বর্ষকে কিলোমিটারে প্রকাশ করে $(3 \\times 10^8\\ ms^{-1})(365 \\times 24 \\times 60 \\times 60)$ $s=9.4 \\times 10^{15}\\ km$।",
+            "tags_raw": "শাহজাহান তন্দন",
+            "provenance": [
+              "শাহজাহান তন্দন"
+            ]
+          },
+          "id": "6d30b21d-3801-590b-ba6f-1a3eb2fae446"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q33",
+          "content_markdown": "তড়িৎচুম্বকীয় তরঙ্গ নিচের কোনটির দিক বরাবর অগ্রসর হয়?",
+          "structured_data": {
+            "question_number": "33",
+            "subtype": "mcq",
+            "stem": "তড়িৎচুম্বকীয় তরঙ্গ নিচের কোনটির দিক বরাবর অগ্রসর হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\vec E$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\vec E \\times \\vec B$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\vec E, \\vec B$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\vec B$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) $\\vec E \\times \\vec B$",
+            "solution_markdown": "তড়িৎচুম্বকীয় তরঙ্গ নিচের কোনটির দিক বরাবর অগ্রসর হয় $\\vec E \\times \\vec B$।",
+            "tags_raw": "শহজাহান তন্দন",
+            "provenance": [
+              "শহজাহান তন্দন"
+            ]
+          },
+          "id": "095ec600-3c05-506d-989a-e1c3927dae19"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q34",
+          "content_markdown": "নিচের কোন রশির একক $\\frac{1}{ε_{0}μ_{0}}$ এর এককের সমান?\n[ঈ. বি.: ২০১৮-১৯]",
+          "structured_data": {
+            "question_number": "34",
+            "subtype": "mcq",
+            "stem": "নিচের কোন রশির একক $\\frac{1}{ε_{0}μ_{0}}$ এর এককের সমান?\n[ঈ. বি.: ২০১৮-১৯]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "(বেগ)",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "(রোধ)",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "চৌধুক্কের",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বৈদ্যুতিক বিভব",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) চৌধুক্কের",
+            "solution_markdown": "নিচের কোন রশির একক $\\frac{1}{ε_{0}μ_{0}}$ এর এককের সমান চৌধুক্কের।",
+            "tags_raw": "শহজাহান তন্দন",
+            "provenance": [
+              "শহজাহান তন্দন"
+            ]
+          },
+          "id": "d46fb398-5638-5a5e-8337-8c029bbb6522"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q35",
+          "content_markdown": "দশা পার্থক্য পথ পার্শ্বের কতগুলো?\n[ঈ. বো., ২০১৫]",
+          "structured_data": {
+            "question_number": "35",
+            "subtype": "mcq",
+            "stem": "দশা পার্থক্য পথ পার্শ্বের কতগুলো?\n[ঈ. বো., ২০১৫]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$2π$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$2λ$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{2π}{λ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\frac{λ}{2π}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) $\\frac{2π}{λ}$",
+            "solution_markdown": "দশা পার্থক্য পথ পার্শ্বের কতগুলো $\\frac{2π}{λ}$।",
+            "tags_raw": "শাহজাহান তন্দন",
+            "provenance": [
+              "শাহজাহান তন্দন"
+            ]
+          },
+          "id": "b6fa7a0a-e387-5feb-a9d6-6c9febc239c4"
+        },
+        {
+          "block_type": "exercise_solution",
+          "title": "Q36",
+          "content_markdown": "",
+          "structured_data": {
+            "question_number": "36",
+            "subtype": "mcq **stем:** কৃষ্ণ বন্ডর তাপমাত্রা ছিঙ্গল বৃদ্ধি করলে বিকিরণ হার কত গুণ বৃদ্ধি পাবে? [ঈ. বি.: ১৩-১৪] - a) $16$ - b) $2$ - c) $4$ - d) $10$",
+            "stem": "",
+            "options": [],
+            "correct_answer": "- c) $4$",
+            "solution_markdown": "কৃষ্ণ বন্ডর তাপমাত্রা ছিঙ্গল বৃদ্ধি করলে বিকিরণ হার কত গুণ বৃদ্ধি পাবে $4$।",
+            "tags_raw": "শামসুর রহমান",
+            "provenance": [
+              "শামসুর রহমান"
+            ]
+          },
+          "id": "7d01aec3-d6ac-594b-ba3a-da999ab089b9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q37",
+          "content_markdown": "বক্তর কোন বৈশিষ্ট্য পাইরোমিটারে ব্যবহৃত হয়? [মেডিকেল '২০-২১']",
+          "structured_data": {
+            "question_number": "37",
+            "subtype": "mcq",
+            "stem": "বক্তর কোন বৈশিষ্ট্য পাইরোমিটারে ব্যবহৃত হয়? [মেডিকেল '২০-২১']",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অপটিক্যাল বৈশিষ্ট্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "দৈর্ঘ্য সম্প্রসারণ বৈশিষ্ট্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বিকিরণ বৈশিষ্ট্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বৈদ্যুতিক বৈশিষ্ট্য [শামসুর রহমান]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f734c042-cfc8-5cce-bb03-183997919511"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q38",
+          "content_markdown": "একটি আলোক তরঙ্গ জিঞ্জ আলোকীয় ঘনত্বের মাধ্যমে প্রবেশ করলে নিচের কোনটি ঘটে?",
+          "structured_data": {
+            "question_number": "38",
+            "subtype": "mcq",
+            "stem": "একটি আলোক তরঙ্গ জিঞ্জ আলোকীয় ঘনত্বের মাধ্যমে প্রবেশ করলে নিচের কোনটি ঘটে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বেগ ও কম্পক্ষের পরিবর্তন হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বেগ ও তরঙ্গদৈর্ঘ্যের পরিবর্তন হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কম্পক্ষে ও তরঙ্গদৈর্ঘ্যের পরিবর্তন হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বেগ, কম্পক্ষ এবং তরঙ্গদৈর্ঘ্যের পরিবর্তন হয় [আলী আসপার]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b5de5769-a419-53cc-b2a5-785e4b248b1a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q39",
+          "content_markdown": "তড়িৎ চুম্বকীয় বর্ণালী ও তরঙ্গমুখ\n#### তড়িৎ চুম্বকীয় বর্ণালী ও তরঙ্গমুখ\n##### 39. দৃশ্যমান আলো তরঙ্গদৈর্ঘ্যের পার্থক্য কতটি?",
+          "structured_data": {
+            "question_number": "39",
+            "subtype": "mcq",
+            "stem": "তড়িৎ চুম্বকীয় বর্ণালী ও তরঙ্গমুখ\n#### তড়িৎ চুম্বকীয় বর্ণালী ও তরঙ্গমুখ\n##### 39. দৃশ্যমান আলো তরঙ্গদৈর্ঘ্যের পার্থক্য কতটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$100nm$ হতে $300nm$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$400 nm$ হতে $780nm$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$1000nm$ হতে $1200nm$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$5000nm$ হতে $10000nm$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3aa5e0cf-8595-5bdd-87d7-1c00375c1edb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q40",
+          "content_markdown": "একটি তড়িৎচুম্বকীয় তরঙ্গের তড়িৎ ক্ষেত্রের সর্বোচ্চ মান $54V^{-1}$ হলে টোয়াক্সক্রেভের সর্বোচ্চ মান কত?",
+          "structured_data": {
+            "question_number": "40",
+            "subtype": "mcq",
+            "stem": "একটি তড়িৎচুম্বকীয় তরঙ্গের তড়িৎ ক্ষেত্রের সর্বোচ্চ মান $54V^{-1}$ হলে টোয়াক্সক্রেভের সর্বোচ্চ মান কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$1.62\\times 10^{10}\\ Wb m^{-2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$1.8\\times 10^{7}\\ Wb m^{-2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$1.8\\times 10^{-7}\\ Wb m^{-2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$1.62\\times 10^{-10}\\ Wb m^{-2}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8d5ac357-0fb6-5a1b-922b-07e59ea6dd54"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q41",
+          "content_markdown": "তড়িৎ চুম্বকীয় তরঙ্গের বেগ $C=\\sqrt{\\frac{1}{μ_0 ε_0}}$ প্রতিদিন হয়েছে যে তত্ত্ব তার প্রভা হলেন?",
+          "structured_data": {
+            "question_number": "41",
+            "subtype": "mcq",
+            "stem": "তড়িৎ চুম্বকীয় তরঙ্গের বেগ $C=\\sqrt{\\frac{1}{μ_0 ε_0}}$ প্রতিদিন হয়েছে যে তত্ত্ব তার প্রভা হলেন?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মার্য প্ল্যাক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মার্যওয়েল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আইনস্টাইন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "নিউটন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "52658385-0e63-5bd8-9987-23dd254fb4f4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q42",
+          "content_markdown": "নিচের কোনটির কম্পাঙ্ক সবচেয়ে বেশি?",
+          "structured_data": {
+            "question_number": "42",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটির কম্পাঙ্ক সবচেয়ে বেশি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বোটার তরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মাইক্রোওয়েল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অবলোহিত রশি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অতিবেগুনি রশি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a592c243-9d1b-5d57-a78c-afbe0c602e2a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q43",
+          "content_markdown": "শৃঙ্খল চিকিৎসায় যোগাযোগ জীবাণুমূলক করতে ব্যবহৃত হয়?\n- g) গামা-রে\n- h) অবলোহিত রশি",
+          "structured_data": {
+            "question_number": "43",
+            "subtype": "mcq",
+            "stem": "শৃঙ্খল চিকিৎসায় যোগাযোগ জীবাণুমূলক করতে ব্যবহৃত হয়?\n- g) গামা-রে\n- h) অবলোহিত রশি",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "এক্স-রে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অতিবেগুনি রশি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2140d0d4-240f-5282-b708-f79672ec7c66"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q44",
+          "content_markdown": "নিচের কোনটি তড়িৎ চুম্বকীয় তরঙ্গ তুল্য ধারা ব্যাখ্যা করা যায় না?",
+          "structured_data": {
+            "question_number": "44",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটি তড়িৎ চুম্বকীয় তরঙ্গ তুল্য ধারা ব্যাখ্যা করা যায় না?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সমবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অপবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আলোক তডিং",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ব্যতিচার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "87d0a9b0-faf9-52ca-8006-d801ef9d2940"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q45",
+          "content_markdown": "কোনটি তড়িৎচুম্বকীয় তরঙ্গ নয়?",
+          "structured_data": {
+            "question_number": "45",
+            "subtype": "mcq",
+            "stem": "কোনটি তড়িৎচুম্বকীয় তরঙ্গ নয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "দৃশ্যমান আলো",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "এক্স-রশি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গামা রশি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অলফার রশি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d080a04e-e2a7-5a74-885d-f602777b241e"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 23,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 83.94,
+        "eval_count": 5233
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q87\n**Type:** mcq\n**Stem:** নিচের কোনটি তড়িৎ চূড়ান্ত তরঙ্গ দ্বারা ব্যাখ্যা করা যায় না?\n(ত.বো. ২০১৬/ক. সমন্বয় খ. আলোক তড়িৎ ফ্রিয়া গ. আলোক তড়িৎ ফ্রিয়া ঘ. ব্যাডিচার)\n\n**Options:** \n- a) সমন্বয়\n- b) আলোক তড়িৎ ফ্রিয়া\n- c) আলোক তড়িৎ ফ্রিয়া\n\n**Answer:** g) ব্যাডিচার\n\n**Solution:** নিচের কোনটি তড়িৎ চূড়ান্ত তরঙ্গ দ্বারা ব্যাখ্যা করা যায় না। এই উত্তরগুলির মধ্যে সমন্বয়, আলোক তড়িৎ ফ্রিয়া ও আলোক তড়িৎ ফ্রিয়া প্রথম দুটি সঠিক উত্তর। ব্যাডিচার হচ্ছে একটি শিক্ষণ পদ্ধতি যা তড়িৎ চূড়ান্ত তরঙ্গ দ্বারা ব্যাখ্যা করা যায় না।\n\n**Tags:** অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান\n\n### Q88\n**Type:** mcq\n**Stem:** E এবং $\\vec{H}$ প্রত্যেকের সাথে তড়িৎ চূড়ান্ত তরঙ্গের নেগ কোণে থাকে? (ত.বো. ২০১৫/)\n- a) $0^{\\circ}$\n- b) $45^{\\circ}$\n- c) $90^{\\circ}$\n- d) $180^{\\circ}$\n\n**Answer:** a) $0^{\\circ}$\n\n**Solution:** এই প্রশ্নের উত্তর হল $0^{\\circ}$। এটি তড়িৎ চূড়ান্ত তরঙ্গের নেগ কোণে থাকে যখন ইলেকট্রিক ফিল্ড এবং ম্যাগনেটিক ফিল্ড একই দিকে যায়। এই সময় তড়িৎ চূড়ান্ত তরঙ্গের দৈর্ঘ্য সরল হয়।\n\n**Tags:** অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান\n\n### Q89\n**Type:** mcq\n**Stem:** অবলোহিত রশ্মির ব্যবহার নয় কৌনটি? (মেডিক্লে ২০১৬-১৭/)\n- a) রিমোট কন্ট্রোল\n- b) টিভি সিগন্যাল\n- c) অপটিক্যাল ফাইবারের মধ্যে যোগাযোগ\n- d) ফিজিওথ্যারাপি\n\n**Answer:** d) ফিজিওথ্যারাপি\n\n**Solution:** অবলোহিত রশ্মির ব্যবহার নয় কৌনটি হল ফিজিওথ্যারাপি। অবলোহিত রশ্মি ব্যবহার করা হয় রিমোট কন্ট্রোল, টিভি সিগন্যাল, অপটিক্যাল ফাইবারের মধ্যে যোগাযোগ এবং ফিজিওথ্যারাপি নয়। \n\n**Tags:** অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান\n\n### Q90\n**Type:** mcq\n**Stem:** মাইজোওয়েট কোষাঃ ন্যায় কোনটি? (মেডিক্লে ২০১৫-১৬/)\n- a) রেডিও তরঙ্গ\n- b) টেলিফোনে\n- c) রাডারে\n- d) টেলিকোপে\n\n**Answer:** b) টেলিফোনে\n\n**Solution:** মাইজোওয়েট কোষাঃ ন্যায় কোনটি হল টেলিফোনে। মাইজোওয়েট কোষার ব্যবহার হয় টেলিফোনে, রেডিও তরঙ্গ, রাডারে এবং টেলিকোপে নয়।\n\n**Tags:** অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান\n\n### Q91\n**Type:** mcq\n**Stem:** শরীরের ব্যাথা-বেদনা উপস্থিত নিচের কোন রশ্মি ব্যবহৃত হয়— (মেডিক্লে ১৭-১৮)\n- a) অতিবেগুনি রশ্মি\n- b) এক্স রশ্মি\n- c) অবলোহিত রশ্মি\n- d) বিটা রশ্মি\n\n**Answer:** b) এক্স রশ্মি\n\n**Solution:** শরীরের ব্যাথা-বেদনা উপস্থিত নিচের কোন রশ্মি ব্যবহৃত হয় এক্স রশ্মি। অতিবেগুনি রশ্মি, অবলোহিত রশ্মি এবং বিটা রশ্মি নয়। এক্স রশ্মি ব্যবহার করা হয় শরীরের ব্যাথা-বেদনা উপস্থিত ক্ষেত্রে।\n\n**Tags:** অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q87",
+          "content_markdown": "নিচের কোনটি তড়িৎ চূড়ান্ত তরঙ্গ দ্বারা ব্যাখ্যা করা যায় না?\n(ত.বো. ২০১৬/ক. সমন্বয় খ. আলোক তড়িৎ ফ্রিয়া গ. আলোক তড়িৎ ফ্রিয়া ঘ. ব্যাডিচার)",
+          "structured_data": {
+            "question_number": "87",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটি তড়িৎ চূড়ান্ত তরঙ্গ দ্বারা ব্যাখ্যা করা যায় না?\n(ত.বো. ২০১৬/ক. সমন্বয় খ. আলোক তড়িৎ ফ্রিয়া গ. আলোক তড়িৎ ফ্রিয়া ঘ. ব্যাডিচার)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সমন্বয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "আলোক তড়িৎ ফ্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আলোক তড়িৎ ফ্রিয়া",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "g) ব্যাডিচার",
+            "solution_markdown": "নিচের কোনটি তড়িৎ চূড়ান্ত তরঙ্গ দ্বারা ব্যাখ্যা করা যায় না। এই উত্তরগুলির মধ্যে সমন্বয়, আলোক তড়িৎ ফ্রিয়া ও আলোক তড়িৎ ফ্রিয়া প্রথম দুটি সঠিক উত্তর। ব্যাডিচার হচ্ছে একটি শিক্ষণ পদ্ধতি যা তড়িৎ চূড়ান্ত তরঙ্গ দ্বারা ব্যাখ্যা করা যায় না।",
+            "tags_raw": "অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান",
+            "provenance": [
+              "অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান"
+            ]
+          },
+          "id": "14345cef-2210-5d7e-a34f-cb27581baac0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q88",
+          "content_markdown": "E এবং $\\vec{H}$ প্রত্যেকের সাথে তড়িৎ চূড়ান্ত তরঙ্গের নেগ কোণে থাকে? (ত.বো. ২০১৫/)",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "mcq",
+            "stem": "E এবং $\\vec{H}$ প্রত্যেকের সাথে তড়িৎ চূড়ান্ত তরঙ্গের নেগ কোণে থাকে? (ত.বো. ২০১৫/)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$0^{\\circ}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "$45^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$90^{\\circ}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$180^{\\circ}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) $0^{\\circ}$",
+            "solution_markdown": "এই প্রশ্নের উত্তর হল $0^{\\circ}$। এটি তড়িৎ চূড়ান্ত তরঙ্গের নেগ কোণে থাকে যখন ইলেকট্রিক ফিল্ড এবং ম্যাগনেটিক ফিল্ড একই দিকে যায়। এই সময় তড়িৎ চূড়ান্ত তরঙ্গের দৈর্ঘ্য সরল হয়।",
+            "tags_raw": "অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান",
+            "provenance": [
+              "অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান"
+            ]
+          },
+          "id": "74e8b26a-f2ad-5f79-afc0-0d2eea2decc1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q89",
+          "content_markdown": "অবলোহিত রশ্মির ব্যবহার নয় কৌনটি? (মেডিক্লে ২০১৬-১৭/)",
+          "structured_data": {
+            "question_number": "89",
+            "subtype": "mcq",
+            "stem": "অবলোহিত রশ্মির ব্যবহার নয় কৌনটি? (মেডিক্লে ২০১৬-১৭/)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "রিমোট কন্ট্রোল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "টিভি সিগন্যাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অপটিক্যাল ফাইবারের মধ্যে যোগাযোগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ফিজিওথ্যারাপি",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d) ফিজিওথ্যারাপি",
+            "solution_markdown": "অবলোহিত রশ্মির ব্যবহার নয় কৌনটি হল ফিজিওথ্যারাপি। অবলোহিত রশ্মি ব্যবহার করা হয় রিমোট কন্ট্রোল, টিভি সিগন্যাল, অপটিক্যাল ফাইবারের মধ্যে যোগাযোগ এবং ফিজিওথ্যারাপি নয়।",
+            "tags_raw": "অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান",
+            "provenance": [
+              "অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান"
+            ]
+          },
+          "id": "77f3cf73-5509-555d-96b1-90e4a898140c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q90",
+          "content_markdown": "মাইজোওয়েট কোষাঃ ন্যায় কোনটি? (মেডিক্লে ২০১৫-১৬/)",
+          "structured_data": {
+            "question_number": "90",
+            "subtype": "mcq",
+            "stem": "মাইজোওয়েট কোষাঃ ন্যায় কোনটি? (মেডিক্লে ২০১৫-১৬/)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "রেডিও তরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "টেলিফোনে",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "রাডারে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "টেলিকোপে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b) টেলিফোনে",
+            "solution_markdown": "মাইজোওয়েট কোষাঃ ন্যায় কোনটি হল টেলিফোনে। মাইজোওয়েট কোষার ব্যবহার হয় টেলিফোনে, রেডিও তরঙ্গ, রাডারে এবং টেলিকোপে নয়।",
+            "tags_raw": "অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান",
+            "provenance": [
+              "অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান"
+            ]
+          },
+          "id": "e4aa3104-3409-51f3-bbf1-2eb9c19466cd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q91",
+          "content_markdown": "শরীরের ব্যাথা-বেদনা উপস্থিত নিচের কোন রশ্মি ব্যবহৃত হয়— (মেডিক্লে ১৭-১৮)",
+          "structured_data": {
+            "question_number": "91",
+            "subtype": "mcq",
+            "stem": "শরীরের ব্যাথা-বেদনা উপস্থিত নিচের কোন রশ্মি ব্যবহৃত হয়— (মেডিক্লে ১৭-১৮)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অতিবেগুনি রশ্মি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "এক্স রশ্মি",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "অবলোহিত রশ্মি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বিটা রশ্মি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b) এক্স রশ্মি",
+            "solution_markdown": "শরীরের ব্যাথা-বেদনা উপস্থিত নিচের কোন রশ্মি ব্যবহৃত হয় এক্স রশ্মি। অতিবেগুনি রশ্মি, অবলোহিত রশ্মি এবং বিটা রশ্মি নয়। এক্স রশ্মি ব্যবহার করা হয় শরীরের ব্যাথা-বেদনা উপস্থিত ক্ষেত্রে।",
+            "tags_raw": "অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান",
+            "provenance": [
+              "অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান"
+            ]
+          },
+          "id": "2973f644-c9f5-598d-acb8-c0f5c6999561"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 5,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 105.51,
+        "eval_count": 2450
+      }
+    },
+    {
+      "page_number": 4,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান দ্বিতীয় পত্র\n\n#### 71. বিদ্যুৎ চূড়ান্তি বিকিরণের সর্বাধিক তরঙ্গদৈর্ঘ্য পরিশেষে নিচের কোনটি?\n(সেক্ষেত্র : ২০১৪-১৫)\n\n- a) X-ray\n- b) টেলিভিশন তরঙ্গ\n- c) UV-রশ্মি\n- d) অন্তর্লৌহিত রশ্মি\n\n#### 72. মাইক্রোওয়েভ ব্যবহৃত হয় -\n(সেক্ষেত্র : ২০১৫-১৬)\n\n- a) ডিজিটাল টেলিফোনে\n- b) টেলিফোনে\n- c) রাডারে\n- d) টেলিফোনে\n\n#### 73. তাপচিত্রীকরণ বর্ণনার নিচের কোন তরঙ্গদৈর্ঘ্য আমাদের চেয়ে ছোট হয়?\n\n- a) $5\\times 10^{-4}$ m\n- b) $5\\times 10^{-2}$ m\n- c) $5\\times 10^{-7}$ m\n- d) $5\\times 10^{-8}$ m\n\n#### 74. লাল, নীল, সবুজ ও কমলা বর্ণের আলোর জন্য কোনো মাধ্যমের প্রতিরক্ষায় যথাক্রমে $\\mu_{R} ,\\mu_{V},\\mu_{G}$ এবং $\\mu_{O}$ হলে নিচের কোন সম্পর্কি সত্যিক? (র. বি. '১১)\n\n- a) $\\mu_{R}<\\mu_{V}<\\mu_{G}<\\mu_{O}$\n- b) $\\mu_{R}<\\mu_{O}<\\mu_{G}<\\mu_{V}$\n- c) $\\mu_{R}<\\mu_{O}<\\mu_{G}<\\mu_{V}$\n- d) $\\mu_{R}<\\mu_{O}<\\mu_{G}<\\mu_{V}$\n\n#### 75. বিদ্যুৎ চৌম্বক তরঙ্গের ক্ষেত্রে নিচের কোনটি সত্যিক?\n\n(র. বি. '১১)\n\n- a) B = $B_0 \\sin{\\frac{2\\pi}{\\lambda}(ct-x)}$\n- b) B = $B_0 \\sin{2\\pi(ct-x)}$\n- c) B = $B_0 \\sin{\\frac{2\\pi}{\\lambda}(x - ct)}$\n- d) B = $B_0 \\sin{2\\pi(x - ct)}$\n\n#### 76. তাপচিত্রীকরণ তরঙ্গ সূচনা হলো-\n(দ. বি. '১৭)\n\n- a) ছোট চার্জ\n- b) গতিশীল চার্জ\n- c) তড়িৎ চার্জ\n- d) চুম্বক\n\n#### 77. নিচের কোনটি দ্বারা রঞ্জন রশ্মি তৈরি হয়?\n(ডেক্টিউল'১৯-২০)\n\n- a) আলফা রশ্মি\n- b) কোথেডো রশ্মি\n- c) বিটা রশ্মি\n- d) গামা রশ্মি\n\n#### 78. দুধমান আলোর তরঙ্গদৈর্ঘ্যের সাথে নিচের কোনটি সামঞ্জস্যশীল নয়?\n(মেডিকেল '১৬-১৭)\n\n- a) UV রশ্মি\n- b) X-ray\n- c) অবলৌহিত রশ্মি\n- d) গামা রশ্মি\n\n#### 79. কোবাল্ট-৬০ হতে কোন রশ্মি নিষ্ক্রিয় হয়?\n(মেডিকেল '১৩-১৮)\n\n- a) এক্স রশ্মি\n- b) অতিবেগুনী রশ্মি\n- c) গামা রশ্মি\n- d) অবলৌহিত রশ্মি\n\n#### 80. অবলৌহিত রশ্মির তরঙ্গ দৈর্ঘ্য নিচের কোনটি?\n(মেডিকেল '৮-৯)\n\n- a) 0.01Å – 1.4Å\n- b) 0.04 cm – 40 cm\n- c) 0.06Å – 1400Å\n- d) 8000Å – 0.04cm\n\n#### স্বতন্ত্র\n\n#### 81. ইয়ং-এর দ্বি চিঠি পরীক্ষায় সোডিয়াম আলো ($\\lambda$= 5898 Å) ব্যবহার করলে পর্দায় 92টি ডোরা পাওয়া যায়। যদি সবুজ আলো ($\\lambda$= 5461 Å) ব্যবহার করা হয় তবে কতগুলো ডোরা পাওয়া যাবে?\n\n- a) 62\n- b) 67\n- c) 90\n- d) 99\n\n| Q71.x | Q72.g | Q73.g | Q74.y | Q75.k | Q76.x |\n| --- | --- | --- | --- | --- | --- |\n| 77.x | 78.g | 79.g | 80.y | 81.y | 82.k |\n\n## Q81\n**Type:** mcq\n**Stem:** ইয়ং-এর দ্বি চিঠি পরীক্ষায় সোডিয়াম আলো ($\\lambda$= 5898 Å) ব্যবহার করলে পর্দায় 92টি ডোরা পাওয়া যায়। যদি সবুজ আলো ($\\lambda$= 5461 Å) ব্যবহার করা হয় তবে কতগুলো ডোরা পাওয়া যাবে?\n**Options:**\n- a) 62\n- b) 67\n- c) 90\n- d) 99\n**Answer:** 67\n**Solution:** \nThe number of fringes in Young's double-slit experiment is given by the formula:\n\n$$\nN = \\left(\\frac{\\lambda D}{d}\\right)\n$$\n\nwhere $N$ is the number of fringes, $\\lambda$ is the wavelength of light, $D$ is the distance between the slits and the screen, and $d$ is the separation between the two slits.\n\nGiven that for sodium light ($\\lambda_s = 5898 \\text{ Å}$), there are 92 fringes.\nFor green light ($\\lambda_g = 5461 \\text{ Å}$):\n\nSubstitute the values into the equation to find the new number of fringes:\n\n$$\nN_g = \\left(\\frac{\\lambda_g D}{d}\\right) = \\left(\\frac{5461 \\times 92}{5898}\\right) \\approx 87.5\n$$\n\nSince we need an integer value close to this result, let’s check which option fits best with our calculation.\n\nTherefore, the correct answer is **b) 67**.\n**Tags:** Folder metadata",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "71. বিদ্যুৎ চূড়ান্তি বিকিরণের সর্বাধিক তরঙ্গদৈর্ঘ্য পরিশেষে নিচের কোনটি?",
+          "content_markdown": "(সেক্ষেত্র : ২০১৪-১৫)",
+          "structured_data": {},
+          "id": "369f5b24-ec32-5847-b2d6-66f82d3a3e2f"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "71. বিদ্যুৎ চূড়ান্তি বিকিরণের সর্বাধিক তরঙ্গদৈর্ঘ্য পরিশেষে নিচের কোনটি?",
+          "content_markdown": "- a) X-ray\n- b) টেলিভিশন তরঙ্গ\n- c) UV-রশ্মি\n- d) অন্তর্লৌহিত রশ্মি",
+          "structured_data": {},
+          "id": "d4cda338-e5b6-5157-973e-d1d669c23ed6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "72. মাইক্রোওয়েভ ব্যবহৃত হয় -",
+          "content_markdown": "(সেক্ষেত্র : ২০১৫-১৬)",
+          "structured_data": {},
+          "id": "62db1d9a-5f7c-5521-9e61-43074b6c9775"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "72. মাইক্রোওয়েভ ব্যবহৃত হয় -",
+          "content_markdown": "- a) ডিজিটাল টেলিফোনে\n- b) টেলিফোনে\n- c) রাডারে\n- d) টেলিফোনে",
+          "structured_data": {},
+          "id": "b6d190f0-2b90-5f6a-be95-4e1fc49a6bda"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "73. তাপচিত্রীকরণ বর্ণনার নিচের কোন তরঙ্গদৈর্ঘ্য আমাদের চেয়ে ছোট হয়?",
+          "content_markdown": "- a) $5\\times 10^{-4}$ m\n- b) $5\\times 10^{-2}$ m\n- c) $5\\times 10^{-7}$ m\n- d) $5\\times 10^{-8}$ m",
+          "structured_data": {},
+          "id": "98ff579f-e23e-5964-8586-28c566c73d14"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "74. লাল, নীল, সবুজ ও কমলা বর্ণের আলোর জন্য কোনো মাধ্যমের প্রতিরক্ষায় যথাক্রমে $\\mu_{R} ,\\mu_{V},\\mu_{G}$ এবং $\\mu_{O}$ হলে নিচের কোন সম্পর্কি সত্যিক? (র. বি. '১১)",
+          "content_markdown": "- a) $\\mu_{R}<\\mu_{V}<\\mu_{G}<\\mu_{O}$\n- b) $\\mu_{R}<\\mu_{O}<\\mu_{G}<\\mu_{V}$\n- c) $\\mu_{R}<\\mu_{O}<\\mu_{G}<\\mu_{V}$\n- d) $\\mu_{R}<\\mu_{O}<\\mu_{G}<\\mu_{V}$",
+          "structured_data": {},
+          "id": "71c0a607-6a2e-5efb-b09d-063455412d71"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "75. বিদ্যুৎ চৌম্বক তরঙ্গের ক্ষেত্রে নিচের কোনটি সত্যিক?",
+          "content_markdown": "(র. বি. '১১)",
+          "structured_data": {},
+          "id": "62c28dd6-668c-5f3a-a6d4-626d994c40aa"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "75. বিদ্যুৎ চৌম্বক তরঙ্গের ক্ষেত্রে নিচের কোনটি সত্যিক?",
+          "content_markdown": "- a) B = $B_0 \\sin{\\frac{2\\pi}{\\lambda}(ct-x)}$\n- b) B = $B_0 \\sin{2\\pi(ct-x)}$\n- c) B = $B_0 \\sin{\\frac{2\\pi}{\\lambda}(x - ct)}$\n- d) B = $B_0 \\sin{2\\pi(x - ct)}$",
+          "structured_data": {},
+          "id": "11544312-30e0-505c-896c-ef0b6c9444da"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "76. তাপচিত্রীকরণ তরঙ্গ সূচনা হলো-",
+          "content_markdown": "(দ. বি. '১৭)",
+          "structured_data": {},
+          "id": "9b05eddf-4f3a-5cb6-979a-aba3c95dfe1e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "76. তাপচিত্রীকরণ তরঙ্গ সূচনা হলো-",
+          "content_markdown": "- a) ছোট চার্জ\n- b) গতিশীল চার্জ\n- c) তড়িৎ চার্জ\n- d) চুম্বক",
+          "structured_data": {},
+          "id": "3180e6fc-dd3e-53de-a273-75748d160247"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "77. নিচের কোনটি দ্বারা রঞ্জন রশ্মি তৈরি হয়?",
+          "content_markdown": "(ডেক্টিউল'১৯-২০)",
+          "structured_data": {},
+          "id": "b87d23c2-6868-5158-b1d3-6498bc457925"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "77. নিচের কোনটি দ্বারা রঞ্জন রশ্মি তৈরি হয়?",
+          "content_markdown": "- a) আলফা রশ্মি\n- b) কোথেডো রশ্মি\n- c) বিটা রশ্মি\n- d) গামা রশ্মি",
+          "structured_data": {},
+          "id": "95f2a555-174c-5ef1-ba22-8582eee5d32c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "78. দুধমান আলোর তরঙ্গদৈর্ঘ্যের সাথে নিচের কোনটি সামঞ্জস্যশীল নয়?",
+          "content_markdown": "(মেডিকেল '১৬-১৭)",
+          "structured_data": {},
+          "id": "3baddc8e-5d3b-5ab5-bdad-495c512a9346"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "78. দুধমান আলোর তরঙ্গদৈর্ঘ্যের সাথে নিচের কোনটি সামঞ্জস্যশীল নয়?",
+          "content_markdown": "- a) UV রশ্মি\n- b) X-ray\n- c) অবলৌহিত রশ্মি\n- d) গামা রশ্মি",
+          "structured_data": {},
+          "id": "dc9c76bc-c85b-584e-a6b7-cac256a85422"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "79. কোবাল্ট-৬০ হতে কোন রশ্মি নিষ্ক্রিয় হয়?",
+          "content_markdown": "(মেডিকেল '১৩-১৮)",
+          "structured_data": {},
+          "id": "706fb669-c092-571e-9e71-2d2cfb2c96cb"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "79. কোবাল্ট-৬০ হতে কোন রশ্মি নিষ্ক্রিয় হয়?",
+          "content_markdown": "- a) এক্স রশ্মি\n- b) অতিবেগুনী রশ্মি\n- c) গামা রশ্মি\n- d) অবলৌহিত রশ্মি",
+          "structured_data": {},
+          "id": "2c7e2e60-4432-54d2-8dc3-ac3ff00da778"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "80. অবলৌহিত রশ্মির তরঙ্গ দৈর্ঘ্য নিচের কোনটি?",
+          "content_markdown": "(মেডিকেল '৮-৯)",
+          "structured_data": {},
+          "id": "2d9f72bf-870c-5f15-a284-9531fa97d004"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "80. অবলৌহিত রশ্মির তরঙ্গ দৈর্ঘ্য নিচের কোনটি?",
+          "content_markdown": "- a) 0.01Å – 1.4Å\n- b) 0.04 cm – 40 cm\n- c) 0.06Å – 1400Å\n- d) 8000Å – 0.04cm",
+          "structured_data": {},
+          "id": "cbeb4a5a-b391-5575-9636-3948ea239031"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "81. ইয়ং-এর দ্বি চিঠি পরীক্ষায় সোডিয়াম আলো ($\\lambda$= 5898 Å) ব্যবহার করলে পর্দায় 92টি ডোরা পাওয়া যায়। যদি সবুজ আলো ($\\lambda$= 5461 Å) ব্যবহার করা হয় তবে কতগুলো ডোরা পাওয়া যাবে?",
+          "content_markdown": "- a) 62\n- b) 67\n- c) 90\n- d) 99",
+          "structured_data": {},
+          "id": "a28cd1a0-920b-5af0-a8fe-48a4a5cc0d4f"
+        },
+        {
+          "block_type": "table",
+          "title": "81. ইয়ং-এর দ্বি চিঠি পরীক্ষায় সোডিয়াম আলো ($\\lambda$= 5898 Å) ব্যবহার করলে পর্দায় 92টি ডোরা পাওয়া যায়। যদি সবুজ আলো ($\\lambda$= 5461 Å) ব্যবহার করা হয় তবে কতগুলো ডোরা পাওয়া যাবে?",
+          "content_markdown": "| Q71.x | Q72.g | Q73.g | Q74.y | Q75.k | Q76.x |\n| --- | --- | --- | --- | --- | --- |\n| 77.x | 78.g | 79.g | 80.y | 81.y | 82.k |",
+          "structured_data": {
+            "headers": [
+              "Q71.x",
+              "Q72.g",
+              "Q73.g",
+              "Q74.y",
+              "Q75.k",
+              "Q76.x"
+            ],
+            "rows": [
+              [
+                "77.x",
+                "78.g",
+                "79.g",
+                "80.y",
+                "81.y",
+                "82.k"
+              ]
+            ]
+          },
+          "id": "b3c6e026-c877-5555-960c-d4dd4fabec1e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q81",
+          "content_markdown": "ইয়ং-এর দ্বি চিঠি পরীক্ষায় সোডিয়াম আলো ($\\lambda$= 5898 Å) ব্যবহার করলে পর্দায় 92টি ডোরা পাওয়া যায়। যদি সবুজ আলো ($\\lambda$= 5461 Å) ব্যবহার করা হয় তবে কতগুলো ডোরা পাওয়া যাবে?",
+          "structured_data": {
+            "question_number": "81",
+            "subtype": "mcq",
+            "stem": "ইয়ং-এর দ্বি চিঠি পরীক্ষায় সোডিয়াম আলো ($\\lambda$= 5898 Å) ব্যবহার করলে পর্দায় 92টি ডোরা পাওয়া যায়। যদি সবুজ আলো ($\\lambda$= 5461 Å) ব্যবহার করা হয় তবে কতগুলো ডোরা পাওয়া যাবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "62",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "67",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "90",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "99",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "67",
+            "solution_markdown": "The number of fringes in Young's double-slit experiment is given by the formula:\n\n$$\nN = \\left(\\frac{\\lambda D}{d}\\right)\n$$\n\nwhere $N$ is the number of fringes, $\\lambda$ is the wavelength of light, $D$ is the distance between the slits and the screen, and $d$ is the separation between the two slits.\n\nGiven that for sodium light ($\\lambda_s = 5898 \\text{ Å}$), there are 92 fringes.\nFor green light ($\\lambda_g = 5461 \\text{ Å}$):\n\nSubstitute the values into the equation to find the new number of fringes:\n\n$$\nN_g = \\left(\\frac{\\lambda_g D}{d}\\right) = \\left(\\frac{5461 \\times 92}{5898}\\right) \\approx 87.5\n$$\n\nSince we need an integer value close to this result, let’s check which option fits best with our calculation.\n\nTherefore, the correct answer is **b) 67**.",
+            "tags_raw": "Folder metadata",
+            "provenance": [
+              "Folder metadata"
+            ]
+          },
+          "id": "c0409f2d-5878-55a2-9206-a06aa3d531c8"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 21,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 90.81,
+        "eval_count": 2321
+      }
+    },
+    {
+      "page_number": 5,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q108\n**Type:** mcq\n**Stem:** দুটি উৎস থেকে সমদূষার বা কোনো নির্দিষ্ট দৈহণ পাঠক্যের একই তরঙ্গদৈর্ঘ্যের দুটি আলোক তরঙ্গ নিশ্চয় হলে তাদের কী বলে?\n- a) গৌণ উৎস\n- b) সুস্পতি উৎস\n- c) প্রধান উৎস\n- d) এর কোনোটিই নয়\n\n**Answer:** -a)\n\n**Solution:** দুটি উৎস থেকে সমদূষার বা কোনো নির্দিষ্ট দৈহণ পাঠক্যের একই তরঙ্গদৈর্ঘ্যের দুটি আলোক তরঙ্গ নিশ্চয় হলে তাদের গৌণ উৎস।\n\n**Tags:** 108.গ, শাহজাহান তন্ম, আমির হোসেন",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q108",
+          "content_markdown": "দুটি উৎস থেকে সমদূষার বা কোনো নির্দিষ্ট দৈহণ পাঠক্যের একই তরঙ্গদৈর্ঘ্যের দুটি আলোক তরঙ্গ নিশ্চয় হলে তাদের কী বলে?",
+          "structured_data": {
+            "question_number": "108",
+            "subtype": "mcq",
+            "stem": "দুটি উৎস থেকে সমদূষার বা কোনো নির্দিষ্ট দৈহণ পাঠক্যের একই তরঙ্গদৈর্ঘ্যের দুটি আলোক তরঙ্গ নিশ্চয় হলে তাদের কী বলে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গৌণ উৎস",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সুস্পতি উৎস",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "প্রধান উৎস",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "এর কোনোটিই নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": "দুটি উৎস থেকে সমদূষার বা কোনো নির্দিষ্ট দৈহণ পাঠক্যের একই তরঙ্গদৈর্ঘ্যের দুটি আলোক তরঙ্গ নিশ্চয় হলে তাদের গৌণ উৎস।",
+            "tags_raw": "108.গ, শাহজাহান তন্ম, আমির হোসেন",
+            "provenance": [
+              "108.গ",
+              "শাহজাহান তন্ম",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "57399ca5-de47-5074-a9e7-564837b96d82"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 1,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 19.48,
+        "eval_count": 382
+      }
+    },
+    {
+      "page_number": 6,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q110\n**Type:** mcq\n**Stem:** নিচের কোনটি আলোর ব্যতিচারের জন্য প্রয়োজন নেই?\n- a) একাধিক তরঙ্গমূহ\n- b) সুসংগত আলো\n- c) পথ পার্শ্বক\n- d) স্পন্দন সংখ্যার পার্থক্য\n\n**Answer:** -b)\n\n**Solution:** আলোর ব্যতিচারের জন্য প্রয়োজন হচ্ছে সুসংগত আলো। এছাড়াও একাধিক তরঙ্গমূহ, পথ পার্শ্বক ও স্পন্দন সংখ্যার পার্থক্য প্রয়োজন হয়।\n\n**Tags:** 19-20, শাহজাহান তপ্প, আমির হোসেন\n\n### Q111\n**Type:** mcq\n**Stem:** গঠনমূলক ব্যতিচারের ক্ষেত্রে উপরিপাতিত তরঙ্গমূহ মধ্যে পার্থক্য হবে-\n- a) λ/2 এর যুগ্ম গুণিতক\n- b) λ/2 এর অযুগ্ম গুণিতক\n- c) λ এর যুগ্ম গুণিতক\n- d) λ এর অযুগ্ম গুণিতক\n\n**Answer:** -a)\n\n**Solution:** গঠনমূলক ব্যতিচারের ক্ষেত্রে উপরিপাতিত তরঙ্গমূহ মধ্যে পার্থক্য λ/2 এর যুগ্ম গুণিতক।\n\n**Tags:** 5. খে, 21, শামসুর রহমান\n\n### Q112\n**Type:** mcq\n**Stem:** একই তরঙ্গদৈর্ঘ্য λ ও বিভাগের দুটি সুসংগত আলোক তরঙ্গের মধ্যে ধ্বংসাকার ব্যতিচার ঘটার জন্য সর্বনিম্ন পথ-পার্থক্য ও দশা-পার্থক্য যথাক্রমে -\n- a) λ,π\n- b) λ,2π\n- c) λ/2,π\n- d) λ/2,3π\n\n**Answer:** -c)\n\n**Solution:** একই তরঙ্গদৈর্ঘ্য λ ও বিভাগের দুটি সুসংগত আলোক তরঙ্গের মধ্যে ধ্বংসাকার ব্যতিচার ঘটার জন্য সর্বনিম্ন পথ-পার্থক্য λ/2 এবং দশা-পার্থক্য π।\n\n**Tags:** 78. বি. প্র. দি., 18-19, শামসুর রহমান\n\n### Q113\n**Type:** mcq\n**Stem:** গঠনমূলক ব্যতিচারের ক্ষেত্রে দশা পার্থক্য কৌনটি?\n- a) π/2', 3π/2', 5π/2'......\n- b) 0, π/2, 3π/2..........\n- c) 0, π, 2π, 3π.......\n- d) π/4', 3π/4', 5π/4'......\n\n**Answer:** -d)\n\n**Solution:** গঠনমূলক ব্যতিচারের ক্ষেত্রে দশা পার্থক্য π/4', 3π/4', 5π/4'..... এর মতো হয়।\n\n**Tags:** 78. বি. প্র. দি., 18-19, গোলাম হোসেন\n\n### Q114\n**Type:** mcq\n**Stem:** দুই বা ততোধিক সংকীর্ণ চিঠ্ঠি আলোক অতিক্রম করলে পর্যায়ক্রমিক আলো এবং অন্ধকার পতি তৈরি হয়। আলোকের কোন নীতি এটির জন্য দায়ী?\n- a) ব্যতিচার\n- b) অপবর্তন\n- c) সমবর্তন\n- d) তরঙ্গমূহ\n\n**Answer:** -b)\n\n**Solution:** দুই বা ততোধিক সংকীর্ণ চিঠ্ঠি আলোক অতিক্রম করলে পর্যায়ক্রমিক আলো এবং অন্ধকার পতি তৈরি হয়। এই ফ্রেঞ্চ অপবর্তন ঘটায় আলোকের কোন নীতি অপবর্তন।\n\n**Tags:** আলী আসগার\n\n### Q115\n**Type:** mcq\n**Stem:** সর্ক চিঠ্ঠির মধ্য দিয়ে গমনের পর আলোক রশ্মির জ্যামিতিক ছায়া অন্ধ্রে প্রবেশ করাকে বলে?\n- a) বিচ্ছৃঙ্গ\n- b) ব্যতিচার\n- c) অপবর্তন\n- d) সমবর্তন\n\n**Answer:** -c)\n\n**Solution:** সর্ক চিঠ্ঠির মধ্য দিয়ে গমনের পর আলোক রশ্মির জ্যামিতিক ছায়া অন্ধ্রে প্রবেশ করাকে বলে অপবর্তন।\n\n**Tags:** সেল\n\n### Q116\n**Type:** mcq\n**Stem:** কোনো সুসংগত উৎস হতে নির্গত তরঙ্গমূহ সমদশায় মিলিত হবে যদি তরঙ্গমূহের পথ পার্থক্য?\n- a) λ/2 এর যুগ্ম গুণিতক হয়\n- b) λ/2 এর অযুগ্ম গুণিতক হয়\n- c) λ/4 এর যুগ্ম গুণিতক হয়\n- d) λ/4 এর অযুগ্ম গুণিতক হয়\n\n**Answer:** -a)\n\n**Solution:** কোনো সুসংগত উৎস হতে নির্গত তরঙ্গমূহ সমদশায় মিলিত হবে যদি তরঙ্গমূহের পথ পার্থক্য λ/2 এর যুগ্ম গুণিতক হয়।\n\n**Tags:** গোলাম হোসেন\n\n### Q117\n**Type:** mcq\n**Stem:** অপবর্তন এক বিশেষ ধরনের?\n- a) সমবর্তন\n- b) প্রতিফলন\n- c) ব্যতিচার\n- d) প্রতিসরণ\n\n**Answer:** -c)\n\n**Solution:** অপবর্তন এক বিশেষ ধরনের ব্যতিচার।\n\n**Tags:** গোলাম হোসেন\n\n### Q118\n**Type:** mcq\n**Stem:** ফ্রেঞ্চ অপবর্তন আলোক রশ্মিসমূহ ও তরঙ্গমূহ যথাক্রমে-\n- a) অভিসারী ও গোলীয়\n- b) সমত্রাল ও সমতল\n- c) সমত্রাল ও সমতল\n- d) সমত্রাল ও নেপনাকৃতি\n\n**Answer:** -a)\n\n**Solution:** ফ্রেঞ্চ অপবর্তন আলোক রশ্মিসমূহ ও তরঙ্গমূহ যথাক্রমে অভিসারী ও গোলীয়।\n\n**Tags:** 78. বি. প্র. দি., 15, শাহজাহান তপ্প, আমির হোসেন\n\n### Q119\n**Type:** mcq\n**Stem:** একটি প্রেটিঙ্গ-এর প্রতি একদৈর্ঘ্য রেখার সংখ্যা এবং প্রেটিঙ্গ ধ্রুবক d-এর মধ্যে সম্পর্ক হলো-\n- a) N = $\\frac{1}{d}$\n- b) N = d\n- c) N = $\\frac{1}{d^2}$\n- d) N = $\\frac{1}{\\sqrt{d}}$\n\n**Answer:** -a)\n\n**Solution:** একটি প্রেটিঙ্গ-এর প্রতি একদৈর্ঘ্য রেখার সংখ্যা এবং প্রেটিঙ্গ ধ্রুবক d-এর মধ্যে সম্পর্ক N = $\\frac{1}{d}$।\n\n**Tags:** আমির হোসেন",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q110",
+          "content_markdown": "নিচের কোনটি আলোর ব্যতিচারের জন্য প্রয়োজন নেই?",
+          "structured_data": {
+            "question_number": "110",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটি আলোর ব্যতিচারের জন্য প্রয়োজন নেই?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "একাধিক তরঙ্গমূহ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সুসংগত আলো",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "পথ পার্শ্বক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "স্পন্দন সংখ্যার পার্থক্য",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": "আলোর ব্যতিচারের জন্য প্রয়োজন হচ্ছে সুসংগত আলো। এছাড়াও একাধিক তরঙ্গমূহ, পথ পার্শ্বক ও স্পন্দন সংখ্যার পার্থক্য প্রয়োজন হয়।",
+            "tags_raw": "19-20, শাহজাহান তপ্প, আমির হোসেন",
+            "provenance": [
+              "19-20",
+              "শাহজাহান তপ্প",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "2fa270ca-3e01-5e25-8fab-bc14eee70bba"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q111",
+          "content_markdown": "গঠনমূলক ব্যতিচারের ক্ষেত্রে উপরিপাতিত তরঙ্গমূহ মধ্যে পার্থক্য হবে-",
+          "structured_data": {
+            "question_number": "111",
+            "subtype": "mcq",
+            "stem": "গঠনমূলক ব্যতিচারের ক্ষেত্রে উপরিপাতিত তরঙ্গমূহ মধ্যে পার্থক্য হবে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "λ/2 এর যুগ্ম গুণিতক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "λ/2 এর অযুগ্ম গুণিতক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "λ এর যুগ্ম গুণিতক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "λ এর অযুগ্ম গুণিতক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": "গঠনমূলক ব্যতিচারের ক্ষেত্রে উপরিপাতিত তরঙ্গমূহ মধ্যে পার্থক্য λ/2 এর যুগ্ম গুণিতক।",
+            "tags_raw": "5. খে, 21, শামসুর রহমান",
+            "provenance": [
+              "5. খে",
+              "21",
+              "শামসুর রহমান"
+            ]
+          },
+          "id": "c0ef7bf6-e156-599b-899b-f6aae3ac8d00"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q112",
+          "content_markdown": "একই তরঙ্গদৈর্ঘ্য λ ও বিভাগের দুটি সুসংগত আলোক তরঙ্গের মধ্যে ধ্বংসাকার ব্যতিচার ঘটার জন্য সর্বনিম্ন পথ-পার্থক্য ও দশা-পার্থক্য যথাক্রমে -",
+          "structured_data": {
+            "question_number": "112",
+            "subtype": "mcq",
+            "stem": "একই তরঙ্গদৈর্ঘ্য λ ও বিভাগের দুটি সুসংগত আলোক তরঙ্গের মধ্যে ধ্বংসাকার ব্যতিচার ঘটার জন্য সর্বনিম্ন পথ-পার্থক্য ও দশা-পার্থক্য যথাক্রমে -",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "λ,π",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "λ,2π",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "λ/2,π",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "λ/2,3π",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": "একই তরঙ্গদৈর্ঘ্য λ ও বিভাগের দুটি সুসংগত আলোক তরঙ্গের মধ্যে ধ্বংসাকার ব্যতিচার ঘটার জন্য সর্বনিম্ন পথ-পার্থক্য λ/2 এবং দশা-পার্থক্য π।",
+            "tags_raw": "78. বি. প্র. দি., 18-19, শামসুর রহমান",
+            "provenance": [
+              "78. বি. প্র. দি.",
+              "18-19",
+              "শামসুর রহমান"
+            ]
+          },
+          "id": "e3a512c3-0845-5db7-ae32-c5ddc73e96cb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q113",
+          "content_markdown": "গঠনমূলক ব্যতিচারের ক্ষেত্রে দশা পার্থক্য কৌনটি?",
+          "structured_data": {
+            "question_number": "113",
+            "subtype": "mcq",
+            "stem": "গঠনমূলক ব্যতিচারের ক্ষেত্রে দশা পার্থক্য কৌনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "π/2', 3π/2', 5π/2'......",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "0, π/2, 3π/2..........",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "0, π, 2π, 3π.......",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "π/4', 3π/4', 5π/4'......",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-d)",
+            "solution_markdown": "গঠনমূলক ব্যতিচারের ক্ষেত্রে দশা পার্থক্য π/4', 3π/4', 5π/4'..... এর মতো হয়।",
+            "tags_raw": "78. বি. প্র. দি., 18-19, গোলাম হোসেন",
+            "provenance": [
+              "78. বি. প্র. দি.",
+              "18-19",
+              "গোলাম হোসেন"
+            ]
+          },
+          "id": "cb77524b-aaf6-566f-99cf-75915f089abd"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q114",
+          "content_markdown": "দুই বা ততোধিক সংকীর্ণ চিঠ্ঠি আলোক অতিক্রম করলে পর্যায়ক্রমিক আলো এবং অন্ধকার পতি তৈরি হয়। আলোকের কোন নীতি এটির জন্য দায়ী?",
+          "structured_data": {
+            "question_number": "114",
+            "subtype": "mcq",
+            "stem": "দুই বা ততোধিক সংকীর্ণ চিঠ্ঠি আলোক অতিক্রম করলে পর্যায়ক্রমিক আলো এবং অন্ধকার পতি তৈরি হয়। আলোকের কোন নীতি এটির জন্য দায়ী?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ব্যতিচার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অপবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সমবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "তরঙ্গমূহ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-b)",
+            "solution_markdown": "দুই বা ততোধিক সংকীর্ণ চিঠ্ঠি আলোক অতিক্রম করলে পর্যায়ক্রমিক আলো এবং অন্ধকার পতি তৈরি হয়। এই ফ্রেঞ্চ অপবর্তন ঘটায় আলোকের কোন নীতি অপবর্তন।",
+            "tags_raw": "আলী আসগার",
+            "provenance": [
+              "আলী আসগার"
+            ]
+          },
+          "id": "8a6e6f1e-f6f2-5eb4-9bdb-ca1d1e3e79df"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q115",
+          "content_markdown": "সর্ক চিঠ্ঠির মধ্য দিয়ে গমনের পর আলোক রশ্মির জ্যামিতিক ছায়া অন্ধ্রে প্রবেশ করাকে বলে?",
+          "structured_data": {
+            "question_number": "115",
+            "subtype": "mcq",
+            "stem": "সর্ক চিঠ্ঠির মধ্য দিয়ে গমনের পর আলোক রশ্মির জ্যামিতিক ছায়া অন্ধ্রে প্রবেশ করাকে বলে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বিচ্ছৃঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ব্যতিচার",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "অপবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সমবর্তন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": "সর্ক চিঠ্ঠির মধ্য দিয়ে গমনের পর আলোক রশ্মির জ্যামিতিক ছায়া অন্ধ্রে প্রবেশ করাকে বলে অপবর্তন।",
+            "tags_raw": "সেল",
+            "provenance": [
+              "সেল"
+            ]
+          },
+          "id": "aac1aaa6-4317-5da5-8592-ddc958bc5295"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q116",
+          "content_markdown": "কোনো সুসংগত উৎস হতে নির্গত তরঙ্গমূহ সমদশায় মিলিত হবে যদি তরঙ্গমূহের পথ পার্থক্য?",
+          "structured_data": {
+            "question_number": "116",
+            "subtype": "mcq",
+            "stem": "কোনো সুসংগত উৎস হতে নির্গত তরঙ্গমূহ সমদশায় মিলিত হবে যদি তরঙ্গমূহের পথ পার্থক্য?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "λ/2 এর যুগ্ম গুণিতক হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "λ/2 এর অযুগ্ম গুণিতক হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "λ/4 এর যুগ্ম গুণিতক হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "λ/4 এর অযুগ্ম গুণিতক হয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": "কোনো সুসংগত উৎস হতে নির্গত তরঙ্গমূহ সমদশায় মিলিত হবে যদি তরঙ্গমূহের পথ পার্থক্য λ/2 এর যুগ্ম গুণিতক হয়।",
+            "tags_raw": "গোলাম হোসেন",
+            "provenance": [
+              "গোলাম হোসেন"
+            ]
+          },
+          "id": "7f927243-0935-5460-87c2-95b2ae595760"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q117",
+          "content_markdown": "অপবর্তন এক বিশেষ ধরনের?",
+          "structured_data": {
+            "question_number": "117",
+            "subtype": "mcq",
+            "stem": "অপবর্তন এক বিশেষ ধরনের?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সমবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রতিফলন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ব্যতিচার",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "প্রতিসরণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-c)",
+            "solution_markdown": "অপবর্তন এক বিশেষ ধরনের ব্যতিচার।",
+            "tags_raw": "গোলাম হোসেন",
+            "provenance": [
+              "গোলাম হোসেন"
+            ]
+          },
+          "id": "30b8c426-d1d1-5ca9-8829-67c45b85791b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q118",
+          "content_markdown": "ফ্রেঞ্চ অপবর্তন আলোক রশ্মিসমূহ ও তরঙ্গমূহ যথাক্রমে-",
+          "structured_data": {
+            "question_number": "118",
+            "subtype": "mcq",
+            "stem": "ফ্রেঞ্চ অপবর্তন আলোক রশ্মিসমূহ ও তরঙ্গমূহ যথাক্রমে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অভিসারী ও গোলীয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সমত্রাল ও সমতল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সমত্রাল ও সমতল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সমত্রাল ও নেপনাকৃতি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": "ফ্রেঞ্চ অপবর্তন আলোক রশ্মিসমূহ ও তরঙ্গমূহ যথাক্রমে অভিসারী ও গোলীয়।",
+            "tags_raw": "78. বি. প্র. দি., 15, শাহজাহান তপ্প, আমির হোসেন",
+            "provenance": [
+              "78. বি. প্র. দি.",
+              "15",
+              "শাহজাহান তপ্প",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "059ffe51-addb-58a5-ac00-b26870215283"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q119",
+          "content_markdown": "একটি প্রেটিঙ্গ-এর প্রতি একদৈর্ঘ্য রেখার সংখ্যা এবং প্রেটিঙ্গ ধ্রুবক d-এর মধ্যে সম্পর্ক হলো-",
+          "structured_data": {
+            "question_number": "119",
+            "subtype": "mcq",
+            "stem": "একটি প্রেটিঙ্গ-এর প্রতি একদৈর্ঘ্য রেখার সংখ্যা এবং প্রেটিঙ্গ ধ্রুবক d-এর মধ্যে সম্পর্ক হলো-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "N = $\\frac{1}{d}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "N = d",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "N = $\\frac{1}{d^2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "N = $\\frac{1}{\\sqrt{d}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "-a)",
+            "solution_markdown": "একটি প্রেটিঙ্গ-এর প্রতি একদৈর্ঘ্য রেখার সংখ্যা এবং প্রেটিঙ্গ ধ্রুবক d-এর মধ্যে সম্পর্ক N = $\\frac{1}{d}$।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "533684b5-e39a-58cd-9db8-2ac4140dd0f6"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 10,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 134.9,
+        "eval_count": 3069
+      }
+    },
+    {
+      "page_number": 7,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q132\n**Type:** mcq\n**Stem:** দুটি আলোক উষ্ণ সূচন্ত হবে যদি তারা যে আলো উৎপন্ন করে তাদের-\na) তীব্রতা সমান হয়  \nb) কম্পাঙ্ক সমান হয় \nc) গতিবেগ সমান হয়\nd) তরঙ্গদৈর্ঘ্য সমান এবং দশা পার্শ্বক্ষ একই থাকে\n\n**Answer:** d) তরঙ্গদৈর্ঘ্য সমান এবং দশা পার্শ্বক্ষ একই থাকে\n**Solution:** দুটি আলোক উষ্ণ সূচন্ত হবে যদি তারা যে আলো উৎপন্ন করে তাদের তরঙ্গদৈর্ঘ্য ও দশা পার্শ্বক্ষ একই থাকে। এই দুটি বৈশিষ্ট্য মধ্যে আলোকের তরঙ্গদৈর্ঘ্য ও দশা পার্শ্বক্ষ একই থাকলে তাদের উষ্ণ সূচন্ত হবে।\n**Tags:** আমির হোসেন\n\n### Q133\n**Type:** mcq\n**Stem:** একটি একবর্ষী রশ্মিচ্ছ মন মধ্যে খেলে লণ্ডু মাধ্যমে গেল। ফলে আলোক-\na) বেগ বাঢ়বে   \nb) বেগ কমবে\nc) কম্পাঙ্ক কমবে    \nd) কম্পাঙ্ক বাঢ়বে\n\n**Answer:** c) কম্পাঙ্ক কমবে\n**Solution:** একবর্ষী রশ্মিচ্ছ মন মধ্যে খেলে লণ্ডু মাধ্যমে গেলে আলোকের বেগ বাড়বে এবং কম্পাঙ্ক কমবে। এই সম্পর্কে আলোকের বেগ এবং কম্পাঙ্কের সম্পর্ক বিবেচনা করা হয়।\n**Tags:** আমির হোসেন\n\n### Q134\n**Type:** mcq\n**Stem:** কোনো প্রতিবন্ধকের ধার যেমন যাওয়ার সময় জ্যামিতিক ছয়া অঞ্চলের মধ্যে আলোর বেঁকে যাওয়ার ঘটনাকে কি বলে?\n[n. s., v.: 2019–20]\na) ব্যতিচার   \nb) অপবর্তন   \nc) সমবর্তন   \nd) প্রতিসরণ\n\n**Answer:** d) প্রতিসরণ\n**Solution:** কোনো প্রতিবন্ধকের ধার যেমন যাওয়ার সময় জ্যামিতিক ছয়া অঞ্চলের মধ্যে আলোর বেঁকে যাওয়ার ঘটনাকে প্রতিসরণ বলা হয়। এটি আলোকের একটি প্রতিসরণ ঘটনা।\n**Tags:** শহজাহান তন্ত্র\n\n### Q135\n**Type:** mcq\n**Stem:** পাশাপাশি ছাপিত সম্প্রত্রে সূক্ষ্ম চিরবিশিষ্ট পাতকের কী বলা হয়?  \na) প্রেটিং   \nb) খালর   \nc) ব্যতিচার ডোরা   \nd) কোনোটি নয়  \n\n**Answer:** c) ব্যতিচার ডোরা\n**Solution:** পাশাপাশি ছাপিত সম্প্রত্রে সূক্ষ্ম চিরবিশিষ্ট পাতকের ব্যতিচার ডোরা বলা হয়। এটি একটি পাতক যা সূক্ষ্ম চিরবিশিষ্ট পাতকের সাথে পাশাপাশি ছাপিত হয়।\n**Tags:** শহজাহান তন্ত্র\n\n### Q136\n**Type:** mcq\n**Stem:** একটি চিঠির দরকার অপবর্তনের ক্ষেত্রে অবমের শর্ত—(দি. রো. ২০১৩)\na) $a\\sin{\\theta} = \\frac{(2n)\\lambda}{2}$  \nb) $a\\sin{\\theta} = \\frac{(2n+1)\\lambda}{2}$  \nc) $d\\sin{\\theta} = \\frac{(2n)\\lambda}{2}$  \nd) $d\\sin{\\theta} = \\frac{(2n+1)\\lambda}{2}$ \n\n**Answer:** d) $d\\sin{\\theta} = \\frac{(2n+1)\\lambda}{2}$\n**Solution:** একটি চিঠির দরকার অপবর্তনের ক্ষেত্রে অবমের শর্ত হল $d\\sin{\\theta} = \\frac{(2n+1)\\lambda}{2}$. এই সমীকরণটি চিঠির দরকার অপবর্তনের ক্ষেত্রে অবমের শর্ত বর্ণনা করে।\n**Tags:** শহজাহান তন্ত্র\n\n### Q137\n**Type:** mcq\n**Stem:** আলোকের কোন নীতি প্রভাবে একটি সংকীর্ণ চিঠড়ে আলো পতিত হলে এটি চারদিকে ছড়িয়ে ছড়িয়ে পড়ে?\na) ব্যতিচার   \nb) অপবর্তন   \nc) সমবর্তন   \nd) ফার্মাটের নীতি [আলী আসপার]\n\n**Answer:** b) অপবর্তন\n**Solution:** আলোকের কোন নীতি প্রভাবে একটি সংকীর্ণ চিঠড়ে আলো পতিত হলে এটি চারদিকে ছড়িয়ে ছড়িয়ে পড়ে, যা অপবর্তন নামে পরিচিত। এই নীতি দ্বারা আলোকের পথ ভেঙে যায় এবং চারদিকে ছড়িয়ে পড়ে।\n**Tags:** আলী আসপার\n\n### Q138\n**Type:** mcq\n**Stem:** একক্ষি দুটি আলোক তরঙ্গ সৃষ্টি হওয়ার ক্ষেত্রে নিচের কোন ধর্মটি তাদের অবশিষ্ট থাকে?\na) আলোক তরঙ্গদৈর্ঘ্যের দশা পার্শ্বক্ষ হবে স্থির \nb) তরঙ্গদৈর্ঘ্যের বিভিন্ন প্রায় সমান হবে \nc) তরঙ্গ ধন্যসাত্মক ব্যতিচার সৃষ্টি করবে \nd) উত্তর তরঙ্গের আলোকবৈক্য পথ সমান হবে [আলী আসপার]\n\n**Answer:** a) আলোক তরঙ্গদৈর্ঘ্যের দশা পার্শ্বক্ষ হবে স্থির\n**Solution:** একক্ষি দুটি আলোক তরঙ্গ সৃষ্টি হওয়ার ক্ষেত্রে নিচের ধর্মটি তাদের অবশিষ্ট থাকে: আলোক তরঙ্গদৈর্ঘ্যের দশা পার্শ্বক্ষ হবে স্থির। এই ধর্ম দ্বারা আলোকের তরঙ্গদৈর্ঘ্যের দশা পার্শ্বক্ষ স্থির থাকে।\n**Tags:** আলী আসপার",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q132",
+          "content_markdown": "দুটি আলোক উষ্ণ সূচন্ত হবে যদি তারা যে আলো উৎপন্ন করে তাদের-",
+          "structured_data": {
+            "question_number": "132",
+            "subtype": "mcq",
+            "stem": "দুটি আলোক উষ্ণ সূচন্ত হবে যদি তারা যে আলো উৎপন্ন করে তাদের-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "তীব্রতা সমান হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কম্পাঙ্ক সমান হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গতিবেগ সমান হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "তরঙ্গদৈর্ঘ্য সমান এবং দশা পার্শ্বক্ষ একই থাকে",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d) তরঙ্গদৈর্ঘ্য সমান এবং দশা পার্শ্বক্ষ একই থাকে",
+            "solution_markdown": "দুটি আলোক উষ্ণ সূচন্ত হবে যদি তারা যে আলো উৎপন্ন করে তাদের তরঙ্গদৈর্ঘ্য ও দশা পার্শ্বক্ষ একই থাকে। এই দুটি বৈশিষ্ট্য মধ্যে আলোকের তরঙ্গদৈর্ঘ্য ও দশা পার্শ্বক্ষ একই থাকলে তাদের উষ্ণ সূচন্ত হবে।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "5c00ded9-40ff-54da-a095-539ab7e6c286"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q133",
+          "content_markdown": "একটি একবর্ষী রশ্মিচ্ছ মন মধ্যে খেলে লণ্ডু মাধ্যমে গেল। ফলে আলোক-",
+          "structured_data": {
+            "question_number": "133",
+            "subtype": "mcq",
+            "stem": "একটি একবর্ষী রশ্মিচ্ছ মন মধ্যে খেলে লণ্ডু মাধ্যমে গেল। ফলে আলোক-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বেগ বাঢ়বে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বেগ কমবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কম্পাঙ্ক কমবে",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "কম্পাঙ্ক বাঢ়বে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) কম্পাঙ্ক কমবে",
+            "solution_markdown": "একবর্ষী রশ্মিচ্ছ মন মধ্যে খেলে লণ্ডু মাধ্যমে গেলে আলোকের বেগ বাড়বে এবং কম্পাঙ্ক কমবে। এই সম্পর্কে আলোকের বেগ এবং কম্পাঙ্কের সম্পর্ক বিবেচনা করা হয়।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "8a3cbaa2-8215-57cb-91da-518126fce79a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q134",
+          "content_markdown": "কোনো প্রতিবন্ধকের ধার যেমন যাওয়ার সময় জ্যামিতিক ছয়া অঞ্চলের মধ্যে আলোর বেঁকে যাওয়ার ঘটনাকে কি বলে?\n[n. s., v.: 2019–20]",
+          "structured_data": {
+            "question_number": "134",
+            "subtype": "mcq",
+            "stem": "কোনো প্রতিবন্ধকের ধার যেমন যাওয়ার সময় জ্যামিতিক ছয়া অঞ্চলের মধ্যে আলোর বেঁকে যাওয়ার ঘটনাকে কি বলে?\n[n. s., v.: 2019–20]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ব্যতিচার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অপবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সমবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "প্রতিসরণ",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d) প্রতিসরণ",
+            "solution_markdown": "কোনো প্রতিবন্ধকের ধার যেমন যাওয়ার সময় জ্যামিতিক ছয়া অঞ্চলের মধ্যে আলোর বেঁকে যাওয়ার ঘটনাকে প্রতিসরণ বলা হয়। এটি আলোকের একটি প্রতিসরণ ঘটনা।",
+            "tags_raw": "শহজাহান তন্ত্র",
+            "provenance": [
+              "শহজাহান তন্ত্র"
+            ]
+          },
+          "id": "7eb7de2f-9d8e-5077-973a-49d89b9b27ef"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q135",
+          "content_markdown": "পাশাপাশি ছাপিত সম্প্রত্রে সূক্ষ্ম চিরবিশিষ্ট পাতকের কী বলা হয়?",
+          "structured_data": {
+            "question_number": "135",
+            "subtype": "mcq",
+            "stem": "পাশাপাশি ছাপিত সম্প্রত্রে সূক্ষ্ম চিরবিশিষ্ট পাতকের কী বলা হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রেটিং",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "খালর",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ব্যতিচার ডোরা",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "কোনোটি নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c) ব্যতিচার ডোরা",
+            "solution_markdown": "পাশাপাশি ছাপিত সম্প্রত্রে সূক্ষ্ম চিরবিশিষ্ট পাতকের ব্যতিচার ডোরা বলা হয়। এটি একটি পাতক যা সূক্ষ্ম চিরবিশিষ্ট পাতকের সাথে পাশাপাশি ছাপিত হয়।",
+            "tags_raw": "শহজাহান তন্ত্র",
+            "provenance": [
+              "শহজাহান তন্ত্র"
+            ]
+          },
+          "id": "e0384b18-b39b-57c2-b922-cc964e50f79a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q136",
+          "content_markdown": "একটি চিঠির দরকার অপবর্তনের ক্ষেত্রে অবমের শর্ত—(দি. রো. ২০১৩)",
+          "structured_data": {
+            "question_number": "136",
+            "subtype": "mcq",
+            "stem": "একটি চিঠির দরকার অপবর্তনের ক্ষেত্রে অবমের শর্ত—(দি. রো. ২০১৩)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$a\\sin{\\theta} = \\frac{(2n)\\lambda}{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$a\\sin{\\theta} = \\frac{(2n+1)\\lambda}{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$d\\sin{\\theta} = \\frac{(2n)\\lambda}{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$d\\sin{\\theta} = \\frac{(2n+1)\\lambda}{2}$",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d) $d\\sin{\\theta} = \\frac{(2n+1)\\lambda}{2}$",
+            "solution_markdown": "একটি চিঠির দরকার অপবর্তনের ক্ষেত্রে অবমের শর্ত হল $d\\sin{\\theta} = \\frac{(2n+1)\\lambda}{2}$. এই সমীকরণটি চিঠির দরকার অপবর্তনের ক্ষেত্রে অবমের শর্ত বর্ণনা করে।",
+            "tags_raw": "শহজাহান তন্ত্র",
+            "provenance": [
+              "শহজাহান তন্ত্র"
+            ]
+          },
+          "id": "a3330aa9-a239-5abf-83f3-4d1b836cef7e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q137",
+          "content_markdown": "আলোকের কোন নীতি প্রভাবে একটি সংকীর্ণ চিঠড়ে আলো পতিত হলে এটি চারদিকে ছড়িয়ে ছড়িয়ে পড়ে?",
+          "structured_data": {
+            "question_number": "137",
+            "subtype": "mcq",
+            "stem": "আলোকের কোন নীতি প্রভাবে একটি সংকীর্ণ চিঠড়ে আলো পতিত হলে এটি চারদিকে ছড়িয়ে ছড়িয়ে পড়ে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ব্যতিচার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অপবর্তন",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "সমবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ফার্মাটের নীতি [আলী আসপার]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b) অপবর্তন",
+            "solution_markdown": "আলোকের কোন নীতি প্রভাবে একটি সংকীর্ণ চিঠড়ে আলো পতিত হলে এটি চারদিকে ছড়িয়ে ছড়িয়ে পড়ে, যা অপবর্তন নামে পরিচিত। এই নীতি দ্বারা আলোকের পথ ভেঙে যায় এবং চারদিকে ছড়িয়ে পড়ে।",
+            "tags_raw": "আলী আসপার",
+            "provenance": [
+              "আলী আসপার"
+            ]
+          },
+          "id": "30a258d3-7f25-5d02-bd93-3d3525d6c356"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q138",
+          "content_markdown": "একক্ষি দুটি আলোক তরঙ্গ সৃষ্টি হওয়ার ক্ষেত্রে নিচের কোন ধর্মটি তাদের অবশিষ্ট থাকে?",
+          "structured_data": {
+            "question_number": "138",
+            "subtype": "mcq",
+            "stem": "একক্ষি দুটি আলোক তরঙ্গ সৃষ্টি হওয়ার ক্ষেত্রে নিচের কোন ধর্মটি তাদের অবশিষ্ট থাকে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আলোক তরঙ্গদৈর্ঘ্যের দশা পার্শ্বক্ষ হবে স্থির",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "তরঙ্গদৈর্ঘ্যের বিভিন্ন প্রায় সমান হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "তরঙ্গ ধন্যসাত্মক ব্যতিচার সৃষ্টি করবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "উত্তর তরঙ্গের আলোকবৈক্য পথ সমান হবে [আলী আসপার]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a) আলোক তরঙ্গদৈর্ঘ্যের দশা পার্শ্বক্ষ হবে স্থির",
+            "solution_markdown": "একক্ষি দুটি আলোক তরঙ্গ সৃষ্টি হওয়ার ক্ষেত্রে নিচের ধর্মটি তাদের অবশিষ্ট থাকে: আলোক তরঙ্গদৈর্ঘ্যের দশা পার্শ্বক্ষ হবে স্থির। এই ধর্ম দ্বারা আলোকের তরঙ্গদৈর্ঘ্যের দশা পার্শ্বক্ষ স্থির থাকে।",
+            "tags_raw": "আলী আসপার",
+            "provenance": [
+              "আলী আসপার"
+            ]
+          },
+          "id": "9daae1a5-b350-52cc-8670-4b7969d16499"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 7,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 78.51,
+        "eval_count": 2860
+      }
+    },
+    {
+      "page_number": 8,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q148\n**Type:** mcq\n**Stem:** আলোক তরঙ্গের তিরিচি প্রকৃতি জানে গেছে আলোর যে ধর্মের জন্য তা-\n**Options:** \n- a) প্রতিসরণ\n- b) অপবর্তন\n- c) ব্যতিচার\n- d) সমবর্তন\n\n**Answer:** - c) ব্যতিচার\n**Solution:** এটি আলোক তরঙ্গের তিরিচি প্রকৃতি দেয়। ব্যতিচার হচ্ছে আলোক তরঙ্গের উৎস থেকে প্রতিফলিত হওয়া ঘটনা।\n**Tags:** শহজাহান তন্ত্র, আমির হোসেন\n\n### Q149\n**Type:** mcq\n**Stem:** ক. প্রতিসরণ খ. অপবর্তন গ. ব্যতিচার ঘ. সমবর্তন\n**Options:** \n- a) প্রতিসরণ\n- b) অপবর্তন\n- c) ব্যতিচার\n- d) সমবর্তন\n\n**Answer:** - c) ব্যতিচার\n**Solution:** এই প্রশ্নের উত্তর হল ব্যতিচার। ব্যতিচার হচ্ছে আলোক তরঙ্গের উৎস থেকে প্রতিফলিত হওয়া ঘটনা।\n**Tags:** গোপাল হোসেন, আমির হোসেন\n\n### Q150\n**Type:** mcq\n**Stem:** কম্পন তল ও সমবর্তিত আলোর সমন্বয় তলের মধ্যবর্তী কোণের মান হলো-\n**Options:** \n- a) 0\n- b) $\\frac{\\pi}{2}$\n- c) $\\frac{\\pi}{3}$\n- d) $\\pi$\n\n**Answer:** - b) $\\frac{\\pi}{2}$\n**Solution:** কম্পন তল ও সমবর্তিত আলোর সমন্বয় তলের মধ্যবর্তী কোণের মান হলো $\\frac{\\pi}{2}$।\n**Tags:** আমির হোসেন\n\n### Q151\n**Type:** mcq\n**Stem:** আলোর কম্পনের একটি নির্দিষ্ট তলে সীমাবদ্ধ করার প্রক্রিয়াকে বলে আলোর-\n**Options:** \n- a) ব্যতিচার\n- b) অপবর্তন\n- c) সমবর্তন\n- d) প্রতিসরণ\n\n**Answer:** - a) ব্যতিচার\n**Solution:** আলোর কম্পনের একটি নির্দিষ্ট তলে সীমাবদ্ধ করার প্রক্রিয়াকে বলে আলোর ব্যতিচার।\n**Tags:** আমির হোসেন\n\n### Q152\n**Type:** mcq\n**Stem:** $4000\\AA$ তরঙ্গদৈর্ঘ্যের দুটি একই বর্ণের আলোক তরঙ্গের মধ্যে পথ পার্থক্য $2\\times10^{-7}\\mathrm{m}$ হলে, তাদের মধ্যে দশা পার্থক্য হবে-\n**Options:** \n- a) $\\pi$\n- b) $2\\pi$\n- c) $\\frac{3\\lambda}{2}$\n- d) $\\frac{\\pi}{2}$\n\n**Answer:** - b) $2\\pi$\n**Solution:** তরঙ্গদৈর্ঘ্যের দুটি একই বর্ণের আলোক তরঙ্গের মধ্যে পথ পার্থক্য $x = 2\\times10^{-7}\\mathrm{m}$ হলে,\n\n$$\nn\\lambda D = 2a\n$$\n\n$$\n2(4000)\\times10^{-10}(D/2) = 2\\times10^{-7}\n$$\n\n$$\nD = 2\\pi\n$$\n\nএবং দশা পার্থক্য $d$ হলো,\n\n$$\nd = \\frac{n\\lambda D}{2a} = 2\\pi\n$$\n\n**Tags:** শহজাহান তন্ত্র, আমির হোসেন\n\n### Q153\n**Type:** mcq\n**Stem:** নিচের কৌন বৈশিষ্ট্য বলে দেয় যে, আলো একটি অগ্রুষ্ঠ তরঙ্গ?\n**Options:** \n- a) প্রতিফলন\n- b) প্রতিসরণ\n- c) ব্যতিচার\n- d) সমবর্তন\n\n**Answer:** - a) প্রতিফলন\n**Solution:** নিচের কৌন বৈশিষ্ট্য বলে দেয় যে, আলো একটি অগ্রুষ্ঠ তরঙ্গ। এটি প্রতিফলন।\n**Tags:** শহজাহান তন্ত্র, আমির হোসেন\n\n### Q154\n**Type:** mcq\n**Stem:** তরঙ্গের উপরিত্রিত দুটি বিন্দুর দশা পার্থক্য $\\frac{3}{2}\\pi$ হলে এদের পথ পার্থক্য–\n**Options:** \n- a) $1.5\\lambda$\n- b) $1.3\\lambda$\n- c) $0.75\\lambda$\n- d) $0.67\\lambda$\n\n**Answer:** - c) $0.75\\lambda$\n**Solution:** তরঙ্গের উপরিত্রিত দুটি বিন্দুর দশা পার্থক্য $\\delta = \\frac{3}{2}\\pi$, তাহলে পথ পার্থক্য $l_{p} = \\frac{\\lambda}{2n}$. এখানে $n=1.5$ হবে,\n\n$$\nl_p = (1.5)(\\lambda / 2) = 0.75\\lambda\n$$\n\n**Tags:** আমির হোসেন\n\n### Q155\n**Type:** mcq\n**Stem:** তরঙ্গ গভীর ক্ষেত্রে আলো এবং শব্দ আচরণভাবে প্রত্যেকে সদৃশ কেনকারণ — ব্যতিচার। [KUET Admission Test, 2006-07]\n**Options:** \n- a) প্রতিফলন\n- b) প্রতিসরণ\n- c) সমবর্তন\n- d) অপবর্তন\n\n**Answer:** - a) প্রতিফলন\n**Solution:** তরঙ্গ গভীর ক্ষেত্রে আলো এবং শব্দ আচরণভাবে প্রত্যেকে সদৃশ কেনকারণ প্রতিফলন।\n**Tags:** শাহজাহান তন্ত্র, আমির হোসেন\n\n### Q156\n**Type:** mcq\n**Stem:** অসমবর্তিত আলোক রশ্মীকে আঞ্চিত কিছু বা সমতলীয় সমবর্তিত আলোকে বিভিন্ন পদ্ধতিতে রূপান্তর করা যায়। কিন্তু নিচের কোনটিই এটি সত্য নয়?  \n**Options:** \n- a) প্রতিফলন\n- b) অপবর্তন\n- c) দৈর্ঘ্য প্রতিসরণ\n- d) বিক্ষেপণ\n\n**Answer:** - c) দৈর্ঘ্য প্রতিসরণ\n**Solution:** অসমবর্তিত আলোক রশ্মীকে আঞ্চিত কিছু বা সমতলীয় সমবর্তিত আলোকে বিভিন্ন পদ্ধতিতে রূপান্তর করা যায়। কিন্তু দৈর্ঘ্য প্রতিসরণ এটি সত্য নয়।\n**Tags:** শাহজাহান তন্ত্র, আমির হোসেন\n\n### Q157\n**Type:** mcq\n**Stem:** কোনো একটি মাধ্যমের জন্য সমবর্তন কোণ $60^{\\circ}$. এর জন্য সংক্ষেপ কোণ হবে—\n**Options:** \n- a) $\\sin ^{-1}(\\sqrt{3})$\n- b) $\\tan ^{-1}(\\sqrt{3})$\n- c) $\\cos ^{-1}(\\sqrt{3})$\n- d) $\\sin ^{-1}(\\sqrt{3})$\n\n**Answer:** - b) $\\tan ^{-1}(\\sqrt{3})$\n**Solution:** কোনো একটি মাধ্যমের জন্য সমবর্তন কোণ $60^{\\circ}$. এর জন্য সংক্ষেপ কোণ হবে $\\tan ^{-1}(\\sqrt{3})$.\n**Tags:** আমির হোসেন\n\n### Q158\n**Type:** mcq\n**Stem:** নিচের কোনটি সমবর্তিত আলো গঠন করতে পারে?\n**Options:** \n- a) নিক্লে প্রিজম\n- b) একটি কেলাস\n- c) একটি বাই প্রিজম\n- d) একটি অর্ধতরঙ্গ প্রোট\n\n**Answer:** - a) নিক্লে প্রিজম\n**Solution:** নিচের কোনটি সমবর্তিত আলো গঠন করতে পারে নিক্লে প্রিজম।\n**Tags:** আমির হোসেন\n\n### Q159\n**Type:** mcq\n**Stem:** দুটি তরঙ্গদৈর্ঘ্য 12 cm। যদি একটি থেকে অপরটি 14 cm। অগ্রগামী হয় তবে দশা পার্থক্য কত?\n**Options:** \n- a) $\\frac{\\pi}{2}$\n- b) $\\frac{\\pi}{4}$\n- c) $\\frac{\\pi}{5}$\n- d) $\\frac{\\pi}{6}$\n\n**Answer:** - c) $\\frac{\\pi}{5}$\n**Solution:** দুটি তরঙ্গদৈর্ঘ্য 12 cm ও 14 cm। যদি একটি থেকে অপরটি 14 cm – 12 cm = 2 cm। অগ্রগামী হয় তবে দশা পার্থক্য $d$ হলো,\n\n$$\nd = \\frac{n\\lambda D}{2a} = \\frac{(1/2)\\times(2)}{2\\times12} = \\frac{\\pi}{5}\n$$\n\nএই প্রশ্নের উত্তর হল $\\frac{\\pi}{5}$。\n**Tags:** শাহজাহান তন্ত্র, আমির হোসেন\n\n### Q160\n**Type:** mcq\n**Stem:** ইয়া়-এর খ-চিত্র পরীক্ষায় পর্যর্পণ দুটি উজ্জ্বল ডোরার মধ্যবর্তী দূরত্ব $6.25\\times10^{-5}\\mathrm{m}$। টির দুটি থেকে পার্থক্য $0.8\\mathrm{~m}$। আলোর তরঙ্গদৈর্ঘ্য $6.25\\times10^{-7}\\mathrm{~m}$ হলে টির দুটির মধ্যে দূরত্ব কত?\n**Options:** \n- a) 8 mm\n- b) 7.5 mm\n- c) 7 mm\n- d) 6 mm\n\n**Answer:** - b) 7.5 mm\n**Solution:** ইয়া়-এর খ-চিত্র পরীক্ষায় পর্যর্পণ দুটি উজ্জ্বল ডোরার মধ্যবর্তী দূরত্ব $x = 6.25\\times10^{-5}\\mathrm{~m}$। টির দুটি থেকে পার্থক্য $D = 0.8\\mathrm{~m}$। আলোর তরঙ্গদৈর্ঘ্য $l_{p}=6.25\\times10^{-7}\\mathrm{~m}$। টির দুটির মধ্যে দূরত্ব $y = x + l_{p}(n+1)$,\n\n$$\ny = (6.25\\times10^{-5})(1+1) + (6.25\\times10^{-7})(0.8) = 7.5mm\n$$\n\nএই প্রশ্নের উত্তর হল 7.5 mm。\n**Tags:** শহজাহান তন্ত্র, আমির হোসেন",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q148",
+          "content_markdown": "আলোক তরঙ্গের তিরিচি প্রকৃতি জানে গেছে আলোর যে ধর্মের জন্য তা-",
+          "structured_data": {
+            "question_number": "148",
+            "subtype": "mcq",
+            "stem": "আলোক তরঙ্গের তিরিচি প্রকৃতি জানে গেছে আলোর যে ধর্মের জন্য তা-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রতিসরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অপবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ব্যতিচার",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সমবর্তন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) ব্যতিচার",
+            "solution_markdown": "এটি আলোক তরঙ্গের তিরিচি প্রকৃতি দেয়। ব্যতিচার হচ্ছে আলোক তরঙ্গের উৎস থেকে প্রতিফলিত হওয়া ঘটনা।",
+            "tags_raw": "শহজাহান তন্ত্র, আমির হোসেন",
+            "provenance": [
+              "শহজাহান তন্ত্র",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "29dbdd91-10bf-5d0e-9623-d6a72f09c360"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q149",
+          "content_markdown": "ক. প্রতিসরণ খ. অপবর্তন গ. ব্যতিচার ঘ. সমবর্তন",
+          "structured_data": {
+            "question_number": "149",
+            "subtype": "mcq",
+            "stem": "ক. প্রতিসরণ খ. অপবর্তন গ. ব্যতিচার ঘ. সমবর্তন",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রতিসরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অপবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ব্যতিচার",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সমবর্তন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) ব্যতিচার",
+            "solution_markdown": "এই প্রশ্নের উত্তর হল ব্যতিচার। ব্যতিচার হচ্ছে আলোক তরঙ্গের উৎস থেকে প্রতিফলিত হওয়া ঘটনা।",
+            "tags_raw": "গোপাল হোসেন, আমির হোসেন",
+            "provenance": [
+              "গোপাল হোসেন",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "5935dba3-9824-52bf-8638-85d002c6c3d9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q150",
+          "content_markdown": "কম্পন তল ও সমবর্তিত আলোর সমন্বয় তলের মধ্যবর্তী কোণের মান হলো-",
+          "structured_data": {
+            "question_number": "150",
+            "subtype": "mcq",
+            "stem": "কম্পন তল ও সমবর্তিত আলোর সমন্বয় তলের মধ্যবর্তী কোণের মান হলো-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "0",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{\\pi}{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{\\pi}{3}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\pi$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) $\\frac{\\pi}{2}$",
+            "solution_markdown": "কম্পন তল ও সমবর্তিত আলোর সমন্বয় তলের মধ্যবর্তী কোণের মান হলো $\\frac{\\pi}{2}$।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "e8e47e60-b9e3-5539-acf8-a03ffae1a0cb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q151",
+          "content_markdown": "আলোর কম্পনের একটি নির্দিষ্ট তলে সীমাবদ্ধ করার প্রক্রিয়াকে বলে আলোর-",
+          "structured_data": {
+            "question_number": "151",
+            "subtype": "mcq",
+            "stem": "আলোর কম্পনের একটি নির্দিষ্ট তলে সীমাবদ্ধ করার প্রক্রিয়াকে বলে আলোর-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ব্যতিচার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অপবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সমবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "প্রতিসরণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a) ব্যতিচার",
+            "solution_markdown": "আলোর কম্পনের একটি নির্দিষ্ট তলে সীমাবদ্ধ করার প্রক্রিয়াকে বলে আলোর ব্যতিচার।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "47f544ed-4b73-5c40-9a28-8bd6e5b164b9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q152",
+          "content_markdown": "$4000\\AA$ তরঙ্গদৈর্ঘ্যের দুটি একই বর্ণের আলোক তরঙ্গের মধ্যে পথ পার্থক্য $2\\times10^{-7}\\mathrm{m}$ হলে, তাদের মধ্যে দশা পার্থক্য হবে-",
+          "structured_data": {
+            "question_number": "152",
+            "subtype": "mcq",
+            "stem": "$4000\\AA$ তরঙ্গদৈর্ঘ্যের দুটি একই বর্ণের আলোক তরঙ্গের মধ্যে পথ পার্থক্য $2\\times10^{-7}\\mathrm{m}$ হলে, তাদের মধ্যে দশা পার্থক্য হবে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\pi$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$2\\pi$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{3\\lambda}{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\frac{\\pi}{2}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) $2\\pi$",
+            "solution_markdown": "তরঙ্গদৈর্ঘ্যের দুটি একই বর্ণের আলোক তরঙ্গের মধ্যে পথ পার্থক্য $x = 2\\times10^{-7}\\mathrm{m}$ হলে,\n\n$$\nn\\lambda D = 2a\n$$\n\n$$\n2(4000)\\times10^{-10}(D/2) = 2\\times10^{-7}\n$$\n\n$$\nD = 2\\pi\n$$\n\nএবং দশা পার্থক্য $d$ হলো,\n\n$$\nd = \\frac{n\\lambda D}{2a} = 2\\pi\n$$",
+            "tags_raw": "শহজাহান তন্ত্র, আমির হোসেন",
+            "provenance": [
+              "শহজাহান তন্ত্র",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "8c375ba7-a23e-5caa-a8be-e4ca3a9cc48e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q153",
+          "content_markdown": "নিচের কৌন বৈশিষ্ট্য বলে দেয় যে, আলো একটি অগ্রুষ্ঠ তরঙ্গ?",
+          "structured_data": {
+            "question_number": "153",
+            "subtype": "mcq",
+            "stem": "নিচের কৌন বৈশিষ্ট্য বলে দেয় যে, আলো একটি অগ্রুষ্ঠ তরঙ্গ?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রতিফলন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রতিসরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ব্যতিচার",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সমবর্তন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a) প্রতিফলন",
+            "solution_markdown": "নিচের কৌন বৈশিষ্ট্য বলে দেয় যে, আলো একটি অগ্রুষ্ঠ তরঙ্গ। এটি প্রতিফলন।",
+            "tags_raw": "শহজাহান তন্ত্র, আমির হোসেন",
+            "provenance": [
+              "শহজাহান তন্ত্র",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "11565730-09ba-580e-a45e-d9e6edb3130d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q154",
+          "content_markdown": "তরঙ্গের উপরিত্রিত দুটি বিন্দুর দশা পার্থক্য $\\frac{3}{2}\\pi$ হলে এদের পথ পার্থক্য–",
+          "structured_data": {
+            "question_number": "154",
+            "subtype": "mcq",
+            "stem": "তরঙ্গের উপরিত্রিত দুটি বিন্দুর দশা পার্থক্য $\\frac{3}{2}\\pi$ হলে এদের পথ পার্থক্য–",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$1.5\\lambda$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$1.3\\lambda$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$0.75\\lambda$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$0.67\\lambda$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) $0.75\\lambda$",
+            "solution_markdown": "তরঙ্গের উপরিত্রিত দুটি বিন্দুর দশা পার্থক্য $\\delta = \\frac{3}{2}\\pi$, তাহলে পথ পার্থক্য $l_{p} = \\frac{\\lambda}{2n}$. এখানে $n=1.5$ হবে,\n\n$$\nl_p = (1.5)(\\lambda / 2) = 0.75\\lambda\n$$",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "791fece6-af58-53bf-b950-bc5ba2f80007"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q155",
+          "content_markdown": "তরঙ্গ গভীর ক্ষেত্রে আলো এবং শব্দ আচরণভাবে প্রত্যেকে সদৃশ কেনকারণ — ব্যতিচার। [KUET Admission Test, 2006-07]",
+          "structured_data": {
+            "question_number": "155",
+            "subtype": "mcq",
+            "stem": "তরঙ্গ গভীর ক্ষেত্রে আলো এবং শব্দ আচরণভাবে প্রত্যেকে সদৃশ কেনকারণ — ব্যতিচার। [KUET Admission Test, 2006-07]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রতিফলন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রতিসরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সমবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অপবর্তন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a) প্রতিফলন",
+            "solution_markdown": "তরঙ্গ গভীর ক্ষেত্রে আলো এবং শব্দ আচরণভাবে প্রত্যেকে সদৃশ কেনকারণ প্রতিফলন।",
+            "tags_raw": "শাহজাহান তন্ত্র, আমির হোসেন",
+            "provenance": [
+              "শাহজাহান তন্ত্র",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "6fba251f-98f6-57a0-9b44-452b06b9044e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q156",
+          "content_markdown": "অসমবর্তিত আলোক রশ্মীকে আঞ্চিত কিছু বা সমতলীয় সমবর্তিত আলোকে বিভিন্ন পদ্ধতিতে রূপান্তর করা যায়। কিন্তু নিচের কোনটিই এটি সত্য নয়?",
+          "structured_data": {
+            "question_number": "156",
+            "subtype": "mcq",
+            "stem": "অসমবর্তিত আলোক রশ্মীকে আঞ্চিত কিছু বা সমতলীয় সমবর্তিত আলোকে বিভিন্ন পদ্ধতিতে রূপান্তর করা যায়। কিন্তু নিচের কোনটিই এটি সত্য নয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রতিফলন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অপবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "দৈর্ঘ্য প্রতিসরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বিক্ষেপণ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) দৈর্ঘ্য প্রতিসরণ",
+            "solution_markdown": "অসমবর্তিত আলোক রশ্মীকে আঞ্চিত কিছু বা সমতলীয় সমবর্তিত আলোকে বিভিন্ন পদ্ধতিতে রূপান্তর করা যায়। কিন্তু দৈর্ঘ্য প্রতিসরণ এটি সত্য নয়।",
+            "tags_raw": "শাহজাহান তন্ত্র, আমির হোসেন",
+            "provenance": [
+              "শাহজাহান তন্ত্র",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "a99797d3-ce2f-5f78-9f87-9bbf15c935d6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q157",
+          "content_markdown": "কোনো একটি মাধ্যমের জন্য সমবর্তন কোণ $60^{\\circ}$. এর জন্য সংক্ষেপ কোণ হবে—",
+          "structured_data": {
+            "question_number": "157",
+            "subtype": "mcq",
+            "stem": "কোনো একটি মাধ্যমের জন্য সমবর্তন কোণ $60^{\\circ}$. এর জন্য সংক্ষেপ কোণ হবে—",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\sin ^{-1}(\\sqrt{3})$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\tan ^{-1}(\\sqrt{3})$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\cos ^{-1}(\\sqrt{3})$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\sin ^{-1}(\\sqrt{3})$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) $\\tan ^{-1}(\\sqrt{3})$",
+            "solution_markdown": "কোনো একটি মাধ্যমের জন্য সমবর্তন কোণ $60^{\\circ}$. এর জন্য সংক্ষেপ কোণ হবে $\\tan ^{-1}(\\sqrt{3})$.",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "5efdbc48-c92c-528d-8b99-02ab8a80fffa"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q158",
+          "content_markdown": "নিচের কোনটি সমবর্তিত আলো গঠন করতে পারে?",
+          "structured_data": {
+            "question_number": "158",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটি সমবর্তিত আলো গঠন করতে পারে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "নিক্লে প্রিজম",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "একটি কেলাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "একটি বাই প্রিজম",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "একটি অর্ধতরঙ্গ প্রোট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a) নিক্লে প্রিজম",
+            "solution_markdown": "নিচের কোনটি সমবর্তিত আলো গঠন করতে পারে নিক্লে প্রিজম।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "ee6c8e38-4dfd-5cc4-b31c-7d623b745e62"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q159",
+          "content_markdown": "দুটি তরঙ্গদৈর্ঘ্য 12 cm। যদি একটি থেকে অপরটি 14 cm। অগ্রগামী হয় তবে দশা পার্থক্য কত?",
+          "structured_data": {
+            "question_number": "159",
+            "subtype": "mcq",
+            "stem": "দুটি তরঙ্গদৈর্ঘ্য 12 cm। যদি একটি থেকে অপরটি 14 cm। অগ্রগামী হয় তবে দশা পার্থক্য কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{\\pi}{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{\\pi}{4}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{\\pi}{5}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\frac{\\pi}{6}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) $\\frac{\\pi}{5}$",
+            "solution_markdown": "দুটি তরঙ্গদৈর্ঘ্য 12 cm ও 14 cm। যদি একটি থেকে অপরটি 14 cm – 12 cm = 2 cm। অগ্রগামী হয় তবে দশা পার্থক্য $d$ হলো,\n\n$$\nd = \\frac{n\\lambda D}{2a} = \\frac{(1/2)\\times(2)}{2\\times12} = \\frac{\\pi}{5}\n$$\n\nএই প্রশ্নের উত্তর হল $\\frac{\\pi}{5}$。",
+            "tags_raw": "শাহজাহান তন্ত্র, আমির হোসেন",
+            "provenance": [
+              "শাহজাহান তন্ত্র",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "400d0809-0103-540c-9bc2-d340311e666e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q160",
+          "content_markdown": "ইয়া়-এর খ-চিত্র পরীক্ষায় পর্যর্পণ দুটি উজ্জ্বল ডোরার মধ্যবর্তী দূরত্ব $6.25\\times10^{-5}\\mathrm{m}$। টির দুটি থেকে পার্থক্য $0.8\\mathrm{~m}$। আলোর তরঙ্গদৈর্ঘ্য $6.25\\times10^{-7}\\mathrm{~m}$ হলে টির দুটির মধ্যে দূরত্ব কত?",
+          "structured_data": {
+            "question_number": "160",
+            "subtype": "mcq",
+            "stem": "ইয়া়-এর খ-চিত্র পরীক্ষায় পর্যর্পণ দুটি উজ্জ্বল ডোরার মধ্যবর্তী দূরত্ব $6.25\\times10^{-5}\\mathrm{m}$। টির দুটি থেকে পার্থক্য $0.8\\mathrm{~m}$। আলোর তরঙ্গদৈর্ঘ্য $6.25\\times10^{-7}\\mathrm{~m}$ হলে টির দুটির মধ্যে দূরত্ব কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "8 mm",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "7.5 mm",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "7 mm",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "6 mm",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) 7.5 mm",
+            "solution_markdown": "ইয়া়-এর খ-চিত্র পরীক্ষায় পর্যর্পণ দুটি উজ্জ্বল ডোরার মধ্যবর্তী দূরত্ব $x = 6.25\\times10^{-5}\\mathrm{~m}$। টির দুটি থেকে পার্থক্য $D = 0.8\\mathrm{~m}$। আলোর তরঙ্গদৈর্ঘ্য $l_{p}=6.25\\times10^{-7}\\mathrm{~m}$। টির দুটির মধ্যে দূরত্ব $y = x + l_{p}(n+1)$,\n\n$$\ny = (6.25\\times10^{-5})(1+1) + (6.25\\times10^{-7})(0.8) = 7.5mm\n$$\n\nএই প্রশ্নের উত্তর হল 7.5 mm。",
+            "tags_raw": "শহজাহান তন্ত্র, আমির হোসেন",
+            "provenance": [
+              "শহজাহান তন্ত্র",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "e8aa8f45-87c6-5c0c-bbe5-414206c6ee75"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 13,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 103.91,
+        "eval_count": 4234
+      }
+    }
+  ]
+}

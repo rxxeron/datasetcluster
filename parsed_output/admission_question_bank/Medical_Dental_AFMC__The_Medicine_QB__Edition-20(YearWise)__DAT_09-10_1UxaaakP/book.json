@@ -1,0 +1,3658 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "1UxaaakPLB3f7Zxp8HSg25lfdskBYQ8KD",
+    "collection": "admission_question_bank",
+    "subject": "mixed_or_general",
+    "edition": "2023",
+    "priority_score": 2023501,
+    "path_parts": [
+      "Medical Dental AFMC",
+      "The Medicine QB",
+      "Edition-20(YearWise)",
+      "DAT 09-10.pdf"
+    ],
+    "filename": "DAT 09-10.pdf",
+    "sha256": "8bb5f6aceab61c8de178c2a7f6703b17cf1c000a236c7afb2902ad56b4991350",
+    "total_pages": 9,
+    "parsed_pages": 9,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 97,
+    "block_counts_by_type": {
+      "concept_prose": 5,
+      "mcq_item": 89,
+      "written_item": 2,
+      "diagram": 1
+    },
+    "total_figures": 1
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "বি ডি� সিভিশন - মেডিকেল ও দেন্টাল ভর্তি পরীক্ষার প্রশ্নাংক\n\nBDS ADMISSION TEST: 2009-2010\n\n01. নিচের ফোন খেতকণিকার নিউক্লিয়াসটি দুই লোব বিশিষ্ট?\nA. নিউট্রোফিল\nB. ইউসিনোফিল\nC. মনোসাইট\nD. লিফেসাইট\n\nSolve: সচিত্র উত্তর অপশন 'B'.\n\nNote: নিচের ব্যাখ্যাটি লক্ষ্য করৃ।\n→ নিউট্রোফিল– নিউক্লিয়াস দুধ্যের অধিক লোব বিশিষ্ট।\n→ ইউসিনোফিল – নিউক্লিয়াস দুই থেকে সাত লোব বিশিষ্ট।\n→ মেসোফিল– নিউক্লিয়াস বৃক্ষকার।\n→ লিফেসাইট– নিউক্লিয়াস বড়, কোষের সাইটোপ্লাজম কম।\n→ মনোসাইট– নিউক্লিয়াস সীম বীজের মত এক লোব বিশিষ্ট।\n\n02. ঈখানে নিচের কৌন্টার সাথে বিক্রয় ফলে কমলা বর্ণের অর্ধকেপ সৃষ্টি করে?\n\nA. ফেলিং দ্রবণ\nB. টলেন বিকারক\nC. 2.4 ডাই নাইট্রো ফিনাইল হাইড্রজিন\nD. এসিড আমাইড\n\nSolve: ঈখানে 2, 4 ডাইনাইট্রো ফিনাইল হাইড্রজিনের সাথে বিক্রয় করে কমলা বর্ণের অর্ধকেপ সৃষ্টি করে।\n\n03. একটি সূক্ষ্ম তারের মধ্য দিয়ে প্রবাহিত অনুদৈর্ঘ্য তরঙ্গের বেগ নিচের কোনটি?\n\nA. $v = \\sqrt{\\frac{V}{\\rho}}$\nB. $v = \\sqrt{\\frac{k}{\\rho}}$\nC. $v = \\sqrt{\\frac{\\mu}{\\rho}}$\nD. $v = \\sqrt{\\frac{V}{k}}$\n\nSolve: একটি সূক্ষ্ম তারের মধ্য দিয়ে প্রবাহিত অনুদৈর্ঘ্য তরঙ্গের বেগ,\n$v = \\sqrt{\\frac{V}{\\rho}}$\n\n04. 1969 সালের 15 দেড়ক্রান্তি বিচারাধীন ঢাকা অভ্যাস নিচের কাকে অভ্যন্তরভাবে জেলখানায় পাকিস্তানি হত্যা করে?\n\nA. হরিবাবাদ মুহিবুর রহমান\nB. ফ্রাইট সার্জেন্ট ফজলুল হক\nC. সাঙ্গেন্ট জাহরুল হক\nD. কমান্ডার মোয়াজমে হোসেন\n\nSolve: সচিত্র উত্তর অপশন 'C'. অর্ধ্যাং সার্জেন্ট জাহরুল হক।\n\nNote: জেনে নাও আরও কিছু তথ্য।\n→ রাষ্ট্রভাব সংগ্রাম পরিষদ গঠিত হয়— ১৯৪৮ সালের জানুয়ারি মাসে\n→ সর্বদায় রাষ্ট্রভাব সংগ্রাম পরিষদ গঠিত হয়— ২ মার্চ ১৯৪৮ সালে\n→ ১৯৫২ সালের ভাষা আন্দোলনের সময় যারা ছিলেন\n• পাকিস্তানের প্রধানমন্ত্রী— খাজা নাজিমুদ্দিন\n• পূর্ব বাংলার মুখ্যমন্ত্রী— নুরুল আর্মিন\n• পাকিস্তানের গভর্নর— মালিক মোহাম্মদ ফিরোজ খান মুন\n\n05. Which of the following pair contain correct antonyms?\n\nA. complacent : satisfied\nB. buoyant : cheerful\nC. Frivolous : grave\nD. Inclement : tyrannical\n\nSolve: সচিত্র উত্তর হচ্ছে অপশন 'C' অর্ধ্যাং Frivolous (বাজে, হাস্য, তুচ্ছ); grave (গতির, সমাধি, ভালো স্থান)\n\nNote: জেনে নাও কিছু প্রয়োজনীয় শেদের Antonyms:\n\n| শব্দ | Antonyms |\n|------|----------|\n| Fastidious (খুত্তুযুক্ত) | Easygoing |\n| Famous (বিখ্যাত) | Obscure |\n| Fumble (অন্তভুজ হতে কাজ করা) | Handle adroitly |\n| Fluctuate (অস্থির) | Remain steady |\n| Facilitate (সহজ করা) | Hamper |\n| Fierce (হিংস্র ও রাণী) | Meek |\n| Fantasy (অলীক কল্পনা) | Fact |\n| Flamboyant (বর্ণচ্ছ) | Dull |\n| Flawlessness (নিম্নুত) | Imperfectness |\n| Fallacious (বিপরিতকর) | Valid |\n| Fascinated (মুখ্য হওয়া) | Disinterested |\n| Honorary (অবৈতনিক) | Salaried |\n| Hazardous (বিপদজনক) | Safe |\n| Hostile (শত্রু) | Friendly |\n| Irrelevant (অপ্রসাধিক) | Germane |\n| Imitate (অনুকরণ করা) | Diverge |\n| Impertinent (অবিন্দীয়) | Respectful |\n| Belittle (খর্ব করা) | Glorify |\n| Bombastic (জমকালো) | Unimpressive |\n| Blunt (হুল্লুবৃদ্ধি) | Tactful |\n| Boost (বর্ধিত করা) | Decrease |\n| Blasphemous (ধর্ম বিরোধী) | Respectful |\n| Concord (মতেকী) | Conflict |\n| Cacophony (শ্রোতিকৃতু) | Euphony |\n| Clandestine (গোপন) | Overt |\n| Constant (সব্দা, ধ্রুবক) | Rare |\n| Constancy (স্থিরতা) | Infidelity |\n| Callow (অন্যভুব) | Mature |\n| Cramped (সঞ্চীর্ণ) | Spacious |\n| Cohesion (একত্রী ধাকা) | Disintegration |\n| Carnivorous (মাংসাশী) | Vegetarian |\n\n06. নিচের কোনটি বৃক্স সম্পর্কে সচিত্র নয়?\n\nA. অসমোহেছলেশনের প্রধান অস হচ্ছে বৃক্স।\nB. বৃক্স আয়মেন্স থেকে ইউরিয়া উৎপন্ন হয়।\nC. ADH-এর প্রভাবে পানির পুনঃশোধন বেশি হয়।\nD. সক্রিয় পরিবহন পদ্ধতিতে গ্লুকোজ শোধিত হয়।\n\n'Solve': অপশন 'B' সচিত্র নয়; কারণ– বৃক্স ডি আয়মেন্জ এনজাইমের ক্রিয়ায় আয়মিনো এসিডের আয়মেন্স প্রক্রিয়া ইউরিয়া উৎপন্ন হয়।",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "বি ডি� সিভিশন - মেডিকেল ও দেন্টাল ভর্তি পরীক্ষার প্রশ্নাংক",
+          "structured_data": {},
+          "id": "f8cac59d-87f9-5e63-b94a-250f98e6d211"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "BDS ADMISSION TEST: 2009-2010",
+          "structured_data": {},
+          "id": "e21a57bb-239e-515e-a8dc-4b5c4e59fa34"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q01",
+          "content_markdown": "নিচের ফোন খেতকণিকার নিউক্লিয়াসটি দুই লোব বিশিষ্ট?",
+          "structured_data": {
+            "question_number": "01",
+            "subtype": "mcq_item",
+            "stem": "নিচের ফোন খেতকণিকার নিউক্লিয়াসটি দুই লোব বিশিষ্ট?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "নিউট্রোফিল",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ইউসিনোফিল",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "মনোসাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "লিফেসাইট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সচিত্র উত্তর অপশন 'B'.\n\nNote: নিচের ব্যাখ্যাটি লক্ষ্য করৃ।\n→ নিউট্রোফিল– নিউক্লিয়াস দুধ্যের অধিক লোব বিশিষ্ট।\n→ ইউসিনোফিল – নিউক্লিয়াস দুই থেকে সাত লোব বিশিষ্ট।\n→ মেসোফিল– নিউক্লিয়াস বৃক্ষকার।\n→ লিফেসাইট– নিউক্লিয়াস বড়, কোষের সাইটোপ্লাজম কম।\n→ মনোসাইট– নিউক্লিয়াস সীম বীজের মত এক লোব বিশিষ্ট।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b752d0a2-5ac8-5676-8b1c-82370a1709fa"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q02",
+          "content_markdown": "ঈখানে নিচের কৌন্টার সাথে বিক্রয় ফলে কমলা বর্ণের অর্ধকেপ সৃষ্টি করে?",
+          "structured_data": {
+            "question_number": "02",
+            "subtype": "mcq_item",
+            "stem": "ঈখানে নিচের কৌন্টার সাথে বিক্রয় ফলে কমলা বর্ণের অর্ধকেপ সৃষ্টি করে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ফেলিং দ্রবণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "টলেন বিকারক",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "2.4 ডাই নাইট্রো ফিনাইল হাইড্রজিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "এসিড আমাইড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "ঈখানে 2, 4 ডাইনাইট্রো ফিনাইল হাইড্রজিনের সাথে বিক্রয় করে কমলা বর্ণের অর্ধকেপ সৃষ্টি করে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b930a67e-61c2-5802-919a-d6f99c2e0801"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q03",
+          "content_markdown": "একটি সূক্ষ্ম তারের মধ্য দিয়ে প্রবাহিত অনুদৈর্ঘ্য তরঙ্গের বেগ নিচের কোনটি?",
+          "structured_data": {
+            "question_number": "03",
+            "subtype": "mcq_item",
+            "stem": "একটি সূক্ষ্ম তারের মধ্য দিয়ে প্রবাহিত অনুদৈর্ঘ্য তরঙ্গের বেগ নিচের কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "$v = \\sqrt{\\frac{V}{\\rho}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "$v = \\sqrt{\\frac{k}{\\rho}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "$v = \\sqrt{\\frac{\\mu}{\\rho}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "$v = \\sqrt{\\frac{V}{k}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "একটি সূক্ষ্ম তারের মধ্য দিয়ে প্রবাহিত অনুদৈর্ঘ্য তরঙ্গের বেগ,\n$v = \\sqrt{\\frac{V}{\\rho}}$",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2552bec2-2174-55bd-9c99-f6f75694266e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q04",
+          "content_markdown": "1969 সালের 15 দেড়ক্রান্তি বিচারাধীন ঢাকা অভ্যাস নিচের কাকে অভ্যন্তরভাবে জেলখানায় পাকিস্তানি হত্যা করে?",
+          "structured_data": {
+            "question_number": "04",
+            "subtype": "mcq_item",
+            "stem": "1969 সালের 15 দেড়ক্রান্তি বিচারাধীন ঢাকা অভ্যাস নিচের কাকে অভ্যন্তরভাবে জেলখানায় পাকিস্তানি হত্যা করে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "হরিবাবাদ মুহিবুর রহমান",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ফ্রাইট সার্জেন্ট ফজলুল হক",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "সাঙ্গেন্ট জাহরুল হক",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কমান্ডার মোয়াজমে হোসেন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সচিত্র উত্তর অপশন 'C'. অর্ধ্যাং সার্জেন্ট জাহরুল হক।\n\nNote: জেনে নাও আরও কিছু তথ্য।\n→ রাষ্ট্রভাব সংগ্রাম পরিষদ গঠিত হয়— ১৯৪৮ সালের জানুয়ারি মাসে\n→ সর্বদায় রাষ্ট্রভাব সংগ্রাম পরিষদ গঠিত হয়— ২ মার্চ ১৯৪৮ সালে\n→ ১৯৫২ সালের ভাষা আন্দোলনের সময় যারা ছিলেন\n• পাকিস্তানের প্রধানমন্ত্রী— খাজা নাজিমুদ্দিন\n• পূর্ব বাংলার মুখ্যমন্ত্রী— নুরুল আর্মিন\n• পাকিস্তানের গভর্নর— মালিক মোহাম্মদ ফিরোজ খান মুন",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e9974ca1-b13a-50a4-8c72-19a44da3ff39"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q05",
+          "content_markdown": "Which of the following pair contain correct antonyms?",
+          "structured_data": {
+            "question_number": "05",
+            "subtype": "mcq_item",
+            "stem": "Which of the following pair contain correct antonyms?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "complacent : satisfied",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "buoyant : cheerful",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "Frivolous : grave",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "Inclement : tyrannical",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সচিত্র উত্তর হচ্ছে অপশন 'C' অর্ধ্যাং Frivolous (বাজে, হাস্য, তুচ্ছ); grave (গতির, সমাধি, ভালো স্থান)\n\nNote: জেনে নাও কিছু প্রয়োজনীয় শেদের Antonyms:\n\n| শব্দ | Antonyms |\n|------|----------|\n| Fastidious (খুত্তুযুক্ত) | Easygoing |\n| Famous (বিখ্যাত) | Obscure |\n| Fumble (অন্তভুজ হতে কাজ করা) | Handle adroitly |\n| Fluctuate (অস্থির) | Remain steady |\n| Facilitate (সহজ করা) | Hamper |\n| Fierce (হিংস্র ও রাণী) | Meek |\n| Fantasy (অলীক কল্পনা) | Fact |\n| Flamboyant (বর্ণচ্ছ) | Dull |\n| Flawlessness (নিম্নুত) | Imperfectness |\n| Fallacious (বিপরিতকর) | Valid |\n| Fascinated (মুখ্য হওয়া) | Disinterested |\n| Honorary (অবৈতনিক) | Salaried |\n| Hazardous (বিপদজনক) | Safe |\n| Hostile (শত্রু) | Friendly |\n| Irrelevant (অপ্রসাধিক) | Germane |\n| Imitate (অনুকরণ করা) | Diverge |\n| Impertinent (অবিন্দীয়) | Respectful |\n| Belittle (খর্ব করা) | Glorify |\n| Bombastic (জমকালো) | Unimpressive |\n| Blunt (হুল্লুবৃদ্ধি) | Tactful |\n| Boost (বর্ধিত করা) | Decrease |\n| Blasphemous (ধর্ম বিরোধী) | Respectful |\n| Concord (মতেকী) | Conflict |\n| Cacophony (শ্রোতিকৃতু) | Euphony |\n| Clandestine (গোপন) | Overt |\n| Constant (সব্দা, ধ্রুবক) | Rare |\n| Constancy (স্থিরতা) | Infidelity |\n| Callow (অন্যভুব) | Mature |\n| Cramped (সঞ্চীর্ণ) | Spacious |\n| Cohesion (একত্রী ধাকা) | Disintegration |\n| Carnivorous (মাংসাশী) | Vegetarian |",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "37538e42-d5e0-55e8-9310-21f781ed63ac"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q06",
+          "content_markdown": "নিচের কোনটি বৃক্স সম্পর্কে সচিত্র নয়?\n'Solve': অপশন 'B' সচিত্র নয়; কারণ– বৃক্স ডি আয়মেন্জ এনজাইমের ক্রিয়ায় আয়মিনো এসিডের আয়মেন্স প্রক্রিয়া ইউরিয়া উৎপন্ন হয়।",
+          "structured_data": {
+            "question_number": "06",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি বৃক্স সম্পর্কে সচিত্র নয়?\n'Solve': অপশন 'B' সচিত্র নয়; কারণ– বৃক্স ডি আয়মেন্জ এনজাইমের ক্রিয়ায় আয়মিনো এসিডের আয়মেন্স প্রক্রিয়া ইউরিয়া উৎপন্ন হয়।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "অসমোহেছলেশনের প্রধান অস হচ্ছে বৃক্স।",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "বৃক্স আয়মেন্স থেকে ইউরিয়া উৎপন্ন হয়।",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ADH-এর প্রভাবে পানির পুনঃশোধন বেশি হয়।",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "সক্রিয় পরিবহন পদ্ধতিতে গ্লুকোজ শোধিত হয়।",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e1fa394e-91bc-56ed-aed9-1df53d2c9a27"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 8,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 163.0,
+        "eval_count": 2789
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "802\n\n### দে মেডিসিন - মেডিকেল ও ডেন্টাল ভর্তি পরীক্ষার প্রশ্নাব্ধক\n\n#### 07. গ্যাসীয় জৈব যৌগের বিশেষণ প্রক্রিয়া নিচের কোনটি?\nA. কেলাসন\nB. রাসায়নিক পদ্ধতি\nC. শৃঙ্খল পদ্ধতি\nD. সমস্ফূর্ণ পদ্ধতি\n\n#### Solve দেখে নিয়মিত বিভিন্ন জৈব যৌগের বিশেষণ প্রক্রিয়া:\n\n| জৈব যৌগের ধরন | বিশেষণ প্রক্রিয়া |\n|------------------|--------------------|\n| কঠিন জৈব যৌগ   | কেলাসন, আংশিক কেলাসন, উর্ধ্বপাতন, বাষ্পপাতন, দ্রবকের সাহায্যে বাষ্পপাতন |\n| তরল জৈব যৌগ    | পাতন, আংশিক পাতন, সমস্ফূর্ণ পাতন, বাষ্পপাতন, নিঞ্জাপাতন, দ্রবকের সাহায্যে নিঞ্জাশন, রাসায়নিক পদ্ধতি |\n\n#### 08. সালফারকে তাপ দেয়া হলে তরল না হয়ে সরাসরি কঠিন থেকে গ্যাসীয় অবস্থায় রূপান্তরিত হওয়া কোন পদ্ধতি?\n\nA. ঘনিষ্ঠতরণ\nB. বাষ্পীভূতন\nC. উর্ধ্বপাতন\nD. বরফ কণাই পরিবর্তন\n\n#### Solve সঠিক উত্তর হচ্ছে অপশন 'C'.\n\nউপাদানটি হয় এমন কিছু পদার্থ: সালফার, কর্পুর, নিশাদল, (অ্যামোনিয়াম ক্রোরাইড), ন্যাপথালিন, অ্যামোইন, ওজ বরফ, মিথালন ইত্যাদি।\n\n#### 09. নিচের কোন জোড়াটি সত্যিক?\n\n| কবির নাম       | উপাধি          |\n|-------------------|------------------|\n| আবুল কাদির     | তিমিরি হননের কবি      |\n| মোজামেল হক     | ক্লাসিক কবি         |\n| সৈয়দ ইসমাইল হোসেন সিরাজী | স্বপ্নতুর কবি        |\n| গোলাম মোত্তফা | কাব্য সুধাকার      |\n\n#### Solve সঠিক উত্তর হচ্ছে অপশন 'C'.\n\n#### Note: নিচের ব্যাখ্যাটি লক্ষ কর :\n\n| কবির নাম           | উপাধি            |\n|-----------------------|---------------------|\n| আবুল কাদির         | ছান্দিকি কবি      |\n| মোজামেল হক         | শাঙ্খিপুরে কবি    |\n| সৈয়দ ইসমাইল হোসেন সিরাজী | স্বপ্নতুর কবি     |\n| গোলাম মোত্তফা      | কাব্য সুধাকার     |\n\n#### 10. Which is the following underlined word is an adverb?\n\nA. He answered the question correctly.\nB. He did it with care.\nC. We proceeded cautiously.\nD. It was troublesome to me.\n\n#### Solve সঠিক উত্তর হচ্ছে অপশন 'C'. Cautionally adverb.\n\n#### 11. নিচের কোন তথ্যটি সত্যিক?\n\nA. প্রোলাকটিনের প্রভাবে মাতৃদূষ নিঃসৃত হয়।\nB. জরাযু প্রাচীরের এনডোমেট্রিয়াম স্ত্রী মানুষ ভরের ইম্প্লান্টেশন হয়।\nC. প্রথম নিম্নতুল্য দুধকে শাল দুধ বলে।\nD. ঢিয়াস্যার থেকে রিলাসিন নিঃসরণ হয়।\n\n#### Solve অপশন 'D' সত্যিক নয়; কারণ রিলাসিন নামক হরমোন নিঃসৃত হয় প্রসেস্টা বা অমরা থেকে।\n\n#### 12. ডায়োজেনিয়াম লবণ থেকে বেনজিন কার্বোনাইট্রাইল উৎপাদন করার সময় নিচের কোন প্রভাবকের প্রয়োজন হয়?\n\nA. পটাসিয়াম সায়ানাইড\nB. সোডিয়াম সায়ানাইড\nC. কপার সায়ানাইড\nD. ব্রোমিন সায়ানাইড\n\n#### Solve সঠিক উত্তর হচ্ছে অপশন 'C' অর্থাৎ কপার সায়ানাইড।\n\n#### 13. নিচের কোনটি সত্যিক নয়?\n\nA. সরণের সঙ্গে অভিলোহ বলের উপাংশ কোন কাজ করে না।\nB. একটি বন্ধকে সুতায় যদি চক্রাকারে সোরানো হয়, তবে কোন কাজ সংযুক্ত হয় না।\nC. ধনাত্রক কাজের ফলে ছিতিশক্তি বৃদ্ধি পায়।\nD. কাজের মাত্রা ML²T⁻²\n\n#### Solve অপশন 'C' সত্যিক নয়; কারণ- ধনাত্রক কাজের ফলে ছিতিশক্তি হাল পায়।\n\n#### 14. বিশেষ প্রথম নিচের কোন শরের সেল ফোন ট্যাচু হয়?\n\nA. ওলসো\nB. শিকাগো\nC. নিউইয়র্ক\nD. শঙ্খন\n\n#### 15. Which of the following is compound sentence?\nA. Digging a deeper hole, he steadied it.\nB. Let us read or we shall not pass.\nC. If you read more, you will know more.\nD. When the school broke up, we went to play.\n\n#### Solve অপশন 'B' হচ্ছে Compound sentence.\n\n#### 16. নিচের কোন তথ্যটি ম্যালেরিয়া সম্পর্কে সত্যিক নয়?\n\nA. প্লাসমোডিয়াম ফ্যালিসিয়াগার ম্যালিনিয়ান্ট টার্মিয়ার ম্যালেরিয়া করে।\nB. ম্যালেরিয়া রোগের একমাত্র চিকিৎসা ক্রোরাকুইন。\nC. ম্যালেরিয়া একটি আস্তপরজীবী প্রোটোজোয়া।\nD. প্লাসমোডিয়াম ভাইভেক্স ম্যালেরিয়ার সৃষ্টিকাল 14দিন。\n\n#### Solve অপশন 'B' সত্যিক নয়; কারণ - ম্যালেরিয়া দমনে অনেকগুলো ঔষুধ ব্যবহৃত হয়। যেমন:- মেফলোকুইন, নিতাকুইন, কুইনাইন, হ্যালোফ্যান্টাইন, সালফাক্লিন-পাইরিমিথাইন, আরটেমিসিনিন ইত্যাদি।\n\n#### 17. নিচের কোনটি এককৌণি গ্রহ্ষি?\n\nA. গবলেট\nB. অগ্ন্যাশয়\nC. লালা\nD. যুক্ত\n\n#### Solve গবলেট এককৌণি গ্রহ্ষি।\n\n#### 18. নিচের কোনটি ক্যাটারিয়ান ডিটারজেন্ট?\n\nA. সোডিয়াম লবাইল সালফেট\nB. অ্যালকোক্লি পলিইথিলিন অ্যাক্রাইড\nC. আলকাইলেটেড ফেনক্রিস পলিইথিলিন অ্যাক্রাইড\nD. টারসিয়ারী আমিন ব্রোমাইড\n\n#### Solve টারসিয়ারী আমিন ব্রোমাইড হচ্ছে ক্যাটারিয়ান ডিটারজেন্ট।\n\n#### 19. পর্যায়কল \"T\" হলে অর্ধচক্রের জন্য গড় তড়িৎ প্রবাহ নিচের কোনটি?\n\nA. $\\frac{1}{\\pi} \\times$ দিক পরিবর্তি প্রবাহের সর্বোচ্চ মান\nB. $\\frac{2}{\\pi} \\times$ দিক পরিবর্তি প্রবাহের সর্বোচ্চ মান\nC. $\\frac{3}{\\pi} \\times$ দিক পরিবর্তি প্রবাহের সর্বোচ্চ মান\nD. $\\frac{4}{\\pi} \\times$ দিক পরিবর্তি প্রবাহের সর্বোচ্চ মান\n\n#### Solve সঠিক উত্তর হচ্ছে অপশন 'B'. অর্থাৎ $\\frac{2}{\\pi}$ × দিক পরিবর্তি প্রবাহের সর্বোচ্চ মান।",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "802",
+          "structured_data": {},
+          "id": "62b791fa-1634-5767-8a2d-d5eceb698a6d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q07",
+          "content_markdown": "গ্যাসীয় জৈব যৌগের বিশেষণ প্রক্রিয়া নিচের কোনটি?\n#### Solve দেখে নিয়মিত বিভিন্ন জৈব যৌগের বিশেষণ প্রক্রিয়া:\n| জৈব যৌগের ধরন | বিশেষণ প্রক্রিয়া |\n|------------------|--------------------|\n| কঠিন জৈব যৌগ   | কেলাসন, আংশিক কেলাসন, উর্ধ্বপাতন, বাষ্পপাতন, দ্রবকের সাহায্যে বাষ্পপাতন |\n| তরল জৈব যৌগ    | পাতন, আংশিক পাতন, সমস্ফূর্ণ পাতন, বাষ্পপাতন, নিঞ্জাপাতন, দ্রবকের সাহায্যে নিঞ্জাশন, রাসায়নিক পদ্ধতি |",
+          "structured_data": {
+            "question_number": "07",
+            "subtype": "mcq_item",
+            "stem": "গ্যাসীয় জৈব যৌগের বিশেষণ প্রক্রিয়া নিচের কোনটি?\n#### Solve দেখে নিয়মিত বিভিন্ন জৈব যৌগের বিশেষণ প্রক্রিয়া:\n| জৈব যৌগের ধরন | বিশেষণ প্রক্রিয়া |\n|------------------|--------------------|\n| কঠিন জৈব যৌগ   | কেলাসন, আংশিক কেলাসন, উর্ধ্বপাতন, বাষ্পপাতন, দ্রবকের সাহায্যে বাষ্পপাতন |\n| তরল জৈব যৌগ    | পাতন, আংশিক পাতন, সমস্ফূর্ণ পাতন, বাষ্পপাতন, নিঞ্জাপাতন, দ্রবকের সাহায্যে নিঞ্জাশন, রাসায়নিক পদ্ধতি |",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "কেলাসন",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "রাসায়নিক পদ্ধতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "শৃঙ্খল পদ্ধতি",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "সমস্ফূর্ণ পদ্ধতি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d6f1903c-4c6c-5e36-8155-f55eb7505d9e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q08",
+          "content_markdown": "সালফারকে তাপ দেয়া হলে তরল না হয়ে সরাসরি কঠিন থেকে গ্যাসীয় অবস্থায় রূপান্তরিত হওয়া কোন পদ্ধতি?\n#### Solve সঠিক উত্তর হচ্ছে অপশন 'C'.\nউপাদানটি হয় এমন কিছু পদার্থ: সালফার, কর্পুর, নিশাদল, (অ্যামোনিয়াম ক্রোরাইড), ন্যাপথালিন, অ্যামোইন, ওজ বরফ, মিথালন ইত্যাদি।",
+          "structured_data": {
+            "question_number": "08",
+            "subtype": "mcq_item",
+            "stem": "সালফারকে তাপ দেয়া হলে তরল না হয়ে সরাসরি কঠিন থেকে গ্যাসীয় অবস্থায় রূপান্তরিত হওয়া কোন পদ্ধতি?\n#### Solve সঠিক উত্তর হচ্ছে অপশন 'C'.\nউপাদানটি হয় এমন কিছু পদার্থ: সালফার, কর্পুর, নিশাদল, (অ্যামোনিয়াম ক্রোরাইড), ন্যাপথালিন, অ্যামোইন, ওজ বরফ, মিথালন ইত্যাদি।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ঘনিষ্ঠতরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "বাষ্পীভূতন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "উর্ধ্বপাতন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "বরফ কণাই পরিবর্তন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f2769ca3-b00a-567b-b16c-e31ede550f70"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q09",
+          "content_markdown": "নিচের কোন জোড়াটি সত্যিক?\n| কবির নাম       | উপাধি          |\n|-------------------|------------------|\n| আবুল কাদির     | তিমিরি হননের কবি      |\n| মোজামেল হক     | ক্লাসিক কবি         |\n| সৈয়দ ইসমাইল হোসেন সিরাজী | স্বপ্নতুর কবি        |\n| গোলাম মোত্তফা | কাব্য সুধাকার      |\n#### Solve সঠিক উত্তর হচ্ছে অপশন 'C'.\n#### Note: নিচের ব্যাখ্যাটি লক্ষ কর :\n| কবির নাম           | উপাধি            |\n|-----------------------|---------------------|\n| আবুল কাদির         | ছান্দিকি কবি      |\n| মোজামেল হক         | শাঙ্খিপুরে কবি    |\n| সৈয়দ ইসমাইল হোসেন সিরাজী | স্বপ্নতুর কবি     |\n| গোলাম মোত্তফা      | কাব্য সুধাকার     |",
+          "structured_data": {
+            "question_number": "09",
+            "subtype": "written_item",
+            "stem": "নিচের কোন জোড়াটি সত্যিক?\n| কবির নাম       | উপাধি          |\n|-------------------|------------------|\n| আবুল কাদির     | তিমিরি হননের কবি      |\n| মোজামেল হক     | ক্লাসিক কবি         |\n| সৈয়দ ইসমাইল হোসেন সিরাজী | স্বপ্নতুর কবি        |\n| গোলাম মোত্তফা | কাব্য সুধাকার      |\n#### Solve সঠিক উত্তর হচ্ছে অপশন 'C'.\n#### Note: নিচের ব্যাখ্যাটি লক্ষ কর :\n| কবির নাম           | উপাধি            |\n|-----------------------|---------------------|\n| আবুল কাদির         | ছান্দিকি কবি      |\n| মোজামেল হক         | শাঙ্খিপুরে কবি    |\n| সৈয়দ ইসমাইল হোসেন সিরাজী | স্বপ্নতুর কবি     |\n| গোলাম মোত্তফা      | কাব্য সুধাকার     |",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6ce74855-c91e-58df-ac8e-27d2809dd1e4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q10",
+          "content_markdown": "Which is the following underlined word is an adverb?",
+          "structured_data": {
+            "question_number": "10",
+            "subtype": "mcq_item",
+            "stem": "Which is the following underlined word is an adverb?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "He answered the question correctly.",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "He did it with care.",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "We proceeded cautiously.",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "It was troublesome to me.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7f780b7b-cbdd-5f69-b22b-ba144f003d52"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q11",
+          "content_markdown": "নিচের কোন তথ্যটি সত্যিক?",
+          "structured_data": {
+            "question_number": "11",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোন তথ্যটি সত্যিক?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "প্রোলাকটিনের প্রভাবে মাতৃদূষ নিঃসৃত হয়।",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "জরাযু প্রাচীরের এনডোমেট্রিয়াম স্ত্রী মানুষ ভরের ইম্প্লান্টেশন হয়।",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "প্রথম নিম্নতুল্য দুধকে শাল দুধ বলে।",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ঢিয়াস্যার থেকে রিলাসিন নিঃসরণ হয়।",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "bff56788-e0cb-5c47-a950-70a203068546"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q12",
+          "content_markdown": "ডায়োজেনিয়াম লবণ থেকে বেনজিন কার্বোনাইট্রাইল উৎপাদন করার সময় নিচের কোন প্রভাবকের প্রয়োজন হয়?",
+          "structured_data": {
+            "question_number": "12",
+            "subtype": "mcq_item",
+            "stem": "ডায়োজেনিয়াম লবণ থেকে বেনজিন কার্বোনাইট্রাইল উৎপাদন করার সময় নিচের কোন প্রভাবকের প্রয়োজন হয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "পটাসিয়াম সায়ানাইড",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "সোডিয়াম সায়ানাইড",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "কপার সায়ানাইড",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ব্রোমিন সায়ানাইড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3832e572-5b06-5754-89f8-0532825913a1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q13",
+          "content_markdown": "নিচের কোনটি সত্যিক নয়?",
+          "structured_data": {
+            "question_number": "13",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি সত্যিক নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "সরণের সঙ্গে অভিলোহ বলের উপাংশ কোন কাজ করে না।",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "একটি বন্ধকে সুতায় যদি চক্রাকারে সোরানো হয়, তবে কোন কাজ সংযুক্ত হয় না।",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ধনাত্রক কাজের ফলে ছিতিশক্তি বৃদ্ধি পায়।",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কাজের মাত্রা ML²T⁻²",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "dfe22113-2fbd-5768-938f-cf1a4b48eea8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q14",
+          "content_markdown": "বিশেষ প্রথম নিচের কোন শরের সেল ফোন ট্যাচু হয়?",
+          "structured_data": {
+            "question_number": "14",
+            "subtype": "mcq_item",
+            "stem": "বিশেষ প্রথম নিচের কোন শরের সেল ফোন ট্যাচু হয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ওলসো",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "শিকাগো",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "নিউইয়র্ক",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "শঙ্খন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fd1fb166-6bdb-54d9-b57e-6abc9b69fce9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q15",
+          "content_markdown": "Which of the following is compound sentence?",
+          "structured_data": {
+            "question_number": "15",
+            "subtype": "mcq_item",
+            "stem": "Which of the following is compound sentence?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "Digging a deeper hole, he steadied it.",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "Let us read or we shall not pass.",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "If you read more, you will know more.",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "When the school broke up, we went to play.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9f6d0e57-5090-5997-b9ad-72e84f54266d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q16",
+          "content_markdown": "নিচের কোন তথ্যটি ম্যালেরিয়া সম্পর্কে সত্যিক নয়?",
+          "structured_data": {
+            "question_number": "16",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোন তথ্যটি ম্যালেরিয়া সম্পর্কে সত্যিক নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "প্লাসমোডিয়াম ফ্যালিসিয়াগার ম্যালিনিয়ান্ট টার্মিয়ার ম্যালেরিয়া করে।",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ম্যালেরিয়া রোগের একমাত্র চিকিৎসা ক্রোরাকুইন。",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ম্যালেরিয়া একটি আস্তপরজীবী প্রোটোজোয়া।",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "প্লাসমোডিয়াম ভাইভেক্স ম্যালেরিয়ার সৃষ্টিকাল 14দিন。",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "320117c8-65de-5f2b-8527-b3ff9720343f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q17",
+          "content_markdown": "নিচের কোনটি এককৌণি গ্রহ্ষি?",
+          "structured_data": {
+            "question_number": "17",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি এককৌণি গ্রহ্ষি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "গবলেট",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "অগ্ন্যাশয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "লালা",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "যুক্ত",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "08d252a0-6cfd-5a01-9f03-3b8729e7c5e9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q18",
+          "content_markdown": "নিচের কোনটি ক্যাটারিয়ান ডিটারজেন্ট?",
+          "structured_data": {
+            "question_number": "18",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি ক্যাটারিয়ান ডিটারজেন্ট?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "সোডিয়াম লবাইল সালফেট",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "অ্যালকোক্লি পলিইথিলিন অ্যাক্রাইড",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "আলকাইলেটেড ফেনক্রিস পলিইথিলিন অ্যাক্রাইড",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "টারসিয়ারী আমিন ব্রোমাইড",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8b0cfb89-7eba-5e00-a8d0-28094c0a7ce4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q19",
+          "content_markdown": "পর্যায়কল \"T\" হলে অর্ধচক্রের জন্য গড় তড়িৎ প্রবাহ নিচের কোনটি?",
+          "structured_data": {
+            "question_number": "19",
+            "subtype": "mcq_item",
+            "stem": "পর্যায়কল \"T\" হলে অর্ধচক্রের জন্য গড় তড়িৎ প্রবাহ নিচের কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "$\\frac{1}{\\pi} \\times$ দিক পরিবর্তি প্রবাহের সর্বোচ্চ মান",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "$\\frac{2}{\\pi} \\times$ দিক পরিবর্তি প্রবাহের সর্বোচ্চ মান",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "$\\frac{3}{\\pi} \\times$ দিক পরিবর্তি প্রবাহের সর্বোচ্চ মান",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "$\\frac{4}{\\pi} \\times$ দিক পরিবর্তি প্রবাহের সর্বোচ্চ মান",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "dcd7744a-9f5a-5ac1-819a-8b268ee5fada"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 14,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 213.21,
+        "eval_count": 3620
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "## Q20\n**Type:** mcq\n**Stem:** নিম্নের কোন অঙ্গে মজা গহ্বর নাই?\n**Options:** \n- A) ইংক্রিয়াম\n- B) স্টার্নাম\n- C) কার্পাল\n- D) ক্ল্যাভিকল\n\n**Answer:** D\n**Solution:** ক্ল্যাভিকলে মজা গহ্বর নেই।\n**Tags:** [Ans: D]\n\n## Q27\n**Type:** mcq\n**Stem:** নিম্নের কোনটি হৃদপিণ্ডের সংবহন তন্ত্রের অংশ নয়?\n**Options:** \n- A) পেস মেকার\n- B) মায়াকার্ডিয়াম\n- C) বাঁড়ল আব হিজ\n- D) পারকিনজি তন্ত্র\n\n**Answer:** B\n**Solution:** অপশন 'B' সত্য নয়; কারণ এটি হৃৎপিণ্ডের সংবহনতন্ত্রের অংশ নয়।\n**Note:** হৃৎপিণ্ডের সংবহনতন্ত্রের অংশগুলো [আজমল]\n→ সাইনো আয়াট্রিয়াল নোড (SA node)\n→ আয়াট্রিয়া ভেট্রিফুলার নোড (AV node)\n→ বাঁড়ল আব হিজ,(ভান বাঁড়ল আব হিজ এবং বাম বাঁড়ল আব হিজ)\nপারকিনজি তন্ত্র।\n**Tags:** [Ans: B]\n\n## Q28\nWhich of the following is affirmative sentence?\n\nA. The platinum fob-chain is very beautiful.\nB. The porter was very fortunate.\nC. Her love for Jim was very deep.\nD. It was a very lucky day.\n\n**Answer:** A\n**Solution:** সবগুলো অপশনই সত্য।\n**Tags:** [Ans: A]\n\n## Q29\n98 ms⁻¹ বেগে একটি পথখরে উপরের দিকে শিষ্টেফ করা হলে উহা কত সেকেন্ড পরে ভূ-পৃষ্ঠে ফিরে আসবে?\n\nA. 8\nB. 15\nC. 20\nD. 28\n\n**Answer:** C\n**Solution:** আমরা জানি, পর্যায়কাল, T = $\\frac{2u}{g}=\\frac{2\\times98}{9.8}=20\\ s$\n**Tags:** [Ans: C]\n\n## Q30\nনিম্নের কোনটি হৃদপিণ্ডের বিভিন্ন প্রকৌশলে বিভক্ত করে?\n\nA. এপিকার্ডিয়াম\nB. পেরিকার্ডিয়াম\nC. এডোকার্ডিয়াম\nD. মায়াকার্ডিয়াম\n\n**Answer:** A\n**Solution:** এডোকার্ডিয়াম হৃদপিণ্ডের বিভিন্ন প্রকৌশলে বিভক্ত করে।\n**Tags:** [Ans: A]\n\n## Q31\nবেনজোফেনের বাণিজ্যিক ব্যবহার নিম্নে কোনটি উপাদান?\n\nA. আয়না\nB. রঞ্জক\nC. ঘুমের ওষুধ\nD. সেলুলয়েড পারস্পর্ক\n\n**Answer:** C\n**Solution:** দেখে নাও বেনজোফেনের বাণিজ্যিক ব্যবহারঃ\n→ সুগন্ধি দ্রব্য প্রতিবেত্তা\n→ ঘুমের ঔষধ\n→ প্লাস্টিক তৈরির উপাদান স্টাইরিন প্রস্তীতে ব্যবহৃত হয়।\n**Tags:** [Ans: C]\n\n## Q32\nনিম্নের কোন তথ্যটি সত্যিক নয়?\n\nA. মানুষ দেহে বিদ্যমান প্রায় সবগুলি α-অ্যামিনো এসিড।\nB. টারপেনটাইন একটি উচ্চী তেল।\nC. সেলুলোজ একটি বিজারক প্রকৃতির পলিস্যাকারাইড।\nD. সবুজ উদ্ভিদে গ্লাইকোজেন সম্পূর্ণভাবে অনুপস্থিত।\n\n**Answer:** D\n**Solution:** অপশন 'C' সত্যিক নয়; কারণ - সেলুলোজ একটি অবিজারক প্রকৃতির পলিস্যাকারাইড।\n**Tags:** [Ans: D]\n\n## Q33\nনিম্নের কোনটি ইউরেনিয়ামের পারমাণবিক সংখ্যা?\n\nA. 112\nB. 102\nC. 92\nD. 82\n\n**Answer:** C\n**Solution:** ইউরেনিয়ামের পারমাণবিক সংখ্যা 92\n**Tags:** [Ans: C]",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q20",
+          "content_markdown": "নিম্নের কোন অঙ্গে মজা গহ্বর নাই?",
+          "structured_data": {
+            "question_number": "20",
+            "subtype": "mcq",
+            "stem": "নিম্নের কোন অঙ্গে মজা গহ্বর নাই?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ইংক্রিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "স্টার্নাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "কার্পাল",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ক্ল্যাভিকল",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "ক্ল্যাভিকলে মজা গহ্বর নেই।",
+            "tags_raw": "[Ans: D]",
+            "provenance": [
+              "[Ans: D]"
+            ]
+          },
+          "id": "dbeb41da-2b87-5e24-beec-dd394c1fd076"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q27",
+          "content_markdown": "নিম্নের কোনটি হৃদপিণ্ডের সংবহন তন্ত্রের অংশ নয়?",
+          "structured_data": {
+            "question_number": "27",
+            "subtype": "mcq",
+            "stem": "নিম্নের কোনটি হৃদপিণ্ডের সংবহন তন্ত্রের অংশ নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "পেস মেকার",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "মায়াকার্ডিয়াম",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "বাঁড়ল আব হিজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "পারকিনজি তন্ত্র",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "অপশন 'B' সত্য নয়; কারণ এটি হৃৎপিণ্ডের সংবহনতন্ত্রের অংশ নয়।\n**Note:** হৃৎপিণ্ডের সংবহনতন্ত্রের অংশগুলো [আজমল]\n→ সাইনো আয়াট্রিয়াল নোড (SA node)\n→ আয়াট্রিয়া ভেট্রিফুলার নোড (AV node)\n→ বাঁড়ল আব হিজ,(ভান বাঁড়ল আব হিজ এবং বাম বাঁড়ল আব হিজ)\nপারকিনজি তন্ত্র।",
+            "tags_raw": "[Ans: B]",
+            "provenance": [
+              "[Ans: B]"
+            ]
+          },
+          "id": "b96a949e-7771-5422-87d7-84cf55e6dddc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q28",
+          "content_markdown": "Which of the following is affirmative sentence?",
+          "structured_data": {
+            "question_number": "28",
+            "subtype": "mcq_item",
+            "stem": "Which of the following is affirmative sentence?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "The platinum fob-chain is very beautiful.",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "The porter was very fortunate.",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "Her love for Jim was very deep.",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "It was a very lucky day.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "সবগুলো অপশনই সত্য।",
+            "tags_raw": "[Ans: A]",
+            "provenance": [
+              "[Ans: A]"
+            ]
+          },
+          "id": "9b23d445-0bac-52f9-9c93-22251327ec65"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q29",
+          "content_markdown": "98 ms⁻¹ বেগে একটি পথখরে উপরের দিকে শিষ্টেফ করা হলে উহা কত সেকেন্ড পরে ভূ-পৃষ্ঠে ফিরে আসবে?",
+          "structured_data": {
+            "question_number": "29",
+            "subtype": "mcq_item",
+            "stem": "98 ms⁻¹ বেগে একটি পথখরে উপরের দিকে শিষ্টেফ করা হলে উহা কত সেকেন্ড পরে ভূ-পৃষ্ঠে ফিরে আসবে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "8",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "15",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "20",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "28",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "আমরা জানি, পর্যায়কাল, T = $\\frac{2u}{g}=\\frac{2\\times98}{9.8}=20\\ s$",
+            "tags_raw": "[Ans: C]",
+            "provenance": [
+              "[Ans: C]"
+            ]
+          },
+          "id": "a9202232-1de4-53c8-a84e-b82363cc4b5d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q30",
+          "content_markdown": "নিম্নের কোনটি হৃদপিণ্ডের বিভিন্ন প্রকৌশলে বিভক্ত করে?",
+          "structured_data": {
+            "question_number": "30",
+            "subtype": "mcq_item",
+            "stem": "নিম্নের কোনটি হৃদপিণ্ডের বিভিন্ন প্রকৌশলে বিভক্ত করে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "এপিকার্ডিয়াম",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "পেরিকার্ডিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "এডোকার্ডিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "মায়াকার্ডিয়াম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "এডোকার্ডিয়াম হৃদপিণ্ডের বিভিন্ন প্রকৌশলে বিভক্ত করে।",
+            "tags_raw": "[Ans: A]",
+            "provenance": [
+              "[Ans: A]"
+            ]
+          },
+          "id": "455d40d7-5e77-585e-921c-16ff8f833903"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q31",
+          "content_markdown": "বেনজোফেনের বাণিজ্যিক ব্যবহার নিম্নে কোনটি উপাদান?",
+          "structured_data": {
+            "question_number": "31",
+            "subtype": "mcq_item",
+            "stem": "বেনজোফেনের বাণিজ্যিক ব্যবহার নিম্নে কোনটি উপাদান?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "আয়না",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "রঞ্জক",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ঘুমের ওষুধ",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "সেলুলয়েড পারস্পর্ক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "দেখে নাও বেনজোফেনের বাণিজ্যিক ব্যবহারঃ\n→ সুগন্ধি দ্রব্য প্রতিবেত্তা\n→ ঘুমের ঔষধ\n→ প্লাস্টিক তৈরির উপাদান স্টাইরিন প্রস্তীতে ব্যবহৃত হয়।",
+            "tags_raw": "[Ans: C]",
+            "provenance": [
+              "[Ans: C]"
+            ]
+          },
+          "id": "1bcd5e03-e066-5fcd-954f-c6d05fa90455"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q32",
+          "content_markdown": "নিম্নের কোন তথ্যটি সত্যিক নয়?",
+          "structured_data": {
+            "question_number": "32",
+            "subtype": "mcq_item",
+            "stem": "নিম্নের কোন তথ্যটি সত্যিক নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "মানুষ দেহে বিদ্যমান প্রায় সবগুলি α-অ্যামিনো এসিড।",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "টারপেনটাইন একটি উচ্চী তেল।",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "সেলুলোজ একটি বিজারক প্রকৃতির পলিস্যাকারাইড।",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "সবুজ উদ্ভিদে গ্লাইকোজেন সম্পূর্ণভাবে অনুপস্থিত।",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "অপশন 'C' সত্যিক নয়; কারণ - সেলুলোজ একটি অবিজারক প্রকৃতির পলিস্যাকারাইড।",
+            "tags_raw": "[Ans: D]",
+            "provenance": [
+              "[Ans: D]"
+            ]
+          },
+          "id": "ab9b5510-1f8d-56de-b0f5-9401a607afa1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q33",
+          "content_markdown": "নিম্নের কোনটি ইউরেনিয়ামের পারমাণবিক সংখ্যা?",
+          "structured_data": {
+            "question_number": "33",
+            "subtype": "mcq_item",
+            "stem": "নিম্নের কোনটি ইউরেনিয়ামের পারমাণবিক সংখ্যা?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "112",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "102",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "92",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "82",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "ইউরেনিয়ামের পারমাণবিক সংখ্যা 92",
+            "tags_raw": "[Ans: C]",
+            "provenance": [
+              "[Ans: C]"
+            ]
+          },
+          "id": "907e4ade-b6a3-5be4-a54e-1d2ad7caad90"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 8,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 108.69,
+        "eval_count": 1799
+      }
+    },
+    {
+      "page_number": 4,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "808\n\n### 34. সূর্য থেকে বিকিরণ নিঃসরনের সময় যে তরঙ্গ দৈর্ঘ্যের সর্বোচ্চ বিকিরণ হয়, তা 500 nm হলে সূর্য পুষ্টের তাপমাত্রা (K) নিম্নের কৌনটি?\nA. 5000  \nB. 5530  \nC. 5800  \nD. 6000  \n\n$\\rightarrow$ জনসংখ্যা সবচেয়ে বড় উপজেলা – সাভার  \n$\\rightarrow$ বাংলাদেশের উত্তর-পূর্ব কোণের থানার নাম - জঙ্খগঞ্জ (সিলেট)  \n$\\rightarrow$ বাংলাদেশের উত্তর-পশ্চিম কোণের থানার নাম– শিবগঞ্জ (চাপাইনবাবগঞ্জ)  \n$\\rightarrow$ বাংলাদেশের দক্ষিণ-পূর্ব কোণের থানার নাম— ট্রেন্ডফ (কক্সবাজার)  \n$\\rightarrow$ বাংলাদেশের দক্ষিণ-পশ্চিম কোণের থানার নাম— শ্যামনগর (সাতক্ষীরা)\n\n### Solve সর্বোচ্চ বিকিরণের ফেরে আমরা জানি,\n\n$$\n\\lambda_{m}T = 2.9 \\times 10^{-3}\n$$\n\n$$\n\\Rightarrow T = \\frac{2.9 \\times 10^{-3}}{\\lambda_{m}} = \\frac{2.9 \\times 10^{-3}}{500 \\times 10^{-9}}\n$$\n\n$$\n\\therefore T = 5800 k\n$$\n\nসুতরাং সঠিক উত্তর C.\n\n### 39. Which of the following is the correct translation of that Bangla sentence?\n\n'A. The emergence of Bangladesh in the map of the world is a memorable events of the twentieth century.'  \n'B. The emergence of Bangladesh on the map of the world is a memorable event of the twentieth century.'  \n'C. The emergence of Bangladesh in maps of the world is a memorable event of the twentieth century:'  \n'D. The emergence of Bangladesh in the map of the world is a memorable event of the twentieth century.'\n\n### Solve সঠিক উত্তর D'.\n\nNote: জেনে নাও আরও কিছু প্রয়োজনীয় Translation:\n\n- 'আমরা না হেসে পারলাম না'\n    - We could not but laugh\n- 'সে খুবই আবেগ প্রথ'\n    - He is very emotional\n- 'গাছে এখনও ফল ধরে নাই'\n    - The tree has not yet borne fruit\n- 'সকলে পাখিরা কিছিরমিছির করে'\n    - Birds twitter at dawn\n- 'তিনি রাগে গরগর করছেন'\n    - He is bursting into anger\n- 'সে খুব অল্প কথার মানুষ'\n    - He is a man of few words\n- 'আকাশে মেঝ জমেছে'\n    - Clouds have gathered in the sky\n- 'তেলের মাতায় তেল দেয়া'\n    - To carry coals to New castle\n- 'এই বছর খুব শীত পড়েছে'\n    - It is very cold this year\n- 'এখন অনেক রাত'\n    - It is deep night now\n- 'গ্রীষ্ম তার খরভাপ নিয়ে আসে'\n    - Summer comes with his scorching heat\n- 'বাম্বাম করে বৃষ্টি আসল'\n    - The rain came down in torrents\n- 'বিপদ কখনও একা আসে না'\n    - Misfortunes never come alone\n\n### 40. নিম্নের কোন তথ্যটি ভাইরাস সম্পর্কে সঠিক নয়?  \nA. ভাইরাস যে কোন কোষেই সংখ্যা বৃদ্ধি করতে পারে।  \nB. বার্ড ফ্লু ভাইরাস SARS করতে সক্ষম।  \nC. ভাইরাসের ক্যাপসিড স্ত্রাটি এ্যান্টিজেনিক।  \nD. ব্যাকটেরিয়া আক্রমণকারী ভাইরাসকে ব্যাকটেরিওফাজ বলে।  \n\n### Solve অপশন 'B' সঠিক-নয়; কারণ- H1N1 ভাইরাস SARS করতে সক্ষম",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "808",
+          "structured_data": {},
+          "id": "30205a45-c5c3-536f-8a8c-0a0d8f3ebf01"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q34",
+          "content_markdown": "সূর্য থেকে বিকিরণ নিঃসরনের সময় যে তরঙ্গ দৈর্ঘ্যের সর্বোচ্চ বিকিরণ হয়, তা 500 nm হলে সূর্য পুষ্টের তাপমাত্রা (K) নিম্নের কৌনটি?\n$\\rightarrow$ জনসংখ্যা সবচেয়ে বড় উপজেলা – সাভার\n$\\rightarrow$ বাংলাদেশের\n$\\rightarrow$ বাংলাদেশের\n$\\rightarrow$ বাংলাদেশের দক্ষিণ-পূর্ব কোণের থানার নাম— ট্রেন্ডফ (কক্সবাজার)\n$\\rightarrow$ বাংলাদেশের দক্ষিণ-পশ্চিম কোণের থানার নাম— শ্যামনগর (সাতক্ষীরা)\n### Solve সর্বোচ্চ বিকিরণের ফেরে আমরা জানি,\n\n$$\n\\lambda_{m}T = 2.9 \\times 10^{-3}\n$$\n\n$$\n\\Rightarrow T = \\frac{2.9 \\times 10^{-3}}{\\lambda_{m}} = \\frac{2.9 \\times 10^{-3}}{500 \\times 10^{-9}}\n$$\n\n$$\n\\therefore T = 5800 k\n$$\n\nসুতরাং সঠিক উত্তর C.",
+          "structured_data": {
+            "question_number": "34",
+            "subtype": "mcq_item",
+            "stem": "সূর্য থেকে বিকিরণ নিঃসরনের সময় যে তরঙ্গ দৈর্ঘ্যের সর্বোচ্চ বিকিরণ হয়, তা 500 nm হলে সূর্য পুষ্টের তাপমাত্রা (K) নিম্নের কৌনটি?\n$\\rightarrow$ জনসংখ্যা সবচেয়ে বড় উপজেলা – সাভার\n$\\rightarrow$ বাংলাদেশের\n$\\rightarrow$ বাংলাদেশের\n$\\rightarrow$ বাংলাদেশের দক্ষিণ-পূর্ব কোণের থানার নাম— ট্রেন্ডফ (কক্সবাজার)\n$\\rightarrow$ বাংলাদেশের দক্ষিণ-পশ্চিম কোণের থানার নাম— শ্যামনগর (সাতক্ষীরা)\n### Solve সর্বোচ্চ বিকিরণের ফেরে আমরা জানি,\n\n$$\n\\lambda_{m}T = 2.9 \\times 10^{-3}\n$$\n\n$$\n\\Rightarrow T = \\frac{2.9 \\times 10^{-3}}{\\lambda_{m}} = \\frac{2.9 \\times 10^{-3}}{500 \\times 10^{-9}}\n$$\n\n$$\n\\therefore T = 5800 k\n$$\n\nসুতরাং সঠিক উত্তর C.",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "5000",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "5530",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "5800",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "6000",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "পূর্ব কোণের থানার নাম - জঙ্খগঞ্জ (সিলেট)",
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ca1cff79-32f9-5cc2-8287-47e3ef9ef614"
+        },
+        {
+          "block_type": "written_item",
+          "title": "Q39",
+          "content_markdown": "Which of the following is the correct translation of that Bangla sentence?\n'A. The emergence of Bangladesh in the map of the world is a memorable events of the twentieth century.'\n'B. The emergence of Bangladesh on the map of the world is a memorable event of the twentieth century.'\n'C. The emergence of Bangladesh in maps of the world is a memorable event of the twentieth century:'\n'D. The emergence of Bangladesh in the map of the world is a memorable event of the twentieth century.'\n### Solve সঠিক উত্তর D'.\nNote: জেনে নাও আরও কিছু প্রয়োজনীয় Translation:\n- 'আমরা না হেসে পারলাম না'\n- We could not but laugh\n- 'সে খুবই আবেগ প্রথ'\n- He is very emotional\n- 'গাছে এখনও ফল ধরে নাই'\n- The tree has not yet borne fruit\n- 'সকলে পাখিরা কিছিরমিছির করে'\n- Birds twitter at dawn\n- 'তিনি রাগে গরগর করছেন'\n- He is bursting into anger\n- 'সে খুব অল্প কথার মানুষ'\n- He is a man of few words\n- 'আকাশে মেঝ জমেছে'\n- Clouds have gathered in the sky\n- 'তেলের মাতায় তেল দেয়া'\n- To carry coals to New castle\n- 'এই বছর খুব শীত পড়েছে'\n- It is very cold this year\n- 'এখন অনেক রাত'\n- It is deep night now\n- 'গ্রীষ্ম তার খরভাপ নিয়ে আসে'\n- Summer comes with his scorching heat\n- 'বাম্বাম করে বৃষ্টি আসল'\n- The rain came down in torrents\n- 'বিপদ কখনও একা আসে না'\n- Misfortunes never come alone",
+          "structured_data": {
+            "question_number": "39",
+            "subtype": "written_item",
+            "stem": "Which of the following is the correct translation of that Bangla sentence?\n'A. The emergence of Bangladesh in the map of the world is a memorable events of the twentieth century.'\n'B. The emergence of Bangladesh on the map of the world is a memorable event of the twentieth century.'\n'C. The emergence of Bangladesh in maps of the world is a memorable event of the twentieth century:'\n'D. The emergence of Bangladesh in the map of the world is a memorable event of the twentieth century.'\n### Solve সঠিক উত্তর D'.\nNote: জেনে নাও আরও কিছু প্রয়োজনীয় Translation:\n- 'আমরা না হেসে পারলাম না'\n- We could not but laugh\n- 'সে খুবই আবেগ প্রথ'\n- He is very emotional\n- 'গাছে এখনও ফল ধরে নাই'\n- The tree has not yet borne fruit\n- 'সকলে পাখিরা কিছিরমিছির করে'\n- Birds twitter at dawn\n- 'তিনি রাগে গরগর করছেন'\n- He is bursting into anger\n- 'সে খুব অল্প কথার মানুষ'\n- He is a man of few words\n- 'আকাশে মেঝ জমেছে'\n- Clouds have gathered in the sky\n- 'তেলের মাতায় তেল দেয়া'\n- To carry coals to New castle\n- 'এই বছর খুব শীত পড়েছে'\n- It is very cold this year\n- 'এখন অনেক রাত'\n- It is deep night now\n- 'গ্রীষ্ম তার খরভাপ নিয়ে আসে'\n- Summer comes with his scorching heat\n- 'বাম্বাম করে বৃষ্টি আসল'\n- The rain came down in torrents\n- 'বিপদ কখনও একা আসে না'\n- Misfortunes never come alone",
+            "options": [],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1ecea86b-b6e0-59c8-8994-7b886ed8538c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q40",
+          "content_markdown": "নিম্নের কোন তথ্যটি ভাইরাস সম্পর্কে সঠিক নয়?",
+          "structured_data": {
+            "question_number": "40",
+            "subtype": "mcq_item",
+            "stem": "নিম্নের কোন তথ্যটি ভাইরাস সম্পর্কে সঠিক নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ভাইরাস যে কোন কোষেই সংখ্যা বৃদ্ধি করতে পারে।",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "বার্ড ফ্লু ভাইরাস SARS করতে সক্ষম।",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ভাইরাসের ক্যাপসিড স্ত্রাটি এ্যান্টিজেনিক।",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ব্যাকটেরিয়া আক্রমণকারী ভাইরাসকে ব্যাকটেরিওফাজ বলে।",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9a28a672-6a3b-5754-8a83-df78b42ab2c6"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 4,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 90.46,
+        "eval_count": 1530
+      }
+    },
+    {
+      "page_number": 5,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "## Q41\n**Type:** mcq\n**Stem:** দক্ষিণ তালপর্টি ঢীপ নিক্ষেপ কোন জেলায় অবস্থিত?\n**Options:** - A) সাতক্ষীরা  \n- B) ভৌলা \n- C) নোয়াখালী \n- D) চট্টগ্রাম\n\n**Answer:** [Ans: A]\n**Solution:** সচিত্র উত্তর 'A' অর্থাৎ সাতক্ষীরা।\n**Tags:** [RUET'10-11]\n\n## Q42\n**Type:** mcq\n**Stem:** Which of the following is the correct Bangla meaning of the English word? \n**Options:** - A) Tyrannise: অত্যাচার করা  \n- B) Tremble: জয়লত করা \n- C) Proficient: লভজনক \n- D) Indignant: অপরহার \n\n**Answer:** [Ans: A]\n**Solution:** সচিত্র উত্তর হচ্ছে অপশন 'A'; কেননা-Tyrannise শব্দের অর্থ অত্যাচার করা/শোষণ করা, Tremble শব্দের অর্থ কোপা, Proficient শব্দের অর্থ দক্ষ, এবং Indignant শব্দের অর্থ কোধমুক্ত/যুগ্মিত।\n**Tags:** [RUET'10-11]\n\n## Q43\n**Type:** mcq\n**Stem:** নিচের কোনটি সালমেনোলা টাইফি ঘাও সংখ্যাটি হয়েছে?\n**Options:** - A) পোলিমারেইনাইটিস \n- B) হাম \n- C) টাইফোড \n- D) কুবেলো\n\n**Answer:** [Ans: C]\n**Solution:** সচিত্র উত্তর হচ্ছে অপশন 'C' অর্থাৎ টাইফয়োড।\n**Tags:** [RUET'10-11]\n\n## Q44\n**Type:** mcq\n**Stem:** নিচের কোন বিক্রিয়া অঙ্গীয় মূলকের সংযোজন হয়েছে?\n**Options:** - A) HgCl₂(s) + Hg(l) → Hg₂Cl₂(s) \n- B) 2Na + Cl₂ → 2NaCl(s) \n- C) 4HCl(aq)+MnO₂(s) → MnCl₂(aq)+Cl₂(g)+2H₂O(l) \n- D) Zn(s) + H₂SO₄(aq) → ZnSO₄(aq) + H₂(g)\n\n**Answer:** [Ans: D]\n**Solution:** অপশন 'D' তে অঙ্গীয় মূলকের সংযোজন হয়েছে।\n**Tags:** [RUET'10-11]\n\n## Q45\n**Type:** mcq\n**Stem:** নিচের কোন তথ্যটি সত্যি নয়?\n**Options:** - A) ডুপলার নির্ভর ভিত্তি করেই রোগ নির্ণয়ের জন্য আলট্রাসোনোগ্রাম করা হয়। \n- B) যে তাপমাত্রায় কোন অয়নের বায়ু তার মধ্যস্থিত জলীয় বাষ্প ঘাসা সম্পৃক্ত হয়, সেই তাপমাত্রাকে শিখিয়াদ বলে। \n- C) তাপমাত্রা পরিমাপের জন্য অর্ধপরিবাহক ঘাও তৈরি সুবৈদী রোধকে ধার্মিকত বলে। \n- D) সমূহ প্রক্রিয়া চার্সের সূত্র প্রয়োগ করা যায়।\n\n**Answer:** [Ans: D]\n**Solution:** অপশন 'D' নিষ্ঠিত নয়; কারণ- সম্পৃক্ত পরিবর্তন বয়েলের সূত্র (PV = প্রবক্ক) মেনে চলে।\n**Tags:** [RUET'10-11]\n\n## Q46\n**Type:** mcq\n**Stem:** Which of the following pair contain correct past participle of that verb?\n**Options:** - A) freeze froze \n- B) hide hid . \n- C) go went \n- D) forget forgotten\n\n**Answer:** [Ans: D]\n**Solution:** সচিত্র উত্তর হচ্ছে অপশন 'D'.\n**Tags:** [BUET'23-24]\n\n## Q47\n**Type:** mcq\n**Stem:** মূলরোমের কোষ রসে বিদ্যমান আয়নের ঘনত্ব মাত্রার রসে বিদ্যমান আয়নের ঘনত্ব অপেক্ষা কম হওয়ায় মাত্রার রস থেকে আয়ন মূলরোমের রসে প্রবেশ করে, ইহা নিচের কোন তত্ত্ব?\n**Options:** - A) আয়ন বিনিময় \n- B) ব্যাপান \n- C) ডোল্যান সাম্যাবস্থা \n- D) ব্যাপক ব্রাহ্ম\n\n**Answer:** [Ans: C]\n**Solution:** প্রশ্নে উল্লেখিত তত্ত্বটির নাম ব্যাপান তত্ত্ব।\n**Tags:** [BUET'23-24]\n\n## Q48\n**Type:** mcq\n**Stem:** K₂Cr₂O₇ মৌলে Cr এর জারণ সংখ্যা নিচের কোনটি?\n**Options:** - A) −6 \n- B) +6 \n- C) +12 \n- D) −12\n\n**Answer:** [Ans: B]\n**Solution:** ধরি,\nK₂Cr₂O₇ মৌলে Cr এর জারণ সংখ্যা x\n∴ 1 × 2 + x × 2 + (−2) × 7 = 0\n⇒ 2 + 2x – 14 = 0\n∴ x = +6\nসুতরাং সচিত্র উত্তর অপশন B.\n**Tags:** [BUET'23-24]\n\n## Q49\n**Type:** mcq\n**Stem:** হিতিষ্ঠাপক সীমার মধ্যে পদার্থের দৈর্ঘ্য পীড়ন এবং দৈর্ঘ্য বিকৃতির অনুপাতের গ্রুব সংখ্যা নিচের কোন গুণাঙ্ক দ্বারা প্রকাশিত?\n**Options:** - A) আয়তন \n- B) ইয়ং \n- C) হিতিষ্ঠাপক \n- D) দৃঢ়তার\n\n**Answer:** [Ans: B]\n**Solution:** আমরা জানি,\nদৈর্ঘ্য পীড়ন\nইয়ং গুণাঙ্ক = দৈর্ঘ্য বিকৃতি\n**Tags:** [BUET'23-24]\n\n## Q50\n**Type:** mcq\n**Stem:** নিচের কোনটি সত্যি নয়?\n**Options:** - A) ইন্টারফেজ পর্যায়ে DNA তার প্রতিক্রিয়া সূচিকরে।  \n- B) সেলুলোজ অণুর মূল একক হচ্ছে গ্লুকোজ অণু।  \n- C) মস্ফু এভোগ্লামিক রেটিকুলামে প্রোটিন সংশ্লেষণ বেশি হয়।  \n- D) জাইলেম ফাইবারকে উড় ফাইবার বলে।\n\n**Answer:** [Ans: C]\n**Solution:** অপশন 'C' সত্যি নয়; কারণ- অমূল্য এভোগ্লামিক রেটিকুলামে প্রোটিন সংশ্লেষণ বেশি হয়।\n**Tags:** [BUET'23-24]\n\n## Q51\n**Type:** mcq\n**Stem:** 10 gm ফেরাস সালফেটকে জারিত করতে নিচের কত গ্রাম ঵িশৃঙ্খল K₂Cr₂O₇ প্রয়োজন হবে? \n**Options:** - A) 3.922 \n- B) 2.239 \n- C) 3.229 \n- D) 2.329\n\n**Answer:** [Ans: C]\n**Solution:** আমরা জানি,\ne₁ w₁ / m₁ = e₂ w₂ / m₂\n⇒ 1 × 10/151.85 = 6 × w₂/294.2\n∴ w₂ = 3.229 g\n**Tags:** [BUET'23-24]",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q41",
+          "content_markdown": "দক্ষিণ তালপর্টি ঢীপ নিক্ষেপ কোন জেলায় অবস্থিত?",
+          "structured_data": {
+            "question_number": "41",
+            "subtype": "mcq",
+            "stem": "দক্ষিণ তালপর্টি ঢীপ নিক্ষেপ কোন জেলায় অবস্থিত?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "সাতক্ষীরা",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "ভৌলা",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "নোয়াখালী",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "চট্টগ্রাম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "সচিত্র উত্তর 'A' অর্থাৎ সাতক্ষীরা।",
+            "tags_raw": "[RUET'10-11]",
+            "provenance": [
+              "RUET'10-11"
+            ]
+          },
+          "id": "1d36f9c9-0a6b-5ff3-81c5-28b7d0412688"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q42",
+          "content_markdown": "Which of the following is the correct Bangla meaning of the English word?",
+          "structured_data": {
+            "question_number": "42",
+            "subtype": "mcq",
+            "stem": "Which of the following is the correct Bangla meaning of the English word?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "Tyrannise: অত্যাচার করা",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "Tremble: জয়লত করা",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "Proficient: লভজনক",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "Indignant: অপরহার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "সচিত্র উত্তর হচ্ছে অপশন 'A'; কেননা-Tyrannise শব্দের অর্থ অত্যাচার করা/শোষণ করা, Tremble শব্দের অর্থ কোপা, Proficient শব্দের অর্থ দক্ষ, এবং Indignant শব্দের অর্থ কোধমুক্ত/যুগ্মিত।",
+            "tags_raw": "[RUET'10-11]",
+            "provenance": [
+              "RUET'10-11"
+            ]
+          },
+          "id": "8156a349-fc8b-5ef0-96be-2b72ef406443"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q43",
+          "content_markdown": "নিচের কোনটি সালমেনোলা টাইফি ঘাও সংখ্যাটি হয়েছে?",
+          "structured_data": {
+            "question_number": "43",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটি সালমেনোলা টাইফি ঘাও সংখ্যাটি হয়েছে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "পোলিমারেইনাইটিস",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "হাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "টাইফোড",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "কুবেলো",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "সচিত্র উত্তর হচ্ছে অপশন 'C' অর্থাৎ টাইফয়োড।",
+            "tags_raw": "[RUET'10-11]",
+            "provenance": [
+              "RUET'10-11"
+            ]
+          },
+          "id": "6fd333b3-6b1b-5b87-aa14-9f67fde92944"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q44",
+          "content_markdown": "নিচের কোন বিক্রিয়া অঙ্গীয় মূলকের সংযোজন হয়েছে?",
+          "structured_data": {
+            "question_number": "44",
+            "subtype": "mcq",
+            "stem": "নিচের কোন বিক্রিয়া অঙ্গীয় মূলকের সংযোজন হয়েছে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "HgCl₂(s) + Hg(l) → Hg₂Cl₂(s)",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "2Na + Cl₂ → 2NaCl(s)",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "4HCl(aq)+MnO₂(s) → MnCl₂(aq)+Cl₂(g)+2H₂O(l)",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "Zn(s) + H₂SO₄(aq) → ZnSO₄(aq) + H₂(g)",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "অপশন 'D' তে অঙ্গীয় মূলকের সংযোজন হয়েছে।",
+            "tags_raw": "[RUET'10-11]",
+            "provenance": [
+              "RUET'10-11"
+            ]
+          },
+          "id": "00304d5d-a117-51f3-8ce6-fe7a058af361"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q45",
+          "content_markdown": "নিচের কোন তথ্যটি সত্যি নয়?",
+          "structured_data": {
+            "question_number": "45",
+            "subtype": "mcq",
+            "stem": "নিচের কোন তথ্যটি সত্যি নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ডুপলার নির্ভর ভিত্তি করেই রোগ নির্ণয়ের জন্য আলট্রাসোনোগ্রাম করা হয়।",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "যে তাপমাত্রায় কোন অয়নের বায়ু তার মধ্যস্থিত জলীয় বাষ্প ঘাসা সম্পৃক্ত হয়, সেই তাপমাত্রাকে শিখিয়াদ বলে।",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "তাপমাত্রা পরিমাপের জন্য অর্ধপরিবাহক ঘাও তৈরি সুবৈদী রোধকে ধার্মিকত বলে।",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "সমূহ প্রক্রিয়া চার্সের সূত্র প্রয়োগ করা যায়।",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "অপশন 'D' নিষ্ঠিত নয়; কারণ- সম্পৃক্ত পরিবর্তন বয়েলের সূত্র (PV = প্রবক্ক) মেনে চলে।",
+            "tags_raw": "[RUET'10-11]",
+            "provenance": [
+              "RUET'10-11"
+            ]
+          },
+          "id": "5a8ea372-b0aa-509d-ae24-da13ee0006ec"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q46",
+          "content_markdown": "Which of the following pair contain correct past participle of that verb?",
+          "structured_data": {
+            "question_number": "46",
+            "subtype": "mcq",
+            "stem": "Which of the following pair contain correct past participle of that verb?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "freeze froze",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "hide hid .",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "go went",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "forget forgotten",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "সচিত্র উত্তর হচ্ছে অপশন 'D'.",
+            "tags_raw": "[BUET'23-24]",
+            "provenance": [
+              "BUET'23-24"
+            ]
+          },
+          "id": "88e9206b-27fa-59d2-8167-0a93708c62b2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q47",
+          "content_markdown": "মূলরোমের কোষ রসে বিদ্যমান আয়নের ঘনত্ব মাত্রার রসে বিদ্যমান আয়নের ঘনত্ব অপেক্ষা কম হওয়ায় মাত্রার রস থেকে আয়ন মূলরোমের রসে প্রবেশ করে, ইহা নিচের কোন তত্ত্ব?",
+          "structured_data": {
+            "question_number": "47",
+            "subtype": "mcq",
+            "stem": "মূলরোমের কোষ রসে বিদ্যমান আয়নের ঘনত্ব মাত্রার রসে বিদ্যমান আয়নের ঘনত্ব অপেক্ষা কম হওয়ায় মাত্রার রস থেকে আয়ন মূলরোমের রসে প্রবেশ করে, ইহা নিচের কোন তত্ত্ব?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "আয়ন বিনিময়",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ব্যাপান",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ডোল্যান সাম্যাবস্থা",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "ব্যাপক ব্রাহ্ম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "প্রশ্নে উল্লেখিত তত্ত্বটির নাম ব্যাপান তত্ত্ব।",
+            "tags_raw": "[BUET'23-24]",
+            "provenance": [
+              "BUET'23-24"
+            ]
+          },
+          "id": "caf495ed-2487-5a5a-a3d5-b70bcd0acc3d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q48",
+          "content_markdown": "K₂Cr₂O₇ মৌলে Cr এর জারণ সংখ্যা নিচের কোনটি?",
+          "structured_data": {
+            "question_number": "48",
+            "subtype": "mcq",
+            "stem": "K₂Cr₂O₇ মৌলে Cr এর জারণ সংখ্যা নিচের কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "−6",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "+6",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "+12",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "−12",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "ধরি,\nK₂Cr₂O₇ মৌলে Cr এর জারণ সংখ্যা x\n∴ 1 × 2 + x × 2 + (−2) × 7 = 0\n⇒ 2 + 2x – 14 = 0\n∴ x = +6\nসুতরাং সচিত্র উত্তর অপশন B.",
+            "tags_raw": "[BUET'23-24]",
+            "provenance": [
+              "BUET'23-24"
+            ]
+          },
+          "id": "a081f5b3-0d35-5874-b2bd-2196a2817740"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q49",
+          "content_markdown": "হিতিষ্ঠাপক সীমার মধ্যে পদার্থের দৈর্ঘ্য পীড়ন এবং দৈর্ঘ্য বিকৃতির অনুপাতের গ্রুব সংখ্যা নিচের কোন গুণাঙ্ক দ্বারা প্রকাশিত?",
+          "structured_data": {
+            "question_number": "49",
+            "subtype": "mcq",
+            "stem": "হিতিষ্ঠাপক সীমার মধ্যে পদার্থের দৈর্ঘ্য পীড়ন এবং দৈর্ঘ্য বিকৃতির অনুপাতের গ্রুব সংখ্যা নিচের কোন গুণাঙ্ক দ্বারা প্রকাশিত?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "আয়তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ইয়ং",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "হিতিষ্ঠাপক",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "দৃঢ়তার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "আমরা জানি,\nদৈর্ঘ্য পীড়ন\nইয়ং গুণাঙ্ক = দৈর্ঘ্য বিকৃতি",
+            "tags_raw": "[BUET'23-24]",
+            "provenance": [
+              "BUET'23-24"
+            ]
+          },
+          "id": "3e5b31f2-e635-5dbd-99ed-ee9f3b47ab46"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q50",
+          "content_markdown": "নিচের কোনটি সত্যি নয়?",
+          "structured_data": {
+            "question_number": "50",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটি সত্যি নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ইন্টারফেজ পর্যায়ে DNA তার প্রতিক্রিয়া সূচিকরে।",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "সেলুলোজ অণুর মূল একক হচ্ছে গ্লুকোজ অণু।",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "মস্ফু এভোগ্লামিক রেটিকুলামে প্রোটিন সংশ্লেষণ বেশি হয়।",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "জাইলেম ফাইবারকে উড় ফাইবার বলে।",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "অপশন 'C' সত্যি নয়; কারণ- অমূল্য এভোগ্লামিক রেটিকুলামে প্রোটিন সংশ্লেষণ বেশি হয়।",
+            "tags_raw": "[BUET'23-24]",
+            "provenance": [
+              "BUET'23-24"
+            ]
+          },
+          "id": "1a1127c5-f588-5cb3-a6f4-728f3df006e0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q51",
+          "content_markdown": "10 gm ফেরাস সালফেটকে জারিত করতে নিচের কত গ্রাম ঵িশৃঙ্খল K₂Cr₂O₇ প্রয়োজন হবে?",
+          "structured_data": {
+            "question_number": "51",
+            "subtype": "mcq",
+            "stem": "10 gm ফেরাস সালফেটকে জারিত করতে নিচের কত গ্রাম ঵িশৃঙ্খল K₂Cr₂O₇ প্রয়োজন হবে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "3.922",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "2.239",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "3.229",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "2.329",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "আমরা জানি,\ne₁ w₁ / m₁ = e₂ w₂ / m₂\n⇒ 1 × 10/151.85 = 6 × w₂/294.2\n∴ w₂ = 3.229 g",
+            "tags_raw": "[BUET'23-24]",
+            "provenance": [
+              "BUET'23-24"
+            ]
+          },
+          "id": "e7d19aa3-d8c6-5a4f-a6a7-6458ee6ed7d4"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 11,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 170.61,
+        "eval_count": 2959
+      }
+    },
+    {
+      "page_number": 6,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "806\n\n## Q52\n**Type:** mcq\n**Stem:** অপ্রতাগামী প্রক্রিয়ায় এন্ট্রপির পরিবর্তন কোণটি?\n- A) বৃদ্ধি পায়\n- B) হাস পায়\n- C) শূন্য হয়\n- D) অপরিবর্তিত থাকে\n\n**Solution:** অপ্রতাগামী প্রক্রিয়ায় এন্ট্রপির পরিবর্তন বৃদ্ধি পায়।\n**Tags:** [Ans: A]\n\n## Q53\n**Type:** mcq\n**Stem:** নিচের কোনটি লাইসোজোম তৈরি করে?\n- A) গলঞ্জি বড়ি\n- B) মাইটোকন্ড্রিয়া\n- C) সেন্ট্রিওল\n- D) সাইটোগ্রামম\n\n**Solution:** গলঞ্জি বড়ি লাইসোজোম তৈরি করে।\n**Tags:** [Ans: A]\n\n## Q54\n**Type:** mcq\n**Stem:** নিচের কোনটি সময়জী যৌগের ধর্ম নয়?\n- A) গলানংক অনেক কম\n- B) উচ্ছারী\n- C) পোলার দ্রব্যের অধ্ববশী\n- D) বিদ্যুৎ পরিবহী\n\n**Solution:** অপশন 'D' সত্য নয়; কারণ - সময়জী যৌগসমূহ বিদ্যুৎ অপরিবাহী\n**Tags:** [Ans: D]\n\n## Q55\n**Type:** mcq\n**Stem:** বিপর্যক্ষিয়া ফলে উদ্ভিদ যে সমস্ত বর্জ্য পদার্থ তৈরি করে, তা মানুষের জন্য প্রযোজ্যম। নিচের কোনটি তার অন্তর্ভুক্ত নয়?\n- A) রেজিন\n- B) আইটা\n- C) উদ্ঘাট্য তেল\n- D) গ্লুটামিন\n\n**Solution:** সত্যিক উত্তর হচ্ছে অপশন 'D' অর্থাৎ গ্লুটামিন।\n**Tags:** [Ans: D]\n\n## Q56\n**Type:** mcq\n**Stem:** পারমাণবিক বর্ণালী সম্পর্কে নিচের কোনটি সত্যিক নয়?\n- A) সোডিয়াম আয়ন থেকে সোনালী হলুদ\n- B) পটাশিয়াম আয়ন থেকে হালকা বেগুনী\n- C) হাইড্রোজেন গ্যাস থেকে লাল বর্ণ\n- D) ক্যালিয়াম আয়ন থেকে ইটের মতো লাল\n\n**Solution:** অপশন 'C' সত্য নয়; কারণ - হাইড্রোজেন গ্যাস এর বর্ণালী বর্ণহিন হয়ে থাকে।\n**Tags:** [Ans: C]\n\n## Q57\n**Type:** mcq\n**Stem:** নিচের কোনটি সত্যিক নয়?\n- A) মোমে কোন দ্বিবন্ধন না থাকায় এরা রাসায়নিক তাবে নির্দ্রিয়।\n- B) ডায়াবেটিস রোগীর দেহে লাইপোপ্রোটিনের আধিক্য থাকে।\n- C) অ্যাডেনিন একটি পাইরিমিডিন।\n- D) নাইট্রোজেন বেসটি সব সময় নিউক্লিওটাইড সুগঠনের প্রথম কার্বনের সাথে যুক্ত থাকে।\n\n**Solution:** অপশন 'C' সত্য নয়; কারণ - আমরা জানি, অ্যাডেনিন এবং গুয়ানিন হচ্ছে পিটুরিন এবং পাইরিমিডিন হচ্ছে - সাইটোসিন, থাইমিন ও ইউরাসিল।\n**Tags:** [Ans: C]\n\n## Q58\n**Type:** mcq\n**Stem:** বিক্রিয়ার হারের উপর প্রভাব বিস্তারকারী নিচের কোন নিয়মকটি সত্যিক?\n- A) উচ্চ তাপমাত্রা\n- B) নিখুঁট চাপ\n- C) প্রভাবক\n- D) আলোর অনুপস্থিতি\n\n**Solution:** সত্যিক উত্তর হচ্ছে অপশন A, C দেখে নাও বিক্রিয়ার হারের উপর প্রভাব বিস্তারকারী নিয়মসমূহ।\n1. বিক্রিয়কের ঘনমাত্রা\n2. চাপ (গ্যাসীয় পদার্থের ফেরে)\n3. উচ্চ তাপমাত্রা\n4. আলো\n5. অনুষ্ঠক\n6. বিক্রিয়কের পৃষ্ঠতলের ক্ষেত্রফল ।\n**Tags:** [Ans: A,C]\n\n## Q59\n**Type:** mcq\n**Stem:** বাংলাদেশের স্বাধীনতা যুদ্ধে আসামান্য বীরছের জন্য কতজন বিদিতার সদস্য বীরছের পূরকারে ভূমিকা হন?\n- A) 2\n- B) 3\n- C) 4\n- D) 5\n\n**Solution:** সত্যিক উত্তর হচ্ছে অপশন 'A' অর্থাৎ ২জন (ল্যাঙ্ক নায়েক মুসি আদুর রাউক ও ল্যাঙ্ক নায়েক নূর মোহামদ)\n**Tags:** [Ans: A]\n\n## Q60\n**Type:** mcq\n**Stem:** Which of the following word is verb?\n- A) misleading\n- B) Lacklusture\n- C) Jab\n- D) Dealer.\n\n**Solution:** সত্যিক উত্তর হচ্ছে অপশন 'C' অর্থাৎ Jab যার অর্থ যৌথ দেওয়া।\n**Tags:** [Ans: C]\n\n## Q61\n**Type:** mcq\n**Stem:** নিচের কোনটি বাষারের CO₂ এর সাথেই বিভিন্ন রাসায়নিক বিক্রিয়ার মাধ্যমে কার্বিহাইড্রেট তৈরির পদ্ধতি নয়?\n- A) সাইট্রিক এসিড চক্র\n- B) ক্রাস্টুলেসিয়ান এসিড বিপাক প্রক্রিয়া\n- C) ক্যালভিন চক্র\n- D) হ্যাচ ও স্ল্যাক চক্র\n\n**Solution:** সত্যিক উত্তর হচ্ছে অপশন 'A' অর্থাৎ সাইট্রিক এসিড চক্র।\n**Tags:** [Ans: A]\n\n## Q62\n**Type:** mcq\n**Stem:** নিচের কোন জোড়টি সত্যিক?\n- A) সোভা কাঁচ: উত্তরাপে সহজে গলে না,\n- B) পটাশ কাঁচ: টেস্টিভিব তৈরিতে ব্যবহৃত হয়\n- C) ফ্ল্রিট কাঁচ: অতি বেগুনী রশ্মি শোষণ করে\n- D) তুরুক গ্লাস: চশমার লেন তৈরিতে\n\n**Solution:** সত্যিক উত্তর হচ্ছে অপশন 'D'\n**Tags:** [Ans: D]\n\n## Q63\n**Type:** mcq\n**Stem:** নিউক্লিয়াসের বাহিরে একটি অর্বিটে ইলেকট্রনের সংখ্যা সর্বাপেক্ষা নিচের কোটি?\n- A) ln²\n- B) 2n²\n- C) 3n²\n- D) 4n²\n\n**Solution:** নিচের ব্যাখ্যাটি লক্ষ্য কর কর:\n→ অর্বিটে সর্বোচ্চ অর্বিটাল সংখ্যা = n²\n→ অর্বিট/কফপথে সর্বোচ্চ ইলেকট্রন সংখ্যা = 2n²\n→ উপশক্তিত্রে সর্বোচ্চ ইলেকট্রন সংখ্যা = 2(2l + 1)\n→ উপশক্তিস্ত্রের সর্বোচ্চ অর্বিটাল সংখ্যা = (2l + 1)\n**Tags:** [Ans: B]\n\n## Q64\n**Type:** mcq\n**Stem:** নেক্সক জে কে রাউলিং তার হার্বি পটার সিরিজে নিচের কোন সালে প্রথম প্রকাশ করেন?\n- A) 1995\n- B) 1985\n- C) 1997\n- D) 1987\n\n**Solution:** নেক্সক জে কে রাউলিং তার হার্বি পটার সিরিজে নিচের কোন সালে প্রথম প্রকাশ করেন? \n[FIGURE x1=1 y1=1 x2=10 y2=1 caption=\"Nexa J K Rowling first published Harry Potter series in\"]\nDescription: The figure shows a timeline with key events related to the publication dates of the Harry Potter series by J.K. Rowling.\nThe timeline indicates that the first book was published on June 26th, 1997.\n**Tags:** [Ans: C]\n\n## Q65\n**Type:** mcq\n**Stem:** Which of the following pair contain correct synonym?\n- A) Influence : lead\n- B) Informed : instructive\n- C) Injure : hurt\n- D) Inspection : observer\n\n**Solution:** সত্যিক উত্তর অপশন 'C'; কেননা-\n→ অপশন A - Influence : lead (প্রভাব : নেতৃত্ব দেওয়া)\n→ অপশন B - Informed : instructive (গতিত : শিক্ষামূলক)\n→ অপশন C - Injure : hurt (আহ্যত করা : আহ্যত করা)\n→ অপশন D - Inspection : observer (পরিদর্শন : পরিদর্শক)\n**Tags:** [Ans: C]",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "806",
+          "structured_data": {},
+          "id": "70d7fb76-081d-5409-a269-dd49d269a63e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q52",
+          "content_markdown": "অপ্রতাগামী প্রক্রিয়ায় এন্ট্রপির পরিবর্তন কোণটি?",
+          "structured_data": {
+            "question_number": "52",
+            "subtype": "mcq",
+            "stem": "অপ্রতাগামী প্রক্রিয়ায় এন্ট্রপির পরিবর্তন কোণটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "বৃদ্ধি পায়",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "হাস পায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "শূন্য হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "অপরিবর্তিত থাকে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "অপ্রতাগামী প্রক্রিয়ায় এন্ট্রপির পরিবর্তন বৃদ্ধি পায়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ce23080b-dd28-54c9-a623-4276c64436e4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q53",
+          "content_markdown": "নিচের কোনটি লাইসোজোম তৈরি করে?",
+          "structured_data": {
+            "question_number": "53",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটি লাইসোজোম তৈরি করে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "গলঞ্জি বড়ি",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "মাইটোকন্ড্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "সেন্ট্রিওল",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "সাইটোগ্রামম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "গলঞ্জি বড়ি লাইসোজোম তৈরি করে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d8bf5503-e156-57aa-9d4d-f263a84e1dc0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q54",
+          "content_markdown": "নিচের কোনটি সময়জী যৌগের ধর্ম নয়?",
+          "structured_data": {
+            "question_number": "54",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটি সময়জী যৌগের ধর্ম নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "গলানংক অনেক কম",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "উচ্ছারী",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "পোলার দ্রব্যের অধ্ববশী",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "বিদ্যুৎ পরিবহী",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "অপশন 'D' সত্য নয়; কারণ - সময়জী যৌগসমূহ বিদ্যুৎ অপরিবাহী",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a7bb7b89-c353-5ed9-b9f8-b181981efd5d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q55",
+          "content_markdown": "বিপর্যক্ষিয়া ফলে উদ্ভিদ যে সমস্ত বর্জ্য পদার্থ তৈরি করে, তা মানুষের জন্য প্রযোজ্যম। নিচের কোনটি তার অন্তর্ভুক্ত নয়?",
+          "structured_data": {
+            "question_number": "55",
+            "subtype": "mcq",
+            "stem": "বিপর্যক্ষিয়া ফলে উদ্ভিদ যে সমস্ত বর্জ্য পদার্থ তৈরি করে, তা মানুষের জন্য প্রযোজ্যম। নিচের কোনটি তার অন্তর্ভুক্ত নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "রেজিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "আইটা",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "উদ্ঘাট্য তেল",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "গ্লুটামিন",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "সত্যিক উত্তর হচ্ছে অপশন 'D' অর্থাৎ গ্লুটামিন।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "962a8589-b781-51f3-ab4d-5310dd993670"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q56",
+          "content_markdown": "পারমাণবিক বর্ণালী সম্পর্কে নিচের কোনটি সত্যিক নয়?",
+          "structured_data": {
+            "question_number": "56",
+            "subtype": "mcq",
+            "stem": "পারমাণবিক বর্ণালী সম্পর্কে নিচের কোনটি সত্যিক নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "সোডিয়াম আয়ন থেকে সোনালী হলুদ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "পটাশিয়াম আয়ন থেকে হালকা বেগুনী",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "হাইড্রোজেন গ্যাস থেকে লাল বর্ণ",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "ক্যালিয়াম আয়ন থেকে ইটের মতো লাল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "অপশন 'C' সত্য নয়; কারণ - হাইড্রোজেন গ্যাস এর বর্ণালী বর্ণহিন হয়ে থাকে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "824c0d1a-2232-557f-a0af-345b3f4631fa"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q57",
+          "content_markdown": "নিচের কোনটি সত্যিক নয়?",
+          "structured_data": {
+            "question_number": "57",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটি সত্যিক নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "মোমে কোন দ্বিবন্ধন না থাকায় এরা রাসায়নিক তাবে নির্দ্রিয়।",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ডায়াবেটিস রোগীর দেহে লাইপোপ্রোটিনের আধিক্য থাকে।",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "অ্যাডেনিন একটি পাইরিমিডিন।",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "নাইট্রোজেন বেসটি সব সময় নিউক্লিওটাইড সুগঠনের প্রথম কার্বনের সাথে যুক্ত থাকে।",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "অপশন 'C' সত্য নয়; কারণ - আমরা জানি, অ্যাডেনিন এবং গুয়ানিন হচ্ছে পিটুরিন এবং পাইরিমিডিন হচ্ছে - সাইটোসিন, থাইমিন ও ইউরাসিল।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b168dc3e-5f8b-5f04-92bb-fed4531f159c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q58",
+          "content_markdown": "বিক্রিয়ার হারের উপর প্রভাব বিস্তারকারী নিচের কোন নিয়মকটি সত্যিক?",
+          "structured_data": {
+            "question_number": "58",
+            "subtype": "mcq",
+            "stem": "বিক্রিয়ার হারের উপর প্রভাব বিস্তারকারী নিচের কোন নিয়মকটি সত্যিক?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "উচ্চ তাপমাত্রা",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "নিখুঁট চাপ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "প্রভাবক",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "আলোর অনুপস্থিতি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A,C",
+            "solution_markdown": "সত্যিক উত্তর হচ্ছে অপশন A, C দেখে নাও বিক্রিয়ার হারের উপর প্রভাব বিস্তারকারী নিয়মসমূহ।\n1. বিক্রিয়কের ঘনমাত্রা\n2. চাপ (গ্যাসীয় পদার্থের ফেরে)\n3. উচ্চ তাপমাত্রা\n4. আলো\n5. অনুষ্ঠক\n6. বিক্রিয়কের পৃষ্ঠতলের ক্ষেত্রফল ।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3fbdb5f1-74d0-5065-9d60-1f4293530ef8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q59",
+          "content_markdown": "বাংলাদেশের স্বাধীনতা যুদ্ধে আসামান্য বীরছের জন্য কতজন বিদিতার সদস্য বীরছের পূরকারে ভূমিকা হন?",
+          "structured_data": {
+            "question_number": "59",
+            "subtype": "mcq",
+            "stem": "বাংলাদেশের স্বাধীনতা যুদ্ধে আসামান্য বীরছের জন্য কতজন বিদিতার সদস্য বীরছের পূরকারে ভূমিকা হন?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "2",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "3",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "4",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "5",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "সত্যিক উত্তর হচ্ছে অপশন 'A' অর্থাৎ ২জন (ল্যাঙ্ক নায়েক মুসি আদুর রাউক ও ল্যাঙ্ক নায়েক নূর মোহামদ)",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "43150d1a-503c-528f-9d5b-f9359d3dbdca"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q60",
+          "content_markdown": "Which of the following word is verb?",
+          "structured_data": {
+            "question_number": "60",
+            "subtype": "mcq",
+            "stem": "Which of the following word is verb?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "misleading",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "Lacklusture",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "Jab",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "Dealer.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "সত্যিক উত্তর হচ্ছে অপশন 'C' অর্থাৎ Jab যার অর্থ যৌথ দেওয়া।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2bb213db-2dc1-5576-a8fb-109251912d2f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q61",
+          "content_markdown": "নিচের কোনটি বাষারের CO₂ এর সাথেই বিভিন্ন রাসায়নিক বিক্রিয়ার মাধ্যমে কার্বিহাইড্রেট তৈরির পদ্ধতি নয়?",
+          "structured_data": {
+            "question_number": "61",
+            "subtype": "mcq",
+            "stem": "নিচের কোনটি বাষারের CO₂ এর সাথেই বিভিন্ন রাসায়নিক বিক্রিয়ার মাধ্যমে কার্বিহাইড্রেট তৈরির পদ্ধতি নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "সাইট্রিক এসিড চক্র",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "ক্রাস্টুলেসিয়ান এসিড বিপাক প্রক্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ক্যালভিন চক্র",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "হ্যাচ ও স্ল্যাক চক্র",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "সত্যিক উত্তর হচ্ছে অপশন 'A' অর্থাৎ সাইট্রিক এসিড চক্র।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "26b0e699-b500-5377-8e44-2553c21cc7ad"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q62",
+          "content_markdown": "নিচের কোন জোড়টি সত্যিক?",
+          "structured_data": {
+            "question_number": "62",
+            "subtype": "mcq",
+            "stem": "নিচের কোন জোড়টি সত্যিক?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "সোভা কাঁচ: উত্তরাপে সহজে গলে না,",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "পটাশ কাঁচ: টেস্টিভিব তৈরিতে ব্যবহৃত হয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ফ্ল্রিট কাঁচ: অতি বেগুনী রশ্মি শোষণ করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "তুরুক গ্লাস: চশমার লেন তৈরিতে",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "সত্যিক উত্তর হচ্ছে অপশন 'D'",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6bac799d-b95e-5673-94f4-5568970798e4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q63",
+          "content_markdown": "নিউক্লিয়াসের বাহিরে একটি অর্বিটে ইলেকট্রনের সংখ্যা সর্বাপেক্ষা নিচের কোটি?",
+          "structured_data": {
+            "question_number": "63",
+            "subtype": "mcq",
+            "stem": "নিউক্লিয়াসের বাহিরে একটি অর্বিটে ইলেকট্রনের সংখ্যা সর্বাপেক্ষা নিচের কোটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ln²",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "2n²",
+                "is_correct": true
+              },
+              {
+                "key_original": "C",
+                "text": "3n²",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "4n²",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "B",
+            "solution_markdown": "নিচের ব্যাখ্যাটি লক্ষ্য কর কর:\n→ অর্বিটে সর্বোচ্চ অর্বিটাল সংখ্যা = n²\n→ অর্বিট/কফপথে সর্বোচ্চ ইলেকট্রন সংখ্যা = 2n²\n→ উপশক্তিত্রে সর্বোচ্চ ইলেকট্রন সংখ্যা = 2(2l + 1)\n→ উপশক্তিস্ত্রের সর্বোচ্চ অর্বিটাল সংখ্যা = (2l + 1)",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "257bc3fa-703d-5449-9102-0d7d9bccb615"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q64",
+          "content_markdown": "নেক্সক জে কে রাউলিং তার হার্বি পটার সিরিজে নিচের কোন সালে প্রথম প্রকাশ করেন?",
+          "structured_data": {
+            "question_number": "64",
+            "subtype": "mcq",
+            "stem": "নেক্সক জে কে রাউলিং তার হার্বি পটার সিরিজে নিচের কোন সালে প্রথম প্রকাশ করেন?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "1995",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "1985",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "1997",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "1987",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "নেক্সক জে কে রাউলিং তার হার্বি পটার সিরিজে নিচের কোন সালে প্রথম প্রকাশ করেন?\n\nThe timeline indicates that the first book was published on June 26th, 1997.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "75922def-4c16-5a9a-86f7-55a7ea8f3cf7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q65",
+          "content_markdown": "Which of the following pair contain correct synonym?",
+          "structured_data": {
+            "question_number": "65",
+            "subtype": "mcq",
+            "stem": "Which of the following pair contain correct synonym?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "Influence : lead",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "Informed : instructive",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "Injure : hurt",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "Inspection : observer",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "সত্যিক উত্তর অপশন 'C'; কেননা-\n→ অপশন A - Influence : lead (প্রভাব : নেতৃত্ব দেওয়া)\n→ অপশন B - Informed : instructive (গতিত : শিক্ষামূলক)\n→ অপশন C - Injure : hurt (আহ্যত করা : আহ্যত করা)\n→ অপশন D - Inspection : observer (পরিদর্শন : পরিদর্শক)",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a5aa15bf-a600-50a5-a796-4e7c37650e8e"
+        },
+        {
+          "block_type": "diagram",
+          "title": "Nexa J K Rowling first published Harry Potter series in",
+          "content_markdown": "Nexa J K Rowling first published Harry Potter series in\n\nThe figure shows a timeline with key events related to the publication dates of the Harry Potter series by J.K. Rowling.",
+          "structured_data": {
+            "caption": "Nexa J K Rowling first published Harry Potter series in",
+            "labels": [],
+            "description": "The figure shows a timeline with key events related to the publication dates of the Harry Potter series by J.K. Rowling.",
+            "bbox_raw_px": [
+              1,
+              1,
+              10,
+              1
+            ],
+            "bbox_snapped_px": null,
+            "figure_path": null
+          },
+          "id": "03857c0d-f3be-574a-a2c0-bdc314ba499f"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 16,
+        "figure_count": 1,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 219.39,
+        "eval_count": 3785
+      }
+    },
+    {
+      "page_number": 7,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "## Q66\n**Type:** mcq\n**Stem:** নিম্নের কোন তথ্যটি হাইপোগ্লোসাল স্থায়ী জন্য সচিক নয়?\n- A) উৎস: মেডুলা অবলস্টার অফিসিয়াল দেশ\n- B) বিশ্বাস: জিভা\n- C) প্রকৃতি: সংবেদী\n- D) কাজ: জিঘা সহধাল\n\n**Solution:** আপছন 'C' সচিক নয়; কারণ - হাইপোগ্লোসাল স্থায়ী প্রকৃতি হলো মোটর বা চেটী।\n\n## Q74\n**Type:** mcq\n**Stem:** নিম্নের কোনটি ম্যাগনিষারের প্রধান আকরিক?\n- A) পাইরোলুসাইট\n- B) ইলমেনাইট\n- C) কারনোলাইট\n- D) ম্যাঙ্গেনাইট\n\n**Solution:** সচিক উত্তর আপছন 'A' অর্থাণ্ড পাইরোলুসাইট। জেনে নাও ম্যাগনিষারের বিভিন্ন আকরিক এবং সংকেত:\n\n  1. পাইরোলুসাইট → MnO₂\n  2. ব্রাউনাইট → Mn₂O₃\n  3. হুসম্যানাইট → Mn₃O₄\n  4. ম্যাপানাইট → Mn₂O₃, H₂O\n\n## Q67\n**Type:** mcq\n**Stem:** নিম্নের কোনটির তড়িৎ চৌম্বক তরঙ্গের তরঙ্গ দৈর্ঘ্য 10⁻¹ থেকে 10⁻³ ?\n- A) অভোগীত রশ্মি\n- B) বেতার তরঙ্গ\n- C) গামা রশ্মি\n- D) মাইক্রো তরঙ্গ\n\n**Solution:** সচিক উত্তর আপছন 'D' অর্থাণ্ড মাইক্রো তরঙ্গ।\n\n## Q68\n**Type:** mcq\n**Stem:** Which of the following sentence is an example of active and present indefinite tense?\n- A) He is writing a letter.\n- B) I have invited them.\n- C) He has done the work.\n- D) Floods destroy crops.\n\n**Solution:** আপছন 'D' ছেই সচিক উত্তর।\n\n## Q69\n**Type:** mcq\n**Stem:** যে সব উদ্ভিদ কোষের.......\n- A) নিউক্লিয়ান\n- B) মাইটোকন্ড্রিয়া\n- C) সেন্ট্রিল\n- D) গলজি বডি\n\n**Solution:** সচিক উত্তর আপছন 'B' অর্থাণ্ড মাইটোকন্ড্রিয়া।\n\n## Q70\n**Type:** mcq\n**Stem:** পদার্থের ভোট ধর্ম সম্পর্কে নিম্নের কোনটি সচিক নয়?\n- A) গ্যাসের আন্তঃআণবিক আকর্ষণ সর্বোচ্চ এবং হুনান্তর গতি সর্বনিম্ন।\n- B) কণি পদার্থ চাপে সংকৃতিত হয় না।\n- C) তরল পদার্থের যন্ত্র কতিন থেকে কম।\n- D) গ্যাসীয় পদার্থ পত্রকে পূর্ণ করে থাকে।\n\n**Solution:** আপছন 'A' সচিক নয়; কারণ - গ্যাসের আন্তঃআণবিক আকর্ষণ সর্বনিম্ন এবং এর হুনান্তর গতি সর্বোচ্চ।\n\n## Q71\n**Type:** mcq\n**Stem:** নিম্নের কোনটি চৌম্বকের জন্য সচিক?\n- A) পদার্থের ভোট গুণ\n- B) পদার্থের রান্নায়নিক গুণ\n- C) এক ধরনের তরঙ্গ\n- D) এক ধরনের শক্তি\n\n**Solution:** সচিক উত্তর আপছন A, D; কিন্তু B, C সচিক নয়; কারণ - চৌম্বকের পদার্থের একটি ভোট গুণ এবং এটি কোনো তরঙ্গ।\n\n## Q72\n**Type:** mcq\n**Stem:** Which of the following simple sentence use prepositional phrase?\n- A) Going home they found their brother.\n- B) Mother asked Runa to iron the dried clothes.\n- C) During sorting, the rotten oranges are thrown away.\n- D) Besides being a physician Dr S Atiqual Haque was an opinion leader.\n\n**Solution:** আপছন 'B' তে 'to iron' prepositional phrase ব্যবহৃত হয়েছে।\n\n## Q73\n**Type:** mcq\n**Stem:** বংশগতির ধারক নিম্নের কোনটি?\n- A) ক্রোমোমিয়ার\n- B) ক্রোমাটিড\n- C) ক্রোমোসোম\n- D) টেলোমিয়ার\n\n**Solution:** ক্রোমোসোম ছেই বংশগতির ধারক।\n\n## Q74\n**Type:** mcq\n**Stem:** নিম্নের কোনটি ম্যাগনিষারের প্রধান আকরিক?\n- A) পাইরোলুসাইট\n- B) ইলমেনাইট\n- C) কারনোলাইট\n- D) ম্যাঙ্গেনাইট\n\n**Solution:** সচিক উত্তর আপছন 'A' অর্থাণ্ড পাইরোলুসাইট। জেনে নাও ম্যাগনিষারের বিভিন্ন আকরিক এবং সংকেত:\n\n  1. পাইরোলুসাইট → MnO₂\n  2. ব্রাউনাইট → Mn₂O₃\n  3. হুসম্যানাইট → Mn₃O₄\n  4. ম্যাপানাইট → Mn₂O₃, H₂O\n\n## Q75\n**Type:** mcq\n**Stem:** রিক্ষমিন্টেন্ড ডিএনএ পদ্ধতিতে ই-কোলাই ব্যাকটেরিয়াকে কাজ লাগিয়ে নিম্নের কোনটি তৈরি করয়?\n- A) পেনিসিলিন\n- B) ইনসুলিন\n- C) ডিটামিন-কে\n- D) নেটিনোল\n\n**Solution:** সচিক উত্তর আপছন 'B' অর্থাণ্ড ইনসুলিন।\n\n## Q76\n**Type:** mcq\n**Stem:** প্রোপিলিন থেকে পলি প্রোপিলিন পলিমার গঠনের সময় নিম্নের কত atm চাপের প্রয়োজন হয়?\n- A) 140\n- B) 120\n- C) 160\n- D) 180\n\n**Solution:** সচিক উত্তর আপছন 'A' অর্থাণ্ড 140 atm。\n\n## Q77\n**Type:** mcq\n**Stem:** নিম্নের কোন জীবাণু মাতৃদেহ থেকে অমরার মধ্যে ফিটসে যায়?\n- A) রুবেলা\n- B) ডিপথেরিয়া\n- C) টিটেনাস\n- D) কলেরা\n\n**Solution:** সচিক উত্তর আপছন 'A'; জেনে নাও নিচের তথ্যগুলোঃ\n\n| মাতা থেকে ফিটসে যায় | ফিটসে থেকে মাতৃদেহ যায় |\n| --- | --- |\n| অপ্রিজনে, গ্লুকোজ, আমিনো এসিড, লিপিড, টিভিনাম, আয়ন (Na, K, Cl, Ca) | CO₂, ইউরিয়া, অন্যান্য বর্জ পদার্থ |\n| নিকোটিন, বিভিন্ন জীবাণু (সিফিলিস, হাম, জলবস্তু, ঘটি বস্তু, কবেলা ইত্যাদি রোগের) | ঔষধ ইত্যাদি |\n\n## Q78\n**Type:** mcq\n**Stem:** শূন্যখানের জন্য নিম্নের কোনটি প্রয়োজন?\n- A) স্বাভাবিক রাখে\n- B) বাড়ায়\n- C) কমায়\n- D) প্রভাবিত করে না\n\n**Solution:** সচিক উত্তর আপছন 'B' অর্থাণ্ড বাড়ায়।\n\n## Q79\n**Type:** mcq\n**Stem:** পারস্পেক্ট্র, প্লেক্ট্রিয়াস-এর মনোমার নিম্নের কোনটি?\n- A) ভিনাইল আসিস্টেট\n- B) মিথাইল 2-মিথাইল প্রোপিনোয়েট\n- C) পলিস্ট্যারিন\n- D) ইথাইল বেনজিন\n\n**Solution:** সচিক উত্তর হলো আপছন 'B' অর্থাণ্ড মিথাইল 2-মিথাইল প্রোপিনোয়েট।",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q66",
+          "content_markdown": "নিম্নের কোন তথ্যটি হাইপোগ্লোসাল স্থায়ী জন্য সচিক নয়?",
+          "structured_data": {
+            "question_number": "66",
+            "subtype": "mcq",
+            "stem": "নিম্নের কোন তথ্যটি হাইপোগ্লোসাল স্থায়ী জন্য সচিক নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "উৎস: মেডুলা অবলস্টার অফিসিয়াল দেশ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "বিশ্বাস: জিভা",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "প্রকৃতি: সংবেদী",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কাজ: জিঘা সহধাল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "আপছন 'C' সচিক নয়; কারণ - হাইপোগ্লোসাল স্থায়ী প্রকৃতি হলো মোটর বা চেটী।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "43664e3b-0305-5d70-a1e1-1db7bb5dd262"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q74",
+          "content_markdown": "নিম্নের কোনটি ম্যাগনিষারের প্রধান আকরিক?",
+          "structured_data": {
+            "question_number": "74",
+            "subtype": "mcq",
+            "stem": "নিম্নের কোনটি ম্যাগনিষারের প্রধান আকরিক?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "পাইরোলুসাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ইলমেনাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "কারনোলাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ম্যাঙ্গেনাইট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সচিক উত্তর আপছন 'A' অর্থাণ্ড পাইরোলুসাইট। জেনে নাও ম্যাগনিষারের বিভিন্ন আকরিক এবং সংকেত:\n\n  1. পাইরোলুসাইট → MnO₂\n  2. ব্রাউনাইট → Mn₂O₃\n  3. হুসম্যানাইট → Mn₃O₄\n  4. ম্যাপানাইট → Mn₂O₃, H₂O",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8068a9b7-ac67-5ad9-a61d-21ae3f6ddc2f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q67",
+          "content_markdown": "নিম্নের কোনটির তড়িৎ চৌম্বক তরঙ্গের তরঙ্গ দৈর্ঘ্য 10⁻¹ থেকে 10⁻³ ?",
+          "structured_data": {
+            "question_number": "67",
+            "subtype": "mcq",
+            "stem": "নিম্নের কোনটির তড়িৎ চৌম্বক তরঙ্গের তরঙ্গ দৈর্ঘ্য 10⁻¹ থেকে 10⁻³ ?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "অভোগীত রশ্মি",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "বেতার তরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "গামা রশ্মি",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "মাইক্রো তরঙ্গ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সচিক উত্তর আপছন 'D' অর্থাণ্ড মাইক্রো তরঙ্গ।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d1ec1147-0c64-5a90-af24-8da313681b35"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q68",
+          "content_markdown": "Which of the following sentence is an example of active and present indefinite tense?",
+          "structured_data": {
+            "question_number": "68",
+            "subtype": "mcq",
+            "stem": "Which of the following sentence is an example of active and present indefinite tense?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "He is writing a letter.",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "I have invited them.",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "He has done the work.",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "Floods destroy crops.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "আপছন 'D' ছেই সচিক উত্তর।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c0b987f1-c2d4-59ec-a752-e10b3655f504"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q69",
+          "content_markdown": "যে সব উদ্ভিদ কোষের.......",
+          "structured_data": {
+            "question_number": "69",
+            "subtype": "mcq",
+            "stem": "যে সব উদ্ভিদ কোষের.......",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "নিউক্লিয়ান",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "মাইটোকন্ড্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "সেন্ট্রিল",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "গলজি বডি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সচিক উত্তর আপছন 'B' অর্থাণ্ড মাইটোকন্ড্রিয়া।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e2cd3cc1-47c8-53f1-9c53-17a1f63fc304"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q70",
+          "content_markdown": "পদার্থের ভোট ধর্ম সম্পর্কে নিম্নের কোনটি সচিক নয়?",
+          "structured_data": {
+            "question_number": "70",
+            "subtype": "mcq",
+            "stem": "পদার্থের ভোট ধর্ম সম্পর্কে নিম্নের কোনটি সচিক নয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "গ্যাসের আন্তঃআণবিক আকর্ষণ সর্বোচ্চ এবং হুনান্তর গতি সর্বনিম্ন।",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "কণি পদার্থ চাপে সংকৃতিত হয় না।",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "তরল পদার্থের যন্ত্র কতিন থেকে কম।",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "গ্যাসীয় পদার্থ পত্রকে পূর্ণ করে থাকে।",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "আপছন 'A' সচিক নয়; কারণ - গ্যাসের আন্তঃআণবিক আকর্ষণ সর্বনিম্ন এবং এর হুনান্তর গতি সর্বোচ্চ।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0306297b-2550-5ff3-a149-f99c8f66e2e4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q71",
+          "content_markdown": "নিম্নের কোনটি চৌম্বকের জন্য সচিক?",
+          "structured_data": {
+            "question_number": "71",
+            "subtype": "mcq",
+            "stem": "নিম্নের কোনটি চৌম্বকের জন্য সচিক?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "পদার্থের ভোট গুণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "পদার্থের রান্নায়নিক গুণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "এক ধরনের তরঙ্গ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "এক ধরনের শক্তি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সচিক উত্তর আপছন A, D; কিন্তু B, C সচিক নয়; কারণ - চৌম্বকের পদার্থের একটি ভোট গুণ এবং এটি কোনো তরঙ্গ।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6fc12ae4-9b5d-561e-a17c-90471e8bb868"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q72",
+          "content_markdown": "Which of the following simple sentence use prepositional phrase?",
+          "structured_data": {
+            "question_number": "72",
+            "subtype": "mcq",
+            "stem": "Which of the following simple sentence use prepositional phrase?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "Going home they found their brother.",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "Mother asked Runa to iron the dried clothes.",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "During sorting, the rotten oranges are thrown away.",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "Besides being a physician Dr S Atiqual Haque was an opinion leader.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "আপছন 'B' তে 'to iron' prepositional phrase ব্যবহৃত হয়েছে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ee04ecfd-6784-5a37-9992-3ba7dac14b89"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q73",
+          "content_markdown": "বংশগতির ধারক নিম্নের কোনটি?",
+          "structured_data": {
+            "question_number": "73",
+            "subtype": "mcq",
+            "stem": "বংশগতির ধারক নিম্নের কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ক্রোমোমিয়ার",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ক্রোমাটিড",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ক্রোমোসোম",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "টেলোমিয়ার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "ক্রোমোসোম ছেই বংশগতির ধারক।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2341f622-f5ec-5e03-91f9-44279aaa4720"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q74",
+          "content_markdown": "নিম্নের কোনটি ম্যাগনিষারের প্রধান আকরিক?",
+          "structured_data": {
+            "question_number": "74",
+            "subtype": "mcq",
+            "stem": "নিম্নের কোনটি ম্যাগনিষারের প্রধান আকরিক?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "পাইরোলুসাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ইলমেনাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "কারনোলাইট",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ম্যাঙ্গেনাইট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সচিক উত্তর আপছন 'A' অর্থাণ্ড পাইরোলুসাইট। জেনে নাও ম্যাগনিষারের বিভিন্ন আকরিক এবং সংকেত:\n\n  1. পাইরোলুসাইট → MnO₂\n  2. ব্রাউনাইট → Mn₂O₃\n  3. হুসম্যানাইট → Mn₃O₄\n  4. ম্যাপানাইট → Mn₂O₃, H₂O",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9f34c4c8-085f-5174-967b-115becb4842d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q75",
+          "content_markdown": "রিক্ষমিন্টেন্ড ডিএনএ পদ্ধতিতে ই-কোলাই ব্যাকটেরিয়াকে কাজ লাগিয়ে নিম্নের কোনটি তৈরি করয়?",
+          "structured_data": {
+            "question_number": "75",
+            "subtype": "mcq",
+            "stem": "রিক্ষমিন্টেন্ড ডিএনএ পদ্ধতিতে ই-কোলাই ব্যাকটেরিয়াকে কাজ লাগিয়ে নিম্নের কোনটি তৈরি করয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "পেনিসিলিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ইনসুলিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ডিটামিন-কে",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "নেটিনোল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সচিক উত্তর আপছন 'B' অর্থাণ্ড ইনসুলিন।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fa9ff494-6b57-51c7-8276-c5d4138db959"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q76",
+          "content_markdown": "প্রোপিলিন থেকে পলি প্রোপিলিন পলিমার গঠনের সময় নিম্নের কত atm চাপের প্রয়োজন হয়?",
+          "structured_data": {
+            "question_number": "76",
+            "subtype": "mcq",
+            "stem": "প্রোপিলিন থেকে পলি প্রোপিলিন পলিমার গঠনের সময় নিম্নের কত atm চাপের প্রয়োজন হয়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "140",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "120",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "160",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "180",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সচিক উত্তর আপছন 'A' অর্থাণ্ড 140 atm。",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8febd3d6-16c6-534f-8797-576378a0d745"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q77",
+          "content_markdown": "নিম্নের কোন জীবাণু মাতৃদেহ থেকে অমরার মধ্যে ফিটসে যায়?",
+          "structured_data": {
+            "question_number": "77",
+            "subtype": "mcq",
+            "stem": "নিম্নের কোন জীবাণু মাতৃদেহ থেকে অমরার মধ্যে ফিটসে যায়?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "রুবেলা",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "ডিপথেরিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "টিটেনাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কলেরা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সচিক উত্তর আপছন 'A'; জেনে নাও নিচের তথ্যগুলোঃ\n\n| মাতা থেকে ফিটসে যায় | ফিটসে থেকে মাতৃদেহ যায় |\n| --- | --- |\n| অপ্রিজনে, গ্লুকোজ, আমিনো এসিড, লিপিড, টিভিনাম, আয়ন (Na, K, Cl, Ca) | CO₂, ইউরিয়া, অন্যান্য বর্জ পদার্থ |\n| নিকোটিন, বিভিন্ন জীবাণু (সিফিলিস, হাম, জলবস্তু, ঘটি বস্তু, কবেলা ইত্যাদি রোগের) | ঔষধ ইত্যাদি |",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d3e5402e-2aa2-53ca-8d45-f6ef8fddaeab"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q78",
+          "content_markdown": "শূন্যখানের জন্য নিম্নের কোনটি প্রয়োজন?",
+          "structured_data": {
+            "question_number": "78",
+            "subtype": "mcq",
+            "stem": "শূন্যখানের জন্য নিম্নের কোনটি প্রয়োজন?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "স্বাভাবিক রাখে",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "বাড়ায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "কমায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "প্রভাবিত করে না",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সচিক উত্তর আপছন 'B' অর্থাণ্ড বাড়ায়।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d187774d-d460-5e35-93dc-9a4a70ba6412"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q79",
+          "content_markdown": "পারস্পেক্ট্র, প্লেক্ট্রিয়াস-এর মনোমার নিম্নের কোনটি?",
+          "structured_data": {
+            "question_number": "79",
+            "subtype": "mcq",
+            "stem": "পারস্পেক্ট্র, প্লেক্ট্রিয়াস-এর মনোমার নিম্নের কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ভিনাইল আসিস্টেট",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "মিথাইল 2-মিথাইল প্রোপিনোয়েট",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "পলিস্ট্যারিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ইথাইল বেনজিন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": "সচিক উত্তর হলো আপছন 'B' অর্থাণ্ড মিথাইল 2-মিথাইল প্রোপিনোয়েট।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e6060990-a2e7-56cd-a41b-25203e788e90"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 15,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 202.75,
+        "eval_count": 3431
+      }
+    },
+    {
+      "page_number": 8,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "80. প্রায় ১৫০℃ তাপমাত্রায় নিক্ষেপের কোন প্রভাবকের উপস্থিতিতে ইথাইল আলকোহল উৎপন্ন হয়?\nA. নিকেল\nB. অ্যাসিটিলিন\nC. H₂SO₄\nD. ডিনাইল আলকোহল\n\nSolve সঠিক উত্তর অপশন 'A' অর্ধেৎ নিকেল।\n\n81. নিম্নে কোনটি বহিঃকরণে থাকে?\nA. কবলিয়া\nB. স্টেপিস\nC. পিনা\nD. ইনকাস\n\nSolve বহিঃকরণের বিভিন্ন অংশ :\n→ পিনা/কর্ণছর\n→ বহিঃআউটিটারি মিটাস/কর্ণকুহর\n→ টিম্পানিক মেম্ব্রেন/কর্ণপটহ\n\n82. দর্শনানুষ্ঠির স্থায়িত্বকাল নিচে উল্লেখিত কত সেকেন্ড?\n\nA: 1\nB: 1/10\nC: 1/20\nD: 1/5\n\nSolve দর্শনানুষ্ঠির স্থায়িত্বকাল 1/10 সেকেন্ড বা 0.1 সেকেন্ড।\n\n83. নিম্নে কোনটি সত্যিক নয়?\n\nA. লালচরে ট্যায়ালিন নামক উৎসেক উপস্থিত থাকে।\nB. প্রধান্তিন প্রায় 2 লিটার গাছাটিক রস নিঃস্থত হয়।\nC. মিউসিন HCI এর কফটির ভূমিকা থেকে পাকাঙ্খ প্রাচীরের রক্ষা করে\nD. হাইড্রোক্রিক এসিডের উপস্থিতি পেপসিনের কার্যক্রমকে বাধাগ্রস্থ করে।\n\nSolve অপশন 'D' সত্যিক নয়; কারণ - হাইড্রোক্রিক এসিডের (HCl) এর উপস্থিতি নিক্ষেপে পেপসিনজেন সক্রিয় পেপসিনে রূপান্তরিত হয়; যার দরুগ পেপসিনের কার্যক্রমক বৃদ্ধি পায়।\n\n84. নিম্নের কোনটি অল্পতরাও জন্য সত্যিক নয়?\n\nA. লম্বু তেলে থায়ারফিন পাওয়া যায়\nB. মধুম তেলের পরিমাণ 7.5%\nC. ভারী তেলের পাতন তাপমাত্রা 231°-270°C\nD. সবুজ তেল থেকে কুইনোলিন পাওয়া যায়\n\nSolve অপশন 'D' সত্যিক নয়; কারণ - কুইনোলিন পাওয়া যায় ভারী তেল বা ক্রিয়েজেট তেল থেকে।\n\n85. একই দূরত্বে অবস্থিত এবং উল্লম্ব সরল রেখাওলিকে স্পিডবেলে দেখতে পায়না। চোখের এই রেখটির নিম্নের কোনটি বলা হয়?\n\nA. স্বপ্ন দৃষ্টি\nB. চালকেশ\nC. নকুলাঙ্কা\nD. দূরবদ্ধ দৃষ্টি\n\nSolve প্রথম উল্লম্ব রেখটির নাম হলো নকুলাঙ্কা যা টারিক লেপ্স বা সিলিন্ডার আকৃতির লেপ্স ব্যবহার করে দূর করা যায়।\n\n86. চলনের সময় পায়ের কোন পেশী সংকোচনের ফলে গোড়ালির অঙ্গিতে টান পড়ে? ফলে গোড়ালি মাটি থেকে উত্থিত হয়?\n\nA. ট্রাপিজিয়াম\nB. সোলিয়াস\nC. রেকটাস\nD. গ্রটিয়াস\n\nSolve সঠিক উত্তর অপশন 'B' অর্ধেৎ সোলিয়াস পেশী।\n\n87. টুলুইন সালফোনেশেনের জন্য নিম্নের কত \"C\" তাপমাত্রা প্রয়োজন হয়?\n\nA. 30\nB. 20\nC. 10\nD. 0\n\nSolve সঠিক উত্তর অপশন 'D' অর্ধেৎ 0°C.\n\n88. একটি তেজক্রিয় পদার্থের অধিক্ষ 15 দিন। 2.5 gm ওজনের ঐ পদার্থের নিক্ষেপ কর (g) 60 দিন পর্যন্ত থাকবে?\n\nA. 0.156\nB. 0.312\nC. 0.125\nD. 0.250\n\nSolve আমরা জানি,\nλ = $\\frac{0.695}{t_{\\text {1/2}}}$\n= $\\frac{0.695}{15}$\n= 0.0462\n∴ N = e$^{- \\lambda t}$ ⇒ N = 0.156\nসুতরাং সঠিক উত্তর অপশন 'A'.\n\n89. মিনাক্ষাবাই জনগোষ্ঠী নিম্নের কোন দেশে বসবাস করে?\n\nA. ইন্দোনেশিয়া\nB. থাইল্যান্ড\nC. দিফিলিপিনস\nD. বোলিঝিম\n\n90. Which of the following sentence contain the word ‘round’ as an adverb?\n\nA. The boy played well in the first round.\nB. They rounded the temple silently.\nC. A square peg in a round table.\nD. At last he came round to their belief.\n\nSolve সঠিক উত্তর হচ্ছে অপশন 'D'\n\n91. নিম্নের বামদিকের কোনটি ডানদিকের কৌনটির সঙ্গে সামঞ্জস্যপূর্ণ?\n\nA. গ্যাস্ট্রিন = অত্রিক রস নিঃসরণ নিঃসরণ করে।\nB. সিস্ট্রেন্ট = অগ্ন্যাশয় রস নিঃসরণ নিঃসরণ করে।\nC. কোলেস্টেটাক্সিন = লালারস নিঃসরণ নিঃসরণ করে।\nD. প্যানক্রিওজাইমিন = অত্রিক রস নিঃসরণ নিঃসরণ করে।\n\nSolve অপশন 'B' সত্যিক কিন্তু, A, C, D সত্যিক নয়;\n→ অপশন A - গ্যাস্ট্রিন = পাচক রস নিঃসরণ নিঃসরণ করে।\n→ অপশন C - কোলেস্টেটাক্সিন = পিতৃত্রের নিঃসরণ নিঃসরণ করে।\n→ অপশন D - প্যানক্রিওজাইমিন = অত্রিক রস নিঃসরণ নিঃসরণ করে।\n\n92. নাইট্রোজেনবিনিয়োগ কর্মকারিমূলক সম্পর্কে কোনটি সত্যিক নয়?\n\nA. অ্যালোহেলিক মূলক H₂ গ্যাস বের হয়।\nB. অ্যালোকোহেলিক মূলক এস্টার পরীক্ষায় পাকা ফরের বিশেষ সুগন্ধ বের হয়।\nC. অ্যালোভিহাইড টলেন বিকারক পরীক্ষায় সময় চকচকে সিলভার দর্পণ দর্শণ হয়।\nD. কার্বিক্লিক মূলক এর লিবার্ম্যান নাইট্রোসো পরীক্ষার সময় উজ্জ্বল লাল বর্ণের সৃষ্টি হয়।\n\nSolve অপশন 'D' সত্যিক নয়; কারণ- ফেনল এর সন্তোতকরণ পরীক্ষার নাম লিবার্ম্যান নাইট্রোসো পরীক্ষা এবং এই পরীক্ষার সময় প্রথমে লাল বর্ণের দ্রবণ তৈরি হলেও পরবর্তীতে অতিরিক্ত কঠিক সোডার মিশ্রণের দরুণ দ্রবণের বর্ণ গাঢ় নীল/সবুজ বর্ণের হয়।\n\n93. আলোক ভর্তি ক্রিয়া নিম্নের কোন তুলকে সমর্থন করে?\n\nA. ওয়েভ\nB. করপাখুলার\nC. কোয়ান্টাম\nD. ইলেকট্রো ম্যাগনেটিক\n\nSolve আলোক ভর্তি ক্রিয়া কোয়ান্টাম তুলকে সমর্থন করে।\n\n94. চার্লস-গ্রাল নিম্নের কোন দেশের নেতা ছিলেন?\n\nA. ফ্রাঙ্স\nB. জামানি\nC. স্পেন\nD. পুরুখাল",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q80",
+          "content_markdown": "প্রায় ১৫০℃ তাপমাত্রায় নিক্ষেপের কোন প্রভাবকের উপস্থিতিতে ইথাইল আলকোহল উৎপন্ন হয়?\nSolve সঠিক উত্তর অপশন 'A' অর্ধেৎ নিকেল।",
+          "structured_data": {
+            "question_number": "80",
+            "subtype": "mcq_item",
+            "stem": "প্রায় ১৫০℃ তাপমাত্রায় নিক্ষেপের কোন প্রভাবকের উপস্থিতিতে ইথাইল আলকোহল উৎপন্ন হয়?\nSolve সঠিক উত্তর অপশন 'A' অর্ধেৎ নিকেল।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "নিকেল",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "অ্যাসিটিলিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "H₂SO₄",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ডিনাইল আলকোহল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0bb1fd46-2439-5476-80d0-a29753791dc4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q81",
+          "content_markdown": "নিম্নে কোনটি বহিঃকরণে থাকে?\nSolve বহিঃকরণের বিভিন্ন অংশ :\n→ পিনা/কর্ণছর\n→ বহিঃআউটিটারি মিটাস/কর্ণকুহর\n→ টিম্পানিক মেম্ব্রেন/কর্ণপটহ",
+          "structured_data": {
+            "question_number": "81",
+            "subtype": "mcq_item",
+            "stem": "নিম্নে কোনটি বহিঃকরণে থাকে?\nSolve বহিঃকরণের বিভিন্ন অংশ :\n→ পিনা/কর্ণছর\n→ বহিঃআউটিটারি মিটাস/কর্ণকুহর\n→ টিম্পানিক মেম্ব্রেন/কর্ণপটহ",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "কবলিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "স্টেপিস",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "পিনা",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ইনকাস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "043c59f6-0ee6-555d-95d1-29660f6839c0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q82",
+          "content_markdown": "দর্শনানুষ্ঠির স্থায়িত্বকাল নিচে উল্লেখিত কত সেকেন্ড?\nSolve দর্শনানুষ্ঠির স্থায়িত্বকাল 1/10 সেকেন্ড বা 0.1 সেকেন্ড।",
+          "structured_data": {
+            "question_number": "82",
+            "subtype": "mcq_item",
+            "stem": "দর্শনানুষ্ঠির স্থায়িত্বকাল নিচে উল্লেখিত কত সেকেন্ড?\nSolve দর্শনানুষ্ঠির স্থায়িত্বকাল 1/10 সেকেন্ড বা 0.1 সেকেন্ড।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "1",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "1/10",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "1/20",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "1/5",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "34179415-6524-542a-ba18-c2151a008b81"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q83",
+          "content_markdown": "নিম্নে কোনটি সত্যিক নয়?\nSolve অপশন 'D' সত্যিক নয়; কারণ - হাইড্রোক্রিক এসিডের (HCl) এর উপস্থিতি নিক্ষেপে পেপসিনজেন সক্রিয় পেপসিনে রূপান্তরিত হয়; যার দরুগ পেপসিনের কার্যক্রমক বৃদ্ধি পায়।",
+          "structured_data": {
+            "question_number": "83",
+            "subtype": "mcq_item",
+            "stem": "নিম্নে কোনটি সত্যিক নয়?\nSolve অপশন 'D' সত্যিক নয়; কারণ - হাইড্রোক্রিক এসিডের (HCl) এর উপস্থিতি নিক্ষেপে পেপসিনজেন সক্রিয় পেপসিনে রূপান্তরিত হয়; যার দরুগ পেপসিনের কার্যক্রমক বৃদ্ধি পায়।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "লালচরে ট্যায়ালিন নামক উৎসেক উপস্থিত থাকে।",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "প্রধান্তিন প্রায় 2 লিটার গাছাটিক রস নিঃস্থত হয়।",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "মিউসিন HCI এর কফটির ভূমিকা থেকে পাকাঙ্খ প্রাচীরের রক্ষা করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "হাইড্রোক্রিক এসিডের উপস্থিতি পেপসিনের কার্যক্রমকে বাধাগ্রস্থ করে।",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "36c59541-6519-5337-87b1-b6c1ca1a87d7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q84",
+          "content_markdown": "নিম্নের কোনটি অল্পতরাও জন্য সত্যিক নয়?\nSolve অপশন 'D' সত্যিক নয়; কারণ - কুইনোলিন পাওয়া যায় ভারী তেল বা ক্রিয়েজেট তেল থেকে।",
+          "structured_data": {
+            "question_number": "84",
+            "subtype": "mcq_item",
+            "stem": "নিম্নের কোনটি অল্পতরাও জন্য সত্যিক নয়?\nSolve অপশন 'D' সত্যিক নয়; কারণ - কুইনোলিন পাওয়া যায় ভারী তেল বা ক্রিয়েজেট তেল থেকে।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "লম্বু তেলে থায়ারফিন পাওয়া যায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "মধুম তেলের পরিমাণ 7.5%",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ভারী তেলের পাতন তাপমাত্রা 231°-270°C",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "সবুজ তেল থেকে কুইনোলিন পাওয়া যায়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "aa96f3b1-bdf3-5ae5-ac42-dfe63f22b62b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q85",
+          "content_markdown": "একই দূরত্বে অবস্থিত এবং উল্লম্ব সরল রেখাওলিকে স্পিডবেলে দেখতে পায়না। চোখের এই রেখটির নিম্নের কোনটি বলা হয়?\nSolve প্রথম উল্লম্ব রেখটির নাম হলো নকুলাঙ্কা যা টারিক লেপ্স বা সিলিন্ডার আকৃতির লেপ্স ব্যবহার করে দূর করা যায়।",
+          "structured_data": {
+            "question_number": "85",
+            "subtype": "mcq_item",
+            "stem": "একই দূরত্বে অবস্থিত এবং উল্লম্ব সরল রেখাওলিকে স্পিডবেলে দেখতে পায়না। চোখের এই রেখটির নিম্নের কোনটি বলা হয়?\nSolve প্রথম উল্লম্ব রেখটির নাম হলো নকুলাঙ্কা যা টারিক লেপ্স বা সিলিন্ডার আকৃতির লেপ্স ব্যবহার করে দূর করা যায়।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "স্বপ্ন দৃষ্টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "চালকেশ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "নকুলাঙ্কা",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "দূরবদ্ধ দৃষ্টি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7d6b2948-0b10-57e5-ad73-6ef71a5b86c8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q86",
+          "content_markdown": "চলনের সময় পায়ের কোন পেশী সংকোচনের ফলে গোড়ালির অঙ্গিতে টান পড়ে? ফলে গোড়ালি মাটি থেকে উত্থিত হয়?\nSolve সঠিক উত্তর অপশন 'B' অর্ধেৎ সোলিয়াস পেশী।",
+          "structured_data": {
+            "question_number": "86",
+            "subtype": "mcq_item",
+            "stem": "চলনের সময় পায়ের কোন পেশী সংকোচনের ফলে গোড়ালির অঙ্গিতে টান পড়ে? ফলে গোড়ালি মাটি থেকে উত্থিত হয়?\nSolve সঠিক উত্তর অপশন 'B' অর্ধেৎ সোলিয়াস পেশী।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ট্রাপিজিয়াম",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "সোলিয়াস",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "রেকটাস",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "গ্রটিয়াস",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a2df8078-af71-5364-8e0e-5fa4081cee7a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q87",
+          "content_markdown": "টুলুইন সালফোনেশেনের জন্য নিম্নের কত \"C\" তাপমাত্রা প্রয়োজন হয়?\nSolve সঠিক উত্তর অপশন 'D' অর্ধেৎ 0°C.",
+          "structured_data": {
+            "question_number": "87",
+            "subtype": "mcq_item",
+            "stem": "টুলুইন সালফোনেশেনের জন্য নিম্নের কত \"C\" তাপমাত্রা প্রয়োজন হয়?\nSolve সঠিক উত্তর অপশন 'D' অর্ধেৎ 0°C.",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "30",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "20",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "10",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "0",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "14ca51f9-9930-56a7-9a33-f8b5cf3fb8a3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q88",
+          "content_markdown": "একটি তেজক্রিয় পদার্থের অধিক্ষ 15 দিন। 2.5 gm ওজনের ঐ পদার্থের নিক্ষেপ কর (g) 60 দিন পর্যন্ত থাকবে?\nSolve আমরা জানি,\nλ = $\\frac{0.695}{t_{\\text {1/2}}}$\n= $\\frac{0.695}{15}$\n= 0.0462\n∴ N = e$^{- \\lambda t}$ ⇒ N = 0.156\nসুতরাং সঠিক উত্তর অপশন 'A'.",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "mcq_item",
+            "stem": "একটি তেজক্রিয় পদার্থের অধিক্ষ 15 দিন। 2.5 gm ওজনের ঐ পদার্থের নিক্ষেপ কর (g) 60 দিন পর্যন্ত থাকবে?\nSolve আমরা জানি,\nλ = $\\frac{0.695}{t_{\\text {1/2}}}$\n= $\\frac{0.695}{15}$\n= 0.0462\n∴ N = e$^{- \\lambda t}$ ⇒ N = 0.156\nসুতরাং সঠিক উত্তর অপশন 'A'.",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "0.156",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "0.312",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "0.125",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "0.250",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "106914da-0bd9-5906-ab6c-e5ae93946555"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q89",
+          "content_markdown": "মিনাক্ষাবাই জনগোষ্ঠী নিম্নের কোন দেশে বসবাস করে?",
+          "structured_data": {
+            "question_number": "89",
+            "subtype": "mcq_item",
+            "stem": "মিনাক্ষাবাই জনগোষ্ঠী নিম্নের কোন দেশে বসবাস করে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ইন্দোনেশিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "থাইল্যান্ড",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "দিফিলিপিনস",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "বোলিঝিম",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "91d1aa96-f808-5f76-a65f-8ae340180f8e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q90",
+          "content_markdown": "Which of the following sentence contain the word ‘round’ as an adverb?\nSolve সঠিক উত্তর হচ্ছে অপশন 'D'",
+          "structured_data": {
+            "question_number": "90",
+            "subtype": "mcq_item",
+            "stem": "Which of the following sentence contain the word ‘round’ as an adverb?\nSolve সঠিক উত্তর হচ্ছে অপশন 'D'",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "The boy played well in the first round.",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "They rounded the temple silently.",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "A square peg in a round table.",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "At last he came round to their belief.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "abd77fe6-8de6-5949-acb8-9d466b088710"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q91",
+          "content_markdown": "নিম্নের বামদিকের কোনটি ডানদিকের কৌনটির সঙ্গে সামঞ্জস্যপূর্ণ?\nSolve অপশন 'B' সত্যিক কিন্তু, A, C, D সত্যিক নয়;\n→ অপশন A - গ্যাস্ট্রিন = পাচক রস নিঃসরণ নিঃসরণ করে।\n→ অপশন C - কোলেস্টেটাক্সিন = পিতৃত্রের নিঃসরণ নিঃসরণ করে।\n→ অপশন D - প্যানক্রিওজাইমিন = অত্রিক রস নিঃসরণ নিঃসরণ করে।",
+          "structured_data": {
+            "question_number": "91",
+            "subtype": "mcq_item",
+            "stem": "নিম্নের বামদিকের কোনটি ডানদিকের কৌনটির সঙ্গে সামঞ্জস্যপূর্ণ?\nSolve অপশন 'B' সত্যিক কিন্তু, A, C, D সত্যিক নয়;\n→ অপশন A - গ্যাস্ট্রিন = পাচক রস নিঃসরণ নিঃসরণ করে।\n→ অপশন C - কোলেস্টেটাক্সিন = পিতৃত্রের নিঃসরণ নিঃসরণ করে।\n→ অপশন D - প্যানক্রিওজাইমিন = অত্রিক রস নিঃসরণ নিঃসরণ করে।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "গ্যাস্ট্রিন = অত্রিক রস নিঃসরণ নিঃসরণ করে।",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "সিস্ট্রেন্ট = অগ্ন্যাশয় রস নিঃসরণ নিঃসরণ করে।",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "কোলেস্টেটাক্সিন = লালারস নিঃসরণ নিঃসরণ করে।",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "প্যানক্রিওজাইমিন = অত্রিক রস নিঃসরণ নিঃসরণ করে।",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "73238f76-2aa1-54fb-a5da-959c4b7d5862"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q92",
+          "content_markdown": "নাইট্রোজেনবিনিয়োগ কর্মকারিমূলক সম্পর্কে কোনটি সত্যিক নয়?\nSolve অপশন 'D' সত্যিক নয়; কারণ- ফেনল এর সন্তোতকরণ পরীক্ষার নাম লিবার্ম্যান নাইট্রোসো পরীক্ষা এবং এই পরীক্ষার সময় প্রথমে লাল বর্ণের দ্রবণ তৈরি হলেও পরবর্তীতে অতিরিক্ত কঠিক সোডার মিশ্রণের দরুণ দ্রবণের বর্ণ গাঢ় নীল/সবুজ বর্ণের হয়।",
+          "structured_data": {
+            "question_number": "92",
+            "subtype": "mcq_item",
+            "stem": "নাইট্রোজেনবিনিয়োগ কর্মকারিমূলক সম্পর্কে কোনটি সত্যিক নয়?\nSolve অপশন 'D' সত্যিক নয়; কারণ- ফেনল এর সন্তোতকরণ পরীক্ষার নাম লিবার্ম্যান নাইট্রোসো পরীক্ষা এবং এই পরীক্ষার সময় প্রথমে লাল বর্ণের দ্রবণ তৈরি হলেও পরবর্তীতে অতিরিক্ত কঠিক সোডার মিশ্রণের দরুণ দ্রবণের বর্ণ গাঢ় নীল/সবুজ বর্ণের হয়।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "অ্যালোহেলিক মূলক H₂ গ্যাস বের হয়।",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "অ্যালোকোহেলিক মূলক এস্টার পরীক্ষায় পাকা ফরের বিশেষ সুগন্ধ বের হয়।",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "অ্যালোভিহাইড টলেন বিকারক পরীক্ষায় সময় চকচকে সিলভার দর্পণ দর্শণ হয়।",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "কার্বিক্লিক মূলক এর লিবার্ম্যান নাইট্রোসো পরীক্ষার সময় উজ্জ্বল লাল বর্ণের সৃষ্টি হয়।",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a4783f54-fbf3-5e70-87fc-4a6211a82bcb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q93",
+          "content_markdown": "আলোক ভর্তি ক্রিয়া নিম্নের কোন তুলকে সমর্থন করে?\nSolve আলোক ভর্তি ক্রিয়া কোয়ান্টাম তুলকে সমর্থন করে।",
+          "structured_data": {
+            "question_number": "93",
+            "subtype": "mcq_item",
+            "stem": "আলোক ভর্তি ক্রিয়া নিম্নের কোন তুলকে সমর্থন করে?\nSolve আলোক ভর্তি ক্রিয়া কোয়ান্টাম তুলকে সমর্থন করে।",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ওয়েভ",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "করপাখুলার",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "কোয়ান্টাম",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "ইলেকট্রো ম্যাগনেটিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "616e9a2c-e20c-5c8c-9e4e-c44980494694"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q94",
+          "content_markdown": "চার্লস-গ্রাল নিম্নের কোন দেশের নেতা ছিলেন?",
+          "structured_data": {
+            "question_number": "94",
+            "subtype": "mcq_item",
+            "stem": "চার্লস-গ্রাল নিম্নের কোন দেশের নেতা ছিলেন?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "ফ্রাঙ্স",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "জামানি",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "স্পেন",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "পুরুখাল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "c764d3de-fe52-5a02-9906-7d7209c5f7ff"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 15,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 211.96,
+        "eval_count": 3639
+      }
+    },
+    {
+      "page_number": 9,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "## Q95\n**Type:** mcq\n**Stem:** Which of the following sentence contain the word 'why' as relative adverb?\n**Options:** \n  - A) I don't know the why and wherefore of it.\n  - B) Why did he come here?\n  - C) I know the reason why he did it?\n  - D) Why, it is surely Mahboob\n\n**Answer:** C\n**Solution:** সঠিক উত্তর হচ্ছে অপশন 'C' আর্থাৎ I know the reason why he did it?\n\n## Q96\n**Type:** mcq\n**Stem:** নিচের কোন কৌণি হিপারিন লিঙ্গসরণ করে?\n**Options:** \n  - A) নিউট্রফিল\n  - B) বেসোফিল\n  - C) ইউসিনোফিল\n  - D) লিফোসাইট\n\n**Answer:** C\n**Solution:** মাস্টকোয় ও নেসোফিল কৌণি হেপারিন লিঙ্গসরণ করে।\n\n## Q97\n**Type:** mcq\n**Stem:** কোন একটি জৈব যৌগের বিশ্লেষণে $40\\%$ কার্বন, এবং $6.7\\%$ হাইড্রজেন পাওয়া যায়। ঐ যৌগের $10~{\\rm gm}$ পরিমাণ $25^{\\circ}{\\rm C}$ এবং $760~{\\rm mm}$ (পারদ) ঢাপে $8.15~{\\rm ml}$ আয়তন হয়। ঐ যৌগের আণবিক সংকেত নিচের কোনটি?\n**Options:** \n  - A) $\\mathrm{CH}_2\\mathrm{O}$\n  - B) $\\mathrm{C}_2\\mathrm{H}_2\\mathrm{O}$\n  - C) $\\mathrm{CH}_2\\mathrm{O}_2$\n  - D) $\\mathrm{C}_4\\mathrm{H}_2\\mathrm{O}$\n\n**Answer:** A\n**Solution:** সঠিক উত্তর হচ্ছে অপশন 'A' আর্থাৎ CH₂O.\n\n## Q98\n**Type:** mcq\n**Stem:** নিচের কৌণিতে ওহমের সুত্রের প্রয়োগ করা যায় না?\n**Options:** \n  - A) এ-সি বর্তনী\n  - B) বিদ্যুৎ পরিবাহী পদার্থ\n  - C) অর্ধ বিদ্যুৎ পরিবাহী পদার্থ\n  - D) বিদ্যুৎ পরিবাহী পদার্থ, যেখানে তাপাতার পরিবর্তন করা হয়েছে\n\n**Answer:** D\n**Solution:** এসি বর্তনী এবং অর্ধপরিবাহী পদার্থ ওহমের সুত্র প্রয়োগ করা যায় না।\n\n## Q99\n**Type:** mcq\n**Stem:** নিচের কোন হাজার বৎসর পূর্বে অন্ট্রলিয়াতে অ্যাব্রোজিনালরা বসবাস শুরু করে?\n**Options:** \n  - A) $10000$\n  - B) $20000$\n  - C) $30000$\n  - D) $40000$\n\n**Answer:** D\n**Solution:** সঠিক উত্তর অপশন 'D' আর্থাৎ 40,000.\n\n## Q100\n**Type:** mcq\n**Stem:** Which of the following sentence is correct?\n**Options:** \n  - A) The president gave away the prizes.\n  - B) The enemies gave off at last.\n  - C) The cooking coal gives in a lot of smoke.\n  - D) He will give out charge tomorrow.\n\n**Answer:** A\n**Solution:** সঠিক উত্তর অপশন 'A' আর্থাৎ The president gave away the prizes.\n\nANSWER : BDS ADMISSION TEST : 2009-2010\n\n| 1.B   | 2.C    | 3.A     | 4.C      | 5.C       | 6.B        | 7.C         | 8.C          | 9.C           | 10.C            |\n|-------|--------|---------|----------|-----------|------------|-------------|---------------|----------------|\n| 11.D  | 12.C   | 13.C    | 14.C     | 15.B      | 16.B       | 17.A        | 18.D         | 19.B          | 20.D            |\n| 21.A  | 22.C   | 23.A    | 24.A     | 25.C      | 26.C       | 27.B        | 28.ABCD      | 29.D          | 30.C            |\n| 31.C  | 32.C   | 33.C    | 34.C     | 35.B      | 36.C       | 37.A        | 38.A         | 39.D          | 40.B            |\n| 41.A  | 42.A   | 43.C    | 44.D     | 45.D      | 46.D       | 47.B        | 48.B         | 49.B          | 50.C            |\n| 51.C  | 52.A   | 53.A    | 54.D     | 55.D      | 56.C       | 57.C        | 58.AC        | 59.A          | 60.C            |\n| 61.A  | 62.D   | 63.B    | 64.C     | 65.C      | 66.C       | 67.D        | 68.D         | 69.B          | 70.A            |\n| 71.AD | 72.B   | 73.C    | 74.A     | 75.B      | 76.A       | 77.A        | 78.B         | 79.B          | 80.A            |\n| 81.C  | 82.B   | 83.D    | 84.D     | 85.C      | 86.B       | 87.D        | 88.A         | 89.A          | 90.D            |\n| 91.B  | 92.D   | 93.C    | 94.A     | 95.C      | 96.B       | 97.A        | 98.AC        | 99. D         | 100. A          |\n\nTags: [Ans: ...]",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q95",
+          "content_markdown": "Which of the following sentence contain the word 'why' as relative adverb?",
+          "structured_data": {
+            "question_number": "95",
+            "subtype": "mcq",
+            "stem": "Which of the following sentence contain the word 'why' as relative adverb?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "I don't know the why and wherefore of it.",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "Why did he come here?",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "I know the reason why he did it?",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "Why, it is surely Mahboob",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "সঠিক উত্তর হচ্ছে অপশন 'C' আর্থাৎ I know the reason why he did it?",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "3e9e1180-ff95-5b1c-b138-a21b98199903"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q96",
+          "content_markdown": "নিচের কোন কৌণি হিপারিন লিঙ্গসরণ করে?",
+          "structured_data": {
+            "question_number": "96",
+            "subtype": "mcq",
+            "stem": "নিচের কোন কৌণি হিপারিন লিঙ্গসরণ করে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "নিউট্রফিল",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "বেসোফিল",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "ইউসিনোফিল",
+                "is_correct": true
+              },
+              {
+                "key_original": "D",
+                "text": "লিফোসাইট",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "C",
+            "solution_markdown": "মাস্টকোয় ও নেসোফিল কৌণি হেপারিন লিঙ্গসরণ করে।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a79edadd-1951-5d4a-83f8-2fde4423cfd9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q97",
+          "content_markdown": "কোন একটি জৈব যৌগের বিশ্লেষণে $40\\%$ কার্বন, এবং $6.7\\%$ হাইড্রজেন পাওয়া যায়। ঐ যৌগের $10~{\\rm gm}$ পরিমাণ $25^{\\circ}{\\rm C}$ এবং $760~{\\rm mm}$ (পারদ) ঢাপে $8.15~{\\rm ml}$ আয়তন হয়। ঐ যৌগের আণবিক সংকেত নিচের কোনটি?",
+          "structured_data": {
+            "question_number": "97",
+            "subtype": "mcq",
+            "stem": "কোন একটি জৈব যৌগের বিশ্লেষণে $40\\%$ কার্বন, এবং $6.7\\%$ হাইড্রজেন পাওয়া যায়। ঐ যৌগের $10~{\\rm gm}$ পরিমাণ $25^{\\circ}{\\rm C}$ এবং $760~{\\rm mm}$ (পারদ) ঢাপে $8.15~{\\rm ml}$ আয়তন হয়। ঐ যৌগের আণবিক সংকেত নিচের কোনটি?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "$\\mathrm{CH}_2\\mathrm{O}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "$\\mathrm{C}_2\\mathrm{H}_2\\mathrm{O}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "$\\mathrm{CH}_2\\mathrm{O}_2$",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "$\\mathrm{C}_4\\mathrm{H}_2\\mathrm{O}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A",
+            "solution_markdown": "সঠিক উত্তর হচ্ছে অপশন 'A' আর্থাৎ CH₂O.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ec433be6-38f0-5eac-ba59-c70be2baa309"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q98",
+          "content_markdown": "নিচের কৌণিতে ওহমের সুত্রের প্রয়োগ করা যায় না?",
+          "structured_data": {
+            "question_number": "98",
+            "subtype": "mcq",
+            "stem": "নিচের কৌণিতে ওহমের সুত্রের প্রয়োগ করা যায় না?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "এ-সি বর্তনী",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "বিদ্যুৎ পরিবাহী পদার্থ",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "অর্ধ বিদ্যুৎ পরিবাহী পদার্থ",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "বিদ্যুৎ পরিবাহী পদার্থ, যেখানে তাপাতার পরিবর্তন করা হয়েছে",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "এসি বর্তনী এবং অর্ধপরিবাহী পদার্থ ওহমের সুত্র প্রয়োগ করা যায় না।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "19a091cb-ea8e-5227-bfdd-5b932b9e4495"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q99",
+          "content_markdown": "নিচের কোন হাজার বৎসর পূর্বে অন্ট্রলিয়াতে অ্যাব্রোজিনালরা বসবাস শুরু করে?",
+          "structured_data": {
+            "question_number": "99",
+            "subtype": "mcq",
+            "stem": "নিচের কোন হাজার বৎসর পূর্বে অন্ট্রলিয়াতে অ্যাব্রোজিনালরা বসবাস শুরু করে?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "$10000$",
+                "is_correct": false
+              },
+              {
+                "key_original": "B",
+                "text": "$20000$",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "$30000$",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "$40000$",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "D",
+            "solution_markdown": "সঠিক উত্তর অপশন 'D' আর্থাৎ 40,000.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "1a7b45ef-5af0-5289-af63-2cd8eb3afff8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q100",
+          "content_markdown": "Which of the following sentence is correct?",
+          "structured_data": {
+            "question_number": "100",
+            "subtype": "mcq",
+            "stem": "Which of the following sentence is correct?",
+            "options": [
+              {
+                "key_original": "A",
+                "text": "The president gave away the prizes.",
+                "is_correct": true
+              },
+              {
+                "key_original": "B",
+                "text": "The enemies gave off at last.",
+                "is_correct": false
+              },
+              {
+                "key_original": "C",
+                "text": "The cooking coal gives in a lot of smoke.",
+                "is_correct": false
+              },
+              {
+                "key_original": "D",
+                "text": "He will give out charge tomorrow.",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "A\nBDS ADMISSION TEST : 2009-2010\n\n| 1.B   | 2.C    | 3.A     | 4.C      | 5.C       | 6.B        | 7.C         | 8.C          | 9.C           | 10.C            |\n|-------|--------|---------|----------|-----------|------------|-------------|---------------|----------------|\n| 11.D  | 12.C   | 13.C    | 14.C     | 15.B      | 16.B       | 17.A        | 18.D         | 19.B          | 20.D            |\n| 21.A  | 22.C   | 23.A    | 24.A     | 25.C      | 26.C       | 27.B        | 28.ABCD      | 29.D          | 30.C            |\n| 31.C  | 32.C   | 33.C    | 34.C     | 35.B      | 36.C       | 37.A        | 38.A         | 39.D          | 40.B            |\n| 41.A  | 42.A   | 43.C    | 44.D     | 45.D      | 46.D       | 47.B        | 48.B         | 49.B          | 50.C            |\n| 51.C  | 52.A   | 53.A    | 54.D     | 55.D      | 56.C       | 57.C        | 58.AC        | 59.A          | 60.C            |\n| 61.A  | 62.D   | 63.B    | 64.C     | 65.C      | 66.C       | 67.D        | 68.D         | 69.B          | 70.A            |\n| 71.AD | 72.B   | 73.C    | 74.A     | 75.B      | 76.A       | 77.A        | 78.B         | 79.B          | 80.A            |\n| 81.C  | 82.B   | 83.D    | 84.D     | 85.C      | 86.B       | 87.D        | 88.A         | 89.A          | 90.D            |\n| 91.B  | 92.D   | 93.C    | 94.A     | 95.C      | 96.B       | 97.A        | 98.AC        | 99. D         | 100. A          |",
+            "solution_markdown": "সঠিক উত্তর অপশন 'A' আর্থাৎ The president gave away the prizes.",
+            "tags_raw": "[Ans: ...]",
+            "provenance": [
+              "[Ans: ...]"
+            ]
+          },
+          "id": "b3490279-49b6-56df-9612-ec2350a72550"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 6,
+        "figure_count": 0,
+        "vlm_endpoint": "remote_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 109.27,
+        "eval_count": 1918
+      }
+    }
+  ]
+}

@@ -1,0 +1,4342 @@
+{
+  "schema_version": "1.0.0",
+  "book_meta": {
+    "drive_file_id": "1hkzMEGDF-4VUiZ7An-FSXusG_KR6k2Eq",
+    "collection": "main_book_solution",
+    "subject": "physics",
+    "edition": "2023",
+    "priority_score": 2023092,
+    "path_parts": [
+      "অনুশীলনী MCQ সমাধান",
+      "* ভার্সন সেপ্টেম্বর-২৩",
+      "টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন",
+      "পদার্থবিজ্ঞান",
+      "P-1.4 নিউটনিয়ান বলবিদ্যা.pdf"
+    ],
+    "filename": "P-1.4 নিউটনিয়ান বলবিদ্যা.pdf",
+    "sha256": "8cf437a4661a32cae1769badd80b738cd8b5f944dd7e05f066327f7df891f250",
+    "total_pages": 8,
+    "parsed_pages": 8,
+    "blank_pages": 0,
+    "failed_pages": [],
+    "total_blocks": 150,
+    "block_counts_by_type": {
+      "mcq_item": 101,
+      "concept_prose": 48,
+      "table": 1
+    },
+    "total_figures": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান 1ম পত্র\n#### চতুর্থ অধ্যায়: নিউটনিয়ান বলবিদ্যা\n\n#### বলের সংক্ষিপ্ত ধারণা\n01. নিচের কোনটি ঘর্ষণ উদাহরণ? (গ্র. বো., ২০১৫)\n    - a) সঙ্গেকি বল\n    - b) সংরক্ষণশীল বল\n    - c) আসঙ্গন বল\n    - d) অসংরক্ষণশীল বল\n02. সুষম গতিবেগ চলতি একটি বক্ট্র ওপর-\n    - a) একটি নিউ বল ক্রিয়া করে\n    - b) একটি নিউ শূন্য বল ক্রিয়া করে\n    - c) একটি সুষম তুরাণ ক্রিয়া করে\n    - d) উপরের কৌন্ডিল্টি নয়\n03. যা কোনো বক্ট্রে তুরাণ সৃষ্টি করে তাকে কী বলে?\n    - a) ভরবেগ\n    - b) বল\n    - c) শক্তি\n    - d) গতিশক্তি\n04. বক্ট্র ছিটি জড়া কৌন্টির সমানুপাতিক?\n    - a) ভরের\n    - b) আয়তনের\n    - c) ঘনত্বের\n    - d) ছিটিখাপক্তার\n05. ছিটি জড়াতর উদাহরণ কৌনটি?\n    - a) ঘোড়ার গাড়ি টানা\n    - b) ধুলিময় পোশাকে আখাইত করা\n    - c) বড় নৌকার গুঁট টানা\n    - d) বন্দুক থেকে গুলি ছোड়া\n06. একটি বল-\n    - a) বক্ট্র একটি তুরাণ সৃষ্টি করে\n    - b) একক ভরের বক্ট্র যে কোনো তুরাণ সৃষ্টি করে\n    - c) বক্ট্র যে কোনো তুরাণ সৃষ্টি করে\n    - d) একক ভরের বক্ট্র একটি তুরাণ সৃষ্টি করে\n07. নিচের কোনটি ফেলার রাশি?\n    - a) কৌণিক তুরাণ\n    - b) বলের আমক\n    - c) জড়াতর আমক\n    - d) কৌণিক ভরবেগ\n08. একটি গতিশীল বক্ট্রে জন্য বক্ট্র গতিশীল থাকবে?\n    - a) তুরাণ\n    - b) বেগ\n    - c) জড়াতা\n    - d) বল\n09. একটি পাথরখুঁচে ঝুঁটি থেকে খাড়া উপরের দিকে ঠুকলে ঠোকলে এর ওপর কয়টি বল ক্রিয়া করেছে? (গ্র. বো.-৩১)\n    - a) 1\n    - b) 2\n    - c) 3\n    - d) 4\n10. বলের ঘাতের একটি হলো-\n    - a) গ্র. বো-১৭\n    - b) kgms^{-2}\n    - c) kgm^{-1}s^{-1}\n    - d) kglm^{-2}s^{-1}\n\n11. বলের ঘাত সমীকরণ কোনটি? (Admission Test: RUET 2012-13; KU 2018-19)\n    - a) [MLT^{-2}]\n    - b) [MLT^{-1}]\n    - c) [ML^{2}T^{-1}]\n    - d) [ML^{2}T^{-2}] (আমি)\n\n12. শক্তিশালী ও দুর্বল বলের অনুপাত-\n    - a) 10^{2}\n    - b) 10^{8}\n    - c) 10^{4}\n    - d) 10^{13}(প্রামাণিক)\n\n13. একটি পূর্ণ ঘূর্ণন সমান হচ্ছে-\n    - a) $\\frac{\\pi}{2}$ rad\n    - b) π rad\n    - c) $2\\pi$ rad\n    - d) $4\\pi$ rad (আসগর)\n\n---\n\n18. 1 kg ও 4 kg ভরের দুইটি বক্ট্র একই গতিশীল নিয়ে চলছে। এদের রৈখিক ভরবেগের অনুপাত হবে-\n    - a) √2 : 1\n    - b) 1 : 2\n    - c) 1 : 16\n15. বলের মোমেন্টের একটি কৌনটি?\n    - a) নিউটন মিটার\n    - b) নিউটন মিটার^2\n    - c) নিউটন/মিটার\n    - d) নিউটন/মিটার^2\n16. সবল নিউক্লিয় বলের জন্য কোন কোণ দায়িত্ব(গ্র. বো.: ২১; ম. বো.: ২১)?\n    - a) গ্রাইভিটন\n    - b) নিউট্রিনো\n    - c) মেসন\n    - d) ইলেক্ট্রন\n17. 2 kg ভরের একটি বক্ট্রে 3 m দীর্ঘ একটি সুতার এক প্রান্তে রোধে 4 rads^{-1} কৌণিক বেগে ঘোরানো হচ্ছে। সুতার ওপর টান হবে-\n    - a) 50 N\n    - b) 48 N\n    - c) 100 N\n    - d) 96 N (হিপ)\n\n### বলের প্রকরণে\n18. সবচেয়ে শক্তিশালী বল হচ্ছে-\n    - a) মহাকর্ষ বল\n    - b) তড়িৎ চুম্বকীয় বল\n    - c) সবল নিউক্লিয় বল\n    - d) দুর্বল নিউক্লিয় বল\n\n19. নিউক্লিয়ের মধ্যে কোন কোণ পারস্পরিক বিনিময়ের দ্বারা সবল নিউক্লিয় বলের উৎপত্তি হয়?\n    - a) গ্রাইভিটন\n    - b) নিউট্রিনো\n    - c) মেসন\n    - d) ইলেক্ট্রন\n\n20. তড়িৎফুক্ত বল কোন কোণ পারস্পরিক বিনিময়ের ফলে কার্যকর হয়?(গ্র. বো., ২০১৫)\n    - a) ফোটন\n    - b) মেসন\n    - c) প্রোটন\n    - d) গ্রাইভিটন (আমি আসগর, আমির হোসেন)\n\n21. প্রফেসর আদুস সালাম ও স্টিফেন ওয়াইনবার্গ কোন বল দুটি একীভূত করেছিলেন?\n    - a) বিশ্বজনীন মহাকর্ষ বল ও তড়িতটোষ্ক বল\n    - b) দুর্বল নিউক্লিয় বল ও সবল নিউক্লিয় বল\n    - c) তড়িতটোষ্ক বল ও সবল নিউক্লিয় বল\n    - d) তড়িতটোষ্ক বল ও দুর্বল নিউক্লিয় বল\n\n22. প্রোটন ও ইলেক্ট্রনের মধ্যে আকর্ষণের জন্য কোন মৌলিক বলটি দায়ি?\n    - a) শক্তিশালী বল\n    - b) মধ্যাকর্ষণ\n    - c) দুর্বল\n    - d) তড়িতটোষ্ক বল (শাহজাহান তপন)\n\n23. মৌলিক বল কোনটি?\n    - a) ১টি\n    - b) ২টি\n    - c) ৩টি\n    - d) ৪টি",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q01",
+          "content_markdown": "নিচের কোনটি ঘর্ষণ উদাহরণ? (গ্র. বো., ২০১৫)",
+          "structured_data": {
+            "question_number": "01",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি ঘর্ষণ উদাহরণ? (গ্র. বো., ২০১৫)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সঙ্গেকি বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সংরক্ষণশীল বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "আসঙ্গন বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "অসংরক্ষণশীল বল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0a6f5dc2-3ffb-5c62-832f-3d1ec9c2b516"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q02",
+          "content_markdown": "সুষম গতিবেগ চলতি একটি বক্ট্র ওপর-",
+          "structured_data": {
+            "question_number": "02",
+            "subtype": "mcq_item",
+            "stem": "সুষম গতিবেগ চলতি একটি বক্ট্র ওপর-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "একটি নিউ বল ক্রিয়া করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "একটি নিউ শূন্য বল ক্রিয়া করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "একটি সুষম তুরাণ ক্রিয়া করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "উপরের কৌন্ডিল্টি নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "875dd3f3-1934-5bca-b920-4c5db36255cc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q03",
+          "content_markdown": "যা কোনো বক্ট্রে তুরাণ সৃষ্টি করে তাকে কী বলে?",
+          "structured_data": {
+            "question_number": "03",
+            "subtype": "mcq_item",
+            "stem": "যা কোনো বক্ট্রে তুরাণ সৃষ্টি করে তাকে কী বলে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ভরবেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "শক্তি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "গতিশক্তি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0f03f265-7839-5a46-a2c9-4aace86920e1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q04",
+          "content_markdown": "বক্ট্র ছিটি জড়া কৌন্টির সমানুপাতিক?",
+          "structured_data": {
+            "question_number": "04",
+            "subtype": "mcq_item",
+            "stem": "বক্ট্র ছিটি জড়া কৌন্টির সমানুপাতিক?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ভরের",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "আয়তনের",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ঘনত্বের",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ছিটিখাপক্তার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "abdca781-1568-50c5-8d22-a314465f65b2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q05",
+          "content_markdown": "ছিটি জড়াতর উদাহরণ কৌনটি?",
+          "structured_data": {
+            "question_number": "05",
+            "subtype": "mcq_item",
+            "stem": "ছিটি জড়াতর উদাহরণ কৌনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ঘোড়ার গাড়ি টানা",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ধুলিময় পোশাকে আখাইত করা",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বড় নৌকার গুঁট টানা",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বন্দুক থেকে গুলি ছোड়া",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f7cd0aaf-2cf8-5e0b-82c3-c0f362e0c2b6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q06",
+          "content_markdown": "একটি বল-",
+          "structured_data": {
+            "question_number": "06",
+            "subtype": "mcq_item",
+            "stem": "একটি বল-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বক্ট্র একটি তুরাণ সৃষ্টি করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "একক ভরের বক্ট্র যে কোনো তুরাণ সৃষ্টি করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বক্ট্র যে কোনো তুরাণ সৃষ্টি করে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "একক ভরের বক্ট্র একটি তুরাণ সৃষ্টি করে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fb6b5043-47e1-595a-ad4c-ba97a20e7e3a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q07",
+          "content_markdown": "নিচের কোনটি ফেলার রাশি?",
+          "structured_data": {
+            "question_number": "07",
+            "subtype": "mcq_item",
+            "stem": "নিচের কোনটি ফেলার রাশি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কৌণিক তুরাণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বলের আমক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "জড়াতর আমক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কৌণিক ভরবেগ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d1f54d34-7c9d-5440-b928-19230e6c4b1c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q08",
+          "content_markdown": "একটি গতিশীল বক্ট্রে জন্য বক্ট্র গতিশীল থাকবে?",
+          "structured_data": {
+            "question_number": "08",
+            "subtype": "mcq_item",
+            "stem": "একটি গতিশীল বক্ট্রে জন্য বক্ট্র গতিশীল থাকবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "তুরাণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "জড়াতা",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "17ceb97e-7daf-5635-b53f-151d92a7f69c"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q09",
+          "content_markdown": "একটি পাথরখুঁচে ঝুঁটি থেকে খাড়া উপরের দিকে ঠুকলে ঠোকলে এর ওপর কয়টি বল ক্রিয়া করেছে? (গ্র. বো.-৩১)",
+          "structured_data": {
+            "question_number": "09",
+            "subtype": "mcq_item",
+            "stem": "একটি পাথরখুঁচে ঝুঁটি থেকে খাড়া উপরের দিকে ঠুকলে ঠোকলে এর ওপর কয়টি বল ক্রিয়া করেছে? (গ্র. বো.-৩১)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "3",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "4",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "a24b09b9-fe63-50d9-b243-dd5b9d033266"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q10",
+          "content_markdown": "বলের ঘাতের একটি হলো-",
+          "structured_data": {
+            "question_number": "10",
+            "subtype": "mcq_item",
+            "stem": "বলের ঘাতের একটি হলো-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গ্র. বো-১৭",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "kgms^{-2}",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "kgm^{-1}s^{-1}",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "kglm^{-2}s^{-1}",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e68cbb6d-595b-5b18-ab83-e2023a5d4883"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q11",
+          "content_markdown": "বলের ঘাত সমীকরণ কোনটি? (Admission Test: RUET 2012-13; KU 2018-19)",
+          "structured_data": {
+            "question_number": "11",
+            "subtype": "mcq_item",
+            "stem": "বলের ঘাত সমীকরণ কোনটি? (Admission Test: RUET 2012-13; KU 2018-19)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "[MLT^{-2}]",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "[MLT^{-1}]",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "[ML^{2}T^{-1}]",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "[ML^{2}T^{-2}] (আমি)",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "RUET 2012-13, KU 2018-19",
+            "provenance": [
+              "RUET 2012-13",
+              "KU 2018-19"
+            ]
+          },
+          "id": "d36f08a0-0645-56a8-b716-f144cb20c43d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q12",
+          "content_markdown": "শক্তিশালী ও দুর্বল বলের অনুপাত-",
+          "structured_data": {
+            "question_number": "12",
+            "subtype": "mcq_item",
+            "stem": "শক্তিশালী ও দুর্বল বলের অনুপাত-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "10^{2}",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "10^{8}",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "10^{4}",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "10^{13}(প্রামাণিক)",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "15429656-c75f-5c9b-bf28-382a30ec797f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q13",
+          "content_markdown": "একটি পূর্ণ ঘূর্ণন সমান হচ্ছে-",
+          "structured_data": {
+            "question_number": "13",
+            "subtype": "mcq_item",
+            "stem": "একটি পূর্ণ ঘূর্ণন সমান হচ্ছে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{\\pi}{2}$ rad",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "π rad",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$2\\pi$ rad",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$4\\pi$ rad (আসগর)",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8abcf7a4-7ded-54af-b330-243a37ec7348"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q18",
+          "content_markdown": "1 kg ও 4 kg ভরের দুইটি বক্ট্র একই গতিশীল নিয়ে চলছে। এদের রৈখিক ভরবেগের অনুপাত হবে-",
+          "structured_data": {
+            "question_number": "18",
+            "subtype": "mcq_item",
+            "stem": "1 kg ও 4 kg ভরের দুইটি বক্ট্র একই গতিশীল নিয়ে চলছে। এদের রৈখিক ভরবেগের অনুপাত হবে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "√2 : 1",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "1 : 2",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "1 : 16",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "999b076c-f1dd-53e8-b3de-674e6b1a8953"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q15",
+          "content_markdown": "বলের মোমেন্টের একটি কৌনটি?",
+          "structured_data": {
+            "question_number": "15",
+            "subtype": "mcq_item",
+            "stem": "বলের মোমেন্টের একটি কৌনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "নিউটন মিটার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নিউটন মিটার^2",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "নিউটন/মিটার",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "নিউটন/মিটার^2",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "ebc73131-c023-5ecf-8034-9dfd981e05fc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q16",
+          "content_markdown": "সবল নিউক্লিয় বলের জন্য কোন কোণ দায়িত্ব(গ্র. বো.: ২১; ম. বো.: ২১)?",
+          "structured_data": {
+            "question_number": "16",
+            "subtype": "mcq_item",
+            "stem": "সবল নিউক্লিয় বলের জন্য কোন কোণ দায়িত্ব(গ্র. বো.: ২১; ম. বো.: ২১)?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গ্রাইভিটন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নিউট্রিনো",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "মেসন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ইলেক্ট্রন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "efc4dec8-a4cc-5690-98b6-054fd6412afb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q17",
+          "content_markdown": "2 kg ভরের একটি বক্ট্রে 3 m দীর্ঘ একটি সুতার এক প্রান্তে রোধে 4 rads^{-1} কৌণিক বেগে ঘোরানো হচ্ছে। সুতার ওপর টান হবে-",
+          "structured_data": {
+            "question_number": "17",
+            "subtype": "mcq_item",
+            "stem": "2 kg ভরের একটি বক্ট্রে 3 m দীর্ঘ একটি সুতার এক প্রান্তে রোধে 4 rads^{-1} কৌণিক বেগে ঘোরানো হচ্ছে। সুতার ওপর টান হবে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "50 N",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "48 N",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "100 N",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "96 N (হিপ)",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "669e4c86-17b7-5551-9bd5-6a083696398a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q18",
+          "content_markdown": "সবচেয়ে শক্তিশালী বল হচ্ছে-",
+          "structured_data": {
+            "question_number": "18",
+            "subtype": "mcq_item",
+            "stem": "সবচেয়ে শক্তিশালী বল হচ্ছে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মহাকর্ষ বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তড়িৎ চুম্বকীয় বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সবল নিউক্লিয় বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "দুর্বল নিউক্লিয় বল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5aec971e-46ae-51b6-bb14-a96c40abf5d2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q19",
+          "content_markdown": "নিউক্লিয়ের মধ্যে কোন কোণ পারস্পরিক বিনিময়ের দ্বারা সবল নিউক্লিয় বলের উৎপত্তি হয়?",
+          "structured_data": {
+            "question_number": "19",
+            "subtype": "mcq_item",
+            "stem": "নিউক্লিয়ের মধ্যে কোন কোণ পারস্পরিক বিনিময়ের দ্বারা সবল নিউক্লিয় বলের উৎপত্তি হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "গ্রাইভিটন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "নিউট্রিনো",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "মেসন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ইলেক্ট্রন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "b7c6822b-bbee-5e72-8f00-cb34a9cf3bba"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q20",
+          "content_markdown": "তড়িৎফুক্ত বল কোন কোণ পারস্পরিক বিনিময়ের ফলে কার্যকর হয়?(গ্র. বো., ২০১৫)",
+          "structured_data": {
+            "question_number": "20",
+            "subtype": "mcq_item",
+            "stem": "তড়িৎফুক্ত বল কোন কোণ পারস্পরিক বিনিময়ের ফলে কার্যকর হয়?(গ্র. বো., ২০১৫)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ফোটন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মেসন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "প্রোটন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "গ্রাইভিটন (আমি আসগর, আমির হোসেন)",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "fd30f679-4d05-5b75-8bd5-e32937d77e8e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q21",
+          "content_markdown": "প্রফেসর আদুস সালাম ও স্টিফেন ওয়াইনবার্গ কোন বল দুটি একীভূত করেছিলেন?",
+          "structured_data": {
+            "question_number": "21",
+            "subtype": "mcq_item",
+            "stem": "প্রফেসর আদুস সালাম ও স্টিফেন ওয়াইনবার্গ কোন বল দুটি একীভূত করেছিলেন?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বিশ্বজনীন মহাকর্ষ বল ও তড়িতটোষ্ক বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "দুর্বল নিউক্লিয় বল ও সবল নিউক্লিয় বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "তড়িতটোষ্ক বল ও সবল নিউক্লিয় বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "তড়িতটোষ্ক বল ও দুর্বল নিউক্লিয় বল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "402aa4bd-87eb-517d-8051-5196af935347"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q22",
+          "content_markdown": "প্রোটন ও ইলেক্ট্রনের মধ্যে আকর্ষণের জন্য কোন মৌলিক বলটি দায়ি?",
+          "structured_data": {
+            "question_number": "22",
+            "subtype": "mcq_item",
+            "stem": "প্রোটন ও ইলেক্ট্রনের মধ্যে আকর্ষণের জন্য কোন মৌলিক বলটি দায়ি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "শক্তিশালী বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মধ্যাকর্ষণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "দুর্বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "তড়িতটোষ্ক বল (শাহজাহান তপন)",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "30d0cf6e-07f0-5e4a-89ad-33cb0a26a429"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q23",
+          "content_markdown": "মৌলিক বল কোনটি?",
+          "structured_data": {
+            "question_number": "23",
+            "subtype": "mcq_item",
+            "stem": "মৌলিক বল কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "১টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "২টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "৩টি",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "৪টি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5a3b642b-e25f-5a84-9b4c-f89a29fad1fe"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 23,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc7",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 89.8,
+        "eval_count": 3036
+      }
+    },
+    {
+      "page_number": 2,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [
+        "নিউটনিয়ান বলবিদ্যা"
+      ],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "---\n\n### পদার্থবিজ্ঞান ১ম পত্র\n\n##### BOARD TAGS:\n- শহরতলি তথ্যপত্র\n- আমির হোসেন\n\n##### SOLUTION TABLE:\n| Q | Answer |\n|---|--------|\n| 24.g | 25.g   |\n| 26.g | 27.k    |\n| 28.y | 29.g     |\n| 30.k | 31.k      |\n| 32.g | 33.k       |\n| 34.g | 35.g        |\n\n---\n\n## Q24\n**Type:** mcq\n**Stem:** কৌণ বল প্রোটিন ও নিউট্রিনকে একত্রে আবদ্ধ করে নিউক্লিয়াস তৈরি করে?\n- a) মহাকর্ষ বল\n- b) তড়িৎ চুষ্কীয় বল\n- c) সবল নিউক্লিয় বল\n- d) দূর্বল নিউক্লিয় বল\n\n**Answer:** g\n**Solution:** গুণফলের ফলে কৌণ বল প্রোটিন ও নিউট্রিনকে একত্রে আবদ্ধ করে। অবশেষে এই তিনটি বল মিশে নিউক্লিয়াস তৈরি হয়।\n**Tags:** শহরতলি তথ্যপত্র\n\n## Q25\n**Type:** mcq\n**Stem:** মৌলিক কণাসমূহের মধ্যে কৌণ বল ক্রিয়া করে?\n- a) মহাকর্ষ বল\n- b) তড়িৎ চৌম্বক বল\n- c) সবল নিউক্লিয় বল\n- d) দূর্বল নিউক্লিয় বল\n\n**Answer:** c\n**Solution:** মৌলিক কণাসমূহের মধ্যে কৌণ বল ক্রিয়া করে। এই বলগুলি কণাসমূহকে একত্রে আবদ্ধ করে।\n**Tags:** শহরতলি তথ্যপত্র\n\n## Q26\n**Type:** mcq\n**Stem:** কৌণ বলটি দূর্বলতম? (সি.বি.-১৩)\n- a) সবল নিউক্লিয় বল\n- b) দূর্বল নিউক্লিয় বল\n- c) মহাকর্ষ বল\n- d) তড়িৎ চুষ্কীয় বল\n\n**Answer:** b\n**Solution:** কৌণ বলটি দূর্বলতম। এই বল কণাসমূহকে একত্রে আবদ্ধ করে কিন্তু তার ছাড়াও অন্য বলগুলির ভূমিকা রয়েছে।\n**Tags:** আমির হোসেন\n\n## Q27\n**Type:** mcq\n**Stem:** মহাকর্ষ বল কার্যকর হয় যে কণার বিনিময়ের ফলে? (/স.বি.-১৫)\n- a) প্রতিটিন\n- b) মেসন\n- c) ফোটন\n- d) নিউটন\n\n**Answer:** k\n**Solution:** মহাকর্ষ বল কার্যকর হয় যে কণার বিনিময়ের ফলে। এই বল কণাসমূহকে একত্রে আবদ্ধ করে।\n**Tags:** আমির হোসেন\n\n## Q28\n**Type:** mcq\n**Stem:** আপবিক গঠনের জন্য দায়ী বল কোনটি? (দি.বি.-১৫)\n- a) মহাকর্ষ বল\n- b) দূর্বল নিউক্লিয় বল\n- c) সবল নিউক্লিয় বল\n- d) তড়িৎচৌম্বক বল\n\n**Answer:** g\n**Solution:** আপবিক গঠনের জন্য দায়ী বল সবল নিউক্লিয় বল। এই বল কণাসমূহকে একত্রে আবদ্ধ করে।\n**Tags:** আমির হোসেন\n\n## Q29\n**Type:** mcq\n**Stem:** খুব অল্প সময়ের জন্য বড় মানের বল প্রযুক্ত হলে তাকে বলে-\n(বি.বি. ২০১১)\n- a) সংশক্ত বল\n- b) ঘূর্ণন বল\n- c) তড়িৎ বল\n- d) ঘাত বল\n\n**Answer:** h\n**Solution:** খুব অল্প সময়ের জন্য বড় মানের বল প্রযুক্ত হলে তাকে বলে ঘাত বল। এই বল কণাসমূহকে একত্রে আবদ্ধ করে।\n**Tags:** আমির হোসেন\n\n## Q30\n**Type:** mcq\n**Stem:** 'M' ভর এবং 'a' প্রতিবিশিষ্ট সৃষ্ট বর্গাকৃতির চাকতির একটি কর্ণের সাপেক্ষে এর জড়িত আকর্ষণ -\n(f.বি. ১১-১৮)\n- a) $\\frac{{Ma^2}}{3}$\n- b) $\\frac{{Ma^2}}{6}$\n- c) $\\frac{{Ma^2}}{9}$\n- d) $\\frac{{Ma^2}}{{12}}$\n\n**Answer:** d\n**Solution:** 'M' ভর এবং 'a' প্রতিবিশিষ্ট সৃষ্ট বর্গাকৃতির চাকতির একটি কর্ণের সাপেক্ষে এর জড়িত আকর্ষণ - $\\frac{{Ma^2}}{{12}}$.\n**Tags:** [সেল]\n\n## Q31\n**Type:** mcq\n**Stem:** রেলপথ থেকে বেঁচে গেছে, সেখানে বাঁকে বাইরের দিকের লাইনটিকে একটি উচ্চ করা হয়। কৌণ বলের যোগান দিতে এটি করা হয়ে থাকে?\n(মেডিকেল ১৩-১৪)\n- a) কেন্দ্রীয়\n- b) ঘর্ষণ বল\n- c) মহাকর্ষ বল\n- d) তড়িৎ বল\n\n**Answer:** c\n**Solution:** রেলপথ থেকে বেঁচে গেছে, সেখানে বাঁকে বাইরের দিকের লাইনটিকে একটি উচ্চ করা হয়। কৌণ বলের যোগান দিতে এটি করা হয়ে থাকে মহাকর্ষ বল।\n**Tags:** [সেল]\n\n## Q32\n**Type:** mcq\n**Stem:** বল ও কণার প্রিমিয়াকালের গুলফকলকে কী বলে?\n[ভোল্ডেন ১৮-১৯; বি.বি. ১৬: ম.বি. ১৮]\n- a) ঘাত বল\n- b) কাজ\n- c) বলের ঘাত\n- d) টর্ক\n\n**Answer:** c\n**Solution:** বল ও কণার প্রিমিয়াকালের গুলফকলকে বলে বলের ঘাত।\n**Tags:** [তপন]\n\n---\n\n### BOARD TAGS:\n- শহরতলি তথ্যপত্র\n- আমির হোসেন",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": null,
+          "content_markdown": "---",
+          "structured_data": {},
+          "id": "5e829ad7-06ad-592d-b921-d25f351856e2"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "পদার্থবিজ্ঞান ১ম পত্র",
+          "content_markdown": "##### BOARD TAGS:\n- শহরতলি তথ্যপত্র\n- আমির হোসেন",
+          "structured_data": {},
+          "id": "687ab013-5282-5f45-8551-20453054492e"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "পদার্থবিজ্ঞান ১ম পত্র",
+          "content_markdown": "##### SOLUTION TABLE:",
+          "structured_data": {},
+          "id": "68540bfa-198b-5871-ab53-d39b29ecb269"
+        },
+        {
+          "block_type": "table",
+          "title": "পদার্থবিজ্ঞান ১ম পত্র",
+          "content_markdown": "| Q | Answer |\n|---|--------|\n| 24.g | 25.g   |\n| 26.g | 27.k    |\n| 28.y | 29.g     |\n| 30.k | 31.k      |\n| 32.g | 33.k       |\n| 34.g | 35.g        |",
+          "structured_data": {
+            "headers": [
+              "Q",
+              "Answer"
+            ],
+            "rows": [
+              [
+                "24.g",
+                "25.g"
+              ],
+              [
+                "26.g",
+                "27.k"
+              ],
+              [
+                "28.y",
+                "29.g"
+              ],
+              [
+                "30.k",
+                "31.k"
+              ],
+              [
+                "32.g",
+                "33.k"
+              ],
+              [
+                "34.g",
+                "35.g"
+              ]
+            ]
+          },
+          "id": "6ba52550-2c59-5b41-b4aa-f2a90b5898b6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "পদার্থবিজ্ঞান ১ম পত্র",
+          "content_markdown": "---",
+          "structured_data": {},
+          "id": "1a3adbd6-0ba4-5848-8cc1-c4ec00225990"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q24",
+          "content_markdown": "কৌণ বল প্রোটিন ও নিউট্রিনকে একত্রে আবদ্ধ করে নিউক্লিয়াস তৈরি করে?",
+          "structured_data": {
+            "question_number": "24",
+            "subtype": "mcq",
+            "stem": "কৌণ বল প্রোটিন ও নিউট্রিনকে একত্রে আবদ্ধ করে নিউক্লিয়াস তৈরি করে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মহাকর্ষ বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তড়িৎ চুষ্কীয় বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সবল নিউক্লিয় বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "দূর্বল নিউক্লিয় বল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "g",
+            "solution_markdown": "গুণফলের ফলে কৌণ বল প্রোটিন ও নিউট্রিনকে একত্রে আবদ্ধ করে। অবশেষে এই তিনটি বল মিশে নিউক্লিয়াস তৈরি হয়।",
+            "tags_raw": "শহরতলি তথ্যপত্র",
+            "provenance": [
+              "শহরতলি তথ্যপত্র"
+            ]
+          },
+          "id": "750fbd82-5002-5d51-b881-be4a8eaaa643"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q25",
+          "content_markdown": "মৌলিক কণাসমূহের মধ্যে কৌণ বল ক্রিয়া করে?",
+          "structured_data": {
+            "question_number": "25",
+            "subtype": "mcq",
+            "stem": "মৌলিক কণাসমূহের মধ্যে কৌণ বল ক্রিয়া করে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মহাকর্ষ বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "তড়িৎ চৌম্বক বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সবল নিউক্লিয় বল",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "দূর্বল নিউক্লিয় বল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c",
+            "solution_markdown": "মৌলিক কণাসমূহের মধ্যে কৌণ বল ক্রিয়া করে। এই বলগুলি কণাসমূহকে একত্রে আবদ্ধ করে।",
+            "tags_raw": "শহরতলি তথ্যপত্র",
+            "provenance": [
+              "শহরতলি তথ্যপত্র"
+            ]
+          },
+          "id": "7ef7231c-430e-518c-8011-b1f210f5bf71"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q26",
+          "content_markdown": "কৌণ বলটি দূর্বলতম? (সি.বি.-১৩)",
+          "structured_data": {
+            "question_number": "26",
+            "subtype": "mcq",
+            "stem": "কৌণ বলটি দূর্বলতম? (সি.বি.-১৩)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সবল নিউক্লিয় বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "দূর্বল নিউক্লিয় বল",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "মহাকর্ষ বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "তড়িৎ চুষ্কীয় বল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b",
+            "solution_markdown": "কৌণ বলটি দূর্বলতম। এই বল কণাসমূহকে একত্রে আবদ্ধ করে কিন্তু তার ছাড়াও অন্য বলগুলির ভূমিকা রয়েছে।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "d55e69a1-bf10-57cb-9a13-7467028a12eb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q27",
+          "content_markdown": "মহাকর্ষ বল কার্যকর হয় যে কণার বিনিময়ের ফলে? (/স.বি.-১৫)",
+          "structured_data": {
+            "question_number": "27",
+            "subtype": "mcq",
+            "stem": "মহাকর্ষ বল কার্যকর হয় যে কণার বিনিময়ের ফলে? (/স.বি.-১৫)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "প্রতিটিন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "মেসন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ফোটন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "নিউটন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "k",
+            "solution_markdown": "মহাকর্ষ বল কার্যকর হয় যে কণার বিনিময়ের ফলে। এই বল কণাসমূহকে একত্রে আবদ্ধ করে।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "55695266-277a-5584-abd8-5aebc4313213"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q28",
+          "content_markdown": "আপবিক গঠনের জন্য দায়ী বল কোনটি? (দি.বি.-১৫)",
+          "structured_data": {
+            "question_number": "28",
+            "subtype": "mcq",
+            "stem": "আপবিক গঠনের জন্য দায়ী বল কোনটি? (দি.বি.-১৫)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "মহাকর্ষ বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "দূর্বল নিউক্লিয় বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সবল নিউক্লিয় বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "তড়িৎচৌম্বক বল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "g",
+            "solution_markdown": "আপবিক গঠনের জন্য দায়ী বল সবল নিউক্লিয় বল। এই বল কণাসমূহকে একত্রে আবদ্ধ করে।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "369bc9a3-cad5-537d-ac41-ff1d31b8ee37"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q29",
+          "content_markdown": "খুব অল্প সময়ের জন্য বড় মানের বল প্রযুক্ত হলে তাকে বলে-\n(বি.বি. ২০১১)",
+          "structured_data": {
+            "question_number": "29",
+            "subtype": "mcq",
+            "stem": "খুব অল্প সময়ের জন্য বড় মানের বল প্রযুক্ত হলে তাকে বলে-\n(বি.বি. ২০১১)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সংশক্ত বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ঘূর্ণন বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "তড়িৎ বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ঘাত বল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "h",
+            "solution_markdown": "খুব অল্প সময়ের জন্য বড় মানের বল প্রযুক্ত হলে তাকে বলে ঘাত বল। এই বল কণাসমূহকে একত্রে আবদ্ধ করে।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "4e2fd1bd-d0cd-5d9f-a6fc-e65482dd4fb1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q30",
+          "content_markdown": "'M' ভর এবং 'a' প্রতিবিশিষ্ট সৃষ্ট বর্গাকৃতির চাকতির একটি কর্ণের সাপেক্ষে এর জড়িত আকর্ষণ -\n(f.বি. ১১-১৮)",
+          "structured_data": {
+            "question_number": "30",
+            "subtype": "mcq",
+            "stem": "'M' ভর এবং 'a' প্রতিবিশিষ্ট সৃষ্ট বর্গাকৃতির চাকতির একটি কর্ণের সাপেক্ষে এর জড়িত আকর্ষণ -\n(f.বি. ১১-১৮)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{{Ma^2}}{3}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{{Ma^2}}{6}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{{Ma^2}}{9}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\frac{{Ma^2}}{{12}}$",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d",
+            "solution_markdown": "'M' ভর এবং 'a' প্রতিবিশিষ্ট সৃষ্ট বর্গাকৃতির চাকতির একটি কর্ণের সাপেক্ষে এর জড়িত আকর্ষণ - $\\frac{{Ma^2}}{{12}}$.",
+            "tags_raw": "[সেল]",
+            "provenance": [
+              "[সেল]"
+            ]
+          },
+          "id": "e6876e9d-6f95-5076-b17d-5a4d44eef0ff"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q31",
+          "content_markdown": "রেলপথ থেকে বেঁচে গেছে, সেখানে বাঁকে বাইরের দিকের লাইনটিকে একটি উচ্চ করা হয়। কৌণ বলের যোগান দিতে এটি করা হয়ে থাকে?\n(মেডিকেল ১৩-১৪)",
+          "structured_data": {
+            "question_number": "31",
+            "subtype": "mcq",
+            "stem": "রেলপথ থেকে বেঁচে গেছে, সেখানে বাঁকে বাইরের দিকের লাইনটিকে একটি উচ্চ করা হয়। কৌণ বলের যোগান দিতে এটি করা হয়ে থাকে?\n(মেডিকেল ১৩-১৪)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কেন্দ্রীয়",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ঘর্ষণ বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "মহাকর্ষ বল",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "তড়িৎ বল",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c",
+            "solution_markdown": "রেলপথ থেকে বেঁচে গেছে, সেখানে বাঁকে বাইরের দিকের লাইনটিকে একটি উচ্চ করা হয়। কৌণ বলের যোগান দিতে এটি করা হয়ে থাকে মহাকর্ষ বল।",
+            "tags_raw": "[সেল]",
+            "provenance": [
+              "[সেল]"
+            ]
+          },
+          "id": "4468e780-969e-59ba-81f4-e2a6b381a068"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q32",
+          "content_markdown": "বল ও কণার প্রিমিয়াকালের গুলফকলকে কী বলে?\n[ভোল্ডেন ১৮-১৯; বি.বি. ১৬: ম.বি. ১৮]",
+          "structured_data": {
+            "question_number": "32",
+            "subtype": "mcq",
+            "stem": "বল ও কণার প্রিমিয়াকালের গুলফকলকে কী বলে?\n[ভোল্ডেন ১৮-১৯; বি.বি. ১৬: ম.বি. ১৮]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ঘাত বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কাজ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বলের ঘাত",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "টর্ক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c",
+            "solution_markdown": "বল ও কণার প্রিমিয়াকালের গুলফকলকে বলে বলের ঘাত।",
+            "tags_raw": "[তপন]  ---  ### BOARD TAGS: - শহরতলি তথ্যপত্র - আমির হোসেন",
+            "provenance": [
+              "[তপন]  ---  ### BOARD TAGS: - শহরতলি তথ্যপত্র - আমির হোসেন"
+            ]
+          },
+          "id": "b800f209-27db-5640-8f51-5f1401789fa5"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 14,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 56.5,
+        "eval_count": 2687
+      }
+    },
+    {
+      "page_number": 3,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [
+        "নিউটনিয়ান বলবিদ্যা"
+      ],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান ১ম পত্র\n\n---\n\n## Q86\n**Type:** mcq\n**Stem:** একটি লিফট $1 \\,\\mathrm{ms^{-1}}$ ত্রুণে নিচে নামছে। লিফটের মধ্যে দাড়ানো একজন ব্যক্তির ভর 65 kg হলে তিনি যে বল অনুভব করবেন—\n- a) 350 N\n- b) 572 N\n- c) 250 N\n- d) কোনটিই নয়\n**Answer:** - b) 572 N\n**Solution:** লিফটের গতি শূন্য হলেই ব্যক্তির আর্থিক ও প্রতিক্রিয়া বল শূন্য হবে। তাছাড়াও ব্যক্তির ভর এবং লিফটের গতির সমতুল্য বল অনুভব করে। লিফটের গতি $1 \\,\\mathrm{ms^{-1}}$ হলে ব্যক্তির আর্থিক ও প্রতিক্রিয়া বল হবে:\n\n$$\nF = m g = 65 \\times 9.8 = 637 \\approx 572\n$$\n\nএবং এটি বড় হবে। তাই ঠিক বল হল 572N।\n**Tags:** SUST'19-20\n\n## Q87\n**Type:** mcq\n**Stem:** সমতুল্যগতি চলমান একটি গাড়ির ভরের আদিবেগের ৩ গুণ করলে গাড়িটি থামাতে পূর্বের কত গুণ দূরত্বের প্রয়োজন হবে?\n**Options:** \n- a) $\\frac{1}{9}$\n- b) $\\frac{1}{3}$\n- c) 3\n- d) 9\n**Answer:** - c) 3\n**Solution:** গাড়িটির আদিবেগ দ্বিগুণ হলে তার প্রতিক্রিয়া বল দ্বিগুণ হবে। তাই গতি শূন্য হওয়ার জন্য দূরত্ব দ্বিগুণ হবে। তাই দূরত্ব তিনগুণ হবে।\n**Tags:** শহজাহান তথ্য\n\n## Q88\n**Type:** mcq\n**Stem:** 16 kg ভরের একটি খিলান ওপর 4s বাষ্পি 8 N বল প্রযুক্ত হলে। উত্তর কষ্টের পরিবর্তন হবে-\n- a) 0.5 ms⁻¹\n- b) 2.0 ms⁻¹\n- c) 4.0 ms⁻¹\n- d) 8.0 ms⁻¹\n**Answer:** - b) 2.0 ms⁻¹\n**Solution:** খিলানের গতি পরিবর্তিত হবে $a=\\frac{\\Delta v}{t}$। তাই পরিবর্তন হবে $v_{f}-v_{i}=at=(8/4)\\cdot(4)=2\\times4=8$. তাই পরিবর্তন হবে 2.0 ms⁻¹।\n**Tags:** শহজাহান তথ্য\n\n## Q89\n**Type:** mcq\n**Stem:** এক নিউটন বল সমান কত ডাইন?\n- a) $10^3$ dyne\n- b) $10^4$ dyne\n- c) $10^5$ dyne\n- d) $10^6$ dyne\n**Answer:** - b) $10^4$ dyne\n**Solution:** নিউটনের সমান ডাইন হল $10^{5}$. তাই এটি $10^4$ dyne।\n**Tags:** শহজাহান তথ্য\n\n## Q90\n**Type:** mcq\n**Stem:** ক্রিয়া–প্রতিক্রিয়ার মধ্যে কোণ কত?\n- a) 0°\n- b) 90°\n- c) 180°\n- d) 360°\n**Answer:** - b) 90°\n**Solution:** ক্রিয়া–প্রতিক্রিয়ার মধ্যে কোণ 90° হয়।\n**Tags:** শহজাহান তথ্য\n\n## Q91\n**Type:** mcq\n**Stem:** সমান ভরের দুটি বস্তুর মধ্যে ঘটিত্রাণক সংরক্ষণ হলে নিচের কোনটি সত্যি? এখনে 1ম বস্তুর আদি ও শেষবেগ u₁ এবং V₁ এবং 2য় বস্তুর আদি ও শেষবেগ u₂ এবং V₂।\n- a) u₁ = v₂\n- b) u₁ = u₂\n- c) u₂ = v₂\n- d) আলাদা আলাদা\n**Answer:** - c) u₂ = v₂\n**Solution:** সমান ভরের বস্তুর ঘটিত্রাণক সংরক্ষণ হলে বস্তুর আদি ও শেষবেগ সমান। তাই এটি u₂ = v₂।\n**Tags:** শহজাহান তথ্য\n\n## Q92\n**Type:** mcq\n**Stem:** নিউটনের প্রথম সৃষ্টানুসারে কোনটি সত্যি?\n- a) আদিবেগ শূন্য হলে শেষ বেগ শূন্য হবে\n- b) যেকোনো আদিবেগের জন্য শেষ বেগ শূন্য হবে\n- c) ক্রিয়া প্রতিক্রিয়া সার্দা সমান ও বিপরীত\n- d) বস্তুর তরঙ্গের পরিবর্তনের হার প্রতু বলের সমানুপাতিক\n**Answer:** - c) ক্রিয়া = প্রতিক্রিয়া\n**Solution:** নিউটনের প্রথম সৃষ্টানুসারে, ক্রিয়া প্রতিক্রিয়া সার্দা সমান ও বিপরীত।\n**Tags:** শহজাহান তথ্য\n\n## Q93\n**Type:** mcq\n**Stem:** 10 kg ভরের বস্তুর উপর প্রযুক্ত বল 20N ও ঘর্ষণ বল 5N হলে বস্তুটির ত্রুণ কত হবে?\n- a) 2m/s²\n- b) 1.5m/s²\n- c) 1.25m/s²\n- d) 1.08m/s²\n**Answer:** - c) 1.25m/s²\n**Solution:** বস্তুটির ত্রুণ হবে: $a = \\frac{(F_g + F_c)}{m} = \\frac{(20+5)}{10} = \\frac{25}{10} = 2.5\\text{m/s}^2$\n**Tags:** শহজাহান তথ্য\n\n## Q94\n**Type:** mcq\n**Stem:** নিউটনের গতির তৃতীয় সৃষ্টানুসারে, ক্রিয়া ও প্রতিক্রিয়ার সম্পর্ক কীভাবে?\n- a) ক্রিয়া > প্রতিক্রিয়া\n- b) প্রতিক্রিয়া > ক্রিয়া\n- c) ক্রিয়া = প্রতিক্রিয়া\n- d) ক্রিয়া ≥ প্রতিক্রিয়া (শহজাহান তথ্য)\n**Answer:** - c) ক্রিয়া = প্রতিক্রিয়া\n**Solution:** নিউটনের গতির তৃতীয় সৃষ্টানুসারে, ক্রিয়া ও প্রতিক্রিয়া সমান ও বিপরীত।\n**Tags:** শহজাহান তথ্য\n\n## Q95\n**Type:** mcq\n**Stem:** সাতার ফটার ভিত্তি হলে নিউটনের—\n- a) 1 সূচক\n- b) 2 সূচক\n- c) 3 সূচক\n- d) 8 ধর্ম সূচক\n**Answer:** - c) 3 সূচক\n**Solution:** সাতার ফটার ভিত্তি হলে নিউটনের 3 সূচক।\n**Tags:** শহজাহান তথ্য\n\n## Q96\n**Type:** mcq\n**Stem:** 3kg ও 5kg ভরের বস্তুগুলি 30kgs^{-1} ও 50kgs^{-1} ভরবেগ নিয়ে একই দিকে চলছে। নিচের কোনটি সত্যি?\n- a) সংখ্যকের পর তারা একই দিকে চলে\n- b) সংখ্যকের পর তারা বিপরীত দিকে চলে\n- c) সংখ্যকের পর তারা ছির হয়ে যাবে\n- d) তাদের মধ্যে কোনো সংখ্যা থাকে না\n**Answer:** - a) সংখ্যকের পর তারা একই দিকে চলে\n**Solution:** সংখ্যকের পর তারা একই দিকে চলে।\n**Tags:** শহজাহান তথ্য\n\n---\n\n### SECTION: অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "পদার্থবিজ্ঞান ১ম পত্র",
+          "content_markdown": "---",
+          "structured_data": {},
+          "id": "31141663-9194-599b-8544-13aafaf02352"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q86",
+          "content_markdown": "একটি লিফট $1 \\,\\mathrm{ms^{-1}}$ ত্রুণে নিচে নামছে। লিফটের মধ্যে দাড়ানো একজন ব্যক্তির ভর 65 kg হলে তিনি যে বল অনুভব করবেন—",
+          "structured_data": {
+            "question_number": "86",
+            "subtype": "mcq",
+            "stem": "একটি লিফট $1 \\,\\mathrm{ms^{-1}}$ ত্রুণে নিচে নামছে। লিফটের মধ্যে দাড়ানো একজন ব্যক্তির ভর 65 kg হলে তিনি যে বল অনুভব করবেন—",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "350 N",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "572 N",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "250 N",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোনটিই নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) 572 N",
+            "solution_markdown": "লিফটের গতি শূন্য হলেই ব্যক্তির আর্থিক ও প্রতিক্রিয়া বল শূন্য হবে। তাছাড়াও ব্যক্তির ভর এবং লিফটের গতির সমতুল্য বল অনুভব করে। লিফটের গতি $1 \\,\\mathrm{ms^{-1}}$ হলে ব্যক্তির আর্থিক ও প্রতিক্রিয়া বল হবে:\n\n$$\nF = m g = 65 \\times 9.8 = 637 \\approx 572\n$$\n\nএবং এটি বড় হবে। তাই ঠিক বল হল 572N।",
+            "tags_raw": "SUST'19-20",
+            "provenance": [
+              "SUST'19-20"
+            ]
+          },
+          "id": "d7457782-e8e3-5330-8d54-a264dc47ef28"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q87",
+          "content_markdown": "সমতুল্যগতি চলমান একটি গাড়ির ভরের আদিবেগের ৩ গুণ করলে গাড়িটি থামাতে পূর্বের কত গুণ দূরত্বের প্রয়োজন হবে?",
+          "structured_data": {
+            "question_number": "87",
+            "subtype": "mcq",
+            "stem": "সমতুল্যগতি চলমান একটি গাড়ির ভরের আদিবেগের ৩ গুণ করলে গাড়িটি থামাতে পূর্বের কত গুণ দূরত্বের প্রয়োজন হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{1}{9}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{1}{3}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "3",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "9",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) 3",
+            "solution_markdown": "গাড়িটির আদিবেগ দ্বিগুণ হলে তার প্রতিক্রিয়া বল দ্বিগুণ হবে। তাই গতি শূন্য হওয়ার জন্য দূরত্ব দ্বিগুণ হবে। তাই দূরত্ব তিনগুণ হবে।",
+            "tags_raw": "শহজাহান তথ্য",
+            "provenance": [
+              "শহজাহান তথ্য"
+            ]
+          },
+          "id": "df524ce8-ff23-5672-b8e4-1d3dbe4ec2b5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q88",
+          "content_markdown": "16 kg ভরের একটি খিলান ওপর 4s বাষ্পি 8 N বল প্রযুক্ত হলে। উত্তর কষ্টের পরিবর্তন হবে-",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "mcq",
+            "stem": "16 kg ভরের একটি খিলান ওপর 4s বাষ্পি 8 N বল প্রযুক্ত হলে। উত্তর কষ্টের পরিবর্তন হবে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "0.5 ms⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2.0 ms⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "4.0 ms⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "8.0 ms⁻¹",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) 2.0 ms⁻¹",
+            "solution_markdown": "খিলানের গতি পরিবর্তিত হবে $a=\\frac{\\Delta v}{t}$। তাই পরিবর্তন হবে $v_{f}-v_{i}=at=(8/4)\\cdot(4)=2\\times4=8$. তাই পরিবর্তন হবে 2.0 ms⁻¹।",
+            "tags_raw": "শহজাহান তথ্য",
+            "provenance": [
+              "শহজাহান তথ্য"
+            ]
+          },
+          "id": "3eae6fbc-9bfe-5a74-a071-ac66c251e958"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q89",
+          "content_markdown": "এক নিউটন বল সমান কত ডাইন?",
+          "structured_data": {
+            "question_number": "89",
+            "subtype": "mcq",
+            "stem": "এক নিউটন বল সমান কত ডাইন?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$10^3$ dyne",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$10^4$ dyne",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$10^5$ dyne",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$10^6$ dyne",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) $10^4$ dyne",
+            "solution_markdown": "নিউটনের সমান ডাইন হল $10^{5}$. তাই এটি $10^4$ dyne।",
+            "tags_raw": "শহজাহান তথ্য",
+            "provenance": [
+              "শহজাহান তথ্য"
+            ]
+          },
+          "id": "7a395767-c61d-5514-bcd8-f8a9bca90308"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q90",
+          "content_markdown": "ক্রিয়া–প্রতিক্রিয়ার মধ্যে কোণ কত?",
+          "structured_data": {
+            "question_number": "90",
+            "subtype": "mcq",
+            "stem": "ক্রিয়া–প্রতিক্রিয়ার মধ্যে কোণ কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "0°",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "90°",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "180°",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "360°",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b) 90°",
+            "solution_markdown": "ক্রিয়া–প্রতিক্রিয়ার মধ্যে কোণ 90° হয়।",
+            "tags_raw": "শহজাহান তথ্য",
+            "provenance": [
+              "শহজাহান তথ্য"
+            ]
+          },
+          "id": "2698dc12-8623-562f-bde1-4cfe810e4ac5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q91",
+          "content_markdown": "সমান ভরের দুটি বস্তুর মধ্যে ঘটিত্রাণক সংরক্ষণ হলে নিচের কোনটি সত্যি? এখনে 1ম বস্তুর আদি ও শেষবেগ u₁ এবং V₁ এবং 2য় বস্তুর আদি ও শেষবেগ u₂ এবং V₂।",
+          "structured_data": {
+            "question_number": "91",
+            "subtype": "mcq",
+            "stem": "সমান ভরের দুটি বস্তুর মধ্যে ঘটিত্রাণক সংরক্ষণ হলে নিচের কোনটি সত্যি? এখনে 1ম বস্তুর আদি ও শেষবেগ u₁ এবং V₁ এবং 2য় বস্তুর আদি ও শেষবেগ u₂ এবং V₂।",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "u₁ = v₂",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "u₁ = u₂",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "u₂ = v₂",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "আলাদা আলাদা",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) u₂ = v₂",
+            "solution_markdown": "সমান ভরের বস্তুর ঘটিত্রাণক সংরক্ষণ হলে বস্তুর আদি ও শেষবেগ সমান। তাই এটি u₂ = v₂।",
+            "tags_raw": "শহজাহান তথ্য",
+            "provenance": [
+              "শহজাহান তথ্য"
+            ]
+          },
+          "id": "e0fc0f92-c804-5ae2-8f1a-5bcba806f1bb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q92",
+          "content_markdown": "নিউটনের প্রথম সৃষ্টানুসারে কোনটি সত্যি?",
+          "structured_data": {
+            "question_number": "92",
+            "subtype": "mcq",
+            "stem": "নিউটনের প্রথম সৃষ্টানুসারে কোনটি সত্যি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "আদিবেগ শূন্য হলে শেষ বেগ শূন্য হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "যেকোনো আদিবেগের জন্য শেষ বেগ শূন্য হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ক্রিয়া প্রতিক্রিয়া সার্দা সমান ও বিপরীত",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "বস্তুর তরঙ্গের পরিবর্তনের হার প্রতু বলের সমানুপাতিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) ক্রিয়া = প্রতিক্রিয়া",
+            "solution_markdown": "নিউটনের প্রথম সৃষ্টানুসারে, ক্রিয়া প্রতিক্রিয়া সার্দা সমান ও বিপরীত।",
+            "tags_raw": "শহজাহান তথ্য",
+            "provenance": [
+              "শহজাহান তথ্য"
+            ]
+          },
+          "id": "54d00fdd-179f-51d6-9e51-c1f8a57161c5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q93",
+          "content_markdown": "10 kg ভরের বস্তুর উপর প্রযুক্ত বল 20N ও ঘর্ষণ বল 5N হলে বস্তুটির ত্রুণ কত হবে?",
+          "structured_data": {
+            "question_number": "93",
+            "subtype": "mcq",
+            "stem": "10 kg ভরের বস্তুর উপর প্রযুক্ত বল 20N ও ঘর্ষণ বল 5N হলে বস্তুটির ত্রুণ কত হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "2m/s²",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "1.5m/s²",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "1.25m/s²",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "1.08m/s²",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) 1.25m/s²",
+            "solution_markdown": "বস্তুটির ত্রুণ হবে: $a = \\frac{(F_g + F_c)}{m} = \\frac{(20+5)}{10} = \\frac{25}{10} = 2.5\\text{m/s}^2$",
+            "tags_raw": "শহজাহান তথ্য",
+            "provenance": [
+              "শহজাহান তথ্য"
+            ]
+          },
+          "id": "65f74aad-8f43-50b7-a7e5-d919f6807e18"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q94",
+          "content_markdown": "নিউটনের গতির তৃতীয় সৃষ্টানুসারে, ক্রিয়া ও প্রতিক্রিয়ার সম্পর্ক কীভাবে?",
+          "structured_data": {
+            "question_number": "94",
+            "subtype": "mcq",
+            "stem": "নিউটনের গতির তৃতীয় সৃষ্টানুসারে, ক্রিয়া ও প্রতিক্রিয়ার সম্পর্ক কীভাবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ক্রিয়া > প্রতিক্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "প্রতিক্রিয়া > ক্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ক্রিয়া = প্রতিক্রিয়া",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ক্রিয়া ≥ প্রতিক্রিয়া (শহজাহান তথ্য)",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) ক্রিয়া = প্রতিক্রিয়া",
+            "solution_markdown": "নিউটনের গতির তৃতীয় সৃষ্টানুসারে, ক্রিয়া ও প্রতিক্রিয়া সমান ও বিপরীত।",
+            "tags_raw": "শহজাহান তথ্য",
+            "provenance": [
+              "শহজাহান তথ্য"
+            ]
+          },
+          "id": "7748f210-5031-565c-ba3a-88940e6988b3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q95",
+          "content_markdown": "সাতার ফটার ভিত্তি হলে নিউটনের—",
+          "structured_data": {
+            "question_number": "95",
+            "subtype": "mcq",
+            "stem": "সাতার ফটার ভিত্তি হলে নিউটনের—",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1 সূচক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2 সূচক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "3 সূচক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "8 ধর্ম সূচক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c) 3 সূচক",
+            "solution_markdown": "সাতার ফটার ভিত্তি হলে নিউটনের 3 সূচক।",
+            "tags_raw": "শহজাহান তথ্য",
+            "provenance": [
+              "শহজাহান তথ্য"
+            ]
+          },
+          "id": "3ff829a8-9b8a-53a5-8100-e5999bc9b65f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q96",
+          "content_markdown": "3kg ও 5kg ভরের বস্তুগুলি 30kgs^{-1} ও 50kgs^{-1} ভরবেগ নিয়ে একই দিকে চলছে। নিচের কোনটি সত্যি?",
+          "structured_data": {
+            "question_number": "96",
+            "subtype": "mcq",
+            "stem": "3kg ও 5kg ভরের বস্তুগুলি 30kgs^{-1} ও 50kgs^{-1} ভরবেগ নিয়ে একই দিকে চলছে। নিচের কোনটি সত্যি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "সংখ্যকের পর তারা একই দিকে চলে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "সংখ্যকের পর তারা বিপরীত দিকে চলে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "সংখ্যকের পর তারা ছির হয়ে যাবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "তাদের মধ্যে কোনো সংখ্যা থাকে না",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a) সংখ্যকের পর তারা একই দিকে চলে",
+            "solution_markdown": "সংখ্যকের পর তারা একই দিকে চলে।",
+            "tags_raw": "শহজাহান তথ্য  ---  ### SECTION: অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান",
+            "provenance": [
+              "শহজাহান তথ্য  ---  ### SECTION: অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান"
+            ]
+          },
+          "id": "73e98203-63c7-556e-b73d-dd420426bd29"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 12,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc6",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 65.53,
+        "eval_count": 3415
+      }
+    },
+    {
+      "page_number": 4,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Folder metadata (context only - NEVER transcribe into text or **Tags:**):\nঅনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান |\n\n---\n\n## Q66\n**Type:** mcq\n**Stem:** 4N বল একটি বস্তুর ওপর 1 sec যাদু ক্রিয়া করলে ভরবেগের পরিবর্তন কত?\n[সকল বোর্ড 2018]\n**Options:** \n- a) $2 \\mathrm{kgs}^{-1}$  \n- b) $4 \\mathrm{kgs}^{-1}$  \n- c) $8 \\mathrm{kgs}^{-1}$  \n- d) $16 \\mathrm{kgs}^{-1}$  \n\n**Answer:** a)\n\n**Solution:** Ft = mΔv\n\n**Tags:** আমির হোসেন\n\n---\n\n## Q67\n**Type:** mcq\n**Stem:** 20 m উচুতে একটি বল ফেলে দেয়া হলো। নিচে বালির মধ্যে 1 m ঢুকে গেলে। এক্ষেত্রে-\n**Options:** \n- a) কেবলমাত্র ভরবেগ সংরক্ষিত থাকবে  \n- b) কেবলমাত্র গতিশক্তি সংরক্ষিত থাকবে  \n- c) ভরবেগ ও গতিশক্তি উভয়ই সংরক্ষিত থাকবে  \n- d) ভরবেগ ও গতিশক্তি কোনওটাই সংরক্ষিত থাকবে না  \n\n**Answer:** c)\n\n**Solution:** কেবলমাত্র ভরবেগ ও গতিশক্তি উভয়ই সংরক্ষিত থাকবে।\n\n**Tags:** আমির হোসেন\n\n---\n\n## Q68\n**Type:** mcq\n**Stem:** একটি বস্তুর ওপর 5 N বল 10s ক্রিয়া করে। ভরবেগের পরিবর্তন কী? [স.বি. ২০১৮-১৭, জ.বি. ২০১৬-১৭]  \n**Options:** \n- a) $50 \\mathrm{kgms}^{-2}$  \n- b) $50 \\mathrm{kgms}^{-1}$  \n- c) $25 \\mathrm{kgms}^{-1}$  \n- d) $25 \\mathrm{kgm}^{2}$  \n\n**Answer:** c)\n\n**Solution:** Ft = mΔV\n\n**Tags:** আমির হোসেন\n\n---\n\n## Q69\n**Type:** mcq\n**Stem:** বলের ঘাতের সাথে কৌণ রাশিটির সাংখ্যিক মান সমান? [স.বি. ২০১৯]  \n**Options:** \n- a) কৌণিক ভরবেগের পরিবর্তন  \n- b) রৈখিক ভরবেগের পরিবর্তন  \n- c) জড়িতার ভ্রাঙ্ক  \n- d) টর্ক  \n\n**Answer:** d)\n\n**Solution:** বলের ঘাতের সাথে টর্ক রাশিটির সাংখ্যিক মান সমান।\n\n**Tags:** শহজাহান তপন, আমির হোসেন\n\n---\n\n## Q70\n**Type:** mcq\n**Stem:** 2 ms⁻² ত্রুটে ওপরে উঠতে একটি লোহি দাঁড়ানোর ফলে উর্ধ্বমুখী বল 1180 N হলে লোকটির ভর হবে—  \n**Options:** \n- a) 50 kg  \n- b) 100 kg  \n- c) 60 kg  \n- d) কোনটিই নয়  \n\n**Answer:** b)\n\n**Solution:** F = ma \n\n**Tags:** শহজাহান তপন\n\n---\n\n## Q71\n**Type:** mcq\n**Stem:** ছির অবস্থায় থাকা একটি বস্তু বিক্ষেপিত হয়ে m₁ ও m₂ ভরের দুটি বস্তুতে পরিণত হয়ে যথাক্রমে v₁ ও v₂ বেগে বিপরীত দিকে চলমান। $\\frac{\\mathbf{v}_{1}}{\\mathbf{v}_{2}}$ এর অনুপাত কত? [স.বি. ২০১৮-২০, জ.বি. ২০১২-১৩]  \n**Options:** \n- a) $\\frac{\\mathbf{m}_{1}}{\\mathbf{m}_{2}}$  \n- b) $\\frac{\\mathbf{m}_{2}}{\\mathbf{m}_{1}}$  \n- c) $-\\frac{\\mathbf{m}_{2}}{\\mathbf{m}_{1}}$  \n- d) $\\sqrt{\\frac{\\mathbf{m}_{2}}{\\mathbf{m}_{1}}}$  \n\n**Answer:** d)\n\n**Solution:** বেগের অনুপাত বলের অনুপাতের সঙ্গে পরিবর্তিত হয়।\n\n**Tags:** শহজাহান তপন\n\n---\n\n## Q72\n**Type:** mcq\n**Stem:** বলের ঘাতের একটি নিচের কৌণ রাশির এককের অনুরূপ?  \n**Options:** \n- a) বল  \n- b) ভরবেগ  \n- c) কাজ  \n- d) টর্ক  \n\n**Answer:** c)\n\n**Solution:** কাজ রাশির একক হল জোড়া কৌণ।\n\n**Tags:** শহজাহান তপন\n\n---\n\n## Q73\n**Type:** mcq\n**Stem:** সমাজয়নের একটি লোহি গোলকে ও একটি টেনিস বলের ভরবেগ সমান হলে নিচের কৌণটি সত্য?  \n**Options:** \n- a) লোহি গোলকের গতিশক্তি বেশি  \n- b) টেনিস বলের গতিশক্তি বেশি  \n- c) উভয়ের গতিশক্তি সমান  \n- d) গতিশক্তির উপর ভরবেগের প্রভাব নেই  \n\n**Answer:** c)\n\n**Solution:** গতিশক্তি ভর ও বেগের গুণফল।\n\n**Tags:** শহজাহান তপন\n\n---\n\n## Q74\n**Type:** mcq\n**Stem:** ঘড়ির ঘন্টার কাটার কৌণিক রেগ কত?  \n**Options:** \n- a) π/30rad/s  \n- b) π/30rad/min  \n- g) π/360rad/min  \n- h) π/720rad/min  \n\n**Answer:** f)\n\n**Solution:** ঘড়ির ঘন্টার কাটার কৌণিক রেগ হল π/30 rad/s.\n\n**Tags:** শহজাহান তপন\n\n---\n\n## Q75\n**Type:** mcq\n**Stem:** কোনো বস্তুর জড়িতার আমক নির্দেশ করে কীসের উপর?  \n**Options:** \n- a) ভর ও ঘূর্ণন অক্ষের উপর  \n- b) আয়তন  \n- g) কৌণিক ভরবেগ  \n- h) কৌণিক বেগ  \n\n**Answer:** k)\n\n**Solution:** জড়িতার আমক নির্দেশ করে কৌণিক ভরবেগ অক্ষের উপর।\n\n**Tags:** শহজাহান তপন, আমির হোসেন\n\n---\n\n## Q76\n**Type:** mcq\n**Stem:** 2kg এবং 5kg ভরের দুটি বস্তুর গতিশক্তি সমান। 2kg ভরের বস্তুটির ভরবেগের সাথে 5kg ভরের বস্তুটির ভরবেগের অনুপাত কত?  \n**Options:** \n- a) $\\sqrt{\\frac{2}{5}}$  \n- b) $\\sqrt{\\frac{5}{2}}$  \n- c) $\\frac{2}{5}$  \n- d) $\\frac{5}{2}$  \n\n**Answer:** b)\n\n**Solution:** গতিশক্তি ভর ও বেগের গুণফল।\n\n**Tags:** আদি আসপার\n\n---\n\n## Q77\n**Type:** mcq\n**Stem:** নিচের কৌণটি ভর ও বেগের গুণফল?  \n**Options:** \n- a) তৃণ  \n- b) বল  \n- c) ভরবেগ  \n- d) কৌণিক ভরবেগ  \n\n**Answer:** d)\n\n**Solution:** কৌণিক ভরবেগ ভর ও বেগের গুণফল।\n\n**Tags:** আদি আসপার\n\n---\n\n## Q78\n**Type:** mcq\n**Stem:** যদি একটি বস্তুর বেগ অর্ধেক হারায়, বস্তুটির ভরবেগ কী রূপ হবে?  \n**Options:** \n- a) অর্ধেক হবে  \n- b) দ্বিগুণ হবে  \n- c) এক-চতুর্থাংশ হবে  \n- d) সমান হবে  \n\n**Answer:** b)\n\n**Solution:** ভরবেগ বেগের দ্বিগুণ।\n\n**Tags:** আদি আসপার\n\n---\n\n## Q79\n**Type:** mcq\n**Stem:** জড়িতার আমকের একক-- (মেডিসিনে ০৫-০৬)  \n**Options:** \n- a) $\\mathrm{k} \\cdot \\mathrm{gms}^{-2}$  \n- b) $\\mathrm{k} \\cdot \\mathrm{gm}$  \n- c) $\\mathrm{k} \\cdot \\mathrm{gms}^{-1}$  \n- d) $\\mathrm{k} \\cdot \\mathrm{gms}^{2}$  \n\n**Answer:** a)\n\n**Solution:** জড়িতার আমকের একক হল ক্লাডিন ক্লাডিন।\n\n**Tags:** আমির হোসেন\n\n---\n\n## Q80\n**Type:** mcq\n**Stem:** কোনো বস্তুর জড়িতার আমক নির্দেশ করে কীসের উপর? / স.বো. ২০১৬; সি.বো. ২০১৬/  \n**Options:** \n- a) ভর ও ঘূর্ণন অক্ষের উপর  \n- b) আয়তন  \n- c) কৌণিক বেগের ওপর  \n- d) কৌণিক ভরবেগের ওপর  \n\n**Answer:** c)\n\n**Solution:** জড়িতার আমক নির্দেশ করে কৌণিক বেগের ওপর।\n\n**Tags:** আমির হোসেন\n\n---\n\n## Q81\n**Type:** mcq\n**Stem:** M ভরের এবং R ব্যাসার্ধের একটি চাকিটি তার কেন্দ্র দিয়ে লম্বভাবে গমনকারী কোনো অক্ষের সাপেক্ষে মুছেছে। চাকিটির জড়িতার আমক কত? / স.বো. ২০১৬/  \n**Options:** \n- a) $\\frac{\\mathbf{M}\\mathbf{R}^2}{\\mathbf{2}}$  \n- b) MR²  \n- p) $\\frac{3}{2}MR^2$  \n- q) $2MR^2$\n\n**Answer:** r)\n\n**Solution:** জড়িতার আমক নির্দেশ করে কৌণিক বেগের ওপর।\n\n**Tags:** শহজাহান তপন, আমির হোসেন\n\n---\n\n## Q82\n**Type:** mcq\n**Stem:** বৃত্তীয় গতির ফেরে কৌণিক ভরবেগের রাশি কৌনটি? [স.বো. ২০১৬]  \n**Options:** \n- a) m$\\mathbf{r}\\omega$  \n- b) mr²ω  \n- g) m$\\mathbf{r}\\omega^2$  \n- h) m²$\\mathbf{r}\\omega$\n\n**Answer:** g)\n\n**Solution:** বৃত্তীয় গতির ফেরে কৌণিক ভরবেগের রাশি হল m$\\mathbf{r}\\omega$. \n\n**Tags:** আমির হোসেন, শহজাহান তপন\n\n---\n\n## Q83\n**Type:** mcq\n**Stem:** কৌণিক ভরবেগের মাত্রা সমিকরণ কৌনটি? [স.বি. ২০১৩]  \n**Options:** \n- a) MLT⁻¹  \n- b) MLT⁰  \n- c) MLT²T⁻¹  \n- d) MLT²T⁻²\n\n**Answer:** d)\n\n**Solution:** কৌণিক ভরবেগের মাত্রা সমিকরণ হল MLT²T⁻².\n\n**Tags:** আমির হোসেন\n\n---\n\n## Q84\n**Type:** mcq\n**Stem:** m ভর ও r ব্যাসার্ধের বৃত্তাকার চাকিটির যেকোনো ব্যাসের সাপেক্ষে জড়িতার আমকের মান কৌনটি? [সকল বোর্ড ২০১৪]  \n**Options:** \n- a) $\\frac{3}{2}\\text{mr}^2$  \n- b) $\\text{mr}^2$  \n- g) $\\frac{1}{2}\\text{mr}^2$  \n- h) $\\frac{1}{4}\\text{mr}^2$\n\n**Answer:** f)\n\n**Solution:** জড়িতার আমকের মান হল $\\frac{1}{2}\\text{mr}^2$.\n\n**Tags:** আমির হোসেন\n\n---\n\n## Q85\n**Type:** mcq\n**Stem:** কৌণিক ভরবেগের একক কৌনটি? [স.বো. ২০১৫, স.বি. ১৮-১৯]  \n**Options:** \n- a) kgm²s⁻²  \n- b) kgms⁻²  \n- g) kgms⁻¹  \n- h) kgms²⁻¹\n\n**Answer:** b)\n\n**Solution:** কৌণিক ভরবেগের একক হল kgms⁻².\n\n**Tags:** শহজাহান তপন, আমির হোসেন\n\n---\n\n## Q86\n**Type:** mcq\n**Stem:** নিশ্চিত ভরের কোনো চাকিটির ব্যাসার্ধ অর্ধেক করা হলে কেন্দ্রমুখি অক্ষের সাপেক্ষে জড়িতার আমক কতগুলি হবে? [স.বো. ২০১৬]  \n**Options:** \n- a) এক-চতুর্থাংশ  \n- b) অর্ধেক  \n- g) ছিখওণ  \n- h) চারগুণ\n\n**Answer:** k)\n\n**Solution:** জড়িতার আমক নির্দেশ করে কৌণিক ভরবেগের ওপর।\n\n**Tags:** আদি আসপার\n\n---\n\n### Board Tags:\n- স.বি.\n- সি.বি.\n- স.বো.\n- জ.বি.",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "Folder metadata (context only - NEVER transcribe into text or **Tags:**):",
+          "content_markdown": "অনুশীলনী MCQ সমাধান | * ভার্সন সেপ্টেম্বর-২৩ | টপিকভিত্তিক সকল লেখকের অনুশীলনী প্রশ্ন | পদার্থবিজ্ঞান |",
+          "structured_data": {},
+          "id": "149feb96-a6fd-54b0-8246-07ccc43f3b46"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "Folder metadata (context only - NEVER transcribe into text or **Tags:**):",
+          "content_markdown": "---",
+          "structured_data": {},
+          "id": "5aabfaf1-71b2-55f3-a824-b075655b095b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q66",
+          "content_markdown": "4N বল একটি বস্তুর ওপর 1 sec যাদু ক্রিয়া করলে ভরবেগের পরিবর্তন কত?\n[সকল বোর্ড 2018]",
+          "structured_data": {
+            "question_number": "66",
+            "subtype": "mcq",
+            "stem": "4N বল একটি বস্তুর ওপর 1 sec যাদু ক্রিয়া করলে ভরবেগের পরিবর্তন কত?\n[সকল বোর্ড 2018]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$2 \\mathrm{kgs}^{-1}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "$4 \\mathrm{kgs}^{-1}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$8 \\mathrm{kgs}^{-1}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$16 \\mathrm{kgs}^{-1}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a)",
+            "solution_markdown": "Ft = mΔv",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "fe689968-6466-5baa-9537-798c1f735f6f"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q67",
+          "content_markdown": "20 m উচুতে একটি বল ফেলে দেয়া হলো। নিচে বালির মধ্যে 1 m ঢুকে গেলে। এক্ষেত্রে-",
+          "structured_data": {
+            "question_number": "67",
+            "subtype": "mcq",
+            "stem": "20 m উচুতে একটি বল ফেলে দেয়া হলো। নিচে বালির মধ্যে 1 m ঢুকে গেলে। এক্ষেত্রে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কেবলমাত্র ভরবেগ সংরক্ষিত থাকবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কেবলমাত্র গতিশক্তি সংরক্ষিত থাকবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ভরবেগ ও গতিশক্তি উভয়ই সংরক্ষিত থাকবে",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "ভরবেগ ও গতিশক্তি কোনওটাই সংরক্ষিত থাকবে না",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c)",
+            "solution_markdown": "কেবলমাত্র ভরবেগ ও গতিশক্তি উভয়ই সংরক্ষিত থাকবে।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "e9f0ab4b-f73a-5090-a11d-3a9c217dbe3b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q68",
+          "content_markdown": "একটি বস্তুর ওপর 5 N বল 10s ক্রিয়া করে। ভরবেগের পরিবর্তন কী? [স.বি. ২০১৮-১৭, জ.বি. ২০১৬-১৭]",
+          "structured_data": {
+            "question_number": "68",
+            "subtype": "mcq",
+            "stem": "একটি বস্তুর ওপর 5 N বল 10s ক্রিয়া করে। ভরবেগের পরিবর্তন কী? [স.বি. ২০১৮-১৭, জ.বি. ২০১৬-১৭]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$50 \\mathrm{kgms}^{-2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$50 \\mathrm{kgms}^{-1}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$25 \\mathrm{kgms}^{-1}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "$25 \\mathrm{kgm}^{2}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c)",
+            "solution_markdown": "Ft = mΔV",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "88bda5db-076a-5998-96bf-861b643d04a5"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q69",
+          "content_markdown": "বলের ঘাতের সাথে কৌণ রাশিটির সাংখ্যিক মান সমান? [স.বি. ২০১৯]",
+          "structured_data": {
+            "question_number": "69",
+            "subtype": "mcq",
+            "stem": "বলের ঘাতের সাথে কৌণ রাশিটির সাংখ্যিক মান সমান? [স.বি. ২০১৯]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কৌণিক ভরবেগের পরিবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "রৈখিক ভরবেগের পরিবর্তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "জড়িতার ভ্রাঙ্ক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "টর্ক",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d)",
+            "solution_markdown": "বলের ঘাতের সাথে টর্ক রাশিটির সাংখ্যিক মান সমান।",
+            "tags_raw": "শহজাহান তপন, আমির হোসেন",
+            "provenance": [
+              "শহজাহান তপন",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "5a3bbfca-7b40-5a7d-910e-0fd489a92269"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q70",
+          "content_markdown": "2 ms⁻² ত্রুটে ওপরে উঠতে একটি লোহি দাঁড়ানোর ফলে উর্ধ্বমুখী বল 1180 N হলে লোকটির ভর হবে—",
+          "structured_data": {
+            "question_number": "70",
+            "subtype": "mcq",
+            "stem": "2 ms⁻² ত্রুটে ওপরে উঠতে একটি লোহি দাঁড়ানোর ফলে উর্ধ্বমুখী বল 1180 N হলে লোকটির ভর হবে—",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "50 kg",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "100 kg",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "60 kg",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোনটিই নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b)",
+            "solution_markdown": "F = ma",
+            "tags_raw": "শহজাহান তপন",
+            "provenance": [
+              "শহজাহান তপন"
+            ]
+          },
+          "id": "4303d307-a5a5-5226-b042-f822d44a86b1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q71",
+          "content_markdown": "ছির অবস্থায় থাকা একটি বস্তু বিক্ষেপিত হয়ে m₁ ও m₂ ভরের দুটি বস্তুতে পরিণত হয়ে যথাক্রমে v₁ ও v₂ বেগে বিপরীত দিকে চলমান। $\\frac{\\mathbf{v}_{1}}{\\mathbf{v}_{2}}$ এর অনুপাত কত? [স.বি. ২০১৮-২০, জ.বি. ২০১২-১৩]",
+          "structured_data": {
+            "question_number": "71",
+            "subtype": "mcq",
+            "stem": "ছির অবস্থায় থাকা একটি বস্তু বিক্ষেপিত হয়ে m₁ ও m₂ ভরের দুটি বস্তুতে পরিণত হয়ে যথাক্রমে v₁ ও v₂ বেগে বিপরীত দিকে চলমান। $\\frac{\\mathbf{v}_{1}}{\\mathbf{v}_{2}}$ এর অনুপাত কত? [স.বি. ২০১৮-২০, জ.বি. ২০১২-১৩]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{\\mathbf{m}_{1}}{\\mathbf{m}_{2}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\frac{\\mathbf{m}_{2}}{\\mathbf{m}_{1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$-\\frac{\\mathbf{m}_{2}}{\\mathbf{m}_{1}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\sqrt{\\frac{\\mathbf{m}_{2}}{\\mathbf{m}_{1}}}$",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d)",
+            "solution_markdown": "বেগের অনুপাত বলের অনুপাতের সঙ্গে পরিবর্তিত হয়।",
+            "tags_raw": "শহজাহান তপন",
+            "provenance": [
+              "শহজাহান তপন"
+            ]
+          },
+          "id": "9ae405d3-ce5a-54db-9ffc-1a80b4a66d94"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q72",
+          "content_markdown": "বলের ঘাতের একটি নিচের কৌণ রাশির এককের অনুরূপ?",
+          "structured_data": {
+            "question_number": "72",
+            "subtype": "mcq",
+            "stem": "বলের ঘাতের একটি নিচের কৌণ রাশির এককের অনুরূপ?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ভরবেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কাজ",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "টর্ক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c)",
+            "solution_markdown": "কাজ রাশির একক হল জোড়া কৌণ।",
+            "tags_raw": "শহজাহান তপন",
+            "provenance": [
+              "শহজাহান তপন"
+            ]
+          },
+          "id": "7c0054ee-bb81-5e6f-858b-7dc2f88da7e1"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q73",
+          "content_markdown": "সমাজয়নের একটি লোহি গোলকে ও একটি টেনিস বলের ভরবেগ সমান হলে নিচের কৌণটি সত্য?",
+          "structured_data": {
+            "question_number": "73",
+            "subtype": "mcq",
+            "stem": "সমাজয়নের একটি লোহি গোলকে ও একটি টেনিস বলের ভরবেগ সমান হলে নিচের কৌণটি সত্য?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "লোহি গোলকের গতিশক্তি বেশি",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "টেনিস বলের গতিশক্তি বেশি",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "উভয়ের গতিশক্তি সমান",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "গতিশক্তির উপর ভরবেগের প্রভাব নেই",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c)",
+            "solution_markdown": "গতিশক্তি ভর ও বেগের গুণফল।",
+            "tags_raw": "শহজাহান তপন",
+            "provenance": [
+              "শহজাহান তপন"
+            ]
+          },
+          "id": "3e903657-740f-5816-93ea-9f20228b729d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q74",
+          "content_markdown": "ঘড়ির ঘন্টার কাটার কৌণিক রেগ কত?",
+          "structured_data": {
+            "question_number": "74",
+            "subtype": "mcq",
+            "stem": "ঘড়ির ঘন্টার কাটার কৌণিক রেগ কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "π/30rad/s",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "π/30rad/min",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "f)",
+            "solution_markdown": "ঘড়ির ঘন্টার কাটার কৌণিক রেগ হল π/30 rad/s.",
+            "tags_raw": "শহজাহান তপন",
+            "provenance": [
+              "শহজাহান তপন"
+            ]
+          },
+          "id": "9ef43bac-e2b4-5e77-8332-532735eed354"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q75",
+          "content_markdown": "কোনো বস্তুর জড়িতার আমক নির্দেশ করে কীসের উপর?",
+          "structured_data": {
+            "question_number": "75",
+            "subtype": "mcq",
+            "stem": "কোনো বস্তুর জড়িতার আমক নির্দেশ করে কীসের উপর?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ভর ও ঘূর্ণন অক্ষের উপর",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "আয়তন",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "k)",
+            "solution_markdown": "জড়িতার আমক নির্দেশ করে কৌণিক ভরবেগ অক্ষের উপর।",
+            "tags_raw": "শহজাহান তপন, আমির হোসেন",
+            "provenance": [
+              "শহজাহান তপন",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "9e725947-17ee-5640-834e-82f4c4bdd807"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q76",
+          "content_markdown": "2kg এবং 5kg ভরের দুটি বস্তুর গতিশক্তি সমান। 2kg ভরের বস্তুটির ভরবেগের সাথে 5kg ভরের বস্তুটির ভরবেগের অনুপাত কত?",
+          "structured_data": {
+            "question_number": "76",
+            "subtype": "mcq",
+            "stem": "2kg এবং 5kg ভরের দুটি বস্তুর গতিশক্তি সমান। 2kg ভরের বস্তুটির ভরবেগের সাথে 5kg ভরের বস্তুটির ভরবেগের অনুপাত কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\sqrt{\\frac{2}{5}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\sqrt{\\frac{5}{2}}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{2}{5}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\frac{5}{2}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b)",
+            "solution_markdown": "গতিশক্তি ভর ও বেগের গুণফল।",
+            "tags_raw": "আদি আসপার",
+            "provenance": [
+              "আদি আসপার"
+            ]
+          },
+          "id": "5c028d9b-9369-5992-b80f-9344baa1ebc3"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q77",
+          "content_markdown": "নিচের কৌণটি ভর ও বেগের গুণফল?",
+          "structured_data": {
+            "question_number": "77",
+            "subtype": "mcq",
+            "stem": "নিচের কৌণটি ভর ও বেগের গুণফল?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "তৃণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ভরবেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কৌণিক ভরবেগ",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d)",
+            "solution_markdown": "কৌণিক ভরবেগ ভর ও বেগের গুণফল।",
+            "tags_raw": "আদি আসপার",
+            "provenance": [
+              "আদি আসপার"
+            ]
+          },
+          "id": "167633cb-bac1-5ea5-9fcd-7155a6cf84e2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q78",
+          "content_markdown": "যদি একটি বস্তুর বেগ অর্ধেক হারায়, বস্তুটির ভরবেগ কী রূপ হবে?",
+          "structured_data": {
+            "question_number": "78",
+            "subtype": "mcq",
+            "stem": "যদি একটি বস্তুর বেগ অর্ধেক হারায়, বস্তুটির ভরবেগ কী রূপ হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "অর্ধেক হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "দ্বিগুণ হবে",
+                "is_correct": true
+              },
+              {
+                "key_original": "c",
+                "text": "এক-চতুর্থাংশ হবে",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "সমান হবে",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "b)",
+            "solution_markdown": "ভরবেগ বেগের দ্বিগুণ।",
+            "tags_raw": "আদি আসপার",
+            "provenance": [
+              "আদি আসপার"
+            ]
+          },
+          "id": "02a7778d-8497-5557-b9e2-92cbea6f41aa"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q79",
+          "content_markdown": "জড়িতার আমকের একক-- (মেডিসিনে ০৫-০৬)",
+          "structured_data": {
+            "question_number": "79",
+            "subtype": "mcq",
+            "stem": "জড়িতার আমকের একক-- (মেডিসিনে ০৫-০৬)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\mathrm{k} \\cdot \\mathrm{gms}^{-2}$",
+                "is_correct": true
+              },
+              {
+                "key_original": "b",
+                "text": "$\\mathrm{k} \\cdot \\mathrm{gm}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\mathrm{k} \\cdot \\mathrm{gms}^{-1}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\mathrm{k} \\cdot \\mathrm{gms}^{2}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "a)",
+            "solution_markdown": "জড়িতার আমকের একক হল ক্লাডিন ক্লাডিন।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "1b223261-2a50-585b-98fb-6f0f9625b665"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q80",
+          "content_markdown": "কোনো বস্তুর জড়িতার আমক নির্দেশ করে কীসের উপর? / স.বো. ২০১৬; সি.বো. ২০১৬/",
+          "structured_data": {
+            "question_number": "80",
+            "subtype": "mcq",
+            "stem": "কোনো বস্তুর জড়িতার আমক নির্দেশ করে কীসের উপর? / স.বো. ২০১৬; সি.বো. ২০১৬/",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ভর ও ঘূর্ণন অক্ষের উপর",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "আয়তন",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কৌণিক বেগের ওপর",
+                "is_correct": true
+              },
+              {
+                "key_original": "d",
+                "text": "কৌণিক ভরবেগের ওপর",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "c)",
+            "solution_markdown": "জড়িতার আমক নির্দেশ করে কৌণিক বেগের ওপর।",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "23aa8089-f0aa-52bf-a29d-90b021bd67e6"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q81",
+          "content_markdown": "M ভরের এবং R ব্যাসার্ধের একটি চাকিটি তার কেন্দ্র দিয়ে লম্বভাবে গমনকারী কোনো অক্ষের সাপেক্ষে মুছেছে। চাকিটির জড়িতার আমক কত? / স.বো. ২০১৬/",
+          "structured_data": {
+            "question_number": "81",
+            "subtype": "mcq",
+            "stem": "M ভরের এবং R ব্যাসার্ধের একটি চাকিটি তার কেন্দ্র দিয়ে লম্বভাবে গমনকারী কোনো অক্ষের সাপেক্ষে মুছেছে। চাকিটির জড়িতার আমক কত? / স.বো. ২০১৬/",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{\\mathbf{M}\\mathbf{R}^2}{\\mathbf{2}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "MR²",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "r)",
+            "solution_markdown": "জড়িতার আমক নির্দেশ করে কৌণিক বেগের ওপর।",
+            "tags_raw": "শহজাহান তপন, আমির হোসেন",
+            "provenance": [
+              "শহজাহান তপন",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "025692d4-3e30-5351-8ed8-4b1266fcbe19"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q82",
+          "content_markdown": "বৃত্তীয় গতির ফেরে কৌণিক ভরবেগের রাশি কৌনটি? [স.বো. ২০১৬]",
+          "structured_data": {
+            "question_number": "82",
+            "subtype": "mcq",
+            "stem": "বৃত্তীয় গতির ফেরে কৌণিক ভরবেগের রাশি কৌনটি? [স.বো. ২০১৬]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "m$\\mathbf{r}\\omega$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "mr²ω",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "g)",
+            "solution_markdown": "বৃত্তীয় গতির ফেরে কৌণিক ভরবেগের রাশি হল m$\\mathbf{r}\\omega$.",
+            "tags_raw": "আমির হোসেন, শহজাহান তপন",
+            "provenance": [
+              "আমির হোসেন",
+              "শহজাহান তপন"
+            ]
+          },
+          "id": "857c3369-56cb-530a-b313-b0fe2d246d47"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q83",
+          "content_markdown": "কৌণিক ভরবেগের মাত্রা সমিকরণ কৌনটি? [স.বি. ২০১৩]",
+          "structured_data": {
+            "question_number": "83",
+            "subtype": "mcq",
+            "stem": "কৌণিক ভরবেগের মাত্রা সমিকরণ কৌনটি? [স.বি. ২০১৩]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "MLT⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "MLT⁰",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "MLT²T⁻¹",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "MLT²T⁻²",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "d)",
+            "solution_markdown": "কৌণিক ভরবেগের মাত্রা সমিকরণ হল MLT²T⁻².",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "3610e10c-0a4d-5680-bf7e-84bd4327cf03"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q84",
+          "content_markdown": "m ভর ও r ব্যাসার্ধের বৃত্তাকার চাকিটির যেকোনো ব্যাসের সাপেক্ষে জড়িতার আমকের মান কৌনটি? [সকল বোর্ড ২০১৪]",
+          "structured_data": {
+            "question_number": "84",
+            "subtype": "mcq",
+            "stem": "m ভর ও r ব্যাসার্ধের বৃত্তাকার চাকিটির যেকোনো ব্যাসের সাপেক্ষে জড়িতার আমকের মান কৌনটি? [সকল বোর্ড ২০১৪]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{3}{2}\\text{mr}^2$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\text{mr}^2$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "f)",
+            "solution_markdown": "জড়িতার আমকের মান হল $\\frac{1}{2}\\text{mr}^2$.",
+            "tags_raw": "আমির হোসেন",
+            "provenance": [
+              "আমির হোসেন"
+            ]
+          },
+          "id": "02c66459-7c1f-524d-8b31-4df0ea443acf"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q85",
+          "content_markdown": "কৌণিক ভরবেগের একক কৌনটি? [স.বো. ২০১৫, স.বি. ১৮-১৯]",
+          "structured_data": {
+            "question_number": "85",
+            "subtype": "mcq",
+            "stem": "কৌণিক ভরবেগের একক কৌনটি? [স.বো. ২০১৫, স.বি. ১৮-১৯]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "kgm²s⁻²",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "kgms⁻²",
+                "is_correct": true
+              }
+            ],
+            "correct_answer": "b)",
+            "solution_markdown": "কৌণিক ভরবেগের একক হল kgms⁻².",
+            "tags_raw": "শহজাহান তপন, আমির হোসেন",
+            "provenance": [
+              "শহজাহান তপন",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "d01676a0-616d-57f6-97ea-e5b21837ed30"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q86",
+          "content_markdown": "নিশ্চিত ভরের কোনো চাকিটির ব্যাসার্ধ অর্ধেক করা হলে কেন্দ্রমুখি অক্ষের সাপেক্ষে জড়িতার আমক কতগুলি হবে? [স.বো. ২০১৬]",
+          "structured_data": {
+            "question_number": "86",
+            "subtype": "mcq",
+            "stem": "নিশ্চিত ভরের কোনো চাকিটির ব্যাসার্ধ অর্ধেক করা হলে কেন্দ্রমুখি অক্ষের সাপেক্ষে জড়িতার আমক কতগুলি হবে? [স.বো. ২০১৬]",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "এক-চতুর্থাংশ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অর্ধেক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "k)",
+            "solution_markdown": "জড়িতার আমক নির্দেশ করে কৌণিক ভরবেগের ওপর।",
+            "tags_raw": "আদি আসপার  ---  ### Board Tags: - স.বি. - সি.বি. - স.বো. - জ.বি.",
+            "provenance": [
+              "আদি আসপার  ---  ### Board Tags: - স.বি. - সি.বি. - স.বো. - জ.বি."
+            ]
+          },
+          "id": "112fd204-86d2-5b1c-bc26-95157c674402"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 23,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc7",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 136.72,
+        "eval_count": 5037
+      }
+    },
+    {
+      "page_number": 5,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### Q87\n**Type:** mcq\n**Stem:** কোণটি কৌণিক ডরবেগের সংরক্ষণ সূত্র?\n**Options:** \n- a) L = গ্রহবক\n- b) P = গ্রহবক\n- c) T = গ্রহবক\n- d) F = গ্রহবক\n\n**Answer:** - a)\n\n**Solution:** এই প্রশ্নের উত্তর হলো 'L = গ্রহবক'. \n\n**Tags:** শাহজাহান তথ্য, আমির হোসেন\n\n### Q88\n**Type:** mcq\n**Stem:** কৌণিক ডরবেগের পরিবর্তনের হার—(সি.বি. ২০১৮/১৫)\n**Options:** \n- a) বলের সমান\n- b) কৌণিক তুরণের সমান\n- c) টর্কের সমান\n- d) জড়িতার আমকের সমান\n\n**Answer:** - d)\n\n**Solution:** এই প্রশ্নের উত্তর হলো 'জড়িতার আমকের সমান'.\n\n### Q89\n**Type:** mcq\n**Stem:** ঘন্ডের আমকের মাত্রা সমীকরণ কোনটি? (/জ.বি. ২০১৮–১৯)\n**Options:** \n- a) [MLT<sup>-2</sup>]\n- b) [MLT]\n- c) [ML<sup>2</sup>T<sup>-2</sup>]\n- d) [ML<sup>2</sup>T<sup>-3</sup>]\n\n**Answer:** - a)\n\n**Solution:** এই প্রশ্নের উত্তর হলো '[MLT<sup>-2</sup>]'.\n\n### Q90\n**Type:** mcq\n**Stem:** বৃত্তাকার পথে ঘূর্ণনরত বস্তুর রৈখিক দ্রুতি v এবং আবর্তনকাল t এর মধ্যকার সম্পর্ক কোনটি?\n**Options:** \n- a) v = $\\frac{\\pi r}{t}$\n- b) v = $\\frac{2\\pi r}{t}$\n- c) v = $\\frac{T}{2\\pi r}$\n- d) v = $\\frac{T}{\\pi r}$\n\n**Answer:** - b)\n\n**Solution:** এই প্রশ্নের উত্তর হলো 'v = $\\frac{2\\pi r}{t}$'.\n\n### Q91\n**Type:** mcq\n**Stem:** জড়িতার আমকের মাত্রা কোনটি?\n**Options:** \n- a) ML<sup>2</sup>\n- b) ML<sup>2</sup>T<sup>-2</sup>\n- c) M<sup>2</sup>LT<sup>-1</sup>\n- d) ML<sup>2</sup>T<sup>-3</sup>\n\n**Answer:** - a)\n\n**Solution:** এই প্রশ্নের উত্তর হলো 'ML<sup>2</sup>'.\n\n### Q92\n**Type:** mcq\n**Stem:** কোনো দৃষ্টিকোণের চারপাশের ব্যাসার্ধ K কোনটি?\n**Options:** \n- a) K = $\\frac{I}{M}$\n- b) K = $\\frac{M}{I}$\n- c) K = $\\sqrt{\\frac{I}{M}}$\n- d) K = $\\sqrt{\\frac{M}{I}}$\n\n**Answer:** - c)\n\n**Solution:** এই প্রশ্নের উত্তর হলো 'K = $\\sqrt{\\frac{I}{M}}$'.\n\n### Q93\n**Type:** mcq\n**Stem:** কোনটি ঘূর্ণযামান বস্তুর গতিশক্তি?\n**Options:** \n- a) KE = $\\frac{1}{2}$ Iω\n- b) KE = $\\frac{1}{2}$ Iω<sup>2</sup>\n- c) KE = $\\frac{1}{2}$ F\n- d) কোনটিই নয়\n\n**Answer:** - a)\n\n**Solution:** এই প্রশ্নের উত্তর হলো 'KE = $\\frac{1}{2}$ Iω'.\n\n### Q94\n**Type:** mcq\n**Stem:** M ঘরের একটি বস্তু ঘরে X-অক্ষের সমন্তভাবে গতিশীল। মূলবিন্দুর সাপেক্ষে এর কৌণিক ডরবেগে-\n**Options:** \n- a) শূন্য\n- b) গ্রহ থাকে\n- c) বেড়ে যায়\n- d) কমে যায়\n\n**Answer:** - a)\n\n**Solution:** এই প্রশ্নের উত্তর হলো 'এর কৌণিক ডরবেগে শূন্য'।\n\n### Q95\n**Type:** mcq\n**Stem:** নিজে ঘূর্ণন অঙ্কের সাপেক্ষে দৃষ্টি বস্তুর জড়িতার আমকের যথাক্রমে I এবং 2I। যদি তাদের ঘূর্ণন গতিশক্তি সমান হয়, তাদের কৌণিক ডরবেগের অনুপাত কত?(/জেম্স:২০১৮-১৫; বুচেট: ১০-১৫)\n**Options:** \n- a) 1 : 2\n- b) √2 : 1\n- c) 1 : √2\n- d) 2 : 1\n\n**Answer:** - c)\n\n**Solution:** এই প্রশ্নের উত্তর হলো '1 : √2'.\n\n### Q96\n**Type:** mcq\n**Stem:** জড়িতার আমক কোনটির ওপর নির্ভর করে? (/ফেটাল: ২০১৯-২০)\n**Options:** \n- a) কৌণিক তুরণ\n- b) চারপাশির ব্যাসার্ধ\n- c) বস্তুর ভরের বন্টন\n- d) ঘূর্ণন গতিশক্তি\n\n**Answer:** - c)\n\n**Solution:** এই প্রশ্নের উত্তর হলো 'চারপাশির ব্যাসার্ধ'.\n\n### Q97\n**Type:** mcq\n**Stem:** ঘন্ডের আমকের মাত্রা সমীকরণ কোনটি? (/জ.বি. ২০১৮-১৯)\n**Options:** \n- a) [MLT<sup>-2</sup>]\n- b) [MLT]\n- c) [ML<sup>2</sup>T<sup>-2</sup>]\n- d) [ML<sup>2</sup>T<sup>-3</sup>]\n\n**Answer:** - a)\n\n**Solution:** এই প্রশ্নের উত্তর হলো '[MLT<sup>-2</sup>]'.\n\n### Q98\n**Type:** mcq\n**Stem:** বৃত্তাকার পথে ঘূর্ণনরত বস্তুর রৈখিক দ্রুতি v এবং আবর্তনকাল T এর মধ্যকার সম্পর্ক কোনটি?\n**Options:** \n- a) v = $\\frac{\\pi r}{T}$\n- b) v = $\\frac{2\\pi r}{T}$\n- c) v = $\\frac{T}{2\\pi r}$\n- d) v = $\\frac{T}{\\pi r}$\n\n**Answer:** - b)\n\n**Solution:** এই প্রশ্নের উত্তর হলো 'v = $\\frac{2\\pi r}{T}$'.\n\n### Q99\n**Type:** mcq\n**Stem:** Δt সময় ব্যাখ্যানে ঘূর্ণনরত একটি বস্তুর কৌণিক সরণ Δθ হলে গড় কৌণিক বেগ কত?\n**Options:** \n- a) $\\frac{\\Delta \\theta}{\\Delta t}$\n- b) lim$\\frac{\\Delta \\theta}{\\Delta t}\\to 0$\n- c) $\\frac{d\\theta}{dt}$\n- d) lim$\\frac{\\Delta \\theta}{\\Delta t}\\to \\infty$\n\n**Answer:** - a)\n\n**Solution:** এই প্রশ্নের উত্তর হলো '$\\frac{\\Delta \\theta}{\\Delta t}$'.\n\n### Q100\n**Type:** mcq\n**Stem:** কোনো বিদ্রুপ সাপেক্ষে ডরবেগের আমকের কী বলা হয়?\n**Options:** \n- a) জড়িতার আমক\n- b) ভরের আমক\n- c) কৌণিক ডরবেগ\n- d) টর্ক\n\n**Answer:** - a)\n\n**Solution:** এই প্রশ্নের উত্তর হলো 'জড়িতার আমক'.\n\n### Q101\n**Type:** mcq\n**Stem:** বৃত্তাকার চাকতি গুঁড়ের অভিলম্বাবে গমনকারী স্পর্শকে সাপেক্ষে চাকতির জড়িতার আমক নিচের কোনটি?\n**Options:** \n- a) I = $\\frac{3}{2}$Mr<sup>2</sup>\n- b) I = Mr<sup>2</sup>\n- c) I = $\\frac{Mr^2}{2}$\n- d) I = $\\frac{Mr^2}{4}$\n\n**Answer:** - c)\n\n**Solution:** এই প্রশ্নের উত্তর হলো 'I = $\\frac{Mr^2}{2}$'.\n\n### Q102\n**Type:** mcq\n**Stem:** কৌণিক তুরণের মাত্রা কোনটি?\n**Options:** \n- a) [M<sup>0</sup>L<sup>−1</sup>T<sup>−1</sup>]\n- b) [M<sup>0</sup>L<sup>1</sup>T<sup>−1</sup>]\n- c) [M<sup>0</sup>L<sup>1</sup>T<sup>−2</sup>]\n- d) [M<sup>−1</sup>L<sup>−2</sup>]\n\n**Answer:** - a)\n\n**Solution:** এই প্রশ্নের উত্তর হলো '[M<sup>0</sup>L<sup>−1</sup>T<sup>−1</sup>]'.\n\n### Q103\n**Type:** mcq\n**Stem:** সমকৌণিক বেগে ঘূর্ণনশীল বস্তুর ঘূর্ণন গতিশক্তি কীরূপ?\n**Options:** \n- a) জড়িতার আমকের সমানুপাতিক\n- b) জড়িতার আমকের ব্যাঙ্কুপাতিক\n- c) জড়িতার আমকের বর্গের সমানুপাতিক\n- d) জড়িতার আমকের বর্গের ব্যাঙ্কুপাতিক\n\n**Answer:** - c)\n\n**Solution:** এই প্রশ্নের উত্তর হলো 'জড়িতার আমকের বর্গের সমানুপাতিক'.",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q87",
+          "content_markdown": "কোণটি কৌণিক ডরবেগের সংরক্ষণ সূত্র?",
+          "structured_data": {
+            "question_number": "87",
+            "subtype": "mcq",
+            "stem": "কোণটি কৌণিক ডরবেগের সংরক্ষণ সূত্র?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "L = গ্রহবক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "P = গ্রহবক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "T = গ্রহবক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "F = গ্রহবক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো 'L = গ্রহবক'.",
+            "tags_raw": "শাহজাহান তথ্য, আমির হোসেন",
+            "provenance": [
+              "শাহজাহান তথ্য",
+              "আমির হোসেন"
+            ]
+          },
+          "id": "349dbdf1-a12d-59d9-ae6a-d29799a96a8e"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q88",
+          "content_markdown": "কৌণিক ডরবেগের পরিবর্তনের হার—(সি.বি. ২০১৮/১৫)",
+          "structured_data": {
+            "question_number": "88",
+            "subtype": "mcq",
+            "stem": "কৌণিক ডরবেগের পরিবর্তনের হার—(সি.বি. ২০১৮/১৫)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বলের সমান",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "কৌণিক তুরণের সমান",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "টর্কের সমান",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "জড়িতার আমকের সমান",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- d)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো 'জড়িতার আমকের সমান'.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2a5dc6b0-439f-5663-a211-54cf139b4abc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q89",
+          "content_markdown": "ঘন্ডের আমকের মাত্রা সমীকরণ কোনটি? (/জ.বি. ২০১৮–১৯)",
+          "structured_data": {
+            "question_number": "89",
+            "subtype": "mcq",
+            "stem": "ঘন্ডের আমকের মাত্রা সমীকরণ কোনটি? (/জ.বি. ২০১৮–১৯)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "[MLT<sup>-2</sup>]",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "[MLT]",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "[ML<sup>2</sup>T<sup>-2</sup>]",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "[ML<sup>2</sup>T<sup>-3</sup>]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো '[MLT<sup>-2</sup>]'.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "14a20587-eaf7-5b07-a963-e4e4a9022b17"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q90",
+          "content_markdown": "বৃত্তাকার পথে ঘূর্ণনরত বস্তুর রৈখিক দ্রুতি v এবং আবর্তনকাল t এর মধ্যকার সম্পর্ক কোনটি?",
+          "structured_data": {
+            "question_number": "90",
+            "subtype": "mcq",
+            "stem": "বৃত্তাকার পথে ঘূর্ণনরত বস্তুর রৈখিক দ্রুতি v এবং আবর্তনকাল t এর মধ্যকার সম্পর্ক কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "v = $\\frac{\\pi r}{t}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "v = $\\frac{2\\pi r}{t}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "v = $\\frac{T}{2\\pi r}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "v = $\\frac{T}{\\pi r}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো 'v = $\\frac{2\\pi r}{t}$'.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "8845ca94-8670-5496-bca5-f4683c2d1638"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q91",
+          "content_markdown": "জড়িতার আমকের মাত্রা কোনটি?",
+          "structured_data": {
+            "question_number": "91",
+            "subtype": "mcq",
+            "stem": "জড়িতার আমকের মাত্রা কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ML<sup>2</sup>",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ML<sup>2</sup>T<sup>-2</sup>",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "M<sup>2</sup>LT<sup>-1</sup>",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ML<sup>2</sup>T<sup>-3</sup>",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো 'ML<sup>2</sup>'.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e434ccd4-2d47-5a73-9ebc-43bb28012429"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q92",
+          "content_markdown": "কোনো দৃষ্টিকোণের চারপাশের ব্যাসার্ধ K কোনটি?",
+          "structured_data": {
+            "question_number": "92",
+            "subtype": "mcq",
+            "stem": "কোনো দৃষ্টিকোণের চারপাশের ব্যাসার্ধ K কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "K = $\\frac{I}{M}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "K = $\\frac{M}{I}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "K = $\\sqrt{\\frac{I}{M}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "K = $\\sqrt{\\frac{M}{I}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো 'K = $\\sqrt{\\frac{I}{M}}$'.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "45550e59-9cba-5712-ba06-07514061e71d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q93",
+          "content_markdown": "কোনটি ঘূর্ণযামান বস্তুর গতিশক্তি?",
+          "structured_data": {
+            "question_number": "93",
+            "subtype": "mcq",
+            "stem": "কোনটি ঘূর্ণযামান বস্তুর গতিশক্তি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "KE = $\\frac{1}{2}$ Iω",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "KE = $\\frac{1}{2}$ Iω<sup>2</sup>",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "KE = $\\frac{1}{2}$ F",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কোনটিই নয়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো 'KE = $\\frac{1}{2}$ Iω'.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f2b5fe0a-6ce2-5e6d-b272-04e1b106356a"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q94",
+          "content_markdown": "M ঘরের একটি বস্তু ঘরে X-অক্ষের সমন্তভাবে গতিশীল। মূলবিন্দুর সাপেক্ষে এর কৌণিক ডরবেগে-",
+          "structured_data": {
+            "question_number": "94",
+            "subtype": "mcq",
+            "stem": "M ঘরের একটি বস্তু ঘরে X-অক্ষের সমন্তভাবে গতিশীল। মূলবিন্দুর সাপেক্ষে এর কৌণিক ডরবেগে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "শূন্য",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "গ্রহ থাকে",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বেড়ে যায়",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কমে যায়",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো 'এর কৌণিক ডরবেগে শূন্য'।",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "bfa5f7b0-ccf7-5312-b5f6-d9fb964becab"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q95",
+          "content_markdown": "নিজে ঘূর্ণন অঙ্কের সাপেক্ষে দৃষ্টি বস্তুর জড়িতার আমকের যথাক্রমে I এবং 2I। যদি তাদের ঘূর্ণন গতিশক্তি সমান হয়, তাদের কৌণিক ডরবেগের অনুপাত কত?(/জেম্স:২০১৮-১৫; বুচেট: ১০-১৫)",
+          "structured_data": {
+            "question_number": "95",
+            "subtype": "mcq",
+            "stem": "নিজে ঘূর্ণন অঙ্কের সাপেক্ষে দৃষ্টি বস্তুর জড়িতার আমকের যথাক্রমে I এবং 2I। যদি তাদের ঘূর্ণন গতিশক্তি সমান হয়, তাদের কৌণিক ডরবেগের অনুপাত কত?(/জেম্স:২০১৮-১৫; বুচেট: ১০-১৫)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1 : 2",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "√2 : 1",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "1 : √2",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "2 : 1",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো '1 : √2'.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "4f4ec5f3-7943-5d2b-a065-a5218caa3a69"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q96",
+          "content_markdown": "জড়িতার আমক কোনটির ওপর নির্ভর করে? (/ফেটাল: ২০১৯-২০)",
+          "structured_data": {
+            "question_number": "96",
+            "subtype": "mcq",
+            "stem": "জড়িতার আমক কোনটির ওপর নির্ভর করে? (/ফেটাল: ২০১৯-২০)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "কৌণিক তুরণ",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "চারপাশির ব্যাসার্ধ",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "বস্তুর ভরের বন্টন",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ঘূর্ণন গতিশক্তি",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো 'চারপাশির ব্যাসার্ধ'.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "924577e3-f58d-5dae-8801-3bbd6eeed8cb"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q97",
+          "content_markdown": "ঘন্ডের আমকের মাত্রা সমীকরণ কোনটি? (/জ.বি. ২০১৮-১৯)",
+          "structured_data": {
+            "question_number": "97",
+            "subtype": "mcq",
+            "stem": "ঘন্ডের আমকের মাত্রা সমীকরণ কোনটি? (/জ.বি. ২০১৮-১৯)",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "[MLT<sup>-2</sup>]",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "[MLT]",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "[ML<sup>2</sup>T<sup>-2</sup>]",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "[ML<sup>2</sup>T<sup>-3</sup>]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো '[MLT<sup>-2</sup>]'.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "899735ec-e6cd-55c4-af17-170d8c56b687"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q98",
+          "content_markdown": "বৃত্তাকার পথে ঘূর্ণনরত বস্তুর রৈখিক দ্রুতি v এবং আবর্তনকাল T এর মধ্যকার সম্পর্ক কোনটি?",
+          "structured_data": {
+            "question_number": "98",
+            "subtype": "mcq",
+            "stem": "বৃত্তাকার পথে ঘূর্ণনরত বস্তুর রৈখিক দ্রুতি v এবং আবর্তনকাল T এর মধ্যকার সম্পর্ক কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "v = $\\frac{\\pi r}{T}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "v = $\\frac{2\\pi r}{T}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "v = $\\frac{T}{2\\pi r}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "v = $\\frac{T}{\\pi r}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- b)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো 'v = $\\frac{2\\pi r}{T}$'.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "15e90d62-6022-5b75-98bd-3ed459d87341"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q99",
+          "content_markdown": "Δt সময় ব্যাখ্যানে ঘূর্ণনরত একটি বস্তুর কৌণিক সরণ Δθ হলে গড় কৌণিক বেগ কত?",
+          "structured_data": {
+            "question_number": "99",
+            "subtype": "mcq",
+            "stem": "Δt সময় ব্যাখ্যানে ঘূর্ণনরত একটি বস্তুর কৌণিক সরণ Δθ হলে গড় কৌণিক বেগ কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\frac{\\Delta \\theta}{\\Delta t}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "lim$\\frac{\\Delta \\theta}{\\Delta t}\\to 0$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\frac{d\\theta}{dt}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "lim$\\frac{\\Delta \\theta}{\\Delta t}\\to \\infty$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো '$\\frac{\\Delta \\theta}{\\Delta t}$'.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "66b05cd4-b6aa-5b35-9e3e-f78cb419fcce"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q100",
+          "content_markdown": "কোনো বিদ্রুপ সাপেক্ষে ডরবেগের আমকের কী বলা হয়?",
+          "structured_data": {
+            "question_number": "100",
+            "subtype": "mcq",
+            "stem": "কোনো বিদ্রুপ সাপেক্ষে ডরবেগের আমকের কী বলা হয়?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "জড়িতার আমক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ভরের আমক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কৌণিক ডরবেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "টর্ক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো 'জড়িতার আমক'.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "0dfdf9c1-d77e-5ac4-9be0-276c8c32eaca"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q101",
+          "content_markdown": "বৃত্তাকার চাকতি গুঁড়ের অভিলম্বাবে গমনকারী স্পর্শকে সাপেক্ষে চাকতির জড়িতার আমক নিচের কোনটি?",
+          "structured_data": {
+            "question_number": "101",
+            "subtype": "mcq",
+            "stem": "বৃত্তাকার চাকতি গুঁড়ের অভিলম্বাবে গমনকারী স্পর্শকে সাপেক্ষে চাকতির জড়িতার আমক নিচের কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "I = $\\frac{3}{2}$Mr<sup>2</sup>",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "I = Mr<sup>2</sup>",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "I = $\\frac{Mr^2}{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "I = $\\frac{Mr^2}{4}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো 'I = $\\frac{Mr^2}{2}$'.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d9d336c7-1b77-53a4-80b1-5d3fd5c7f2ba"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q102",
+          "content_markdown": "কৌণিক তুরণের মাত্রা কোনটি?",
+          "structured_data": {
+            "question_number": "102",
+            "subtype": "mcq",
+            "stem": "কৌণিক তুরণের মাত্রা কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "[M<sup>0</sup>L<sup>−1</sup>T<sup>−1</sup>]",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "[M<sup>0</sup>L<sup>1</sup>T<sup>−1</sup>]",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "[M<sup>0</sup>L<sup>1</sup>T<sup>−2</sup>]",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "[M<sup>−1</sup>L<sup>−2</sup>]",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- a)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো '[M<sup>0</sup>L<sup>−1</sup>T<sup>−1</sup>]'.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "38d4739a-8039-5545-b5a9-30d9b6727ae0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q103",
+          "content_markdown": "সমকৌণিক বেগে ঘূর্ণনশীল বস্তুর ঘূর্ণন গতিশক্তি কীরূপ?",
+          "structured_data": {
+            "question_number": "103",
+            "subtype": "mcq",
+            "stem": "সমকৌণিক বেগে ঘূর্ণনশীল বস্তুর ঘূর্ণন গতিশক্তি কীরূপ?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "জড়িতার আমকের সমানুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "জড়িতার আমকের ব্যাঙ্কুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "জড়িতার আমকের বর্গের সমানুপাতিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "জড়িতার আমকের বর্গের ব্যাঙ্কুপাতিক",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": "- c)",
+            "solution_markdown": "এই প্রশ্নের উত্তর হলো 'জড়িতার আমকের বর্গের সমানুপাতিক'.",
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "6d8eb35f-8fc0-50df-ab9e-524ec81ea319"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 17,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc6",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 146.91,
+        "eval_count": 3518
+      }
+    },
+    {
+      "page_number": 6,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান 1ম পত্র\n\n#### গুড়িয়া মিনিটার ফোটার দৈর্ঘ্য কমলে-\n- a) রৌধিক বেগ বাড়ে, কৌণিক বেগ বাড়ে\n- b) রৌধিক বেগ কমে, কৌণিক বেগ কমে\n- c) রৌধিক বেগ ছির থাকে, কৌণিক বেগ বাড়ে\n- d) রৌধিক বেগ কমে, কৌণিক বেগ ছির থাকে\n\n#### রৌধিক বেগ ও কৌণিক বেগের মধ্যে সম্পর্ক হলো-\n- a) $\\vec{\\omega} = \\vec{v} \\times \\vec{r}$ \n- b) $V = \\omega . r$\n- c) $\\omega = V.r$\n\n#### সমকৌণিক বেগে আবর্তনাত কোনো দূর বহুত গতিশক্তি ও জড়তার আমকের অনুপাত-\n- a) কৌণিক বেগের সমানুপাতিক\n- b) কৌণিক বেগের বর্ণের সমানুপাতিক\n- c) রৌধিক বেগের সমানুপাতিক\n- d) রৌধিক বেগের বর্ণের সমানুপাতিক\n\n#### হাত ঘড়ির মিনিটার ফোটার কৌণিক বেগ কত?\n- a) $\\frac{\\pi}{3600}\\; {\\rm rad s^{-1}}$\n- b) $\\frac{\\pi}{1800}\\; {\\rm rad s^{-1}}$\n- c) $\\frac{\\pi}{30}\\; {\\rm rad s^{-1}}$\n- d) $2\\pi\\,{\\rm rad s^{-1}}$\n\n#### বৃত্তাকার গতির কৌণিক সরান-এর ক্ষেত্রে নিচের কোনটি সত্যিক?\n- a) এটি মাঝারিস্থ রাশি\n- b) রাশির মাত্রা আছে\n- c) রাশির মাত্রা ও একক নেই\n- d) রাশির একক নেই\n\n#### কৌণিক সরান পরিমাপ করা হয়-\n- a) স্টেডিয়ান\n- b) রেডিয়ান\n- c) সময়\n\n#### ঘূর্ণায়মান বক্ত্র জড়তা পরিমাপ করা হয় কোনটি দ্বারা?\n- a) mr\n- b) mr²\n- c) rp\n- d) rF\n\n#### নিচের কোনটি রৌধিক বেগ, কৌণিক বেগ এবং ব্যাসার্ধ ভেক্টরের মধ্যে সম্পর্ক নির্দেশ করে?\n- a) $\\vec{v}=\\vec{\\omega} \\times \\vec{r}$\n- b) $\\vec{v}= -\\vec{\\omega}-\\vec{r}$\n- c) $\\vec{v}=\\vec{\\omega}+\\vec{r}$\n- d) $\\vec{v}=\\vec{r}\\vec{\\omega}$\n\n#### একজন সাইকেল চালক 25 sec এ 600 m দূরত্বে একটি মোড়ে বাঁক নেয়। উল্লেখের সাথে তার কোনের মান কত? [ra. no. 2021 (মন ফিঙ্ক); Admission Test KUET 2013-14; SUST 2012-13]\n- a) 31.26°\n- b) 31.62°\n- c) 35.2°\n- d) 31.60°\n\n#### নিচের কোন সম্পর্কটি সত্যিক?\n[ra. no. 2016;Admission Test: JnU 2015-16;BSFMSTU 2019-20]\n- a) ${\\cal L}={\\vec {r}}\\times F$\n- b) ${\\cal L}=F\\times{\\vec {r}}$\n- c) ${\\cal L}={\\vec {r}}\\times P$\n- d) ${\\cal L}=P\\times{\\vec {r}}$\n\n#### একটি চাকর তর 10 kg এবং চক্রার্ধ ব্যাসার্ধ 0.5m । এর জড়তার আমকের কত?\n[সি. নং. ২০১৬; Admission Test: JU 2017-18; স্নিফRU 2016-17; Marine 2015-16; BRU 2010-11;CU 2015-16; KUET 2006-07 (মন ফিঙ্ক)]\n- a) 2.5 kgm\n- b) 2.5 kgm²\n- c) 5 kgm\n- d) 5 kgm²\n\n#### কৌণিক ভরবেগ ও কৌণিক বেগের মধ্যে সম্পর্ক কোনটি?\n- a) ${\\cal L}=I\\,\\omega$\n- b) ${\\cal L}=\\dfrac{{\\cal I}}{{\\omega}}$\n- c) ${\\cal L}=\\dfrac{{\\omega}}{{\\cal I}}$\n- d) ${\\cal L}\\propto\\omega$",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "গুড়িয়া মিনিটার ফোটার দৈর্ঘ্য কমলে-",
+          "content_markdown": "- a) রৌধিক বেগ বাড়ে, কৌণিক বেগ বাড়ে\n- b) রৌধিক বেগ কমে, কৌণিক বেগ কমে\n- c) রৌধিক বেগ ছির থাকে, কৌণিক বেগ বাড়ে\n- d) রৌধিক বেগ কমে, কৌণিক বেগ ছির থাকে",
+          "structured_data": {},
+          "id": "ce2c14d3-75af-5c22-a082-fa85e772de85"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "রৌধিক বেগ ও কৌণিক বেগের মধ্যে সম্পর্ক হলো-",
+          "content_markdown": "- a) $\\vec{\\omega} = \\vec{v} \\times \\vec{r}$ \n- b) $V = \\omega . r$\n- c) $\\omega = V.r$",
+          "structured_data": {},
+          "id": "bec20fc4-6c89-5997-97c5-4483659bc5a8"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "সমকৌণিক বেগে আবর্তনাত কোনো দূর বহুত গতিশক্তি ও জড়তার আমকের অনুপাত-",
+          "content_markdown": "- a) কৌণিক বেগের সমানুপাতিক\n- b) কৌণিক বেগের বর্ণের সমানুপাতিক\n- c) রৌধিক বেগের সমানুপাতিক\n- d) রৌধিক বেগের বর্ণের সমানুপাতিক",
+          "structured_data": {},
+          "id": "9a82cf4a-2300-5c2e-8346-13fc5ce74c2d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "হাত ঘড়ির মিনিটার ফোটার কৌণিক বেগ কত?",
+          "content_markdown": "- a) $\\frac{\\pi}{3600}\\; {\\rm rad s^{-1}}$\n- b) $\\frac{\\pi}{1800}\\; {\\rm rad s^{-1}}$\n- c) $\\frac{\\pi}{30}\\; {\\rm rad s^{-1}}$\n- d) $2\\pi\\,{\\rm rad s^{-1}}$",
+          "structured_data": {},
+          "id": "62a850f9-01bf-5506-8e6b-adcac505f500"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "বৃত্তাকার গতির কৌণিক সরান-এর ক্ষেত্রে নিচের কোনটি সত্যিক?",
+          "content_markdown": "- a) এটি মাঝারিস্থ রাশি\n- b) রাশির মাত্রা আছে\n- c) রাশির মাত্রা ও একক নেই\n- d) রাশির একক নেই",
+          "structured_data": {},
+          "id": "016c3dfa-3c16-51b1-9e87-27d313d24997"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "কৌণিক সরান পরিমাপ করা হয়-",
+          "content_markdown": "- a) স্টেডিয়ান\n- b) রেডিয়ান\n- c) সময়",
+          "structured_data": {},
+          "id": "0a6ad3d8-8952-5829-8b60-1dffbd559cc5"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ঘূর্ণায়মান বক্ত্র জড়তা পরিমাপ করা হয় কোনটি দ্বারা?",
+          "content_markdown": "- a) mr\n- b) mr²\n- c) rp\n- d) rF",
+          "structured_data": {},
+          "id": "f5c704a3-4c04-54ef-ac5f-fd38429a86db"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "নিচের কোনটি রৌধিক বেগ, কৌণিক বেগ এবং ব্যাসার্ধ ভেক্টরের মধ্যে সম্পর্ক নির্দেশ করে?",
+          "content_markdown": "- a) $\\vec{v}=\\vec{\\omega} \\times \\vec{r}$\n- b) $\\vec{v}= -\\vec{\\omega}-\\vec{r}$\n- c) $\\vec{v}=\\vec{\\omega}+\\vec{r}$\n- d) $\\vec{v}=\\vec{r}\\vec{\\omega}$",
+          "structured_data": {},
+          "id": "899ecce1-962c-5aa3-bf3e-3080d987fc97"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "একজন সাইকেল চালক 25 sec এ 600 m দূরত্বে একটি মোড়ে বাঁক নেয়। উল্লেখের সাথে তার কোনের মান কত? [ra. no. 2021 (মন ফিঙ্ক); Admission Test KUET 2013-14; SUST 2012-13]",
+          "content_markdown": "- a) 31.26°\n- b) 31.62°\n- c) 35.2°\n- d) 31.60°",
+          "structured_data": {},
+          "id": "a1839446-38a0-5015-a4fc-f8f9d19c40f6"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "নিচের কোন সম্পর্কটি সত্যিক?",
+          "content_markdown": "[ra. no. 2016;Admission Test: JnU 2015-16;BSFMSTU 2019-20]\n- a) ${\\cal L}={\\vec {r}}\\times F$\n- b) ${\\cal L}=F\\times{\\vec {r}}$\n- c) ${\\cal L}={\\vec {r}}\\times P$\n- d) ${\\cal L}=P\\times{\\vec {r}}$",
+          "structured_data": {},
+          "id": "05290408-9d50-5bf5-abf8-2f802a19f04b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "একটি চাকর তর 10 kg এবং চক্রার্ধ ব্যাসার্ধ 0.5m । এর জড়তার আমকের কত?",
+          "content_markdown": "[সি. নং. ২০১৬; Admission Test: JU 2017-18; স্নিফRU 2016-17; Marine 2015-16; BRU 2010-11;CU 2015-16; KUET 2006-07 (মন ফিঙ্ক)]\n- a) 2.5 kgm\n- b) 2.5 kgm²\n- c) 5 kgm\n- d) 5 kgm²",
+          "structured_data": {},
+          "id": "3b808f53-cd9d-5260-a655-39d0bd98ec95"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "কৌণিক ভরবেগ ও কৌণিক বেগের মধ্যে সম্পর্ক কোনটি?",
+          "content_markdown": "- a) ${\\cal L}=I\\,\\omega$\n- b) ${\\cal L}=\\dfrac{{\\cal I}}{{\\omega}}$\n- c) ${\\cal L}=\\dfrac{{\\omega}}{{\\cal I}}$\n- d) ${\\cal L}\\propto\\omega$",
+          "structured_data": {},
+          "id": "2e4bac8f-c29e-5fb9-be7c-12a9b37257cd"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 12,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc1",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 87.01,
+        "eval_count": 1764
+      }
+    },
+    {
+      "page_number": 7,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান ১ম পত্র\n\n#### একটি চাকা যাদুঘরের মধ্যবর্তী কোণ কত?\n(সি.বো. ২০১৯)\n\n- a) $0^\\circ$\n- b) $90^\\circ$\n- c) $180^\\circ$\n- d) $360^\\circ$\n\n#### 2400 J গতিশীল একটি চাকা প্রতি মিনিটে 602 বার ঘূর্ণে। চাকাটির জড়িত আয়ত কত?\n\n(সি.বো. ২০১৯)\n\n- a) $0.605\\,\\mathrm{kgm}^2$\n- b) $0.828\\,\\mathrm{kgm}^2$\n- c) $1.21\\,\\mathrm{kgm}^2$\n- d) $76.14\\,\\mathrm{kgm}^2$\n\n#### একটি কারের স্পিডোমিটার নির্দেশ করে কারের—\n- a) ত্বরণ\n- b) গতি\n- c) তাফ্তফিক দৃষ্টি\n- d) বেগ\n\n#### হাতছড়ির মিনিটের কাঁচির কম্পাঙ্ক—\n\n(সি.বো. ১৬)\n\n- a) $2.78\\,\\mathrm{Hz}$\n- b) $2.78\\times10^{-1}\\,\\mathrm{Hz}$\n- c) $2.78\\times10^{-1}\\,\\mathrm{Hz}$\n\n#### নিচের কৌন্ঠ পৃথিবীর কৌণিক বেগ?\n\n- a) $\\frac{2\\pi}{86400}\\,\\mathrm{rads^{-1}}$\n- b) $\\frac{2\\pi}{6400}\\,\\mathrm{rads^{-1}}$\n- c) $\\frac{2\\pi}{3600}\\,\\mathrm{rads^{-1}}$\n- d) $\\frac{2\\pi}{24}\\,\\mathrm{rads^{-1}}$\n\n#### পরিবর্তনশীল বলের ক্ষেত্রে—\n\n(সি.বো. ১৭)\n\n- a) বলের মান পরিবর্তিত হয়\n- b) বলের দিক পরিবর্তিত হয়\n- c) বলের মান ও দিক উভয়ই পরিবর্তিত হয়\n- d) বলের মান ও দিক উভয়ই অপরিবর্তিত হয়\n\n#### একটি বল 4 kg ভরের ছির বক্র কিম্বা বক্স 6 সেকেন্ডে 30 ms${^-1}$ বেগ প্রাপ্ত হয়। বলের মান কত?\n\n- a) 30 N\n- b) 20 N\n- c) 18 N\n- d) কোনোটিই নয়\n\n#### কৌণিক কেন্দ্রমুখী বলের রাশিমালা? \n(সি.বো. ২০১৫)\n\n- a) mv${^2}$r\n- b) $\\frac{\\mathrm{mv^{2}}}{{r}}$\n- c) $\\frac{\\mathrm{mv^{2}}}{{r}}$\n- d) $\\frac{\\mathrm{m\\omega^{2}}}{{r}}$\n\n#### m ভরের একটি বক্ত r ব্যাসার্ধের বৃত্তাকার পথে সমৃদ্ধিতে চলছে। বৃত্তাকার গতির পর্যায়কাল T, বক্তটির ওপর কেন্দ্রমুখী বলের মান কত?\n\n(সি.বি. ২০১২-১৩)\n\n- a) $\\frac{4\\pi^{2}mr}{{T^{2}}}$\n- b) $\\frac{4\\pi^{2}mr^{2}}{{T^{2}}}$\n- c) $\\frac{4\\pi mr^{2}}{{T^{2}}}$\n- d) πmr${^2}$\n\n#### অধিক্ষিপ্ত সংরক্ষণ সরক্ষিত হয়।\n(দ্বিতীয় প্রশ্ন সেট C) ২০১৮\n\n- a) পাতিশক্তি\n- b) স্থিতিশক্তি\n- c) কৌণিক ভরবেগ\n- d) ভরবেগ\n\n#### কেন্দ্রমুখী বলের ভেক্টর রূপ কৌণিটি?\n\n- a) $\\frac{m(\\overrightarrow{v}\\times\\overrightarrow{v})}{{r}}$\n- b) -$\\frac{m(\\overrightarrow{v}\\times\\overrightarrow{v})}{{r}}$\n- c) $m (\\vec{\\omega}\\cdot\\vec{\\omega})\\vec{r}$\n- d) -$m (\\vec{\\omega}\\cdot\\vec{\\omega})\\vec{r}$\n\n### নিউটনিয়ান বলবিদ্যা\n\n#### কেন্দ্রমুখী বল দ্বারা কৃত কাজ-\n(দি.বো.-1/৬)\n\n- a) অসীম\n- b) ঝুঁটাক\n- c) শূন্য\n- d) ধনাত্রক\n\n#### একটি বস্তুকে সুষম বৃত্তাকার গতিতে রাখতে হলে নিচের কোন বলের প্রয়োজন হয়?\n\n- a) কেন্দ্রমুখী বল\n- b) কেন্দ্রবিমুখী বল\n- c) ঘর্ষণ বল\n- d) প্রতিরোধকারী বল\n\n#### সমান ভরের দুটি বস্তু যথাক্রমে r₁ ও r₂ ব্যাসার্ধের বৃত্তাকার পথে পরিবর্তন করছে। বস্তু দুটির কেন্দ্রমুখী বলের অনুপাত হবে-\n\n- a) $\\frac{r_{2}}{r_{1}}$\n- b) $(\\frac{r_{1}}{r_{2}})^{2}$\n- c) $(\\frac{r_{2}}{r_{1}})$\n- d) $\\sqrt{\\frac{r_{2}}{r_{1}}}$\n\n#### হাইড্রোজেন পরমাণুর দ্বিতীয় এবং তৃতীয় কক্ষপথে ঘূর্ণনত ইলেকট্রনের কেন্দ্রমুখী বলের অনুপাত নিউক্লিয়াসের সাপেক্ষে কত হবে?\n- a) 27 : 8\n- b) 81 : 16\n- c) 8 : 27\n- d) 16 : 81\n\n#### একটি ঢাকির সেকেন্ডের কৌণিক কম্পাঙ্ক হবে?\n(BUET 13-14)\n- a) 1.0 rev/s\n- b) 0.5 rev/s\n- c) 0.017 rev/s\n- d) 60.0 rev/s\n\n#### ডাইভিং-এর লাফ দেয়ার সময় সাঁতারের ক্ষেত্রে কৌণিটি সত্য?\n(হিসা.\n- a) জড়িত আকার গ্রহণ\n- b) কৌণিক ভরবেগ গ্রহণ\n- c) কৌণিক তুরণ গ্রহণ\n- d) কৌণিক বেগ গ্রহণ\n\n#### একটি গতিশীল বস্তুর কোণ ধর্মের জন্য কৃত্রিম পরিবর্তন থাকবে?\n- a) তুরণ\n- b) বেগ\n- c) জড়িত\n- d) বল\n\n#### কৌণিটি অন্তরক্ষিপশিল বল?\n(সি.বো. ১৬; সি.বো. ১৫)\n- a) সান্দ্র বল\n- b) স্পিং বল\n- c) অতিক্ষিপ বল\n- d) হ্রিষ্ঠিপাক বল\n\n#### পিছিল বরফের 0.9 kg জন্যের পাথর 2 ms${^{-1}}$ বেগে 10 s পর ঘর্ষণের ফলে থেমে গেলো। এখানে ঘর্ষণ বল কত?\n- a) 20 N\n- b) 2 N\n- c) 0.2 N\n- d) কোনোটিই নয়\n\n#### একটি চাকার জড়িত আয়ত 2 kg ${\\text{m}^{2}}$. চাকাটি মিনিটে 30 বার ঘূর্ণে। এর কৌণিক ভরবেগ কত?\n- a) π\n- b) 2π\n- c) 3π\n- d) 4π",
+      "blocks": [
+        {
+          "block_type": "concept_prose",
+          "title": "একটি চাকা যাদুঘরের মধ্যবর্তী কোণ কত?",
+          "content_markdown": "(সি.বো. ২০১৯)",
+          "structured_data": {},
+          "id": "f81a2fe8-8e75-5d2f-af16-8df8b3d73e1c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "একটি চাকা যাদুঘরের মধ্যবর্তী কোণ কত?",
+          "content_markdown": "- a) $0^\\circ$\n- b) $90^\\circ$\n- c) $180^\\circ$\n- d) $360^\\circ$",
+          "structured_data": {},
+          "id": "ed49ee54-ece5-524c-8204-76d0aba3569b"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "2400 J গতিশীল একটি চাকা প্রতি মিনিটে 602 বার ঘূর্ণে। চাকাটির জড়িত আয়ত কত?",
+          "content_markdown": "(সি.বো. ২০১৯)",
+          "structured_data": {},
+          "id": "b925dbd0-a670-547d-ad7a-92a9439ccdfd"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "2400 J গতিশীল একটি চাকা প্রতি মিনিটে 602 বার ঘূর্ণে। চাকাটির জড়িত আয়ত কত?",
+          "content_markdown": "- a) $0.605\\,\\mathrm{kgm}^2$\n- b) $0.828\\,\\mathrm{kgm}^2$\n- c) $1.21\\,\\mathrm{kgm}^2$\n- d) $76.14\\,\\mathrm{kgm}^2$",
+          "structured_data": {},
+          "id": "c7c2367e-7589-5756-9d00-a167b9f439f8"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "একটি কারের স্পিডোমিটার নির্দেশ করে কারের—",
+          "content_markdown": "- a) ত্বরণ\n- b) গতি\n- c) তাফ্তফিক দৃষ্টি\n- d) বেগ",
+          "structured_data": {},
+          "id": "8ee5aff8-5646-5850-9cac-8d03ccc0546a"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "হাতছড়ির মিনিটের কাঁচির কম্পাঙ্ক—",
+          "content_markdown": "(সি.বো. ১৬)",
+          "structured_data": {},
+          "id": "cc04fc00-0674-57b9-bc33-adb87a5edcfa"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "হাতছড়ির মিনিটের কাঁচির কম্পাঙ্ক—",
+          "content_markdown": "- a) $2.78\\,\\mathrm{Hz}$\n- b) $2.78\\times10^{-1}\\,\\mathrm{Hz}$\n- c) $2.78\\times10^{-1}\\,\\mathrm{Hz}$",
+          "structured_data": {},
+          "id": "dffaf5d8-e248-5835-90a2-d8a02895de39"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "নিচের কৌন্ঠ পৃথিবীর কৌণিক বেগ?",
+          "content_markdown": "- a) $\\frac{2\\pi}{86400}\\,\\mathrm{rads^{-1}}$\n- b) $\\frac{2\\pi}{6400}\\,\\mathrm{rads^{-1}}$\n- c) $\\frac{2\\pi}{3600}\\,\\mathrm{rads^{-1}}$\n- d) $\\frac{2\\pi}{24}\\,\\mathrm{rads^{-1}}$",
+          "structured_data": {},
+          "id": "7c3ee2f6-f5c3-510b-a51a-f41894ea7b05"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "পরিবর্তনশীল বলের ক্ষেত্রে—",
+          "content_markdown": "(সি.বো. ১৭)",
+          "structured_data": {},
+          "id": "3659d143-499b-5ba2-a308-1ce1afa88143"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "পরিবর্তনশীল বলের ক্ষেত্রে—",
+          "content_markdown": "- a) বলের মান পরিবর্তিত হয়\n- b) বলের দিক পরিবর্তিত হয়\n- c) বলের মান ও দিক উভয়ই পরিবর্তিত হয়\n- d) বলের মান ও দিক উভয়ই অপরিবর্তিত হয়",
+          "structured_data": {},
+          "id": "7f15fce2-a7ec-5fe8-9bb4-d54f2d174fb1"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "একটি বল 4 kg ভরের ছির বক্র কিম্বা বক্স 6 সেকেন্ডে 30 ms${^-1}$ বেগ প্রাপ্ত হয়। বলের মান কত?",
+          "content_markdown": "- a) 30 N\n- b) 20 N\n- c) 18 N\n- d) কোনোটিই নয়",
+          "structured_data": {},
+          "id": "bff8074f-b7d2-5ef9-9b6e-69b9028d5714"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "কৌণিক কেন্দ্রমুখী বলের রাশিমালা?",
+          "content_markdown": "(সি.বো. ২০১৫)",
+          "structured_data": {},
+          "id": "c4ba074a-72ed-5ce6-a8ab-df101530b7d9"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "কৌণিক কেন্দ্রমুখী বলের রাশিমালা?",
+          "content_markdown": "- a) mv${^2}$r\n- b) $\\frac{\\mathrm{mv^{2}}}{{r}}$\n- c) $\\frac{\\mathrm{mv^{2}}}{{r}}$\n- d) $\\frac{\\mathrm{m\\omega^{2}}}{{r}}$",
+          "structured_data": {},
+          "id": "3c5452a8-90d5-5992-a75e-ed7351e38f94"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "m ভরের একটি বক্ত r ব্যাসার্ধের বৃত্তাকার পথে সমৃদ্ধিতে চলছে। বৃত্তাকার গতির পর্যায়কাল T, বক্তটির ওপর কেন্দ্রমুখী বলের মান কত?",
+          "content_markdown": "(সি.বি. ২০১২-১৩)",
+          "structured_data": {},
+          "id": "c64b8b04-3f96-5e63-8d4b-6e5679b3c86c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "m ভরের একটি বক্ত r ব্যাসার্ধের বৃত্তাকার পথে সমৃদ্ধিতে চলছে। বৃত্তাকার গতির পর্যায়কাল T, বক্তটির ওপর কেন্দ্রমুখী বলের মান কত?",
+          "content_markdown": "- a) $\\frac{4\\pi^{2}mr}{{T^{2}}}$\n- b) $\\frac{4\\pi^{2}mr^{2}}{{T^{2}}}$\n- c) $\\frac{4\\pi mr^{2}}{{T^{2}}}$\n- d) πmr${^2}$",
+          "structured_data": {},
+          "id": "4ea0df73-e1da-5d4f-9d5a-3f7f35e07c92"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "অধিক্ষিপ্ত সংরক্ষণ সরক্ষিত হয়।",
+          "content_markdown": "(দ্বিতীয় প্রশ্ন সেট C) ২০১৮",
+          "structured_data": {},
+          "id": "72f25378-b800-50eb-bc73-562c40b3f973"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "অধিক্ষিপ্ত সংরক্ষণ সরক্ষিত হয়।",
+          "content_markdown": "- a) পাতিশক্তি\n- b) স্থিতিশক্তি\n- c) কৌণিক ভরবেগ\n- d) ভরবেগ",
+          "structured_data": {},
+          "id": "fac10cf1-e5d7-5a50-a913-61ca6861d4a1"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "কেন্দ্রমুখী বলের ভেক্টর রূপ কৌণিটি?",
+          "content_markdown": "- a) $\\frac{m(\\overrightarrow{v}\\times\\overrightarrow{v})}{{r}}$\n- b) -$\\frac{m(\\overrightarrow{v}\\times\\overrightarrow{v})}{{r}}$\n- c) $m (\\vec{\\omega}\\cdot\\vec{\\omega})\\vec{r}$\n- d) -$m (\\vec{\\omega}\\cdot\\vec{\\omega})\\vec{r}$",
+          "structured_data": {},
+          "id": "424e9aef-cd38-5d8c-ad62-f262511e5596"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "কেন্দ্রমুখী বল দ্বারা কৃত কাজ-",
+          "content_markdown": "(দি.বো.-1/৬)",
+          "structured_data": {},
+          "id": "61d1e70e-3357-5427-a678-763a1cf692b4"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "কেন্দ্রমুখী বল দ্বারা কৃত কাজ-",
+          "content_markdown": "- a) অসীম\n- b) ঝুঁটাক\n- c) শূন্য\n- d) ধনাত্রক",
+          "structured_data": {},
+          "id": "a14e81cc-7fb8-5cd2-a361-86427797acae"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "একটি বস্তুকে সুষম বৃত্তাকার গতিতে রাখতে হলে নিচের কোন বলের প্রয়োজন হয়?",
+          "content_markdown": "- a) কেন্দ্রমুখী বল\n- b) কেন্দ্রবিমুখী বল\n- c) ঘর্ষণ বল\n- d) প্রতিরোধকারী বল",
+          "structured_data": {},
+          "id": "324fd2e6-0b7c-5874-ba9e-b709d1a1fe5c"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "সমান ভরের দুটি বস্তু যথাক্রমে r₁ ও r₂ ব্যাসার্ধের বৃত্তাকার পথে পরিবর্তন করছে। বস্তু দুটির কেন্দ্রমুখী বলের অনুপাত হবে-",
+          "content_markdown": "- a) $\\frac{r_{2}}{r_{1}}$\n- b) $(\\frac{r_{1}}{r_{2}})^{2}$\n- c) $(\\frac{r_{2}}{r_{1}})$\n- d) $\\sqrt{\\frac{r_{2}}{r_{1}}}$",
+          "structured_data": {},
+          "id": "304a8166-2ee0-55f1-95ad-b4a8debae512"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "হাইড্রোজেন পরমাণুর দ্বিতীয় এবং তৃতীয় কক্ষপথে ঘূর্ণনত ইলেকট্রনের কেন্দ্রমুখী বলের অনুপাত নিউক্লিয়াসের সাপেক্ষে কত হবে?",
+          "content_markdown": "- a) 27 : 8\n- b) 81 : 16\n- c) 8 : 27\n- d) 16 : 81",
+          "structured_data": {},
+          "id": "3e7299e4-af0b-5a0c-8094-443a945b7588"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "একটি ঢাকির সেকেন্ডের কৌণিক কম্পাঙ্ক হবে?",
+          "content_markdown": "(BUET 13-14)\n- a) 1.0 rev/s\n- b) 0.5 rev/s\n- c) 0.017 rev/s\n- d) 60.0 rev/s",
+          "structured_data": {},
+          "id": "7400f07c-0d53-5ce2-acf6-2b927ebefeaf"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "ডাইভিং-এর লাফ দেয়ার সময় সাঁতারের ক্ষেত্রে কৌণিটি সত্য?",
+          "content_markdown": "(হিসা.\n- a) জড়িত আকার গ্রহণ\n- b) কৌণিক ভরবেগ গ্রহণ\n- c) কৌণিক তুরণ গ্রহণ\n- d) কৌণিক বেগ গ্রহণ",
+          "structured_data": {},
+          "id": "9ae634d9-bfc3-562f-8f73-bcc2c0291199"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "একটি গতিশীল বস্তুর কোণ ধর্মের জন্য কৃত্রিম পরিবর্তন থাকবে?",
+          "content_markdown": "- a) তুরণ\n- b) বেগ\n- c) জড়িত\n- d) বল",
+          "structured_data": {},
+          "id": "4bbdfe09-5a9c-56b1-89f8-6b9244df2e2d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "কৌণিটি অন্তরক্ষিপশিল বল?",
+          "content_markdown": "(সি.বো. ১৬; সি.বো. ১৫)\n- a) সান্দ্র বল\n- b) স্পিং বল\n- c) অতিক্ষিপ বল\n- d) হ্রিষ্ঠিপাক বল",
+          "structured_data": {},
+          "id": "d4de3871-3697-53c0-a374-d5a9819fb71d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "পিছিল বরফের 0.9 kg জন্যের পাথর 2 ms${^{-1}}$ বেগে 10 s পর ঘর্ষণের ফলে থেমে গেলো। এখানে ঘর্ষণ বল কত?",
+          "content_markdown": "- a) 20 N\n- b) 2 N\n- c) 0.2 N\n- d) কোনোটিই নয়",
+          "structured_data": {},
+          "id": "1792a1e7-cfb8-51f6-9233-ed04abc7104d"
+        },
+        {
+          "block_type": "concept_prose",
+          "title": "একটি চাকার জড়িত আয়ত 2 kg ${\\text{m}^{2}}$. চাকাটি মিনিটে 30 বার ঘূর্ণে। এর কৌণিক ভরবেগ কত?",
+          "content_markdown": "- a) π\n- b) 2π\n- c) 3π\n- d) 4π",
+          "structured_data": {},
+          "id": "c31ed0e6-b5ae-5f9f-a185-e2eaf6ca8776"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 29,
+        "figure_count": 0,
+        "vlm_endpoint": "local_rtx4060",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 158.23,
+        "eval_count": 2911
+      }
+    },
+    {
+      "page_number": 8,
+      "printed_page_number": null,
+      "page_header": null,
+      "section_hierarchy": [],
+      "extraction_mode": "vision",
+      "image_dimensions": {
+        "width": 1096,
+        "height": 1550
+      },
+      "raw_markdown": "### পদার্থবিজ্ঞান 1ম পত্র\n\n#### চক্রগতির ব্যাখ্যা\n\n150. r ব্যাসার্ধের পাতলা বৃত্তাকার চাকচির কেন্দ্রগুলি শূষ্ক আঁকের সাপেক্ষে চক্রগতির ব্যাসার্ধ কোণটি?\na) $K = \\frac{l}{\\sqrt{3}}$\nb) $K = \\frac{l}{\\sqrt{2}}$\n\n151. যদি অবধান ভেইর ত ডাইভে $\\vec{\\tau}$ এবং প্রযুক্ত বল F হয়, তবে কৌশিক ভরবে L ও টর্ক τ -এর রাশি $(L,\\tau)$ অনুযায়ী-\na) $(\\vec{r} \\times \\vec{F}, \\vec{r} \\times \\vec{p})$\nb) $(\\vec{r} \\times p , \\vec{r} \\times \\vec{F})$\n\n152. নিচের কৌনটি গ্রহক হলে কৌনটি কোণার উপর প্রযুক্ত টর্ক শূন্য হবে?\na) বল\nb) বলের ঘাত\nc) রৈখিক ভরবেগ\nd) কৌণিক ভরবেগ\n\n153. নিচের কৌন সম্পর্কিত সত্যিক? [র. বো-2017]\na) $\\vec{L}=\\vec{r}\\times\\vec{F}$\nb) $\\vec{L}=\\vec{F}\\times\\vec{r}$\nc) $\\vec{L}=\\vec{r}\\times\\vec{P}$\nd) $\\vec{L}=\\vec{P}\\times\\vec{r}$\n\n154. ব্যাসার্ধ ভেইর ও প্রযুক্ত বলের ভেইরের গুণকে বলে -\na) জড়তার আমক\nb) টর্ক\nc) কৌণিক ভরবেগ\nd) চক্রগতির ব্যাসার্ধ\n\n155. টর্কের মাত্রা কোণটি?\na) MLT^{-2}\nb) ML^{2} T^{-2}\nc) ML^{-1} T^{-3}\nd) ML T^{-1}\n\n156. টর্ক একটি কী রাশি?\na) ফ্রেলার\nb) অধিক\nc) গৌলিক\nd) ডেব্রার\n\n157. একটি চাকার জড়তার ভ্রামক 10kgm^2। চাকাটিতে 10rad.s^{-2} কৌণিক তুরণ সৃষ্টি করতে কত টর্ক প্রয়োজন করতে হবে? [দ. বো-15]\na) 10Nm\nb) 100Nm\nc) 150Nm\nd) 200Nm\n\n158. টর্ক τ জড়তার ভ্রামক I ও কৌণিক তুরণ α- এর মধ্যে সম্পর্ক হলো- [দ. বো-2022; Admission Test: JKKNIU 2018-19; RU 2014-15]\na) τ = I²α\nb) τ = √Iα\nc) τ = $\\frac{I}{α}$\nd) τ = Iα²\n\n159. কৌণিক সমাত্রাল অন্ত্য উপাদান?\na) L = Ix + Iy\nb) L = IG + MK\nc) I = IG + Mh²\nd) I = IG + MK²\n\n160. r ব্যাসার্ধের পাতলা বৃত্তাকার চাকচির কেন্দ্রগুলি শূষ্ক আঁকের সাপেক্ষে চক্রগতির ব্যাসার্ধ কোণটি?\na) K = $\\frac{l}{\\sqrt{12}}$\nb) K = $\\frac{l}{\\sqrt{3}}$\nc) K = $\\frac{l}{\\sqrt{2}}$\nd) K = $\\frac{r}{\\sqrt{12}}$\n\n161. r ব্যাসার্ধের পাতলা বৃত্তাকার চাকচির যে কৌনটি ব্যাসের সাপেক্ষে চক্রগতির ব্যাসার্ধ কোণটি?\na) K = $\\frac{r}{\\sqrt{2}}$\nb) K = $\\frac{r}{2}$\nc) K = $\\sqrt{\\frac{3}{2}} r$\nd) K = $\\frac{r}{\\sqrt{3}}$\n\n162. 20cm ব্যাসার্ধিত একটি অনুভূমিক বৃত্তাকার পথে একটি বস্তু ঘুরছে। বস্তুটি কৌণিক বেগ 10rads^{-1}। বৃত্তাকার পথের কৌন বিন্দুতে বস্তুটি রৈখিক বেগ কত?\na) $\\sqrt{2}$ms^{-1}\nb) 2ms^{-1}\nc) 10 ms^{-1}\nd) 20 ms^{-1}\n\n163. 1rps = ?\na) π/2 rad.s^{-1}\nb) πrad.s^{-1}\nc) 2πrad.s^{-1}\nd) 4πrad.s^{-1}\n\n164. একটি সুতায় 10kg ভরের একটি বস্তু সংযুক্ত করে এটিকে বৃত্তাকার পথে ঘোরানো হচ্ছে। বস্তুটির রৈখিক বেগ 5ms^{-1}। সুতার 125N বলের ক্রিয়া অনুভব করে। বৃত্তাকার পথের ব্যাসার্ধ কত?\na) 1m\nb) 2m\nc) 4m\nd) 6m\n\n165. একটি চাকার ভর 10kg এবং চক্রগতির ব্যাসার্ধ 0.5m। এর জড়তার ভ্রামক কত? [দ. বো-15]\na) 2.5kgm\nb) 2.5kmg²\nc) 5kgm\nd) 5kmg²\n\n166. একটি ঘড়ির সেকেন্ডের কাঁটা এবং মিনিটের কাঁটার কৌণিক দ্রুতির অনুপাত নিচের কোনটি?\na) 1 : 1\nb) 1 : 6\nc) 60 : 1\nd) 1 : 60\n\n167. একটি ছুঁটির ব্যাসার্ধ 0.25m। যখন এটি প্রতি মিনিটে 15 টি ঘূর্ণন সম্পন্ন করে তখন ছুঁটির পরিধি বিন্দুতে রৈখিক বেগ কত হবে?\na) π/2 ms^{-1}\nb) π/4 ms^{-1}\nc) π/4 ms^{-1}\nd) πms^{-1}\n\n168. 50m ব্যাসার্ধের বাঁকার বাঁকে 9.8 ms^{-1} বেগে সাইকেল চালানো সময় আরওহীর নতি কোণ হবে-\n[দ. বো-15]\na) 1.1°\nb) 11°\nc) 88°\nd) 89°\n\n169. ঘর্ষণ বল ও বস্তুর বেগের মধ্যকার কোণ কত? [দ. বো-17]\na) π\nb) π/2\nc) π/4\nd) 0°",
+      "blocks": [
+        {
+          "block_type": "mcq_item",
+          "title": "Q150",
+          "content_markdown": "r ব্যাসার্ধের পাতলা বৃত্তাকার চাকচির কেন্দ্রগুলি শূষ্ক আঁকের সাপেক্ষে চক্রগতির ব্যাসার্ধ কোণটি?",
+          "structured_data": {
+            "question_number": "150",
+            "subtype": "mcq_item",
+            "stem": "r ব্যাসার্ধের পাতলা বৃত্তাকার চাকচির কেন্দ্রগুলি শূষ্ক আঁকের সাপেক্ষে চক্রগতির ব্যাসার্ধ কোণটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$K = \\frac{l}{\\sqrt{3}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$K = \\frac{l}{\\sqrt{2}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "9e5598e0-d2e5-5933-bec5-bfd64ac1542b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q151",
+          "content_markdown": "যদি অবধান ভেইর ত ডাইভে $\\vec{\\tau}$ এবং প্রযুক্ত বল F হয়, তবে কৌশিক ভরবে L ও টর্ক τ -এর রাশি $(L,\\tau)$ অনুযায়ী-",
+          "structured_data": {
+            "question_number": "151",
+            "subtype": "mcq_item",
+            "stem": "যদি অবধান ভেইর ত ডাইভে $\\vec{\\tau}$ এবং প্রযুক্ত বল F হয়, তবে কৌশিক ভরবে L ও টর্ক τ -এর রাশি $(L,\\tau)$ অনুযায়ী-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$(\\vec{r} \\times \\vec{F}, \\vec{r} \\times \\vec{p})$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$(\\vec{r} \\times p , \\vec{r} \\times \\vec{F})$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "48bd9df1-84f9-5f12-bcad-e9cf3f244579"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q152",
+          "content_markdown": "নিচের কৌনটি গ্রহক হলে কৌনটি কোণার উপর প্রযুক্ত টর্ক শূন্য হবে?",
+          "structured_data": {
+            "question_number": "152",
+            "subtype": "mcq_item",
+            "stem": "নিচের কৌনটি গ্রহক হলে কৌনটি কোণার উপর প্রযুক্ত টর্ক শূন্য হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "বল",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "বলের ঘাত",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "রৈখিক ভরবেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "কৌণিক ভরবেগ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "d8103d3d-f3cb-5cda-a465-d780816330d0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q153",
+          "content_markdown": "নিচের কৌন সম্পর্কিত সত্যিক?",
+          "structured_data": {
+            "question_number": "153",
+            "subtype": "mcq_item",
+            "stem": "নিচের কৌন সম্পর্কিত সত্যিক?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\vec{L}=\\vec{r}\\times\\vec{F}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "$\\vec{L}=\\vec{F}\\times\\vec{r}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "$\\vec{L}=\\vec{r}\\times\\vec{P}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "$\\vec{L}=\\vec{P}\\times\\vec{r}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "র. বো-2017",
+            "provenance": [
+              "র. বো-2017"
+            ]
+          },
+          "id": "cc557a01-1cd7-5c95-aebb-899497624ca0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q154",
+          "content_markdown": "ব্যাসার্ধ ভেইর ও প্রযুক্ত বলের ভেইরের গুণকে বলে -",
+          "structured_data": {
+            "question_number": "154",
+            "subtype": "mcq_item",
+            "stem": "ব্যাসার্ধ ভেইর ও প্রযুক্ত বলের ভেইরের গুণকে বলে -",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "জড়তার আমক",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "টর্ক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "কৌণিক ভরবেগ",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "চক্রগতির ব্যাসার্ধ",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "08d5ffaf-6989-5077-a11a-280be598b917"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q155",
+          "content_markdown": "টর্কের মাত্রা কোণটি?",
+          "structured_data": {
+            "question_number": "155",
+            "subtype": "mcq_item",
+            "stem": "টর্কের মাত্রা কোণটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "MLT^{-2}",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "ML^{2} T^{-2}",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "ML^{-1} T^{-3}",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ML T^{-1}",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "235982eb-c522-5459-bce8-958a062e5694"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q156",
+          "content_markdown": "টর্ক একটি কী রাশি?",
+          "structured_data": {
+            "question_number": "156",
+            "subtype": "mcq_item",
+            "stem": "টর্ক একটি কী রাশি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "ফ্রেলার",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "অধিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "গৌলিক",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "ডেব্রার",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "2ae7bcdd-678e-560b-a7cc-9bad1e6d09f2"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q157",
+          "content_markdown": "একটি চাকার জড়তার ভ্রামক 10kgm^2। চাকাটিতে 10rad.s^{-2} কৌণিক তুরণ সৃষ্টি করতে কত টর্ক প্রয়োজন করতে হবে?",
+          "structured_data": {
+            "question_number": "157",
+            "subtype": "mcq_item",
+            "stem": "একটি চাকার জড়তার ভ্রামক 10kgm^2। চাকাটিতে 10rad.s^{-2} কৌণিক তুরণ সৃষ্টি করতে কত টর্ক প্রয়োজন করতে হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "10Nm",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "100Nm",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "150Nm",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "200Nm",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "দ. বো-15",
+            "provenance": [
+              "দ. বো-15"
+            ]
+          },
+          "id": "2a4b591a-0ef1-56dc-8b8e-ac81ca040ce9"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q158",
+          "content_markdown": "টর্ক τ জড়তার ভ্রামক I ও কৌণিক তুরণ α- এর মধ্যে সম্পর্ক হলো-",
+          "structured_data": {
+            "question_number": "158",
+            "subtype": "mcq_item",
+            "stem": "টর্ক τ জড়তার ভ্রামক I ও কৌণিক তুরণ α- এর মধ্যে সম্পর্ক হলো-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "τ = I²α",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "τ = √Iα",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "τ = $\\frac{I}{α}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "τ = Iα²",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "দ. বো-2022; Admission Test: JKKNIU 2018-19; RU 2014-15",
+            "provenance": [
+              "JKKNIU 2018-19",
+              "RU 2014-15"
+            ]
+          },
+          "id": "ef2cb5a9-1a44-573c-8f34-44ccf6e7736b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q159",
+          "content_markdown": "কৌণিক সমাত্রাল অন্ত্য উপাদান?",
+          "structured_data": {
+            "question_number": "159",
+            "subtype": "mcq_item",
+            "stem": "কৌণিক সমাত্রাল অন্ত্য উপাদান?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "L = Ix + Iy",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "L = IG + MK",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "I = IG + Mh²",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "I = IG + MK²",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "bbbff807-271f-5462-b200-f58afcc35e9b"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q160",
+          "content_markdown": "r ব্যাসার্ধের পাতলা বৃত্তাকার চাকচির কেন্দ্রগুলি শূষ্ক আঁকের সাপেক্ষে চক্রগতির ব্যাসার্ধ কোণটি?",
+          "structured_data": {
+            "question_number": "160",
+            "subtype": "mcq_item",
+            "stem": "r ব্যাসার্ধের পাতলা বৃত্তাকার চাকচির কেন্দ্রগুলি শূষ্ক আঁকের সাপেক্ষে চক্রগতির ব্যাসার্ধ কোণটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "K = $\\frac{l}{\\sqrt{12}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "K = $\\frac{l}{\\sqrt{3}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "K = $\\frac{l}{\\sqrt{2}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "K = $\\frac{r}{\\sqrt{12}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "11fffee0-8f2e-5e03-b2a5-a39f8ff7d0c0"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q161",
+          "content_markdown": "r ব্যাসার্ধের পাতলা বৃত্তাকার চাকচির যে কৌনটি ব্যাসের সাপেক্ষে চক্রগতির ব্যাসার্ধ কোণটি?",
+          "structured_data": {
+            "question_number": "161",
+            "subtype": "mcq_item",
+            "stem": "r ব্যাসার্ধের পাতলা বৃত্তাকার চাকচির যে কৌনটি ব্যাসের সাপেক্ষে চক্রগতির ব্যাসার্ধ কোণটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "K = $\\frac{r}{\\sqrt{2}}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "K = $\\frac{r}{2}$",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "K = $\\sqrt{\\frac{3}{2}} r$",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "K = $\\frac{r}{\\sqrt{3}}$",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "131eb365-5d05-5f8a-a2f8-8aa206518e7d"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q162",
+          "content_markdown": "20cm ব্যাসার্ধিত একটি অনুভূমিক বৃত্তাকার পথে একটি বস্তু ঘুরছে। বস্তুটি কৌণিক বেগ 10rads^{-1}। বৃত্তাকার পথের কৌন বিন্দুতে বস্তুটি রৈখিক বেগ কত?",
+          "structured_data": {
+            "question_number": "162",
+            "subtype": "mcq_item",
+            "stem": "20cm ব্যাসার্ধিত একটি অনুভূমিক বৃত্তাকার পথে একটি বস্তু ঘুরছে। বস্তুটি কৌণিক বেগ 10rads^{-1}। বৃত্তাকার পথের কৌন বিন্দুতে বস্তুটি রৈখিক বেগ কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "$\\sqrt{2}$ms^{-1}",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2ms^{-1}",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "10 ms^{-1}",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "20 ms^{-1}",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "5709191e-8994-5daa-a299-f063f9132376"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q163",
+          "content_markdown": "1rps = ?",
+          "structured_data": {
+            "question_number": "163",
+            "subtype": "mcq_item",
+            "stem": "1rps = ?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "π/2 rad.s^{-1}",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "πrad.s^{-1}",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "2πrad.s^{-1}",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "4πrad.s^{-1}",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "e899daa7-c333-575b-b36f-79893f2c18fc"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q164",
+          "content_markdown": "একটি সুতায় 10kg ভরের একটি বস্তু সংযুক্ত করে এটিকে বৃত্তাকার পথে ঘোরানো হচ্ছে। বস্তুটির রৈখিক বেগ 5ms^{-1}। সুতার 125N বলের ক্রিয়া অনুভব করে। বৃত্তাকার পথের ব্যাসার্ধ কত?",
+          "structured_data": {
+            "question_number": "164",
+            "subtype": "mcq_item",
+            "stem": "একটি সুতায় 10kg ভরের একটি বস্তু সংযুক্ত করে এটিকে বৃত্তাকার পথে ঘোরানো হচ্ছে। বস্তুটির রৈখিক বেগ 5ms^{-1}। সুতার 125N বলের ক্রিয়া অনুভব করে। বৃত্তাকার পথের ব্যাসার্ধ কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1m",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2m",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "4m",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "6m",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "7f36381d-adf7-5ba2-a74d-37a1377438c8"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q165",
+          "content_markdown": "একটি চাকার ভর 10kg এবং চক্রগতির ব্যাসার্ধ 0.5m। এর জড়তার ভ্রামক কত?",
+          "structured_data": {
+            "question_number": "165",
+            "subtype": "mcq_item",
+            "stem": "একটি চাকার ভর 10kg এবং চক্রগতির ব্যাসার্ধ 0.5m। এর জড়তার ভ্রামক কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "2.5kgm",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "2.5kmg²",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "5kgm",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "5kmg²",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "দ. বো-15",
+            "provenance": [
+              "দ. বো-15"
+            ]
+          },
+          "id": "0a4100e0-32d2-5d03-923c-6fbb6d0a73a7"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q166",
+          "content_markdown": "একটি ঘড়ির সেকেন্ডের কাঁটা এবং মিনিটের কাঁটার কৌণিক দ্রুতির অনুপাত নিচের কোনটি?",
+          "structured_data": {
+            "question_number": "166",
+            "subtype": "mcq_item",
+            "stem": "একটি ঘড়ির সেকেন্ডের কাঁটা এবং মিনিটের কাঁটার কৌণিক দ্রুতির অনুপাত নিচের কোনটি?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1 : 1",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "1 : 6",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "60 : 1",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "1 : 60",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "f89c0b79-4319-5e33-9d99-071f26f056e4"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q167",
+          "content_markdown": "একটি ছুঁটির ব্যাসার্ধ 0.25m। যখন এটি প্রতি মিনিটে 15 টি ঘূর্ণন সম্পন্ন করে তখন ছুঁটির পরিধি বিন্দুতে রৈখিক বেগ কত হবে?",
+          "structured_data": {
+            "question_number": "167",
+            "subtype": "mcq_item",
+            "stem": "একটি ছুঁটির ব্যাসার্ধ 0.25m। যখন এটি প্রতি মিনিটে 15 টি ঘূর্ণন সম্পন্ন করে তখন ছুঁটির পরিধি বিন্দুতে রৈখিক বেগ কত হবে?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "π/2 ms^{-1}",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "π/4 ms^{-1}",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "π/4 ms^{-1}",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "πms^{-1}",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": null,
+            "provenance": []
+          },
+          "id": "127efb57-a458-5ff5-abc9-c644c2ccc591"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q168",
+          "content_markdown": "50m ব্যাসার্ধের বাঁকার বাঁকে 9.8 ms^{-1} বেগে সাইকেল চালানো সময় আরওহীর নতি কোণ হবে-",
+          "structured_data": {
+            "question_number": "168",
+            "subtype": "mcq_item",
+            "stem": "50m ব্যাসার্ধের বাঁকার বাঁকে 9.8 ms^{-1} বেগে সাইকেল চালানো সময় আরওহীর নতি কোণ হবে-",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "1.1°",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "11°",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "88°",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "89°",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "দ. বো-15",
+            "provenance": [
+              "দ. বো-15"
+            ]
+          },
+          "id": "9a6f165d-814e-593c-a6ea-e40d79e9b1be"
+        },
+        {
+          "block_type": "mcq_item",
+          "title": "Q169",
+          "content_markdown": "ঘর্ষণ বল ও বস্তুর বেগের মধ্যকার কোণ কত?",
+          "structured_data": {
+            "question_number": "169",
+            "subtype": "mcq_item",
+            "stem": "ঘর্ষণ বল ও বস্তুর বেগের মধ্যকার কোণ কত?",
+            "options": [
+              {
+                "key_original": "a",
+                "text": "π",
+                "is_correct": false
+              },
+              {
+                "key_original": "b",
+                "text": "π/2",
+                "is_correct": false
+              },
+              {
+                "key_original": "c",
+                "text": "π/4",
+                "is_correct": false
+              },
+              {
+                "key_original": "d",
+                "text": "0°",
+                "is_correct": false
+              }
+            ],
+            "correct_answer": null,
+            "solution_markdown": null,
+            "tags_raw": "দ. বো-17",
+            "provenance": [
+              "দ. বো-17"
+            ]
+          },
+          "id": "5ba45a07-4f0f-554c-afba-ba3c1b2d567b"
+        }
+      ],
+      "quality_flags": {
+        "math_delimiter_warnings": 0,
+        "block_count": 20,
+        "figure_count": 0,
+        "vlm_endpoint": "benchly_labpc5",
+        "vlm_model": "qwen2.5vl:7b",
+        "elapsed_sec": 72.15,
+        "eval_count": 2569
+      }
+    }
+  ]
+}
